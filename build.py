@@ -99,6 +99,8 @@ a:hover,a:focus{text-decoration:underline}
 .latest-mobile li .time{display:block;font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:#7a1f1f}
 .latest-mobile li a.h{font-size:16px;line-height:1.25;font-weight:700}
 .latest-mobile li .s{display:block;font-size:12px;color:#555;font-style:italic}
+.rail .saved{margin-bottom:22px}
+.rail .saved .empty{margin:4px 0 0}
 .rail .about{margin-top:22px;font-size:13px;color:#444;border-top:1px solid #1a1a1a;padding-top:10px}
 .archive{margin-top:34px;border-top:3px double #1a1a1a;padding-top:6px}
 .archive>h2{font-family:Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;margin:4px 0 12px}
@@ -216,7 +218,18 @@ def build(data, now):
         out.append('</div></section>')
     out.append('</main>')
 
-    out.append('<aside class="rail"><div class="latest-full"><h2>Latest</h2>' + latest_list(n_latest) + '</div><div class="about"><strong>About this page.</strong> Every item is taken from the morning '
+    saved = sorted([it for it in items if it.get("saved")], key=lambda it: (it.get("saved_on") or it["date"]), reverse=True)
+    sv = ['<div class="saved"><h2>Saved stories</h2>']
+    if not saved:
+        sv.append('<p class="empty">No saved stories yet.</p>')
+    else:
+        sv.append('<ol>')
+        for it in saved:
+            sv.append(f'<li><a class="h" href="{e(it["url"])}" rel="noopener" target="_blank">{e(it["headline"])}</a>'
+                      f'<span class="s">{e(it["source"])} · {e(long_date(it["date"]))}</span></li>')
+        sv.append('</ol>')
+    sv.append('</div>')
+    out.append('<aside class="rail">' + "".join(sv) + '<div class="latest-full"><h2>Latest</h2>' + latest_list(n_latest) + '</div><div class="about"><strong>About this page.</strong> Every item is taken from the morning '
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 

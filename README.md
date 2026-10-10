@@ -9,6 +9,7 @@ Files
 ## How the page is assembled
 - **Front page** = only the newest `edition` in items.json (today's letter). Sections with no items in that edition are hidden.
 - **Highlights from previous editions** = a one-line list (headline linked to source, outlet, edition date) of up to `highlight_count` (default 8) earlier stories marked `"highlight": true`, newest edition first. If an earlier edition has none marked, its lead plus one more item (PA section preferred) are used.
+- **Saved stories** = every item with `"saved": true` (optional `"saved_on": "YYYY-MM-DD"`, used for ordering, newest first), shown permanently at the top of the side column (above Latest on phones' stacked layout). Saved items never age out; they still also appear in their own edition or the archive. With none saved it shows "No saved stories yet."
 - **Archive** = every earlier edition, grouped by day, all folded, so nothing is lost. No story is shown twice on the visible page.
 - **Lead story** = the newest front-page item with `"lead": true`. If there is none, the newest item in the `pa` section is used. Set `lead` on one item per day and remove it from the previous day's item, or leave it there; the newest one always wins.
 - **Latest** column = the `latest_count` newest items of the current edition by `published` time (5 on phones).
@@ -24,6 +25,7 @@ Files
   "letter": "PA security: 10 Oct 2026",    // the subject of the source letter (not shown)
   "section": "pa",
   "lead": true,                            // optional
+  "saved": true, "saved_on": "2026-10-10",  // optional: keep permanently in Saved stories
   "highlight": true,                       // optional: list it in Highlights once it is no longer the current edition
   "headline": "...",
   "summary": "Two or three plain sentences.",
