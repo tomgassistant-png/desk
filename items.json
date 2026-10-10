@@ -1,7 +1,6 @@
 {
   "title": "Judea & Samaria Desk",
   "subtitle": "The Palestinian Authority, security, settlement and land in Judea and Samaria",
-  "front_page_editions": 3,
   "latest_count": 8,
   "items": [
     {
@@ -15,7 +14,8 @@
       "url": "https://www.inn.co.il/news/708088",
       "edition": "2026-10-09",
       "published": "2026-10-09T08:00:00+03:00",
-      "letter": "PA security: 9 Oct 2026"
+      "letter": "PA security: 9 Oct 2026",
+      "highlight": true
     },
     {
       "id": "2026-10-09-pa-harvest-security-men",
@@ -75,7 +75,8 @@
       "summary": "According to figures from Peace Now cited by +972 Magazine, the government has approved 17 settlements in the Jenin district since the start of 2025, among them four evacuated in 2005; Ganim and Kadim have now been re-established, and Defence Minister Katz spoke at the ceremony for Ganim on 13 August. The army has set up six new camps across the district, one of them inside the city of Jenin, and another is planned. In July the commander of Central Command, Major General Avi Bluth, signed at least 15 orders taking about 200 dunams in Areas A and C for a road between the new settlements of Emek Dotan and Noa; Peace Now says this is the first use of such orders in Area A for the needs of settlement since the Oslo Accords.",
       "source": "+972 Magazine (citing Peace Now)",
       "date": "2026-10-05",
-      "url": "https://www.972mag.com/israel-settlements-military-bases-jenin/"
+      "url": "https://www.972mag.com/israel-settlements-military-bases-jenin/",
+      "highlight": true
     },
     {
       "id": "2026-10-08-katz-gaza-lebanon",
@@ -88,7 +89,8 @@
       "summary": "Defence Minister Israel Katz said this week that the IDF is preparing as never before for a “turning of the barrels”, in which the forces of the Palestinian Authority would turn their weapons on Israelis. “If anyone dares to turn weapons against us, what we did in Gaza and Lebanon will come to Judea and Samaria,” he said, adding that Israel would answer with an all-out campaign. Dr. Edy Cohen told Channel 14 that the threat is “not science fiction”, recalled that such forces turned on their hosts in Jordan, Lebanon and Kuwait, and criticised the security cabinet for not yet deciding on Minister Ben Gvir’s call to dismantle the Authority.",
       "source": "Channel 14",
       "date": "2026-10-08",
-      "url": "https://www.now14.co.il/article/1728958"
+      "url": "https://www.now14.co.il/article/1728958",
+      "highlight": true
     },
     {
       "id": "2026-10-08-yitzhar-fawwar",
@@ -148,7 +150,8 @@
       "summary": "On 7 October Arabs from Ramin and Burqa attacked a shepherd of about twenty from the Brit Avraham farm near the old railway station at Sebastia; a stone or concrete block struck his head, and he now has a severe head injury, and four others who came to help were lightly hurt. The IDF said that a commander shot a man running at him with a suspicious object. Arab channels named the dead man as Ali Hussein of Bazariya, an officer of the Palestinian Authority security forces, whom Elchanan Groner described as a soldier of the National Security Forces.",
       "source": "Elisha Yered (Telegram)",
       "date": "2026-10-07",
-      "url": "https://t.me/elisha_yered/9297"
+      "url": "https://t.me/elisha_yered/9297",
+      "highlight": true
     },
     {
       "id": "2026-10-07s-shepherds-burqa",
@@ -220,7 +223,8 @@
       "summary": "Defence Minister Israel Katz told the cabinet that, beyond an attempt by terror groups to repeat 7 October, the security establishment is preparing for a complete reversal by the Palestinian Authority’s forces and the Tanzim militias. He said that this would mean an all-out war against the Authority, not another wave of terror. An operational plan approved by Prime Minister Netanyahu and Mr. Katz provides for a short and intense campaign with air and ground fire, the targeting of senior figures, the destruction of weapons caches and the large-scale evacuation of Arab residents from combat zones.",
       "source": "Channel 14",
       "date": "2026-10-06",
-      "url": "https://www.c14news.com/article/1508770"
+      "url": "https://www.c14news.com/article/1508770",
+      "highlight": true
     },
     {
       "id": "2026-10-07-allon-poisoning",
@@ -244,7 +248,8 @@
       "summary": "David Zini, head of the Shin Bet, told the security cabinet of “very worrying” organisation in the unrecognised Bedouin settlements of the Negev, including infrastructure of a military character. He said that attempts have been identified to set up frameworks resembling military battalions. He also warned of ties between residents and terror organisations, Hamas among them.",
       "source": "Arutz 7",
       "date": "2026-10-07",
-      "url": "https://www.inn.co.il/news/707898"
+      "url": "https://www.inn.co.il/news/707898",
+      "highlight": true
     },
     {
       "id": "2026-10-07-fortress",
@@ -412,7 +417,8 @@
       "summary": "The defence establishment was to present to the security cabinet the plans of Central Command for a scenario in which the weapons of the Palestinian Authority security services are turned against IDF forces or Israeli communities. On 7 September Defence Minister Katz said that he and the Prime Minister had instructed the IDF to prepare for a full war against the Authority’s senior figures and security services if they opened an attack of the 7 October type.",
       "source": "Channel 14",
       "date": "2026-10-04",
-      "url": "https://www.c14.co.il/article/1723529"
+      "url": "https://www.c14.co.il/article/1723529",
+      "highlight": true
     },
     {
       "id": "2026-10-05-border-police-prep",
@@ -715,5 +721,6 @@
       "published": "2026-10-10T07:57:00+03:00",
       "letter": "PA security: 10 Oct 2026"
     }
-  ]
+  ],
+  "highlight_count": 8
 }

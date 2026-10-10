@@ -109,6 +109,13 @@ a:hover,a:focus{text-decoration:underline}
 .archive .day .story h3{font-size:16.5px}
 .archive .day .story .summary{font-size:14px}
 .archive .day .story .sec{font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:1.4px;text-transform:uppercase;color:#7a1f1f;margin:0 0 3px}
+.highlights{margin-top:16px;border-top:3px solid #1a1a1a;border-bottom:1px solid #1a1a1a;padding:6px 0 8px}
+.highlights h2{font-family:Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;margin:0 0 6px}
+.highlights ul{margin:0;padding:0;list-style:none}
+.highlights li{padding:5px 0;border-bottom:1px dotted #9d968a;font-size:16px;line-height:1.3}
+.highlights li a{font-weight:700}
+.highlights .d{font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#555;white-space:nowrap}
+.highlights .note{font-size:12px;font-style:italic;color:#555;margin:6px 0 0}
 footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12px;color:#555;text-align:center;font-style:italic}
 @media (max-width:980px){
  .layout{grid-template-columns:1fr}
@@ -134,7 +141,8 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
 def build(data, now):
     items = data["items"]
     validate(items)
-    n_front = int(data.get("front_page_editions", 3))
+    n_front = 1
+    n_hl = int(data.get("highlight_count", 8))
     n_latest = int(data.get("latest_count", 8))
     order = {it["id"]: i for i, it in enumerate(items)}
     editions = sorted({it["edition"] for it in items}, reverse=True)
@@ -147,7 +155,7 @@ def build(data, now):
 
     def latest_list(n):
         parts = ['<ol>']
-        for it in by_new(items)[:n]:
+        for it in by_new(front)[:n]:
             t = pub(it)
             parts.append(f'<li><span class="time">{t.day} {t:%b} · {t:%H:%M}</span>'
                          f'<a class="h" href="#{e(it["id"])}">{e(it["headline"])}</a>'
@@ -165,7 +173,7 @@ def build(data, now):
     out.append(f'<div class="topline"><span>Compiled from the daily PA security letters</span>'
                f'<span>Updated {now:%H:%M} Israel time</span></div>')
     out.append(f'<header class="masthead"><h1>{e(title)}</h1><p class="sub">{e(sub)}</p></header>')
-    span = f'{long_date(editions[min(n_front, len(editions))-1])} – {long_date(editions[0])}' if editions else ''
+    span = long_date(editions[0]) if editions else ''
     out.append(f'<div class="dateline"><span>{e(weekday_date(now.date()))}</span>'
                f'<span>Jerusalem</span><span>This edition: {e(span)}</span></div>')
 
@@ -174,17 +182,34 @@ def build(data, now):
                f'<h2><a href="{e(lead["url"])}" rel="noopener" target="_blank">{e(lead["headline"])}</a></h2>'
                f'<p class="summary">{e(lead["summary"])}</p>{meta(lead, "Read the source")}</section>')
 
+    older = [d for d in editions if d not in front_ed]
+    marked, fallback = [], []
+    for d in older:
+        day = [it for it in by_new(items) if it["edition"] == d]
+        m = [it for it in day if it.get("highlight")]
+        marked += m
+        if not m:
+            fallback += sorted(day, key=lambda it: (not it.get("lead"), it["section"] != "pa"))[:2]
+    keep = {it["id"] for it in (marked + fallback)[:n_hl]}  # marked stories take priority
+    hl = [it for it in by_new(items) if it["id"] in keep]
+    hl.sort(key=lambda it: it["edition"], reverse=True)
+    if hl:
+        out.append('<section class="highlights"><h2>Highlights from previous editions</h2><ul>')
+        for it in hl:
+            out.append(f'<li><a href="{e(it["url"])}" rel="noopener" target="_blank">{e(it["headline"])}</a>'
+                       f' <span class="d">{e(it["source"])} · {e(long_date(it["edition"]))} edition</span></li>')
+        out.append('</ul><p class="note">Full stories are in the archive below.</p></section>')
+
     out.append('<div class="latest-mobile"><h2>Latest</h2>' + latest_list(5) + '</div>')
 
     for key, name in SECTIONS.items():
         sec = [it for it in by_new(front) if it["section"] == key and it is not lead]
+        if not sec:
+            continue
         out.append(f'<section class="section" id="sec-{key}"><h2>{e(name)}</h2>')
         if key == "land":
             out.append('<p class="note">New and restored communities, approvals, land orders and roads, '
                        'including facts reported by critical outlets.</p>')
-        if not sec:
-            out.append('<p class="empty">No items in this edition.</p></section>')
-            continue
         out.append('<div class="cols">')
         for j, it in enumerate(sec):
             out.append(article(it, "story first" if j == 0 else "story"))
@@ -195,14 +220,13 @@ def build(data, now):
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 
-    older = [d for d in editions if d not in front_ed]
-    out.append('<section class="archive"><h2>Archive — earlier days</h2>')
+    out.append('<section class="archive"><h2>Archive — earlier editions</h2>')
     if not older:
         out.append('<p class="empty">No earlier days yet.</p>')
     for i, d in enumerate(older):
         day = [it for it in items if it["edition"] == d]
         day.sort(key=lambda it: (list(SECTIONS).index(it["section"]), order[it["id"]]))
-        out.append(f'<details{" open" if i == 0 else ""}><summary>{e(weekday_date(date.fromisoformat(d)))}'
+        out.append(f'<details><summary>{e(weekday_date(date.fromisoformat(d)))}'
                    f'<span class="n">{len(day)} items</span></summary><div class="day">')
         for it in day:
             out.append(f'<article class="story" id="{e(it["id"])}"><p class="sec">{e(SECTIONS[it["section"]])}</p>'
