@@ -111,7 +111,7 @@ a:hover,a:focus{text-decoration:underline}
 .archive .day .story h3{font-size:16.5px}
 .archive .day .story .summary{font-size:14px}
 .archive .day .story .sec{font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:1.4px;text-transform:uppercase;color:#7a1f1f;margin:0 0 3px}
-.highlights{margin-top:16px;border-top:3px solid #1a1a1a;border-bottom:1px solid #1a1a1a;padding:6px 0 8px}
+.highlights{margin-top:34px;border-top:3px solid #1a1a1a;border-bottom:1px solid #1a1a1a;padding:6px 0 8px}
 .highlights h2{font-family:Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;margin:0 0 6px}
 .highlights ul{margin:0;padding:0;list-style:none}
 .highlights li{padding:5px 0;border-bottom:1px dotted #9d968a;font-size:16px;line-height:1.3}
@@ -195,12 +195,13 @@ def build(data, now):
     keep = {it["id"] for it in (marked + fallback)[:n_hl]}  # marked stories take priority
     hl = [it for it in by_new(items) if it["id"] in keep]
     hl.sort(key=lambda it: it["edition"], reverse=True)
+    hl_html = []
     if hl:
-        out.append('<section class="highlights"><h2>Highlights from previous editions</h2><ul>')
+        hl_html.append('<section class="highlights"><h2>Highlights from previous editions</h2><ul>')
         for it in hl:
-            out.append(f'<li><a href="{e(it["url"])}" rel="noopener" target="_blank">{e(it["headline"])}</a>'
+            hl_html.append(f'<li><a href="{e(it["url"])}" rel="noopener" target="_blank">{e(it["headline"])}</a>'
                        f' <span class="d">{e(it["source"])} · {e(long_date(it["edition"]))} edition</span></li>')
-        out.append('</ul><p class="note">Full stories are in the archive below.</p></section>')
+        hl_html.append('</ul><p class="note">Full stories are in the archive below.</p></section>')
 
     out.append('<div class="latest-mobile"><h2>Latest</h2>' + latest_list(5) + '</div>')
 
@@ -233,6 +234,7 @@ def build(data, now):
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 
+    out.extend(hl_html)
     out.append('<section class="archive"><h2>Archive — earlier editions</h2>')
     if not older:
         out.append('<p class="empty">No earlier days yet.</p>')
