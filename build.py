@@ -159,7 +159,7 @@ def build(data, now):
     sub = data.get("subtitle", "")
     out = []
     out.append(f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
-               f'<meta name="viewport" content="width=device-width, initial-scale=1">'
+               f'<meta name="robots" content="noindex, nofollow, noarchive"><meta name="viewport" content="width=device-width, initial-scale=1">'
                f'<title>{e(title)} — {e(long_date(now.date()))}</title>'
                f'<meta name="description" content="{e(sub)}"><style>{CSS}</style></head><body><div class="page">')
     out.append(f'<div class="topline"><span>Compiled from the daily PA security letters</span>'
