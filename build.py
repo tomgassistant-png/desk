@@ -118,6 +118,13 @@ a:hover,a:focus{text-decoration:underline}
 .highlights li a{font-weight:700}
 .highlights .d{font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#555;white-space:nowrap}
 .highlights .note{font-size:12px;font-style:italic;color:#555;margin:6px 0 0}
+.search{max-width:560px;margin:10px auto 0;display:flex;gap:6px}
+.search input{flex:1;min-width:0;font:inherit;font-size:16px;padding:6px 9px;border:1px solid #1a1a1a;background:#fff;border-radius:0}
+.search button{font-family:Helvetica,Arial,sans-serif;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;padding:0 12px;border:1px solid #1a1a1a;background:#1a1a1a;color:#fbf9f4;cursor:pointer}
+.results{margin-top:18px}
+.results>h2{font-family:Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;margin:0 0 10px;padding:6px 0 5px;border-top:3px solid #1a1a1a;border-bottom:1px solid #1a1a1a}
+.results .story .sec{font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:1.4px;text-transform:uppercase;color:#7a1f1f;margin:0 0 3px}
+body.searching .layout,body.searching .highlights,body.searching .archive{display:none}
 footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12px;color:#555;text-align:center;font-style:italic}
 @media (max-width:980px){
  .layout{grid-template-columns:1fr}
@@ -139,6 +146,34 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
  .story .summary{text-align:left}
 }
 """
+
+JS = r"""
+(function(){
+var f=document.getElementById('search'),q=document.getElementById('q'),r=document.getElementById('results'),idx=null,pend=false;
+if(!f||!window.fetch)return; f.hidden=false;
+function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function load(){if(idx||pend)return;pend=true;fetch('search-index.json',{cache:'no-cache'}).then(function(x){return x.json()}).then(function(d){idx=d.items.map(function(it){it._t=[it.headline,it.summary,it.source,it.section_name,it.date,it.edition,it.date_long].join(' ').toLowerCase();return it});run()}).catch(function(){r.hidden=false;r.innerHTML='<h2>Search</h2><p class="empty">The search index could not be loaded.</p>'})}
+function run(){var v=q.value.trim().toLowerCase();
+ if(!v){document.body.classList.remove('searching');r.hidden=true;r.innerHTML='';return}
+ document.body.classList.add('searching');r.hidden=false;
+ if(!idx){r.innerHTML='<h2>Searching…</h2>';load();return}
+ var w=v.split(/\s+/),m=idx.filter(function(it){return w.every(function(x){return it._t.indexOf(x)>=0})});
+ var h='<h2>'+m.length+' result'+(m.length==1?'':'s')+' for “'+esc(q.value.trim())+'”</h2>';
+ if(!m.length)h+='<p class="empty">No stories match. Clear the box to return to the front page.</p>';
+ m.forEach(function(it){h+='<article class="story"><p class="sec">'+esc(it.section_name)+'</p><h3><a href="'+esc(it.url)+'" rel="noopener" target="_blank">'+esc(it.headline)+'</a></h3><p class="summary">'+esc(it.summary)+'</p><p class="meta"><span class="src">'+esc(it.source)+'</span> · '+esc(it.date_long)+' · '+esc(it.edition_long)+' edition</p></article>'});
+ r.innerHTML=h}
+q.addEventListener('focus',load);q.addEventListener('input',run);
+document.getElementById('qclear').addEventListener('click',function(){q.value='';run();q.focus()});
+q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()}});
+})();
+"""
+
+def search_index(data, now):
+    items = sorted(data["items"], key=lambda it: (it["date"], it["published"]), reverse=True)
+    keys = ["id", "edition", "date", "section", "headline", "summary", "source", "url"]
+    return {"built": now.isoformat(timespec="minutes"), "count": len(items),
+            "items": [dict({k: it[k] for k in keys}, section_name=SECTIONS[it["section"]],
+                           date_long=long_date(it["date"]), edition_long=long_date(it["edition"])) for it in items]}
 
 def build(data, now):
     items = data["items"]
@@ -174,11 +209,15 @@ def build(data, now):
                f'<meta name="description" content="{e(sub)}"><style>{CSS}</style></head><body><div class="page">')
     out.append(f'<div class="topline"><span>Compiled from the daily PA security letters</span>'
                f'<span>Updated {now:%H:%M} Israel time</span></div>')
-    out.append(f'<header class="masthead"><h1>{e(title)}</h1><p class="sub">{e(sub)}</p></header>')
+    out.append(f'<header class="masthead"><h1>{e(title)}</h1><p class="sub">{e(sub)}</p>'
+               '<form class="search" id="search" role="search" hidden onsubmit="return false">'
+               '<input type="search" id="q" placeholder="Search all editions" aria-label="Search all editions" autocomplete="off">'
+               '<button type="button" id="qclear">Clear</button></form></header>')
     span = long_date(editions[0]) if editions else ''
     out.append(f'<div class="dateline"><span>{e(weekday_date(now.date()))}</span>'
                f'<span>Jerusalem</span><span>This edition: {e(span)}</span></div>')
 
+    out.append('<section class="results" id="results" hidden aria-live="polite"></section>')
     out.append('<div class="layout"><main class="main">')
     out.append(f'<section class="lead" id="{e(lead["id"])}"><p class="kicker">{e(SECTIONS[lead["section"]])}</p>'
                f'<h2><a href="{e(lead["url"])}" rel="noopener" target="_blank">{e(lead["headline"])}</a></h2>'
@@ -250,7 +289,7 @@ def build(data, now):
         out.append('</div></details>')
     out.append('</section>')
     out.append(f'<footer>{e(title)} · {len(items)} items on file · built {now:%d %B %Y, %H:%M} Israel time</footer>')
-    out.append('</div></body></html>')
+    out.append('</div><script>' + JS + '</script></body></html>')
     return "\n".join(out)
 
 if __name__ == "__main__":
@@ -262,4 +301,8 @@ if __name__ == "__main__":
     now = datetime.fromisoformat(a.now).replace(tzinfo=TZ) if a.now else datetime.now(TZ)
     data = json.load(open(a.data, encoding="utf-8"))
     open(a.out, "w", encoding="utf-8").write(build(data, now))
+    import os
+    ip = os.path.join(os.path.dirname(os.path.abspath(a.out)), "search-index.json")
+    json.dump(search_index(data, now), open(ip, "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    print(f"wrote {ip}")
     print(f"wrote {a.out}: {len(data['items'])} items")

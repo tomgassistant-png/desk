@@ -3,7 +3,8 @@
 Files
 - `items.json`: all stories (the only file you edit day to day)
 - `build.py`: renders `items.json` into `index.html` (Python 3.9+, no extra packages)
-- `index.html`: self-contained page (inline CSS, no JavaScript, no external files)
+- `index.html`: self-contained page (inline CSS, a few lines of inline vanilla JavaScript for search, no external files)
+- `search-index.json`: written by `build.py` on every build; every item (headline, summary, source, section, dates, link), newest first. `publish.sh` copies it to the site, so the daily update refreshes it.
 - `preview-desktop.png`, `preview-mobile.png`: screenshots
 
 ## How the page is assembled
@@ -14,6 +15,9 @@ Files
 - **Lead story** = the newest front-page item with `"lead": true`. If there is none, the newest item in the `pa` section is used. Set `lead` on one item per day and remove it from the previous day's item, or leave it there; the newest one always wins.
 - **Latest** column = the `latest_count` newest items of the current edition by `published` time (5 on phones).
 - Sections (`section` key): `pa` Palestinian Authority forces and the threat · `attacks` Attacks and incidents · `land` Settlement and land · `idf` IDF and government decisions · `negev` Negev and Galilee.
+
+## Search
+A search box under the masthead searches every item in `search-index.json` (current and past editions), entirely in the browser: case-insensitive, all words must match (headline, summary, source, section, date). Results are newest first with a count; clearing the box (or Esc) restores the normal page. Without JavaScript the box is hidden and the page works as before. Search needs the page served over http(s) (e.g. `python3 -m http.server`), not file://.
 
 ## Adding a day
 1. For each story in the day's letter (morning letter or evening supplement), append an object to `items`:

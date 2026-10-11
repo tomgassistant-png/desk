@@ -61,6 +61,13 @@ a:hover,a:focus{text-decoration:underline}
 .highlights li a{font-weight:700}
 .highlights .d{font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#555;white-space:nowrap}
 .highlights .note{font-size:12px;font-style:italic;color:#555;margin:6px 0 0}
+.search{max-width:560px;margin:10px auto 0;display:flex;gap:6px}
+.search input{flex:1;min-width:0;font:inherit;font-size:16px;padding:6px 9px;border:1px solid #1a1a1a;background:#fff;border-radius:0}
+.search button{font-family:Helvetica,Arial,sans-serif;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;padding:0 12px;border:1px solid #1a1a1a;background:#1a1a1a;color:#fbf9f4;cursor:pointer}
+.results{margin-top:18px}
+.results>h2{font-family:Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;margin:0 0 10px;padding:6px 0 5px;border-top:3px solid #1a1a1a;border-bottom:1px solid #1a1a1a}
+.results .story .sec{font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:1.4px;text-transform:uppercase;color:#7a1f1f;margin:0 0 3px}
+body.searching .layout,body.searching .highlights,body.searching .archive{display:none}
 footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12px;color:#555;text-align:center;font-style:italic}
 @media (max-width:980px){
  .layout{grid-template-columns:1fr}
@@ -82,9 +89,10 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
  .story .summary{text-align:left}
 }
 </style></head><body><div class="page">
-<div class="topline"><span>Compiled from the daily PA security letters</span><span>Updated 08:18 Israel time</span></div>
-<header class="masthead"><h1>Judea &amp; Samaria Desk</h1><p class="sub">The Palestinian Authority, security, settlement and land in Judea and Samaria</p></header>
+<div class="topline"><span>Compiled from the daily PA security letters</span><span>Updated 10:37 Israel time</span></div>
+<header class="masthead"><h1>Judea &amp; Samaria Desk</h1><p class="sub">The Palestinian Authority, security, settlement and land in Judea and Samaria</p><form class="search" id="search" role="search" hidden onsubmit="return false"><input type="search" id="q" placeholder="Search all editions" aria-label="Search all editions" autocomplete="off"><button type="button" id="qclear">Clear</button></form></header>
 <div class="dateline"><span>Sunday, 11 October 2026</span><span>Jerusalem</span><span>This edition: 11 October 2026</span></div>
+<section class="results" id="results" hidden aria-live="polite"></section>
 <div class="layout"><main class="main">
 <section class="lead" id="2026-10-11-givat-tidhar-youth-injured"><p class="kicker">Attacks and Incidents</p><h2><a href="https://hit-n.co.il/security/139733/" rel="noopener" target="_blank">First Sabbath of the olive harvest: a youth from Givat Tidhar is struck on the head</a></h2><p class="summary">On 10 October hundreds of Arabs from Deir Abu Mash&#x27;al, with foreign and far-left activists, some of them masked and carrying clubs, came up towards Givat Tidhar in Wadi Zarqa, western Binyamin, under the pretext of picking olives. Residents held back the crowd until the troops arrived; a youth from the hilltop was struck on the head and taken to Assaf Harofeh hospital, conscious. The Palestinian Red Crescent said nine Palestinians were injured at Deir Abu Mash&#x27;al, and four masked foreign activists taken to the Modi&#x27;in Illit police station elsewhere were later released without explanation.</p><p class="meta"><span class="src">Hityashvut Achshav</span> · <time datetime="2026-10-10">10 October 2026</time> · <a href="https://hit-n.co.il/security/139733/" rel="noopener" target="_blank">Read the source</a></p></section>
 <div class="latest-mobile"><h2>Latest</h2><ol><li><span class="time">11 Oct · 08:01</span><a class="h" href="#2026-10-11-givat-tidhar-youth-injured">First Sabbath of the olive harvest: a youth from Givat Tidhar is struck on the head</a><span class="s">Hityashvut Achshav</span></li><li><span class="time">11 Oct · 08:01</span><a class="h" href="#2026-10-11-23-attacks-two-days">Twenty-three attacks on Israelis in two days, most under cover of the harvest</a><span class="s">Hatzalah Judea and Samaria Without Borders</span></li><li><span class="time">11 Oct · 08:01</span><a class="h" href="#2026-10-11-binyamin-operation-shukron-house">Binyamin Brigade ends week-long operation; house of Netanel Shukron&#x27;s murderer destroyed</a><span class="s">Olam Katan</span></li><li><span class="time">11 Oct · 08:01</span><a class="h" href="#2026-10-11-har-bracha-monument">Har Bracha widow asks the army to destroy the monument to her husband&#x27;s murderer</a><span class="s">Arutz 7</span></li></ol></div>
@@ -188,5 +196,24 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
 <article class="story" id="2026-10-01-josephs-tomb"><p class="sec">Settlement and Land</p><h3><a href="https://www.inn.co.il/news/707458" rel="noopener" target="_blank">Thousands pray at Joseph’s Tomb with the Four Species</a></h3><p class="summary">Thousands entered Joseph’s Tomb in Nablus in two rounds with IDF approval, for the first mass morning prayer there with the Four Species in several decades. Senior commanders, members of Knesset and Yossi Dagan attended. Mr. Dagan and Zvi Sukkot called for the full return of the Od Yosef Chai yeshiva to the tomb.</p><p class="meta"><span class="src">Arutz 7</span> · <time datetime="2026-10-01">1 October 2026</time> · <a href="https://www.inn.co.il/news/707458" rel="noopener" target="_blank">Source</a></p></article>
 </div></details>
 </section>
-<footer>Judea &amp; Samaria Desk · 63 items on file · built 11 October 2026, 08:18 Israel time</footer>
-</div></body></html>
+<footer>Judea &amp; Samaria Desk · 63 items on file · built 11 October 2026, 10:37 Israel time</footer>
+</div><script>
+(function(){
+var f=document.getElementById('search'),q=document.getElementById('q'),r=document.getElementById('results'),idx=null,pend=false;
+if(!f||!window.fetch)return; f.hidden=false;
+function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function load(){if(idx||pend)return;pend=true;fetch('search-index.json',{cache:'no-cache'}).then(function(x){return x.json()}).then(function(d){idx=d.items.map(function(it){it._t=[it.headline,it.summary,it.source,it.section_name,it.date,it.edition,it.date_long].join(' ').toLowerCase();return it});run()}).catch(function(){r.hidden=false;r.innerHTML='<h2>Search</h2><p class="empty">The search index could not be loaded.</p>'})}
+function run(){var v=q.value.trim().toLowerCase();
+ if(!v){document.body.classList.remove('searching');r.hidden=true;r.innerHTML='';return}
+ document.body.classList.add('searching');r.hidden=false;
+ if(!idx){r.innerHTML='<h2>Searching…</h2>';load();return}
+ var w=v.split(/\s+/),m=idx.filter(function(it){return w.every(function(x){return it._t.indexOf(x)>=0})});
+ var h='<h2>'+m.length+' result'+(m.length==1?'':'s')+' for “'+esc(q.value.trim())+'”</h2>';
+ if(!m.length)h+='<p class="empty">No stories match. Clear the box to return to the front page.</p>';
+ m.forEach(function(it){h+='<article class="story"><p class="sec">'+esc(it.section_name)+'</p><h3><a href="'+esc(it.url)+'" rel="noopener" target="_blank">'+esc(it.headline)+'</a></h3><p class="summary">'+esc(it.summary)+'</p><p class="meta"><span class="src">'+esc(it.source)+'</span> · '+esc(it.date_long)+' · '+esc(it.edition_long)+' edition</p></article>'});
+ r.innerHTML=h}
+q.addEventListener('focus',load);q.addEventListener('input',run);
+document.getElementById('qclear').addEventListener('click',function(){q.value='';run();q.focus()});
+q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()}});
+})();
+</script></body></html>
