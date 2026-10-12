@@ -50,9 +50,17 @@ def meta(it, link_text="Source"):
             f'<time datetime="{e(it["date"])}">{e(long_date(it["date"]))}</time> · '
             f'<a href="{e(it["url"])}" rel="noopener" target="_blank">{link_text}</a></p>')
 
+NEWEST = None
+def is_new(it):
+    return NEWEST is not None and it["edition"] == NEWEST
+def nc(it):
+    return " new" if is_new(it) else ""
+def tag(it):
+    return '<span class="tag-new">New</span>' if is_new(it) else ""
+
 def article(it, cls="story"):
-    return (f'<article class="{cls}" id="{e(it["id"])}">'
-            f'<h3><a href="{e(it["url"])}" rel="noopener" target="_blank">{e(it["headline"])}</a></h3>'
+    return (f'<article class="{cls}{nc(it)}" id="{e(it["id"])}">'
+            f'<h3><a href="{e(it["url"])}" rel="noopener" target="_blank">{tag(it)}{e(it["headline"])}</a></h3>'
             f'<p class="summary">{e(it["summary"])}</p>{meta(it)}</article>')
 
 CSS = r"""
@@ -118,6 +126,8 @@ a:hover,a:focus{text-decoration:underline}
 .highlights li a{font-weight:700}
 .highlights .d{font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#555;white-space:nowrap}
 .highlights .note{font-size:12px;font-style:italic;color:#555;margin:6px 0 0}
+.new h2 a,.new h3 a,.new a.h,.new>a{color:#9b1c1c}
+.tag-new{display:inline-block;font-family:Helvetica,Arial,sans-serif;font-size:10px;font-weight:700;letter-spacing:1.2px;text-transform:uppercase;color:#fbf9f4;background:#9b1c1c;padding:1px 5px 0;margin-right:7px;vertical-align:2px;line-height:1.5}
 .search{max-width:560px;margin:10px auto 0;display:flex;gap:6px}
 .search input{flex:1;min-width:0;font:inherit;font-size:16px;padding:6px 9px;border:1px solid #1a1a1a;background:#fff;border-radius:0}
 .search button{font-family:Helvetica,Arial,sans-serif;font-size:12px;letter-spacing:1.2px;text-transform:uppercase;padding:0 12px;border:1px solid #1a1a1a;background:#1a1a1a;color:#fbf9f4;cursor:pointer}
@@ -160,7 +170,7 @@ function run(){var v=q.value.trim().toLowerCase();
  var w=v.split(/\s+/),m=idx.filter(function(it){return w.every(function(x){return it._t.indexOf(x)>=0})});
  var h='<h2>'+m.length+' result'+(m.length==1?'':'s')+' for “'+esc(q.value.trim())+'”</h2>';
  if(!m.length)h+='<p class="empty">No stories match. Clear the box to return to the front page.</p>';
- m.forEach(function(it){h+='<article class="story"><p class="sec">'+esc(it.section_name)+'</p><h3><a href="'+esc(it.url)+'" rel="noopener" target="_blank">'+esc(it.headline)+'</a></h3><p class="summary">'+esc(it.summary)+'</p><p class="meta"><span class="src">'+esc(it.source)+'</span> · '+esc(it.date_long)+' · '+esc(it.edition_long)+' edition</p></article>'});
+ m.forEach(function(it){h+='<article class="story'+(it.new?' new':'')+'"><p class="sec">'+esc(it.section_name)+'</p><h3><a href="'+esc(it.url)+'" rel="noopener" target="_blank">'+(it.new?'<span class="tag-new">New</span>':'')+esc(it.headline)+'</a></h3><p class="summary">'+esc(it.summary)+'</p><p class="meta"><span class="src">'+esc(it.source)+'</span> · '+esc(it.date_long)+' · '+esc(it.edition_long)+' edition</p></article>'});
  r.innerHTML=h}
 q.addEventListener('focus',load);q.addEventListener('input',run);
 document.getElementById('qclear').addEventListener('click',function(){q.value='';run();q.focus()});
@@ -169,15 +179,19 @@ q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()
 """
 
 def search_index(data, now):
+    newest = max(it["edition"] for it in data["items"])
     items = sorted(data["items"], key=lambda it: (it["date"], it["published"]), reverse=True)
     keys = ["id", "edition", "date", "section", "headline", "summary", "source", "url"]
     return {"built": now.isoformat(timespec="minutes"), "count": len(items),
             "items": [dict({k: it[k] for k in keys}, section_name=SECTIONS[it["section"]],
-                           date_long=long_date(it["date"]), edition_long=long_date(it["edition"])) for it in items]}
+                           date_long=long_date(it["date"]), edition_long=long_date(it["edition"]),
+                           new=it["edition"] == newest) for it in items]}
 
 def build(data, now):
+    global NEWEST
     items = data["items"]
     validate(items)
+    NEWEST = max(it["edition"] for it in items)
     n_front = 1
     n_hl = int(data.get("highlight_count", 8))
     n_latest = int(data.get("latest_count", 8))
@@ -194,8 +208,8 @@ def build(data, now):
         parts = ['<ol>']
         for it in by_new(front)[:n]:
             t = pub(it)
-            parts.append(f'<li><span class="time">{t.day} {t:%b} · {t:%H:%M}</span>'
-                         f'<a class="h" href="#{e(it["id"])}">{e(it["headline"])}</a>'
+            parts.append(f'<li class="{nc(it).strip()}"><span class="time">{t.day} {t:%b} · {t:%H:%M}</span>'
+                         f'<a class="h" href="#{e(it["id"])}">{tag(it)}{e(it["headline"])}</a>'
                          f'<span class="s">{e(it["source"])}</span></li>')
         parts.append('</ol>')
         return "".join(parts)
@@ -219,8 +233,8 @@ def build(data, now):
 
     out.append('<section class="results" id="results" hidden aria-live="polite"></section>')
     out.append('<div class="layout"><main class="main">')
-    out.append(f'<section class="lead" id="{e(lead["id"])}"><p class="kicker">{e(SECTIONS[lead["section"]])}</p>'
-               f'<h2><a href="{e(lead["url"])}" rel="noopener" target="_blank">{e(lead["headline"])}</a></h2>'
+    out.append(f'<section class="lead{nc(lead)}" id="{e(lead["id"])}"><p class="kicker">{e(SECTIONS[lead["section"]])}</p>'
+               f'<h2><a href="{e(lead["url"])}" rel="noopener" target="_blank">{tag(lead)}{e(lead["headline"])}</a></h2>'
                f'<p class="summary">{e(lead["summary"])}</p>{meta(lead, "Read the source")}</section>')
 
     older = [d for d in editions if d not in front_ed]
@@ -265,7 +279,7 @@ def build(data, now):
     else:
         sv.append('<ol>')
         for it in saved:
-            sv.append(f'<li><a class="h" href="{e(it["url"])}" rel="noopener" target="_blank">{e(it["headline"])}</a>'
+            sv.append(f'<li class="{nc(it).strip()}"><a class="h" href="{e(it["url"])}" rel="noopener" target="_blank">{tag(it)}{e(it["headline"])}</a>'
                       f'<span class="s">{e(it["source"])} · {e(long_date(it["date"]))}</span></li>')
         sv.append('</ol>')
     sv.append('</div>')

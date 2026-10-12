@@ -17,6 +17,8 @@ Files
 - Sections (`section` key): `pa` Palestinian Authority forces and the threat · `attacks` Attacks and incidents · `land` Settlement and land · `idf` IDF and government decisions · `negev` Negev and Galilee.
 
 ## Search
+New stories: every item whose `edition` equals the newest edition in `items.json` (i.e. added in the latest daily update) gets the CSS class `new` at build time: dark red headline (#9b1c1c) and a small uppercase "New" tag before it, in the lead, sections, Latest column, Saved stories and search results (`search-index.json` carries `"new": true`). When the next edition is added they go back to black automatically. No JavaScript needed except in search results.
+
 A search box under the masthead searches every item in `search-index.json` (current and past editions), entirely in the browser: case-insensitive, all words must match (headline, summary, source, section, date). Results are newest first with a count; clearing the box (or Esc) restores the normal page. Without JavaScript the box is hidden and the page works as before. Search needs the page served over http(s) (e.g. `python3 -m http.server`), not file://.
 
 ## Adding a day
