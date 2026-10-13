@@ -265,7 +265,7 @@ def weather_html(data):
     return ('<details class="wx" id="wx" data-loc="' + _h.escape(json.dumps(loc), quote=True) + '"><summary>'
             '<div class="wl">Weather · ' + _h.escape(loc["name"]) + '</div><div id="wxcur"><div class="wd">Loading weather…</div></div></summary>'
             '<div id="wxtab"></div><div class="src">Data: Open-Meteo</div></details>'
-            '<div class="wxlink" style="font-family:Helvetica,Arial,sans-serif;font-size:13px;margin:-16px 0 22px"><a href="https://ims.gov.il/en/city_portal/17" target="_blank" rel="noopener">Open the IMS forecast for Herzliya &rarr;</a></div>')
+            '<div class="wxlink" style="font-family:Helvetica,Arial,sans-serif;font-size:13px;margin:-16px 0 22px"><a href="https://ims.gov.il/en/cityPortal?lid=240" target="_blank" rel="noopener">Open the IMS forecast for Apollonia &rarr;</a></div>')
 
 def build(data, now):
     global NEWEST
