@@ -138,6 +138,18 @@ a:hover,a:focus{text-decoration:underline}
 .results .story .sec{font-family:Helvetica,Arial,sans-serif;font-size:10px;letter-spacing:1.4px;text-transform:uppercase;color:#7a1f1f;margin:0 0 3px}
 body.searching .layout,body.searching .highlights,body.searching .archive{display:none}
 footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12px;color:#555;text-align:center;font-style:italic}
+.wx{margin-bottom:22px;border-top:3px solid #1a1a1a;border-bottom:1px solid #1a1a1a;padding:6px 0 8px;font-family:Helvetica,Arial,sans-serif}
+.wx summary{list-style:none;cursor:pointer}
+.wx summary::-webkit-details-marker{display:none}
+.wx .wl{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:#7a1f1f}
+.wx .wn{font-family:Georgia,serif;font-size:30px;font-weight:700;line-height:1.1}
+.wx .wn small{font-size:14px;font-weight:400;color:#555;margin-left:4px}
+.wx .wd{font-size:13px;color:#333}
+.wx .wm{font-size:11px;color:#7a7a7a;margin-top:3px}
+.wx table{width:100%;border-collapse:collapse;font-size:12px;margin-top:8px}
+.wx th,.wx td{padding:4px 2px;border-bottom:1px dotted #9d968a;text-align:left}
+.wx th{font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:#555}
+.wx .src{font-size:11px;font-style:italic;color:#555;margin-top:6px}
 @media (max-width:980px){
  .layout{grid-template-columns:1fr}
  .main{padding-right:0;border-right:none}
@@ -158,6 +170,25 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
 """
 
 JS = r"""
+
+(function(){
+var b=document.getElementById('wx');if(!b)return;
+var L=JSON.parse(b.getAttribute('data-loc'));
+var cur=document.getElementById('wxcur'),tb=document.getElementById('wxtab');
+var u='https://api.open-meteo.com/v1/forecast?latitude='+L.lat+'&longitude='+L.lon+'&timezone='+encodeURIComponent(L.timezone||'auto')+'&current=temperature_2m,relative_humidity_2m,precipitation&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,relative_humidity_2m_mean,wind_speed_10m_max,wind_direction_10m_dominant&forecast_days=7';
+function f(c){return Math.round(c*9/5+32)}
+function dir(g){return ['N','NE','E','SE','S','SW','W','NW'][Math.round(g/45)%8]}
+function fail(){cur.innerHTML='<div class="wd">Weather unavailable</div>';tb.innerHTML=''}
+if(!window.fetch){fail();return}
+fetch(u).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+ var c=d.current;
+ cur.innerHTML='<div class="wn">'+Math.round(c.temperature_2m)+'°C<small>'+f(c.temperature_2m)+'°F</small></div><div class="wd">Precipitation '+c.precipitation+' mm · Humidity '+c.relative_humidity_2m+'%</div><div class="wm">Click for 7-day forecast</div>';
+ var y=d.daily,h='<table><tr><th>Day</th><th>High/Low</th><th>Rain</th><th>Hum.</th><th>Wind</th></tr>';
+ for(var i=0;i<y.time.length;i++){var dt=new Date(y.time[i]+'T12:00:00');
+  h+='<tr><td>'+dt.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'})+'</td><td>'+Math.round(y.temperature_2m_max[i])+'° / '+Math.round(y.temperature_2m_min[i])+'°C</td><td>'+(y.precipitation_probability_max[i]==null?'–':y.precipitation_probability_max[i]+'%')+' · '+y.precipitation_sum[i]+' mm</td><td>'+(y.relative_humidity_2m_mean?Math.round(y.relative_humidity_2m_mean[i])+'%':'–')+'</td><td>'+Math.round(y.wind_speed_10m_max[i])+' km/h '+dir(y.wind_direction_10m_dominant[i])+'</td></tr>'}
+ tb.innerHTML=h+'</table>';
+}).catch(fail);
+})();
 (function(){
 var sf=document.getElementById('suggest');
 if(sf){var mk=function(){var n=sf.sn.value.trim(),u=sf.su.value.trim(),t=sf.st.value.trim();
@@ -225,6 +256,15 @@ def sources_html():
              '<button type="submit">Submit on GitHub</button>'
              '<p class="alt">No GitHub account? <a id="smail" href="mailto:tomji@mail.grokbot.com?subject=Add%20source">Send it by email</a> instead.</p></form></div>')
     return "".join(h)
+
+DEFAULT_WEATHER = {"name": "Herzliya", "lat": 32.1663, "lon": 34.8436, "timezone": "Asia/Jerusalem"}
+
+def weather_html(data):
+    import html as _h
+    loc = dict(DEFAULT_WEATHER, **(data.get("weather_location") or {}))
+    return ('<details class="wx" id="wx" data-loc="' + _h.escape(json.dumps(loc), quote=True) + '"><summary>'
+            '<div class="wl">Weather · ' + _h.escape(loc["name"]) + '</div><div id="wxcur"><div class="wd">Loading weather…</div></div></summary>'
+            '<div id="wxtab"></div><div class="src">Weather: Open-Meteo</div></details>')
 
 def build(data, now):
     global NEWEST
@@ -320,7 +360,7 @@ def build(data, now):
                       f'<span class="s">{e(it["source"])} · {e(long_date(it["date"]))}</span></li>')
         sv.append('</ol>')
     sv.append('</div>')
-    out.append('<aside class="rail">' + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
+    out.append('<aside class="rail">' + weather_html(data) + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 
