@@ -100,13 +100,15 @@ a:hover,a:focus{text-decoration:underline}
 .rail li .time{display:block;font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:#7a1f1f}
 .rail li a.h{font-size:16px;line-height:1.25;font-weight:700}
 .rail li .s{display:block;font-size:12px;color:#555;font-style:italic;margin-top:2px}
-.latest-mobile{display:none;margin:4px 0 8px}
-.latest-mobile h2{font-family:Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:2px;text-transform:uppercase;margin:0 0 6px;padding:6px 0 5px;border-top:3px solid #1a1a1a;border-bottom:1px solid #1a1a1a}
-.latest-mobile ol{list-style:none;margin:0;padding:0}
-.latest-mobile li{padding:8px 0;border-bottom:1px dotted #9d968a}
-.latest-mobile li .time{display:block;font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:#7a1f1f}
-.latest-mobile li a.h{font-size:16px;line-height:1.25;font-weight:700}
-.latest-mobile li .s{display:block;font-size:12px;color:#555;font-style:italic}
+.rail .sources ul{list-style:none;margin:0 0 12px;padding:0}
+.rail .sources h4{font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:1.2px;text-transform:uppercase;color:#7a1f1f;margin:12px 0 4px}
+.rail .sources li{padding:4px 0;font-size:14.5px;line-height:1.3}
+.rail .sources li .s{display:inline;margin-left:4px}
+.suggest{margin-top:16px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:13px}
+.suggest h3{font-family:Helvetica,Arial,sans-serif;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;margin:0 0 6px}
+.suggest input,.suggest textarea{display:block;width:100%;box-sizing:border-box;font:inherit;font-size:14px;padding:4px 6px;margin:0 0 6px;border:1px solid #1a1a1a;background:#fff;border-radius:0}
+.suggest button{font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:1.2px;text-transform:uppercase;padding:5px 10px;border:1px solid #1a1a1a;background:#1a1a1a;color:#fbf9f4;cursor:pointer}
+.suggest .alt{font-size:12px;font-style:italic;color:#555;margin:6px 0 0}
 .rail .saved{margin-bottom:22px}
 .rail .saved .empty{margin:4px 0 0}
 .rail .about{margin-top:22px;font-size:13px;color:#444;border-top:1px solid #1a1a1a;padding-top:10px}
@@ -140,8 +142,6 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
  .layout{grid-template-columns:1fr}
  .main{padding-right:0;border-right:none}
  .rail{padding-left:0;margin-top:26px}
- .rail .latest-full{display:none}
- .latest-mobile{display:block!important}
  .archive .day{columns:2}
 }
 @media (max-width:640px){
@@ -158,6 +158,15 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
 """
 
 JS = r"""
+(function(){
+var sf=document.getElementById('suggest');
+if(sf){var mk=function(){var n=sf.sn.value.trim(),u=sf.su.value.trim(),t=sf.st.value.trim();
+ return {t:'Add source: '+n,b:'URL: '+u+'\n\nNote: '+(t||'(none)')}};
+ sf.addEventListener('submit',function(ev){ev.preventDefault();var m=mk();
+  window.open('https://github.com/tomgassistant-png/desk/issues/new?labels=source&title='+encodeURIComponent(m.t)+'&body='+encodeURIComponent(m.b),'_blank','noopener')});
+ document.getElementById('smail').addEventListener('click',function(ev){var m=mk();if(!sf.sn.value.trim())return;
+  this.href='mailto:tomji@mail.grokbot.com?subject='+encodeURIComponent(m.t)+'&body='+encodeURIComponent(m.b)})}
+})();
 (function(){
 var f=document.getElementById('search'),q=document.getElementById('q'),r=document.getElementById('results'),idx=null,pend=false;
 if(!f||!window.fetch)return; f.hidden=false;
@@ -186,6 +195,36 @@ def search_index(data, now):
             "items": [dict({k: it[k] for k in keys}, section_name=SECTIONS[it["section"]],
                            date_long=long_date(it["date"]), edition_long=long_date(it["edition"]),
                            new=it["edition"] == newest) for it in items]}
+
+def sources_html():
+    import os
+    p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sources.json")
+    try:
+        d = json.load(open(p, encoding="utf-8"))
+    except FileNotFoundError:
+        d = {"sources": []}
+    src = d.get("sources", [])
+    groups = list(d.get("groups", []))
+    for s in src:
+        if s.get("group", "Other") not in groups:
+            groups.append(s.get("group", "Other"))
+    h = ['<div class="sources" id="sources"><h2>Sources we check</h2>']
+    for g in groups:
+        xs = [s for s in src if s.get("group", "Other") == g]
+        if not xs:
+            continue
+        h.append(f'<h4>{e(g)}</h4><ul>')
+        for s in xs:
+            note = f'<span class="s">{e(s["note"])}</span>' if s.get("note") else ""
+            h.append(f'<li><a href="{e(s["url"])}" rel="noopener" target="_blank">{e(s["name"])}</a>{note}</li>')
+        h.append('</ul>')
+    h.append('<form class="suggest" id="suggest"><h3>Suggest a source</h3>'
+             '<input name="sn" placeholder="Name" required aria-label="Source name">'
+             '<input name="su" type="url" placeholder="https://" required aria-label="Source URL">'
+             '<textarea name="st" rows="2" placeholder="Note (optional)" aria-label="Note"></textarea>'
+             '<button type="submit">Submit on GitHub</button>'
+             '<p class="alt">No GitHub account? <a id="smail" href="mailto:tomji@mail.grokbot.com?subject=Add%20source">Send it by email</a> instead.</p></form></div>')
+    return "".join(h)
 
 def build(data, now):
     global NEWEST
@@ -256,8 +295,6 @@ def build(data, now):
                        f' <span class="d">{e(it["source"])} · {e(long_date(it["edition"]))} edition</span></li>')
         hl_html.append('</ul><p class="note">Full stories are in the archive below.</p></section>')
 
-    out.append('<div class="latest-mobile"><h2>Latest</h2>' + latest_list(5) + '</div>')
-
     for key, name in SECTIONS.items():
         sec = [it for it in by_new(front) if it["section"] == key and it is not lead]
         if not sec:
@@ -283,7 +320,7 @@ def build(data, now):
                       f'<span class="s">{e(it["source"])} · {e(long_date(it["date"]))}</span></li>')
         sv.append('</ol>')
     sv.append('</div>')
-    out.append('<aside class="rail">' + "".join(sv) + '<div class="latest-full"><h2>Latest</h2>' + latest_list(n_latest) + '</div><div class="about"><strong>About this page.</strong> Every item is taken from the morning '
+    out.append('<aside class="rail">' + "".join(sv) + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 

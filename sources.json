@@ -1,0 +1,148 @@
+{
+ "groups": [
+  "Hebrew news",
+  "X accounts",
+  "Monitoring and anti-settlement groups",
+  "Journals"
+ ],
+ "sources": [
+  {
+   "name": "Channel 14 (Now 14)",
+   "url": "https://www.c14.co.il/",
+   "group": "Hebrew news"
+  },
+  {
+   "name": "Haaretz (Hebrew)",
+   "url": "https://www.haaretz.co.il/",
+   "group": "Hebrew news"
+  },
+  {
+   "name": "Local Call (Mekomit)",
+   "url": "https://www.mekomit.co.il/",
+   "group": "Hebrew news"
+  },
+  {
+   "name": "+972 Magazine",
+   "url": "https://www.972mag.com/",
+   "group": "Hebrew news",
+   "note": "English"
+  },
+  {
+   "name": "Elisha Yered (@ElishaYered)",
+   "url": "https://x.com/ElishaYered",
+   "group": "X accounts"
+  },
+  {
+   "name": "Settlers From Within (@SettlersFW)",
+   "url": "https://x.com/SettlersFW",
+   "group": "X accounts"
+  },
+  {
+   "name": "Elchanan Groner (@elchanangr)",
+   "url": "https://x.com/elchanangr",
+   "group": "X accounts"
+  },
+  {
+   "name": "Channel 18 Israel (@channel18israel)",
+   "url": "https://x.com/channel18israel",
+   "group": "X accounts"
+  },
+  {
+   "name": "Ariel Danino (@ariel__danino)",
+   "url": "https://x.com/ariel__danino",
+   "group": "X accounts"
+  },
+  {
+   "name": "Amishav Melet (@amishav_)",
+   "url": "https://x.com/amishav_",
+   "group": "X accounts"
+  },
+  {
+   "name": "Sam Schubert (@samschub)",
+   "url": "https://x.com/samschub",
+   "group": "X accounts"
+  },
+  {
+   "name": "Hanan Greenwood (@hanan_green)",
+   "url": "https://x.com/hanan_green",
+   "group": "X accounts"
+  },
+  {
+   "name": "Regavim (@Regavim_IL)",
+   "url": "https://x.com/Regavim_IL",
+   "group": "X accounts"
+  },
+  {
+   "name": "Adi Shamay Hacohen (@Adish_news)",
+   "url": "https://x.com/Adish_news",
+   "group": "X accounts"
+  },
+  {
+   "name": "Ran Baratz (@RanBaratz)",
+   "url": "https://x.com/RanBaratz",
+   "group": "X accounts"
+  },
+  {
+   "name": "Gadi Taub (@GadiTaub1)",
+   "url": "https://x.com/GadiTaub1",
+   "group": "X accounts"
+  },
+  {
+   "name": "Hagit Ofran (@hagitofran)",
+   "url": "https://x.com/hagitofran",
+   "group": "X accounts",
+   "note": "Peace Now Settlement Watch"
+  },
+  {
+   "name": "Peace Now (Hebrew)",
+   "url": "https://peacenow.org.il/",
+   "group": "Monitoring and anti-settlement groups"
+  },
+  {
+   "name": "Kerem Navot",
+   "url": "https://www.keremnavot.org/",
+   "group": "Monitoring and anti-settlement groups",
+   "note": "Dror Etkes"
+  },
+  {
+   "name": "Yesh Din",
+   "url": "https://www.yesh-din.org/",
+   "group": "Monitoring and anti-settlement groups"
+  },
+  {
+   "name": "B'Tselem (Hebrew)",
+   "url": "https://www.btselem.org/hebrew",
+   "group": "Monitoring and anti-settlement groups"
+  },
+  {
+   "name": "Ir Amim",
+   "url": "https://www.ir-amim.org.il/he",
+   "group": "Monitoring and anti-settlement groups"
+  },
+  {
+   "name": "Emek Shaveh",
+   "url": "https://emekshaveh.org/he/",
+   "group": "Monitoring and anti-settlement groups"
+  },
+  {
+   "name": "Bimkom",
+   "url": "https://bimkom.org/",
+   "group": "Monitoring and anti-settlement groups"
+  },
+  {
+   "name": "Regavim",
+   "url": "https://www.regavim.org.il/",
+   "group": "Monitoring and anti-settlement groups"
+  },
+  {
+   "name": "HaShiloach (Hebrew)",
+   "url": "https://hashiloach.org.il/",
+   "group": "Journals"
+  },
+  {
+   "name": "HaShiloach (English)",
+   "url": "https://en.hashiloach.org.il/",
+   "group": "Journals"
+  }
+ ]
+}

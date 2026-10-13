@@ -47,3 +47,8 @@ google-chrome --headless=new --no-sandbox --hide-scrollbars --window-size=1280,3
 google-chrome --headless=new --no-sandbox --hide-scrollbars --window-size=390,2600 --force-device-scale-factor=2 --screenshot=preview-mobile.png file://$PWD/index.html
 ```
 `build.py` stops with a list of problems if a required field is missing, a section key is wrong, or an id repeats.
+
+## Sources blogroll and suggestions
+- The right-rail "Sources we check" list is built from `sources.json` (`groups` order, then `sources`: `name`, `url`, `group`, optional `note`). Routines may append entries; then rebuild and publish.
+- "Suggest a source" on the page opens a prefilled GitHub issue on `tomgassistant-png/desk` with label `source` (title `Add source: <name>`, body with URL and note), or an email to tomji@mail.grokbot.com.
+- Daily update: run `gh issue list -R tomgassistant-png/desk -l source -s open`. For each issue, add the source to `sources.json` (choose a fitting group), start checking it in the morning letter, rebuild, publish, then `gh issue close <n> -R tomgassistant-png/desk -c "Added to sources."`. gh is signed in as tomgassistant-png.
