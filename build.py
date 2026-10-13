@@ -264,7 +264,7 @@ def weather_html(data):
     loc = dict(DEFAULT_WEATHER, **(data.get("weather_location") or {}))
     return ('<details class="wx" id="wx" data-loc="' + _h.escape(json.dumps(loc), quote=True) + '"><summary>'
             '<div class="wl">Weather · ' + _h.escape(loc["name"]) + '</div><div id="wxcur"><div class="wd">Loading weather…</div></div></summary>'
-            '<div id="wxtab"></div><div class="src">Weather: Open-Meteo</div></details>')
+            '<div id="wxtab"></div><div class="src"><a href="https://ims.gov.il/en/city_portal/17" target="_blank" rel="noopener">IMS forecast for Herzliya</a> · Data: Open-Meteo</div></details>')
 
 def build(data, now):
     global NEWEST
