@@ -1,450 +1,456 @@
 {
- "groups": [
-  "Hebrew news",
-  "X accounts",
-  "Monitoring groups",
-  "Journals",
-  "Palestinian and Arab media",
-  "Research and think tanks",
-  "Telegram channels"
- ],
- "sources": [
-  {
-   "name": "Channel 14 (Now 14)",
-   "url": "https://www.c14.co.il/",
-   "group": "Hebrew news"
-  },
-  {
-   "name": "Haaretz (Hebrew)",
-   "url": "https://www.haaretz.co.il/",
-   "group": "Hebrew news"
-  },
-  {
-   "name": "Local Call (Mekomit)",
-   "url": "https://www.mekomit.co.il/",
-   "group": "Hebrew news"
-  },
-  {
-   "name": "+972 Magazine",
-   "url": "https://www.972mag.com/",
-   "group": "Hebrew news",
-   "note": "English"
-  },
-  {
-   "name": "Elisha Yered (@ElishaYered)",
-   "url": "https://x.com/ElishaYered",
-   "group": "X accounts"
-  },
-  {
-   "name": "Settlers From Within (@SettlersFW)",
-   "url": "https://x.com/SettlersFW",
-   "group": "X accounts"
-  },
-  {
-   "name": "Elchanan Groner (@elchanangr)",
-   "url": "https://x.com/elchanangr",
-   "group": "X accounts"
-  },
-  {
-   "name": "Channel 18 Israel (@channel18israel)",
-   "url": "https://x.com/channel18israel",
-   "group": "X accounts"
-  },
-  {
-   "name": "Ariel Danino (@ariel__danino)",
-   "url": "https://x.com/ariel__danino",
-   "group": "X accounts"
-  },
-  {
-   "name": "Amishav Melet (@amishav_)",
-   "url": "https://x.com/amishav_",
-   "group": "X accounts"
-  },
-  {
-   "name": "Sam Schubert (@samschub)",
-   "url": "https://x.com/samschub",
-   "group": "X accounts"
-  },
-  {
-   "name": "Hanan Greenwood (@hanan_green)",
-   "url": "https://x.com/hanan_green",
-   "group": "X accounts"
-  },
-  {
-   "name": "Regavim (@Regavim_IL)",
-   "url": "https://x.com/Regavim_IL",
-   "group": "X accounts"
-  },
-  {
-   "name": "Adi Shamay Hacohen (@Adish_news)",
-   "url": "https://x.com/Adish_news",
-   "group": "X accounts"
-  },
-  {
-   "name": "Ran Baratz (@RanBaratz)",
-   "url": "https://x.com/RanBaratz",
-   "group": "X accounts"
-  },
-  {
-   "name": "Gadi Taub (@GadiTaub1)",
-   "url": "https://x.com/GadiTaub1",
-   "group": "X accounts"
-  },
-  {
-   "name": "Hagit Ofran (@hagitofran)",
-   "url": "https://x.com/hagitofran",
-   "group": "X accounts",
-   "note": "Peace Now Settlement Watch"
-  },
-  {
-   "name": "Peace Now (Hebrew)",
-   "url": "https://peacenow.org.il/",
-   "group": "Monitoring groups"
-  },
-  {
-   "name": "Kerem Navot",
-   "url": "https://www.keremnavot.org/",
-   "group": "Monitoring groups",
-   "note": "Dror Etkes"
-  },
-  {
-   "name": "Yesh Din",
-   "url": "https://www.yesh-din.org/",
-   "group": "Monitoring groups"
-  },
-  {
-   "name": "B'Tselem (Hebrew)",
-   "url": "https://www.btselem.org/hebrew",
-   "group": "Monitoring groups"
-  },
-  {
-   "name": "Ir Amim",
-   "url": "https://www.ir-amim.org.il/he",
-   "group": "Monitoring groups"
-  },
-  {
-   "name": "Emek Shaveh",
-   "url": "https://emekshaveh.org/he/",
-   "group": "Monitoring groups"
-  },
-  {
-   "name": "Bimkom",
-   "url": "https://bimkom.org/",
-   "group": "Monitoring groups"
-  },
-  {
-   "name": "Regavim",
-   "url": "https://www.regavim.org.il/",
-   "group": "Monitoring groups"
-  },
-  {
-   "name": "HaShiloach (Hebrew)",
-   "url": "https://hashiloach.org.il/",
-   "group": "Journals"
-  },
-  {
-   "name": "HaShiloach (English)",
-   "url": "https://en.hashiloach.org.il/",
-   "group": "Journals"
-  },
-  {
-   "name": "Dror Etkes (@EtkesDror)",
-   "url": "https://x.com/EtkesDror",
-   "group": "X accounts"
-  },
-  {
-   "name": "Dror Etkes (@dror_etkes)",
-   "url": "https://x.com/dror_etkes",
-   "group": "X accounts"
-  },
-  {
-   "name": "@Israel8251",
-   "url": "https://x.com/Israel8251",
-   "group": "X accounts"
-  },
-  {
-   "name": "The Electronic Intifada",
-   "url": "https://electronicintifada.net/",
-   "group": "Monitoring groups"
-  },
-  {
-   "name": "Olam Katan (weekly)",
-   "url": "https://www.okn.co.il/",
-   "group": "Hebrew news"
-  },
-  {
-   "name": "@olam_katan",
-   "url": "https://x.com/olam_katan",
-   "group": "X accounts"
-  },
-  {
-   "name": "Moran T (@MoranT555)",
-   "url": "https://x.com/MoranT555",
-   "group": "X accounts"
-  },
-  {
-   "name": "Elior Levy (@eliorlevy)",
-   "url": "https://x.com/eliorlevy",
-   "group": "X accounts",
-   "note": "Kan Palestinian affairs; PA security services, Hamas/Fatah"
-  },
-  {
-   "name": "Gal Berger (@GalBerger1)",
-   "url": "https://x.com/GalBerger1",
-   "group": "X accounts",
-   "note": "Kan Palestinian affairs; PA politics and security"
-  },
-  {
-   "name": "Baruch Yedid (@BaruchYedid)",
-   "url": "https://x.com/BaruchYedid",
-   "group": "X accounts",
-   "note": "Arab affairs, Arabic sources; PA forces and incitement"
-  },
-  {
-   "name": "Doron Kadosh (@doronkadosh)",
-   "url": "https://x.com/doronkadosh",
-   "group": "X accounts",
-   "note": "Army Radio military correspondent; IDF operations"
-  },
-  {
-   "name": "Yoav Zitun (@yoavzitun)",
-   "url": "https://x.com/yoavzitun",
-   "group": "X accounts",
-   "note": "Ynet military correspondent; IDF and attacks"
-  },
-  {
-   "name": "Amit Segal (@AmitSegal)",
-   "url": "https://x.com/AmitSegal",
-   "group": "X accounts",
-   "note": "Channel 12 political analyst, right-leaning; cabinet decisions on settlement"
-  },
-  {
-   "name": "Kan News (@kann_news)",
-   "url": "https://x.com/kann_news",
-   "group": "X accounts",
-   "note": "Public broadcaster, center"
-  },
-  {
-   "name": "Ynet",
-   "url": "https://www.ynet.co.il/",
-   "group": "Hebrew news",
-   "note": "Mainstream center"
-  },
-  {
-   "name": "Makor Rishon",
-   "url": "https://www.makorrishon.co.il/",
-   "group": "Hebrew news",
-   "note": "Religious-Zionist right; settlement and land"
-  },
-  {
-   "name": "Palestinian Media Watch",
-   "url": "https://palwatch.org.il/",
-   "group": "Monitoring groups",
-   "note": "Pro-Israel monitor; PA incitement, PA officers in terror"
-  },
-  {
-   "name": "@palwatch",
-   "url": "https://x.com/palwatch",
-   "group": "X accounts",
-   "note": "Palestinian Media Watch"
-  },
-  {
-   "name": "HaShomer HaChadash",
-   "url": "https://hashomer.org.il/",
-   "group": "Monitoring groups",
-   "note": "Pro-farmer; agricultural theft, Negev and Galilee land control"
-  },
-  {
-   "name": "OCHA oPt",
-   "url": "https://www.ochaopt.org/",
-   "group": "Monitoring groups",
-   "note": "UN; demolitions, settler-violence and access data"
-  },
-  {
-   "name": "Quds News Network (@QudsNen)",
-   "url": "https://x.com/QudsNen",
-   "group": "Palestinian and Arab media",
-   "note": "Pro-Hamas leaning; fast reports on clashes and raids"
-  },
-  {
-   "name": "Arab48",
-   "url": "https://www.arab48.com/",
-   "group": "Palestinian and Arab media",
-   "note": "Israeli-Arab, nationalist; Negev/Galilee and J&S"
-  },
-  {
-   "name": "INSS",
-   "url": "https://www.inss.org.il/he/",
-   "group": "Research and think tanks",
-   "note": "Center, security establishment"
-  },
-  {
-   "name": "JCPA",
-   "url": "https://jcpa.org.il/",
-   "group": "Research and think tanks",
-   "note": "Right of center; PA security services and Hamas"
-  },
-  {
-   "name": "Misgav Institute",
-   "url": "https://misgavins.org/",
-   "group": "Research and think tanks",
-   "note": "National-security right"
-  },
-  {
-   "name": "Alma Center",
-   "url": "https://israel-alma.org/",
-   "group": "Research and think tanks",
-   "note": "Security research; weapons smuggling, northern and J&S fronts"
-  },
-  {
-   "name": "BESA Center (@BESA_Center)",
-   "url": "https://x.com/BESA_Center",
-   "group": "Research and think tanks",
-   "note": "Bar-Ilan, right of center"
-  },
-  {
-   "name": "Washington Institute",
-   "url": "https://www.washingtoninstitute.org/",
-   "group": "Research and think tanks",
-   "note": "US, center; PA security forces studies"
-  },
-  {
-   "name": "Mitvim (@Mitvim)",
-   "url": "https://x.com/Mitvim",
-   "group": "Research and think tanks",
-   "note": "Center-left, pro-PA engagement view"
-  },
-  {
-   "name": "Shaul Bartal (@ShaulBartal)",
-   "url": "https://x.com/ShaulBartal",
-   "group": "X accounts",
-   "note": "Researcher of Palestinian affairs, right of center"
-  },
-  {
-   "name": "Yesha Council (@YESHA_council)",
-   "url": "https://x.com/YESHA_council",
-   "group": "X accounts",
-   "note": "Settler umbrella body; settlement policy and roads"
-  },
-  {
-   "name": "Yesha Council",
-   "url": "https://www.myesha.org.il/",
-   "group": "Monitoring groups",
-   "note": "Settler umbrella body"
-  },
-  {
-   "name": "Yossi Dagan (@YossiDagan)",
-   "url": "https://x.com/YossiDagan",
-   "group": "X accounts",
-   "note": "Samaria Regional Council head; Samaria security and building"
-  },
-  {
-   "name": "Samaria Council (@samariacouncil)",
-   "url": "https://x.com/samariacouncil",
-   "group": "X accounts",
-   "note": "Samaria Regional Council"
-  },
-  {
-   "name": "Daniella Weiss (@DaniellaWeiss)",
-   "url": "https://x.com/DaniellaWeiss",
-   "group": "X accounts",
-   "note": "Nachala; new outposts and settlement drives"
-  },
-  {
-   "name": "Arutz 7",
-   "url": "https://www.inn.co.il/",
-   "group": "Hebrew news",
-   "note": "Religious-Zionist right; settlement and attacks"
-  },
-  {
-   "name": "@Arutz7",
-   "url": "https://x.com/Arutz7",
-   "group": "X accounts",
-   "note": "Arutz 7 Hebrew"
-  },
-  {
-   "name": "Israel National News (@ArutzSheva_En)",
-   "url": "https://x.com/ArutzSheva_En",
-   "group": "X accounts",
-   "note": "Arutz Sheva English"
-  },
-  {
-   "name": "HaKol HaYehudi (@hakolhayehudi)",
-   "url": "https://x.com/hakolhayehudi",
-   "group": "X accounts",
-   "note": "Settler news site; Arab labor and security exposés"
-  },
-  {
-   "name": "Yishai Fleisher (@YishaiFleisher)",
-   "url": "https://x.com/YishaiFleisher",
-   "group": "X accounts",
-   "note": "Hebron Jewish community spokesman"
-  },
-  {
-   "name": "Zvika Klein (@ZvikaKlein)",
-   "url": "https://x.com/ZvikaKlein",
-   "group": "X accounts",
-   "note": "Jerusalem Post editor; cited by Regavim"
-  },
-  {
-   "name": "Amiel Yarchi (@amiel_y)",
-   "url": "https://x.com/amiel_y",
-   "group": "X accounts",
-   "note": "Right-wing reporter; Negev Bedouin security, cited by Regavim"
-  },
-  {
-   "name": "Regavim English (@RegavimEng)",
-   "url": "https://x.com/RegavimEng",
-   "group": "X accounts",
-   "note": "Regavim in English"
-  },
-  {
-   "name": "C14 News (@C14_news)",
-   "url": "https://x.com/C14_news",
-   "group": "X accounts",
-   "note": "Channel 14, right"
-  },
-  {
-   "name": "Yaakov Lappin (@YaakovLappin)",
-   "url": "https://x.com/YaakovLappin",
-   "group": "X accounts",
-   "note": "Military analyst, center"
-  },
-  {
-   "name": "WAFA",
-   "url": "https://www.wafa.ps/",
-   "group": "Palestinian and Arab media",
-   "note": "Official PA news agency; PA's own line"
-  },
-  {
-   "name": "WAFA English (@WAFANewsEnglish)",
-   "url": "https://x.com/WAFANewsEnglish",
-   "group": "Palestinian and Arab media",
-   "note": "Official PA news agency"
-  },
-  {
-   "name": "Ma'an News Agency",
-   "url": "https://www.maannews.net/",
-   "group": "Palestinian and Arab media",
-   "note": "Bethlehem, independent Palestinian"
-  },
-  {
-   "name": "Al-Quds",
-   "url": "https://www.alquds.com/",
-   "group": "Palestinian and Arab media",
-   "note": "Jerusalem daily, largest Palestinian paper"
-  },
-  {
-   "name": "Abu Ali Express (Telegram)",
-   "url": "https://t.me/s/abualiexpress",
-   "group": "Telegram channels",
-   "note": "Israeli Arab-affairs channel, right; fast on PA and terror"
-  },
-  {
-   "name": "Quds News Network (Telegram)",
-   "url": "https://t.me/s/QudsN",
-   "group": "Telegram channels",
-   "note": "Pro-Hamas; raids and clashes as they happen"
-  }
- ]
+  "groups": [
+    "Hebrew news",
+    "X accounts",
+    "Monitoring groups",
+    "Journals",
+    "Palestinian and Arab media",
+    "Research and think tanks",
+    "Telegram channels"
+  ],
+  "sources": [
+    {
+      "name": "Channel 14 (Now 14)",
+      "url": "https://www.c14.co.il/",
+      "group": "Hebrew news"
+    },
+    {
+      "name": "Haaretz (Hebrew)",
+      "url": "https://www.haaretz.co.il/",
+      "group": "Hebrew news"
+    },
+    {
+      "name": "Local Call (Mekomit)",
+      "url": "https://www.mekomit.co.il/",
+      "group": "Hebrew news"
+    },
+    {
+      "name": "+972 Magazine",
+      "url": "https://www.972mag.com/",
+      "group": "Hebrew news",
+      "note": "English"
+    },
+    {
+      "name": "Elisha Yered (@ElishaYered)",
+      "url": "https://x.com/ElishaYered",
+      "group": "X accounts"
+    },
+    {
+      "name": "Settlers From Within (@SettlersFW)",
+      "url": "https://x.com/SettlersFW",
+      "group": "X accounts"
+    },
+    {
+      "name": "Elchanan Groner (@elchanangr)",
+      "url": "https://x.com/elchanangr",
+      "group": "X accounts"
+    },
+    {
+      "name": "Channel 18 Israel (@channel18israel)",
+      "url": "https://x.com/channel18israel",
+      "group": "X accounts"
+    },
+    {
+      "name": "Ariel Danino (@ariel__danino)",
+      "url": "https://x.com/ariel__danino",
+      "group": "X accounts"
+    },
+    {
+      "name": "Amishav Melet (@amishav_)",
+      "url": "https://x.com/amishav_",
+      "group": "X accounts"
+    },
+    {
+      "name": "Sam Schubert (@samschub)",
+      "url": "https://x.com/samschub",
+      "group": "X accounts"
+    },
+    {
+      "name": "Hanan Greenwood (@hanan_green)",
+      "url": "https://x.com/hanan_green",
+      "group": "X accounts"
+    },
+    {
+      "name": "Regavim (@Regavim_IL)",
+      "url": "https://x.com/Regavim_IL",
+      "group": "X accounts"
+    },
+    {
+      "name": "Adi Shamay Hacohen (@Adish_news)",
+      "url": "https://x.com/Adish_news",
+      "group": "X accounts"
+    },
+    {
+      "name": "Ran Baratz (@RanBaratz)",
+      "url": "https://x.com/RanBaratz",
+      "group": "X accounts"
+    },
+    {
+      "name": "Gadi Taub (@GadiTaub1)",
+      "url": "https://x.com/GadiTaub1",
+      "group": "X accounts"
+    },
+    {
+      "name": "Hagit Ofran (@hagitofran)",
+      "url": "https://x.com/hagitofran",
+      "group": "X accounts",
+      "note": "Peace Now Settlement Watch"
+    },
+    {
+      "name": "Peace Now (Hebrew)",
+      "url": "https://peacenow.org.il/",
+      "group": "Monitoring groups"
+    },
+    {
+      "name": "Kerem Navot",
+      "url": "https://www.keremnavot.org/",
+      "group": "Monitoring groups",
+      "note": "Dror Etkes"
+    },
+    {
+      "name": "Yesh Din",
+      "url": "https://www.yesh-din.org/",
+      "group": "Monitoring groups"
+    },
+    {
+      "name": "B'Tselem (Hebrew)",
+      "url": "https://www.btselem.org/hebrew",
+      "group": "Monitoring groups"
+    },
+    {
+      "name": "Ir Amim",
+      "url": "https://www.ir-amim.org.il/he",
+      "group": "Monitoring groups"
+    },
+    {
+      "name": "Emek Shaveh",
+      "url": "https://emekshaveh.org/he/",
+      "group": "Monitoring groups"
+    },
+    {
+      "name": "Bimkom",
+      "url": "https://bimkom.org/",
+      "group": "Monitoring groups"
+    },
+    {
+      "name": "Regavim",
+      "url": "https://www.regavim.org.il/",
+      "group": "Monitoring groups"
+    },
+    {
+      "name": "HaShiloach (Hebrew)",
+      "url": "https://hashiloach.org.il/",
+      "group": "Journals"
+    },
+    {
+      "name": "HaShiloach (English)",
+      "url": "https://en.hashiloach.org.il/",
+      "group": "Journals"
+    },
+    {
+      "name": "Dror Etkes (@EtkesDror)",
+      "url": "https://x.com/EtkesDror",
+      "group": "X accounts"
+    },
+    {
+      "name": "Dror Etkes (@dror_etkes)",
+      "url": "https://x.com/dror_etkes",
+      "group": "X accounts"
+    },
+    {
+      "name": "@Israel8251",
+      "url": "https://x.com/Israel8251",
+      "group": "X accounts"
+    },
+    {
+      "name": "The Electronic Intifada",
+      "url": "https://electronicintifada.net/",
+      "group": "Monitoring groups"
+    },
+    {
+      "name": "Olam Katan (weekly)",
+      "url": "https://www.okn.co.il/",
+      "group": "Hebrew news"
+    },
+    {
+      "name": "@olam_katan",
+      "url": "https://x.com/olam_katan",
+      "group": "X accounts"
+    },
+    {
+      "name": "Moran T (@MoranT555)",
+      "url": "https://x.com/MoranT555",
+      "group": "X accounts"
+    },
+    {
+      "name": "Elior Levy (@eliorlevy)",
+      "url": "https://x.com/eliorlevy",
+      "group": "X accounts",
+      "note": "Kan Palestinian affairs; PA security services, Hamas/Fatah"
+    },
+    {
+      "name": "Gal Berger (@GalBerger1)",
+      "url": "https://x.com/GalBerger1",
+      "group": "X accounts",
+      "note": "Kan Palestinian affairs; PA politics and security"
+    },
+    {
+      "name": "Baruch Yedid (@BaruchYedid)",
+      "url": "https://x.com/BaruchYedid",
+      "group": "X accounts",
+      "note": "Arab affairs, Arabic sources; PA forces and incitement"
+    },
+    {
+      "name": "Doron Kadosh (@doronkadosh)",
+      "url": "https://x.com/doronkadosh",
+      "group": "X accounts",
+      "note": "Army Radio military correspondent; IDF operations"
+    },
+    {
+      "name": "Yoav Zitun (@yoavzitun)",
+      "url": "https://x.com/yoavzitun",
+      "group": "X accounts",
+      "note": "Ynet military correspondent; IDF and attacks"
+    },
+    {
+      "name": "Amit Segal (@AmitSegal)",
+      "url": "https://x.com/AmitSegal",
+      "group": "X accounts",
+      "note": "Channel 12 political analyst, right-leaning; cabinet decisions on settlement"
+    },
+    {
+      "name": "Kan News (@kann_news)",
+      "url": "https://x.com/kann_news",
+      "group": "X accounts",
+      "note": "Public broadcaster, center"
+    },
+    {
+      "name": "Ynet",
+      "url": "https://www.ynet.co.il/",
+      "group": "Hebrew news",
+      "note": "Mainstream center"
+    },
+    {
+      "name": "Makor Rishon",
+      "url": "https://www.makorrishon.co.il/",
+      "group": "Hebrew news",
+      "note": "Religious-Zionist right; settlement and land"
+    },
+    {
+      "name": "Palestinian Media Watch",
+      "url": "https://palwatch.org.il/",
+      "group": "Monitoring groups",
+      "note": "Pro-Israel monitor; PA incitement, PA officers in terror"
+    },
+    {
+      "name": "@palwatch",
+      "url": "https://x.com/palwatch",
+      "group": "X accounts",
+      "note": "Palestinian Media Watch"
+    },
+    {
+      "name": "HaShomer HaChadash",
+      "url": "https://hashomer.org.il/",
+      "group": "Monitoring groups",
+      "note": "Pro-farmer; agricultural theft, Negev and Galilee land control"
+    },
+    {
+      "name": "OCHA oPt",
+      "url": "https://www.ochaopt.org/",
+      "group": "Monitoring groups",
+      "note": "UN; demolitions, settler-violence and access data"
+    },
+    {
+      "name": "Quds News Network (@QudsNen)",
+      "url": "https://x.com/QudsNen",
+      "group": "Palestinian and Arab media",
+      "note": "Pro-Hamas leaning; fast reports on clashes and raids"
+    },
+    {
+      "name": "Arab48",
+      "url": "https://www.arab48.com/",
+      "group": "Palestinian and Arab media",
+      "note": "Israeli-Arab, nationalist; Negev/Galilee and J&S"
+    },
+    {
+      "name": "INSS",
+      "url": "https://www.inss.org.il/he/",
+      "group": "Research and think tanks",
+      "note": "Center, security establishment"
+    },
+    {
+      "name": "JCPA",
+      "url": "https://jcpa.org.il/",
+      "group": "Research and think tanks",
+      "note": "Right of center; PA security services and Hamas"
+    },
+    {
+      "name": "Misgav Institute",
+      "url": "https://misgavins.org/",
+      "group": "Research and think tanks",
+      "note": "National-security right"
+    },
+    {
+      "name": "Alma Center",
+      "url": "https://israel-alma.org/",
+      "group": "Research and think tanks",
+      "note": "Security research; weapons smuggling, northern and J&S fronts"
+    },
+    {
+      "name": "BESA Center (@BESA_Center)",
+      "url": "https://x.com/BESA_Center",
+      "group": "Research and think tanks",
+      "note": "Bar-Ilan, right of center"
+    },
+    {
+      "name": "Washington Institute",
+      "url": "https://www.washingtoninstitute.org/",
+      "group": "Research and think tanks",
+      "note": "US, center; PA security forces studies"
+    },
+    {
+      "name": "Mitvim (@Mitvim)",
+      "url": "https://x.com/Mitvim",
+      "group": "Research and think tanks",
+      "note": "Center-left, pro-PA engagement view"
+    },
+    {
+      "name": "Shaul Bartal (@ShaulBartal)",
+      "url": "https://x.com/ShaulBartal",
+      "group": "X accounts",
+      "note": "Researcher of Palestinian affairs, right of center"
+    },
+    {
+      "name": "Yesha Council (@YESHA_council)",
+      "url": "https://x.com/YESHA_council",
+      "group": "X accounts",
+      "note": "Settler umbrella body; settlement policy and roads"
+    },
+    {
+      "name": "Yesha Council",
+      "url": "https://www.myesha.org.il/",
+      "group": "Monitoring groups",
+      "note": "Settler umbrella body"
+    },
+    {
+      "name": "Yossi Dagan (@YossiDagan)",
+      "url": "https://x.com/YossiDagan",
+      "group": "X accounts",
+      "note": "Samaria Regional Council head; Samaria security and building"
+    },
+    {
+      "name": "Samaria Council (@samariacouncil)",
+      "url": "https://x.com/samariacouncil",
+      "group": "X accounts",
+      "note": "Samaria Regional Council"
+    },
+    {
+      "name": "Daniella Weiss (@DaniellaWeiss)",
+      "url": "https://x.com/DaniellaWeiss",
+      "group": "X accounts",
+      "note": "Nachala; new outposts and settlement drives"
+    },
+    {
+      "name": "Arutz 7",
+      "url": "https://www.inn.co.il/",
+      "group": "Hebrew news",
+      "note": "Religious-Zionist right; settlement and attacks"
+    },
+    {
+      "name": "@Arutz7",
+      "url": "https://x.com/Arutz7",
+      "group": "X accounts",
+      "note": "Arutz 7 Hebrew"
+    },
+    {
+      "name": "Israel National News (@ArutzSheva_En)",
+      "url": "https://x.com/ArutzSheva_En",
+      "group": "X accounts",
+      "note": "Arutz Sheva English"
+    },
+    {
+      "name": "HaKol HaYehudi (@hakolhayehudi)",
+      "url": "https://x.com/hakolhayehudi",
+      "group": "X accounts",
+      "note": "Settler news site; Arab labor and security exposés"
+    },
+    {
+      "name": "Yishai Fleisher (@YishaiFleisher)",
+      "url": "https://x.com/YishaiFleisher",
+      "group": "X accounts",
+      "note": "Hebron Jewish community spokesman"
+    },
+    {
+      "name": "Zvika Klein (@ZvikaKlein)",
+      "url": "https://x.com/ZvikaKlein",
+      "group": "X accounts",
+      "note": "Jerusalem Post editor; cited by Regavim"
+    },
+    {
+      "name": "Amiel Yarchi (@amiel_y)",
+      "url": "https://x.com/amiel_y",
+      "group": "X accounts",
+      "note": "Right-wing reporter; Negev Bedouin security, cited by Regavim"
+    },
+    {
+      "name": "Regavim English (@RegavimEng)",
+      "url": "https://x.com/RegavimEng",
+      "group": "X accounts",
+      "note": "Regavim in English"
+    },
+    {
+      "name": "C14 News (@C14_news)",
+      "url": "https://x.com/C14_news",
+      "group": "X accounts",
+      "note": "Channel 14, right"
+    },
+    {
+      "name": "Yaakov Lappin (@YaakovLappin)",
+      "url": "https://x.com/YaakovLappin",
+      "group": "X accounts",
+      "note": "Military analyst, center"
+    },
+    {
+      "name": "WAFA",
+      "url": "https://www.wafa.ps/",
+      "group": "Palestinian and Arab media",
+      "note": "Official PA news agency; PA's own line"
+    },
+    {
+      "name": "WAFA English (@WAFANewsEnglish)",
+      "url": "https://x.com/WAFANewsEnglish",
+      "group": "Palestinian and Arab media",
+      "note": "Official PA news agency"
+    },
+    {
+      "name": "Ma'an News Agency",
+      "url": "https://www.maannews.net/",
+      "group": "Palestinian and Arab media",
+      "note": "Bethlehem, independent Palestinian"
+    },
+    {
+      "name": "Al-Quds",
+      "url": "https://www.alquds.com/",
+      "group": "Palestinian and Arab media",
+      "note": "Jerusalem daily, largest Palestinian paper"
+    },
+    {
+      "name": "Abu Ali Express (Telegram)",
+      "url": "https://t.me/s/abualiexpress",
+      "group": "Telegram channels",
+      "note": "Israeli Arab-affairs channel, right; fast on PA and terror"
+    },
+    {
+      "name": "Quds News Network (Telegram)",
+      "url": "https://t.me/s/QudsN",
+      "group": "Telegram channels",
+      "note": "Pro-Hamas; raids and clashes as they happen"
+    },
+    {
+      "name": "Haaretz (English)",
+      "url": "https://www.haaretz.com/",
+      "group": "Hebrew news",
+      "note": "Includes Amira Hass, Hagar Shezaf and Jack Khoury on the West Bank"
+    }
+  ]
 }
