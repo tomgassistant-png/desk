@@ -2,10 +2,11 @@
  "groups": [
   "Hebrew news",
   "X accounts",
-  "Monitoring and anti-settlement groups",
+  "Monitoring groups",
   "Journals",
   "Palestinian and Arab media",
-  "Research and think tanks"
+  "Research and think tanks",
+  "Telegram channels"
  ],
  "sources": [
   {
@@ -98,43 +99,43 @@
   {
    "name": "Peace Now (Hebrew)",
    "url": "https://peacenow.org.il/",
-   "group": "Monitoring and anti-settlement groups"
+   "group": "Monitoring groups"
   },
   {
    "name": "Kerem Navot",
    "url": "https://www.keremnavot.org/",
-   "group": "Monitoring and anti-settlement groups",
+   "group": "Monitoring groups",
    "note": "Dror Etkes"
   },
   {
    "name": "Yesh Din",
    "url": "https://www.yesh-din.org/",
-   "group": "Monitoring and anti-settlement groups"
+   "group": "Monitoring groups"
   },
   {
    "name": "B'Tselem (Hebrew)",
    "url": "https://www.btselem.org/hebrew",
-   "group": "Monitoring and anti-settlement groups"
+   "group": "Monitoring groups"
   },
   {
    "name": "Ir Amim",
    "url": "https://www.ir-amim.org.il/he",
-   "group": "Monitoring and anti-settlement groups"
+   "group": "Monitoring groups"
   },
   {
    "name": "Emek Shaveh",
    "url": "https://emekshaveh.org/he/",
-   "group": "Monitoring and anti-settlement groups"
+   "group": "Monitoring groups"
   },
   {
    "name": "Bimkom",
    "url": "https://bimkom.org/",
-   "group": "Monitoring and anti-settlement groups"
+   "group": "Monitoring groups"
   },
   {
    "name": "Regavim",
    "url": "https://www.regavim.org.il/",
-   "group": "Monitoring and anti-settlement groups"
+   "group": "Monitoring groups"
   },
   {
    "name": "HaShiloach (Hebrew)",
@@ -164,7 +165,7 @@
   {
    "name": "The Electronic Intifada",
    "url": "https://electronicintifada.net/",
-   "group": "Monitoring and anti-settlement groups"
+   "group": "Monitoring groups"
   },
   {
    "name": "Olam Katan (weekly)",
@@ -238,7 +239,7 @@
   {
    "name": "Palestinian Media Watch",
    "url": "https://palwatch.org.il/",
-   "group": "Monitoring and anti-settlement groups",
+   "group": "Monitoring groups",
    "note": "Pro-Israel monitor; PA incitement, PA officers in terror"
   },
   {
@@ -250,13 +251,13 @@
   {
    "name": "HaShomer HaChadash",
    "url": "https://hashomer.org.il/",
-   "group": "Monitoring and anti-settlement groups",
+   "group": "Monitoring groups",
    "note": "Pro-farmer; agricultural theft, Negev and Galilee land control"
   },
   {
    "name": "OCHA oPt",
    "url": "https://www.ochaopt.org/",
-   "group": "Monitoring and anti-settlement groups",
+   "group": "Monitoring groups",
    "note": "UN; demolitions, settler-violence and access data"
   },
   {
@@ -318,6 +319,132 @@
    "url": "https://x.com/ShaulBartal",
    "group": "X accounts",
    "note": "Researcher of Palestinian affairs, right of center"
+  },
+  {
+   "name": "Yesha Council (@YESHA_council)",
+   "url": "https://x.com/YESHA_council",
+   "group": "X accounts",
+   "note": "Settler umbrella body; settlement policy and roads"
+  },
+  {
+   "name": "Yesha Council",
+   "url": "https://www.myesha.org.il/",
+   "group": "Monitoring groups",
+   "note": "Settler umbrella body"
+  },
+  {
+   "name": "Yossi Dagan (@YossiDagan)",
+   "url": "https://x.com/YossiDagan",
+   "group": "X accounts",
+   "note": "Samaria Regional Council head; Samaria security and building"
+  },
+  {
+   "name": "Samaria Council (@samariacouncil)",
+   "url": "https://x.com/samariacouncil",
+   "group": "X accounts",
+   "note": "Samaria Regional Council"
+  },
+  {
+   "name": "Daniella Weiss (@DaniellaWeiss)",
+   "url": "https://x.com/DaniellaWeiss",
+   "group": "X accounts",
+   "note": "Nachala; new outposts and settlement drives"
+  },
+  {
+   "name": "Arutz 7",
+   "url": "https://www.inn.co.il/",
+   "group": "Hebrew news",
+   "note": "Religious-Zionist right; settlement and attacks"
+  },
+  {
+   "name": "@Arutz7",
+   "url": "https://x.com/Arutz7",
+   "group": "X accounts",
+   "note": "Arutz 7 Hebrew"
+  },
+  {
+   "name": "Israel National News (@ArutzSheva_En)",
+   "url": "https://x.com/ArutzSheva_En",
+   "group": "X accounts",
+   "note": "Arutz Sheva English"
+  },
+  {
+   "name": "HaKol HaYehudi (@hakolhayehudi)",
+   "url": "https://x.com/hakolhayehudi",
+   "group": "X accounts",
+   "note": "Settler news site; Arab labor and security exposés"
+  },
+  {
+   "name": "Yishai Fleisher (@YishaiFleisher)",
+   "url": "https://x.com/YishaiFleisher",
+   "group": "X accounts",
+   "note": "Hebron Jewish community spokesman"
+  },
+  {
+   "name": "Zvika Klein (@ZvikaKlein)",
+   "url": "https://x.com/ZvikaKlein",
+   "group": "X accounts",
+   "note": "Jerusalem Post editor; cited by Regavim"
+  },
+  {
+   "name": "Amiel Yarchi (@amiel_y)",
+   "url": "https://x.com/amiel_y",
+   "group": "X accounts",
+   "note": "Right-wing reporter; Negev Bedouin security, cited by Regavim"
+  },
+  {
+   "name": "Regavim English (@RegavimEng)",
+   "url": "https://x.com/RegavimEng",
+   "group": "X accounts",
+   "note": "Regavim in English"
+  },
+  {
+   "name": "C14 News (@C14_news)",
+   "url": "https://x.com/C14_news",
+   "group": "X accounts",
+   "note": "Channel 14, right"
+  },
+  {
+   "name": "Yaakov Lappin (@YaakovLappin)",
+   "url": "https://x.com/YaakovLappin",
+   "group": "X accounts",
+   "note": "Military analyst, center"
+  },
+  {
+   "name": "WAFA",
+   "url": "https://www.wafa.ps/",
+   "group": "Palestinian and Arab media",
+   "note": "Official PA news agency; PA's own line"
+  },
+  {
+   "name": "WAFA English (@WAFANewsEnglish)",
+   "url": "https://x.com/WAFANewsEnglish",
+   "group": "Palestinian and Arab media",
+   "note": "Official PA news agency"
+  },
+  {
+   "name": "Ma'an News Agency",
+   "url": "https://www.maannews.net/",
+   "group": "Palestinian and Arab media",
+   "note": "Bethlehem, independent Palestinian"
+  },
+  {
+   "name": "Al-Quds",
+   "url": "https://www.alquds.com/",
+   "group": "Palestinian and Arab media",
+   "note": "Jerusalem daily, largest Palestinian paper"
+  },
+  {
+   "name": "Abu Ali Express (Telegram)",
+   "url": "https://t.me/s/abualiexpress",
+   "group": "Telegram channels",
+   "note": "Israeli Arab-affairs channel, right; fast on PA and terror"
+  },
+  {
+   "name": "Quds News Network (Telegram)",
+   "url": "https://t.me/s/QudsN",
+   "group": "Telegram channels",
+   "note": "Pro-Hamas; raids and clashes as they happen"
   }
  ]
 }
