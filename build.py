@@ -320,7 +320,7 @@ def build(data, now):
                       f'<span class="s">{e(it["source"])} · {e(long_date(it["date"]))}</span></li>')
         sv.append('</ol>')
     sv.append('</div>')
-    out.append('<aside class="rail">' + "".join(sv) + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
+    out.append('<aside class="rail">' + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 
