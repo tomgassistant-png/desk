@@ -163,6 +163,11 @@
       "name": "The Electronic Intifada",
       "url": "https://electronicintifada.net/",
       "group": "Monitoring and anti-settlement groups"
+    },
+    {
+      "name": "Olam Katan (weekly)",
+      "url": "https://olamkatan.co.il/",
+      "group": "Hebrew news"
     }
   ]
 }
