@@ -77,8 +77,9 @@ def build(data, now):
     if eds:
         top = eds[0]
         o.append(f'<div class="dateline"><span>{e(weekday_date(now.date()))}</span><span>Aden · Sanaa · Riyadh</span>'
-                 f'<span>This edition: {e(long_date(top["date"]))}</span></div>' + map_section())
+                 f'<span>This edition: {e(long_date(top["date"]))}</span></div>')
         o.append(f'<main class="main"><section class="section"><h2>{e(weekday_date(date.fromisoformat(top["date"])))}</h2>{edition(top, new=True)}</section></main>')
+        o.append(map_section())
     o.append('<section class="archive"><h2>Archive — earlier editions</h2>')
     if len(eds) < 2: o.append('<p class="empty">No earlier editions yet.</p>')
     for ed in eds[1:]:
