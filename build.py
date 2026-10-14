@@ -325,7 +325,7 @@ def build(data, now):
     out.append(f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
                f'<meta name="robots" content="noindex, nofollow, noarchive"><meta name="viewport" content="width=device-width, initial-scale=1">'
                f'<title>{e(title)} — {e(long_date(now.date()))}</title>'
-               f'<meta name="description" content="{e(sub)}"><style>{CSS}{NAV_CSS}</style></head><body><div class="page">' + NAV)
+               f'<meta name="description" content="{e(sub)}"><style>{CSS}{NAV_CSS}</style></head><body><div class="page">' + __import__('sitenav').nav('jsd', '', ' | <a href="#backgrounders">Backgrounders</a>'))
     out.append(f'<div class="topline"><span>Compiled from the daily PA security letters</span>'
                f'<span>Updated {now:%H:%M} Israel time</span></div>')
     out.append(f'<header class="masthead"><h1>{e(title)}</h1><p class="sub">{e(sub)}</p>'

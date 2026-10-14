@@ -3,6 +3,7 @@
 Reads digest/items.json, plus items.json (JSD) and yemen/items.json for the 'new today' lines.
 Run: python3 build_cover.py"""
 import json, os
+import sitenav
 from datetime import datetime
 from build import CSS, NAV_CSS, JS, TZ, e, long_date, weekday_date, weather_html
 
@@ -76,7 +77,7 @@ def main():
         if i["edition"] == newest and i["section"] not in seen:
             seen.add(i["section"]); top.append(i)
     body = "".join(f'<p class="sec">{e(names[i["section"]])}</p>' + story(i, newest, "h2") for i in top)
-    cover = (head("Tom's Cover — " + long_date(newest)) + nav(d, "cover", "../") +
+    cover = (head("Tom's Cover — " + long_date(newest)) + sitenav.nav("cover", "../") +
              f'<header class="masthead"><h1>Tom\'s Cover</h1><p class="dateline">{e(weekday_date(now.date()))} · Digest edition of {e(long_date(newest))}</p></header>'
              + (f'<p class="summary"><i>{e(ed["intro"])}</i></p>' if ed.get("intro") else "") +
              f'<div class="cov-grid"><main><h2 class="edn">Top stories</h2>{body}'
@@ -88,10 +89,10 @@ def main():
     # section pages with archive by edition
     for s in d["sections"]:
         mine = sorted((i for i in items if i["section"] == s["id"]), key=lambda i: i["edition"], reverse=True)
-        out = [head(s["name"] + " — Digest section"), nav(d, s["id"], "../../"),
+        out = [head(s["name"] + " — Digest section"), sitenav.nav(s["id"], "../../"),
                f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">Daily research digest section · latest edition {e(long_date(newest))}</p></header>']
         if not mine:
-            out.append('<p class="summary">No stories in this section yet. The digest reports on it only when there is material news.</p>')
+            out.append(f'<p class="summary">{e(s.get("placeholder") or "No stories in this section yet. The digest reports on it only when there is material news.")}</p>')
         last = None
         for i in mine:
             if i["edition"] != last:

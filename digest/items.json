@@ -59,6 +59,12 @@
   {
    "id": "greenland",
    "name": "Greenland"
+  },
+  {
+   "id": "marc-andreessen",
+   "name": "Marc Andreessen",
+   "about": "Signs of life: his posts and public appearances after his silence since July 2026. Fed by Beacon.",
+   "placeholder": "Nothing has been reported here yet. This section will track signs of life from Marc Andreessen: his posts and public appearances after his silence since July 2026. Beacon will add items when it finds them."
   }
  ],
  "editions": {

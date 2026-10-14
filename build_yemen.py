@@ -71,7 +71,7 @@ def build(data, now):
     o = [f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
          '<meta name="robots" content="noindex, nofollow, noarchive"><meta name="googlebot" content="noindex, nofollow, noarchive">'
          f'<meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(t)} — {e(long_date(now.date()))}</title>'
-         f'<style>{CSS}{NAV_CSS}{MAP_CSS}.story.new h3,.story.new h2{{color:#9b1c1c}}</style></head><body><div class="page">', nav("yemen", "../"),
+         f'<style>{CSS}{NAV_CSS}{MAP_CSS}.story.new h3,.story.new h2{{color:#9b1c1c}}</style></head><body><div class="page">', __import__("sitenav").nav("yemen", "../"),
          f'<div class="topline"><span>Compiled from the daily Yemen campaign brief</span><span>Updated {now:%H:%M} Israel time</span></div>',
          f'<header class="masthead"><h1>{e(t)}</h1><p class="sub">{e(data.get("subtitle",""))}</p></header>']
     if eds:
