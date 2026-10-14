@@ -1,234 +1,244 @@
 {
- "sections": [
-  {
-   "id": "israel-election",
-   "name": "Israel election"
-  },
-  {
-   "id": "lebanon",
-   "name": "Lebanon"
-  },
-  {
-   "id": "brazil",
-   "name": "Brazil"
-  },
-  {
-   "id": "colombia-and-israel",
-   "name": "Colombia and Israel"
-  },
-  {
-   "id": "spacex-xai-and-cursor",
-   "name": "SpaceX, xAI and Cursor"
-  },
-  {
-   "id": "quebec",
-   "name": "Quebec"
-  },
-  {
-   "id": "israeli-data-centers",
-   "name": "Israeli data centers"
-  },
-  {
-   "id": "non-latin-script-digitization",
-   "name": "Non-Latin script digitization"
-  },
-  {
-   "id": "carney-case",
-   "name": "The Carney case"
-  },
-  {
-   "id": "belle-burden",
-   "name": "Belle Burden"
-  },
-  {
-   "id": "trump-and-xi",
-   "name": "Trump and Xi"
-  },
-  {
-   "id": "nick-land",
-   "name": "Nick Land"
-  },
-  {
-   "id": "uk-breakup-politics",
-   "name": "UK breakup politics"
-  },
-  {
-   "id": "hashiloach",
-   "name": "HaShiloach"
-  },
-  {
-   "id": "greenland",
-   "name": "Greenland"
-  },
-  {
-   "id": "marc-andreessen",
-   "name": "Marc Andreessen",
-   "about": "Signs of life: his posts and public appearances after his silence since July 2026. Fed by Beacon.",
-   "placeholder": "Nothing has been reported here yet. This section will track signs of life from Marc Andreessen: his posts and public appearances after his silence since July 2026. Beacon will add items when it finds them."
-  }
- ],
- "editions": {
-  "2026-10-12": {
-   "intro": "The main items are a Kan poll that puts Netanyahu's bloc ahead while Polymarket moved toward Eisenkot, a reported American plan to restart the Lebanon track this week, new details on the explosives seized on the road to Beirut, rival rallies in São Paulo two weeks before the Brazilian runoff, and Musk's statement that the next Starship flight will try to catch the upper stage. Topics with nothing new are left out.",
-   "quiet": "Nothing material on Quebec, Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland."
-  }
- },
- "items": [
-  {
-   "id": "2026-10-12-israel-election-1",
-   "edition": "2026-10-12",
-   "section": "israel-election",
-   "lead": "The Kan public broadcaster published a Kantar poll on Sunday evening (552 respondents, margin of error 4.2 points).",
-   "text": "The Kan public broadcaster published a Kantar poll on Sunday evening (552 respondents, margin of error 4.2 points). Yashar has 22 seats, Likud 20, Bennett's Beyachad 12, Otzma Yehudit 9, and the Democrats, Yisrael Beytenu, United Torah Judaism and the Joint List 8 each. Ofer Winter's Amcha Yisrael and Yoaz Hendel's Reservists both cross the threshold with 4 seats. The Netanyahu bloc, counting Winter, rises from 51 to 53 and the anti-Netanyahu bloc falls from 52 to 50, with the Arab parties at 13. Eisenkot still leads Netanyahu 43% to 38% on who is more suitable to be prime minister, and 30% of respondents are undecided (Haaretz). Thursday's Zman Yisrael poll had the opposite result, 55 to 51 for the anti-Netanyahu bloc, so the polls agree only that neither side reaches 61. Winter's vote share matters most: when he crosses the threshold, the right gains about four seats, and when he falls below it, those votes are lost.",
-   "sources": [
+  "sections": [
     {
-     "name": "Haaretz",
-     "url": "https://www.haaretz.com/israel-news/elections/2026-10-11/ty-article/israel-election-poll-eisenkot-bloc-continues-slump-as-coalition-gains-ground/000001a1-2c63-d7a5-a7b1-be7397560000"
-    }
-   ],
-   "headline": "Kan poll puts Netanyahu's bloc at 53 seats, the opposition at 50"
-  },
-  {
-   "id": "2026-10-12-israel-election-2",
-   "edition": "2026-10-12",
-   "section": "israel-election",
-   "lead": "Also on Sunday, Bennett told a conference of the religious Zionist paper HaDor that Netanyahu could join a future government, and even be a minister, if he accepted the bloc's guidelines, including a state commission of inquiry into 7 October.",
-   "text": "Also on Sunday, Bennett told a conference of the religious Zionist paper HaDor that Netanyahu could join a future government, and even be a minister, if he accepted the bloc's guidelines, including a state commission of inquiry into 7 October. Eisenkot, Yair Golan and Avigdor Liberman rejected the idea at once, and Bennett withdrew it the same evening, saying it was meant to show the absurdity of the idea. Benny Gantz was the only one to support it, calling for a unity government with Likud (Times of Israel). Shas and United Torah Judaism signed their expected surplus-vote agreement. A UTJ candidate, Moshe Rosenthal, said the party would sit with whoever passes a draft-exemption law that the High Court will uphold, and that the rabbis will decide after the election (Times of Israel). That statement leaves the door open to Eisenkot, which is a real threat to Netanyahu, because without the Haredi parties his bloc has no path to a majority.",
-   "sources": [
-    {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/bennett-suggests-netanyahu-could-be-part-of-future-government-quickly-backtracks/"
+      "id": "israel-election",
+      "name": "Israel election"
     },
     {
-     "name": "Times of Israel",
-     "url": "https://www.timesofisrael.com/liveblog_entry/shas-utj-sign-surplus-vote-agreement-ahead-of-election/"
-    }
-   ],
-   "headline": "Bennett floats, then withdraws, a role for Netanyahu in a future government"
-  },
-  {
-   "id": "2026-10-12-israel-election-3",
-   "edition": "2026-10-12",
-   "section": "israel-election",
-   "lead": "Polymarket moved against the Kan poll.",
-   "text": "Polymarket moved against the Kan poll. Eisenkot is now at about 46% to be the next sworn-in prime minister, Netanyahu at about 32% and Bennett at about 14%, compared with 41, 34.5 and 11.5 yesterday (Polymarket). The deadline for surplus-vote agreements is Friday 16 October.",
-   "sources": [
-    {
-     "name": "Polymarket",
-     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
-    }
-   ],
-   "headline": "Polymarket moves toward Eisenkot despite the Kan poll"
-  },
-  {
-   "id": "2026-10-12-lebanon-1",
-   "edition": "2026-10-12",
-   "section": "lebanon",
-   "lead": "Al Arabiya's Washington correspondent, Pierre Ghanem, reported on Sunday that the State Department intends to announce progress this week on the three-way framework between the United States, Lebanon and Israel.",
-   "text": "Al Arabiya's Washington correspondent, Pierre Ghanem, reported on Sunday that the State Department intends to announce progress this week on the three-way framework between the United States, Lebanon and Israel. According to his sources, Secretary of State Rubio has told his staff to finish two things by the middle of this month: a monitoring and verification mechanism for the \"pilot zones\" in the south, where Hezbollah is to be disarmed in exchange for Israeli withdrawal, and a framework for an economic aid conference for Lebanon. The main obstacle is the composition of the monitoring force. Israel objects to several countries, France in particular, and the United States will not send its own soldiers to the south, so Washington is looking for a way to use French troops away from the border alongside other European forces. A State Department official said any international presence must be tied to the goals of the framework agreement and not become \"permanent mediation.\" The same sources say Hezbollah has raised at least $40 million a month this year through smuggling across the Syrian border, falsified transactions at the port of Beirut and state salaries, since Iran stopped sending money (Al Arabiya, via Infinity News). The American position, stated in public after Rubio met Prime Minister Salam two weeks ago, is that disarmament must come before any Israeli withdrawal.",
-   "sources": [
-    {
-     "name": "Al Arabiya, via Infinity News",
-     "url": "https://infinity24.news/300751"
-    }
-   ],
-   "headline": "Al Arabiya: Washington to announce progress on the Lebanon framework this week"
-  },
-  {
-   "id": "2026-10-12-lebanon-2",
-   "edition": "2026-10-12",
-   "section": "lebanon",
-   "lead": "An-Nahar reported new details on the 500 kilograms of explosives (250 of TNT and 250 of C-4) seized at Dahr al-Baidar.",
-   "text": "An-Nahar reported new details on the 500 kilograms of explosives (250 of TNT and 250 of C-4) seized at Dahr al-Baidar. According to leaked investigation records, the two detained men admitted that they belong to Hezbollah and that the explosives are Hezbollah's. They said an official in the Bekaa gave them the load to deliver to the southern suburbs of Beirut, to a man known as \"Dhu al-Fiqar.\" Judge Claude Ghanem, the government commissioner at the Military Court, sent the file back to the army's Military Police for further questioning. The paper says the idea of an assassination plot is still only a suspicion. In recent days the army has also seized 245 kilograms of TNT smuggled from Syria and another load of explosives and shells near Qasr in the Hermel district (An-Nahar). If the confessions hold up, the state will have a court case that ties Hezbollah directly to explosives moved inside Lebanon. That gives Salam something concrete to show Washington before the Tampa meeting, but it also makes a confrontation with Hezbollah harder to avoid.",
-   "sources": [
-    {
-     "name": "An-Nahar",
-     "url": "https://www.annahar.com/lebanon/politics/356010/%D9%85%D8%AA%D9%81%D8%AC%D8%B1%D8%A7%D8%AA-%D8%B6%D9%87%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%AF%D8%B1-%D8%B4%D8%AD%D9%86%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%B9%D9%82%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%88%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D9%86%D9%82%D9%84%D9%87"
-    }
-   ],
-   "headline": "An-Nahar: detained men say the Dahr al-Baidar explosives belong to Hezbollah"
-  },
-  {
-   "id": "2026-10-12-lebanon-3",
-   "edition": "2026-10-12",
-   "section": "lebanon",
-   "lead": "In the south, two men harvesting olives were killed on Sunday, a retired soldier near Yater by Israeli artillery and an engineer in Froun by an old munition.",
-   "text": "In the south, two men harvesting olives were killed on Sunday, a retired soldier near Yater by Israeli artillery and an engineer in Froun by an old munition. Froun is one of the three pilot zones announced in July. Israel carried out four airstrikes on Mansouri, Talloussa and Kfar Tibnit, shelled at least nine villages overnight and demolished houses in Haddatha and Byout al-Siyad (L'Orient Today).",
-   "sources": [
-    {
-     "name": "L'Orient Today",
-     "url": "https://today.lorientlejour.com/article/1550412/israel-launches-airstrikes-on-3-occupied-lebanese-villages-demolishes-homes-in-2-others.html"
-    }
-   ],
-   "headline": "Two olive harvesters killed in south Lebanon; Israeli strikes on three villages"
-  },
-  {
-   "id": "2026-10-12-brazil-1",
-   "edition": "2026-10-12",
-   "section": "brazil",
-   "lead": "Lula held his largest rally of the campaign on Sunday on the Avenida Paulista in São Paulo.",
-   "text": "Lula held his largest rally of the campaign on Sunday on the Avenida Paulista in São Paulo. It filled twelve blocks, the largest crowd the left has gathered there since the protests against Jair Bolsonaro, with smaller events in 76 other cities. There was no official crowd count, because the campaign did not authorize the drone flight that the USP/Cebrap monitor uses. Lula spoke mainly to young voters. Flávio Bolsonaro met Governor Tarcísio de Freitas, Mayor Ricardo Nunes and local mayors and council members at a lunch in the same city. He told them to avoid a mood of \"already won\" and said \"nothing is settled.\" Tarcísio and Nunes announced a pro-Flávio rally on the Paulista next Sunday, 18 October. On the same day the president of the TSE, Brazil's Superior Electoral Court, which polices campaign content, Kassio Nunes Marques, ordered the suspension of \"Exército do Lula,\" a WhatsApp channel with more than three million followers run by Deputy André Janones, at the request of Flávio's campaign. A few hours later the court's chief inspector, Ricardo Villas Bôas Cueva, restored it, finding the evidence insufficient (Folha).",
-   "sources": [
-    {
-     "name": "Folha",
-     "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-reune-multidao-e-mira-jovens-flavio-mobiliza-aliados-e-fala-em-evitar-ja-ganhou.shtml"
-    }
-   ],
-   "headline": "Lula holds his largest rally; Flávio Bolsonaro warns allies that \"nothing is settled\""
-  },
-  {
-   "id": "2026-10-12-brazil-2",
-   "edition": "2026-10-12",
-   "section": "brazil",
-   "lead": "A smaller pollster, DataTrends, published a poll on Sunday (2,000 automated telephone interviews, 7–9 October, margin of error 2.2 points) with Flávio at 50% and Lula at 44%, or 53.1% to 46.9% in valid votes (GP1).",
-   "text": "A smaller pollster, DataTrends, published a poll on Sunday (2,000 automated telephone interviews, 7–9 October, margin of error 2.2 points) with Flávio at 50% and Lula at 44%, or 53.1% to 46.9% in valid votes (GP1). Poder360's table of the five main polls shows Flávio ahead in four, by 4 to 6 points in valid votes, and Lula narrowly ahead only in Vox Brasil, by 50.9% to 49.1% (Poder360). Record canceled its debate, so the first runoff debate is on Band on 18 October and the last on Globo on 23 October. On Polymarket Flávio is at about 86% and Lula at about 13%, compared with 88 and 12 yesterday (Polymarket). Quaest's first runoff poll is due on Wednesday.",
-   "sources": [
-    {
-     "name": "GP1",
-     "url": "https://www.gp1.com.br/brasil/noticia/2026/10/11/flavio-bolsonaro-tem-531-dos-votos-validos-no-segundo-turno-e-lula-469-diz-datatrends-633734.html"
+      "id": "lebanon",
+      "name": "Lebanon"
     },
     {
-     "name": "Poder360",
-     "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-14-dias-do-2o-turno/"
+      "id": "brazil",
+      "name": "Brazil"
     },
     {
-     "name": "Polymarket",
-     "url": "https://polymarket.com/event/brazil-presidential-election"
-    }
-   ],
-   "headline": "DataTrends poll has Flávio ahead; he leads in four of five main polls"
-  },
-  {
-   "id": "2026-10-12-colombia-and-israel-1",
-   "edition": "2026-10-12",
-   "section": "colombia-and-israel",
-   "lead": "El País reports that Colombia's interior minister, Rodrigo Lara, spoke at last Wednesday's 7 October memorial at the Centro Israelita in Bogotá, the first time the national government has attended.",
-   "text": "El País reports that Colombia's interior minister, Rodrigo Lara, spoke at last Wednesday's 7 October memorial at the Centro Israelita in Bogotá, the first time the national government has attended. He said Colombia would take relations with Israel \"to levels never seen before\" and that he had met Yehuda Kaploun, Trump's special envoy against antisemitism, two days earlier. George Levy, president of the Confederation of Jewish Communities, called the De la Espriella government \"the best friend of the Jewish people in the world.\" Graffiti has appeared on the building of the Israeli embassy and on a kosher restaurant in Bogotá (El País). The embassy in Jerusalem opens on Wednesday 14 October at 6:30 p.m., with Foreign Minister Omar Bula and Gideon Sa'ar presiding (Caracol Radio). Colombia will be the tenth country with an embassy in the city. Marcos Peckel of the Jewish Confederation told El País that the coal trade is symbolic and that the strategic part is security, cyber, counter-drone systems and intelligence, along with Colombia's vote on the UN Security Council.",
-   "sources": [
-    {
-     "name": "El País",
-     "url": "https://elpais.com/america-colombia/2026-10-11/el-mejor-amigo-del-pueblo-judio-en-el-mundo-el-giro-expres-de-colombia-hacia-israel.html"
+      "id": "colombia-and-israel",
+      "name": "Colombia and Israel"
     },
     {
-     "name": "Caracol Radio",
-     "url": "https://caracol.com.co/2026/10/09/el-14-de-octubre-se-inaugura-la-embajada-de-colombia-en-jerusalen/"
-    }
-   ],
-   "headline": "Colombia's government turns toward Israel; Jerusalem embassy opens 14 October"
-  },
-  {
-   "id": "2026-10-12-spacex-xai-and-cursor-1",
-   "edition": "2026-10-12",
-   "section": "spacex-xai-and-cursor",
-   "lead": "Speaking by video at the X Takeover fan event in Texas on Saturday, Musk said that Starship Flight 15 will try to catch the upper stage with the launch tower, which would be the first full recovery of an orbital rocket, and that he hopes it will fly in four to six weeks, \"a little bit before Thanksgiving.\" These are his claims.",
-   "text": "Speaking by video at the X Takeover fan event in Texas on Saturday, Musk said that Starship Flight 15 will try to catch the upper stage with the launch tower, which would be the first full recovery of an orbital rocket, and that he hopes it will fly in four to six weeks, \"a little bit before Thanksgiving.\" These are his claims. SpaceX has not published a mission plan, and the FAA, which licenses every launch and reentry, has not changed the license. NASASpaceflight notes that the current license covers only the Flight 14 reentry, and that changing the mission profile to a ship catch could take time to approve. Its unofficial schedule, taken from FAA planning slides, puts Flight 15 (Ship 42 and Booster 22, from Pad 2 at Starbase) no earlier than 8 November. Ship 42 has had its six engines removed and has gone back for a third round of pressure testing, perhaps to fix the vacuum-engine failures seen on Flights 12 and 14 (NASASpaceflight). There is nothing material on xAI or Cursor.",
-   "sources": [
+      "id": "spacex-xai-and-cursor",
+      "name": "SpaceX, xAI and Cursor"
+    },
     {
-     "name": "NASASpaceflight",
-     "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"
+      "id": "quebec",
+      "name": "Quebec"
+    },
+    {
+      "id": "israeli-data-centers",
+      "name": "Israeli data centers"
+    },
+    {
+      "id": "non-latin-script-digitization",
+      "name": "Non-Latin script digitization"
+    },
+    {
+      "id": "carney-case",
+      "name": "The Carney case"
+    },
+    {
+      "id": "belle-burden",
+      "name": "Belle Burden"
+    },
+    {
+      "id": "trump-and-xi",
+      "name": "Trump and Xi"
+    },
+    {
+      "id": "nick-land",
+      "name": "Nick Land"
+    },
+    {
+      "id": "uk-breakup-politics",
+      "name": "UK breakup politics"
+    },
+    {
+      "id": "hashiloach",
+      "name": "HaShiloach"
+    },
+    {
+      "id": "greenland",
+      "name": "Greenland"
+    },
+    {
+      "id": "marc-andreessen",
+      "name": "Marc Andreessen",
+      "about": "Signs of life: his posts and public appearances after his silence since July 2026. Fed by Beacon.",
+      "placeholder": "Nothing has been reported here yet. This section will track signs of life from Marc Andreessen: his posts and public appearances after his silence since July 2026. Beacon will add items when it finds them.",
+      "links": [
+        {
+          "label": "His X reposts feed (via Twiscan)",
+          "url": "https://twiscan.com/en/x/pmarca"
+        },
+        {
+          "label": "His X profile",
+          "url": "https://x.com/pmarca"
+        }
+      ]
     }
-   ],
-   "headline": "Musk says Starship Flight 15 will try to catch the upper stage"
-  }
- ]
+  ],
+  "editions": {
+    "2026-10-12": {
+      "intro": "The main items are a Kan poll that puts Netanyahu's bloc ahead while Polymarket moved toward Eisenkot, a reported American plan to restart the Lebanon track this week, new details on the explosives seized on the road to Beirut, rival rallies in São Paulo two weeks before the Brazilian runoff, and Musk's statement that the next Starship flight will try to catch the upper stage. Topics with nothing new are left out.",
+      "quiet": "Nothing material on Quebec, Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland."
+    }
+  },
+  "items": [
+    {
+      "id": "2026-10-12-israel-election-1",
+      "edition": "2026-10-12",
+      "section": "israel-election",
+      "lead": "The Kan public broadcaster published a Kantar poll on Sunday evening (552 respondents, margin of error 4.2 points).",
+      "text": "The Kan public broadcaster published a Kantar poll on Sunday evening (552 respondents, margin of error 4.2 points). Yashar has 22 seats, Likud 20, Bennett's Beyachad 12, Otzma Yehudit 9, and the Democrats, Yisrael Beytenu, United Torah Judaism and the Joint List 8 each. Ofer Winter's Amcha Yisrael and Yoaz Hendel's Reservists both cross the threshold with 4 seats. The Netanyahu bloc, counting Winter, rises from 51 to 53 and the anti-Netanyahu bloc falls from 52 to 50, with the Arab parties at 13. Eisenkot still leads Netanyahu 43% to 38% on who is more suitable to be prime minister, and 30% of respondents are undecided (Haaretz). Thursday's Zman Yisrael poll had the opposite result, 55 to 51 for the anti-Netanyahu bloc, so the polls agree only that neither side reaches 61. Winter's vote share matters most: when he crosses the threshold, the right gains about four seats, and when he falls below it, those votes are lost.",
+      "sources": [
+        {
+          "name": "Haaretz",
+          "url": "https://www.haaretz.com/israel-news/elections/2026-10-11/ty-article/israel-election-poll-eisenkot-bloc-continues-slump-as-coalition-gains-ground/000001a1-2c63-d7a5-a7b1-be7397560000"
+        }
+      ],
+      "headline": "Kan poll puts Netanyahu's bloc at 53 seats, the opposition at 50"
+    },
+    {
+      "id": "2026-10-12-israel-election-2",
+      "edition": "2026-10-12",
+      "section": "israel-election",
+      "lead": "Also on Sunday, Bennett told a conference of the religious Zionist paper HaDor that Netanyahu could join a future government, and even be a minister, if he accepted the bloc's guidelines, including a state commission of inquiry into 7 October.",
+      "text": "Also on Sunday, Bennett told a conference of the religious Zionist paper HaDor that Netanyahu could join a future government, and even be a minister, if he accepted the bloc's guidelines, including a state commission of inquiry into 7 October. Eisenkot, Yair Golan and Avigdor Liberman rejected the idea at once, and Bennett withdrew it the same evening, saying it was meant to show the absurdity of the idea. Benny Gantz was the only one to support it, calling for a unity government with Likud (Times of Israel). Shas and United Torah Judaism signed their expected surplus-vote agreement. A UTJ candidate, Moshe Rosenthal, said the party would sit with whoever passes a draft-exemption law that the High Court will uphold, and that the rabbis will decide after the election (Times of Israel). That statement leaves the door open to Eisenkot, which is a real threat to Netanyahu, because without the Haredi parties his bloc has no path to a majority.",
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/bennett-suggests-netanyahu-could-be-part-of-future-government-quickly-backtracks/"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/shas-utj-sign-surplus-vote-agreement-ahead-of-election/"
+        }
+      ],
+      "headline": "Bennett floats, then withdraws, a role for Netanyahu in a future government"
+    },
+    {
+      "id": "2026-10-12-israel-election-3",
+      "edition": "2026-10-12",
+      "section": "israel-election",
+      "lead": "Polymarket moved against the Kan poll.",
+      "text": "Polymarket moved against the Kan poll. Eisenkot is now at about 46% to be the next sworn-in prime minister, Netanyahu at about 32% and Bennett at about 14%, compared with 41, 34.5 and 11.5 yesterday (Polymarket). The deadline for surplus-vote agreements is Friday 16 October.",
+      "sources": [
+        {
+          "name": "Polymarket",
+          "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+        }
+      ],
+      "headline": "Polymarket moves toward Eisenkot despite the Kan poll"
+    },
+    {
+      "id": "2026-10-12-lebanon-1",
+      "edition": "2026-10-12",
+      "section": "lebanon",
+      "lead": "Al Arabiya's Washington correspondent, Pierre Ghanem, reported on Sunday that the State Department intends to announce progress this week on the three-way framework between the United States, Lebanon and Israel.",
+      "text": "Al Arabiya's Washington correspondent, Pierre Ghanem, reported on Sunday that the State Department intends to announce progress this week on the three-way framework between the United States, Lebanon and Israel. According to his sources, Secretary of State Rubio has told his staff to finish two things by the middle of this month: a monitoring and verification mechanism for the \"pilot zones\" in the south, where Hezbollah is to be disarmed in exchange for Israeli withdrawal, and a framework for an economic aid conference for Lebanon. The main obstacle is the composition of the monitoring force. Israel objects to several countries, France in particular, and the United States will not send its own soldiers to the south, so Washington is looking for a way to use French troops away from the border alongside other European forces. A State Department official said any international presence must be tied to the goals of the framework agreement and not become \"permanent mediation.\" The same sources say Hezbollah has raised at least $40 million a month this year through smuggling across the Syrian border, falsified transactions at the port of Beirut and state salaries, since Iran stopped sending money (Al Arabiya, via Infinity News). The American position, stated in public after Rubio met Prime Minister Salam two weeks ago, is that disarmament must come before any Israeli withdrawal.",
+      "sources": [
+        {
+          "name": "Al Arabiya, via Infinity News",
+          "url": "https://infinity24.news/300751"
+        }
+      ],
+      "headline": "Al Arabiya: Washington to announce progress on the Lebanon framework this week"
+    },
+    {
+      "id": "2026-10-12-lebanon-2",
+      "edition": "2026-10-12",
+      "section": "lebanon",
+      "lead": "An-Nahar reported new details on the 500 kilograms of explosives (250 of TNT and 250 of C-4) seized at Dahr al-Baidar.",
+      "text": "An-Nahar reported new details on the 500 kilograms of explosives (250 of TNT and 250 of C-4) seized at Dahr al-Baidar. According to leaked investigation records, the two detained men admitted that they belong to Hezbollah and that the explosives are Hezbollah's. They said an official in the Bekaa gave them the load to deliver to the southern suburbs of Beirut, to a man known as \"Dhu al-Fiqar.\" Judge Claude Ghanem, the government commissioner at the Military Court, sent the file back to the army's Military Police for further questioning. The paper says the idea of an assassination plot is still only a suspicion. In recent days the army has also seized 245 kilograms of TNT smuggled from Syria and another load of explosives and shells near Qasr in the Hermel district (An-Nahar). If the confessions hold up, the state will have a court case that ties Hezbollah directly to explosives moved inside Lebanon. That gives Salam something concrete to show Washington before the Tampa meeting, but it also makes a confrontation with Hezbollah harder to avoid.",
+      "sources": [
+        {
+          "name": "An-Nahar",
+          "url": "https://www.annahar.com/lebanon/politics/356010/%D9%85%D8%AA%D9%81%D8%AC%D8%B1%D8%A7%D8%AA-%D8%B6%D9%87%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%AF%D8%B1-%D8%B4%D8%AD%D9%86%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%B9%D9%82%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%88%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D9%86%D9%82%D9%84%D9%87"
+        }
+      ],
+      "headline": "An-Nahar: detained men say the Dahr al-Baidar explosives belong to Hezbollah"
+    },
+    {
+      "id": "2026-10-12-lebanon-3",
+      "edition": "2026-10-12",
+      "section": "lebanon",
+      "lead": "In the south, two men harvesting olives were killed on Sunday, a retired soldier near Yater by Israeli artillery and an engineer in Froun by an old munition.",
+      "text": "In the south, two men harvesting olives were killed on Sunday, a retired soldier near Yater by Israeli artillery and an engineer in Froun by an old munition. Froun is one of the three pilot zones announced in July. Israel carried out four airstrikes on Mansouri, Talloussa and Kfar Tibnit, shelled at least nine villages overnight and demolished houses in Haddatha and Byout al-Siyad (L'Orient Today).",
+      "sources": [
+        {
+          "name": "L'Orient Today",
+          "url": "https://today.lorientlejour.com/article/1550412/israel-launches-airstrikes-on-3-occupied-lebanese-villages-demolishes-homes-in-2-others.html"
+        }
+      ],
+      "headline": "Two olive harvesters killed in south Lebanon; Israeli strikes on three villages"
+    },
+    {
+      "id": "2026-10-12-brazil-1",
+      "edition": "2026-10-12",
+      "section": "brazil",
+      "lead": "Lula held his largest rally of the campaign on Sunday on the Avenida Paulista in São Paulo.",
+      "text": "Lula held his largest rally of the campaign on Sunday on the Avenida Paulista in São Paulo. It filled twelve blocks, the largest crowd the left has gathered there since the protests against Jair Bolsonaro, with smaller events in 76 other cities. There was no official crowd count, because the campaign did not authorize the drone flight that the USP/Cebrap monitor uses. Lula spoke mainly to young voters. Flávio Bolsonaro met Governor Tarcísio de Freitas, Mayor Ricardo Nunes and local mayors and council members at a lunch in the same city. He told them to avoid a mood of \"already won\" and said \"nothing is settled.\" Tarcísio and Nunes announced a pro-Flávio rally on the Paulista next Sunday, 18 October. On the same day the president of the TSE, Brazil's Superior Electoral Court, which polices campaign content, Kassio Nunes Marques, ordered the suspension of \"Exército do Lula,\" a WhatsApp channel with more than three million followers run by Deputy André Janones, at the request of Flávio's campaign. A few hours later the court's chief inspector, Ricardo Villas Bôas Cueva, restored it, finding the evidence insufficient (Folha).",
+      "sources": [
+        {
+          "name": "Folha",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-reune-multidao-e-mira-jovens-flavio-mobiliza-aliados-e-fala-em-evitar-ja-ganhou.shtml"
+        }
+      ],
+      "headline": "Lula holds his largest rally; Flávio Bolsonaro warns allies that \"nothing is settled\""
+    },
+    {
+      "id": "2026-10-12-brazil-2",
+      "edition": "2026-10-12",
+      "section": "brazil",
+      "lead": "A smaller pollster, DataTrends, published a poll on Sunday (2,000 automated telephone interviews, 7–9 October, margin of error 2.2 points) with Flávio at 50% and Lula at 44%, or 53.1% to 46.9% in valid votes (GP1).",
+      "text": "A smaller pollster, DataTrends, published a poll on Sunday (2,000 automated telephone interviews, 7–9 October, margin of error 2.2 points) with Flávio at 50% and Lula at 44%, or 53.1% to 46.9% in valid votes (GP1). Poder360's table of the five main polls shows Flávio ahead in four, by 4 to 6 points in valid votes, and Lula narrowly ahead only in Vox Brasil, by 50.9% to 49.1% (Poder360). Record canceled its debate, so the first runoff debate is on Band on 18 October and the last on Globo on 23 October. On Polymarket Flávio is at about 86% and Lula at about 13%, compared with 88 and 12 yesterday (Polymarket). Quaest's first runoff poll is due on Wednesday.",
+      "sources": [
+        {
+          "name": "GP1",
+          "url": "https://www.gp1.com.br/brasil/noticia/2026/10/11/flavio-bolsonaro-tem-531-dos-votos-validos-no-segundo-turno-e-lula-469-diz-datatrends-633734.html"
+        },
+        {
+          "name": "Poder360",
+          "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-14-dias-do-2o-turno/"
+        },
+        {
+          "name": "Polymarket",
+          "url": "https://polymarket.com/event/brazil-presidential-election"
+        }
+      ],
+      "headline": "DataTrends poll has Flávio ahead; he leads in four of five main polls"
+    },
+    {
+      "id": "2026-10-12-colombia-and-israel-1",
+      "edition": "2026-10-12",
+      "section": "colombia-and-israel",
+      "lead": "El País reports that Colombia's interior minister, Rodrigo Lara, spoke at last Wednesday's 7 October memorial at the Centro Israelita in Bogotá, the first time the national government has attended.",
+      "text": "El País reports that Colombia's interior minister, Rodrigo Lara, spoke at last Wednesday's 7 October memorial at the Centro Israelita in Bogotá, the first time the national government has attended. He said Colombia would take relations with Israel \"to levels never seen before\" and that he had met Yehuda Kaploun, Trump's special envoy against antisemitism, two days earlier. George Levy, president of the Confederation of Jewish Communities, called the De la Espriella government \"the best friend of the Jewish people in the world.\" Graffiti has appeared on the building of the Israeli embassy and on a kosher restaurant in Bogotá (El País). The embassy in Jerusalem opens on Wednesday 14 October at 6:30 p.m., with Foreign Minister Omar Bula and Gideon Sa'ar presiding (Caracol Radio). Colombia will be the tenth country with an embassy in the city. Marcos Peckel of the Jewish Confederation told El País that the coal trade is symbolic and that the strategic part is security, cyber, counter-drone systems and intelligence, along with Colombia's vote on the UN Security Council.",
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/america-colombia/2026-10-11/el-mejor-amigo-del-pueblo-judio-en-el-mundo-el-giro-expres-de-colombia-hacia-israel.html"
+        },
+        {
+          "name": "Caracol Radio",
+          "url": "https://caracol.com.co/2026/10/09/el-14-de-octubre-se-inaugura-la-embajada-de-colombia-en-jerusalen/"
+        }
+      ],
+      "headline": "Colombia's government turns toward Israel; Jerusalem embassy opens 14 October"
+    },
+    {
+      "id": "2026-10-12-spacex-xai-and-cursor-1",
+      "edition": "2026-10-12",
+      "section": "spacex-xai-and-cursor",
+      "lead": "Speaking by video at the X Takeover fan event in Texas on Saturday, Musk said that Starship Flight 15 will try to catch the upper stage with the launch tower, which would be the first full recovery of an orbital rocket, and that he hopes it will fly in four to six weeks, \"a little bit before Thanksgiving.\" These are his claims.",
+      "text": "Speaking by video at the X Takeover fan event in Texas on Saturday, Musk said that Starship Flight 15 will try to catch the upper stage with the launch tower, which would be the first full recovery of an orbital rocket, and that he hopes it will fly in four to six weeks, \"a little bit before Thanksgiving.\" These are his claims. SpaceX has not published a mission plan, and the FAA, which licenses every launch and reentry, has not changed the license. NASASpaceflight notes that the current license covers only the Flight 14 reentry, and that changing the mission profile to a ship catch could take time to approve. Its unofficial schedule, taken from FAA planning slides, puts Flight 15 (Ship 42 and Booster 22, from Pad 2 at Starbase) no earlier than 8 November. Ship 42 has had its six engines removed and has gone back for a third round of pressure testing, perhaps to fix the vacuum-engine failures seen on Flights 12 and 14 (NASASpaceflight). There is nothing material on xAI or Cursor.",
+      "sources": [
+        {
+          "name": "NASASpaceflight",
+          "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"
+        }
+      ],
+      "headline": "Musk says Starship Flight 15 will try to catch the upper stage"
+    }
+  ]
 }

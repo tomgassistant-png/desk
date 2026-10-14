@@ -91,6 +91,8 @@ def main():
         mine = sorted((i for i in items if i["section"] == s["id"]), key=lambda i: i["edition"], reverse=True)
         out = [head(s["name"] + " — Digest section"), sitenav.nav(s["id"], "../../"),
                f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">Daily research digest section · latest edition {e(long_date(newest))}</p></header>']
+        if s.get("links"):
+            out.append('<p class="summary">' + " · ".join(f'<a href="{e(l["url"])}">{e(l["label"])}</a>' for l in s["links"]) + '</p>')
         if not mine:
             out.append(f'<p class="summary">{e(s.get("placeholder") or "No stories in this section yet. The digest reports on it only when there is material news.")}</p>')
         last = None
