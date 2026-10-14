@@ -9,6 +9,39 @@ NAV_CSS = ('.secnav{text-align:center;font-family:Helvetica,Arial,sans-serif;fon
            '.secnav a{color:#222;text-decoration:none;margin:0 10px}.secnav a.on{font-weight:700;border-bottom:2px solid #222}'
            '.ylede{font-size:20px;font-style:italic;margin:14px 0 18px}.ybox{border-top:1px solid #222;padding-top:8px;margin-top:14px}')
 
+
+MAP_CSS = ('.ymap{margin:14px 0 18px;border-top:1px solid #222;border-bottom:1px solid #ccc;padding:10px 0}'
+           '.ymap h2{margin:0 0 8px}.ymap img{width:100%;height:auto;display:block;border:1px solid #ccc}'
+           '.ymap .cap{font-size:13px;color:#444;margin:6px 0 0;font-family:Helvetica,Arial,sans-serif;line-height:1.4}'
+           '.ymap .key span{display:inline-block;margin-right:12px}.ymap .sw{display:inline-block;width:12px;height:12px;vertical-align:middle;margin-right:4px;border:1px solid #888}'
+           '#ylmap{height:380px;margin-top:12px;border:1px solid #ccc}@media(max-width:700px){#ylmap{height:300px}}')
+PLACES = [("Sanaa",15.3694,44.1910,"Houthi-held capital"),("Hodeidah",14.7978,42.9545,"Houthi-held port"),
+          ("Marib",15.4543,45.3260,"Government-held city, front to the west"),("Taiz",13.5795,44.0209,"Divided city: government holds the center, Houthis ring it"),
+          ("Aden",12.7855,45.0187,"Government seat; STC forces dominant"),("Lahj",13.0567,44.8819,"Government/STC-held, south of the Taiz front"),
+          ("Harib",14.9333,45.5000,"Marib province, government-held per map (approx. position)"),
+          ("Riyadh",24.7136,46.6753,"Saudi capital, Houthi missile/drone target"),("Khamis Mushait",18.3000,42.7333,"Saudi air base city, Houthi target")]
+def map_section():
+    import json as _j
+    pts = _j.dumps(PLACES)
+    return ('<section class="ymap"><h2>Map: who controls what</h2>'
+            '<a href="https://commons.wikimedia.org/wiki/File:Yemeni_Civil_War.svg" target="_blank" rel="noopener">'
+            '<img src="yemen-control-map.png" alt="Map of territorial control in Yemen" loading="lazy"></a>'
+            '<p class="cap key"><span><i class="sw" style="background:#7a9a96"></i>Houthis</span>'
+            '<span><i class="sw" style="background:#f9c8c8"></i>Government (Presidential Leadership Council, including STC forces)</span>'
+            '<span><i class="sw" style="background:#fff"></i>AQAP</span></p>'
+            '<p class="cap">Source: <a href="https://commons.wikimedia.org/wiki/File:Yemeni_Civil_War.svg" target="_blank" rel="noopener">Wikimedia Commons, “Yemeni Civil War.svg”</a> '
+            '(Ali Zifan and contributors, CC BY-SA 4.0), map version of 12 October 2026, compiled from ISWNews and open-source reports. '
+            'It does not separate STC-held areas from other government areas; the STC is strongest in Aden, Lahj and the south. '
+            'Front lines are approximate and change often. For a live view see <a href="https://yemen.liveuamap.com/" target="_blank" rel="noopener">Liveuamap Yemen</a>.</p>'
+            '<div id="ylmap" aria-label="Places in the brief"></div>'
+            '<p class="cap">Places named in the brief, including Saudi targets. Base map © OpenStreetMap contributors. Positions are city centers.</p>'
+            '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">'
+            '<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>'
+            '<script>(function(){if(!window.L)return;var m=L.map("ylmap",{scrollWheelZoom:false}).setView([17.5,45],5);'
+            'L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png",{maxZoom:12,attribution:"© OpenStreetMap contributors"}).addTo(m);'
+            f'var P={pts};P.forEach(function(p){{L.circleMarker([p[1],p[2]],{{radius:6,color:"#9b1c1c",fillOpacity:.8}}).addTo(m).bindTooltip("<b>"+p[0]+"</b><br>"+p[3]);}});'
+            '})();</script></section>')
+
 def nav(here, root):
     links = [("jsd", root, "Judea &amp; Samaria"), ("yemen", root + "yemen/", "Yemen"),
              ("bg", root + "#backgrounders", "Backgrounders")]
@@ -38,13 +71,13 @@ def build(data, now):
     o = [f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
          '<meta name="robots" content="noindex, nofollow, noarchive"><meta name="googlebot" content="noindex, nofollow, noarchive">'
          f'<meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(t)} — {e(long_date(now.date()))}</title>'
-         f'<style>{CSS}{NAV_CSS}.story.new h3,.story.new h2{{color:#9b1c1c}}</style></head><body><div class="page">', nav("yemen", "../"),
+         f'<style>{CSS}{NAV_CSS}{MAP_CSS}.story.new h3,.story.new h2{{color:#9b1c1c}}</style></head><body><div class="page">', nav("yemen", "../"),
          f'<div class="topline"><span>Compiled from the daily Yemen campaign brief</span><span>Updated {now:%H:%M} Israel time</span></div>',
          f'<header class="masthead"><h1>{e(t)}</h1><p class="sub">{e(data.get("subtitle",""))}</p></header>']
     if eds:
         top = eds[0]
         o.append(f'<div class="dateline"><span>{e(weekday_date(now.date()))}</span><span>Aden · Sanaa · Riyadh</span>'
-                 f'<span>This edition: {e(long_date(top["date"]))}</span></div>')
+                 f'<span>This edition: {e(long_date(top["date"]))}</span></div>' + map_section())
         o.append(f'<main class="main"><section class="section"><h2>{e(weekday_date(date.fromisoformat(top["date"])))}</h2>{edition(top, new=True)}</section></main>')
     o.append('<section class="archive"><h2>Archive — earlier editions</h2>')
     if len(eds) < 2: o.append('<p class="empty">No earlier editions yet.</p>')
