@@ -85,6 +85,16 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
 .wx th,.wx td{padding:4px 2px;border-bottom:1px dotted #9d968a;text-align:left}
 .wx th{font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:#555}
 .wx .src{font-size:11px;font-style:italic;color:#555;margin-top:6px}
+.wx{padding:6px 8px 8px;transition:background .3s}
+.wx.wx-sun{background:#fbf3d6;border-top-color:#c9962a}
+.wx.wx-cloud{background:#eceff3;border-top-color:#7d8ca0}
+.wx.wx-rain{background:#dfe5ec;border-top-color:#4a6688}
+.wx.wx-storm{background:#2f3a48;border-top-color:#e0b43a;border-bottom-color:#2f3a48;color:#f2f2f2}
+.wx.wx-storm .wl{color:#f0c96a}.wx.wx-storm .wd,.wx.wx-storm th{color:#e6e6e6}.wx.wx-storm .wn small,.wx.wx-storm .wm,.wx.wx-storm .src{color:#c8ced6}
+.wx.wx-storm th,.wx.wx-storm td{border-bottom-color:#5a6778}
+.wx .wh{display:flex;align-items:center;gap:8px}.wx .wi{flex:none}
+.wx .ws{font-family:Georgia,serif;font-size:15px;font-style:italic}
+.wx td .wi{vertical-align:middle;margin-right:4px}
 @media (max-width:980px){
  .layout{grid-template-columns:1fr}
  .main{padding-right:0;border-right:none}
@@ -103,7 +113,7 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
  .story .summary{text-align:left}
 }
 </style></head><body><div class="page">
-<div class="topline"><span>Compiled from the daily PA security letters</span><span>Updated 05:09 Israel time</span></div>
+<div class="topline"><span>Compiled from the daily PA security letters</span><span>Updated 06:09 Israel time</span></div>
 <header class="masthead"><h1>Judea &amp; Samaria Desk</h1><p class="sub">The Palestinian Authority, security, settlement and land in Judea and Samaria</p><form class="search" id="search" role="search" hidden onsubmit="return false"><input type="search" id="q" placeholder="Search all editions" aria-label="Search all editions" autocomplete="off"><button type="button" id="qclear">Clear</button></form></header>
 <div class="dateline"><span>Wednesday, 14 October 2026</span><span>Jerusalem</span><span>This edition: 14 October 2026</span></div>
 <section class="results" id="results" hidden aria-live="polite"></section>
@@ -232,24 +242,33 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
 <article class="story" id="2026-10-01-josephs-tomb"><p class="sec">Settlement and Land</p><h3><a href="https://www.inn.co.il/news/707458" rel="noopener" target="_blank">Thousands pray at Joseph’s Tomb with the Four Species</a></h3><p class="summary">Thousands entered Joseph’s Tomb in Nablus in two rounds with IDF approval, for the first mass morning prayer there with the Four Species in several decades. Senior commanders, members of Knesset and Yossi Dagan attended. Mr. Dagan and Zvi Sukkot called for the full return of the Od Yosef Chai yeshiva to the tomb.</p><p class="meta"><span class="src">Arutz 7</span> · <time datetime="2026-10-01">1 October 2026</time> · <a href="https://www.inn.co.il/news/707458" rel="noopener" target="_blank">Source</a></p></article>
 </div></details>
 </section>
-<footer>Judea &amp; Samaria Desk · 83 items on file · built 14 October 2026, 05:09 Israel time</footer>
+<footer>Judea &amp; Samaria Desk · 83 items on file · built 14 October 2026, 06:09 Israel time</footer>
 </div><script>
 
 (function(){
 var b=document.getElementById('wx');if(!b)return;
 var L=JSON.parse(b.getAttribute('data-loc'));
 var cur=document.getElementById('wxcur'),tb=document.getElementById('wxtab');
-var u='https://api.open-meteo.com/v1/forecast?latitude='+L.lat+'&longitude='+L.lon+'&timezone='+encodeURIComponent(L.timezone||'auto')+'&current=temperature_2m,relative_humidity_2m,precipitation&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,relative_humidity_2m_mean,wind_speed_10m_max,wind_direction_10m_dominant&forecast_days=7';
+var u='https://api.open-meteo.com/v1/forecast?latitude='+L.lat+'&longitude='+L.lon+'&timezone='+encodeURIComponent(L.timezone||'auto')+'&current=temperature_2m,relative_humidity_2m,precipitation,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,relative_humidity_2m_mean,wind_speed_10m_max,wind_direction_10m_dominant&forecast_days=7';
+function st(w){if(w==null)return null;if(w<=1)return 'sun';if(w<=3||w==45||w==48)return 'cloud';if(w>=95)return 'storm';if(w>=51&&w<=86)return 'rain';return 'cloud'}
+var LB={sun:'Sunny',cloud:'Partly cloudy',rain:'Rain',storm:'Storm'};
+function ic(s,z){var C='<path d="M9 19h11a4 4 0 0 0 0-8 6 6 0 0 0-11.5 1.5A3.3 3.3 0 0 0 9 19z" fill="#cfd6df" stroke="#4d5b6b" stroke-width="1.3"/>',S='<circle cx="12" cy="12" r="5" fill="#f2c04a" stroke="#b5841c" stroke-width="1.2"/><g stroke="#b5841c" stroke-width="1.5" stroke-linecap="round"><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></g>',g;
+ if(s=='sun')g=S;else if(s=='cloud')g='<g transform="translate(-2 -3) scale(.8)">'+S+'</g>'+C;
+ else if(s=='rain')g='<g transform="translate(0 -3)">'+C+'</g><g stroke="#3d6a9e" stroke-width="1.6" stroke-linecap="round"><path d="M11 19l-1 3M15 19l-1 3M19 19l-1 3"/></g>';
+ else g='<g transform="translate(0 -4)">'+C.replace('#cfd6df','#9aa5b3')+'</g><path d="M15 15l-3 5h3l-2 4" fill="none" stroke="#f0b400" stroke-width="1.8" stroke-linejoin="round"/>';
+ return '<svg class="wi" width="'+z+'" height="'+z+'" viewBox="0 0 26 26" role="img" aria-label="'+LB[s]+'">'+g+'</svg>'}
 function f(c){return Math.round(c*9/5+32)}
 function dir(g){return ['N','NE','E','SE','S','SW','W','NW'][Math.round(g/45)%8]}
 function fail(){cur.innerHTML='<div class="wd">Weather unavailable</div>';tb.innerHTML=''}
 if(!window.fetch){fail();return}
 fetch(u).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
- var c=d.current;
- cur.innerHTML='<div class="wn">'+Math.round(c.temperature_2m)+'°C<small>'+f(c.temperature_2m)+'°F</small></div><div class="wd">Precipitation '+c.precipitation+' mm · Humidity '+c.relative_humidity_2m+'%</div><div class="wm">Click for 7-day forecast</div>';
+ var c=d.current,cs=st(c.weather_code);
+ if(cs)b.classList.add('wx-'+cs);
+ cur.innerHTML='<div class="wh">'+(cs?ic(cs,40):'')+'<div><div class="wn">'+Math.round(c.temperature_2m)+'°C<small>'+f(c.temperature_2m)+'°F</small></div>'+(cs?'<div class="ws">'+LB[cs]+'</div>':'')+'</div></div><div class="wd">Precipitation '+c.precipitation+' mm · Humidity '+c.relative_humidity_2m+'%</div><div class="wm">Click for 7-day forecast</div>';
  var y=d.daily,h='<table><tr><th>Day</th><th>High/Low</th><th>Rain</th><th>Hum.</th><th>Wind</th></tr>';
  for(var i=0;i<y.time.length;i++){var dt=new Date(y.time[i]+'T12:00:00');
-  h+='<tr><td>'+dt.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'})+'</td><td>'+Math.round(y.temperature_2m_max[i])+'° / '+Math.round(y.temperature_2m_min[i])+'°C</td><td>'+(y.precipitation_probability_max[i]==null?'–':y.precipitation_probability_max[i]+'%')+' · '+y.precipitation_sum[i]+' mm</td><td>'+(y.relative_humidity_2m_mean?Math.round(y.relative_humidity_2m_mean[i])+'%':'–')+'</td><td>'+Math.round(y.wind_speed_10m_max[i])+' km/h '+dir(y.wind_direction_10m_dominant[i])+'</td></tr>'}
+  var ds=st(y.weather_code?y.weather_code[i]:null);
+  h+='<tr><td>'+(ds?ic(ds,18):'')+dt.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'})+'</td><td>'+Math.round(y.temperature_2m_max[i])+'° / '+Math.round(y.temperature_2m_min[i])+'°C</td><td>'+(y.precipitation_probability_max[i]==null?'–':y.precipitation_probability_max[i]+'%')+' · '+y.precipitation_sum[i]+' mm</td><td>'+(y.relative_humidity_2m_mean?Math.round(y.relative_humidity_2m_mean[i])+'%':'–')+'</td><td>'+Math.round(y.wind_speed_10m_max[i])+' km/h '+dir(y.wind_direction_10m_dominant[i])+'</td></tr>'}
  tb.innerHTML=h+'</table>';
 }).catch(fail);
 })();
