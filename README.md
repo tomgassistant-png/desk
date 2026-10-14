@@ -76,3 +76,8 @@ Daily steps (digest routine, about 5:00 AM Israel time):
 3. A new topic needs a new entry in `sections` (`{"id": "slug", "name": "Display name"}`); it then appears in every nav bar.
 4. Run `python3 build_cover.py` (after the JSD and Yemen builds, so their "new today" lines are current), then publish:
    `cd /workspace/frontpage && for i in 1 2 3; do ./publish.sh && break; sleep 10; done`
+
+### Unseen-section highlighting and the Marc Andreessen section
+`sitenav.py` builds the shared nav bar for every page (`build.py`, `build_yemen.py`, `build_cover.py` all use it). Each link carries `data-upd`, the section's latest update date, taken at build time from `items.json` (JSD, newest `edition`), `yemen/items.json` (newest `editions[].date`) and `digest/items.json` (newest `edition` per section). The browser keeps `seen:<section>` in localStorage; a link whose date is newer than the stored one shows in bold #9b1c1c, and visiting or clicking the section clears it. Rebuild every page after any data change so the dates stay current.
+
+The `marc-andreessen` section (signs of life: posts and public appearances after his silence since July 2026) is fed by Beacon. Beacon adds items to `digest/items.json` with `"section": "marc-andreessen"` in the same format as other digest items, then runs `python3 build_cover.py` and publishes. Until then the page shows an honest placeholder.
