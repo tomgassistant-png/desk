@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="10" fill="#0b2545"/><text x="32" y="41" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="24" fill="#fff" text-anchor="middle">JSD</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#2e7d32"/><g fill="#0b0b0b">
+<path d="M2 27 L14 25 L17 29 L17 34 L4 38 Z"/>
+<rect x="15" y="25" width="22" height="7" rx="1"/>
+<rect x="37" y="26" width="12" height="4"/>
+<rect x="49" y="27" width="13" height="2"/>
+<rect x="57" y="24" width="2" height="3"/>
+<rect x="20" y="22.5" width="14" height="3" rx="1"/>
+<path d="M22 31 L27 31 L25 40 L21 39 Z"/>
+<path d="M30 31 L35 31 Q37 38 42 44 L37 47 Q31 40 30 31 Z"/>
+</g></svg>

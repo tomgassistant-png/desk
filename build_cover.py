@@ -28,7 +28,7 @@ def nav(d, here, root):
 
 def head(title):
     return (f'<!doctype html><html lang="en"><head><meta charset="utf-8">{ROBOTS}'
-            '<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" type="image/svg+xml" href="/desk/icons/cover.svg"><link rel="icon" type="image/png" sizes="32x32" href="/desk/icons/cover-32.png"><link rel="apple-touch-icon" sizes="180x180" href="/desk/icons/cover-180.png">'
+            '<meta name="viewport" content="width=device-width, initial-scale=1"><link rel="icon" type="image/svg+xml" href="/desk/icons/cover.svg?v=2"><link rel="icon" type="image/png" sizes="32x32" href="/desk/icons/cover-32.png?v=2"><link rel="apple-touch-icon" sizes="180x180" href="/desk/icons/cover-180.png?v=2">'
             f'<title>{e(title)}</title><style>{CSS}{NAV_CSS}{EXTRA}</style></head><body><div class="page">')
 
 def story(it, newest, h="h3"):
