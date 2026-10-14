@@ -235,6 +235,32 @@
         }
       ],
       "headline": "Musk says Starship Flight 15 will try to catch the upper stage"
+    },
+    {
+      "id": "2026-10-14-lebanon-1",
+      "edition": "2026-10-14",
+      "section": "lebanon",
+      "headline": "EU sets up a training mission for Lebanon's army and police as UNIFIL prepares to leave",
+      "lead": "On 12 October, EU foreign ministers set up the EU Support Mission in Lebanon (EUSM Lebanon), with an initial mandate of three years.",
+      "text": "The mission has a military part, which will advise and train the Lebanese Armed Forces on border and maritime security, and a civilian part, which will train the Internal Security Forces on cybercrime and anti-smuggling. The EU says it is not a replacement for UNIFIL, whose mandate ends at the end of 2026. Euronews reports that it will not operate in southern Lebanon. An EU official said personnel could deploy in the coming months. Rapporteur reports, citing confidential plans, that the mission will have about 100 military personnel, mostly in Beirut, with France and Italy competing to lead it; this has not been confirmed by a second source. Asharq Al-Awsat writes that the aim is to free the Lebanese army to concentrate on disarming Hezbollah.",
+      "sources": [
+        {
+          "name": "Council of the EU",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/"
+        },
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/12/eu-agrees-new-security-mission-in-lebanon-as-un-peacekeepers-prepare-to-leave"
+        },
+        {
+          "name": "Asharq Al-Awsat",
+          "url": "https://english.aawsat.com/arab-world/5328942-eu-establishes-new-lebanon-support-mission"
+        },
+        {
+          "name": "Rapporteur",
+          "url": "https://www.rapporteur.com/news/exclusive-france-and-italy-vie-to-lead-eu-lebanon-mission/"
+        }
+      ]
     }
   ]
 }
