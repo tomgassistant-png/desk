@@ -43,6 +43,31 @@ def write(path, html):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     open(path, "w", encoding="utf-8").write(html)
 
+def quote_box(sym="SPCX"):
+    import json as _j, urllib.request as _u
+    cache = os.path.join(ROOT, "digest/quote_%s.json" % sym)
+    q = None
+    try:
+        r = _u.Request(f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}?interval=1d&range=1d", headers={"User-Agent": "Mozilla/5.0"})
+        m = _j.load(_u.urlopen(r, timeout=20))["chart"]["result"][0]["meta"]
+        prev = m.get("previousClose") or m["chartPreviousClose"]
+        q = {"price": m["regularMarketPrice"], "prev": prev, "time": m["regularMarketTime"]}
+        open(cache, "w").write(_j.dumps(q))
+    except Exception:
+        try: q = _j.load(open(cache))
+        except Exception: q = None
+    url = f"https://finance.yahoo.com/quote/{sym}/"
+    if not q:
+        return f'<div class="quote" style="border:1px solid #ccc;padding:10px;margin:12px 0"><b>SpaceX ({sym}, Nasdaq)</b>: price not available. <a href="{url}" target="_blank" rel="noopener">Yahoo Finance</a></div>'
+    ch = q["price"] - q["prev"]; pct = ch / q["prev"] * 100
+    col = "#1a7f37" if ch >= 0 else "#b00020"
+    t = datetime.fromtimestamp(q["time"], TZ).strftime("%d %b %Y, %H:%M")
+    return (f'<div class="quote" style="border:1px solid #ccc;padding:10px 14px;margin:12px 0;display:inline-block">'
+            f'<b>SpaceX ({sym}, Nasdaq)</b><br><span style="font-size:1.6em">${q["price"]:,.2f}</span> '
+            f'<span style="color:{col}">{ch:+.2f} ({pct:+.2f}%)</span><br>'
+            f'<span class="srcs">As of {t} Israel time (last trade). Price from Yahoo Finance, updated at each daily build.</span><br>'
+            f'<a href="{url}" target="_blank" rel="noopener">Open SPCX on Yahoo Finance</a></div>')
+
 def main():
     d = load("digest/items.json")
     items = d["items"]
@@ -93,6 +118,8 @@ def main():
                f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">Daily research digest section · latest edition {e(long_date(newest))}</p></header>']
         if s.get("links"):
             out.append('<p class="summary">' + " · ".join(f'<a href="{e(l["url"])}">{e(l["label"])}</a>' for l in s["links"]) + '</p>')
+        if s["id"] == "spacex-xai-and-cursor":
+            out.append(quote_box("SPCX"))
         if not mine:
             out.append(f'<p class="summary">{e(s.get("placeholder") or "No stories in this section yet. The digest reports on it only when there is material news.")}</p>')
         last = None
