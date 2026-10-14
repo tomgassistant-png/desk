@@ -67,10 +67,6 @@
       "placeholder": "Nothing has been reported here yet. This section will track signs of life from Marc Andreessen: his posts and public appearances after his silence since July 2026. Beacon will add items when it finds them.",
       "links": [
         {
-          "label": "His X reposts feed (via Twiscan)",
-          "url": "https://twiscan.com/en/x/pmarca"
-        },
-        {
           "label": "His X profile",
           "url": "https://x.com/pmarca"
         }
