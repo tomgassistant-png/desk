@@ -15,16 +15,18 @@ def nav(here, root):
     return '<nav class="secnav">' + " | ".join(
         f'<a href="{h}"{" class=on" if k == here else ""}>{t}</a>' for k, h, t in links) + '</nav>'
 
-def story(it, h="h3"):
+def story(it, h="h3", new=False):
     src = e(it["source"])
     if it.get("link"):
         src = f'<a href="{e(it["link"])}" target="_blank" rel="noopener">{src}</a>'
-    return (f'<article class="story"><{h}>{e(it["headline"])}</{h}><p class="summary">{e(it["text"])}</p>'
+    cls = "story new" if new else "story"
+    tg = '<span class="tag-new">New</span>' if new else ""
+    return (f'<article class="{cls}"><{h}>{tg}{e(it["headline"])}</{h}><p class="summary">{e(it["text"])}</p>'
             f'<p class="meta">{src}</p></article>')
 
-def edition(ed):
+def edition(ed, new=False):
     out = [f'<p class="ylede">{e(ed.get("lede",""))}</p><div class="cols">']
-    out += [story(it) for it in ed["items"]]
+    out += [story(it, new=new) for it in ed["items"]]
     out.append('</div>')
     if ed.get("trend"): out.append(f'<div class="ybox"><strong>Trend.</strong> {e(ed["trend"])}</div>')
     if ed.get("watch"): out.append(f'<div class="ybox"><strong>Watch.</strong> {e(ed["watch"])}</div>')
@@ -36,14 +38,14 @@ def build(data, now):
     o = [f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
          '<meta name="robots" content="noindex, nofollow, noarchive"><meta name="googlebot" content="noindex, nofollow, noarchive">'
          f'<meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(t)} — {e(long_date(now.date()))}</title>'
-         f'<style>{CSS}{NAV_CSS}</style></head><body><div class="page">', nav("yemen", "../"),
+         f'<style>{CSS}{NAV_CSS}.story.new h3,.story.new h2{{color:#9b1c1c}}</style></head><body><div class="page">', nav("yemen", "../"),
          f'<div class="topline"><span>Compiled from the daily Yemen campaign brief</span><span>Updated {now:%H:%M} Israel time</span></div>',
          f'<header class="masthead"><h1>{e(t)}</h1><p class="sub">{e(data.get("subtitle",""))}</p></header>']
     if eds:
         top = eds[0]
         o.append(f'<div class="dateline"><span>{e(weekday_date(now.date()))}</span><span>Aden · Sanaa · Riyadh</span>'
                  f'<span>This edition: {e(long_date(top["date"]))}</span></div>')
-        o.append(f'<main class="main"><section class="section"><h2>{e(weekday_date(date.fromisoformat(top["date"])))}</h2>{edition(top)}</section></main>')
+        o.append(f'<main class="main"><section class="section"><h2>{e(weekday_date(date.fromisoformat(top["date"])))}</h2>{edition(top, new=True)}</section></main>')
     o.append('<section class="archive"><h2>Archive — earlier editions</h2>')
     if len(eds) < 2: o.append('<p class="empty">No earlier editions yet.</p>')
     for ed in eds[1:]:
