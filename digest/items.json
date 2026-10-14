@@ -18,7 +18,34 @@
     },
     {
       "id": "spacex-xai-and-cursor",
-      "name": "SpaceX, xAI and Cursor"
+      "name": "SpaceX, xAI and Cursor",
+      "about": "This section covers news about Grok Bot, Cursor, xAI and SpaceX.",
+      "useful_links": [
+        {
+          "label": "Grok Bot changelog",
+          "url": "https://x.ai/changelog/bot"
+        },
+        {
+          "label": "Cursor changelog",
+          "url": "https://cursor.com/changelog"
+        },
+        {
+          "label": "Cursor blog",
+          "url": "https://cursor.com/blog"
+        },
+        {
+          "label": "xAI news",
+          "url": "https://x.ai/news"
+        },
+        {
+          "label": "Grok API release notes",
+          "url": "https://docs.x.ai/docs/release-notes"
+        },
+        {
+          "label": "SpaceX updates",
+          "url": "https://www.spacex.com/updates"
+        }
+      ]
     },
     {
       "id": "quebec",
@@ -261,6 +288,60 @@
           "url": "https://www.rapporteur.com/news/exclusive-france-and-italy-vie-to-lead-eu-lebanon-mission/"
         }
       ]
+    },
+    {
+      "id": "2026-10-14-grokbot-1",
+      "headline": "Grok Bot 0.70.2: Bots get their own email addresses and can search X",
+      "text": "Version 0.70.2, released on 11 October, lets a Bot claim its own email address and receive mail there. Any email it sends from that address waits for the user's approval. Bots can now also search X and read posts without a connected X account, and some connectors, such as Figma, Notion and Canva, can appear as interactive cards in the chat. The release also lets Bots pay with X Money or Stripe Link. The official changelog is the source. The Botski Blog, an unofficial site, also reports the X search and the email feature, but it does not confirm the version number or the payment feature, which are therefore unconfirmed by a second source.",
+      "sources": [
+        {
+          "name": "Grok Bot changelog (official)",
+          "url": "https://x.ai/changelog/bot"
+        },
+        {
+          "name": "Botski Blog",
+          "url": "https://bot.ski/blog/grok-bot-news-oct-1-10"
+        }
+      ],
+      "edition": "2026-10-14",
+      "section": "spacex-xai-and-cursor",
+      "lead": "Version 0.70.2, released on 11 October, lets a Bot claim its own email address and receive mail there."
+    },
+    {
+      "id": "2026-10-14-grokbot-2",
+      "headline": "Grok Bot 0.68: slide decks, formatted email and Gmail send-as addresses",
+      "text": "Version 0.68.0 (5 October) lets email drafts go out from a verified Gmail send-as address and adds five languages: Marathi, Tamil, Telugu, Swahili and Hausa. Version 0.68.1 (7 October) lets Bots build slide decks as PowerPoint files or Google Slides, send formatted emails, and search the Gmail Spam folder. It also enlarges the Bot's computer screen to 1920 × 1200. The official changelog, the Grok Bot Wiki and the Botski Blog all report these changes.",
+      "sources": [
+        {
+          "name": "Grok Bot changelog (official)",
+          "url": "https://x.ai/changelog/bot"
+        },
+        {
+          "name": "Grok Bot Wiki",
+          "url": "https://www.grokbotwiki.com/guides/grok-bot-whats-new"
+        }
+      ],
+      "edition": "2026-10-14",
+      "section": "spacex-xai-and-cursor",
+      "lead": "Version 0.68.0 (5 October) lets email drafts go out from a verified Gmail send-as address and adds five languages: Marathi, Tamil, Telugu, Swahili and Hausa."
+    },
+    {
+      "id": "2026-10-14-grokbot-3",
+      "headline": "Grok Bot 0.66–0.67: the primary Bot offers to take on work; Marketplace becomes Connect Apps",
+      "text": "Version 0.66.0 (2 October) lets the user's primary Bot, the one marked with a star, notice work it could take on and offer to do it. A second release on the same day renamed the Marketplace to Connect Apps and moved Bot templates to the web. The official changelog, the Grok Bot Wiki and the Botski Blog all report these changes.",
+      "sources": [
+        {
+          "name": "Grok Bot changelog (official)",
+          "url": "https://x.ai/changelog/bot"
+        },
+        {
+          "name": "Grok Bot Wiki",
+          "url": "https://www.grokbotwiki.com/guides/grok-bot-whats-new"
+        }
+      ],
+      "edition": "2026-10-14",
+      "section": "spacex-xai-and-cursor",
+      "lead": "Version 0.66.0 (2 October) lets the user's primary Bot, the one marked with a star, notice work it could take on and offer to do it."
     }
   ]
 }

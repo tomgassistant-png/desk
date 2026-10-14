@@ -118,8 +118,15 @@ def main():
                f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">Daily research digest section · latest edition {e(long_date(newest))}</p></header>']
         if s.get("links"):
             out.append('<p class="summary">' + " · ".join(f'<a href="{e(l["url"])}">{e(l["label"])}</a>' for l in s["links"]) + '</p>')
-        if s["id"] == "spacex-xai-and-cursor":
-            out.append(quote_box("SPCX"))
+        if s.get("about"):
+            out.append(f'<p class="summary"><i>{e(s["about"])}</i></p>')
+        side = ""
+        if s.get("useful_links"):
+            side = ('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0;min-width:220px"><b>Useful links</b><ul style="margin:6px 0;padding-left:18px">'
+                    + "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in s["useful_links"]) + '</ul></aside>')
+        if s["id"] == "spacex-xai-and-cursor" or side:
+            out.append('<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start">'
+                       + (quote_box("SPCX") if s["id"] == "spacex-xai-and-cursor" else "") + side + '</div>')
         if not mine:
             out.append(f'<p class="summary">{e(s.get("placeholder") or "No stories in this section yet. The digest reports on it only when there is material news.")}</p>')
         last = None
