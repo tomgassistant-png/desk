@@ -63,3 +63,16 @@ Daily Yemen routine, after the "Yemen campaign: <date>" email is sent:
 2. `cd /workspace/frontpage && python3 build_yemen.py`
 3. `./publish.sh` (retry up to 3 times on TLS errors). It copies `yemen/` and keeps `beit-hanina/`.
 4. Check that `curl -s -o /dev/null -w '%{http_code}' https://tomgassistant-png.github.io/desk/yemen/` returns 200.
+
+## Cover and digest sections
+
+The personal cover page is at `cover/` (https://tomgassistant-png.github.io/desk/cover/). Each daily research digest topic has a section page with an archive at `digest/<section-id>/`. JSD (`/desk/`) and Yemen (`/desk/yemen/`) are sections beside them; every page carries noindex, nofollow, noarchive.
+
+Daily steps (digest routine, about 5:00 AM Israel time):
+1. Append today's stories to `digest/items.json` → `items`. One object per story:
+   `{"id": "YYYY-MM-DD-<section>-<n>", "edition": "YYYY-MM-DD", "section": "<section id>", "headline": "...", "lead": "first sentence", "text": "full paragraph, plain American English", "sources": [{"name": "Haaretz", "url": "https://... (real URL, not a google.com/url redirect)"}]}`
+   Never delete old items; they form the archive. Stories in the newest edition get the dark red headline and NEW tag.
+2. Add `editions["YYYY-MM-DD"] = {"intro": "...", "quiet": "Nothing material on ..."}` (optional but shown on the cover).
+3. A new topic needs a new entry in `sections` (`{"id": "slug", "name": "Display name"}`); it then appears in every nav bar.
+4. Run `python3 build_cover.py` (after the JSD and Yemen builds, so their "new today" lines are current), then publish:
+   `cd /workspace/frontpage && for i in 1 2 3; do ./publish.sh && break; sleep 10; done`

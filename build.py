@@ -182,7 +182,7 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
 NAV_CSS = ('.secnav{text-align:center;font-family:Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:.5px;'
            'text-transform:uppercase;border-bottom:1px solid #ccc;padding:6px 0;margin-bottom:6px}'
            '.secnav a{color:#222;text-decoration:none;margin:0 10px}.secnav a.on{font-weight:700;border-bottom:2px solid #222}')
-NAV = ('<nav class="secnav"><a href="./" class=on>Judea &amp; Samaria</a> | <a href="yemen/">Yemen</a> | '
+NAV = ('<nav class="secnav"><a href="cover/">Cover</a> | <a href="./" class=on>Judea &amp; Samaria</a> | <a href="yemen/">Yemen</a> | '
        '<a href="#backgrounders">Backgrounders</a></nav>')
 
 JS = r"""

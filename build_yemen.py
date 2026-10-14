@@ -43,7 +43,7 @@ def map_section():
             '})();</script></section>')
 
 def nav(here, root):
-    links = [("jsd", root, "Judea &amp; Samaria"), ("yemen", root + "yemen/", "Yemen"),
+    links = [("cover", root + "cover/", "Cover"), ("jsd", root, "Judea &amp; Samaria"), ("yemen", root + "yemen/", "Yemen"),
              ("bg", root + "#backgrounders", "Backgrounders")]
     return '<nav class="secnav">' + " | ".join(
         f'<a href="{h}"{" class=on" if k == here else ""}>{t}</a>' for k, h, t in links) + '</nav>'
