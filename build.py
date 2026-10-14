@@ -386,7 +386,7 @@ def build(data, now):
                       f'<span class="s">{e(it["source"])} · {e(long_date(it["date"]))}</span></li>')
         sv.append('</ol>')
     sv.append('</div>')
-    out.append('<aside class="rail">' + weather_html(data) + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li></ul><h2>Sections</h2><ul><li><a href="yemen/">Yemen Desk: the daily anti-Houthi campaign brief</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
+    out.append('<aside class="rail">' + weather_html(data) + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li><li><a href="maozim/">The Ma\'ozim Road (Beitunia bypass) and the Wallerstein Road</a></li></ul><h2>Sections</h2><ul><li><a href="yemen/">Yemen Desk: the daily anti-Houthi campaign brief</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 
