@@ -52,3 +52,14 @@ google-chrome --headless=new --no-sandbox --hide-scrollbars --window-size=390,26
 - The right-rail "Sources we check" list is built from `sources.json` (`groups` order, then `sources`: `name`, `url`, `group`, optional `note`). Routines may append entries; then rebuild and publish.
 - "Suggest a source" on the page opens a prefilled GitHub issue on `tomgassistant-png/desk` with label `source` (title `Add source: <name>`, body with URL and note), or an email to tomji@mail.grokbot.com.
 - Daily update: run `gh issue list -R tomgassistant-png/desk -l source -s open`. For each issue, add the source to `sources.json` (choose a fitting group), start checking it in the morning letter, rebuild, publish, then `gh issue close <n> -R tomgassistant-png/desk -c "Added to sources."`. gh is signed in as tomgassistant-png.
+
+## Yemen section (/desk/yemen/)
+Hidden from search engines (robots/googlebot noindex, nofollow, noarchive). Data: `yemen/items.json`; builder: `build_yemen.py` (imports CSS and helpers from `build.py`). Newest edition on top; earlier editions collapse into the archive. Section nav bar at the top of both pages: Judea & Samaria | Yemen | Backgrounders.
+
+Daily Yemen routine, after the "Yemen campaign: <date>" email is sent:
+1. Prepend one edition to `editions` in `yemen/items.json`:
+   `{"date":"YYYY-MM-DD","lede":"opening line","items":[{"headline":"...","text":"the bullet, plain American English","source":"outlet named","link":"https://... or empty"}],"trend":"...","watch":"..."}`.
+   Use the direct URL, without the google.com/url wrapper. One entry per date; replace it if the date already exists.
+2. `cd /workspace/frontpage && python3 build_yemen.py`
+3. `./publish.sh` (retry up to 3 times on TLS errors). It copies `yemen/` and keeps `beit-hanina/`.
+4. Check that `curl -s -o /dev/null -w '%{http_code}' https://tomgassistant-png.github.io/desk/yemen/` returns 200.

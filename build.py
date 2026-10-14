@@ -179,6 +179,12 @@ footer{margin-top:28px;border-top:1px solid #1a1a1a;padding-top:8px;font-size:12
 }
 """
 
+NAV_CSS = ('.secnav{text-align:center;font-family:Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:.5px;'
+           'text-transform:uppercase;border-bottom:1px solid #ccc;padding:6px 0;margin-bottom:6px}'
+           '.secnav a{color:#222;text-decoration:none;margin:0 10px}.secnav a.on{font-weight:700;border-bottom:2px solid #222}')
+NAV = ('<nav class="secnav"><a href="./" class=on>Judea &amp; Samaria</a> | <a href="yemen/">Yemen</a> | '
+       '<a href="#backgrounders">Backgrounders</a></nav>')
+
 JS = r"""
 
 (function(){
@@ -319,7 +325,7 @@ def build(data, now):
     out.append(f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
                f'<meta name="robots" content="noindex, nofollow, noarchive"><meta name="viewport" content="width=device-width, initial-scale=1">'
                f'<title>{e(title)} — {e(long_date(now.date()))}</title>'
-               f'<meta name="description" content="{e(sub)}"><style>{CSS}</style></head><body><div class="page">')
+               f'<meta name="description" content="{e(sub)}"><style>{CSS}{NAV_CSS}</style></head><body><div class="page">' + NAV)
     out.append(f'<div class="topline"><span>Compiled from the daily PA security letters</span>'
                f'<span>Updated {now:%H:%M} Israel time</span></div>')
     out.append(f'<header class="masthead"><h1>{e(title)}</h1><p class="sub">{e(sub)}</p>'
@@ -380,7 +386,7 @@ def build(data, now):
                       f'<span class="s">{e(it["source"])} · {e(long_date(it["date"]))}</span></li>')
         sv.append('</ol>')
     sv.append('</div>')
-    out.append('<aside class="rail">' + weather_html(data) + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
+    out.append('<aside class="rail">' + weather_html(data) + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li></ul><h2>Sections</h2><ul><li><a href="yemen/">Yemen Desk: the daily anti-Houthi campaign brief</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 
