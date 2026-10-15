@@ -451,6 +451,42 @@
       "url": "https://www.haaretz.com/",
       "group": "Hebrew news",
       "note": "Includes Amira Hass, Hagar Shezaf and Jack Khoury on the West Bank"
+    },
+    {
+      "name": "Judea and Samaria Situation Room (Yesha Council) – website (Hebrew)",
+      "url": "https://jsrcenter.org/",
+      "group": "Monitoring groups",
+      "note": "Yesha Council; Hebrew; reports at /analysis/ and /news/"
+    },
+    {
+      "name": "Judea and Samaria Situation Room (Yesha Council) – website (English)",
+      "url": "https://jsrcenter.org/en/home/",
+      "group": "Monitoring groups",
+      "note": "Yesha Council; briefings at /en/briefings-reports/"
+    },
+    {
+      "name": "JSR English (@JSR_EN)",
+      "url": "https://x.com/JSR_EN",
+      "group": "X accounts",
+      "note": "Yesha Council situation room"
+    },
+    {
+      "name": "JSR Hebrew (@JSR_HEB)",
+      "url": "https://x.com/JSR_HEB",
+      "group": "X accounts",
+      "note": "Yesha Council situation room"
+    },
+    {
+      "name": "JSR English (Telegram @JSR_EN)",
+      "url": "https://t.me/JSR_EN",
+      "group": "Telegram channels",
+      "note": "Yesha Council situation room"
+    },
+    {
+      "name": "JSR Hebrew (Telegram @JSR_HEB)",
+      "url": "https://t.me/JSR_HEB",
+      "group": "Telegram channels",
+      "note": "Yesha Council situation room"
     }
   ]
 }
