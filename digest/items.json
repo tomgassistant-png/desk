@@ -61,7 +61,35 @@
     },
     {
       "id": "carney-case",
-      "name": "The Carney case"
+      "name": "The Carney case",
+      "baseline": "Jamey Carney, a 43-year-old American citizen from Westchester County, New York, had lived in Killarney, County Kerry, since about 2021 with her teenage daughter. She was killed in her home on the Muckross Road on the night of 6 July 2026, and her daughter found her body the next afternoon. The police believe that her boyfriend, Ahmad Al-Saqar, a 28-year-old Jordanian who had sought asylum in Ireland, left Killarney by bus early on 7 July and flew from Dublin to Istanbul before the body was found. He went on to Jordan, where the Public Security Directorate arrested him within days, and a Jordanian court ordered his detention. In August the Director of Public Prosecutions directed that he be charged with her murder. Ireland and Jordan have no extradition treaty, so his return would require a special arrangement between the two governments. Jordan could also try him itself. As of 23 September, he remained in custody in Jordan, talks between the two countries were continuing, and no extradition hearing had been set. No later development has been reported.",
+      "baseline_updated": "15 October 2026",
+      "baseline_sources": [
+        {
+          "label": "Irish Times, 24 Aug",
+          "url": "https://www.irishtimes.com/crime-law/2026/08/24/gardai-seek-extradition-of-jamey-carney-murder-suspect-despite-no-formal-treaty-with-jordan/"
+        },
+        {
+          "label": "RTÉ, 16 Jul",
+          "url": "https://www.rte.ie/news/crime/2026/0716/1583712-jamey-carney-investigation/"
+        },
+        {
+          "label": "Irish Examiner",
+          "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41900245.html"
+        },
+        {
+          "label": "Irish Independent, 23 Sep",
+          "url": "https://www.independent.ie/irish-news/crime/suspect-in-jamey-carney-murder-investigation-to-remain-in-detention-in-jordan/a/161849178.html"
+        },
+        {
+          "label": "Radio Kerry, 23 Sep",
+          "url": "https://www.radiokerry.ie/news/person-of-interest-in-jamey-carney-murder-investigation-still-detained-in-jordan-499998"
+        },
+        {
+          "label": "JOE.ie, 23 Sep",
+          "url": "https://www.joe.ie/crime/suspect-in-jamey-carney-murder-to-remain-in-detention-in-jordan-883600"
+        }
+      ]
     },
     {
       "id": "belle-burden",

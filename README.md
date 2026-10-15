@@ -81,3 +81,10 @@ Daily steps (digest routine, about 5:00 AM Israel time):
 `sitenav.py` builds the shared nav bar for every page (`build.py`, `build_yemen.py`, `build_cover.py` all use it). Each link carries `data-upd`, the section's latest update date, taken at build time from `items.json` (JSD, newest `edition`), `yemen/items.json` (newest `editions[].date`) and `digest/items.json` (newest `edition` per section). The browser keeps `seen:<section>` in localStorage; a link whose date is newer than the stored one shows in bold #9b1c1c, and visiting or clicking the section clears it. Rebuild every page after any data change so the dates stay current.
 
 The `marc-andreessen` section (signs of life: posts and public appearances after his silence since July 2026) is fed by Beacon. Beacon adds items to `digest/items.json` with `"section": "marc-andreessen"` in the same format as other digest items, then runs `python3 build_cover.py` and publishes. Until then the page shows an honest placeholder.
+
+## Section baseline (digest sections)
+A section in `digest/items.json` may carry an optional `baseline` (one paragraph of standing background),
+`baseline_sources` (list of `{label, url}`) and `baseline_updated` (e.g. "15 October 2026").
+`build_cover.py` shows them in a shaded "Background" box under the section title.
+The morning digest should revise the paragraph and the date whenever there is a material development
+(used first for `carney-case`). Facts need two independent sources or must be marked unconfirmed.

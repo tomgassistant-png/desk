@@ -116,6 +116,13 @@ def main():
         mine = sorted((i for i in items if i["section"] == s["id"]), key=lambda i: i["edition"], reverse=True)
         out = [head(s["name"] + " — Digest section"), sitenav.nav(s["id"], "../../"),
                f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">Daily research digest section · latest edition {e(long_date(newest))}</p></header>']
+        if s.get("baseline"):
+            srcs = " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in s.get("baseline_sources", []))
+            out.append('<div class="baseline" style="background:#f1efe8;border-left:4px solid #8b0000;padding:12px 16px;margin:12px 0">'
+                       '<b>Background</b><p style="margin:6px 0">' + e(s["baseline"]) + '</p>'
+                       + (f'<p class="srcs" style="margin:4px 0">Sources: {srcs}</p>' if srcs else "")
+                       + (f'<p class="srcs" style="margin:4px 0"><i>Last updated: {e(s["baseline_updated"])}</i></p>' if s.get("baseline_updated") else "")
+                       + '</div>')
         if s.get("links"):
             out.append('<p class="summary">' + " · ".join(f'<a href="{e(l["url"])}">{e(l["label"])}</a>' for l in s["links"]) + '</p>')
         if s.get("about"):
