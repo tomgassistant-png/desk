@@ -1165,6 +1165,69 @@
       "edition": "2026-10-15",
       "published": "2026-10-15T05:10:00+03:00",
       "letter": "PA security: 15 Oct 2026"
+    },
+    {
+      "id": "2026-10-15pm-security-man-court",
+      "section": "idf",
+      "lead": true,
+      "highlight": true,
+      "headline": "Court orders the second Samaria security man held by the Shin Bet moved to house arrest",
+      "summary": "On 15 October, Magistrate's Court Judge Dan Baumann rejected the prosecution's request to extend by eight days the detention of the Samaria security coordinator held by the Shin Bet, and ordered him released to house arrest for seven days. The prosecution said it would ask to delay the order so it can appeal, so his release had not yet taken place when the reports were published. His lawyer, Adv. Nati Rom of Honenu, said he was held in harsh solitary conditions. Samaria council head Yossi Dagan welcomed the decision. Reported by Channel 14, Arutz 7 and Hadashot 04.",
+      "source": "Channel 14; Arutz 7; Hadashot 04",
+      "date": "2026-10-15",
+      "published": "2026-10-15T14:00:00+03:00",
+      "url": "https://www.c14.co.il/article/1740119",
+      "edition": "2026-10-15-pm",
+      "edition_label": "Interim update, 15 Oct, evening"
+    },
+    {
+      "id": "2026-10-15pm-sanur-camp",
+      "section": "land",
+      "highlight": true,
+      "headline": "Settlers begin earthworks at the former Sanur army camp, evacuated in 2005",
+      "summary": "Palestinian outlets reported that on the morning of 15 October a group of Israelis with a bulldozer began leveling land inside the former Sanur military camp south of Jenin, beside the road between Jaba' and Sanur. Israel evacuated the camp in the 2005 disengagement. The report comes from WAFA and was repeated by Al-Ayyam's Raya and other Palestinian outlets. No Israeli source or official response has been found, so the details are unconfirmed by Israeli sources.",
+      "source": "WAFA; Raya",
+      "date": "2026-10-15",
+      "published": "2026-10-15T11:24:00+03:00",
+      "url": "https://english.wafa.ps/Pages/Details/175914",
+      "edition": "2026-10-15-pm",
+      "edition_label": "Interim update, 15 Oct, evening"
+    },
+    {
+      "id": "2026-10-15pm-wadi-yasuf-outpost",
+      "section": "land",
+      "headline": "New herding outpost reported in Wadi Yasuf, east of Salfit",
+      "summary": "WAFA and Sada News reported that on 15 October Israelis set up tents for a new herding outpost in the Wadi Yasuf area, east of Salfit and west of the village of Yasuf. Local Palestinian officials said it would limit residents' access to their land. Only Palestinian outlets have reported it; the exact location and whether the outpost is still in place are unconfirmed.",
+      "source": "WAFA; Sada News",
+      "date": "2026-10-15",
+      "published": "2026-10-15T13:00:00+03:00",
+      "url": "https://www.sadanews.ps/en/news/343196.html",
+      "edition": "2026-10-15-pm",
+      "edition_label": "Interim update, 15 Oct, evening"
+    },
+    {
+      "id": "2026-10-15pm-yesha-situation-room",
+      "section": "attacks",
+      "headline": "Yesha Council opens a situation room to record friction incidents in real time",
+      "summary": "A new situation room will document clashes between Israelis and Arabs in Judea and Samaria as they happen during the olive harvest, and issue reports in Hebrew and English, according to i24NEWS and to journalist Netanel Frankel (@Israel8251). Its stated aim is to publicize Arab attacks on Jews while not hiding incidents in the other direction, and it will operate into the Sabbath. That the Yesha Council runs it is reported by i24NEWS only and is unconfirmed.",
+      "source": "i24NEWS; Netanel Frankel on X",
+      "date": "2026-10-15",
+      "published": "2026-10-15T14:31:00+03:00",
+      "url": "https://x.com/Israel8251/status/2110695007778656445",
+      "edition": "2026-10-15-pm",
+      "edition_label": "Interim update, 15 Oct, evening"
+    },
+    {
+      "id": "2026-10-15pm-pa-harvest-count",
+      "section": "pa",
+      "headline": "PA commission counts 219 incidents by Israelis in the first 12 days of October",
+      "summary": "The PA's Colonization and Wall Resistance Commission said, in a count WAFA called preliminary, that it recorded 219 incidents by Israeli civilians from 1 to 12 October, 136 of them tied to the olive harvest: 92 attacks on pickers or denial of access to land, and 45 cases of stolen crops or damaged trees. These are PA figures and have not been checked against Israeli data. For comparison, Ynet reported on 13 October that Israeli security officials counted more than 950 Jewish nationalist incidents so far in 2026.",
+      "source": "WAFA via UNA; Ynet",
+      "date": "2026-10-15",
+      "published": "2026-10-15T12:00:00+03:00",
+      "url": "https://una-oic.org/en/palestinians/2026/10/15/The-occupation-and-the-settlers-continue-to-violate/",
+      "edition": "2026-10-15-pm",
+      "edition_label": "Interim update, 15 Oct, evening"
     }
   ],
   "highlight_count": 8,
@@ -1173,5 +1236,6 @@
     "lat": 32.1663,
     "lon": 34.8436,
     "timezone": "Asia/Jerusalem"
-  }
+  },
+  "interim_label": "Interim update, 15 Oct, evening"
 }

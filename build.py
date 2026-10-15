@@ -48,6 +48,8 @@ def pub(it):
 def meta(it, link_text="Source"):
     return (f'<p class="meta"><span class="src">{e(it["source"])}</span> · '
             f'<time datetime="{e(it["date"])}">{e(long_date(it["date"]))}</time> · '
+            + (f'<span class="interim">{e(it["edition_label"])}</span> · ' if it.get("edition_label") else '') +
+            f''
             f'<a href="{e(it["url"])}" rel="noopener" target="_blank">{link_text}</a></p>')
 
 NEWEST = None
@@ -302,7 +304,7 @@ def build(data, now):
     n_latest = int(data.get("latest_count", 8))
     order = {it["id"]: i for i, it in enumerate(items)}
     editions = sorted({it["edition"] for it in items}, reverse=True)
-    front_ed = set(editions[:n_front])
+    front_ed = {d for d in editions if d[:10] == editions[0][:10]} if editions else set()
     front = [it for it in items if it["edition"] in front_ed]
     by_new = lambda xs: sorted(xs, key=lambda it: (pub(it), -order[it["id"]]), reverse=True)
 
@@ -334,7 +336,7 @@ def build(data, now):
                '<button type="button" id="qclear">Clear</button></form></header>')
     span = long_date(editions[0]) if editions else ''
     out.append(f'<div class="dateline"><span>{e(weekday_date(now.date()))}</span>'
-               f'<span>Jerusalem</span><span>This edition: {e(span)}</span></div>')
+               f'<span>Jerusalem</span><span>This edition: {e(span)}{e(" · " + data["interim_label"]) if editions and data.get("interim_label") and editions[0].endswith("-pm") else ""}</span></div>')
 
     out.append('<section class="results" id="results" hidden aria-live="polite"></section>')
     out.append('<div class="layout"><main class="main">')
