@@ -136,6 +136,10 @@
     "2026-10-15": {
       "intro": "The main items are two conflicting Israeli polls (Channel 12 puts Eisenkot's bloc at 54 seats and Netanyahu's at 49; Channel 14 puts Netanyahu's bloc at 62), Ben-Gvir's refusal of a surplus-vote deal with Ofer Winter, Colombia's opening of its Jerusalem embassy, Quaest's first runoff poll that puts Flávio Bolsonaro and Lula in a technical tie, Defense Minister Katz's threat to take more Lebanese territory if Hezbollah joins an Iranian attack, Cursor's new Origin App Marketplace, and the Parti Québécois swearing-in in Quebec.",
       "quiet": "Nothing material on Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: Israeli Hebrew and English outlets reported the EU decision, but no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found."
+    },
+    "2026-10-16": {
+      "intro": "The main items are two new Israeli polls that still leave both blocs short of 61 (Zman Yisrael has Eisenkot's camp at 54 and Netanyahu's at 49, with Yashar ahead of Likud 26–20; Channel 13's Madad has the blocs at 51–50 and puts both Hendel–Zelekha and Winter at four seats), Netanyahu's renewed refusal to make Ben-Gvir defense minister as the surplus-vote deadline arrives, Datafolha's runoff poll that keeps Flávio Bolsonaro and Lula in a technical tie, the swearing-in of Quebec's 59 PQ MNAs, and force-generation reporting that Italy, France and Spain are expected to supply most of about 100 troops for EUSM Lebanon.",
+      "quiet": "Nothing material on Colombia and Israel, SpaceX, xAI and Cursor, Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found; contribution plans for Italy, France and Spain are reported above."
     }
   },
   "items": [
@@ -530,6 +534,114 @@
         {
           "name": "CBC",
           "url": "https://www.cbc.ca/news/canada/montreal/pq-minority-government-sworn-in-9.7376650"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-israel-election-1",
+      "edition": "2026-10-16",
+      "section": "israel-election",
+      "headline": "Zman Yisrael poll: Yashar 26, Likud 20; blocs still 54–49",
+      "lead": "A Zman Yisrael poll for the Times of Israel, fielded on 14–15 October (500 respondents, margin of error 4.4 points), gives Gadi Eisenkot's Yashar 26 seats and Benjamin Netanyahu's Likud 20.",
+      "text": "A Zman Yisrael poll for the Times of Israel, fielded on 14–15 October (500 respondents, margin of error 4.4 points), gives Gadi Eisenkot's Yashar 26 seats and Benjamin Netanyahu's Likud 20. The anti-Netanyahu Jewish-led bloc has 54 seats and the Netanyahu bloc 49, both short of 61, with Arab parties at 13 and the nonaligned Reservists at 4. Ofer Winter's Amcha Yisrael is at 2.8%, below the 3.25% threshold. Last week's Zman Yisrael split was 55–51 the other way on the blocs; the party gap between Yashar and Likud has widened from 24–20 to 26–20 (Times of Israel).",
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/toi-poll-eisenkot-opens-up-big-lead-on-netanyahu-but-both-blocs-short-of-majority/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-israel-election-2",
+      "edition": "2026-10-16",
+      "section": "israel-election",
+      "headline": "Channel 13 Madad poll: Netanyahu bloc 51, Eisenkot 50; Hendel and Winter both at 4",
+      "lead": "Channel 13's Madad poll (Shmuel Rosner and Noah Slepkov, 1,018 respondents, margin of error 3.1 points, fielded 13 October) puts Netanyahu's bloc at 51 seats and Eisenkot's at 50, with Arab parties at 15.",
+      "text": "Channel 13's Madad poll (Shmuel Rosner and Noah Slepkov, 1,018 respondents, margin of error 3.1 points, fielded 13 October) puts Netanyahu's bloc at 51 seats and Eisenkot's at 50, with Arab parties at 15. Yashar leads with 20 seats and Likud has 18. For the first time in this Madad series, Yoaz Hendel and Yaron Zelekha's Reservists clear the threshold with 4 seats; Winter's Amcha Yisrael also has 4. That result conflicts with the same week's Zman Yisrael poll, which had Winter below the threshold. Eisenkot leads Netanyahu 45% to 38% as more suitable to be prime minister (Channel 13; Madad).",
+      "sources": [
+        {
+          "name": "Channel 13",
+          "url": "https://13tv.co.il/item/news/politics/politics/survey-905396904/"
+        },
+        {
+          "name": "Madad",
+          "url": "https://themadad.com/english/madad-poll-october-14-2026/"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-october-15-2026/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-israel-election-3",
+      "edition": "2026-10-16",
+      "section": "israel-election",
+      "headline": "Netanyahu again rules out Ben-Gvir as defense minister; Otzma fires back",
+      "lead": "At a campaign event in Acre on Wednesday, Netanyahu repeated that he would not appoint Itamar Ben-Gvir defense minister after the 27 October election, and said Likud would keep the National Security and Education ministries.",
+      "text": "At a campaign event in Acre on Wednesday, Netanyahu repeated that he would not appoint Itamar Ben-Gvir defense minister after the 27 October election, and said Likud would keep the National Security and Education ministries. Otzma Yehudit accused him of planning to shut the party out of the next coalition and bring in Eisenkot instead. The remarks follow Netanyahu's similar line on Army Radio a day earlier. Separately, Friday 16 October is the legal deadline for surplus-vote agreements; Otzma remains the only party in Netanyahu's bloc without one after Ben-Gvir refused a deal with Winter (Times of Israel; Ynet).",
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog-october-15-2026/"
+        },
+        {
+          "name": "Ynet",
+          "url": "https://www.ynetnews.com/article/s1ql002sjge"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-lebanon-1",
+      "edition": "2026-10-16",
+      "section": "lebanon",
+      "headline": "EUSM Lebanon: Italy, France and Spain expected to supply most of about 100 troops",
+      "lead": "Reporting on the force plan for the EU Support Mission in Lebanon (established by the Council on 12 October) says Italy, France and Spain are expected to provide most of a permanent military component of about 100 personnel, based mainly in Beirut, with no planned deployment to southern Lebanon near the Israeli border.",
+      "text": "Reporting on the force plan for the EU Support Mission in Lebanon (established by the Council on 12 October) says Italy, France and Spain are expected to provide most of a permanent military component of about 100 personnel, based mainly in Beirut, with no planned deployment to southern Lebanon near the Israeli border. France is pushing to lead the mission at first; Italy has already named a command candidate; command is expected to rotate yearly (Rapporteur, 9 October; details confirmed against the Council decision of 12 October). The mission advises and trains the Lebanese Armed Forces and Internal Security Forces on border, maritime and related tasks; it is not a UNIFIL replacement. On the Israeli-reaction watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to EUSM itself was found since yesterday's edition.",
+      "sources": [
+        {
+          "name": "Rapporteur",
+          "url": "https://www.rapporteur.com/news/exclusive-france-and-italy-vie-to-lead-eu-lebanon-mission/"
+        },
+        {
+          "name": "Council of the EU",
+          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-brazil-1",
+      "edition": "2026-10-16",
+      "section": "brazil",
+      "headline": "Datafolha: Flávio 47%, Lula 45% in the runoff, still a technical tie",
+      "lead": "Datafolha's runoff poll for Folha de S.Paulo, published on Thursday (2,520 interviews on 13–14 October, margin of error 2 points, TSE registration BR-00466/2026), has Flávio Bolsonaro at 47% and Lula at 45%.",
+      "text": "Datafolha's runoff poll for Folha de S.Paulo, published on Thursday (2,520 interviews on 13–14 October, margin of error 2 points, TSE registration BR-00466/2026), has Flávio Bolsonaro at 47% and Lula at 45%. Among valid votes the split is 51% to 49%. A week earlier Datafolha had Flávio at 49% and Lula at 45%; the gap has narrowed. The poll is the first Datafolha after large pro-Lula street events. Rejection is 46% for Lula and 44% for Flávio (G1; Folha).",
+      "sources": [
+        {
+          "name": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml"
+        },
+        {
+          "name": "Folha de S.Paulo",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-um-empate-tecnico.shtml"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-quebec-1",
+      "edition": "2026-10-16",
+      "section": "quebec",
+      "headline": "All 59 PQ MNAs sworn in; cabinet still due 21 October",
+      "lead": "On Thursday 15 October, all 59 Parti Québécois members of Quebec's National Assembly were sworn in at the Red Room in Quebec City, taking an oath of allegiance to the people of Quebec rather than to the King.",
+      "text": "On Thursday 15 October, all 59 Parti Québécois members of Quebec's National Assembly were sworn in at the Red Room in Quebec City, taking an oath of allegiance to the people of Quebec rather than to the King. Premier-designate Paul St-Pierre Plamondon spoke of the party's largest caucus since 1998 and said cabinet, of about 20 ministers, is still due on 21 October. Liberal MNAs are to be sworn in on Monday, Québec solidaire on Tuesday and Conservatives on Thursday. A court challenge to the 2022 law that dropped the oath to the King remains pending (Canadian Press via CityNews; Radio-Canada).",
+      "sources": [
+        {
+          "name": "Canadian Press via CityNews",
+          "url": "https://montreal.citynews.ca/2026/10/15/parti-quebecois-mnas-sworn-in/"
+        },
+        {
+          "name": "Radio-Canada",
+          "url": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation"
         }
       ]
     }
