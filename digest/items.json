@@ -664,6 +664,10 @@
         {
           "name": "Israel Hayom",
           "url": "https://www.israelhayom.co.il/news/politics/article/21636491"
+        },
+        {
+          "name": "Skarim",
+          "url": "https://www.skarim.org/polls/israel-hayom-2026-10-15"
         }
       ]
     },
@@ -673,8 +677,12 @@
       "section": "israel-election",
       "headline": "Lieberman rules out a minority government and Arab or Haredi partners",
       "lead": "On Thursday Avigdor Lieberman told a conference of the Israel Democracy Institute that Yisrael Beytenu would oppose any minority government and demanded a majority coalition of Zionist parties only.",
-      "text": "On Thursday Avigdor Lieberman told a conference of the Israel Democracy Institute that Yisrael Beytenu would oppose any minority government and demanded a majority coalition of Zionist parties only, without Ra'am, the Joint List, Shas or United Torah Judaism. Benny Gantz replied that Lieberman was either lying about eventually relying on Arab parties or that the country was heading to a repeat election. The dispute matters because recent polls show neither Jewish-led bloc reaching 61 without Arab involvement (Israel Hayom).",
+      "text": "On Thursday Avigdor Lieberman said Yisrael Beytenu would oppose any minority government, including a transitional one, and demanded a majority coalition of Zionist parties only, without Ra'am, the Joint List, Shas or United Torah Judaism. He also said his party would not sit with Likud while Netanyahu leads it. Benny Gantz replied that Lieberman was either lying about eventually relying on Arab parties or that the country was heading to a repeat election. The dispute matters because recent polls show neither Jewish-led bloc reaching 61 without Arab involvement (Jerusalem Post; Israel Hayom).",
       "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-election-2026/article-911855"
+        },
         {
           "name": "Israel Hayom",
           "url": "https://www.israelhayom.co.il/news/politics/article/21636491"
@@ -763,11 +771,15 @@
       "section": "spacex-xai-and-cursor",
       "headline": "Reports: Cursor reviewed whether employee Grok Bot testing sent confidential data toward SpaceXAI training",
       "lead": "On 15 October TokenPost reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training.",
-      "text": "On 15 October TokenPost reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training. According to that account, Cursor then required company email logins for Sand and stopped using employee-use data for future training; a Cursor lawyer in Slack is quoted as saying the company arguably lacked rights to train on that data. The review reportedly began weeks before SpaceX completed its acquisition of Cursor on 14 August 2026. Primary paywalled detail is attributed to The Information; TokenPost is the secondary account used here. There is no confirmed public evidence in this reporting that client or partner data was actually exposed (TokenPost; unconfirmed beyond that secondary account).",
+      "text": "On 15 October TokenPost and CryptoBriefing reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training. According to those accounts, Cursor then required company email logins for Sand and stopped using employee-use data for future training. TokenPost quotes a Cursor lawyer in Slack as saying the company arguably lacked rights to train on that data. Both outlets say there is no publicly confirmed evidence that client or partner data was actually exposed. The review reportedly began weeks before SpaceX completed its acquisition of Cursor on 14 August 2026. Primary paywalled detail is attributed to The Information (TokenPost; CryptoBriefing).",
       "sources": [
         {
           "name": "TokenPost",
           "url": "https://www.tokenpost.com/news/technology/32809"
+        },
+        {
+          "name": "CryptoBriefing",
+          "url": "https://cryptobriefing.com/cursor-probes-grok-data-exposure-spacex/"
         },
         {
           "name": "The Information (paywalled primary)",
