@@ -1,791 +1,963 @@
 {
-  "sections": [
-    {
-      "id": "israel-election",
-      "name": "Israel election"
-    },
-    {
-      "id": "lebanon",
-      "name": "Lebanon"
-    },
-    {
-      "id": "brazil",
-      "name": "Brazil"
-    },
-    {
-      "id": "colombia-and-israel",
-      "name": "Colombia and Israel"
-    },
-    {
-      "id": "spacex-xai-and-cursor",
-      "name": "SpaceX, xAI and Cursor",
-      "about": "This section covers news about Grok Bot, Cursor, xAI and SpaceX.",
-      "useful_links": [
-        {
-          "label": "Grok Bot changelog",
-          "url": "https://x.ai/changelog/bot"
-        },
-        {
-          "label": "Cursor changelog",
-          "url": "https://cursor.com/changelog"
-        },
-        {
-          "label": "Cursor blog",
-          "url": "https://cursor.com/blog"
-        },
-        {
-          "label": "xAI news",
-          "url": "https://x.ai/news"
-        },
-        {
-          "label": "Grok API release notes",
-          "url": "https://docs.x.ai/docs/release-notes"
-        },
-        {
-          "label": "SpaceX updates",
-          "url": "https://www.spacex.com/updates"
-        }
-      ]
-    },
-    {
-      "id": "quebec",
-      "name": "Quebec"
-    },
-    {
-      "id": "israeli-data-centers",
-      "name": "Israeli data centers"
-    },
-    {
-      "id": "non-latin-script-digitization",
-      "name": "Non-Latin script digitization"
-    },
-    {
-      "id": "carney-case",
-      "name": "The Carney case",
-      "baseline": "Jamey Carney, a 43-year-old American citizen from New York (Westchester County, according to one report; unconfirmed), had lived in Killarney, County Kerry, since about 2021 with her teenage daughter. She was killed in her home on the Muckross Road on the night of 6 July 2026, and her daughter found her body the next afternoon. The police believe that her boyfriend, Ahmad Al-Saqar, a 28-year-old Jordanian, left Killarney by bus early on 7 July and flew from Dublin to Istanbul before the body was found. He went on to Jordan, where the Public Security Directorate arrested him within days, and a Jordanian court ordered his detention. In August, according to the Irish Times, the Director of Public Prosecutions directed that he be charged with her murder; other reports say only that the DPP supported an arrest warrant. Ireland and Jordan have no extradition treaty, so his return would require a special arrangement between the two governments. Jordan could also try him itself (one report; unconfirmed). As of 23 September, he remained in custody in Jordan, talks between the two countries were continuing, and no extradition hearing had been set. No later development has been reported.",
-      "baseline_updated": "15 October 2026",
-      "baseline_sources": [
-        {
-          "label": "Irish Times, 24 Aug",
-          "url": "https://www.irishtimes.com/crime-law/2026/08/24/gardai-seek-extradition-of-jamey-carney-murder-suspect-despite-no-formal-treaty-with-jordan/"
-        },
-        {
-          "label": "RTÉ, 16 Jul",
-          "url": "https://www.rte.ie/news/crime/2026/0716/1583712-jamey-carney-investigation/"
-        },
-        {
-          "label": "Irish Examiner",
-          "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41900245.html"
-        },
-        {
-          "label": "Irish Independent, 23 Sep",
-          "url": "https://www.independent.ie/irish-news/crime/suspect-in-jamey-carney-murder-investigation-to-remain-in-detention-in-jordan/a/161849178.html"
-        },
-        {
-          "label": "Radio Kerry, 23 Sep",
-          "url": "https://www.radiokerry.ie/news/person-of-interest-in-jamey-carney-murder-investigation-still-detained-in-jordan-499998"
-        },
-        {
-          "label": "JOE.ie, 23 Sep",
-          "url": "https://www.joe.ie/crime/suspect-in-jamey-carney-murder-to-remain-in-detention-in-jordan-883600"
-        }
-      ]
-    },
-    {
-      "id": "belle-burden",
-      "name": "Belle Burden"
-    },
-    {
-      "id": "trump-and-xi",
-      "name": "Trump and Xi"
-    },
-    {
-      "id": "nick-land",
-      "name": "Nick Land"
-    },
-    {
-      "id": "uk-breakup-politics",
-      "name": "UK breakup politics"
-    },
-    {
-      "id": "hashiloach",
-      "name": "HaShiloach"
-    },
-    {
-      "id": "greenland",
-      "name": "Greenland"
-    },
-    {
-      "id": "marc-andreessen",
-      "name": "Marc Andreessen",
-      "about": "Signs of life: his posts and public appearances after his silence since July 2026. Fed by Beacon.",
-      "placeholder": "Nothing has been reported here yet. This section will track signs of life from Marc Andreessen: his posts and public appearances after his silence since July 2026. Beacon will add items when it finds them.",
-      "links": [
-        {
-          "label": "His X profile",
-          "url": "https://x.com/pmarca"
-        }
-      ]
-    }
-  ],
-  "editions": {
-    "2026-10-12": {
-      "intro": "The main items are a Kan poll that puts Netanyahu's bloc ahead while Polymarket moved toward Eisenkot, a reported American plan to restart the Lebanon track this week, new details on the explosives seized on the road to Beirut, rival rallies in São Paulo two weeks before the Brazilian runoff, and Musk's statement that the next Starship flight will try to catch the upper stage. Topics with nothing new are left out.",
-      "quiet": "Nothing material on Quebec, Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland."
-    },
-    "2026-10-15": {
-      "intro": "The main items are two conflicting Israeli polls (Channel 12 puts Eisenkot's bloc at 54 seats and Netanyahu's at 49; Channel 14 puts Netanyahu's bloc at 62), Ben-Gvir's refusal of a surplus-vote deal with Ofer Winter, Colombia's opening of its Jerusalem embassy, Quaest's first runoff poll that puts Flávio Bolsonaro and Lula in a technical tie, Defense Minister Katz's threat to take more Lebanese territory if Hezbollah joins an Iranian attack, Cursor's new Origin App Marketplace, and the Parti Québécois swearing-in in Quebec.",
-      "quiet": "Nothing material on Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: Israeli Hebrew and English outlets reported the EU decision, but no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found."
-    },
-    "2026-10-16": {
-      "intro": "The main items are three Israeli polls that still leave both blocs short of 61 (Zman Yisrael: Eisenkot camp 54, Netanyahu 49, Yashar 26–Likud 20; Channel 13 Madad: 51–50 with Hendel and Winter both at four; Israel Hayom: change 52, right 50, Yashar 24), Netanyahu's refusal to give Ben-Gvir Defense or National Security, Lieberman's rejection of a minority government, an Israel Hayom unity-government report that Ambassador Huckabee denied, Colombia's exit from the Hague Group, Datafolha's Brazil runoff (Flávio 47%, Lula 45%), the PQ swearing-in in Quebec, EUSM Lebanon force-generation (Italy, France, Spain), Grok Voice 3.0, The X Subscription, and Cursor's reported Sand training review.",
-      "quiet": "Nothing material on Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found; contribution plans for Italy, France and Spain are reported above."
-    }
+ "sections": [
+  {
+   "id": "israel-election",
+   "name": "Israel election"
   },
-  "items": [
+  {
+   "id": "lebanon",
+   "name": "Lebanon"
+  },
+  {
+   "id": "brazil",
+   "name": "Brazil"
+  },
+  {
+   "id": "colombia-and-israel",
+   "name": "Colombia and Israel"
+  },
+  {
+   "id": "spacex-xai-and-cursor",
+   "name": "SpaceX, xAI and Cursor",
+   "about": "This section covers news about Grok Bot, Cursor, xAI and SpaceX.",
+   "useful_links": [
     {
-      "id": "2026-10-12-israel-election-1",
-      "edition": "2026-10-12",
-      "section": "israel-election",
-      "lead": "The Kan public broadcaster published a Kantar poll on Sunday evening (552 respondents, margin of error 4.2 points).",
-      "text": "The Kan public broadcaster published a Kantar poll on Sunday evening (552 respondents, margin of error 4.2 points). Yashar has 22 seats, Likud 20, Bennett's Beyachad 12, Otzma Yehudit 9, and the Democrats, Yisrael Beytenu, United Torah Judaism and the Joint List 8 each. Ofer Winter's Amcha Yisrael and Yoaz Hendel's Reservists both cross the threshold with 4 seats. The Netanyahu bloc, counting Winter, rises from 51 to 53 and the anti-Netanyahu bloc falls from 52 to 50, with the Arab parties at 13. Eisenkot still leads Netanyahu 43% to 38% on who is more suitable to be prime minister, and 30% of respondents are undecided (Haaretz). Thursday's Zman Yisrael poll had the opposite result, 55 to 51 for the anti-Netanyahu bloc, so the polls agree only that neither side reaches 61. Winter's vote share matters most: when he crosses the threshold, the right gains about four seats, and when he falls below it, those votes are lost.",
-      "sources": [
-        {
-          "name": "Haaretz",
-          "url": "https://www.haaretz.com/israel-news/elections/2026-10-11/ty-article/israel-election-poll-eisenkot-bloc-continues-slump-as-coalition-gains-ground/000001a1-2c63-d7a5-a7b1-be7397560000"
-        }
-      ],
-      "headline": "Kan poll puts Netanyahu's bloc at 53 seats, the opposition at 50"
+     "label": "Grok Bot changelog",
+     "url": "https://x.ai/changelog/bot"
     },
     {
-      "id": "2026-10-12-israel-election-2",
-      "edition": "2026-10-12",
-      "section": "israel-election",
-      "lead": "Also on Sunday, Bennett told a conference of the religious Zionist paper HaDor that Netanyahu could join a future government, and even be a minister, if he accepted the bloc's guidelines, including a state commission of inquiry into 7 October.",
-      "text": "Also on Sunday, Bennett told a conference of the religious Zionist paper HaDor that Netanyahu could join a future government, and even be a minister, if he accepted the bloc's guidelines, including a state commission of inquiry into 7 October. Eisenkot, Yair Golan and Avigdor Liberman rejected the idea at once, and Bennett withdrew it the same evening, saying it was meant to show the absurdity of the idea. Benny Gantz was the only one to support it, calling for a unity government with Likud (Times of Israel). Shas and United Torah Judaism signed their expected surplus-vote agreement. A UTJ candidate, Moshe Rosenthal, said the party would sit with whoever passes a draft-exemption law that the High Court will uphold, and that the rabbis will decide after the election (Times of Israel). That statement leaves the door open to Eisenkot, which is a real threat to Netanyahu, because without the Haredi parties his bloc has no path to a majority.",
-      "sources": [
-        {
-          "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/bennett-suggests-netanyahu-could-be-part-of-future-government-quickly-backtracks/"
-        },
-        {
-          "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/shas-utj-sign-surplus-vote-agreement-ahead-of-election/"
-        }
-      ],
-      "headline": "Bennett floats, then withdraws, a role for Netanyahu in a future government"
+     "label": "Cursor changelog",
+     "url": "https://cursor.com/changelog"
     },
     {
-      "id": "2026-10-12-israel-election-3",
-      "edition": "2026-10-12",
-      "section": "israel-election",
-      "lead": "Polymarket moved against the Kan poll.",
-      "text": "Polymarket moved against the Kan poll. Eisenkot is now at about 46% to be the next sworn-in prime minister, Netanyahu at about 32% and Bennett at about 14%, compared with 41, 34.5 and 11.5 yesterday (Polymarket). The deadline for surplus-vote agreements is Friday 16 October.",
-      "sources": [
-        {
-          "name": "Polymarket",
-          "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
-        }
-      ],
-      "headline": "Polymarket moves toward Eisenkot despite the Kan poll"
+     "label": "Cursor blog",
+     "url": "https://cursor.com/blog"
     },
     {
-      "id": "2026-10-12-lebanon-1",
-      "edition": "2026-10-12",
-      "section": "lebanon",
-      "lead": "Al Arabiya's Washington correspondent, Pierre Ghanem, reported on Sunday that the State Department intends to announce progress this week on the three-way framework between the United States, Lebanon and Israel.",
-      "text": "Al Arabiya's Washington correspondent, Pierre Ghanem, reported on Sunday that the State Department intends to announce progress this week on the three-way framework between the United States, Lebanon and Israel. According to his sources, Secretary of State Rubio has told his staff to finish two things by the middle of this month: a monitoring and verification mechanism for the \"pilot zones\" in the south, where Hezbollah is to be disarmed in exchange for Israeli withdrawal, and a framework for an economic aid conference for Lebanon. The main obstacle is the composition of the monitoring force. Israel objects to several countries, France in particular, and the United States will not send its own soldiers to the south, so Washington is looking for a way to use French troops away from the border alongside other European forces. A State Department official said any international presence must be tied to the goals of the framework agreement and not become \"permanent mediation.\" The same sources say Hezbollah has raised at least $40 million a month this year through smuggling across the Syrian border, falsified transactions at the port of Beirut and state salaries, since Iran stopped sending money (Al Arabiya, via Infinity News). The American position, stated in public after Rubio met Prime Minister Salam two weeks ago, is that disarmament must come before any Israeli withdrawal.",
-      "sources": [
-        {
-          "name": "Al Arabiya, via Infinity News",
-          "url": "https://infinity24.news/300751"
-        }
-      ],
-      "headline": "Al Arabiya: Washington to announce progress on the Lebanon framework this week"
+     "label": "xAI news",
+     "url": "https://x.ai/news"
     },
     {
-      "id": "2026-10-12-lebanon-2",
-      "edition": "2026-10-12",
-      "section": "lebanon",
-      "lead": "An-Nahar reported new details on the 500 kilograms of explosives (250 of TNT and 250 of C-4) seized at Dahr al-Baidar.",
-      "text": "An-Nahar reported new details on the 500 kilograms of explosives (250 of TNT and 250 of C-4) seized at Dahr al-Baidar. According to leaked investigation records, the two detained men admitted that they belong to Hezbollah and that the explosives are Hezbollah's. They said an official in the Bekaa gave them the load to deliver to the southern suburbs of Beirut, to a man known as \"Dhu al-Fiqar.\" Judge Claude Ghanem, the government commissioner at the Military Court, sent the file back to the army's Military Police for further questioning. The paper says the idea of an assassination plot is still only a suspicion. In recent days the army has also seized 245 kilograms of TNT smuggled from Syria and another load of explosives and shells near Qasr in the Hermel district (An-Nahar). If the confessions hold up, the state will have a court case that ties Hezbollah directly to explosives moved inside Lebanon. That gives Salam something concrete to show Washington before the Tampa meeting, but it also makes a confrontation with Hezbollah harder to avoid.",
-      "sources": [
-        {
-          "name": "An-Nahar",
-          "url": "https://www.annahar.com/lebanon/politics/356010/%D9%85%D8%AA%D9%81%D8%AC%D8%B1%D8%A7%D8%AA-%D8%B6%D9%87%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%AF%D8%B1-%D8%B4%D8%AD%D9%86%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%B9%D9%82%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%88%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D9%86%D9%82%D9%84%D9%87"
-        }
-      ],
-      "headline": "An-Nahar: detained men say the Dahr al-Baidar explosives belong to Hezbollah"
+     "label": "Grok API release notes",
+     "url": "https://docs.x.ai/docs/release-notes"
     },
     {
-      "id": "2026-10-12-lebanon-3",
-      "edition": "2026-10-12",
-      "section": "lebanon",
-      "lead": "In the south, two men harvesting olives were killed on Sunday, a retired soldier near Yater by Israeli artillery and an engineer in Froun by an old munition.",
-      "text": "In the south, two men harvesting olives were killed on Sunday, a retired soldier near Yater by Israeli artillery and an engineer in Froun by an old munition. Froun is one of the three pilot zones announced in July. Israel carried out four airstrikes on Mansouri, Talloussa and Kfar Tibnit, shelled at least nine villages overnight and demolished houses in Haddatha and Byout al-Siyad (L'Orient Today).",
-      "sources": [
-        {
-          "name": "L'Orient Today",
-          "url": "https://today.lorientlejour.com/article/1550412/israel-launches-airstrikes-on-3-occupied-lebanese-villages-demolishes-homes-in-2-others.html"
-        }
-      ],
-      "headline": "Two olive harvesters killed in south Lebanon; Israeli strikes on three villages"
-    },
-    {
-      "id": "2026-10-12-brazil-1",
-      "edition": "2026-10-12",
-      "section": "brazil",
-      "lead": "Lula held his largest rally of the campaign on Sunday on the Avenida Paulista in São Paulo.",
-      "text": "Lula held his largest rally of the campaign on Sunday on the Avenida Paulista in São Paulo. It filled twelve blocks, the largest crowd the left has gathered there since the protests against Jair Bolsonaro, with smaller events in 76 other cities. There was no official crowd count, because the campaign did not authorize the drone flight that the USP/Cebrap monitor uses. Lula spoke mainly to young voters. Flávio Bolsonaro met Governor Tarcísio de Freitas, Mayor Ricardo Nunes and local mayors and council members at a lunch in the same city. He told them to avoid a mood of \"already won\" and said \"nothing is settled.\" Tarcísio and Nunes announced a pro-Flávio rally on the Paulista next Sunday, 18 October. On the same day the president of the TSE, Brazil's Superior Electoral Court, which polices campaign content, Kassio Nunes Marques, ordered the suspension of \"Exército do Lula,\" a WhatsApp channel with more than three million followers run by Deputy André Janones, at the request of Flávio's campaign. A few hours later the court's chief inspector, Ricardo Villas Bôas Cueva, restored it, finding the evidence insufficient (Folha).",
-      "sources": [
-        {
-          "name": "Folha",
-          "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-reune-multidao-e-mira-jovens-flavio-mobiliza-aliados-e-fala-em-evitar-ja-ganhou.shtml"
-        }
-      ],
-      "headline": "Lula holds his largest rally; Flávio Bolsonaro warns allies that \"nothing is settled\""
-    },
-    {
-      "id": "2026-10-12-brazil-2",
-      "edition": "2026-10-12",
-      "section": "brazil",
-      "lead": "A smaller pollster, DataTrends, published a poll on Sunday (2,000 automated telephone interviews, 7–9 October, margin of error 2.2 points) with Flávio at 50% and Lula at 44%, or 53.1% to 46.9% in valid votes (GP1).",
-      "text": "A smaller pollster, DataTrends, published a poll on Sunday (2,000 automated telephone interviews, 7–9 October, margin of error 2.2 points) with Flávio at 50% and Lula at 44%, or 53.1% to 46.9% in valid votes (GP1). Poder360's table of the five main polls shows Flávio ahead in four, by 4 to 6 points in valid votes, and Lula narrowly ahead only in Vox Brasil, by 50.9% to 49.1% (Poder360). Record canceled its debate, so the first runoff debate is on Band on 18 October and the last on Globo on 23 October. On Polymarket Flávio is at about 86% and Lula at about 13%, compared with 88 and 12 yesterday (Polymarket). Quaest's first runoff poll is due on Wednesday.",
-      "sources": [
-        {
-          "name": "GP1",
-          "url": "https://www.gp1.com.br/brasil/noticia/2026/10/11/flavio-bolsonaro-tem-531-dos-votos-validos-no-segundo-turno-e-lula-469-diz-datatrends-633734.html"
-        },
-        {
-          "name": "Poder360",
-          "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-14-dias-do-2o-turno/"
-        },
-        {
-          "name": "Polymarket",
-          "url": "https://polymarket.com/event/brazil-presidential-election"
-        }
-      ],
-      "headline": "DataTrends poll has Flávio ahead; he leads in four of five main polls"
-    },
-    {
-      "id": "2026-10-12-colombia-and-israel-1",
-      "edition": "2026-10-12",
-      "section": "colombia-and-israel",
-      "lead": "El País reports that Colombia's interior minister, Rodrigo Lara, spoke at last Wednesday's 7 October memorial at the Centro Israelita in Bogotá, the first time the national government has attended.",
-      "text": "El País reports that Colombia's interior minister, Rodrigo Lara, spoke at last Wednesday's 7 October memorial at the Centro Israelita in Bogotá, the first time the national government has attended. He said Colombia would take relations with Israel \"to levels never seen before\" and that he had met Yehuda Kaploun, Trump's special envoy against antisemitism, two days earlier. George Levy, president of the Confederation of Jewish Communities, called the De la Espriella government \"the best friend of the Jewish people in the world.\" Graffiti has appeared on the building of the Israeli embassy and on a kosher restaurant in Bogotá (El País). The embassy in Jerusalem opens on Wednesday 14 October at 6:30 p.m., with Foreign Minister Omar Bula and Gideon Sa'ar presiding (Caracol Radio). Colombia will be the tenth country with an embassy in the city. Marcos Peckel of the Jewish Confederation told El País that the coal trade is symbolic and that the strategic part is security, cyber, counter-drone systems and intelligence, along with Colombia's vote on the UN Security Council.",
-      "sources": [
-        {
-          "name": "El País",
-          "url": "https://elpais.com/america-colombia/2026-10-11/el-mejor-amigo-del-pueblo-judio-en-el-mundo-el-giro-expres-de-colombia-hacia-israel.html"
-        },
-        {
-          "name": "Caracol Radio",
-          "url": "https://caracol.com.co/2026/10/09/el-14-de-octubre-se-inaugura-la-embajada-de-colombia-en-jerusalen/"
-        }
-      ],
-      "headline": "Colombia's government turns toward Israel; Jerusalem embassy opens 14 October"
-    },
-    {
-      "id": "2026-10-12-spacex-xai-and-cursor-1",
-      "edition": "2026-10-12",
-      "section": "spacex-xai-and-cursor",
-      "lead": "Speaking by video at the X Takeover fan event in Texas on Saturday, Musk said that Starship Flight 15 will try to catch the upper stage with the launch tower, which would be the first full recovery of an orbital rocket, and that he hopes it will fly in four to six weeks, \"a little bit before Thanksgiving.\" These are his claims.",
-      "text": "Speaking by video at the X Takeover fan event in Texas on Saturday, Musk said that Starship Flight 15 will try to catch the upper stage with the launch tower, which would be the first full recovery of an orbital rocket, and that he hopes it will fly in four to six weeks, \"a little bit before Thanksgiving.\" These are his claims. SpaceX has not published a mission plan, and the FAA, which licenses every launch and reentry, has not changed the license. NASASpaceflight notes that the current license covers only the Flight 14 reentry, and that changing the mission profile to a ship catch could take time to approve. Its unofficial schedule, taken from FAA planning slides, puts Flight 15 (Ship 42 and Booster 22, from Pad 2 at Starbase) no earlier than 8 November. Ship 42 has had its six engines removed and has gone back for a third round of pressure testing, perhaps to fix the vacuum-engine failures seen on Flights 12 and 14 (NASASpaceflight). There is nothing material on xAI or Cursor.",
-      "sources": [
-        {
-          "name": "NASASpaceflight",
-          "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"
-        }
-      ],
-      "headline": "Musk says Starship Flight 15 will try to catch the upper stage"
-    },
-    {
-      "id": "2026-10-14-lebanon-1",
-      "edition": "2026-10-14",
-      "section": "lebanon",
-      "headline": "EU sets up a training mission for Lebanon's army and police as UNIFIL prepares to leave",
-      "lead": "On 12 October, EU foreign ministers set up the EU Support Mission in Lebanon (EUSM Lebanon), with an initial mandate of three years.",
-      "text": "The mission has a military part, which will advise and train the Lebanese Armed Forces on border and maritime security, and a civilian part, which will train the Internal Security Forces on cybercrime and anti-smuggling. The EU says it is not a replacement for UNIFIL, whose mandate ends at the end of 2026. Euronews reports that it will not operate in southern Lebanon. An EU official said personnel could deploy in the coming months. Rapporteur reports, citing confidential plans, that the mission will have about 100 military personnel, mostly in Beirut, with France and Italy competing to lead it; this has not been confirmed by a second source. Asharq Al-Awsat writes that the aim is to free the Lebanese army to concentrate on disarming Hezbollah.",
-      "sources": [
-        {
-          "name": "Council of the EU",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/"
-        },
-        {
-          "name": "Euronews",
-          "url": "https://www.euronews.com/2026/10/12/eu-agrees-new-security-mission-in-lebanon-as-un-peacekeepers-prepare-to-leave"
-        },
-        {
-          "name": "Asharq Al-Awsat",
-          "url": "https://english.aawsat.com/arab-world/5328942-eu-establishes-new-lebanon-support-mission"
-        },
-        {
-          "name": "Rapporteur",
-          "url": "https://www.rapporteur.com/news/exclusive-france-and-italy-vie-to-lead-eu-lebanon-mission/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-14-grokbot-1",
-      "headline": "Grok Bot 0.70.2: Bots get their own email addresses and can search X",
-      "text": "Version 0.70.2, released on 11 October, lets a Bot claim its own email address and receive mail there. Any email it sends from that address waits for the user's approval. Bots can now also search X and read posts without a connected X account, and some connectors, such as Figma, Notion and Canva, can appear as interactive cards in the chat. The release also lets Bots pay with X Money or Stripe Link. The official changelog is the source. The Botski Blog, an unofficial site, also reports the X search and the email feature, but it does not confirm the version number or the payment feature, which are therefore unconfirmed by a second source.",
-      "sources": [
-        {
-          "name": "Grok Bot changelog (official)",
-          "url": "https://x.ai/changelog/bot"
-        },
-        {
-          "name": "Botski Blog",
-          "url": "https://bot.ski/blog/grok-bot-news-oct-1-10"
-        }
-      ],
-      "edition": "2026-10-14",
-      "section": "spacex-xai-and-cursor",
-      "lead": "Version 0.70.2, released on 11 October, lets a Bot claim its own email address and receive mail there."
-    },
-    {
-      "id": "2026-10-14-grokbot-2",
-      "headline": "Grok Bot 0.68: slide decks, formatted email and Gmail send-as addresses",
-      "text": "Version 0.68.0 (5 October) lets email drafts go out from a verified Gmail send-as address and adds five languages: Marathi, Tamil, Telugu, Swahili and Hausa. Version 0.68.1 (7 October) lets Bots build slide decks as PowerPoint files or Google Slides, send formatted emails, and search the Gmail Spam folder. It also enlarges the Bot's computer screen to 1920 × 1200. The official changelog, the Grok Bot Wiki and the Botski Blog all report these changes.",
-      "sources": [
-        {
-          "name": "Grok Bot changelog (official)",
-          "url": "https://x.ai/changelog/bot"
-        },
-        {
-          "name": "Grok Bot Wiki",
-          "url": "https://www.grokbotwiki.com/guides/grok-bot-whats-new"
-        }
-      ],
-      "edition": "2026-10-14",
-      "section": "spacex-xai-and-cursor",
-      "lead": "Version 0.68.0 (5 October) lets email drafts go out from a verified Gmail send-as address and adds five languages: Marathi, Tamil, Telugu, Swahili and Hausa."
-    },
-    {
-      "id": "2026-10-14-grokbot-3",
-      "headline": "Grok Bot 0.66–0.67: the primary Bot offers to take on work; Marketplace becomes Connect Apps",
-      "text": "Version 0.66.0 (2 October) lets the user's primary Bot, the one marked with a star, notice work it could take on and offer to do it. A second release on the same day renamed the Marketplace to Connect Apps and moved Bot templates to the web. The official changelog, the Grok Bot Wiki and the Botski Blog all report these changes.",
-      "sources": [
-        {
-          "name": "Grok Bot changelog (official)",
-          "url": "https://x.ai/changelog/bot"
-        },
-        {
-          "name": "Grok Bot Wiki",
-          "url": "https://www.grokbotwiki.com/guides/grok-bot-whats-new"
-        }
-      ],
-      "edition": "2026-10-14",
-      "section": "spacex-xai-and-cursor",
-      "lead": "Version 0.66.0 (2 October) lets the user's primary Bot, the one marked with a star, notice work it could take on and offer to do it."
-    },
-    {
-      "id": "2026-10-15-israel-election-1",
-      "edition": "2026-10-15",
-      "section": "israel-election",
-      "headline": "Channel 12 poll: Eisenkot's bloc 54, Netanyahu's 49; Winter again below the threshold",
-      "lead": "A Channel 12 Midgam poll published on Monday evening (509 respondents, margin of error 4.4 points) again put Gadi Eisenkot's bloc at 54 seats and Benjamin Netanyahu's at 49.",
-      "text": "A Channel 12 Midgam poll published on Monday evening (509 respondents, margin of error 4.4 points) again put Gadi Eisenkot's bloc at 54 seats and Benjamin Netanyahu's at 49. Yashar leads with 23 seats, Likud has 20, Bennett's Beyachad (Together) 13, the Democrats and Yisrael Beytenu 9 each, the Joint List, Otzma Yehudit and Shas 8 each, United Torah Judaism 7, Religious Zionism 6, Ra'am 5 and the Reservists 4. Ofer Winter's Amcha Yisrael again falls short of the 3.25 percent threshold, at the equivalent of about 1.8 seats. Parties opposed to Netanyahu would hold 67 seats if the Arab lists are counted, but parts of Eisenkot's bloc refuse to sit with them, so the Zionist opposition alone remains short of 61 (Haaretz).",
-      "sources": [
-        {
-          "name": "Haaretz",
-          "url": "https://www.haaretz.com/israel-news/elections/2026-10-13/ty-article/poll-eisenkot-bloc-holds-at-54-seats-hard-line-ex-generals-party-falls-short/000001a1-346a-d36f-a9fd-75ead18b0000"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-israel-election-2",
-      "edition": "2026-10-15",
-      "section": "israel-election",
-      "headline": "Channel 14 poll: Netanyahu's bloc at 62; Bennett rises to 11 seats",
-      "lead": "A Channel 14 / Next Data poll published on Wednesday (568 adults, 14 October) gives the right-wing bloc 62 seats, the left-center bloc 44 and the Arab parties 14.",
-      "text": "A Channel 14 / Next Data poll published on Wednesday (568 adults, 14 October) gives the right-wing bloc 62 seats, the left-center bloc 44 and the Arab parties 14. Likud is the largest party with 29 seats, followed by Yashar with 20. Bennett's Beyachad rises from 7 to 11; the Democrats fall from 10 to 8; Otzma Yehudit rises to 8 and the Joint List to 9. Shas has 10, United Torah Judaism 8, Religious Zionism–Zehut 7, Yisrael Beytenu 5 and Ra'am 5. The Reservists–economic list falls to 3.1 percent, near the threshold; Winter's Amcha Yisrael is at 2.7 percent. Netanyahu leads Eisenkot 52% to 32% on who is most suitable to be prime minister, and 52% to 48% in a direct comparison (Channel 14; Ice). The deadline for surplus-vote agreements is Friday 16 October.",
-      "sources": [
-        {
-          "name": "Channel 14",
-          "url": "https://www.c14.co.il/article/1739046"
-        },
-        {
-          "name": "Ice",
-          "url": "https://www.ice.co.il/research/news/article/1133654"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-israel-election-3",
-      "edition": "2026-10-15",
-      "section": "israel-election",
-      "headline": "Ben-Gvir refuses a surplus-vote deal with Ofer Winter",
-      "lead": "National Security Minister Itamar Ben-Gvir said on Tuesday that Otzma Yehudit would not sign a surplus-vote agreement with Ofer Winter's Amcha Yisrael.",
-      "text": "National Security Minister Itamar Ben-Gvir said on Tuesday that Otzma Yehudit would not sign a surplus-vote agreement with Ofer Winter's Amcha Yisrael. He called Winter \"Bennett II\" on X. Winter replied that Ben-Gvir was throwing right-wing votes away. Without a partner, Otzma Yehudit is left out of the surplus deals already signed inside Netanyahu's camp (Likud with Religious Zionism; Shas with United Torah Judaism). The opposition has deals between Yashar and the Democrats, and between Beyachad and Yisrael Beytenu. If Winter stays below the threshold, those votes are wasted for the right; Channel 12 and Channel 14 both currently place him below it (Haaretz; Jerusalem Post / Maariv).",
-      "sources": [
-        {
-          "name": "Haaretz",
-          "url": "https://www.haaretz.com/israel-news/elections/2026-10-13/ty-article/.premium/ben-gvir-rules-out-surplus-vote-agreement-with-hardliners-new-far-right-party/000001a1-356c-da18-a5bb-3fec359a0000"
-        },
-        {
-          "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-911592"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-israel-election-4",
-      "edition": "2026-10-15",
-      "section": "israel-election",
-      "headline": "Polymarket: Eisenkot about 48%, Netanyahu about 27%, Bennett about 14%",
-      "lead": "On Polymarket, Eisenkot is now at about 48% to be the next sworn-in prime minister, Netanyahu at about 27% and Bennett at about 14%.",
-      "text": "On Polymarket, Eisenkot is now at about 48% to be the next sworn-in prime minister, Netanyahu at about 27% and Bennett at about 14% (odds as of early Thursday Israel time). On 12 October the same market had Eisenkot at about 46%, Netanyahu at about 32% and Bennett at about 14%. The market resolves to whoever is formally sworn in after the 27 October election, not an interim caretaker (Polymarket).",
-      "sources": [
-        {
-          "name": "Polymarket",
-          "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-lebanon-1",
-      "edition": "2026-10-15",
-      "section": "lebanon",
-      "headline": "Katz: if Hezbollah joins an Iranian attack, Israel will take more land around Nabatieh and the Litani",
-      "lead": "Defense Minister Israel Katz said on Wednesday, during a visit to the IDF buffer zone in southern Lebanon, that if Hezbollah joins Iran in an attack on Israel, it will lose more territory around Nabatieh and the Litani River as part of a permanent Israeli security zone.",
-      "text": "Defense Minister Israel Katz said on Wednesday, during a visit to the IDF buffer zone in southern Lebanon, that if Hezbollah joins Iran in an attack on Israel, it will lose more territory around Nabatieh and the Litani River as part of a permanent Israeli security zone, and that the IDF is prepared for an expanded invasion. He also said another evacuation of the Dahiyeh district of Beirut would follow, and that more than one million Shiites would be displaced. The Jerusalem Post notes that this is the first specific Nabatieh threat from Katz in several months, and that many of his election-season threats have not led to major new operations. Israel already holds a strip of southern Lebanon up to about 10 kilometers from the border (Jerusalem Post; This Is Beirut).",
-      "sources": [
-        {
-          "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-911722"
-        },
-        {
-          "name": "This Is Beirut",
-          "url": "https://thisisbeirut.com.lb/news/politics/katz-threatens-to-expand-israeli-security-zone-to-nabatieh-and-litani"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-brazil-1",
-      "edition": "2026-10-15",
-      "section": "brazil",
-      "headline": "Quaest's first runoff poll: Flávio 46%, Lula 44%, a technical tie",
-      "lead": "Quaest's first national runoff poll, published on Wednesday for Globo and O Globo (2,154 interviews, 10–13 October, margin of error 2 points), has Flávio Bolsonaro at 46% and Lula at 44%.",
-      "text": "Quaest's first national runoff poll, published on Wednesday for Globo and O Globo (2,154 interviews, 10–13 October, margin of error 2 points, TSE registration BR-08729/2026), has Flávio Bolsonaro at 46% and Lula at 44%, a technical tie. One percent are undecided and 9% say blank, null or will not vote. Rejection is almost equal: 54% say they would never vote for Flávio and 53% for Lula. Ninety-one percent say their choice is final. Compared with Quaest's pre-first-round runoff scenario, both candidates rose by two points as blank and null fell. On Polymarket Flávio is at about 84% and Lula at about 16%, down slightly for Flávio from about 86% on 12 October. The runoff is on 25 October; the Band debate is on 18 October and Globo's on 23 October (G1; Exame; Polymarket).",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-presidente-14-outubro.ghtml"
-        },
-        {
-          "name": "Exame",
-          "url": "https://exame.com/brasil/pesquisa-para-presidente-quaest-flavio-bolsonaro-tem-46-e-lula-44/"
-        },
-        {
-          "name": "Polymarket",
-          "url": "https://polymarket.com/event/brazil-presidential-election"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-colombia-and-israel-1",
-      "edition": "2026-10-15",
-      "section": "colombia-and-israel",
-      "headline": "Colombia opens its embassy in Jerusalem; Sa'ar and Bula preside",
-      "lead": "Colombia inaugurated its embassy in Jerusalem on Wednesday 14 October, becoming the tenth country with an embassy in the city.",
-      "text": "Colombia inaugurated its embassy in Jerusalem on Wednesday 14 October, becoming the tenth country with an embassy in the city. Israeli Foreign Minister Gideon Sa'ar and Colombian Foreign Minister Omar Bula Escobar unveiled the sign; Sa'ar affixed a mezuzah. Sa'ar said that when he took office there were five embassies in Jerusalem and that President Abelardo de la Espriella had kept a campaign promise to move Colombia's mission there. Bula said relations \"should never have been broken\" and called Israel a strategic partner. Ambassador Tania Gilinski will head the mission. The free-trade agreement, cancelled under Gustavo Petro, was restored the day before. The Palestinian Authority and Jordan condemned the move (Israel National News; Al Jazeera / AFP).",
-      "sources": [
-        {
-          "name": "Israel National News",
-          "url": "https://www.israelnationalnews.com/news/434606"
-        },
-        {
-          "name": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-spacex-xai-and-cursor-1",
-      "edition": "2026-10-15",
-      "section": "spacex-xai-and-cursor",
-      "headline": "Cursor opens an Origin App Marketplace with more than 20 partner apps",
-      "lead": "On 13 October Cursor's changelog announced an Origin App Marketplace with more than 20 apps for deployments, CI, code review, security, monitoring and project management.",
-      "text": "On 13 October Cursor's changelog announced an Origin App Marketplace with more than 20 apps for deployments, CI, code review, security, monitoring and project management. Named partners include Cloudflare, Netlify, Render, Spacelift and Vercel for deployments; Buildkite, CircleCI and others for CI; CodeRabbit, Greptile and Tenki for code review; Artemis Security, Semgrep, Socket Security and Upwind for security; Sentry for monitoring; and Linear for project management. Public submissions are open: teams build against the Origin API, submit a slug, tags and a demo video, and Cursor reviews before listing. There is nothing new on the official Grok Bot changelog since version 0.70.2 (11 October), already reported, and nothing material on SpaceX beyond the Flight 15 catch claim already covered on 12 October (Cursor changelog).",
-      "sources": [
-        {
-          "name": "Cursor changelog",
-          "url": "https://cursor.com/changelog"
-        },
-        {
-          "name": "Grok Bot changelog",
-          "url": "https://x.ai/changelog/bot"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-quebec-1",
-      "edition": "2026-10-15",
-      "section": "quebec",
-      "headline": "Parti Québécois MNAs to be sworn in today; cabinet due 21 October",
-      "lead": "The 59 newly elected Parti Québécois members of Quebec's National Assembly are to be sworn in on Thursday 15 October; Liberal opposition members on 19 October; and the PQ cabinet on 21 October.",
-      "text": "The 59 newly elected Parti Québécois members of Quebec's National Assembly are to be sworn in on Thursday 15 October; Liberal opposition members on 19 October; and the PQ cabinet on 21 October (Radio-Canada; CBC). Premier-designate Paul St-Pierre Plamondon says he will not swear an oath of allegiance to the King, relying on Quebec's 2022 law that made the National Assembly oath the only required oath. That law is under court challenge; an injunction hearing is expected between 19 October and 9 November. St-Pierre Plamondon has asked government lawyers whether he can keep his campaign pledges to bar the lieutenant-governor from the opening speech and to redirect the lieutenant-governor's office budget (about 1.3 million Canadian dollars for 2026–27) to homelessness work. Governor General Louise Arbour has said she is skeptical of those plans (CBC; Radio-Canada).",
-      "sources": [
-        {
-          "name": "Radio-Canada",
-          "url": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation"
-        },
-        {
-          "name": "CBC",
-          "url": "https://www.cbc.ca/news/canada/montreal/pq-minority-government-sworn-in-9.7376650"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-israel-election-1",
-      "edition": "2026-10-16",
-      "section": "israel-election",
-      "headline": "Zman Yisrael poll: Yashar 26, Likud 20; blocs still 54–49",
-      "lead": "A Zman Yisrael poll for the Times of Israel, fielded on 14–15 October (500 respondents, margin of error 4.4 points), gives Gadi Eisenkot's Yashar 26 seats and Benjamin Netanyahu's Likud 20.",
-      "text": "A Zman Yisrael poll for the Times of Israel, fielded on 14–15 October (500 respondents, margin of error 4.4 points), gives Gadi Eisenkot's Yashar 26 seats and Benjamin Netanyahu's Likud 20. The anti-Netanyahu Jewish-led bloc has 54 seats and the Netanyahu bloc 49, both short of 61, with Arab parties at 13 and the nonaligned Reservists at 4. Ofer Winter's Amcha Yisrael is at 2.8%, below the 3.25% threshold. Last week's Zman Yisrael split was 55–51 the other way on the blocs; the party gap between Yashar and Likud has widened from 24–20 to 26–20 (Times of Israel).",
-      "sources": [
-        {
-          "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/toi-poll-eisenkot-opens-up-big-lead-on-netanyahu-but-both-blocs-short-of-majority/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-israel-election-2",
-      "edition": "2026-10-16",
-      "section": "israel-election",
-      "headline": "Channel 13 Madad poll: Netanyahu bloc 51, Eisenkot 50; Hendel and Winter both at 4",
-      "lead": "Channel 13's Madad poll (Shmuel Rosner and Noah Slepkov, 1,018 respondents, margin of error 3.1 points, fielded 13 October) puts Netanyahu's bloc at 51 seats and Eisenkot's at 50, with Arab parties at 15.",
-      "text": "Channel 13's Madad poll (Shmuel Rosner and Noah Slepkov, 1,018 respondents, margin of error 3.1 points, fielded 13 October) puts Netanyahu's bloc at 51 seats and Eisenkot's at 50, with Arab parties at 15. Yashar leads with 20 seats and Likud has 18. For the first time in this Madad series, Yoaz Hendel and Yaron Zelekha's Reservists clear the threshold with 4 seats; Winter's Amcha Yisrael also has 4. That result conflicts with the same week's Zman Yisrael poll, which had Winter below the threshold. Eisenkot leads Netanyahu 45% to 38% as more suitable to be prime minister (Channel 13; Madad).",
-      "sources": [
-        {
-          "name": "Channel 13",
-          "url": "https://13tv.co.il/item/news/politics/politics/survey-905396904/"
-        },
-        {
-          "name": "Madad",
-          "url": "https://themadad.com/english/madad-poll-october-14-2026/"
-        },
-        {
-          "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-october-15-2026/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-israel-election-3",
-      "edition": "2026-10-16",
-      "section": "israel-election",
-      "headline": "Netanyahu: Defense and National Security stay with Likud; Otzma fires back",
-      "lead": "At a campaign event in Acre on Thursday, Netanyahu said that if he forms the next government, Likud will keep the National Security and Education ministries, and repeated that Itamar Ben-Gvir will not be defense minister.",
-      "text": "At a campaign event in Acre on Thursday, Netanyahu said that if he forms the next government, Likud will keep the National Security and Education ministries, and repeated that Itamar Ben-Gvir will not be defense minister. Otzma Yehudit accused him of planning to shut the party out of the next coalition and bring in Eisenkot instead. Ben-Gvir told Walla he still expects to become defense minister if Otzma gains seats. Friday 16 October is the legal deadline for surplus-vote agreements; Otzma remains the only party in Netanyahu's bloc without one after Ben-Gvir refused a deal with Winter (Times of Israel; Ynet).",
-      "sources": [
-        {
-          "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/pm-says-ben-gvir-cant-be-defense-or-police-minister-after-election-angering-otzma-yehudit/"
-        },
-        {
-          "name": "Ynet",
-          "url": "https://www.ynetnews.com/article/s1ql002sjge"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-lebanon-1",
-      "edition": "2026-10-16",
-      "section": "lebanon",
-      "headline": "EUSM Lebanon: Italy, France and Spain expected to supply most of about 100 troops",
-      "lead": "Reporting on the force plan for the EU Support Mission in Lebanon (established by the Council on 12 October) says Italy, France and Spain are expected to provide most of a permanent military component of about 100 personnel, based mainly in Beirut, with no planned deployment to southern Lebanon near the Israeli border.",
-      "text": "Reporting on the force plan for the EU Support Mission in Lebanon (established by the Council on 12 October) says Italy, France and Spain are expected to provide most of a permanent military component of about 100 personnel, based mainly in Beirut, with no planned deployment to southern Lebanon near the Israeli border. France is pushing to lead the mission at first; Italy has already named a command candidate; command is expected to rotate yearly (Rapporteur, 9 October; details confirmed against the Council decision of 12 October). The mission advises and trains the Lebanese Armed Forces and Internal Security Forces on border, maritime and related tasks; it is not a UNIFIL replacement. On the Israeli-reaction watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to EUSM itself was found since yesterday's edition.",
-      "sources": [
-        {
-          "name": "Rapporteur",
-          "url": "https://www.rapporteur.com/news/exclusive-france-and-italy-vie-to-lead-eu-lebanon-mission/"
-        },
-        {
-          "name": "Council of the EU",
-          "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-brazil-1",
-      "edition": "2026-10-16",
-      "section": "brazil",
-      "headline": "Datafolha: Flávio 47%, Lula 45% in the runoff, still a technical tie",
-      "lead": "Datafolha's runoff poll for Folha de S.Paulo, published on Thursday (2,520 interviews on 13–14 October, margin of error 2 points, TSE registration BR-00466/2026), has Flávio Bolsonaro at 47% and Lula at 45%.",
-      "text": "Datafolha's runoff poll for Folha de S.Paulo, published on Thursday (2,520 interviews on 13–14 October, margin of error 2 points, TSE registration BR-00466/2026), has Flávio Bolsonaro at 47% and Lula at 45%. Among valid votes the split is 51% to 49%. A week earlier Datafolha had Flávio at 49% and Lula at 45%; the gap has narrowed. The poll is the first Datafolha after large pro-Lula street events. Rejection is 46% for Lula and 44% for Flávio (G1; Folha).",
-      "sources": [
-        {
-          "name": "G1",
-          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml"
-        },
-        {
-          "name": "Folha de S.Paulo",
-          "url": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-um-empate-tecnico.shtml"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-quebec-1",
-      "edition": "2026-10-16",
-      "section": "quebec",
-      "headline": "All 59 PQ MNAs sworn in; cabinet still due 21 October",
-      "lead": "On Thursday 15 October, all 59 Parti Québécois members of Quebec's National Assembly were sworn in at the Red Room in Quebec City, taking an oath of allegiance to the people of Quebec rather than to the King.",
-      "text": "On Thursday 15 October, all 59 Parti Québécois members of Quebec's National Assembly were sworn in at the Red Room in Quebec City, taking an oath of allegiance to the people of Quebec rather than to the King. Premier-designate Paul St-Pierre Plamondon spoke of the party's largest caucus since 1998 and said cabinet, of about 20 ministers, is still due on 21 October. Liberal MNAs are to be sworn in on Monday, Québec solidaire on Tuesday and Conservatives on Thursday. A court challenge to the 2022 law that dropped the oath to the King remains pending (Canadian Press via CityNews; Radio-Canada).",
-      "sources": [
-        {
-          "name": "Canadian Press via CityNews",
-          "url": "https://montreal.citynews.ca/2026/10/15/parti-quebecois-mnas-sworn-in/"
-        },
-        {
-          "name": "Radio-Canada",
-          "url": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation"
-        },
-        {
-          "name": "Le Devoir",
-          "url": "https://www.ledevoir.com/politique/quebec/1017191/59-elus-parti-quebecois-pretent-serment-deviennent-deputes"
-        },
-        {
-          "name": "National Post",
-          "url": "https://nationalpost.com/news/parti-quebecois-caucus-members-swear-allegiance-to-the-people-of-quebec-not-the-king"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-israel-election-4",
-      "edition": "2026-10-16",
-      "section": "israel-election",
-      "headline": "Israel Hayom poll: change bloc 52, right 50; Yashar 24; Winter still below the threshold",
-      "lead": "An Israel Hayom / Kantar poll published on Thursday (551 adults online, 14–15 October, margin of error 4.2 points) puts the change bloc at 52 seats and the right at 50.",
-      "text": "An Israel Hayom / Kantar poll published on Thursday (551 adults online, 14–15 October, margin of error 4.2 points) puts the change bloc at 52 seats and the right at 50. Yashar rises to 24 from 22 in the prior Israel Hayom survey; Likud has 21; Bennett's Beyachad falls one seat to 12. Otzma Yehudit has 9 and Religious Zionism 6. Hendel–Zelekha's list has 4; Winter's Amcha Yisrael remains under the electoral threshold. The paper notes that neither Jewish-led camp reaches 61 without some form of Arab-party involvement, and that 87% of change-bloc voters in the survey would accept joining, external support, or abstention by an Arab party (Israel Hayom).",
-      "sources": [
-        {
-          "name": "Israel Hayom",
-          "url": "https://www.israelhayom.co.il/news/politics/article/21636491"
-        },
-        {
-          "name": "Skarim",
-          "url": "https://www.skarim.org/polls/israel-hayom-2026-10-15"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-israel-election-5",
-      "edition": "2026-10-16",
-      "section": "israel-election",
-      "headline": "Lieberman rules out a minority government and Arab or Haredi partners",
-      "lead": "On Thursday Avigdor Lieberman told a conference of the Israel Democracy Institute that Yisrael Beytenu would oppose any minority government and demanded a majority coalition of Zionist parties only.",
-      "text": "On Thursday Avigdor Lieberman said Yisrael Beytenu would oppose any minority government, including a transitional one, and demanded a majority coalition of Zionist parties only, without Ra'am, the Joint List, Shas or United Torah Judaism. He also said his party would not sit with Likud while Netanyahu leads it. Benny Gantz replied that Lieberman was either lying about eventually relying on Arab parties or that the country was heading to a repeat election. The dispute matters because recent polls show neither Jewish-led bloc reaching 61 without Arab involvement (Jerusalem Post; Israel Hayom).",
-      "sources": [
-        {
-          "name": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-election-2026/article-911855"
-        },
-        {
-          "name": "Israel Hayom",
-          "url": "https://www.israelhayom.co.il/news/politics/article/21636491"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-israel-election-6",
-      "edition": "2026-10-16",
-      "section": "israel-election",
-      "headline": "Israel Hayom reports a U.S. push for Netanyahu–Eisenkot unity; Huckabee denies it",
-      "lead": "Israel Hayom on Thursday described a proposed framework in which Likud and Yashar would form a broad government, with Netanyahu serving up to two years then retiring; U.S. Ambassador Mike Huckabee denied any U.S. effort to steer the election.",
-      "text": "Israel Hayom on Thursday, citing diplomatic officials, described a proposed framework in which Likud and Yashar would form a broad government, with Netanyahu serving up to two years then retiring, while advancing regional deals, especially with Saudi Arabia. Eisenkot's side would seek a timed Netanyahu exit, rollback of judicial-reform laws, and an October 7 state inquiry, according to that report. U.S. Ambassador Mike Huckabee posted on X that the U.S. government is \"NOT trying to manipulate Israel's election or telling [the PM] what to do,\" called related claims fake news, and Channel 14 reported the same denial (Israel Hayom; Channel 14).",
-      "sources": [
-        {
-          "name": "Israel Hayom",
-          "url": "https://www.israelhayom.com/2026/10/15/us-pushes-israeli-unity-government-netanyahu-exit-saudi-peace/"
-        },
-        {
-          "name": "Channel 14",
-          "url": "https://www.c14.co.il/article/1740548"
-        },
-        {
-          "name": "Mike Huckabee on X",
-          "url": "https://x.com/GovMikeHuckabee/status/2110728129136177231"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-colombia-and-israel-1",
-      "edition": "2026-10-16",
-      "section": "colombia-and-israel",
-      "headline": "Colombia withdraws from the Hague Group after opening its Jerusalem embassy",
-      "lead": "Foreign Minister Omar Bula Escobar announced Colombia's withdrawal as a member and co-chair of the Hague Group, a coalition that sought legal and diplomatic pressure on Israel over Gaza.",
-      "text": "Foreign Minister Omar Bula Escobar announced Colombia's withdrawal as a member and co-chair of the Hague Group, a coalition that sought legal and diplomatic pressure on Israel over Gaza. Colombia's Foreign Ministry said on 15 October that Colombia had formally left; Bula said the group was \"created to isolate and attack Israel\" and that Colombia rejects that approach. Bolivia and Honduras had already left. He spoke after the 14 October embassy inauguration in Jerusalem, with Netanyahu and Gideon Sa'ar present, condemned the October 7 massacre, and criticized the prior Colombian government's record on terrorism and antisemitism. The embassy opening itself was covered on 15 October; the Hague Group exit is the new diplomatic step (Colombian Foreign Ministry; Ynet).",
-      "sources": [
-        {
-          "name": "Colombian Foreign Ministry",
-          "url": "https://www.cancilleria.gov.co/sala-de-prensa/noticias/colombia-anuncia-su-retiro-del-grupo-de-la-haya"
-        },
-        {
-          "name": "Ynet",
-          "url": "https://www.ynetnews.com/article/hkts9kpsge"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-spacex-xai-and-cursor-1",
-      "edition": "2026-10-16",
-      "section": "spacex-xai-and-cursor",
-      "headline": "SpaceXSI releases Grok Voice 3.0; tops Artificial Analysis speech-to-speech ranking",
-      "lead": "On 14 October SpaceXSI released Grok Voice 3.0, its newest speech-to-speech model for the Voice Agent API.",
-      "text": "On 14 October SpaceXSI released Grok Voice 3.0, its newest speech-to-speech model for the Voice Agent API. Independent benchmark site Artificial Analysis ranks it first on the Speech-to-Speech Index at 86.9, ahead of OpenAI's GPT-Live-1 (Astra, medium) at 83.2 and Google's Gemini 3.8 Live (Extended Thinking, High) at 82.6; Grok Voice 2.0 scored 81.3. SpaceXSI and Artificial Analysis both report about 97% on Full Duplex Bench. API price is unchanged at $0.08 per minute ($4.80 per hour). The alias grok-voice-latest now points to grok-voice-3.0. SpaceXSI says the model powers millions of Tesla in-car conversations a day and about 20,000 Starlink support calls a day (company figures). SiliconANGLE separately reported the launch and the Artificial Analysis ranking (SpaceXSI; SiliconANGLE).",
-      "sources": [
-        {
-          "name": "SpaceXSI",
-          "url": "https://x.ai/news/grok-voice-3"
-        },
-        {
-          "name": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-spacex-xai-and-cursor-2",
-      "edition": "2026-10-16",
-      "section": "spacex-xai-and-cursor",
-      "headline": "SpaceXSI launches The X Subscription, bundling Grok, Grok Bot, Cursor and X Premium",
-      "lead": "On 12 October SpaceXSI introduced The X Subscription, one plan that includes Grok, Grok Bot, Cursor and X Premium.",
-      "text": "On 12 October SpaceXSI introduced The X Subscription, one plan that includes Grok, Grok Bot, Cursor and X Premium. Paid tiers are Plus ($8 a month), Premium ($30), Super ($100) and Ultra ($200), plus a free tier with limited use. SpaceXSI says Premium matches what SuperGrok, Cursor Pro and X Premium+ used to cost together at about $90 a month, and that each paid tier's shared Grok usage pool covers Grok apps, the Grok tab on X, and Cursor, with at least twice the coding usage of the comparable older Cursor plan. Existing SuperGrok, Cursor and X Premium subscribers may keep their current plans or switch when the option appears in billing settings. TechCrunch reported the same structure and prices on 13 October. The item was not in the 12–15 October digest editions (SpaceXSI; TechCrunch).",
-      "sources": [
-        {
-          "name": "SpaceXSI",
-          "url": "https://x.ai/news/x-subscription"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-16-spacex-xai-and-cursor-3",
-      "edition": "2026-10-16",
-      "section": "spacex-xai-and-cursor",
-      "headline": "Reports: Cursor reviewed whether employee Grok Bot testing sent confidential data toward SpaceXAI training",
-      "lead": "On 15 October TokenPost reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training.",
-      "text": "On 15 October TokenPost and CryptoBriefing reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training. According to those accounts, Cursor then required company email logins for Sand and stopped using employee-use data for future training. TokenPost quotes a Cursor lawyer in Slack as saying the company arguably lacked rights to train on that data. Both outlets say there is no publicly confirmed evidence that client or partner data was actually exposed. The review reportedly began weeks before SpaceX completed its acquisition of Cursor on 14 August 2026. Primary paywalled detail is attributed to The Information (TokenPost; CryptoBriefing).",
-      "sources": [
-        {
-          "name": "TokenPost",
-          "url": "https://www.tokenpost.com/news/technology/32809"
-        },
-        {
-          "name": "CryptoBriefing",
-          "url": "https://cryptobriefing.com/cursor-probes-grok-data-exposure-spacex/"
-        },
-        {
-          "name": "The Information (paywalled primary)",
-          "url": "https://www.theinformation.com/articles/cursor-staff-investigated-whether-confidential-data-reached-spacex-ai-training"
-        }
-      ]
+     "label": "SpaceX updates",
+     "url": "https://www.spacex.com/updates"
     }
-  ]
+   ]
+  },
+  {
+   "id": "quebec",
+   "name": "Quebec"
+  },
+  {
+   "id": "israeli-data-centers",
+   "name": "Israeli data centers"
+  },
+  {
+   "id": "non-latin-script-digitization",
+   "name": "Non-Latin script digitization"
+  },
+  {
+   "id": "carney-case",
+   "name": "The Carney case",
+   "baseline": "Jamey Carney, a 43-year-old American citizen from New York (Westchester County, according to one report; unconfirmed), had lived in Killarney, County Kerry, since about 2021 with her teenage daughter. She was killed in her home on the Muckross Road on the night of 6 July 2026, and her daughter found her body the next afternoon. The police believe that her boyfriend, Ahmad Al-Saqar, a 28-year-old Jordanian, left Killarney by bus early on 7 July and flew from Dublin to Istanbul before the body was found. He went on to Jordan, where the Public Security Directorate arrested him within days, and a Jordanian court ordered his detention. In August, according to the Irish Times, the Director of Public Prosecutions directed that he be charged with her murder; other reports say only that the DPP supported an arrest warrant. Ireland and Jordan have no extradition treaty, so his return would require a special arrangement between the two governments. Jordan could also try him itself (one report; unconfirmed). As of 23 September, he remained in custody in Jordan, talks between the two countries were continuing, and no extradition hearing had been set. No later development has been reported.",
+   "baseline_updated": "15 October 2026",
+   "baseline_sources": [
+    {
+     "label": "Irish Times, 24 Aug",
+     "url": "https://www.irishtimes.com/crime-law/2026/08/24/gardai-seek-extradition-of-jamey-carney-murder-suspect-despite-no-formal-treaty-with-jordan/"
+    },
+    {
+     "label": "RTÉ, 16 Jul",
+     "url": "https://www.rte.ie/news/crime/2026/0716/1583712-jamey-carney-investigation/"
+    },
+    {
+     "label": "Irish Examiner",
+     "url": "https://www.irishexaminer.com/news/courtandcrime/arid-41900245.html"
+    },
+    {
+     "label": "Irish Independent, 23 Sep",
+     "url": "https://www.independent.ie/irish-news/crime/suspect-in-jamey-carney-murder-investigation-to-remain-in-detention-in-jordan/a/161849178.html"
+    },
+    {
+     "label": "Radio Kerry, 23 Sep",
+     "url": "https://www.radiokerry.ie/news/person-of-interest-in-jamey-carney-murder-investigation-still-detained-in-jordan-499998"
+    },
+    {
+     "label": "JOE.ie, 23 Sep",
+     "url": "https://www.joe.ie/crime/suspect-in-jamey-carney-murder-to-remain-in-detention-in-jordan-883600"
+    }
+   ]
+  },
+  {
+   "id": "belle-burden",
+   "name": "Belle Burden"
+  },
+  {
+   "id": "trump-and-xi",
+   "name": "Trump and Xi"
+  },
+  {
+   "id": "nick-land",
+   "name": "Nick Land"
+  },
+  {
+   "id": "uk-breakup-politics",
+   "name": "UK breakup politics"
+  },
+  {
+   "id": "hashiloach",
+   "name": "HaShiloach"
+  },
+  {
+   "id": "greenland",
+   "name": "Greenland"
+  },
+  {
+   "id": "marc-andreessen",
+   "name": "Marc Andreessen",
+   "about": "Signs of life: his posts and public appearances after his silence since July 2026. Fed by Beacon.",
+   "placeholder": "Nothing has been reported here yet. This section will track signs of life from Marc Andreessen: his posts and public appearances after his silence since July 2026. Beacon will add items when it finds them.",
+   "links": [
+    {
+     "label": "His X profile",
+     "url": "https://x.com/pmarca"
+    }
+   ]
+  },
+  {
+   "id": "trenton",
+   "name": "Trenton",
+   "own_edition": true,
+   "about": "Good news from the city of Trenton, New Jersey: economic recovery, development, investment, new businesses, housing, safety and a better life for residents. State government news is included only when it brings projects or money into the city. First edition: 16 October 2026, covering about 16 September to 16 October 2026.",
+   "header_image": {
+    "image": "digest/trenton/img/header.jpg",
+    "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 3.0",
+    "image_url": "https://commons.wikimedia.org/wiki/File:2014-05-12_12_32_27_View_of_the_Trenton_Makes_Bridge_from_the_Trenton-Morrisville_Toll_Bridge_(U.S._Route_1)-cropped_2.JPG",
+    "caption": "The “Trenton Makes, The World Takes” bridge over the Delaware River"
+   },
+   "baseline": "Trenton, the capital of New Jersey, had an estimated 91,506 residents in July 2025, slightly more than the 90,871 counted in the 2020 census, and up from 84,913 in 2010. In the Census Bureau's 2020–2024 survey, the median household income was $52,537, about 21.6 percent of residents lived in poverty, 37.9 percent of homes were occupied by their owners, and 16.2 percent of adults held a bachelor's degree. The median value of an owner-occupied home was $160,700 in that survey; the city reports that the average sale price in 2026 so far is about $239,000. The city's current strategy rests on state and federal money for specific projects: the Choice Neighborhoods program in the North Ward, the repurchase of the empty downtown hotel, the sale of vacant city-owned houses, and grants to bring small businesses into the downtown.",
+   "baseline_updated": "16 October 2026",
+   "baseline_sources": [
+    {
+     "label": "U.S. Census Bureau QuickFacts: Trenton city",
+     "url": "https://www.census.gov/quickfacts/fact/table/trentoncitynewjersey/PST045224"
+    },
+    {
+     "label": "City of Trenton (home prices, city figures)",
+     "url": "https://trentonjournal.com/trenton-home-values-continue-to-rise-as-real-estate-market-shows-strength/"
+    }
+   ],
+   "useful_links": [
+    {
+     "label": "City of Trenton news",
+     "url": "https://www.trentonnj.org/"
+    },
+    {
+     "label": "Trenton Journal",
+     "url": "https://trentonjournal.com/"
+    },
+    {
+     "label": "The Trentonian",
+     "url": "https://www.trentonian.com/"
+    },
+    {
+     "label": "Trenton Downtowner (Central Jersey Media)",
+     "url": "https://centraljersey.media/papers/trenton-downtowner/"
+    },
+    {
+     "label": "Trenton Downtown Association",
+     "url": "https://www.downtowntrenton.com/"
+    },
+    {
+     "label": "Greater Trenton on X",
+     "url": "https://x.com/GreaterTrenton"
+    }
+   ]
+  }
+ ],
+ "editions": {
+  "2026-10-12": {
+   "intro": "The main items are a Kan poll that puts Netanyahu's bloc ahead while Polymarket moved toward Eisenkot, a reported American plan to restart the Lebanon track this week, new details on the explosives seized on the road to Beirut, rival rallies in São Paulo two weeks before the Brazilian runoff, and Musk's statement that the next Starship flight will try to catch the upper stage. Topics with nothing new are left out.",
+   "quiet": "Nothing material on Quebec, Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland."
+  },
+  "2026-10-15": {
+   "intro": "The main items are two conflicting Israeli polls (Channel 12 puts Eisenkot's bloc at 54 seats and Netanyahu's at 49; Channel 14 puts Netanyahu's bloc at 62), Ben-Gvir's refusal of a surplus-vote deal with Ofer Winter, Colombia's opening of its Jerusalem embassy, Quaest's first runoff poll that puts Flávio Bolsonaro and Lula in a technical tie, Defense Minister Katz's threat to take more Lebanese territory if Hezbollah joins an Iranian attack, Cursor's new Origin App Marketplace, and the Parti Québécois swearing-in in Quebec.",
+   "quiet": "Nothing material on Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: Israeli Hebrew and English outlets reported the EU decision, but no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found."
+  },
+  "2026-10-16": {
+   "intro": "The main items are three Israeli polls that still leave both blocs short of 61 (Zman Yisrael: Eisenkot camp 54, Netanyahu 49, Yashar 26–Likud 20; Channel 13 Madad: 51–50 with Hendel and Winter both at four; Israel Hayom: change 52, right 50, Yashar 24), Netanyahu's refusal to give Ben-Gvir Defense or National Security, Lieberman's rejection of a minority government, an Israel Hayom unity-government report that Ambassador Huckabee denied, Colombia's exit from the Hague Group, Datafolha's Brazil runoff (Flávio 47%, Lula 45%), the PQ swearing-in in Quebec, EUSM Lebanon force-generation (Italy, France, Spain), Grok Voice 3.0, The X Subscription, and Cursor's reported Sand training review.",
+   "quiet": "Nothing material on Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found; contribution plans for Italy, France and Spain are reported above."
+  }
+ },
+ "items": [
+  {
+   "id": "2026-10-12-israel-election-1",
+   "edition": "2026-10-12",
+   "section": "israel-election",
+   "lead": "The Kan public broadcaster published a Kantar poll on Sunday evening (552 respondents, margin of error 4.2 points).",
+   "text": "The Kan public broadcaster published a Kantar poll on Sunday evening (552 respondents, margin of error 4.2 points). Yashar has 22 seats, Likud 20, Bennett's Beyachad 12, Otzma Yehudit 9, and the Democrats, Yisrael Beytenu, United Torah Judaism and the Joint List 8 each. Ofer Winter's Amcha Yisrael and Yoaz Hendel's Reservists both cross the threshold with 4 seats. The Netanyahu bloc, counting Winter, rises from 51 to 53 and the anti-Netanyahu bloc falls from 52 to 50, with the Arab parties at 13. Eisenkot still leads Netanyahu 43% to 38% on who is more suitable to be prime minister, and 30% of respondents are undecided (Haaretz). Thursday's Zman Yisrael poll had the opposite result, 55 to 51 for the anti-Netanyahu bloc, so the polls agree only that neither side reaches 61. Winter's vote share matters most: when he crosses the threshold, the right gains about four seats, and when he falls below it, those votes are lost.",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-11/ty-article/israel-election-poll-eisenkot-bloc-continues-slump-as-coalition-gains-ground/000001a1-2c63-d7a5-a7b1-be7397560000"
+    }
+   ],
+   "headline": "Kan poll puts Netanyahu's bloc at 53 seats, the opposition at 50"
+  },
+  {
+   "id": "2026-10-12-israel-election-2",
+   "edition": "2026-10-12",
+   "section": "israel-election",
+   "lead": "Also on Sunday, Bennett told a conference of the religious Zionist paper HaDor that Netanyahu could join a future government, and even be a minister, if he accepted the bloc's guidelines, including a state commission of inquiry into 7 October.",
+   "text": "Also on Sunday, Bennett told a conference of the religious Zionist paper HaDor that Netanyahu could join a future government, and even be a minister, if he accepted the bloc's guidelines, including a state commission of inquiry into 7 October. Eisenkot, Yair Golan and Avigdor Liberman rejected the idea at once, and Bennett withdrew it the same evening, saying it was meant to show the absurdity of the idea. Benny Gantz was the only one to support it, calling for a unity government with Likud (Times of Israel). Shas and United Torah Judaism signed their expected surplus-vote agreement. A UTJ candidate, Moshe Rosenthal, said the party would sit with whoever passes a draft-exemption law that the High Court will uphold, and that the rabbis will decide after the election (Times of Israel). That statement leaves the door open to Eisenkot, which is a real threat to Netanyahu, because without the Haredi parties his bloc has no path to a majority.",
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/bennett-suggests-netanyahu-could-be-part-of-future-government-quickly-backtracks/"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/shas-utj-sign-surplus-vote-agreement-ahead-of-election/"
+    }
+   ],
+   "headline": "Bennett floats, then withdraws, a role for Netanyahu in a future government"
+  },
+  {
+   "id": "2026-10-12-israel-election-3",
+   "edition": "2026-10-12",
+   "section": "israel-election",
+   "lead": "Polymarket moved against the Kan poll.",
+   "text": "Polymarket moved against the Kan poll. Eisenkot is now at about 46% to be the next sworn-in prime minister, Netanyahu at about 32% and Bennett at about 14%, compared with 41, 34.5 and 11.5 yesterday (Polymarket). The deadline for surplus-vote agreements is Friday 16 October.",
+   "sources": [
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ],
+   "headline": "Polymarket moves toward Eisenkot despite the Kan poll"
+  },
+  {
+   "id": "2026-10-12-lebanon-1",
+   "edition": "2026-10-12",
+   "section": "lebanon",
+   "lead": "Al Arabiya's Washington correspondent, Pierre Ghanem, reported on Sunday that the State Department intends to announce progress this week on the three-way framework between the United States, Lebanon and Israel.",
+   "text": "Al Arabiya's Washington correspondent, Pierre Ghanem, reported on Sunday that the State Department intends to announce progress this week on the three-way framework between the United States, Lebanon and Israel. According to his sources, Secretary of State Rubio has told his staff to finish two things by the middle of this month: a monitoring and verification mechanism for the \"pilot zones\" in the south, where Hezbollah is to be disarmed in exchange for Israeli withdrawal, and a framework for an economic aid conference for Lebanon. The main obstacle is the composition of the monitoring force. Israel objects to several countries, France in particular, and the United States will not send its own soldiers to the south, so Washington is looking for a way to use French troops away from the border alongside other European forces. A State Department official said any international presence must be tied to the goals of the framework agreement and not become \"permanent mediation.\" The same sources say Hezbollah has raised at least $40 million a month this year through smuggling across the Syrian border, falsified transactions at the port of Beirut and state salaries, since Iran stopped sending money (Al Arabiya, via Infinity News). The American position, stated in public after Rubio met Prime Minister Salam two weeks ago, is that disarmament must come before any Israeli withdrawal.",
+   "sources": [
+    {
+     "name": "Al Arabiya, via Infinity News",
+     "url": "https://infinity24.news/300751"
+    }
+   ],
+   "headline": "Al Arabiya: Washington to announce progress on the Lebanon framework this week"
+  },
+  {
+   "id": "2026-10-12-lebanon-2",
+   "edition": "2026-10-12",
+   "section": "lebanon",
+   "lead": "An-Nahar reported new details on the 500 kilograms of explosives (250 of TNT and 250 of C-4) seized at Dahr al-Baidar.",
+   "text": "An-Nahar reported new details on the 500 kilograms of explosives (250 of TNT and 250 of C-4) seized at Dahr al-Baidar. According to leaked investigation records, the two detained men admitted that they belong to Hezbollah and that the explosives are Hezbollah's. They said an official in the Bekaa gave them the load to deliver to the southern suburbs of Beirut, to a man known as \"Dhu al-Fiqar.\" Judge Claude Ghanem, the government commissioner at the Military Court, sent the file back to the army's Military Police for further questioning. The paper says the idea of an assassination plot is still only a suspicion. In recent days the army has also seized 245 kilograms of TNT smuggled from Syria and another load of explosives and shells near Qasr in the Hermel district (An-Nahar). If the confessions hold up, the state will have a court case that ties Hezbollah directly to explosives moved inside Lebanon. That gives Salam something concrete to show Washington before the Tampa meeting, but it also makes a confrontation with Hezbollah harder to avoid.",
+   "sources": [
+    {
+     "name": "An-Nahar",
+     "url": "https://www.annahar.com/lebanon/politics/356010/%D9%85%D8%AA%D9%81%D8%AC%D8%B1%D8%A7%D8%AA-%D8%B6%D9%87%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%AF%D8%B1-%D8%B4%D8%AD%D9%86%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AA%D8%B9%D9%82%D9%8A%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D9%88%D8%B4%D8%A8%D9%83%D8%A7%D8%AA-%D9%86%D9%82%D9%84%D9%87"
+    }
+   ],
+   "headline": "An-Nahar: detained men say the Dahr al-Baidar explosives belong to Hezbollah"
+  },
+  {
+   "id": "2026-10-12-lebanon-3",
+   "edition": "2026-10-12",
+   "section": "lebanon",
+   "lead": "In the south, two men harvesting olives were killed on Sunday, a retired soldier near Yater by Israeli artillery and an engineer in Froun by an old munition.",
+   "text": "In the south, two men harvesting olives were killed on Sunday, a retired soldier near Yater by Israeli artillery and an engineer in Froun by an old munition. Froun is one of the three pilot zones announced in July. Israel carried out four airstrikes on Mansouri, Talloussa and Kfar Tibnit, shelled at least nine villages overnight and demolished houses in Haddatha and Byout al-Siyad (L'Orient Today).",
+   "sources": [
+    {
+     "name": "L'Orient Today",
+     "url": "https://today.lorientlejour.com/article/1550412/israel-launches-airstrikes-on-3-occupied-lebanese-villages-demolishes-homes-in-2-others.html"
+    }
+   ],
+   "headline": "Two olive harvesters killed in south Lebanon; Israeli strikes on three villages"
+  },
+  {
+   "id": "2026-10-12-brazil-1",
+   "edition": "2026-10-12",
+   "section": "brazil",
+   "lead": "Lula held his largest rally of the campaign on Sunday on the Avenida Paulista in São Paulo.",
+   "text": "Lula held his largest rally of the campaign on Sunday on the Avenida Paulista in São Paulo. It filled twelve blocks, the largest crowd the left has gathered there since the protests against Jair Bolsonaro, with smaller events in 76 other cities. There was no official crowd count, because the campaign did not authorize the drone flight that the USP/Cebrap monitor uses. Lula spoke mainly to young voters. Flávio Bolsonaro met Governor Tarcísio de Freitas, Mayor Ricardo Nunes and local mayors and council members at a lunch in the same city. He told them to avoid a mood of \"already won\" and said \"nothing is settled.\" Tarcísio and Nunes announced a pro-Flávio rally on the Paulista next Sunday, 18 October. On the same day the president of the TSE, Brazil's Superior Electoral Court, which polices campaign content, Kassio Nunes Marques, ordered the suspension of \"Exército do Lula,\" a WhatsApp channel with more than three million followers run by Deputy André Janones, at the request of Flávio's campaign. A few hours later the court's chief inspector, Ricardo Villas Bôas Cueva, restored it, finding the evidence insufficient (Folha).",
+   "sources": [
+    {
+     "name": "Folha",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-reune-multidao-e-mira-jovens-flavio-mobiliza-aliados-e-fala-em-evitar-ja-ganhou.shtml"
+    }
+   ],
+   "headline": "Lula holds his largest rally; Flávio Bolsonaro warns allies that \"nothing is settled\""
+  },
+  {
+   "id": "2026-10-12-brazil-2",
+   "edition": "2026-10-12",
+   "section": "brazil",
+   "lead": "A smaller pollster, DataTrends, published a poll on Sunday (2,000 automated telephone interviews, 7–9 October, margin of error 2.2 points) with Flávio at 50% and Lula at 44%, or 53.1% to 46.9% in valid votes (GP1).",
+   "text": "A smaller pollster, DataTrends, published a poll on Sunday (2,000 automated telephone interviews, 7–9 October, margin of error 2.2 points) with Flávio at 50% and Lula at 44%, or 53.1% to 46.9% in valid votes (GP1). Poder360's table of the five main polls shows Flávio ahead in four, by 4 to 6 points in valid votes, and Lula narrowly ahead only in Vox Brasil, by 50.9% to 49.1% (Poder360). Record canceled its debate, so the first runoff debate is on Band on 18 October and the last on Globo on 23 October. On Polymarket Flávio is at about 86% and Lula at about 13%, compared with 88 and 12 yesterday (Polymarket). Quaest's first runoff poll is due on Wednesday.",
+   "sources": [
+    {
+     "name": "GP1",
+     "url": "https://www.gp1.com.br/brasil/noticia/2026/10/11/flavio-bolsonaro-tem-531-dos-votos-validos-no-segundo-turno-e-lula-469-diz-datatrends-633734.html"
+    },
+    {
+     "name": "Poder360",
+     "url": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-14-dias-do-2o-turno/"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/brazil-presidential-election"
+    }
+   ],
+   "headline": "DataTrends poll has Flávio ahead; he leads in four of five main polls"
+  },
+  {
+   "id": "2026-10-12-colombia-and-israel-1",
+   "edition": "2026-10-12",
+   "section": "colombia-and-israel",
+   "lead": "El País reports that Colombia's interior minister, Rodrigo Lara, spoke at last Wednesday's 7 October memorial at the Centro Israelita in Bogotá, the first time the national government has attended.",
+   "text": "El País reports that Colombia's interior minister, Rodrigo Lara, spoke at last Wednesday's 7 October memorial at the Centro Israelita in Bogotá, the first time the national government has attended. He said Colombia would take relations with Israel \"to levels never seen before\" and that he had met Yehuda Kaploun, Trump's special envoy against antisemitism, two days earlier. George Levy, president of the Confederation of Jewish Communities, called the De la Espriella government \"the best friend of the Jewish people in the world.\" Graffiti has appeared on the building of the Israeli embassy and on a kosher restaurant in Bogotá (El País). The embassy in Jerusalem opens on Wednesday 14 October at 6:30 p.m., with Foreign Minister Omar Bula and Gideon Sa'ar presiding (Caracol Radio). Colombia will be the tenth country with an embassy in the city. Marcos Peckel of the Jewish Confederation told El País that the coal trade is symbolic and that the strategic part is security, cyber, counter-drone systems and intelligence, along with Colombia's vote on the UN Security Council.",
+   "sources": [
+    {
+     "name": "El País",
+     "url": "https://elpais.com/america-colombia/2026-10-11/el-mejor-amigo-del-pueblo-judio-en-el-mundo-el-giro-expres-de-colombia-hacia-israel.html"
+    },
+    {
+     "name": "Caracol Radio",
+     "url": "https://caracol.com.co/2026/10/09/el-14-de-octubre-se-inaugura-la-embajada-de-colombia-en-jerusalen/"
+    }
+   ],
+   "headline": "Colombia's government turns toward Israel; Jerusalem embassy opens 14 October"
+  },
+  {
+   "id": "2026-10-12-spacex-xai-and-cursor-1",
+   "edition": "2026-10-12",
+   "section": "spacex-xai-and-cursor",
+   "lead": "Speaking by video at the X Takeover fan event in Texas on Saturday, Musk said that Starship Flight 15 will try to catch the upper stage with the launch tower, which would be the first full recovery of an orbital rocket, and that he hopes it will fly in four to six weeks, \"a little bit before Thanksgiving.\" These are his claims.",
+   "text": "Speaking by video at the X Takeover fan event in Texas on Saturday, Musk said that Starship Flight 15 will try to catch the upper stage with the launch tower, which would be the first full recovery of an orbital rocket, and that he hopes it will fly in four to six weeks, \"a little bit before Thanksgiving.\" These are his claims. SpaceX has not published a mission plan, and the FAA, which licenses every launch and reentry, has not changed the license. NASASpaceflight notes that the current license covers only the Flight 14 reentry, and that changing the mission profile to a ship catch could take time to approve. Its unofficial schedule, taken from FAA planning slides, puts Flight 15 (Ship 42 and Booster 22, from Pad 2 at Starbase) no earlier than 8 November. Ship 42 has had its six engines removed and has gone back for a third round of pressure testing, perhaps to fix the vacuum-engine failures seen on Flights 12 and 14 (NASASpaceflight). There is nothing material on xAI or Cursor.",
+   "sources": [
+    {
+     "name": "NASASpaceflight",
+     "url": "https://www.nasaspaceflight.com/2026/10/ship-40-returns-ship-42-more-testing/"
+    }
+   ],
+   "headline": "Musk says Starship Flight 15 will try to catch the upper stage"
+  },
+  {
+   "id": "2026-10-14-lebanon-1",
+   "edition": "2026-10-14",
+   "section": "lebanon",
+   "headline": "EU sets up a training mission for Lebanon's army and police as UNIFIL prepares to leave",
+   "lead": "On 12 October, EU foreign ministers set up the EU Support Mission in Lebanon (EUSM Lebanon), with an initial mandate of three years.",
+   "text": "The mission has a military part, which will advise and train the Lebanese Armed Forces on border and maritime security, and a civilian part, which will train the Internal Security Forces on cybercrime and anti-smuggling. The EU says it is not a replacement for UNIFIL, whose mandate ends at the end of 2026. Euronews reports that it will not operate in southern Lebanon. An EU official said personnel could deploy in the coming months. Rapporteur reports, citing confidential plans, that the mission will have about 100 military personnel, mostly in Beirut, with France and Italy competing to lead it; this has not been confirmed by a second source. Asharq Al-Awsat writes that the aim is to free the Lebanese army to concentrate on disarming Hezbollah.",
+   "sources": [
+    {
+     "name": "Council of the EU",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/"
+    },
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/12/eu-agrees-new-security-mission-in-lebanon-as-un-peacekeepers-prepare-to-leave"
+    },
+    {
+     "name": "Asharq Al-Awsat",
+     "url": "https://english.aawsat.com/arab-world/5328942-eu-establishes-new-lebanon-support-mission"
+    },
+    {
+     "name": "Rapporteur",
+     "url": "https://www.rapporteur.com/news/exclusive-france-and-italy-vie-to-lead-eu-lebanon-mission/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-14-grokbot-1",
+   "headline": "Grok Bot 0.70.2: Bots get their own email addresses and can search X",
+   "text": "Version 0.70.2, released on 11 October, lets a Bot claim its own email address and receive mail there. Any email it sends from that address waits for the user's approval. Bots can now also search X and read posts without a connected X account, and some connectors, such as Figma, Notion and Canva, can appear as interactive cards in the chat. The release also lets Bots pay with X Money or Stripe Link. The official changelog is the source. The Botski Blog, an unofficial site, also reports the X search and the email feature, but it does not confirm the version number or the payment feature, which are therefore unconfirmed by a second source.",
+   "sources": [
+    {
+     "name": "Grok Bot changelog (official)",
+     "url": "https://x.ai/changelog/bot"
+    },
+    {
+     "name": "Botski Blog",
+     "url": "https://bot.ski/blog/grok-bot-news-oct-1-10"
+    }
+   ],
+   "edition": "2026-10-14",
+   "section": "spacex-xai-and-cursor",
+   "lead": "Version 0.70.2, released on 11 October, lets a Bot claim its own email address and receive mail there."
+  },
+  {
+   "id": "2026-10-14-grokbot-2",
+   "headline": "Grok Bot 0.68: slide decks, formatted email and Gmail send-as addresses",
+   "text": "Version 0.68.0 (5 October) lets email drafts go out from a verified Gmail send-as address and adds five languages: Marathi, Tamil, Telugu, Swahili and Hausa. Version 0.68.1 (7 October) lets Bots build slide decks as PowerPoint files or Google Slides, send formatted emails, and search the Gmail Spam folder. It also enlarges the Bot's computer screen to 1920 × 1200. The official changelog, the Grok Bot Wiki and the Botski Blog all report these changes.",
+   "sources": [
+    {
+     "name": "Grok Bot changelog (official)",
+     "url": "https://x.ai/changelog/bot"
+    },
+    {
+     "name": "Grok Bot Wiki",
+     "url": "https://www.grokbotwiki.com/guides/grok-bot-whats-new"
+    }
+   ],
+   "edition": "2026-10-14",
+   "section": "spacex-xai-and-cursor",
+   "lead": "Version 0.68.0 (5 October) lets email drafts go out from a verified Gmail send-as address and adds five languages: Marathi, Tamil, Telugu, Swahili and Hausa."
+  },
+  {
+   "id": "2026-10-14-grokbot-3",
+   "headline": "Grok Bot 0.66–0.67: the primary Bot offers to take on work; Marketplace becomes Connect Apps",
+   "text": "Version 0.66.0 (2 October) lets the user's primary Bot, the one marked with a star, notice work it could take on and offer to do it. A second release on the same day renamed the Marketplace to Connect Apps and moved Bot templates to the web. The official changelog, the Grok Bot Wiki and the Botski Blog all report these changes.",
+   "sources": [
+    {
+     "name": "Grok Bot changelog (official)",
+     "url": "https://x.ai/changelog/bot"
+    },
+    {
+     "name": "Grok Bot Wiki",
+     "url": "https://www.grokbotwiki.com/guides/grok-bot-whats-new"
+    }
+   ],
+   "edition": "2026-10-14",
+   "section": "spacex-xai-and-cursor",
+   "lead": "Version 0.66.0 (2 October) lets the user's primary Bot, the one marked with a star, notice work it could take on and offer to do it."
+  },
+  {
+   "id": "2026-10-15-israel-election-1",
+   "edition": "2026-10-15",
+   "section": "israel-election",
+   "headline": "Channel 12 poll: Eisenkot's bloc 54, Netanyahu's 49; Winter again below the threshold",
+   "lead": "A Channel 12 Midgam poll published on Monday evening (509 respondents, margin of error 4.4 points) again put Gadi Eisenkot's bloc at 54 seats and Benjamin Netanyahu's at 49.",
+   "text": "A Channel 12 Midgam poll published on Monday evening (509 respondents, margin of error 4.4 points) again put Gadi Eisenkot's bloc at 54 seats and Benjamin Netanyahu's at 49. Yashar leads with 23 seats, Likud has 20, Bennett's Beyachad (Together) 13, the Democrats and Yisrael Beytenu 9 each, the Joint List, Otzma Yehudit and Shas 8 each, United Torah Judaism 7, Religious Zionism 6, Ra'am 5 and the Reservists 4. Ofer Winter's Amcha Yisrael again falls short of the 3.25 percent threshold, at the equivalent of about 1.8 seats. Parties opposed to Netanyahu would hold 67 seats if the Arab lists are counted, but parts of Eisenkot's bloc refuse to sit with them, so the Zionist opposition alone remains short of 61 (Haaretz).",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-13/ty-article/poll-eisenkot-bloc-holds-at-54-seats-hard-line-ex-generals-party-falls-short/000001a1-346a-d36f-a9fd-75ead18b0000"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-israel-election-2",
+   "edition": "2026-10-15",
+   "section": "israel-election",
+   "headline": "Channel 14 poll: Netanyahu's bloc at 62; Bennett rises to 11 seats",
+   "lead": "A Channel 14 / Next Data poll published on Wednesday (568 adults, 14 October) gives the right-wing bloc 62 seats, the left-center bloc 44 and the Arab parties 14.",
+   "text": "A Channel 14 / Next Data poll published on Wednesday (568 adults, 14 October) gives the right-wing bloc 62 seats, the left-center bloc 44 and the Arab parties 14. Likud is the largest party with 29 seats, followed by Yashar with 20. Bennett's Beyachad rises from 7 to 11; the Democrats fall from 10 to 8; Otzma Yehudit rises to 8 and the Joint List to 9. Shas has 10, United Torah Judaism 8, Religious Zionism–Zehut 7, Yisrael Beytenu 5 and Ra'am 5. The Reservists–economic list falls to 3.1 percent, near the threshold; Winter's Amcha Yisrael is at 2.7 percent. Netanyahu leads Eisenkot 52% to 32% on who is most suitable to be prime minister, and 52% to 48% in a direct comparison (Channel 14; Ice). The deadline for surplus-vote agreements is Friday 16 October.",
+   "sources": [
+    {
+     "name": "Channel 14",
+     "url": "https://www.c14.co.il/article/1739046"
+    },
+    {
+     "name": "Ice",
+     "url": "https://www.ice.co.il/research/news/article/1133654"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-israel-election-3",
+   "edition": "2026-10-15",
+   "section": "israel-election",
+   "headline": "Ben-Gvir refuses a surplus-vote deal with Ofer Winter",
+   "lead": "National Security Minister Itamar Ben-Gvir said on Tuesday that Otzma Yehudit would not sign a surplus-vote agreement with Ofer Winter's Amcha Yisrael.",
+   "text": "National Security Minister Itamar Ben-Gvir said on Tuesday that Otzma Yehudit would not sign a surplus-vote agreement with Ofer Winter's Amcha Yisrael. He called Winter \"Bennett II\" on X. Winter replied that Ben-Gvir was throwing right-wing votes away. Without a partner, Otzma Yehudit is left out of the surplus deals already signed inside Netanyahu's camp (Likud with Religious Zionism; Shas with United Torah Judaism). The opposition has deals between Yashar and the Democrats, and between Beyachad and Yisrael Beytenu. If Winter stays below the threshold, those votes are wasted for the right; Channel 12 and Channel 14 both currently place him below it (Haaretz; Jerusalem Post / Maariv).",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-13/ty-article/.premium/ben-gvir-rules-out-surplus-vote-agreement-with-hardliners-new-far-right-party/000001a1-356c-da18-a5bb-3fec359a0000"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-911592"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-israel-election-4",
+   "edition": "2026-10-15",
+   "section": "israel-election",
+   "headline": "Polymarket: Eisenkot about 48%, Netanyahu about 27%, Bennett about 14%",
+   "lead": "On Polymarket, Eisenkot is now at about 48% to be the next sworn-in prime minister, Netanyahu at about 27% and Bennett at about 14%.",
+   "text": "On Polymarket, Eisenkot is now at about 48% to be the next sworn-in prime minister, Netanyahu at about 27% and Bennett at about 14% (odds as of early Thursday Israel time). On 12 October the same market had Eisenkot at about 46%, Netanyahu at about 32% and Bennett at about 14%. The market resolves to whoever is formally sworn in after the 27 October election, not an interim caretaker (Polymarket).",
+   "sources": [
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-lebanon-1",
+   "edition": "2026-10-15",
+   "section": "lebanon",
+   "headline": "Katz: if Hezbollah joins an Iranian attack, Israel will take more land around Nabatieh and the Litani",
+   "lead": "Defense Minister Israel Katz said on Wednesday, during a visit to the IDF buffer zone in southern Lebanon, that if Hezbollah joins Iran in an attack on Israel, it will lose more territory around Nabatieh and the Litani River as part of a permanent Israeli security zone.",
+   "text": "Defense Minister Israel Katz said on Wednesday, during a visit to the IDF buffer zone in southern Lebanon, that if Hezbollah joins Iran in an attack on Israel, it will lose more territory around Nabatieh and the Litani River as part of a permanent Israeli security zone, and that the IDF is prepared for an expanded invasion. He also said another evacuation of the Dahiyeh district of Beirut would follow, and that more than one million Shiites would be displaced. The Jerusalem Post notes that this is the first specific Nabatieh threat from Katz in several months, and that many of his election-season threats have not led to major new operations. Israel already holds a strip of southern Lebanon up to about 10 kilometers from the border (Jerusalem Post; This Is Beirut).",
+   "sources": [
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-news/defense-news/article-911722"
+    },
+    {
+     "name": "This Is Beirut",
+     "url": "https://thisisbeirut.com.lb/news/politics/katz-threatens-to-expand-israeli-security-zone-to-nabatieh-and-litani"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-brazil-1",
+   "edition": "2026-10-15",
+   "section": "brazil",
+   "headline": "Quaest's first runoff poll: Flávio 46%, Lula 44%, a technical tie",
+   "lead": "Quaest's first national runoff poll, published on Wednesday for Globo and O Globo (2,154 interviews, 10–13 October, margin of error 2 points), has Flávio Bolsonaro at 46% and Lula at 44%.",
+   "text": "Quaest's first national runoff poll, published on Wednesday for Globo and O Globo (2,154 interviews, 10–13 October, margin of error 2 points, TSE registration BR-08729/2026), has Flávio Bolsonaro at 46% and Lula at 44%, a technical tie. One percent are undecided and 9% say blank, null or will not vote. Rejection is almost equal: 54% say they would never vote for Flávio and 53% for Lula. Ninety-one percent say their choice is final. Compared with Quaest's pre-first-round runoff scenario, both candidates rose by two points as blank and null fell. On Polymarket Flávio is at about 84% and Lula at about 16%, down slightly for Flávio from about 86% on 12 October. The runoff is on 25 October; the Band debate is on 18 October and Globo's on 23 October (G1; Exame; Polymarket).",
+   "sources": [
+    {
+     "name": "G1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-presidente-14-outubro.ghtml"
+    },
+    {
+     "name": "Exame",
+     "url": "https://exame.com/brasil/pesquisa-para-presidente-quaest-flavio-bolsonaro-tem-46-e-lula-44/"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/brazil-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-colombia-and-israel-1",
+   "edition": "2026-10-15",
+   "section": "colombia-and-israel",
+   "headline": "Colombia opens its embassy in Jerusalem; Sa'ar and Bula preside",
+   "lead": "Colombia inaugurated its embassy in Jerusalem on Wednesday 14 October, becoming the tenth country with an embassy in the city.",
+   "text": "Colombia inaugurated its embassy in Jerusalem on Wednesday 14 October, becoming the tenth country with an embassy in the city. Israeli Foreign Minister Gideon Sa'ar and Colombian Foreign Minister Omar Bula Escobar unveiled the sign; Sa'ar affixed a mezuzah. Sa'ar said that when he took office there were five embassies in Jerusalem and that President Abelardo de la Espriella had kept a campaign promise to move Colombia's mission there. Bula said relations \"should never have been broken\" and called Israel a strategic partner. Ambassador Tania Gilinski will head the mission. The free-trade agreement, cancelled under Gustavo Petro, was restored the day before. The Palestinian Authority and Jordan condemned the move (Israel National News; Al Jazeera / AFP).",
+   "sources": [
+    {
+     "name": "Israel National News",
+     "url": "https://www.israelnationalnews.com/news/434606"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-spacex-xai-and-cursor-1",
+   "edition": "2026-10-15",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Cursor opens an Origin App Marketplace with more than 20 partner apps",
+   "lead": "On 13 October Cursor's changelog announced an Origin App Marketplace with more than 20 apps for deployments, CI, code review, security, monitoring and project management.",
+   "text": "On 13 October Cursor's changelog announced an Origin App Marketplace with more than 20 apps for deployments, CI, code review, security, monitoring and project management. Named partners include Cloudflare, Netlify, Render, Spacelift and Vercel for deployments; Buildkite, CircleCI and others for CI; CodeRabbit, Greptile and Tenki for code review; Artemis Security, Semgrep, Socket Security and Upwind for security; Sentry for monitoring; and Linear for project management. Public submissions are open: teams build against the Origin API, submit a slug, tags and a demo video, and Cursor reviews before listing. There is nothing new on the official Grok Bot changelog since version 0.70.2 (11 October), already reported, and nothing material on SpaceX beyond the Flight 15 catch claim already covered on 12 October (Cursor changelog).",
+   "sources": [
+    {
+     "name": "Cursor changelog",
+     "url": "https://cursor.com/changelog"
+    },
+    {
+     "name": "Grok Bot changelog",
+     "url": "https://x.ai/changelog/bot"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-15-quebec-1",
+   "edition": "2026-10-15",
+   "section": "quebec",
+   "headline": "Parti Québécois MNAs to be sworn in today; cabinet due 21 October",
+   "lead": "The 59 newly elected Parti Québécois members of Quebec's National Assembly are to be sworn in on Thursday 15 October; Liberal opposition members on 19 October; and the PQ cabinet on 21 October.",
+   "text": "The 59 newly elected Parti Québécois members of Quebec's National Assembly are to be sworn in on Thursday 15 October; Liberal opposition members on 19 October; and the PQ cabinet on 21 October (Radio-Canada; CBC). Premier-designate Paul St-Pierre Plamondon says he will not swear an oath of allegiance to the King, relying on Quebec's 2022 law that made the National Assembly oath the only required oath. That law is under court challenge; an injunction hearing is expected between 19 October and 9 November. St-Pierre Plamondon has asked government lawyers whether he can keep his campaign pledges to bar the lieutenant-governor from the opening speech and to redirect the lieutenant-governor's office budget (about 1.3 million Canadian dollars for 2026–27) to homelessness work. Governor General Louise Arbour has said she is skeptical of those plans (CBC; Radio-Canada).",
+   "sources": [
+    {
+     "name": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation"
+    },
+    {
+     "name": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/pq-minority-government-sworn-in-9.7376650"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-israel-election-1",
+   "edition": "2026-10-16",
+   "section": "israel-election",
+   "headline": "Zman Yisrael poll: Yashar 26, Likud 20; blocs still 54–49",
+   "lead": "A Zman Yisrael poll for the Times of Israel, fielded on 14–15 October (500 respondents, margin of error 4.4 points), gives Gadi Eisenkot's Yashar 26 seats and Benjamin Netanyahu's Likud 20.",
+   "text": "A Zman Yisrael poll for the Times of Israel, fielded on 14–15 October (500 respondents, margin of error 4.4 points), gives Gadi Eisenkot's Yashar 26 seats and Benjamin Netanyahu's Likud 20. The anti-Netanyahu Jewish-led bloc has 54 seats and the Netanyahu bloc 49, both short of 61, with Arab parties at 13 and the nonaligned Reservists at 4. Ofer Winter's Amcha Yisrael is at 2.8%, below the 3.25% threshold. Last week's Zman Yisrael split was 55–51 the other way on the blocs; the party gap between Yashar and Likud has widened from 24–20 to 26–20 (Times of Israel).",
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/toi-poll-eisenkot-opens-up-big-lead-on-netanyahu-but-both-blocs-short-of-majority/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-israel-election-2",
+   "edition": "2026-10-16",
+   "section": "israel-election",
+   "headline": "Channel 13 Madad poll: Netanyahu bloc 51, Eisenkot 50; Hendel and Winter both at 4",
+   "lead": "Channel 13's Madad poll (Shmuel Rosner and Noah Slepkov, 1,018 respondents, margin of error 3.1 points, fielded 13 October) puts Netanyahu's bloc at 51 seats and Eisenkot's at 50, with Arab parties at 15.",
+   "text": "Channel 13's Madad poll (Shmuel Rosner and Noah Slepkov, 1,018 respondents, margin of error 3.1 points, fielded 13 October) puts Netanyahu's bloc at 51 seats and Eisenkot's at 50, with Arab parties at 15. Yashar leads with 20 seats and Likud has 18. For the first time in this Madad series, Yoaz Hendel and Yaron Zelekha's Reservists clear the threshold with 4 seats; Winter's Amcha Yisrael also has 4. That result conflicts with the same week's Zman Yisrael poll, which had Winter below the threshold. Eisenkot leads Netanyahu 45% to 38% as more suitable to be prime minister (Channel 13; Madad).",
+   "sources": [
+    {
+     "name": "Channel 13",
+     "url": "https://13tv.co.il/item/news/politics/politics/survey-905396904/"
+    },
+    {
+     "name": "Madad",
+     "url": "https://themadad.com/english/madad-poll-october-14-2026/"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-october-15-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-israel-election-3",
+   "edition": "2026-10-16",
+   "section": "israel-election",
+   "headline": "Netanyahu: Defense and National Security stay with Likud; Otzma fires back",
+   "lead": "At a campaign event in Acre on Thursday, Netanyahu said that if he forms the next government, Likud will keep the National Security and Education ministries, and repeated that Itamar Ben-Gvir will not be defense minister.",
+   "text": "At a campaign event in Acre on Thursday, Netanyahu said that if he forms the next government, Likud will keep the National Security and Education ministries, and repeated that Itamar Ben-Gvir will not be defense minister. Otzma Yehudit accused him of planning to shut the party out of the next coalition and bring in Eisenkot instead. Ben-Gvir told Walla he still expects to become defense minister if Otzma gains seats. Friday 16 October is the legal deadline for surplus-vote agreements; Otzma remains the only party in Netanyahu's bloc without one after Ben-Gvir refused a deal with Winter (Times of Israel; Ynet).",
+   "sources": [
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/pm-says-ben-gvir-cant-be-defense-or-police-minister-after-election-angering-otzma-yehudit/"
+    },
+    {
+     "name": "Ynet",
+     "url": "https://www.ynetnews.com/article/s1ql002sjge"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-lebanon-1",
+   "edition": "2026-10-16",
+   "section": "lebanon",
+   "headline": "EUSM Lebanon: Italy, France and Spain expected to supply most of about 100 troops",
+   "lead": "Reporting on the force plan for the EU Support Mission in Lebanon (established by the Council on 12 October) says Italy, France and Spain are expected to provide most of a permanent military component of about 100 personnel, based mainly in Beirut, with no planned deployment to southern Lebanon near the Israeli border.",
+   "text": "Reporting on the force plan for the EU Support Mission in Lebanon (established by the Council on 12 October) says Italy, France and Spain are expected to provide most of a permanent military component of about 100 personnel, based mainly in Beirut, with no planned deployment to southern Lebanon near the Israeli border. France is pushing to lead the mission at first; Italy has already named a command candidate; command is expected to rotate yearly (Rapporteur, 9 October; details confirmed against the Council decision of 12 October). The mission advises and trains the Lebanese Armed Forces and Internal Security Forces on border, maritime and related tasks; it is not a UNIFIL replacement. On the Israeli-reaction watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to EUSM itself was found since yesterday's edition.",
+   "sources": [
+    {
+     "name": "Rapporteur",
+     "url": "https://www.rapporteur.com/news/exclusive-france-and-italy-vie-to-lead-eu-lebanon-mission/"
+    },
+    {
+     "name": "Council of the EU",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-brazil-1",
+   "edition": "2026-10-16",
+   "section": "brazil",
+   "headline": "Datafolha: Flávio 47%, Lula 45% in the runoff, still a technical tie",
+   "lead": "Datafolha's runoff poll for Folha de S.Paulo, published on Thursday (2,520 interviews on 13–14 October, margin of error 2 points, TSE registration BR-00466/2026), has Flávio Bolsonaro at 47% and Lula at 45%.",
+   "text": "Datafolha's runoff poll for Folha de S.Paulo, published on Thursday (2,520 interviews on 13–14 October, margin of error 2 points, TSE registration BR-00466/2026), has Flávio Bolsonaro at 47% and Lula at 45%. Among valid votes the split is 51% to 49%. A week earlier Datafolha had Flávio at 49% and Lula at 45%; the gap has narrowed. The poll is the first Datafolha after large pro-Lula street events. Rejection is 46% for Lula and 44% for Flávio (G1; Folha).",
+   "sources": [
+    {
+     "name": "G1",
+     "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/15/datafolha-presidente-segundo-turno-15-outubro.ghtml"
+    },
+    {
+     "name": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-51-e-lula-49-dos-votos-validos-um-empate-tecnico.shtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-quebec-1",
+   "edition": "2026-10-16",
+   "section": "quebec",
+   "headline": "All 59 PQ MNAs sworn in; cabinet still due 21 October",
+   "lead": "On Thursday 15 October, all 59 Parti Québécois members of Quebec's National Assembly were sworn in at the Red Room in Quebec City, taking an oath of allegiance to the people of Quebec rather than to the King.",
+   "text": "On Thursday 15 October, all 59 Parti Québécois members of Quebec's National Assembly were sworn in at the Red Room in Quebec City, taking an oath of allegiance to the people of Quebec rather than to the King. Premier-designate Paul St-Pierre Plamondon spoke of the party's largest caucus since 1998 and said cabinet, of about 20 ministers, is still due on 21 October. Liberal MNAs are to be sworn in on Monday, Québec solidaire on Tuesday and Conservatives on Thursday. A court challenge to the 2022 law that dropped the oath to the King remains pending (Canadian Press via CityNews; Radio-Canada).",
+   "sources": [
+    {
+     "name": "Canadian Press via CityNews",
+     "url": "https://montreal.citynews.ca/2026/10/15/parti-quebecois-mnas-sworn-in/"
+    },
+    {
+     "name": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation"
+    },
+    {
+     "name": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1017191/59-elus-parti-quebecois-pretent-serment-deviennent-deputes"
+    },
+    {
+     "name": "National Post",
+     "url": "https://nationalpost.com/news/parti-quebecois-caucus-members-swear-allegiance-to-the-people-of-quebec-not-the-king"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-israel-election-4",
+   "edition": "2026-10-16",
+   "section": "israel-election",
+   "headline": "Israel Hayom poll: change bloc 52, right 50; Yashar 24; Winter still below the threshold",
+   "lead": "An Israel Hayom / Kantar poll published on Thursday (551 adults online, 14–15 October, margin of error 4.2 points) puts the change bloc at 52 seats and the right at 50.",
+   "text": "An Israel Hayom / Kantar poll published on Thursday (551 adults online, 14–15 October, margin of error 4.2 points) puts the change bloc at 52 seats and the right at 50. Yashar rises to 24 from 22 in the prior Israel Hayom survey; Likud has 21; Bennett's Beyachad falls one seat to 12. Otzma Yehudit has 9 and Religious Zionism 6. Hendel–Zelekha's list has 4; Winter's Amcha Yisrael remains under the electoral threshold. The paper notes that neither Jewish-led camp reaches 61 without some form of Arab-party involvement, and that 87% of change-bloc voters in the survey would accept joining, external support, or abstention by an Arab party (Israel Hayom).",
+   "sources": [
+    {
+     "name": "Israel Hayom",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21636491"
+    },
+    {
+     "name": "Skarim",
+     "url": "https://www.skarim.org/polls/israel-hayom-2026-10-15"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-israel-election-5",
+   "edition": "2026-10-16",
+   "section": "israel-election",
+   "headline": "Lieberman rules out a minority government and Arab or Haredi partners",
+   "lead": "On Thursday Avigdor Lieberman told a conference of the Israel Democracy Institute that Yisrael Beytenu would oppose any minority government and demanded a majority coalition of Zionist parties only.",
+   "text": "On Thursday Avigdor Lieberman said Yisrael Beytenu would oppose any minority government, including a transitional one, and demanded a majority coalition of Zionist parties only, without Ra'am, the Joint List, Shas or United Torah Judaism. He also said his party would not sit with Likud while Netanyahu leads it. Benny Gantz replied that Lieberman was either lying about eventually relying on Arab parties or that the country was heading to a repeat election. The dispute matters because recent polls show neither Jewish-led bloc reaching 61 without Arab involvement (Jerusalem Post; Israel Hayom).",
+   "sources": [
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-911855"
+    },
+    {
+     "name": "Israel Hayom",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21636491"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-israel-election-6",
+   "edition": "2026-10-16",
+   "section": "israel-election",
+   "headline": "Israel Hayom reports a U.S. push for Netanyahu–Eisenkot unity; Huckabee denies it",
+   "lead": "Israel Hayom on Thursday described a proposed framework in which Likud and Yashar would form a broad government, with Netanyahu serving up to two years then retiring; U.S. Ambassador Mike Huckabee denied any U.S. effort to steer the election.",
+   "text": "Israel Hayom on Thursday, citing diplomatic officials, described a proposed framework in which Likud and Yashar would form a broad government, with Netanyahu serving up to two years then retiring, while advancing regional deals, especially with Saudi Arabia. Eisenkot's side would seek a timed Netanyahu exit, rollback of judicial-reform laws, and an October 7 state inquiry, according to that report. U.S. Ambassador Mike Huckabee posted on X that the U.S. government is \"NOT trying to manipulate Israel's election or telling [the PM] what to do,\" called related claims fake news, and Channel 14 reported the same denial (Israel Hayom; Channel 14).",
+   "sources": [
+    {
+     "name": "Israel Hayom",
+     "url": "https://www.israelhayom.com/2026/10/15/us-pushes-israeli-unity-government-netanyahu-exit-saudi-peace/"
+    },
+    {
+     "name": "Channel 14",
+     "url": "https://www.c14.co.il/article/1740548"
+    },
+    {
+     "name": "Mike Huckabee on X",
+     "url": "https://x.com/GovMikeHuckabee/status/2110728129136177231"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-colombia-and-israel-1",
+   "edition": "2026-10-16",
+   "section": "colombia-and-israel",
+   "headline": "Colombia withdraws from the Hague Group after opening its Jerusalem embassy",
+   "lead": "Foreign Minister Omar Bula Escobar announced Colombia's withdrawal as a member and co-chair of the Hague Group, a coalition that sought legal and diplomatic pressure on Israel over Gaza.",
+   "text": "Foreign Minister Omar Bula Escobar announced Colombia's withdrawal as a member and co-chair of the Hague Group, a coalition that sought legal and diplomatic pressure on Israel over Gaza. Colombia's Foreign Ministry said on 15 October that Colombia had formally left; Bula said the group was \"created to isolate and attack Israel\" and that Colombia rejects that approach. Bolivia and Honduras had already left. He spoke after the 14 October embassy inauguration in Jerusalem, with Netanyahu and Gideon Sa'ar present, condemned the October 7 massacre, and criticized the prior Colombian government's record on terrorism and antisemitism. The embassy opening itself was covered on 15 October; the Hague Group exit is the new diplomatic step (Colombian Foreign Ministry; Ynet).",
+   "sources": [
+    {
+     "name": "Colombian Foreign Ministry",
+     "url": "https://www.cancilleria.gov.co/sala-de-prensa/noticias/colombia-anuncia-su-retiro-del-grupo-de-la-haya"
+    },
+    {
+     "name": "Ynet",
+     "url": "https://www.ynetnews.com/article/hkts9kpsge"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-spacex-xai-and-cursor-1",
+   "edition": "2026-10-16",
+   "section": "spacex-xai-and-cursor",
+   "headline": "SpaceXSI releases Grok Voice 3.0; tops Artificial Analysis speech-to-speech ranking",
+   "lead": "On 14 October SpaceXSI released Grok Voice 3.0, its newest speech-to-speech model for the Voice Agent API.",
+   "text": "On 14 October SpaceXSI released Grok Voice 3.0, its newest speech-to-speech model for the Voice Agent API. Independent benchmark site Artificial Analysis ranks it first on the Speech-to-Speech Index at 86.9, ahead of OpenAI's GPT-Live-1 (Astra, medium) at 83.2 and Google's Gemini 3.8 Live (Extended Thinking, High) at 82.6; Grok Voice 2.0 scored 81.3. SpaceXSI and Artificial Analysis both report about 97% on Full Duplex Bench. API price is unchanged at $0.08 per minute ($4.80 per hour). The alias grok-voice-latest now points to grok-voice-3.0. SpaceXSI says the model powers millions of Tesla in-car conversations a day and about 20,000 Starlink support calls a day (company figures). SiliconANGLE separately reported the launch and the Artificial Analysis ranking (SpaceXSI; SiliconANGLE).",
+   "sources": [
+    {
+     "name": "SpaceXSI",
+     "url": "https://x.ai/news/grok-voice-3"
+    },
+    {
+     "name": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-spacex-xai-and-cursor-2",
+   "edition": "2026-10-16",
+   "section": "spacex-xai-and-cursor",
+   "headline": "SpaceXSI launches The X Subscription, bundling Grok, Grok Bot, Cursor and X Premium",
+   "lead": "On 12 October SpaceXSI introduced The X Subscription, one plan that includes Grok, Grok Bot, Cursor and X Premium.",
+   "text": "On 12 October SpaceXSI introduced The X Subscription, one plan that includes Grok, Grok Bot, Cursor and X Premium. Paid tiers are Plus ($8 a month), Premium ($30), Super ($100) and Ultra ($200), plus a free tier with limited use. SpaceXSI says Premium matches what SuperGrok, Cursor Pro and X Premium+ used to cost together at about $90 a month, and that each paid tier's shared Grok usage pool covers Grok apps, the Grok tab on X, and Cursor, with at least twice the coding usage of the comparable older Cursor plan. Existing SuperGrok, Cursor and X Premium subscribers may keep their current plans or switch when the option appears in billing settings. TechCrunch reported the same structure and prices on 13 October. The item was not in the 12–15 October digest editions (SpaceXSI; TechCrunch).",
+   "sources": [
+    {
+     "name": "SpaceXSI",
+     "url": "https://x.ai/news/x-subscription"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-spacex-xai-and-cursor-3",
+   "edition": "2026-10-16",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Reports: Cursor reviewed whether employee Grok Bot testing sent confidential data toward SpaceXAI training",
+   "lead": "On 15 October TokenPost reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training.",
+   "text": "On 15 October TokenPost and CryptoBriefing reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training. According to those accounts, Cursor then required company email logins for Sand and stopped using employee-use data for future training. TokenPost quotes a Cursor lawyer in Slack as saying the company arguably lacked rights to train on that data. Both outlets say there is no publicly confirmed evidence that client or partner data was actually exposed. The review reportedly began weeks before SpaceX completed its acquisition of Cursor on 14 August 2026. Primary paywalled detail is attributed to The Information (TokenPost; CryptoBriefing).",
+   "sources": [
+    {
+     "name": "TokenPost",
+     "url": "https://www.tokenpost.com/news/technology/32809"
+    },
+    {
+     "name": "CryptoBriefing",
+     "url": "https://cryptobriefing.com/cursor-probes-grok-data-exposure-spacex/"
+    },
+    {
+     "name": "The Information (paywalled primary)",
+     "url": "https://www.theinformation.com/articles/cursor-staff-investigated-whether-confidential-data-reached-spacex-ai-training"
+    }
+   ]
+  },
+  {
+   "id": "trenton-marriott",
+   "headline": "Council votes to buy back the empty downtown Marriott with $4 million in state money",
+   "text": "On 6 October the City Council authorized the city to seek a $4 million grant from the New Jersey Economic Development Authority to buy the former Lafayette Yard Marriott at 1 West Lafayette Street. The purchase depends on receiving the grant, so the city's own money is not at risk. The city does not intend to run the hotel. It plans to hand the building to Tetrabilt, the redeveloper the Council has already chosen, to reopen it as a modern hotel for state government, businesses and conventions. The building has been closed for years; the vote does not complete the purchase.",
+   "sources": [
+    {
+     "name": "City of Trenton",
+     "url": "https://www.trentonnj.org/"
+    },
+    {
+     "name": "NJ.com",
+     "url": "https://www.nj.com/mercer/2026/10/nj-city-council-moves-to-reclaim-vacant-hotel-with-4m-in-state-funding.html"
+    },
+    {
+     "name": "Central Jersey Media",
+     "url": "https://centraljersey.media/featured/former-trenton-marriott-moves-closer-to-redevelopment/"
+    }
+   ],
+   "image": "digest/trenton/img/cityhall.jpg",
+   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
+   "image_url": "https://commons.wikimedia.org/wiki/File:2014-08-30_10_53_29_View_of_Trenton_City_Hall_in_Trenton,_New_Jersey_from_the_northwest.JPG",
+   "image_caption": "Trenton City Hall, where the Council voted (not the hotel)",
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-tha-senior",
+   "headline": "State awards up to $54.3 million for 107 affordable senior apartments in the North Ward",
+   "text": "The New Jersey Economic Development Authority approved an Aspire tax credit of up to $54.3 million, or 85 percent of the cost, for THA Senior, a four-story building planned for 800 Martin Luther King Jr. Boulevard. It will have 107 one-bedroom apartments for residents aged 62 and older, together with space for early childhood education, job training and senior services. The project also has a $900,000 federal Choice Neighborhoods grant and low-income housing tax credits. It is part of the city and Trenton Housing Authority plan to rebuild the North Ward. The award was announced on 17 September.",
+   "sources": [
+    {
+     "name": "NJEDA",
+     "url": "https://www.njeda.gov/njeda-approves-aspire-program-award-to-support-affordable-senior-housing-development-in-trenton/"
+    },
+    {
+     "name": "Central Jersey Media",
+     "url": "https://centraljersey.media/papers/trenton-downtowner/54-3-million-tax-credit-advances-trenton-senior-housing/"
+    }
+   ],
+   "image": "digest/trenton/img/mlk.jpg",
+   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
+   "image_url": "https://commons.wikimedia.org/wiki/File:2023-10-05_10_16_36_View_south_along_U.S._Route_1_Business_and_U.S._Route_206_southbound_(Martin_Luther_King,_Junior_Boulevard)_at_Chapel_Street_in_Trenton,_Mercer_County,_New_Jersey.jpg",
+   "image_caption": "Martin Luther King Jr. Boulevard in Trenton (2023)",
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-meridian",
+   "headline": "Meridian Furniture buys 10 acres on Enterprise Avenue for a warehouse expected to bring about 200 jobs",
+   "text": "On 15 September the City Council approved the sale of more than 10 acres of city land at 300 to 366 Enterprise Avenue to Meridian Furniture for $1 million. The company, founded in Trenton more than 20 years ago, plans a warehouse of about 220,000 square feet. The city expects about 200 jobs. The figure of 200 jobs comes from the city; the land sale and the size of the building are confirmed by public planning records.",
+   "sources": [
+    {
+     "name": "City of Trenton",
+     "url": "https://www.trentonnj.org/"
+    },
+    {
+     "name": "Quadratín Hispano",
+     "url": "https://quadratin.com/nueva-jersey/avalan-en-trenton-venta-de-terrenos-para-construir-campus-industrial/"
+    },
+    {
+     "name": "Trenton planning agenda",
+     "url": "https://www.trentonnj.org/AgendaCenter/ViewFile/Agenda/_01222026-856"
+    }
+   ],
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-property-program",
+   "headline": "City offers 28 abandoned homes and buildings for sale, with priority for buyers who will live in them",
+   "text": "From 1 to 30 October the city is taking online applications for 28 city-owned properties in all four wards. Many need major repairs, and the city has published photographs of each one. Priority goes to buyers who will repair the property and live in it. The mayor said the goal is to get each building fixed, occupied and back on the tax rolls.",
+   "sources": [
+    {
+     "name": "City of Trenton release, 30 Sep",
+     "url": "https://www.collaborationtrenton.com/TCCA/20260930_CityPropertyPurchase.pdf"
+    },
+    {
+     "name": "New Jersey Globe",
+     "url": "https://newjerseyglobe.com/local/trenton-to-offer-28-city-owned-properties-for-purchase/"
+    }
+   ],
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-home-values",
+   "headline": "City says average home sale price has risen 5.8 percent this year",
+   "text": "According to the city, Multiple Listing Service data show the average sale price of a Trenton home rose from about $226,000 in 2025 to about $239,000 so far in 2026. Unconfirmed: this is the city's own reading of the data, and the outlets that reported it repeated the city's figures. Realtor.com and Redfin show recent median sale prices near $250,000, which is consistent with a rising market but is not the same measure.",
+   "sources": [
+    {
+     "name": "Trenton Journal",
+     "url": "https://trentonjournal.com/trenton-home-values-continue-to-rise-as-real-estate-market-shows-strength/"
+    },
+    {
+     "name": "Redfin",
+     "url": "https://www.redfin.com/city/18807/NJ/Trenton/housing-market"
+    }
+   ],
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-ironhawks",
+   "headline": "Trenton's new professional hockey team, the Ironhawks, plays its first home game on 24 October",
+   "text": "The Trenton Ironhawks, a new ECHL team affiliated with the New York Islanders, open their first season at CURE Insurance Arena on Saturday, 24 October, at 6:00 PM against the Adirondack Thunder. The team will play 36 home games in the city, which brings visitors downtown on game nights.",
+   "sources": [
+    {
+     "name": "Trenton Ironhawks",
+     "url": "https://trentonironhawks.com/news/2026/05/trenton-ironhawks-announce-inaugural-season-schedule"
+    },
+    {
+     "name": "CURE Insurance Arena",
+     "url": "https://www.cureinsurancearena.com/events/detail/trenton-ironhawks-vs-adirondack-thunder"
+    }
+   ],
+   "image": "digest/trenton/img/arena.jpg",
+   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
+   "image_url": "https://commons.wikimedia.org/wiki/File:2023-10-13_13_40_11_The_northwest_side_of_CURE_Insurance_Arena_including_Gate_B_along_Mercer_County_Route_606_(Hamilton_Avenue)_in_Trenton,_Mercer_County,_New_Jersey.jpg",
+   "image_caption": "CURE Insurance Arena, Trenton (2023)",
+   "section": "trenton",
+   "edition": "2026-10-16"
+  }
+ ]
 }

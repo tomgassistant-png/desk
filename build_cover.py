@@ -31,13 +31,27 @@ def head(title):
             '<meta name="viewport" content="width=device-width, initial-scale=1">'
             f'<title>{e(title)}</title><style>{CSS}{NAV_CSS}{EXTRA}</style></head><body><div class="page">')
 
-def story(it, newest, h="h3"):
+def photo(it, root):
+    if not it.get("image") and not it.get("photo_link"):
+        return ""
+    if it.get("image"):
+        cr = e(it.get("image_credit", ""))
+        if it.get("image_url"):
+            cr = f'<a href="{e(it["image_url"])}" target="_blank" rel="noopener">{cr}</a>'
+        cap = (e(it["image_caption"]) + " · " if it.get("image_caption") else "") + "Photo: " + cr
+        return (f'<figure style="margin:8px 0 10px"><img src="{root}{e(it["image"])}" alt="{e(it.get("image_caption") or it["headline"])}" loading="lazy" '
+                f'style="max-width:100%;height:auto;max-height:340px;display:block"><figcaption class="srcs">{cap}</figcaption></figure>')
+    pl = it["photo_link"]
+    return f'<p class="srcs">Photo (copyrighted, not copied): <a href="{e(pl["url"])}" target="_blank" rel="noopener">{e(pl["label"])}</a></p>'
+
+def story(it, newest, h="h3", root="../../"):
+    if isinstance(newest, dict): newest = newest.get(it["section"], "")
     new = it["edition"] == newest
     tag = '<span class="tag-new">New</span>' if new else ""
     url = it["sources"][0]["url"] if it.get("sources") else "#"
     srcs = " · ".join(f'<a href="{e(s["url"])}" rel="noopener" target="_blank">{e(s["name"])}</a>' for s in it.get("sources", []))
     return (f'<article class="story{" new" if new else ""}" id="{e(it["id"])}"><{h}><a href="{e(url)}" rel="noopener" target="_blank">{tag}{e(it["headline"])}</a></{h}>'
-            f'<p class="summary">{e(it["text"])}</p><p class="meta srcs">{e(long_date(it["edition"]))} edition · {srcs}</p></article>')
+            + photo(it, root) + f'<p class="summary">{e(it["text"])}</p><p class="meta srcs">{e(long_date(it["edition"]))} edition · {srcs}</p></article>')
 
 def write(path, html):
     os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -74,7 +88,9 @@ def main():
     ids = {s["id"] for s in d["sections"]}
     bad = [i["id"] for i in items if i["section"] not in ids or not all(i.get(k) for k in ("id", "edition", "headline", "text"))]
     if bad: raise SystemExit(f"digest/items.json problems: {bad}")
-    newest = max(i["edition"] for i in items)
+    own = {s["id"] for s in d["sections"] if s.get("own_edition")}
+    newest = max(i["edition"] for i in items if i["section"] not in own)
+    secnew = {s["id"]: max((i["edition"] for i in items if i["section"] == s["id"]), default="") if s["id"] in own else newest for s in d["sections"]}
     ed = d.get("editions", {}).get(newest, {})
     now = datetime.now(TZ)
     names = {s["id"]: s["name"] for s in d["sections"]}
@@ -90,8 +106,10 @@ def main():
         y = max(ye, key=lambda x: x["date"]); hl = y["items"][0]["headline"] if y.get("items") else y.get("lede", "")
         lines.append(f'<li><b>Yemen</b> <a href="../yemen/">{e(hl)}</a> <span class="srcs">({e(long_date(y["date"]))})</span></li>')
     for s in d["sections"]:
-        todays = [i for i in items if i["section"] == s["id"] and i["edition"] == newest]
-        if todays:
+        todays = [i for i in items if i["section"] == s["id"] and i["edition"] == secnew[s["id"]]]
+        if s["id"] in own and todays:
+            lines.append(f'<li><b>{e(s["name"])}</b> <a href="../digest/{s["id"]}/#{e(todays[0]["id"])}">{e(todays[0]["headline"])}</a> <span class="srcs">({e(long_date(secnew[s["id"]]))})</span></li>')
+        elif todays:
             lines.append(f'<li><b>{e(s["name"])}</b> <a href="../digest/{s["id"]}/#{e(todays[0]["id"])}">{e(todays[0]["headline"])}</a></li>')
         else:
             lines.append(f'<li class="quiet"><b>{e(s["name"])}</b> <a href="../digest/{s["id"]}/">Nothing new today</a></li>')
@@ -101,7 +119,7 @@ def main():
     for i in items:
         if i["edition"] == newest and i["section"] not in seen:
             seen.add(i["section"]); top.append(i)
-    body = "".join(f'<p class="sec">{e(names[i["section"]])}</p>' + story(i, newest, "h2") for i in top)
+    body = "".join(f'<p class="sec">{e(names[i["section"]])}</p>' + story(i, newest, "h2", "../") for i in top)
     cover = (head("Tom's Cover — " + long_date(newest)) + sitenav.nav("cover", "../") +
              f'<header class="masthead"><h1>Tom\'s Cover</h1><p class="dateline">{e(weekday_date(now.date()))} · Digest edition of {e(long_date(newest))}</p></header>'
              + (f'<p class="summary"><i>{e(ed["intro"])}</i></p>' if ed.get("intro") else "") +
@@ -113,9 +131,14 @@ def main():
 
     # section pages with archive by edition
     for s in d["sections"]:
+        sn = secnew[s["id"]]
         mine = sorted((i for i in items if i["section"] == s["id"]), key=lambda i: i["edition"], reverse=True)
         out = [head(s["name"] + " — Digest section"), sitenav.nav(s["id"], "../../"),
-               f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">Daily research digest section · latest edition {e(long_date(newest))}</p></header>']
+               f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">Daily research digest section · latest edition {e(long_date(sn))}</p></header>']
+        if s.get("header_image"):
+            hi = s["header_image"]
+            out.append(f'<figure style="margin:0 0 12px"><img src="../../{e(hi["image"])}" alt="{e(hi.get("caption",""))}" style="width:100%;max-height:320px;object-fit:cover;display:block">'
+                       f'<figcaption class="srcs">{e(hi.get("caption",""))} · Photo: <a href="{e(hi["image_url"])}" target="_blank" rel="noopener">{e(hi["image_credit"])}</a></figcaption></figure>')
         if s.get("baseline"):
             srcs = " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in s.get("baseline_sources", []))
             out.append('<div class="baseline" style="background:#f1efe8;border-left:4px solid #8b0000;padding:12px 16px;margin:12px 0">'
@@ -139,8 +162,8 @@ def main():
         last = None
         for i in mine:
             if i["edition"] != last:
-                last = i["edition"]; out.append(f'<h2 class="edn">{e(long_date(last))}{" · today" if last == newest else ""}</h2>')
-            out.append(story(i, newest))
+                last = i["edition"]; out.append(f'<h2 class="edn">{e(long_date(last))}{" · today" if last == sn else ""}</h2>')
+            out.append(story(i, secnew))
         out.append('</div></body></html>')
         write(os.path.join(ROOT, f'digest/{s["id"]}/index.html'), "".join(out))
     print(f"cover + {len(d['sections'])} sections built; edition {newest}, {len(items)} items")
