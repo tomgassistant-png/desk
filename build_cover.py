@@ -168,7 +168,24 @@ def main():
             hi = s["header_image"]
             out.append(f'<figure style="margin:0 0 12px"><img src="../../{e(hi["image"])}" alt="{e(hi.get("caption",""))}" style="width:100%;max-height:320px;object-fit:cover;display:block">'
                        f'<figcaption class="srcs">{e(hi.get("caption",""))} · Photo: <a href="{e(hi["image_url"])}" target="_blank" rel="noopener">{e(hi["image_credit"])}</a></figcaption></figure>')
-        if s.get("baseline"):
+        sidebar = s.get("baseline_placement") == "sidebar"
+        if s.get("baseline") and sidebar:
+            paras = s["baseline"] if isinstance(s["baseline"], list) else [s["baseline"]]
+            bsrcs = "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in s.get("baseline_sources", []))
+            bg = [head(s["name"] + " — Backgrounder"), sitenav.nav(s["id"], "../../../"),
+                  f'<header class="masthead"><h1>{e(s["name"])}: Backgrounder</h1><p class="dateline">'
+                  + (f'Last updated: {e(s["baseline_updated"])}' if s.get("baseline_updated") else "") + '</p></header>',
+                  f'<p class="srcs"><a href="../">&larr; Back to the {e(s["name"])} section</a></p>']
+            bg += [f'<p class="summary">{e(x)}</p>' for x in paras]
+            if bsrcs: bg.append(f'<h2 class="edn">Sources</h2><ul class="srcs">{bsrcs}</ul>')
+            bg.append('</div></body></html>')
+            write(os.path.join(ROOT, f'digest/{s["id"]}/backgrounder/index.html'), "".join(bg))
+            teaser = s.get("baseline_teaser") or (paras[0][:180].rsplit(" ", 1)[0] + "…")
+            bgbox = ('<aside style="border:1px solid #ccc;border-left:4px solid #8b0000;background:#f1efe8;padding:10px 14px;margin:12px 0">'
+                     f'<b>Backgrounder</b><p class="summary" style="margin:6px 0">{e(teaser)}</p>'
+                     '<a href="backgrounder/">Read the full backgrounder</a>'
+                     + (f'<p class="srcs" style="margin:4px 0"><i>Last updated: {e(s["baseline_updated"])}</i></p>' if s.get("baseline_updated") else "") + '</aside>')
+        if s.get("baseline") and not sidebar:
             paras = s["baseline"] if isinstance(s["baseline"], list) else [s["baseline"]]
             srcs = " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in s.get("baseline_sources", []))
             out.append('<div class="baseline" style="background:#f1efe8;border-left:4px solid #8b0000;padding:12px 16px;margin:12px 0">'
@@ -184,7 +201,10 @@ def main():
         if s.get("useful_links"):
             side = ('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0;min-width:220px"><b>Useful links</b><ul style="margin:6px 0;padding-left:18px">'
                     + "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in s["useful_links"]) + '</ul></aside>')
-        if s["id"] == "spacex-xai-and-cursor" or side or s.get("polymarket"):
+        if sidebar:
+            rail = (bgbox if s.get("baseline") else "") + (polymarket_box(s["polymarket"]["slug"], s["polymarket"]["label"]) if s.get("polymarket") else "") + side
+            out.append('<div class="cov-grid"><main>')
+        elif s["id"] == "spacex-xai-and-cursor" or side or s.get("polymarket"):
             out.append('<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start">'
                        + (quote_box("SPCX") if s["id"] == "spacex-xai-and-cursor" else "")
                        + (polymarket_box(s["polymarket"]["slug"], s["polymarket"]["label"]) if s.get("polymarket") else "") + side + '</div>')
@@ -195,6 +215,8 @@ def main():
             if i["edition"] != last:
                 last = i["edition"]; out.append(f'<h2 class="edn">{e(long_date(last))}{" · today" if last == sn else ""}</h2>')
             out.append(story(i, secnew))
+        if sidebar:
+            out.append(f'</main><aside class="rail">{rail}</aside></div>')
         out.append('</div></body></html>')
         write(os.path.join(ROOT, f'digest/{s["id"]}/index.html'), "".join(out))
     print(f"cover + {len(d['sections'])} sections built; edition {newest}, {len(items)} items")
