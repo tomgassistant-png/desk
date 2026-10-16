@@ -31,7 +31,7 @@ def map_section():
             '<span><i class="sw" style="background:#fff"></i>AQAP</span></p>'
             '<p class="cap">Source: <a href="https://commons.wikimedia.org/wiki/File:Yemeni_Civil_War.svg" target="_blank" rel="noopener">Wikimedia Commons, “Yemeni Civil War.svg”</a> '
             '(Ali Zifan and contributors, CC BY-SA 4.0). Map last updated 14 October 2026 on Commons (Lahj front, citing open-source reports and ISWNews). '
-            'Checked 15 October 2026. Front lines are approximate and change often. '
+            'Checked 16 October 2026. Front lines are approximate and change often. '
             'It does not separate STC-held areas from other government areas; the STC is strongest in Aden, Lahj and the south. '
             'For a live view see <a href="https://yemen.liveuamap.com/" target="_blank" rel="noopener">Liveuamap Yemen</a> (link only; cannot be embedded).</p>'
             '<div id="ylmap" aria-label="Places in the brief"></div>'
