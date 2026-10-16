@@ -176,6 +176,94 @@
      "url": "https://x.com/GreaterTrenton"
     }
    ]
+  },
+  {
+   "id": "france-election",
+   "name": "France presidential election",
+   "own_edition": true,
+   "about": "Tracker for the French presidential election of April–May 2027: dates, candidates, polls, Polymarket odds, and news that affects the political situation in France (the government, the budget, censure motions, candidate moves and court cases). First edition: 16 October 2026, covering about 2 to 16 October 2026.",
+   "polymarket": {
+    "slug": "next-french-presidential-election",
+    "label": "Next French presidential election, winner"
+   },
+   "baseline_updated": "16 October 2026",
+   "baseline": [
+    "Dates. The Council of Ministers fixed the dates on 1 July 2026: the first round is on Sunday, 18 April 2027, and the second round on Sunday, 2 May 2027. Voters in Guadeloupe, Martinique, French Guiana, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin and French Polynesia vote one day earlier. The formal decree that convenes the voters has not yet been published; it must appear at least ten weeks before the first round, that is, by about 7 February 2027. If no candidate wins more than half of the votes cast in the first round, the two leaders meet in the second round two weeks later.",
+    "Getting on the ballot. A candidate needs at least 500 signed sponsorships (parrainages) from elected officials, chiefly mayors, but also members of parliament, departmental and regional councilors and others. The 500 must come from at least 30 departments or overseas territories, with no more than one tenth from any one of them. The forms are sent out after the decree is published, and the deadline is calculated to fall on about 12 March 2027 (a calculation from the law, not yet an official date). The Constitutional Council then publishes the official list of candidates and the names of the sponsors.",
+    "Macron. Emmanuel Macron, elected in 2017 and re-elected in 2022, cannot run, because the Constitution limits a president to two consecutive terms.",
+    "Candidates. National Rally (RN): Marine Le Pen, who announced on 7 July 2026 that she will run for a fourth time, with Jordan Bardella as her heir if she cannot. The center and Macron's former camp: Édouard Philippe (Horizons, declared since September 2024) and Gabriel Attal (Renaissance, declared in May 2026). The Republicans (LR): Bruno Retailleau, designated by the party in April 2026; David Lisnard, mayor of Cannes, also declared, in March 2026. Radical left: Jean-Luc Mélenchon (La France insoumise), declared in May 2026. Social-democratic left: Raphaël Glucksmann (Place publique), who won the joint primary of the Socialist Party, Place publique and the Gauche républicaine et socialiste on 11 October 2026 with 66.2 percent. Others tested in polls or declared include Éric Zemmour or Sarah Knafo (Reconquête), Fabien Roussel (Communists), Marine Tondelier (Greens), Nicolas Dupont-Aignan, Nathalie Arthaud, François Ruffin, Dominique de Villepin, the essayist Natacha Polony (declared 14 October 2026), and former president François Hollande, who has not ruled out a run. The month in which Philippe and Attal declared is taken from summaries and is unconfirmed.",
+    "Polls. Every recent poll puts Le Pen far ahead in the first round, and the race is for second place. Ifop-Fiducial for LCI and Sud Radio (12–14 October, 1,390 people): Le Pen 34 percent, Mélenchon 16, Philippe 14, Glucksmann 14, Attal 6 in the central scenario; without Attal, Philippe rises to 18. Odoxa (published 14 October): Le Pen 37 to 38, Mélenchon about 18, Philippe 17. Toluna Harris Interactive (12 October): Le Pen 37, Mélenchon 19. Elabe for BFMTV (26–28 August, the latest Elabe): Le Pen 34 to 35.5; in the second round she would beat Mélenchon 69.5 to 30.5 and Glucksmann and Attal 57 to 43 each, and would beat Philippe only narrowly, 52.5 to 47.5. OpinionWay (15 September) and Ipsos BVA (13 September) also had Le Pen at 34 to 35. The Odoxa and Harris figures come from poll aggregators, not from the pollsters' own reports, and are unconfirmed in detail.",
+    "Parliament and government. Since the snap elections of July 2024 the National Assembly has had no majority. The National Rally is the largest group, with about 118 to 119 of the 577 seats; the government's base (Renaissance/EPR, Horizons, the Democrats/MoDem and LR) is split and well short of a majority, and 289 votes bring down a government. Sébastien Lecornu has been prime minister since September 2025; his second government survived two censure motions on the 2026 budget in January 2026 (the La France insoumise motion received 269 votes). He presented the 2027 budget on 1 October 2026, again without a majority, and may have to use Article 49.3, which would expose him to a censure vote, or budget ordinances, which have never been used.",
+    "Le Pen's case. On 31 March 2025 a Paris court convicted Le Pen of embezzling European Parliament funds to pay party staff and banned her from office for five years with immediate effect, which would have kept her out of the race. On 7 July 2026 the Paris Court of Appeal upheld the conviction but cut the ban to 45 months, of which 30 are suspended. It ruled that the 15 months to be served had already run since 31 March 2025, so she is eligible. It also sentenced her to three years in prison, two suspended and one to be served with an electronic tag, and a fine of 100,000 euros. She appealed to the Court of Cassation, which suspends the sentence, including the tag. Her lawyers' written arguments were due by 15 October 2026. No hearing date has been set; a ruling is expected before the first round, possibly in early April 2027 (unconfirmed)."
+   ],
+   "baseline_sources": [
+    {
+     "label": "Service-Public: election dates",
+     "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15053"
+    },
+    {
+     "label": "Toute l'Europe: calendar",
+     "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-calendrier-dates-inscription-candidats-vote/"
+    },
+    {
+     "label": "franceinfo: Le Pen appeal ruling",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-condamnee-en-appel-a-trois-ans-de-prison-dont-un-an-sous-bracelet-electronique-mais-eligible-en-2027_8097896.html"
+    },
+    {
+     "label": "Reuters: Le Pen will run",
+     "url": "https://www.reuters.com/world/europe/marine-le-pens-presidential-hopes-rest-french-court-verdict-2026-07-06/"
+    },
+    {
+     "label": "franceinfo: cassation timetable",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html"
+    },
+    {
+     "label": "L'Opinion: Ifop poll, 14 Oct",
+     "url": "https://www.lopinion.fr/politique/presidentielle-2027-glucksmann-et-philippe-a-egalite-derriere-jean-luc-melenchon-selon-un-sondage"
+    },
+    {
+     "label": "Elabe, 29 Aug",
+     "url": "https://elabe.fr/fichier-pdf/13224-les-francais-et-lelection-presidentielle-2027/"
+    },
+    {
+     "label": "Odoxa notice, 14 Oct",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10310-pres-iv-odoxa-14-octobre.pdf"
+    },
+    {
+     "label": "Euronews: Lecornu survives censure, Jan 2026",
+     "url": "https://fr.euronews.com/2026/01/23/budget-2026-le-gouvernement-lecornu-survit-aux-motions-de-censure"
+    },
+    {
+     "label": "Assemblée nationale: groups",
+     "url": "https://www2.assemblee-nationale.fr/17/les-groupes-politiques/modifications-a-la-composition-des-groupes/2026"
+    }
+   ],
+   "useful_links": [
+    {
+     "label": "Polymarket: winner market",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    },
+    {
+     "label": "Commission des sondages (poll notices)",
+     "url": "https://www.commission-des-sondages.fr/"
+    },
+    {
+     "label": "Conseil constitutionnel",
+     "url": "https://www.conseil-constitutionnel.fr/"
+    },
+    {
+     "label": "franceinfo: politics",
+     "url": "https://www.franceinfo.fr/politique/"
+    },
+    {
+     "label": "Le Figaro: politics",
+     "url": "https://www.lefigaro.fr/politique"
+    },
+    {
+     "label": "Politico Europe",
+     "url": "https://www.politico.eu/"
+    }
+   ]
   }
  ],
  "editions": {
@@ -958,6 +1046,166 @@
    "image_caption": "CURE Insurance Arena, Trenton (2023)",
    "section": "trenton",
    "edition": "2026-10-16"
+  },
+  {
+   "id": "2026-10-16-france-election-1",
+   "edition": "2026-10-16",
+   "section": "france-election",
+   "headline": "Glucksmann wins the left's primary in the first round",
+   "lead": "On 11 October Raphaël Glucksmann, leader of Place publique, won the joint primary of the Socialist Party, Place publique and the Gauche républicaine et socialiste in the first round, with 66.17 percent (79,613 votes).",
+   "text": "On 11 October Raphaël Glucksmann, leader of Place publique, won the joint primary of the Socialist Party, Place publique and the Gauche républicaine et socialiste in the first round, with 66.17 percent (79,613 votes). Olivier Faure, first secretary of the Socialist Party, had 14.46 percent, Ségolène Royal 7.62, Emmanuel Maurel 5.92 and Jérôme Guedj 5.83; 120,787 people voted. The vote was extended by a day after a cyberattack slowed the online platform. For the first time, the Socialist Party will not have one of its own members as its presidential candidate. Glucksmann invited François Hollande, who stayed out of the primary, to join him, and called on the whole left except La France insoumise to unite.",
+   "sources": [
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/raphael-glucksmann-designe-des-le-premier-tour-comme-le-candidat-de-la-gauche-sociale-democrate_8232970.html"
+    },
+    {
+     "name": "Ouest-France",
+     "url": "https://www.ouest-france.fr/elections/presidentielle/primaire-gauche/"
+    },
+    {
+     "name": "BFMTV",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/video-primaire-sociale-democrate-le-detail-des-resultats_VN-202610110368.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-france-election-2",
+   "edition": "2026-10-16",
+   "section": "france-election",
+   "headline": "Ifop: Glucksmann ties Philippe; Le Pen at 34 percent",
+   "lead": "In an Ifop-Fiducial poll for LCI and Sud Radio (1,390 people, 12–14 October), published three days after the primary, Glucksmann and Édouard Philippe each have 14 percent in the central scenario, behind Jean-Luc Mélenchon at 16 and far behind Marine Le Pen at 34; Gabriel Attal has 6.",
+   "text": "In an Ifop-Fiducial poll for LCI and Sud Radio (1,390 people, 12–14 October), published three days after the primary, Glucksmann and Édouard Philippe each have 14 percent in the central scenario, behind Jean-Luc Mélenchon at 16 and far behind Marine Le Pen at 34; Gabriel Attal has 6. If Attal withdraws, Philippe rises to 18 percent and would reach the second round, ahead of Mélenchon at 16. Odoxa, also published on 14 October, has Le Pen at about 37 percent, Mélenchon at 18 and Philippe at 17.",
+   "sources": [
+    {
+     "name": "L'Opinion",
+     "url": "https://www.lopinion.fr/politique/presidentielle-2027-glucksmann-et-philippe-a-egalite-derriere-jean-luc-melenchon-selon-un-sondage"
+    },
+    {
+     "name": "Public Sénat (Odoxa)",
+     "url": "https://www.publicsenat.fr/actualites/politique/sondage-presidentielle-2027-jean-luc-melenchon-passe-devant-edouard-philippe-au-premier-tour-le-centre-cherche-son-cap"
+    },
+    {
+     "name": "Commission des sondages",
+     "url": "https://www.commission-des-sondages.fr/notices/files/notices/2026/octobre/10310-pres-iv-odoxa-14-octobre.pdf"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-france-election-3",
+   "edition": "2026-10-16",
+   "section": "france-election",
+   "headline": "2027 budget clears its first vote with help from the National Rally",
+   "lead": "On 13 October the National Assembly rejected the Socialists' preliminary motion to reject the 2027 budget, 236 votes to 149; the National Rally voted with the government.",
+   "text": "On 13 October the National Assembly rejected the Socialists' preliminary motion to reject the 2027 budget, 236 votes to 149; the National Rally voted with the government. Had it passed, the bill would have gone to the Senate without debate in the Assembly. Prime Minister Sébastien Lecornu had written to the Socialists that morning asking them to withdraw the motion; they refused, saying that he will not make the richest pay more. Lecornu says this budget should be \"as reversible as possible\" and that tax questions belong to the presidential campaign. The Socialists have not ruled out a censure motion.",
+   "sources": [
+    {
+     "name": "Le Monde",
+     "url": "https://www.lemonde.fr/politique/article/2026/10/14/budget-2027-le-rn-en-soutien-du-gouvernement-pour-repousser-la-motion-de-rejet-du-ps-apres-de-vifs-debats-sur-la-dette_6793315_823448.html"
+    },
+    {
+     "name": "HuffPost France",
+     "url": "https://www.huffingtonpost.fr/politique/article/avant-la-censure-l-autre-outil-du-ps-pour-mettre-lecornu-sous-pression-sur-le-budget-2027_339021.html"
+    },
+    {
+     "name": "20 Minutes",
+     "url": "https://www.20minutes.fr/politique/assemblee_nationale/4254014-20261013-budget-2027-sebastien-lecornu-deja-fil-ps-rn-arbitres"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-france-election-4",
+   "edition": "2026-10-16",
+   "section": "france-election",
+   "headline": "Lecornu presents a budget without a majority and hopes for a compromise by December",
+   "lead": "Lecornu presented the 2027 budget to the Council of Ministers on 1 October, as last year without a majority in Parliament.",
+   "text": "Lecornu presented the 2027 budget to the Council of Ministers on 1 October, as last year without a majority in Parliament. He has three ways to pass it without a vote: Article 49.3, which would expose the government to a censure motion that needs 289 votes; budget ordinances under Article 47, never used, and not possible before 18 December; or a special law that carries the budget past 31 December. On 15 October he said that he expects to reach a compromise with members of Parliament by December. The Assembly continued to debate the revenue side that day.",
+   "sources": [
+    {
+     "name": "Les Échos",
+     "url": "https://www.lesechos.fr/economie-france/budget-fiscalite/video-les-pistes-de-lecornu-pour-faire-voter-un-budget-sans-majorite-2254605"
+    },
+    {
+     "name": "BFMTV",
+     "url": "https://www.bfmtv.com/politique/video-budget-sebastien-lecornu-pense-trouver-un-compromis-avec-les-parlementaires-d-ici-decembre_VN-202610150527.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-france-election-5",
+   "edition": "2026-10-16",
+   "section": "france-election",
+   "headline": "Le Pen would end financial aid to Ukraine after six months",
+   "lead": "Marine Le Pen said on 14 October that, if she is elected, she would keep France's financial aid to Ukraine for six months and then end it, saying that France no longer has the means.",
+   "text": "Marine Le Pen said on 14 October that, if she is elected, she would keep France's financial aid to Ukraine for six months and then end it, saying that France no longer has the means. According to reports, she would continue to supply military equipment (this distinction is not confirmed by every report).",
+   "sources": [
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/candidats/guerre-en-ukraine-marine-le-pen-maintiendra-six-mois-les-aides-si-elle-est-elue-en-2027-20261014"
+    },
+    {
+     "name": "Le Parisien",
+     "url": "https://www.leparisien.fr/elections/presidentielle/nous-navons-plus-les-moyens-marine-le-pen-coupera-les-aides-a-lukraine-au-bout-de-six-mois-si-elle-est-elue-presidente-14-10-2026-EHQ32MUEURAVHJ7SBL22EMC3CA.php"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/fr/france/20261015-pr%C3%A9sidentielle-2027-marine-le-pen-coupera-aide-ukraine-six-mois-si-%C3%A9lue"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-france-election-6",
+   "edition": "2026-10-16",
+   "section": "france-election",
+   "headline": "Le Pen's appeal to the Court of Cassation moves forward",
+   "lead": "The deadline for the written arguments in Le Pen's appeal to the Court of Cassation passed on 15 October (1 October for the lawyers who joined first).",
+   "text": "The deadline for the written arguments in Le Pen's appeal to the Court of Cassation passed on 15 October (1 October for the lawyers who joined first). Thirteen appeals were filed in the case. The court must now appoint a reporting judge and an advocate general and then set a hearing; no date has been announced. A ruling is expected before the first round, but the date is not confirmed. Until then the appeal suspends her sentence, including the electronic tag.",
+   "sources": [
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html"
+    },
+    {
+     "name": "HuffPost France",
+     "url": "https://www.huffingtonpost.fr/politique/article/marine-le-pen-passe-une-etape-cle-pour-eviter-de-faire-campagne-avec-un-bracelet-electronique_340180.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-france-election-7",
+   "edition": "2026-10-16",
+   "section": "france-election",
+   "headline": "Essayist Natacha Polony declares her candidacy",
+   "lead": "Natacha Polony, the essayist and former editor of Marianne, announced on France Inter on 14 October that she will run, under the slogan \"We are France.\" Her program centers on industrial and energy sovereignty, jobs, schools, public services and the fight against corruption.",
+   "text": "Natacha Polony, the essayist and former editor of Marianne, announced on France Inter on 14 October that she will run, under the slogan \"We are France.\" Her program centers on industrial and energy sovereignty, jobs, schools, public services and the fight against corruption. Like every candidate, she must collect 500 sponsorships.",
+   "sources": [
+    {
+     "name": "France Inter",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-7h50/l-invite-de-7h50-du-mercredi-14-octobre-2026-3340206"
+    },
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_8236714.html"
+    },
+    {
+     "name": "BFMTV",
+     "url": "https://www.bfmtv.com/politique/elections/presidentielle/la-situation-m-oblige-l-essayiste-natacha-polony-annonce-sa-candidature-a-l-election-presidentielle_AD-202610140194.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-16-france-election-8",
+   "edition": "2026-10-16",
+   "section": "france-election",
+   "headline": "Polymarket: Le Pen at about 46 percent",
+   "lead": "On Polymarket's market for the winner of the next French presidential election (about $152 million traded), Le Pen stood at about 46 percent on 16 October, followed by Édouard Philippe at about 18.5, David Lisnard and Jean-Luc Mélenchon at about 11.5 each, and Glucksmann at about 4.",
+   "text": "On Polymarket's market for the winner of the next French presidential election (about $152 million traded), Le Pen stood at about 46 percent on 16 October, followed by Édouard Philippe at about 18.5, David Lisnard and Jean-Luc Mélenchon at about 11.5 each, and Glucksmann at about 4. A separate market on the National Rally's candidate has closed in favor of Le Pen. Note that Lisnard's price is much higher than his polls (about 6 percent).",
+   "sources": [
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
   }
  ]
 }

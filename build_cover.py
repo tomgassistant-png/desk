@@ -82,6 +82,35 @@ def quote_box(sym="SPCX"):
             f'<span class="srcs">As of {t} Israel time (last trade). Price from Yahoo Finance, updated at each daily build.</span><br>'
             f'<a href="{url}" target="_blank" rel="noopener">Open SPCX on Yahoo Finance</a></div>')
 
+def polymarket_box(slug, label):
+    import json as _j, urllib.request as _u
+    cache = os.path.join(ROOT, "digest/polymarket_%s.json" % slug)
+    q = None
+    try:
+        r = _u.Request("https://gamma-api.polymarket.com/events?slug=" + slug, headers={"User-Agent": "Mozilla/5.0"})
+        ev = _j.load(_u.urlopen(r, timeout=20))[0]
+        rows = []
+        for m in ev["markets"]:
+            if m.get("closed"): continue
+            try: pr = float(_j.loads(m.get("outcomePrices") or "[0]")[0])
+            except Exception: continue
+            rows.append([m.get("groupItemTitle") or m.get("question"), pr])
+        rows.sort(key=lambda x: -x[1])
+        q = {"rows": rows[:8], "time": int(datetime.now(TZ).timestamp()), "volume": ev.get("volume")}
+        open(cache, "w").write(_j.dumps(q))
+    except Exception:
+        try: q = _j.load(open(cache))
+        except Exception: q = None
+    url = "https://polymarket.com/event/" + slug
+    if not q:
+        return f'<div class="quote" style="border:1px solid #ccc;padding:10px;margin:12px 0"><b>Polymarket: {e(label)}</b>: odds not available. <a href="{url}" target="_blank" rel="noopener">Polymarket</a></div>'
+    t = datetime.fromtimestamp(q["time"], TZ).strftime("%d %b %Y, %H:%M")
+    li = "".join(f'<tr><td style="padding:1px 10px 1px 0">{e(n)}</td><td style="text-align:right"><b>{p*100:.1f}%</b></td></tr>' for n, p in q["rows"])
+    return (f'<div class="quote" style="border:1px solid #ccc;padding:10px 14px;margin:12px 0;display:inline-block">'
+            f'<b>Polymarket: {e(label)}</b><table style="font-family:Helvetica,Arial,sans-serif;font-size:14px;margin:6px 0">{li}</table>'
+            f'<span class="srcs">Fetched {t} Israel time. Market price of a "Yes" share, updated at each daily build. Odds are bets, not polls.</span><br>'
+            f'<a href="{url}" target="_blank" rel="noopener">Open the market on Polymarket</a></div>')
+
 def main():
     d = load("digest/items.json")
     items = d["items"]
@@ -140,9 +169,10 @@ def main():
             out.append(f'<figure style="margin:0 0 12px"><img src="../../{e(hi["image"])}" alt="{e(hi.get("caption",""))}" style="width:100%;max-height:320px;object-fit:cover;display:block">'
                        f'<figcaption class="srcs">{e(hi.get("caption",""))} · Photo: <a href="{e(hi["image_url"])}" target="_blank" rel="noopener">{e(hi["image_credit"])}</a></figcaption></figure>')
         if s.get("baseline"):
+            paras = s["baseline"] if isinstance(s["baseline"], list) else [s["baseline"]]
             srcs = " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in s.get("baseline_sources", []))
             out.append('<div class="baseline" style="background:#f1efe8;border-left:4px solid #8b0000;padding:12px 16px;margin:12px 0">'
-                       '<b>Background</b><p style="margin:6px 0">' + e(s["baseline"]) + '</p>'
+                       '<b>Background</b>' + "".join('<p style="margin:6px 0">' + e(x) + '</p>' for x in paras)
                        + (f'<p class="srcs" style="margin:4px 0">Sources: {srcs}</p>' if srcs else "")
                        + (f'<p class="srcs" style="margin:4px 0"><i>Last updated: {e(s["baseline_updated"])}</i></p>' if s.get("baseline_updated") else "")
                        + '</div>')
@@ -154,9 +184,10 @@ def main():
         if s.get("useful_links"):
             side = ('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0;min-width:220px"><b>Useful links</b><ul style="margin:6px 0;padding-left:18px">'
                     + "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in s["useful_links"]) + '</ul></aside>')
-        if s["id"] == "spacex-xai-and-cursor" or side:
+        if s["id"] == "spacex-xai-and-cursor" or side or s.get("polymarket"):
             out.append('<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start">'
-                       + (quote_box("SPCX") if s["id"] == "spacex-xai-and-cursor" else "") + side + '</div>')
+                       + (quote_box("SPCX") if s["id"] == "spacex-xai-and-cursor" else "")
+                       + (polymarket_box(s["polymarket"]["slug"], s["polymarket"]["label"]) if s.get("polymarket") else "") + side + '</div>')
         if not mine:
             out.append(f'<p class="summary">{e(s.get("placeholder") or "No stories in this section yet. The digest reports on it only when there is material news.")}</p>')
         last = None
