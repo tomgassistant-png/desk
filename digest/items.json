@@ -131,14 +131,14 @@
    "id": "trenton",
    "name": "Trenton",
    "own_edition": true,
-   "about": "Private initiative and private investment in the city of Trenton, New Jersey: private developers, business openings, property sales to private buyers, private employers and private real estate deals. Government programs appear only where they are part of a private deal, and every public subsidy is labeled as such. Where private investment is absent, this section tries to explain why. Edition of 16 October 2026, covering about April to October 2026.",
+   "about": "Signs of natural life and revival in the city of Trenton, New Jersey: things that private people and businesses start on their own, without subsidy. That means new restaurants, shops and galleries; private home buying and renovation; small developers; rents and sale prices that show demand; new residents; and cultural or community activity started by citizens. Government action is included only when it improves the conditions for private initiative, for example lower taxes or fees, faster permits, easier zoning, clear title to vacant lots or better safety. Subsidized or politically driven projects are left out or labeled. Edition of 16 October 2026, covering about April to October 2026.",
    "header_image": {
     "image": "digest/trenton/img/header.jpg",
     "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 3.0",
     "image_url": "https://commons.wikimedia.org/wiki/File:2014-05-12_12_32_27_View_of_the_Trenton_Makes_Bridge_from_the_Trenton-Morrisville_Toll_Bridge_(U.S._Route_1)-cropped_2.JPG",
     "caption": "The “Trenton Makes, The World Takes” bridge over the Delaware River"
    },
-   "baseline": "Private capital has been scarce in Trenton for decades. The city had an estimated 91,506 residents in 2025, a median household income of $52,537 and a poverty rate of 21.6 percent (Census Bureau). Its 2025 effective property tax rate, 3.468 percent, is the highest in Mercer County, compared with 2.434 percent in Hamilton and 1.814 percent in Princeton (New Jersey Treasury). Much of the city's land is exempt from tax because the state, the county, schools, churches and charities own it, so the tax burden falls on a narrow private base. State aid now supplies about half of the city's main operating revenue (Moody's). The private projects that do occur are mostly small businesses, warehouses on cheap land, and deals in which the government first absorbs part of the cost. See the backgrounder on city finances for the details and sources.",
+   "baseline": "Natural private revival in Trenton is still thin. The city had an estimated 91,506 residents in 2025, a median household income of $52,537 and a poverty rate of 21.6 percent (Census Bureau). Its 2025 effective property tax rate, 3.468 percent, is the highest in Mercer County, compared with 2.434 percent in Hamilton and 1.814 percent in Princeton (New Jersey Treasury), and that burden falls directly on anyone who buys, builds or rents. Much of the city's land is tax-exempt, and state aid supplies about half of the city's main operating revenue (Moody's), so most of what is announced as development is government-driven. The unsubsidized signs that do exist are modest: home prices rising, small citizen-run cultural spaces, and private firms using cheap land at the city's edge. The backgrounder judges city policy by whether it makes private initiative easier.",
    "baseline_updated": "16 October 2026",
    "baseline_sources": [
     {
@@ -1096,9 +1096,30 @@
    ]
   },
   {
+   "id": "trenton-hanover-gallery",
+   "section": "trenton",
+   "edition": "2026-10-16",
+   "headline": "A citizen-run gallery on East Hanover Street, years in the making, opens its fourth show",
+   "text": "Hanover Creative Gallery at 219 East Hanover Street, a project its founders began planning in 2019, opened in March 2026 with the textile show 'Fiber Politic' and held its ribbon cutting on 2 April. Its curator, Áine Mickey, is a local organizer who earlier assembled shows at Trenton's BSB Gallery. A new group show, 'Vicious Involution,' runs from 2 to 31 October. NJArts.net wrote that it takes courage to open an independent gallery in a city 'not known for independent galleries.' The building also houses WorkWell, a nonprofit job program. Unconfirmed: whether the gallery received any public grant; none was reported.",
+   "sources": [
+    {
+     "name": "Princeton Info",
+     "url": "https://princetoninfo.com/artsandentertainment/fiber-politic-exhibition-opens-hanover-creative-gallery/"
+    },
+    {
+     "name": "NJArts.net",
+     "url": "https://www.njarts.net/hanover-creative-new-gallery-in-trenton-shows-striking-works-by-five-textile-artists/"
+    },
+    {
+     "name": "Hanover Creative",
+     "url": "https://www.hanovercreates.com/hc-gallery/exhibitions"
+    }
+   ]
+  },
+  {
    "id": "trenton-meridian",
    "headline": "Meridian Furniture, a private Trenton company, buys 10 acres for a 220,000-square-foot warehouse",
-   "text": "On 15 September the City Council approved the sale of more than 10 acres of city land at 300 to 366 Enterprise Avenue to Meridian Furniture for $1 million. The company, founded in Trenton more than 20 years ago, will build a warehouse of about 220,000 square feet with its own money. Public element: the land was sold by the city. The city expects about 200 jobs; that figure comes only from the city. The land sale and the size of the building are confirmed by public planning records.",
+   "text": "On 15 September the City Council approved the sale of more than 10 acres of city land at 300 to 366 Enterprise Avenue to Meridian Furniture for $1 million. The company, founded in Trenton more than 20 years ago, will build a warehouse of about 220,000 square feet with its own money. No subsidy has been reported; the city's part was to sell unused land at a price, which returns it to the tax rolls. The city expects about 200 jobs; that figure comes only from the city. The land sale and the size of the building are confirmed by public planning records.",
    "sources": [
     {
      "name": "City of Trenton",
@@ -1113,48 +1134,6 @@
      "url": "https://www.trentonnj.org/AgendaCenter/ViewFile/Agenda/_01222026-856"
     }
    ],
-   "section": "trenton",
-   "edition": "2026-10-16"
-  },
-  {
-   "id": "trenton-rojos",
-   "headline": "Rojo's Roastery invests about $933,000 to turn the empty downtown Starbucks into a roastery, bakery and café",
-   "text": "Joanne Canady-Brown, who owns Rojo's Roastery in Princeton and the Gingered Peach bakery in Lawrence, is converting the former Starbucks at 102 South Warren Street, closed since the pandemic, into a coffee roasting plant, bakery and café. The project includes about $933,000 in construction and equipment, and the owner has targeted late fall 2026 for opening. Public subsidy: on 23 June the Capital City Redevelopment Corporation, a state agency, approved a reimbursable grant of up to $493,000, which is about half the stated cost.",
-   "sources": [
-    {
-     "name": "Trenton Journal",
-     "url": "https://trentonjournal.com/mayor-gusciora-welcomes-ccrc-approval-of-small-business-attraction-award-for-rojos-roasterymayor-gusciora-welcomes-ccrc-approval-of-small-business-attraction-award-for-rojos-roastery/"
-    },
-    {
-     "name": "Insider NJ",
-     "url": "https://www.insidernj.com/coffee-master-canady-brown-transforming-old-starbucks-space/"
-    }
-   ],
-   "section": "trenton",
-   "edition": "2026-10-16"
-  },
-  {
-   "id": "trenton-marriott",
-   "headline": "Private developer Tetrabilt is in line to reopen the empty downtown Marriott after the city buys it with state money",
-   "text": "On 6 October the City Council authorized the city to seek a $4 million state grant to buy the former Lafayette Yard Marriott, which has been closed for years. The city then plans to transfer it to Tetrabilt, a private developer the Council has already designated, to reopen it as a hotel. Public subsidy: the purchase price is paid entirely with the $4 million grant from the New Jersey Economic Development Authority. Private element: renovation and operation would be Tetrabilt's. Unconfirmed: a report of a council presentation says Tetrabilt proposed a renovation of about $25 million that would reduce the rooms from 197 to 170; no second source states the amount. No transfer agreement has been signed.",
-   "sources": [
-    {
-     "name": "NJ.com",
-     "url": "https://www.nj.com/mercer/2026/10/nj-city-council-moves-to-reclaim-vacant-hotel-with-4m-in-state-funding.html"
-    },
-    {
-     "name": "Central Jersey Media",
-     "url": "https://centraljersey.media/featured/former-trenton-marriott-moves-closer-to-redevelopment/"
-    },
-    {
-     "name": "Citizen Portal (the $25 million figure)",
-     "url": "https://citizenportal.ai/articles/6657753/new-jersey/mercer-county/trenton/developer-outlines-25-million-plan-to-revive-trenton-downtown-hotel-council-sets-july-31-proposal-cutoff"
-    }
-   ],
-   "image": "digest/trenton/img/cityhall.jpg",
-   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
-   "image_url": "https://commons.wikimedia.org/wiki/File:2014-08-30_10_53_29_View_of_Trenton_City_Hall_in_Trenton,_New_Jersey_from_the_northwest.JPG",
-   "image_caption": "Trenton City Hall, where the Council voted (not the hotel)",
    "section": "trenton",
    "edition": "2026-10-16"
   },
@@ -1185,8 +1164,8 @@
   },
   {
    "id": "trenton-property-program",
-   "headline": "28 abandoned city-owned buildings offered to private buyers who will repair them",
-   "text": "From 1 to 30 October the city is taking applications from private buyers for 28 city-owned houses and buildings in all four wards. Many need major repairs, and buyers who will repair a property and live in it receive priority. This is a government sale, but the money and labor of repair would be private. How many buyers apply is the test of private interest; results have not been reported.",
+   "headline": "City puts 28 abandoned buildings into private hands, with priority for buyers who will repair and live in them",
+   "text": "From 1 to 30 October the city is taking applications from private buyers for 28 city-owned houses and buildings in all four wards. This passes the test of this section because it returns vacant property to private owners rather than spending public money on it; the repairs would be private. Many buildings need major work, and buyers who will live in them receive priority. How many private buyers apply is the real measure of demand; results have not been reported.",
    "sources": [
     {
      "name": "City of Trenton release, 30 Sep",
