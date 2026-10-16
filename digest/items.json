@@ -138,8 +138,8 @@
       "quiet": "Nothing material on Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: Israeli Hebrew and English outlets reported the EU decision, but no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found."
     },
     "2026-10-16": {
-      "intro": "The main items are two new Israeli polls that still leave both blocs short of 61 (Zman Yisrael has Eisenkot's camp at 54 and Netanyahu's at 49, with Yashar ahead of Likud 26–20; Channel 13's Madad has the blocs at 51–50 and puts both Hendel–Zelekha and Winter at four seats), Netanyahu's renewed refusal to make Ben-Gvir defense minister as the surplus-vote deadline arrives, Datafolha's runoff poll that keeps Flávio Bolsonaro and Lula in a technical tie, the swearing-in of Quebec's 59 PQ MNAs, and force-generation reporting that Italy, France and Spain are expected to supply most of about 100 troops for EUSM Lebanon.",
-      "quiet": "Nothing material on Colombia and Israel, SpaceX, xAI and Cursor, Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found; contribution plans for Italy, France and Spain are reported above."
+      "intro": "The main items are three Israeli polls that still leave both blocs short of 61 (Zman Yisrael: Eisenkot camp 54, Netanyahu 49, Yashar 26–Likud 20; Channel 13 Madad: 51–50 with Hendel and Winter both at four; Israel Hayom: change 52, right 50, Yashar 24), Netanyahu's refusal to give Ben-Gvir Defense or National Security, Lieberman's rejection of a minority government, an Israel Hayom unity-government report that Ambassador Huckabee denied, Colombia's exit from the Hague Group, Datafolha's Brazil runoff (Flávio 47%, Lula 45%), the PQ swearing-in in Quebec, EUSM Lebanon force-generation (Italy, France, Spain), Grok Voice 3.0, The X Subscription, and Cursor's reported Sand training review.",
+      "quiet": "Nothing material on Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found; contribution plans for Italy, France and Spain are reported above."
     }
   },
   "items": [
@@ -577,13 +577,13 @@
       "id": "2026-10-16-israel-election-3",
       "edition": "2026-10-16",
       "section": "israel-election",
-      "headline": "Netanyahu again rules out Ben-Gvir as defense minister; Otzma fires back",
-      "lead": "At a campaign event in Acre on Wednesday, Netanyahu repeated that he would not appoint Itamar Ben-Gvir defense minister after the 27 October election, and said Likud would keep the National Security and Education ministries.",
-      "text": "At a campaign event in Acre on Wednesday, Netanyahu repeated that he would not appoint Itamar Ben-Gvir defense minister after the 27 October election, and said Likud would keep the National Security and Education ministries. Otzma Yehudit accused him of planning to shut the party out of the next coalition and bring in Eisenkot instead. The remarks follow Netanyahu's similar line on Army Radio a day earlier. Separately, Friday 16 October is the legal deadline for surplus-vote agreements; Otzma remains the only party in Netanyahu's bloc without one after Ben-Gvir refused a deal with Winter (Times of Israel; Ynet).",
+      "headline": "Netanyahu: Defense and National Security stay with Likud; Otzma fires back",
+      "lead": "At a campaign event in Acre on Thursday, Netanyahu said that if he forms the next government, Likud will keep the National Security and Education ministries, and repeated that Itamar Ben-Gvir will not be defense minister.",
+      "text": "At a campaign event in Acre on Thursday, Netanyahu said that if he forms the next government, Likud will keep the National Security and Education ministries, and repeated that Itamar Ben-Gvir will not be defense minister. Otzma Yehudit accused him of planning to shut the party out of the next coalition and bring in Eisenkot instead. Ben-Gvir told Walla he still expects to become defense minister if Otzma gains seats. Friday 16 October is the legal deadline for surplus-vote agreements; Otzma remains the only party in Netanyahu's bloc without one after Ben-Gvir refused a deal with Winter (Times of Israel; Ynet).",
       "sources": [
         {
           "name": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-october-15-2026/"
+          "url": "https://www.timesofisrael.com/pm-says-ben-gvir-cant-be-defense-or-police-minister-after-election-angering-otzma-yehudit/"
         },
         {
           "name": "Ynet",
@@ -642,6 +642,136 @@
         {
           "name": "Radio-Canada",
           "url": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation"
+        },
+        {
+          "name": "Le Devoir",
+          "url": "https://www.ledevoir.com/politique/quebec/1017191/59-elus-parti-quebecois-pretent-serment-deviennent-deputes"
+        },
+        {
+          "name": "National Post",
+          "url": "https://nationalpost.com/news/parti-quebecois-caucus-members-swear-allegiance-to-the-people-of-quebec-not-the-king"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-israel-election-4",
+      "edition": "2026-10-16",
+      "section": "israel-election",
+      "headline": "Israel Hayom poll: change bloc 52, right 50; Yashar 24; Winter still below the threshold",
+      "lead": "An Israel Hayom / Kantar poll published on Thursday (551 adults online, 14–15 October, margin of error 4.2 points) puts the change bloc at 52 seats and the right at 50.",
+      "text": "An Israel Hayom / Kantar poll published on Thursday (551 adults online, 14–15 October, margin of error 4.2 points) puts the change bloc at 52 seats and the right at 50. Yashar rises to 24 from 22 in the prior Israel Hayom survey; Likud has 21; Bennett's Beyachad falls one seat to 12. Otzma Yehudit has 9 and Religious Zionism 6. Hendel–Zelekha's list has 4; Winter's Amcha Yisrael remains under the electoral threshold. The paper notes that neither Jewish-led camp reaches 61 without some form of Arab-party involvement, and that 87% of change-bloc voters in the survey would accept joining, external support, or abstention by an Arab party (Israel Hayom).",
+      "sources": [
+        {
+          "name": "Israel Hayom",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21636491"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-israel-election-5",
+      "edition": "2026-10-16",
+      "section": "israel-election",
+      "headline": "Lieberman rules out a minority government and Arab or Haredi partners",
+      "lead": "On Thursday Avigdor Lieberman told a conference of the Israel Democracy Institute that Yisrael Beytenu would oppose any minority government and demanded a majority coalition of Zionist parties only.",
+      "text": "On Thursday Avigdor Lieberman told a conference of the Israel Democracy Institute that Yisrael Beytenu would oppose any minority government and demanded a majority coalition of Zionist parties only, without Ra'am, the Joint List, Shas or United Torah Judaism. Benny Gantz replied that Lieberman was either lying about eventually relying on Arab parties or that the country was heading to a repeat election. The dispute matters because recent polls show neither Jewish-led bloc reaching 61 without Arab involvement (Israel Hayom).",
+      "sources": [
+        {
+          "name": "Israel Hayom",
+          "url": "https://www.israelhayom.co.il/news/politics/article/21636491"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-israel-election-6",
+      "edition": "2026-10-16",
+      "section": "israel-election",
+      "headline": "Israel Hayom reports a U.S. push for Netanyahu–Eisenkot unity; Huckabee denies it",
+      "lead": "Israel Hayom on Thursday described a proposed framework in which Likud and Yashar would form a broad government, with Netanyahu serving up to two years then retiring; U.S. Ambassador Mike Huckabee denied any U.S. effort to steer the election.",
+      "text": "Israel Hayom on Thursday, citing diplomatic officials, described a proposed framework in which Likud and Yashar would form a broad government, with Netanyahu serving up to two years then retiring, while advancing regional deals, especially with Saudi Arabia. Eisenkot's side would seek a timed Netanyahu exit, rollback of judicial-reform laws, and an October 7 state inquiry, according to that report. U.S. Ambassador Mike Huckabee posted on X that the U.S. government is \"NOT trying to manipulate Israel's election or telling [the PM] what to do,\" called related claims fake news, and Channel 14 reported the same denial (Israel Hayom; Channel 14).",
+      "sources": [
+        {
+          "name": "Israel Hayom",
+          "url": "https://www.israelhayom.com/2026/10/15/us-pushes-israeli-unity-government-netanyahu-exit-saudi-peace/"
+        },
+        {
+          "name": "Channel 14",
+          "url": "https://www.c14.co.il/article/1740548"
+        },
+        {
+          "name": "Mike Huckabee on X",
+          "url": "https://x.com/GovMikeHuckabee/status/2110728129136177231"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-colombia-and-israel-1",
+      "edition": "2026-10-16",
+      "section": "colombia-and-israel",
+      "headline": "Colombia withdraws from the Hague Group after opening its Jerusalem embassy",
+      "lead": "Foreign Minister Omar Bula Escobar announced Colombia's withdrawal as a member and co-chair of the Hague Group, a coalition that sought legal and diplomatic pressure on Israel over Gaza.",
+      "text": "Foreign Minister Omar Bula Escobar announced Colombia's withdrawal as a member and co-chair of the Hague Group, a coalition that sought legal and diplomatic pressure on Israel over Gaza. Colombia's Foreign Ministry said on 15 October that Colombia had formally left; Bula said the group was \"created to isolate and attack Israel\" and that Colombia rejects that approach. Bolivia and Honduras had already left. He spoke after the 14 October embassy inauguration in Jerusalem, with Netanyahu and Gideon Sa'ar present, condemned the October 7 massacre, and criticized the prior Colombian government's record on terrorism and antisemitism. The embassy opening itself was covered on 15 October; the Hague Group exit is the new diplomatic step (Colombian Foreign Ministry; Ynet).",
+      "sources": [
+        {
+          "name": "Colombian Foreign Ministry",
+          "url": "https://www.cancilleria.gov.co/sala-de-prensa/noticias/colombia-anuncia-su-retiro-del-grupo-de-la-haya"
+        },
+        {
+          "name": "Ynet",
+          "url": "https://www.ynetnews.com/article/hkts9kpsge"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-spacex-xai-and-cursor-1",
+      "edition": "2026-10-16",
+      "section": "spacex-xai-and-cursor",
+      "headline": "SpaceXSI releases Grok Voice 3.0; tops Artificial Analysis speech-to-speech ranking",
+      "lead": "On 14 October SpaceXSI released Grok Voice 3.0, its newest speech-to-speech model for the Voice Agent API.",
+      "text": "On 14 October SpaceXSI released Grok Voice 3.0, its newest speech-to-speech model for the Voice Agent API. Independent benchmark site Artificial Analysis ranks it first on the Speech-to-Speech Index at 86.9, ahead of OpenAI's GPT-Live-1 (Astra, medium) at 83.2 and Google's Gemini 3.8 Live (Extended Thinking, High) at 82.6; Grok Voice 2.0 scored 81.3. SpaceXSI and Artificial Analysis both report about 97% on Full Duplex Bench. API price is unchanged at $0.08 per minute ($4.80 per hour). The alias grok-voice-latest now points to grok-voice-3.0. SpaceXSI says the model powers millions of Tesla in-car conversations a day and about 20,000 Starlink support calls a day (company figures). SiliconANGLE separately reported the launch and the Artificial Analysis ranking (SpaceXSI; SiliconANGLE).",
+      "sources": [
+        {
+          "name": "SpaceXSI",
+          "url": "https://x.ai/news/grok-voice-3"
+        },
+        {
+          "name": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/10/14/grok-voice-3-0-from-spacexsi-outscores-openai-and-google-on-speech-to-speech-index/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-spacex-xai-and-cursor-2",
+      "edition": "2026-10-16",
+      "section": "spacex-xai-and-cursor",
+      "headline": "SpaceXSI launches The X Subscription, bundling Grok, Grok Bot, Cursor and X Premium",
+      "lead": "On 12 October SpaceXSI introduced The X Subscription, one plan that includes Grok, Grok Bot, Cursor and X Premium.",
+      "text": "On 12 October SpaceXSI introduced The X Subscription, one plan that includes Grok, Grok Bot, Cursor and X Premium. Paid tiers are Plus ($8 a month), Premium ($30), Super ($100) and Ultra ($200), plus a free tier with limited use. SpaceXSI says Premium matches what SuperGrok, Cursor Pro and X Premium+ used to cost together at about $90 a month, and that each paid tier's shared Grok usage pool covers Grok apps, the Grok tab on X, and Cursor, with at least twice the coding usage of the comparable older Cursor plan. Existing SuperGrok, Cursor and X Premium subscribers may keep their current plans or switch when the option appears in billing settings. TechCrunch reported the same structure and prices on 13 October. The item was not in the 12–15 October digest editions (SpaceXSI; TechCrunch).",
+      "sources": [
+        {
+          "name": "SpaceXSI",
+          "url": "https://x.ai/news/x-subscription"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-spacex-xai-and-cursor-3",
+      "edition": "2026-10-16",
+      "section": "spacex-xai-and-cursor",
+      "headline": "Reports: Cursor reviewed whether employee Grok Bot testing sent confidential data toward SpaceXAI training",
+      "lead": "On 15 October TokenPost reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training.",
+      "text": "On 15 October TokenPost reported that Cursor staff in late July 2026 reviewed whether use of an internal Grok Bot test tool called Sand could have put confidential customer, supplier or partner information into data shared for SpaceXAI model training. According to that account, Cursor then required company email logins for Sand and stopped using employee-use data for future training; a Cursor lawyer in Slack is quoted as saying the company arguably lacked rights to train on that data. The review reportedly began weeks before SpaceX completed its acquisition of Cursor on 14 August 2026. Primary paywalled detail is attributed to The Information; TokenPost is the secondary account used here. There is no confirmed public evidence in this reporting that client or partner data was actually exposed (TokenPost; unconfirmed beyond that secondary account).",
+      "sources": [
+        {
+          "name": "TokenPost",
+          "url": "https://www.tokenpost.com/news/technology/32809"
+        },
+        {
+          "name": "The Information (paywalled primary)",
+          "url": "https://www.theinformation.com/articles/cursor-staff-investigated-whether-confidential-data-reached-spacex-ai-training"
         }
       ]
     }
