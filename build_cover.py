@@ -219,21 +219,31 @@ def main():
             out.append(f'</main><aside class="rail">{rail}</aside></div>')
         out.append('</div></body></html>')
         write(os.path.join(ROOT, f'digest/{s["id"]}/index.html'), "".join(out))
-    bgp = os.path.join(ROOT, "digest/trenton/backgrounder.json")
-    if os.path.exists(bgp):
+    import glob
+    jobs = []
+    if os.path.exists(os.path.join(ROOT, "digest/trenton/backgrounder.json")):
+        jobs.append((os.path.join(ROOT, "digest/trenton/backgrounder.json"), "trenton", "backgrounder"))
+    for f in sorted(glob.glob(os.path.join(ROOT, "digest/*/backgrounders/*.json"))):
+        jobs.append((f, f.split(os.sep)[-3], os.path.splitext(os.path.basename(f))[0]))
+    for bgp, secid, slug in jobs:
         b = json.load(open(bgp, encoding="utf-8"))
-        o = [head(b["title"]), sitenav.nav("trenton", "../../../"),
-             f'<header class="masthead"><h1>{e(b["title"])}</h1><p class="dateline">Trenton backgrounder · {e(b["date"])} · <a href="../">Back to the Trenton section</a></p></header>']
+        R = "../../../"
+        fig = lambda im: (f'<figure style="margin:10px 0 12px"><img src="{R}{e(im["image"])}" alt="{e(im["caption"])}" loading="lazy" style="max-width:100%;max-height:380px;height:auto;display:block">'
+                          f'<figcaption class="srcs">{e(im["caption"])} · Photo: <a href="{e(im["image_url"])}" target="_blank" rel="noopener">{e(im["image_credit"])}</a></figcaption></figure>')
+        o = [head(b["title"]), sitenav.nav(secid, R),
+             f'<header class="masthead"><h1>{e(b["title"])}</h1><p class="dateline">{e(names.get(secid, secid))} backgrounder · {e(b["date"])} · <a href="../">Back to the section</a></p></header>']
         if b.get("image"):
-            o.append(f'<figure style="margin:0 0 12px"><img src="../../../{e(b["image"])}" alt="{e(b["image_caption"])}" style="width:100%;max-height:340px;object-fit:cover;display:block">'
-                     f'<figcaption class="srcs">{e(b["image_caption"])} · Photo: <a href="{e(b["image_url"])}" target="_blank" rel="noopener">{e(b["image_credit"])}</a></figcaption></figure>')
+            o.append(fig({"image": b["image"], "caption": b["image_caption"], "image_url": b["image_url"], "image_credit": b["image_credit"]}))
         o.append(f'<p class="summary"><b>{e(b["summary"])}</b></p>')
         for part in b["parts"]:
             o.append(f'<h2 class="edn">{e(part["h"])}</h2>' + "".join(f'<p class="summary">{e(x)}</p>' for x in part["p"]))
+            for im in part.get("images", []): o.append(fig(im))
+            for lk in part.get("links", []): o.append(f'<p class="srcs">{e(lk.get("prefix",""))}<a href="{e(lk["url"])}" target="_blank" rel="noopener">{e(lk["label"])}</a></p>')
             if part.get("note"): o.append(f'<p class="srcs"><i>{e(part["note"])}</i></p>')
-            o.append('<p class="srcs">Sources: ' + " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in part["sources"]) + '</p>')
+            if part.get("sources"):
+                o.append('<p class="srcs">Sources: ' + " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in part["sources"]) + '</p>')
         o.append('</div></body></html>')
-        write(os.path.join(ROOT, "digest/trenton/backgrounder/index.html"), "".join(o))
+        write(os.path.join(ROOT, f"digest/{secid}/{slug}/index.html"), "".join(o))
     print(f"cover + {len(d['sections'])} sections built; edition {newest}, {len(items)} items")
 
 if __name__ == "__main__":
