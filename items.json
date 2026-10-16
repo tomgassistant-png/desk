@@ -1228,6 +1228,94 @@
       "url": "https://una-oic.org/en/palestinians/2026/10/15/The-occupation-and-the-settlers-continue-to-violate/",
       "edition": "2026-10-15-pm",
       "edition_label": "Interim update, 15 Oct, evening"
+    },
+    {
+      "id": "2026-10-16-ateret-ramming",
+      "edition": "2026-10-16",
+      "published": "2026-10-16T04:50:00+03:00",
+      "letter": "PA security: 16 Oct 2026",
+      "section": "attacks",
+      "lead": true,
+      "highlight": true,
+      "headline": "Ateret: a Palestinian driver hits a Jewish youth; the IDF says it was not a terror attack",
+      "summary": "On the evening of 15 October the Judea and Samaria Situation Room (JSR) of the Yesha Council first reported a suspected car-ramming at Ateret Junction in Binyamin, with one person injured and conscious. The IDF and police later said that after an initial inquiry the strike was not a terror attack: youths from a nearby outpost had tried to block Palestinian cars, and a Palestinian driver hit one of them while fleeing; the youth was lightly injured and the driver later turned himself in. Arutz 7 and Ynet reported the same sequence; Judea and Samaria District police opened an investigation into the circumstances.",
+      "source": "JSR / Arutz 7 / Ynet",
+      "date": "2026-10-15",
+      "url": "https://www.inn.co.il/news/708610"
+    },
+    {
+      "id": "2026-10-16-jsr-ramallah-mall",
+      "edition": "2026-10-16",
+      "published": "2026-10-16T04:51:00+03:00",
+      "letter": "PA security: 16 Oct 2026",
+      "section": "pa",
+      "highlight": true,
+      "headline": "JSR: Hamas-style terror cartoon shown to children in a Ramallah mall",
+      "summary": "According to the Judea and Samaria Situation Room (JSR), a video from recent days shows young children in a Ramallah mall watching an animated film on a large screen in which a masked Arab in a keffiyeh throws a firebomb into an IDF tank and flees, and is presented as a hero. JSR says the animation closely resembles footage released by Hamas's Izz ad-Din al-Qassam Brigades of a terrorist climbing an IDF armored carrier and throwing a grenade inside; seven IDF soldiers were killed in that attack on 24 June 2025. The report is JSR's own account; the cartoon itself has not been independently verified here.",
+      "source": "JSR (Yesha Council Situation Room)",
+      "date": "2026-10-15",
+      "url": "https://x.com/JSR_EN/status/2110658415722635530"
+    },
+    {
+      "id": "2026-10-16-jsr-ghannam-rome",
+      "edition": "2026-10-16",
+      "published": "2026-10-16T04:52:00+03:00",
+      "letter": "PA security: 16 Oct 2026",
+      "section": "pa",
+      "headline": "JSR: PA Ramallah governor Laila Ghannam signs a university deal in Rome",
+      "summary": "JSR reports that Laila Ghannam, the Palestinian Authority governor of Ramallah and al-Bireh, flew to Rome to sign a cooperation agreement between Sapienza University, Al-Quds University in Ramallah and Bethlehem University. JSR describes her as a public supporter of terrorism who regularly meets released terrorists; it cites as an example her visit last June to Amir Abu Radaha, a former Tanzim activist, after the birth of his son. The university signing is reported on her Facebook page as quoted by JSR; the characterizations of her meetings are JSR's own account.",
+      "source": "JSR (Yesha Council Situation Room)",
+      "date": "2026-10-15",
+      "url": "https://x.com/JSR_EN/status/2110698324130984119"
+    },
+    {
+      "id": "2026-10-16-hatzalah-attack-spike",
+      "edition": "2026-10-16",
+      "published": "2026-10-16T04:53:00+03:00",
+      "letter": "PA security: 16 Oct 2026",
+      "section": "attacks",
+      "highlight": true,
+      "headline": "Hatzalah Judea and Samaria: 63 attacks in the first 13 days of October",
+      "summary": "Hatzalah Judea and Samaria Without Borders counted 63 reported Palestinian terror incidents from 1 to 13 October, more than twice the 29 it recorded in all of September, according to a TPS report carried on 15 October. The pace rose during the month: 27 incidents in 1–7 October and 36 in 8–13 October, including rock-throwing, assaults on shepherds, attempted ramming and stabbing, firebombs, arson and suspected poisoning of livestock. Olam Katan separately said attacks had jumped about fourfold in the last two weeks relative to the prior daily rate; both counts are the organizations' own incident lists, not an official IDF tally.",
+      "source": "TPS / Hatzalah Judea and Samaria; Olam Katan",
+      "date": "2026-10-15",
+      "url": "https://israel.fm/terrorism/report-palestinian-terror-attacks-quadruple-judea-samaria-october/"
+    },
+    {
+      "id": "2026-10-16-yered-olive-land",
+      "edition": "2026-10-16",
+      "published": "2026-10-16T04:54:00+03:00",
+      "letter": "PA security: 16 Oct 2026",
+      "section": "pa",
+      "headline": "Elisha Yered: the olive harvest as PA agricultural land seizure",
+      "summary": "In Olam Katan on 15 October Elisha Yered wrote that the Arab olive harvest has become a front in the struggle over land in Judea and Samaria, through strategic planting, organized violence and foreign activists. He named PA-linked planting bodies, among them APN (sometimes called the Palestinian JNF), which he said has planted more than two and a half million trees in the last decade near Jewish communities and roads, and he pointed to the PA's anti-settlement committee, led by minister Muayyad Shaaban, as directing harvest riots. The tree figures and committee descriptions are from his column and have not been checked here against PA or Civil Administration data.",
+      "source": "Olam Katan (Elisha Yered)",
+      "date": "2026-10-15",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/69363/"
+    },
+    {
+      "id": "2026-10-16-jsr-laqef-rifles",
+      "edition": "2026-10-16",
+      "published": "2026-10-16T04:55:00+03:00",
+      "letter": "PA security: 16 Oct 2026",
+      "section": "idf",
+      "headline": "JSR: three rifles seized in Laqef; two suspects arrested",
+      "summary": "JSR reported that police detectives and soldiers of the Ephraim Brigade raided the Arab village of Laqef in Samaria on intelligence about weapons, found three hunting rifles hidden in the village, and arrested two residents in their thirties and sixties for questioning. The account is JSR's, with video credited to the Israel Police spokesperson; a second independent written confirmation was not found for this morning edition.",
+      "source": "JSR (Yesha Council Situation Room)",
+      "date": "2026-10-14",
+      "url": "https://x.com/JSR_HEB/status/2110316687237009429"
+    },
+    {
+      "id": "2026-10-16-jsr-burqa-stones",
+      "edition": "2026-10-16",
+      "published": "2026-10-16T04:56:00+03:00",
+      "letter": "PA security: 16 Oct 2026",
+      "section": "attacks",
+      "headline": "JSR: twelve Arabs throw stones at settlers between Burqa and Tzur Harel",
+      "summary": "On 15 October JSR reported that twelve Arabs threw stones at eight Jewish residents between Burqa and Tzur Harel in Binyamin. The same JSR feed also recorded stones thrown at residents extinguishing a fire on the edge of Turmus Ayya on the evening of 14 October, with no injuries or damage reported. Both alerts are JSR's own account and were not matched to a second outlet before this edition.",
+      "source": "JSR (Yesha Council Situation Room)",
+      "date": "2026-10-15",
+      "url": "https://x.com/JSR_EN/status/2110640073309897110"
     }
   ],
   "highlight_count": 8,
@@ -1237,5 +1325,5 @@
     "lon": 34.8436,
     "timezone": "Asia/Jerusalem"
   },
-  "interim_label": "Interim update, 15 Oct, evening"
+  "interim_label": null
 }

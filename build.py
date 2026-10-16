@@ -399,7 +399,7 @@ def build(data, now):
     for i, d in enumerate(older):
         day = [it for it in items if it["edition"] == d]
         day.sort(key=lambda it: (list(SECTIONS).index(it["section"]), order[it["id"]]))
-        out.append(f'<details><summary>{e(weekday_date(date.fromisoformat(d)))}'
+        out.append(f'<details><summary>{e(weekday_date(date.fromisoformat(d[:10])))}'
                    f'<span class="n">{len(day)} items</span></summary><div class="day">')
         for it in day:
             out.append(f'<article class="story" id="{e(it["id"])}"><p class="sec">{e(SECTIONS[it["section"]])}</p>'
