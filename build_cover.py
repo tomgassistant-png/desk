@@ -201,6 +201,11 @@ def main():
         if s.get("useful_links"):
             side = ('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0;min-width:220px"><b>Useful links</b><ul style="margin:6px 0;padding-left:18px">'
                     + "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in s["useful_links"]) + '</ul></aside>')
+        if s["id"] == "trenton":
+            try:
+                import realestate; side = side + realestate.box()
+            except Exception as ex:
+                print("realestate box failed:", ex)
         if sidebar:
             rail = (bgbox if s.get("baseline") else "") + (polymarket_box(s["polymarket"]["slug"], s["polymarket"]["label"]) if s.get("polymarket") else "") + side
             out.append('<div class="cov-grid"><main>')
