@@ -219,6 +219,21 @@ def main():
             out.append(f'</main><aside class="rail">{rail}</aside></div>')
         out.append('</div></body></html>')
         write(os.path.join(ROOT, f'digest/{s["id"]}/index.html'), "".join(out))
+    bgp = os.path.join(ROOT, "digest/trenton/backgrounder.json")
+    if os.path.exists(bgp):
+        b = json.load(open(bgp, encoding="utf-8"))
+        o = [head(b["title"]), sitenav.nav("trenton", "../../../"),
+             f'<header class="masthead"><h1>{e(b["title"])}</h1><p class="dateline">Trenton backgrounder · {e(b["date"])} · <a href="../">Back to the Trenton section</a></p></header>']
+        if b.get("image"):
+            o.append(f'<figure style="margin:0 0 12px"><img src="../../../{e(b["image"])}" alt="{e(b["image_caption"])}" style="width:100%;max-height:340px;object-fit:cover;display:block">'
+                     f'<figcaption class="srcs">{e(b["image_caption"])} · Photo: <a href="{e(b["image_url"])}" target="_blank" rel="noopener">{e(b["image_credit"])}</a></figcaption></figure>')
+        o.append(f'<p class="summary"><b>{e(b["summary"])}</b></p>')
+        for part in b["parts"]:
+            o.append(f'<h2 class="edn">{e(part["h"])}</h2>' + "".join(f'<p class="summary">{e(x)}</p>' for x in part["p"]))
+            if part.get("note"): o.append(f'<p class="srcs"><i>{e(part["note"])}</i></p>')
+            o.append('<p class="srcs">Sources: ' + " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in part["sources"]) + '</p>')
+        o.append('</div></body></html>')
+        write(os.path.join(ROOT, "digest/trenton/backgrounder/index.html"), "".join(o))
     print(f"cover + {len(d['sections'])} sections built; edition {newest}, {len(items)} items")
 
 if __name__ == "__main__":

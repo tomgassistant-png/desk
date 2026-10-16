@@ -131,26 +131,34 @@
    "id": "trenton",
    "name": "Trenton",
    "own_edition": true,
-   "about": "Good news from the city of Trenton, New Jersey: economic recovery, development, investment, new businesses, housing, safety and a better life for residents. State government news is included only when it brings projects or money into the city. First edition: 16 October 2026, covering about 16 September to 16 October 2026.",
+   "about": "Private initiative and private investment in the city of Trenton, New Jersey: private developers, business openings, property sales to private buyers, private employers and private real estate deals. Government programs appear only where they are part of a private deal, and every public subsidy is labeled as such. Where private investment is absent, this section tries to explain why. Edition of 16 October 2026, covering about April to October 2026.",
    "header_image": {
     "image": "digest/trenton/img/header.jpg",
     "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 3.0",
     "image_url": "https://commons.wikimedia.org/wiki/File:2014-05-12_12_32_27_View_of_the_Trenton_Makes_Bridge_from_the_Trenton-Morrisville_Toll_Bridge_(U.S._Route_1)-cropped_2.JPG",
     "caption": "The “Trenton Makes, The World Takes” bridge over the Delaware River"
    },
-   "baseline": "Trenton, the capital of New Jersey, had an estimated 91,506 residents in July 2025, slightly more than the 90,871 counted in the 2020 census, and up from 84,913 in 2010. In the Census Bureau's 2020–2024 survey, the median household income was $52,537, about 21.6 percent of residents lived in poverty, 37.9 percent of homes were occupied by their owners, and 16.2 percent of adults held a bachelor's degree. The median value of an owner-occupied home was $160,700 in that survey; the city reports that the average sale price in 2026 so far is about $239,000. The city's current strategy rests on state and federal money for specific projects: the Choice Neighborhoods program in the North Ward, the repurchase of the empty downtown hotel, the sale of vacant city-owned houses, and grants to bring small businesses into the downtown.",
+   "baseline": "Private capital has been scarce in Trenton for decades. The city had an estimated 91,506 residents in 2025, a median household income of $52,537 and a poverty rate of 21.6 percent (Census Bureau). Its 2025 effective property tax rate, 3.468 percent, is the highest in Mercer County, compared with 2.434 percent in Hamilton and 1.814 percent in Princeton (New Jersey Treasury). Much of the city's land is exempt from tax because the state, the county, schools, churches and charities own it, so the tax burden falls on a narrow private base. State aid now supplies about half of the city's main operating revenue (Moody's). The private projects that do occur are mostly small businesses, warehouses on cheap land, and deals in which the government first absorbs part of the cost. See the backgrounder on city finances for the details and sources.",
    "baseline_updated": "16 October 2026",
    "baseline_sources": [
     {
-     "label": "U.S. Census Bureau QuickFacts: Trenton city",
+     "label": "U.S. Census QuickFacts",
      "url": "https://www.census.gov/quickfacts/fact/table/trentoncitynewjersey/PST045224"
     },
     {
-     "label": "City of Trenton (home prices, city figures)",
-     "url": "https://trentonjournal.com/trenton-home-values-continue-to-rise-as-real-estate-market-shows-strength/"
+     "label": "NJ Treasury 2025 tax rates",
+     "url": "https://www.nj.gov/treasury/taxation/pdf/lpt/gtr/2025taxrates.pdf"
+    },
+    {
+     "label": "Moody's, 1 May 2026 (via NJ Spotlight)",
+     "url": "https://www.njspotlightnews.org/wp-content/uploads/sites/123/2026/05/P22043881-P21555635-P22014518.pdf"
     }
    ],
    "useful_links": [
+    {
+     "label": "Backgrounder: city finances and property taxes",
+     "url": "backgrounder/"
+    },
     {
      "label": "City of Trenton news",
      "url": "https://www.trentonnj.org/"
@@ -928,128 +936,6 @@
    ]
   },
   {
-   "id": "trenton-marriott",
-   "headline": "Council votes to buy back the empty downtown Marriott with $4 million in state money",
-   "text": "On 6 October the City Council authorized the city to seek a $4 million grant from the New Jersey Economic Development Authority to buy the former Lafayette Yard Marriott at 1 West Lafayette Street. The purchase depends on receiving the grant, so the city's own money is not at risk. The city does not intend to run the hotel. It plans to hand the building to Tetrabilt, the redeveloper the Council has already chosen, to reopen it as a modern hotel for state government, businesses and conventions. The building has been closed for years; the vote does not complete the purchase.",
-   "sources": [
-    {
-     "name": "City of Trenton",
-     "url": "https://www.trentonnj.org/"
-    },
-    {
-     "name": "NJ.com",
-     "url": "https://www.nj.com/mercer/2026/10/nj-city-council-moves-to-reclaim-vacant-hotel-with-4m-in-state-funding.html"
-    },
-    {
-     "name": "Central Jersey Media",
-     "url": "https://centraljersey.media/featured/former-trenton-marriott-moves-closer-to-redevelopment/"
-    }
-   ],
-   "image": "digest/trenton/img/cityhall.jpg",
-   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
-   "image_url": "https://commons.wikimedia.org/wiki/File:2014-08-30_10_53_29_View_of_Trenton_City_Hall_in_Trenton,_New_Jersey_from_the_northwest.JPG",
-   "image_caption": "Trenton City Hall, where the Council voted (not the hotel)",
-   "section": "trenton",
-   "edition": "2026-10-16"
-  },
-  {
-   "id": "trenton-tha-senior",
-   "headline": "State awards up to $54.3 million for 107 affordable senior apartments in the North Ward",
-   "text": "The New Jersey Economic Development Authority approved an Aspire tax credit of up to $54.3 million, or 85 percent of the cost, for THA Senior, a four-story building planned for 800 Martin Luther King Jr. Boulevard. It will have 107 one-bedroom apartments for residents aged 62 and older, together with space for early childhood education, job training and senior services. The project also has a $900,000 federal Choice Neighborhoods grant and low-income housing tax credits. It is part of the city and Trenton Housing Authority plan to rebuild the North Ward. The award was announced on 17 September.",
-   "sources": [
-    {
-     "name": "NJEDA",
-     "url": "https://www.njeda.gov/njeda-approves-aspire-program-award-to-support-affordable-senior-housing-development-in-trenton/"
-    },
-    {
-     "name": "Central Jersey Media",
-     "url": "https://centraljersey.media/papers/trenton-downtowner/54-3-million-tax-credit-advances-trenton-senior-housing/"
-    }
-   ],
-   "image": "digest/trenton/img/mlk.jpg",
-   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
-   "image_url": "https://commons.wikimedia.org/wiki/File:2023-10-05_10_16_36_View_south_along_U.S._Route_1_Business_and_U.S._Route_206_southbound_(Martin_Luther_King,_Junior_Boulevard)_at_Chapel_Street_in_Trenton,_Mercer_County,_New_Jersey.jpg",
-   "image_caption": "Martin Luther King Jr. Boulevard in Trenton (2023)",
-   "section": "trenton",
-   "edition": "2026-10-16"
-  },
-  {
-   "id": "trenton-meridian",
-   "headline": "Meridian Furniture buys 10 acres on Enterprise Avenue for a warehouse expected to bring about 200 jobs",
-   "text": "On 15 September the City Council approved the sale of more than 10 acres of city land at 300 to 366 Enterprise Avenue to Meridian Furniture for $1 million. The company, founded in Trenton more than 20 years ago, plans a warehouse of about 220,000 square feet. The city expects about 200 jobs. The figure of 200 jobs comes from the city; the land sale and the size of the building are confirmed by public planning records.",
-   "sources": [
-    {
-     "name": "City of Trenton",
-     "url": "https://www.trentonnj.org/"
-    },
-    {
-     "name": "Quadratín Hispano",
-     "url": "https://quadratin.com/nueva-jersey/avalan-en-trenton-venta-de-terrenos-para-construir-campus-industrial/"
-    },
-    {
-     "name": "Trenton planning agenda",
-     "url": "https://www.trentonnj.org/AgendaCenter/ViewFile/Agenda/_01222026-856"
-    }
-   ],
-   "section": "trenton",
-   "edition": "2026-10-16"
-  },
-  {
-   "id": "trenton-property-program",
-   "headline": "City offers 28 abandoned homes and buildings for sale, with priority for buyers who will live in them",
-   "text": "From 1 to 30 October the city is taking online applications for 28 city-owned properties in all four wards. Many need major repairs, and the city has published photographs of each one. Priority goes to buyers who will repair the property and live in it. The mayor said the goal is to get each building fixed, occupied and back on the tax rolls.",
-   "sources": [
-    {
-     "name": "City of Trenton release, 30 Sep",
-     "url": "https://www.collaborationtrenton.com/TCCA/20260930_CityPropertyPurchase.pdf"
-    },
-    {
-     "name": "New Jersey Globe",
-     "url": "https://newjerseyglobe.com/local/trenton-to-offer-28-city-owned-properties-for-purchase/"
-    }
-   ],
-   "section": "trenton",
-   "edition": "2026-10-16"
-  },
-  {
-   "id": "trenton-home-values",
-   "headline": "City says average home sale price has risen 5.8 percent this year",
-   "text": "According to the city, Multiple Listing Service data show the average sale price of a Trenton home rose from about $226,000 in 2025 to about $239,000 so far in 2026. Unconfirmed: this is the city's own reading of the data, and the outlets that reported it repeated the city's figures. Realtor.com and Redfin show recent median sale prices near $250,000, which is consistent with a rising market but is not the same measure.",
-   "sources": [
-    {
-     "name": "Trenton Journal",
-     "url": "https://trentonjournal.com/trenton-home-values-continue-to-rise-as-real-estate-market-shows-strength/"
-    },
-    {
-     "name": "Redfin",
-     "url": "https://www.redfin.com/city/18807/NJ/Trenton/housing-market"
-    }
-   ],
-   "section": "trenton",
-   "edition": "2026-10-16"
-  },
-  {
-   "id": "trenton-ironhawks",
-   "headline": "Trenton's new professional hockey team, the Ironhawks, plays its first home game on 24 October",
-   "text": "The Trenton Ironhawks, a new ECHL team affiliated with the New York Islanders, open their first season at CURE Insurance Arena on Saturday, 24 October, at 6:00 PM against the Adirondack Thunder. The team will play 36 home games in the city, which brings visitors downtown on game nights.",
-   "sources": [
-    {
-     "name": "Trenton Ironhawks",
-     "url": "https://trentonironhawks.com/news/2026/05/trenton-ironhawks-announce-inaugural-season-schedule"
-    },
-    {
-     "name": "CURE Insurance Arena",
-     "url": "https://www.cureinsurancearena.com/events/detail/trenton-ironhawks-vs-adirondack-thunder"
-    }
-   ],
-   "image": "digest/trenton/img/arena.jpg",
-   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
-   "image_url": "https://commons.wikimedia.org/wiki/File:2023-10-13_13_40_11_The_northwest_side_of_CURE_Insurance_Arena_including_Gate_B_along_Mercer_County_Route_606_(Hamilton_Avenue)_in_Trenton,_Mercer_County,_New_Jersey.jpg",
-   "image_caption": "CURE Insurance Arena, Trenton (2023)",
-   "section": "trenton",
-   "edition": "2026-10-16"
-  },
-  {
    "id": "2026-10-16-france-election-1",
    "edition": "2026-10-16",
    "section": "france-election",
@@ -1208,6 +1094,128 @@
      "url": "https://polymarket.com/event/next-french-presidential-election"
     }
    ]
+  },
+  {
+   "id": "trenton-meridian",
+   "headline": "Meridian Furniture, a private Trenton company, buys 10 acres for a 220,000-square-foot warehouse",
+   "text": "On 15 September the City Council approved the sale of more than 10 acres of city land at 300 to 366 Enterprise Avenue to Meridian Furniture for $1 million. The company, founded in Trenton more than 20 years ago, will build a warehouse of about 220,000 square feet with its own money. Public element: the land was sold by the city. The city expects about 200 jobs; that figure comes only from the city. The land sale and the size of the building are confirmed by public planning records.",
+   "sources": [
+    {
+     "name": "City of Trenton",
+     "url": "https://www.trentonnj.org/"
+    },
+    {
+     "name": "Quadratín Hispano",
+     "url": "https://quadratin.com/nueva-jersey/avalan-en-trenton-venta-de-terrenos-para-construir-campus-industrial/"
+    },
+    {
+     "name": "Trenton planning agenda",
+     "url": "https://www.trentonnj.org/AgendaCenter/ViewFile/Agenda/_01222026-856"
+    }
+   ],
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-rojos",
+   "headline": "Rojo's Roastery invests about $933,000 to turn the empty downtown Starbucks into a roastery, bakery and café",
+   "text": "Joanne Canady-Brown, who owns Rojo's Roastery in Princeton and the Gingered Peach bakery in Lawrence, is converting the former Starbucks at 102 South Warren Street, closed since the pandemic, into a coffee roasting plant, bakery and café. The project includes about $933,000 in construction and equipment, and the owner has targeted late fall 2026 for opening. Public subsidy: on 23 June the Capital City Redevelopment Corporation, a state agency, approved a reimbursable grant of up to $493,000, which is about half the stated cost.",
+   "sources": [
+    {
+     "name": "Trenton Journal",
+     "url": "https://trentonjournal.com/mayor-gusciora-welcomes-ccrc-approval-of-small-business-attraction-award-for-rojos-roasterymayor-gusciora-welcomes-ccrc-approval-of-small-business-attraction-award-for-rojos-roastery/"
+    },
+    {
+     "name": "Insider NJ",
+     "url": "https://www.insidernj.com/coffee-master-canady-brown-transforming-old-starbucks-space/"
+    }
+   ],
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-marriott",
+   "headline": "Private developer Tetrabilt is in line to reopen the empty downtown Marriott after the city buys it with state money",
+   "text": "On 6 October the City Council authorized the city to seek a $4 million state grant to buy the former Lafayette Yard Marriott, which has been closed for years. The city then plans to transfer it to Tetrabilt, a private developer the Council has already designated, to reopen it as a hotel. Public subsidy: the purchase price is paid entirely with the $4 million grant from the New Jersey Economic Development Authority. Private element: renovation and operation would be Tetrabilt's. Unconfirmed: a report of a council presentation says Tetrabilt proposed a renovation of about $25 million that would reduce the rooms from 197 to 170; no second source states the amount. No transfer agreement has been signed.",
+   "sources": [
+    {
+     "name": "NJ.com",
+     "url": "https://www.nj.com/mercer/2026/10/nj-city-council-moves-to-reclaim-vacant-hotel-with-4m-in-state-funding.html"
+    },
+    {
+     "name": "Central Jersey Media",
+     "url": "https://centraljersey.media/featured/former-trenton-marriott-moves-closer-to-redevelopment/"
+    },
+    {
+     "name": "Citizen Portal (the $25 million figure)",
+     "url": "https://citizenportal.ai/articles/6657753/new-jersey/mercer-county/trenton/developer-outlines-25-million-plan-to-revive-trenton-downtown-hotel-council-sets-july-31-proposal-cutoff"
+    }
+   ],
+   "image": "digest/trenton/img/cityhall.jpg",
+   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
+   "image_url": "https://commons.wikimedia.org/wiki/File:2014-08-30_10_53_29_View_of_Trenton_City_Hall_in_Trenton,_New_Jersey_from_the_northwest.JPG",
+   "image_caption": "Trenton City Hall, where the Council voted (not the hotel)",
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-ironhawks",
+   "headline": "Privately owned Ironhawks hockey team begins play in Trenton on 24 October",
+   "text": "The Trenton Ironhawks, a new ECHL team, open their first season at CURE Insurance Arena on 24 October against the Adirondack Thunder and will play 36 home games. The team is owned by Pro Hockey Partners, a private group of partners led by Joe Eng. Public element: the arena itself is publicly owned by Mercer County (not independently checked for this item).",
+   "sources": [
+    {
+     "name": "Central Jersey Media",
+     "url": "https://centraljersey.media/featured/ironhawks-forge-ahead-toward-opening-night/"
+    },
+    {
+     "name": "Trenton Ironhawks",
+     "url": "https://trentonironhawks.com/news/2026/05/trenton-ironhawks-announce-inaugural-season-schedule"
+    },
+    {
+     "name": "CURE Insurance Arena",
+     "url": "https://www.cureinsurancearena.com/events/detail/trenton-ironhawks-vs-adirondack-thunder"
+    }
+   ],
+   "image": "digest/trenton/img/arena.jpg",
+   "image_credit": "Famartin / Wikimedia Commons, CC BY-SA 4.0",
+   "image_url": "https://commons.wikimedia.org/wiki/File:2023-10-13_13_40_11_The_northwest_side_of_CURE_Insurance_Arena_including_Gate_B_along_Mercer_County_Route_606_(Hamilton_Avenue)_in_Trenton,_Mercer_County,_New_Jersey.jpg",
+   "image_caption": "CURE Insurance Arena, Trenton (2023)",
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-property-program",
+   "headline": "28 abandoned city-owned buildings offered to private buyers who will repair them",
+   "text": "From 1 to 30 October the city is taking applications from private buyers for 28 city-owned houses and buildings in all four wards. Many need major repairs, and buyers who will repair a property and live in it receive priority. This is a government sale, but the money and labor of repair would be private. How many buyers apply is the test of private interest; results have not been reported.",
+   "sources": [
+    {
+     "name": "City of Trenton release, 30 Sep",
+     "url": "https://www.collaborationtrenton.com/TCCA/20260930_CityPropertyPurchase.pdf"
+    },
+    {
+     "name": "New Jersey Globe",
+     "url": "https://newjerseyglobe.com/local/trenton-to-offer-28-city-owned-properties-for-purchase/"
+    }
+   ],
+   "section": "trenton",
+   "edition": "2026-10-16"
+  },
+  {
+   "id": "trenton-home-values",
+   "headline": "Private home buyers are paying more: city reports average sale price up 5.8 percent",
+   "text": "According to the city, Multiple Listing Service data show the average sale price of a Trenton home rose from about $226,000 in 2025 to about $239,000 so far in 2026. Unconfirmed: this is the city's own reading of the data. Redfin shows recent median sale prices near $250,000, which is consistent with rising private demand but is not the same measure.",
+   "sources": [
+    {
+     "name": "Trenton Journal",
+     "url": "https://trentonjournal.com/trenton-home-values-continue-to-rise-as-real-estate-market-shows-strength/"
+    },
+    {
+     "name": "Redfin",
+     "url": "https://www.redfin.com/city/18807/NJ/Trenton/housing-market"
+    }
+   ],
+   "section": "trenton",
+   "edition": "2026-10-16"
   }
  ]
 }
