@@ -198,13 +198,13 @@
     "slug": "next-french-presidential-election",
     "label": "Next French presidential election, winner"
    },
-   "baseline_updated": "16 October 2026",
+   "baseline_updated": "17 October 2026",
    "baseline": [
     "Dates. The Council of Ministers fixed the dates on 1 July 2026: the first round is on Sunday, 18 April 2027, and the second round on Sunday, 2 May 2027. Voters in Guadeloupe, Martinique, French Guiana, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin and French Polynesia vote one day earlier. The formal decree that convenes the voters has not yet been published; it must appear at least ten weeks before the first round, that is, by about 7 February 2027. If no candidate wins more than half of the votes cast in the first round, the two leaders meet in the second round two weeks later.",
     "Getting on the ballot. A candidate needs at least 500 signed sponsorships (parrainages) from elected officials, chiefly mayors, but also members of parliament, departmental and regional councilors and others. The 500 must come from at least 30 departments or overseas territories, with no more than one tenth from any one of them. The forms are sent out after the decree is published, and the deadline is calculated to fall on about 12 March 2027 (a calculation from the law, not yet an official date). The Constitutional Council then publishes the official list of candidates and the names of the sponsors.",
     "Macron. Emmanuel Macron, elected in 2017 and re-elected in 2022, cannot run, because the Constitution limits a president to two consecutive terms.",
     "Candidates. National Rally (RN): Marine Le Pen, who announced on 7 July 2026 that she will run for a fourth time, with Jordan Bardella as her heir if she cannot. The center and Macron's former camp: Édouard Philippe (Horizons, declared since September 2024) and Gabriel Attal (Renaissance, declared in May 2026). The Republicans (LR): Bruno Retailleau, designated by the party in April 2026; David Lisnard, mayor of Cannes, also declared, in March 2026. Radical left: Jean-Luc Mélenchon (La France insoumise), declared in May 2026. Social-democratic left: Raphaël Glucksmann (Place publique), who won the joint primary of the Socialist Party, Place publique and the Gauche républicaine et socialiste on 11 October 2026 with 66.2 percent. Others tested in polls or declared include Éric Zemmour or Sarah Knafo (Reconquête), Fabien Roussel (Communists), Marine Tondelier (Greens), Nicolas Dupont-Aignan, Nathalie Arthaud, François Ruffin, Dominique de Villepin, the essayist Natacha Polony (declared 14 October 2026), and former president François Hollande, who has not ruled out a run. The month in which Philippe and Attal declared is taken from summaries and is unconfirmed.",
-    "Polls. Every recent poll puts Le Pen far ahead in the first round, and the race is for second place. Ifop-Fiducial for LCI and Sud Radio (12–14 October, 1,390 people): Le Pen 34 percent, Mélenchon 16, Philippe 14, Glucksmann 14, Attal 6 in the central scenario; without Attal, Philippe rises to 18. Odoxa (published 14 October): Le Pen 37 to 38, Mélenchon about 18, Philippe 17. Toluna Harris Interactive (12 October): Le Pen 37, Mélenchon 19. Elabe for BFMTV (26–28 August, the latest Elabe): Le Pen 34 to 35.5; in the second round she would beat Mélenchon 69.5 to 30.5 and Glucksmann and Attal 57 to 43 each, and would beat Philippe only narrowly, 52.5 to 47.5. OpinionWay (15 September) and Ipsos BVA (13 September) also had Le Pen at 34 to 35. The Odoxa and Harris figures come from poll aggregators, not from the pollsters' own reports, and are unconfirmed in detail.",
+    "Polls. Every recent poll puts Le Pen far ahead in the first round, and the race is for second place. OpinionWay (13–14 October, after the left's primary; 978 registered voters): Le Pen 35 to 37 percent depending on the centrist candidate, with Mélenchon at 14 to 15, Glucksmann at 13 to 16 (up four to five points) and Philippe at 12 to 15 (his lowest in the series); in the second round Le Pen beats Philippe 56 to 44, Glucksmann 56 to 44 and Mélenchon 68 to 32. Ifop-Fiducial for LCI and Sud Radio (12–14 October, 1,390 people): Le Pen 34, Mélenchon 16, Philippe 14, Glucksmann 14, Attal 6 in the central scenario; without Attal, Philippe rises to 18. Odoxa (published 14 October): Le Pen 37 to 38, Mélenchon about 18, Philippe 17. Toluna Harris Interactive (12 October): Le Pen 37, Mélenchon 19. Elabe for BFMTV (26–28 August, the latest Elabe vote-intention poll): Le Pen 34 to 35.5, and she would beat Philippe only narrowly in the second round, 52.5 to 47.5, a much closer result than OpinionWay's in October. The Odoxa and Harris figures come from poll aggregators, not from the pollsters' own reports, and are unconfirmed in detail.",
     "Parliament and government. Since the snap elections of July 2024 the National Assembly has had no majority. The National Rally is the largest group, with about 118 to 119 of the 577 seats; the government's base (Renaissance/EPR, Horizons, the Democrats/MoDem and LR) is split and well short of a majority, and 289 votes bring down a government. Sébastien Lecornu has been prime minister since September 2025; his second government survived two censure motions on the 2026 budget in January 2026 (the La France insoumise motion received 269 votes). He presented the 2027 budget on 1 October 2026, again without a majority, and may have to use Article 49.3, which would expose him to a censure vote, or budget ordinances, which have never been used.",
     "Le Pen's case. On 31 March 2025 a Paris court convicted Le Pen of embezzling European Parliament funds to pay party staff and banned her from office for five years with immediate effect, which would have kept her out of the race. On 7 July 2026 the Paris Court of Appeal upheld the conviction but cut the ban to 45 months, of which 30 are suspended. It ruled that the 15 months to be served had already run since 31 March 2025, so she is eligible. It also sentenced her to three years in prison, two suspended and one to be served with an electronic tag, and a fine of 100,000 euros. She appealed to the Court of Cassation, which suspends the sentence, including the tag. Her lawyers' written arguments were due by 15 October 2026. No hearing date has been set; a ruling is expected before the first round, possibly in early April 2027 (unconfirmed)."
    ],
@@ -228,6 +228,14 @@
     {
      "label": "franceinfo: cassation timetable",
      "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/les-avocats-de-marine-le-pen-ont-jusqu-au-15-octobre-pour-justifier-le-pourvoi-dans-l-affaire-des-assistants-d-eurodeputes-fn_8177831.html"
+    },
+    {
+     "label": "OpinionWay for Les Echos, 15 Oct",
+     "url": "https://www.opinion-way.com/fr/publications/presitrack-2027-vague-3-2026-24530/"
+    },
+    {
+     "label": "OpinionWay for CNEWS, 15 Oct (PDF)",
+     "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-15-octobre-2026.pdf"
     },
     {
      "label": "L'Opinion: Ifop poll, 14 Oct",
@@ -292,6 +300,10 @@
   "2026-10-16": {
    "intro": "The main items are three Israeli polls that still leave both blocs short of 61 (Zman Yisrael: Eisenkot camp 54, Netanyahu 49, Yashar 26–Likud 20; Channel 13 Madad: 51–50 with Hendel and Winter both at four; Israel Hayom: change 52, right 50, Yashar 24), Netanyahu's refusal to give Ben-Gvir Defense or National Security, Lieberman's rejection of a minority government, an Israel Hayom unity-government report that Ambassador Huckabee denied, Colombia's exit from the Hague Group, Datafolha's Brazil runoff (Flávio 47%, Lula 45%), the PQ swearing-in in Quebec, EUSM Lebanon force-generation (Italy, France, Spain), Grok Voice 3.0, The X Subscription, and Cursor's reported Sand training review.",
    "quiet": "Nothing material on Israeli data centers, non-Latin script digitization, the Carney case, Belle Burden, Trump and Xi, Nick Land, UK breakup politics, HaShiloach or Greenland. On the EUSM Lebanon watch: no new official statement from the Foreign Ministry, the Prime Minister's Office or the IDF responding to the mission was found; contribution plans for Italy, France and Spain are reported above."
+  },
+  "2026-10-17": {
+   "intro": "The main items are a Maariv poll that ties the Israeli blocs at 51 with Likud down to 18, Channel 12's poll giving anti-Netanyahu parties 49 percent to 37, the close of surplus-vote deals with Ben-Gvir, Winter and Hendel–Zelekha left alone, two Brazil runoff polls within the margin of error as Flávio Bolsonaro's Polymarket odds fall to about 78 percent, Hezbollah's claim to the seized explosives, Burnham's refusal of a second Scottish referendum, Greenland's vote to prepare a seabed-mining ban, Israel's planned 200-megawatt cap on data centers, China's approval of Visa and first post-summit soybean purchases, and a SpaceX official's testimony on Grok to the New York City Council.",
+   "quiet": "Nothing material on non-Latin script digitization, the Carney case, Belle Burden, Nick Land or HaShiloach. On the EUSM Lebanon watch: no new Israeli official or unofficial reaction and no new contributing countries were found; the mission is established but not yet activated."
   }
  },
  "items": [
@@ -1317,6 +1329,480 @@
    ],
    "section": "trenton",
    "edition": "2026-10-16"
+  },
+  {
+   "id": "2026-10-17-israel-election-1",
+   "edition": "2026-10-17",
+   "section": "israel-election",
+   "headline": "Maariv poll: blocs tied at 51, Likud falls to 18, Arab parties reach 14",
+   "lead": "A Maariv poll by Lazar Research with Panel4All (700 respondents, 14–15 October, margin of error 3.7 points), published on 16 October, puts Gadi Eisenkot's Yashar at 21 seats and Likud at 18, down two from the previous week.",
+   "text": "A Maariv poll by Lazar Research with Panel4All (700 respondents, 14–15 October, margin of error 3.7 points), published on 16 October, puts Gadi Eisenkot's Yashar at 21 seats and Likud at 18, down two from the previous week. The other parties: Bennett's Beyachad 13, the Democrats 9, United Torah Judaism 8, Otzma Yehudit 8, Yisrael Beytenu 8, the Joint List 8, Shas 7, Religious Zionism 6, Ra'am 6, Ofer Winter's Amcha Yisrael 4 and the Hendel–Zelekha Reservists 4. The Netanyahu bloc and the Zionist opposition have 51 seats each; the Arab parties together have 14, their highest in this poll series; the Reservists (4) are not counted in either bloc, and neither bloc would reach 61 even with them. Asked what should happen if the result is inconclusive, 55 percent prefer a unity government and 27 percent another election (18 percent do not know). As prime minister, Eisenkot leads Netanyahu 48 to 41; Netanyahu and Bennett are tied at 43; Netanyahu leads Lieberman 43 to 37. The share of undecided voters was 5.2 percent.",
+   "sources": [
+    {
+     "name": "Maariv",
+     "url": "https://www.maariv.co.il/news/elections-2026/article-1377736"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-911902"
+    },
+    {
+     "name": "Anadolu Agency",
+     "url": "https://www.aa.com.tr/en/middle-east/netanyahu-opposition-blocs-tied-as-55-back-unity-government-if-election-inconclusive-poll/4091152"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-israel-election-2",
+   "edition": "2026-10-17",
+   "section": "israel-election",
+   "headline": "Channel 12 Friday poll: anti-Netanyahu parties 49 percent, Netanyahu bloc 37",
+   "lead": "A Channel 12 poll by Midgam (Mano Geva) for the Friday program Ulpan Shishi, taken on 15 October among 503 respondents (margin of error 4.4 points), found 49 percent support for the parties opposed to Netanyahu, including the Arab parties, against 37 percent for the Netanyahu bloc, including Winter's party.",
+   "text": "A Channel 12 poll by Midgam (Mano Geva) for the Friday program Ulpan Shishi, taken on 15 October among 503 respondents (margin of error 4.4 points), found 49 percent support for the parties opposed to Netanyahu, including the Arab parties, against 37 percent for the Netanyahu bloc, including Winter's party. Fifty-eight percent prefer a prime minister other than Netanyahu and 35 percent prefer Netanyahu. Eight percent are still undecided, but only 3.7 percent are undecided between the blocs or do not know, down from 5.4 percent in the previous poll; 77 percent say they intend to vote. In head-to-head comparisons, Eisenkot and Bennett are each seen as more trustworthy and better on security and the cost of living than Netanyahu, except among coalition voters. Asked whom they believe in the dispute between Netanyahu and the former Shin Bet head Ronen Bar, 43 percent chose Bar and 34 percent Netanyahu. This release gave vote shares by bloc, not a seat count.",
+   "sources": [
+    {
+     "name": "N12 (Channel 12)",
+     "url": "https://www.mako.co.il/news-israel-elections/2026/Article-27654c3e60541a1026.htm"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-israel-election-3",
+   "edition": "2026-10-17",
+   "section": "israel-election",
+   "headline": "Surplus-vote deadline passes: Ben-Gvir, Winter and Hendel–Zelekha are left without partners",
+   "lead": "The deadline for surplus-vote agreements passed at noon on Friday, 16 October (the law allowed digital filing until the end of the day, so the final list awaits publication by the Central Elections Committee).",
+   "text": "The deadline for surplus-vote agreements passed at noon on Friday, 16 October (the law allowed digital filing until the end of the day, so the final list awaits publication by the Central Elections Committee). Five pairs were reported as signed: Beyachad with Yisrael Beytenu, Yashar with the Democrats, the Joint List with Ra'am, Likud with Religious Zionism, and Shas with United Torah Judaism. Itamar Ben-Gvir's Otzma Yehudit, Ofer Winter's Amcha Yisrael and the Hendel–Zelekha Reservists signed with no one. Ben-Gvir repeated that he would not sign with Winter, whom he calls 'Bennett 2.' Hendel and Zelekha said they offered Winter a deal on condition that he commit to sit only in a 'Zionist' government and that he refused; Winter's party denied that any contact took place. A party without an agreement does not lose its surplus votes, but it competes alone for the remaining seats. Separately, voting at Israel's missions abroad has closed with a turnout of 86.7 percent, up from about 69 percent in 2022, according to the Elections Committee as quoted in the press; this is a small group of about 4,800 diplomats and staff and does not indicate national turnout.",
+   "sources": [
+    {
+     "name": "Ynet",
+     "url": "https://www.ynet.co.il/news/elections2026/article/hjextlj2gl"
+    },
+    {
+     "name": "N12",
+     "url": "https://www.mako.co.il/news-israel-elections/2026/Article-21fc14d1d9341a1027.htm"
+    },
+    {
+     "name": "Madad 120",
+     "url": "https://madad120.co.il/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-israel-election-4",
+   "edition": "2026-10-17",
+   "section": "israel-election",
+   "headline": "Polymarket: Eisenkot reaches about 50 percent",
+   "lead": "On Polymarket's market for Israel's next prime minister (about $47 million traded), Gadi Eisenkot stood at about 50 percent on the morning of 17 October, up from about 48 percent on 15 October.",
+   "text": "On Polymarket's market for Israel's next prime minister (about $47 million traded), Gadi Eisenkot stood at about 50 percent on the morning of 17 October, up from about 48 percent on 15 October. Netanyahu rose from about 27 to about 29.5 percent; Bennett fell slightly, from about 14 to about 13.5; Lieberman is at about 3.",
+   "sources": [
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-lebanon-1",
+   "edition": "2026-10-17",
+   "section": "lebanon",
+   "headline": "Hezbollah admits the seized explosives are its own and demands them back; Rubio says that is 'out of the question'",
+   "lead": "On 15 October the Hezbollah member of parliament Hassan Fadlallah acknowledged that the explosives seized by the Lebanese army on 5 October at the Dahr al-Baidar checkpoint belong to Hezbollah.",
+   "text": "On 15 October the Hezbollah member of parliament Hassan Fadlallah acknowledged that the explosives seized by the Lebanese army on 5 October at the Dahr al-Baidar checkpoint belong to Hezbollah. According to a judicial source, the shipment held 500 kilograms of explosives: 250 kilograms of TNT and 250 kilograms of C-4. Hezbollah demanded that the explosives be returned and that the two men detained with them be released, said the material was meant for use against Israel, and warned the authorities. Prime Minister Nawaf Salam promised firm action and noted that C-4 has been used in past political assassinations in Lebanon. Lebanon has seized three shipments of explosives since the start of October. In a phone call with President Joseph Aoun, US Secretary of State Marco Rubio said that returning the explosives to Hezbollah is 'out of the question' and that everyone who ordered, financed and directed the shipment should be held accountable; he also criticized Lebanon's 1955 law boycotting Israel and urged direct military-to-military communication with Israel to avoid incidents. On 16 October the IDF carried out air strikes in southern Lebanon; the Home Front Command told Galilee residents they might hear explosions, and the IDF fired an interceptor at a suspicious aerial target (no sirens sounded).",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/16/division-in-lebanon-over-hezbollahs-confiscated-explosives"
+    },
+    {
+     "name": "Middle East Monitor",
+     "url": "https://www.middleeastmonitor.com/20261016-hezbollah-acknowledges-ownership-of-explosives-seized-by-lebanese-authorities/"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://www.i24news.tv/en/news/middle-east/artc-sec-rubio-urges-direct-military-to-military-communication-between-lebanon-and-israel-live-blog"
+    },
+    {
+     "name": "Walla",
+     "url": "https://www.walla.co.il/news/breaking-news/383957681"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-lebanon-2",
+   "edition": "2026-10-17",
+   "section": "lebanon",
+   "headline": "EUSM Lebanon watch: no Israeli reaction yet; the mission is established but not yet launched",
+   "lead": "No new Israeli official or unofficial reaction to the EU Support Mission in Lebanon was found since the last edition, in Hebrew or English media or on X, and no further contributing countries have been named beyond Italy, France and Spain.",
+   "text": "No new Israeli official or unofficial reaction to the EU Support Mission in Lebanon was found since the last edition, in Hebrew or English media or on X, and no further contributing countries have been named beyond Italy, France and Spain. The Israeli defense site Military Ledger (15 October) points out that the Council decision of 12 October established the mission but did not launch it: activation needs a separate Council decision. According to the same report, the budget for the first six months is €4,303,135.85 for civilian costs and €2,880,000 for common military costs, and no number of personnel has yet been approved. The budget figures are from this one report and are unconfirmed.",
+   "sources": [
+    {
+     "name": "Military Ledger (Hebrew)",
+     "url": "https://militaryledger.com/he/news/eusm-lebanon-established-launch-pending/"
+    },
+    {
+     "name": "Council of the EU",
+     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/lebanon-eu-establishes-new-csdp-support-mission-to-strengthen-defence-and-security-institutions/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-brazil-1",
+   "edition": "2026-10-17",
+   "section": "brazil",
+   "headline": "Two new runoff polls: Flávio Bolsonaro barely ahead, within the margin of error",
+   "lead": "Two polls published on 16 October show the 25 October runoff almost even.",
+   "text": "Two polls published on 16 October show the 25 October runoff almost even. CNT/MDA, its first runoff poll (2,014 face-to-face interviews, 13–15 October, margin of error 2.2 points, registered with the electoral court as BR-00652/2026), gives Flávio Bolsonaro 50.5 percent of valid votes and Lula 49.5; counting all answers, 46.8 to 45.9, with 4.9 percent blank or null and 2.4 percent undecided. Fewer voters reject Flávio than Lula: 46.6 percent say they would not vote for Flávio and 48.8 percent would not vote for Lula. Futura Inteligência (2,000 interviews, 14–15 October, margin of error 2.2 points, BR-03764/2026) gives Flávio 50.8 percent of valid votes and Lula 49.2, a narrower lead than its 51.8 to 48.2 of 13 October; its rejection figures are Lula 47.2 and Flávio 46.1. Both results are within the margin of error, as was Datafolha's 47 to 45 in the previous edition.",
+   "sources": [
+    {
+     "name": "UOL",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/10/16/cntmda-pesquisa-presidencial-2-turno.ghtm"
+    },
+    {
+     "name": "Exame",
+     "url": "https://exame.com/brasil/futura-flavio-tem-508-e-lula-492-no-2o-turno/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-brazil-2",
+   "edition": "2026-10-17",
+   "section": "brazil",
+   "headline": "Polymarket: Flávio Bolsonaro falls to about 78 percent",
+   "lead": "On Polymarket's Brazil presidential election market (about $185 million traded), Flávio Bolsonaro fell to about 78 percent on 17 October, from about 84 percent on 15 October; Lula rose to about 21.5 percent.",
+   "text": "On Polymarket's Brazil presidential election market (about $185 million traded), Flávio Bolsonaro fell to about 78 percent on 17 October, from about 84 percent on 15 October; Lula rose to about 21.5 percent. The market still favors Flávio more strongly than the polls, which show a contest within the margin of error.",
+   "sources": [
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/brazil-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-colombia-and-israel-1",
+   "edition": "2026-10-17",
+   "section": "colombia-and-israel",
+   "headline": "Colombian foreign minister ends Israel visit with Herzog; tourist visa exemption restored",
+   "lead": "Foreign Minister Omar Bula Escobar ended his four-day official visit to Israel on 16 October with a meeting with President Isaac Herzog.",
+   "text": "Foreign Minister Omar Bula Escobar ended his four-day official visit to Israel on 16 October with a meeting with President Isaac Herzog. According to the Colombian Foreign Ministry, they discussed cooperation in security, defense, trade, investment, artificial intelligence, agriculture and water. The two countries restored the mutual exemption from tourist visas and have designated ambassadors; the minister also visited the Old City of Jerusalem and the Western Wall. Infobae reports that Colombia has recognized Israeli sovereignty over the Golan Heights, which it describes as a position shared only by the United States; this was not found in the Colombian ministry's statement and is unconfirmed. Infobae calls Colombia the eleventh country with an embassy in Jerusalem, while the earlier report used here said the tenth; the correct count is unconfirmed. Infobae also reports condemnations of the visit from Iran, Egypt, Kuwait, Turkey and the Arab Parliament.",
+   "sources": [
+    {
+     "name": "Cancillería de Colombia",
+     "url": "https://www.cancilleria.gov.co/sala-de-prensa/noticias/canciller-omar-bula-culmina-visita-oficial-israel-con-reunion-de-alto-nivel-con-el-presidente-isaac-herzog"
+    },
+    {
+     "name": "Infobae",
+     "url": "https://www.infobae.com/colombia/2026/10/16/canciller-omar-bula-se-reunio-con-el-presidente-de-israel-isaac-herzog-una-nueva-etapa-de-cooperacion/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-spacex-xai-and-cursor-1",
+   "edition": "2026-10-17",
+   "section": "spacex-xai-and-cursor",
+   "headline": "SpaceX AI official testifies to the New York City Council on Grok safety",
+   "lead": "On 16 October Gabriela Castillo Madrid, head of government affairs for SpaceX's AI business, testified by video to a New York City Council hearing on AI safety, after the Council threatened to enforce a subpoena.",
+   "text": "On 16 October Gabriela Castillo Madrid, head of government affairs for SpaceX's AI business, testified by video to a New York City Council hearing on AI safety, after the Council threatened to enforce a subpoena. Council Speaker Julie Menin said that she had used Grok that morning to produce a sexualized image of herself. Devin Kim, a former xAI employee who is now president of the Center for AI Safety, testified that the company had only three AI-safety staff and that his concerns had been dismissed. The Grok Bot changelog shows no new release since version 0.70.2 of 11 October.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html"
+    },
+    {
+     "name": "amNY",
+     "url": "https://www.amny.com/politics/menin-spacexai-grok-sexualized-image/"
+    },
+    {
+     "name": "Grok Bot changelog",
+     "url": "https://x.ai/changelog/bot"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-spacex-xai-and-cursor-2",
+   "edition": "2026-10-17",
+   "section": "spacex-xai-and-cursor",
+   "headline": "SpaceX will report third-quarter results on 20 October",
+   "lead": "SpaceX will publish its results for the third quarter of 2026 after the market closes on Tuesday, 20 October, and will hold a webcast at 4:30 p.m.",
+   "text": "SpaceX will publish its results for the third quarter of 2026 after the market closes on Tuesday, 20 October, and will hold a webcast at 4:30 p.m. Eastern time (11:30 p.m. Israel time).",
+   "sources": [
+    {
+     "name": "SpaceX investor relations",
+     "url": "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Post-Third-Quarter-2026-Results-and-Host-Webcast-on-October-20-2026-2026-QssQGye3im/default.aspx"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-spacex-xai-and-cursor-3",
+   "edition": "2026-10-17",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Cursor: cloud agents can build shareable canvases; Environments API in beta",
+   "lead": "Cursor's changelog of 16 October says cloud agents can now build interactive canvases and share them by link.",
+   "text": "Cursor's changelog of 16 October says cloud agents can now build interactive canvases and share them by link. An Environments API is available in beta, environments can include up to 300 repositories, and large environments load five times faster.",
+   "sources": [
+    {
+     "name": "Cursor changelog",
+     "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-israeli-data-centers-1",
+   "edition": "2026-10-17",
+   "section": "israeli-data-centers",
+   "headline": "Electricity Authority plans a 200-megawatt cap per new data center; decision due Sunday",
+   "lead": "Israel's Electricity Authority plans to limit each new data center to 200 megawatts and to publish the draft for three weeks of public comment, starting on Sunday, 18 October, Calcalist reported on 14 October.",
+   "text": "Israel's Electricity Authority plans to limit each new data center to 200 megawatts and to publish the draft for three weeks of public comment, starting on Sunday, 18 October, Calcalist reported on 14 October. Requests to connect data centers to the grid total about 27,000 megawatts, against installed generating capacity of about 18,800 megawatts; average demand is about 9,000 megawatts and the record peak was 17,300 megawatts in August 2025. Fifty of the requested facilities are larger than 200 megawatts, among them Mega DC (1,100 megawatts, on the former Alliance tire factory site in Hadera) and SDS (875 megawatts, in Nesher). New applications were frozen for 140 days from June, and the authority estimates data centers could use about 20 percent of national electricity by 2030. According to reports in TheMarker and The State of Israel, members of the authority differ on the total capacity to allow through 2035, from several hundred megawatts to about one gigawatt, against requests of up to 2.3 gigawatts; proposals include construction deadlines and guarantees of NIS 2 million per megawatt, and only a partial decision is expected on Sunday.",
+   "sources": [
+    {
+     "name": "Calcalist (Ctech)",
+     "url": "https://www.calcalistech.com/ctechnews/article/e0elh1nl2"
+    },
+    {
+     "name": "The State of Israel",
+     "url": "https://thestateofisrael.com/news/story/2026-10-15-electricity-authority-reportedly-set-for-sunday-decision-on-data-center-rules"
+    },
+    {
+     "name": "TheMarker",
+     "url": "https://www.themarker.com/news/energy/2026-10-14/ty-article/.premium/000001a1-392b-d57f-abbb-3faba61b0000"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-trump-and-xi-1",
+   "edition": "2026-10-17",
+   "section": "trump-and-xi",
+   "headline": "China lets Visa prepare a domestic card-clearing business and books its first US soybeans since the summit",
+   "lead": "China's central bank approved on 13 October Visa's application to prepare a domestic bank-card clearing institution; Visa has one year to prepare and cannot yet issue renminbi cards.",
+   "text": "China's central bank approved on 13 October Visa's application to prepare a domestic bank-card clearing institution; Visa has one year to prepare and cannot yet issue renminbi cards. On 15 October Qiu Wenxing of the Chinese embassy in Washington called the approval 'a direct outcome of the presidential summit' between Trump and Xi in late September. This week Chinese state-owned buyers booked at least 20 cargoes of US soybeans, about 1.3 million tons, the first purchases since the summit, according to Bloomberg as cited by Quartz; most will be loaded from December to March. US soybeans still face Chinese tariffs of about 13 percent and are not on the lists of tariff cuts; China has pledged to buy 25 million tons a year through 2028. The two leaders are due to meet again at APEC in November and the G20 in December.",
+   "sources": [
+    {
+     "name": "South China Morning Post",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3371067/visas-china-approval-direct-outcome-trump-xi-summit-beijing-says"
+    },
+    {
+     "name": "China Daily",
+     "url": "http://www.chinadaily.com.cn/a/202610/13/WS6acddacee4b06d4aa056289b.html"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://qz.com/china-us-soybeans-state-buyers-trump-xi-summit-101626"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-trump-and-xi-2",
+   "edition": "2026-10-17",
+   "section": "trump-and-xi",
+   "headline": "China proposes export controls on 40 technologies, including AI and solar",
+   "lead": "On 16 October China's Ministry of Commerce and Ministry of Science and Technology proposed adding 40 technologies, in fields including artificial intelligence, biomedicine and solar power, to the catalogue of technologies whose export is restricted: 14 would be banned and 26 would need a license.",
+   "text": "On 16 October China's Ministry of Commerce and Ministry of Science and Technology proposed adding 40 technologies, in fields including artificial intelligence, biomedicine and solar power, to the catalogue of technologies whose export is restricted: 14 would be banned and 26 would need a license. Public comment is open until 15 November, and exporters must register before exporting in the meantime. The proposal does not name any country; reports do not say it is aimed at the United States.",
+   "sources": [
+    {
+     "name": "Caixin Global",
+     "url": "https://www.caixinglobal.com/2026-10-17/china-proposes-export-curbs-on-ai-and-solar-technology-102494151.html"
+    },
+    {
+     "name": "China Daily",
+     "url": "http://www.chinadaily.com.cn/a/202610/17/WS6ad2a9d9e4b06d4aa0563461.html"
+    },
+    {
+     "name": "Ministry of Commerce (Chinese)",
+     "url": "https://www.mofcom.gov.cn/zcfb/blgg/art/2026/art_1666fcaa24424766afe0683498ff0908.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-uk-breakup-politics-1",
+   "edition": "2026-10-17",
+   "section": "uk-breakup-politics",
+   "headline": "Burnham rules out a second Scottish independence referendum while he is prime minister",
+   "lead": "On his first major visit to Scotland as prime minister, in Motherwell on 16 October, Andy Burnham ruled out a second independence referendum during his premiership; Downing Street sources said this applies to his whole time as leader.",
+   "text": "On his first major visit to Scotland as prime minister, in Motherwell on 16 October, Andy Burnham ruled out a second independence referendum during his premiership; Downing Street sources said this applies to his whole time as leader. He offered 'deeper devolution' instead, including powers over employment support now held by the Department for Work and Pensions, and said he will meet the first ministers at the National Economic Council. The Scottish Conservative leader, Russell Findlay, criticized him. Earlier, Burnham had told MPs that a referendum would be considered if there were a clear consensus. First Minister John Swinney gives his keynote speech to the SNP conference in Aberdeen on 17 October; according to the BBC's preview, he will say that 'the stars are aligning' and that every first minister in Edinburgh, Cardiff and Belfast now supports the right to self-determination. The SNP won a fifth term in May but without a majority.",
+   "sources": [
+    {
+     "name": "The Scotsman",
+     "url": "https://www.scotsman.com/news/politics/andy-burnham-in-scotland-pm-calls-for-deeper-devolution-from-holyrood-9292141"
+    },
+    {
+     "name": "The Telegraph",
+     "url": "https://www.telegraph.co.uk/politics/2026/10/16/burnham-rules-out-second-scottish-independence-referendum/"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-greenland-1",
+   "edition": "2026-10-17",
+   "section": "greenland",
+   "headline": "Greenland's parliament votes to prepare a ban on deep-sea mining until 2029",
+   "lead": "On 15 October Greenland's parliament, Inatsisartut, unanimously adopted a resolution telling the government to draft a temporary ban on deep-sea mining and exploration until 31 December 2029, which could be extended two years at a time.",
+   "text": "On 15 October Greenland's parliament, Inatsisartut, unanimously adopted a resolution telling the government to draft a temporary ban on deep-sea mining and exploration until 31 December 2029, which could be extended two years at a time. The bill is expected in the spring 2027 session, so no binding ban exists yet. The vote came a day after President Trump said that 'massive oil, gas and mineral exploration' in Greenland was about to begin. Greenland's deputy minister for mining, Jørgen Hammeken-Holm, said the situation was 'very far away from massive,' and Denmark said the September agreement gives American investors no preferential access.",
+   "sources": [
+    {
+     "name": "Mining.com",
+     "url": "https://www.mining.com/greenland-to-introduce-ban-on-seabed-mining/"
+    },
+    {
+     "name": "Sermitsiaq (Danish)",
+     "url": "https://www.sermitsiaq.ag/samfund/inatsisartut-foreslar-at-forbyde-dybhavsminedrift/2437342"
+    },
+    {
+     "name": "Arab News (AP)",
+     "url": "https://www.arabnews.com/world/greenland-takes-a-step-toward-banning-deep-sea-mining-3006601"
+    },
+    {
+     "name": "CNN",
+     "url": "https://www.cnn.com/2026/10/14/politics/trump-greenland-oil-gas-minerals-intl-hnk"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-quebec-1",
+   "edition": "2026-10-17",
+   "section": "quebec",
+   "headline": "St-Pierre Plamondon: fix Quebec first, then talk of independence",
+   "lead": "At the swearing-in of the Parti Québécois's 59 members of the National Assembly on 15 October, Paul St-Pierre Plamondon closed with 'Vive le Québec libre' but said that before talking about independence the PQ must 'get Quebec back on the rails' and regain voters' confidence, the Montreal Gazette reported.",
+   "text": "At the swearing-in of the Parti Québécois's 59 members of the National Assembly on 15 October, Paul St-Pierre Plamondon closed with 'Vive le Québec libre' but said that before talking about independence the PQ must 'get Quebec back on the rails' and regain voters' confidence, the Montreal Gazette reported. He has asked the former premier Pauline Marois and Jean Royer, a former chief of staff to Jacques Parizeau, to train the new members. His cabinet is to be presented on 21 October.",
+   "sources": [
+    {
+     "name": "Montreal Gazette",
+     "url": "https://montrealgazette.com/news/provincial-news/provincial-politics/parti-quebecois-mnas-swearing-in-ceremony/"
+    },
+    {
+     "name": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-trenton-1",
+   "edition": "2026-10-17",
+   "section": "trenton",
+   "headline": "A local developer's graffiti museum plans a five-story home on East State Street",
+   "lead": "The American Graffiti Museum, a nonprofit founded in 2021 by the Trenton native Daniel R.",
+   "text": "The American Graffiti Museum, a nonprofit founded in 2021 by the Trenton native Daniel R. Brenna Jr., whose firm Ajax Management Group has redeveloped more than 70 properties in the city over 25 years, plans a 100,000-square-foot museum of graffiti and street art in a five-story historic building on East State Street, with a 12,000-square-foot courtyard. The site was secured in 2022 and the building is under construction; no opening date has been set. Its 'Downtown Gets Up' events this year brought new murals by CRASH, Ron English, Wane One, Queen Andrea and the Trenton artist Leon Rainbow, and an exhibition at Hanover Creative Gallery. The founders expect 200,000 or more visitors a year; that is their own projection. Public element: the event series was paid for in part by a state grant of $210,161 from the New Jersey Economic Development Authority's A.R.T. program, funded by the federal American Rescue Plan. Funding for the building itself was not reported.",
+   "sources": [
+    {
+     "name": "Princeton Info / Trenton Downtowner",
+     "url": "https://princetoninfo.com/artsandentertainment/graffiti-moves-from-city-walls-to-museum-halls/"
+    },
+    {
+     "name": "NJEDA (grant list)",
+     "url": "https://www.njeda.gov/njeda-awards-15m-in-grants-to-support-39-organizations-under-a-r-t-phase-ii/"
+    },
+    {
+     "name": "The American Graffiti Museum",
+     "url": "https://theamericangraffitimuseum.org/"
+    }
+   ],
+   "image": "digest/trenton/img/eaststate.jpg",
+   "image_credit": "Mdupont / Wikimedia Commons, CC BY-SA 4.0",
+   "image_url": "https://commons.wikimedia.org/wiki/File:East_State_Street,_Trenton_New_Jersey_5722.jpg",
+   "image_caption": "East State Street at Warren Street, downtown Trenton (2017)"
+  },
+  {
+   "id": "2026-10-17-france-election-1",
+   "edition": "2026-10-17",
+   "section": "france-election",
+   "headline": "OpinionWay: Glucksmann gains after the primary, Philippe at his lowest, Le Pen at 35 to 37",
+   "lead": "Two OpinionWay polls taken on 13 and 14 October, after the left's primary (978 registered voters in a sample of 1,043), were published on 15 October.",
+   "text": "Two OpinionWay polls taken on 13 and 14 October, after the left's primary (978 registered voters in a sample of 1,043), were published on 15 October. In the Présitrack poll for Les Echos and Radio Classique, Marine Le Pen has 35 percent if both Gabriel Attal and Édouard Philippe run, followed by Jean-Luc Mélenchon 14, Raphaël Glucksmann 13, Philippe 12, Attal 7 and Bruno Retailleau 7. With Attal as the only centrist, Le Pen has 37, Glucksmann 16, Mélenchon 15, Attal 11 and Retailleau 9; with Philippe as the only centrist, Le Pen has 35 and Mélenchon, Glucksmann and Philippe 15 each, with Retailleau at 8. Glucksmann gained four to five points; Philippe fell three points to his lowest level in this series. In the OpinionWay poll for CNEWS, Le Pen has 35, Mélenchon 15, Glucksmann 13 and Philippe 12 in the first round, and in the second round she beats Philippe 56 to 44, Glucksmann 56 to 44 and Mélenchon 68 to 32. Her margin over Philippe is much wider than in Elabe's August poll (52.5 to 47.5). On Polymarket there has been no material change: Le Pen about 46 percent, Philippe about 17.5, Lisnard and Mélenchon about 11.5 each, Glucksmann about 3.5.",
+   "sources": [
+    {
+     "name": "OpinionWay (Les Echos)",
+     "url": "https://www.opinion-way.com/fr/publications/presitrack-2027-vague-3-2026-24530/"
+    },
+    {
+     "name": "OpinionWay report (PDF)",
+     "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-Les-Echos-et-Radio-Classique-Barometre-Presitrack-2027-Vague-3-Octobre-2026.pdf"
+    },
+    {
+     "name": "OpinionWay for CNEWS (PDF)",
+     "url": "https://www.opinion-way.com/wp-content/uploads/2026/10/OpinionWay-pour-CNEWS-Les-intentions-de-vote-a-lelection-presidentielle-2027-15-octobre-2026.pdf"
+    },
+    {
+     "name": "Sud Ouest",
+     "url": "https://www.sudouest.fr/elections/sondages/sondage-presidentielle-2027-marine-le-pen-toujours-loin-devant-percee-de-raphael-glucksmann-sur-les-talons-de-jean-luc-melenchon-edouard-philippe-en-baisse-31095841.php"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-france-election-protests-1",
+   "edition": "2026-10-17",
+   "section": "france-election",
+   "headline": "Lecornu: the school movement has become 'urban violence'; it weakens as the holidays begin",
+   "lead": "On 15 October Prime Minister Sébastien Lecornu said that the movement 'no longer looks like a high-school movement' but like 'a movement of urban violence,' with violence increasing in Paris, Créteil and Lyon.",
+   "text": "On 15 October Prime Minister Sébastien Lecornu said that the movement 'no longer looks like a high-school movement' but like 'a movement of urban violence,' with violence increasing in Paris, Créteil and Lyon. The Paris police prefecture counts 1,260 arrests in the Paris area since the start, 86 percent of them minors, with 286 police officers and gendarmes injured there. Nationally, Education Minister Édouard Geffray reported 165 school staff injured, 17 more than the day before. After his third meeting with the pupils' unions on 15 October, the USL union walked out, said it will not attend Monday's meeting, and said the mobilization will continue during the holidays and after. On 16 October, the last school day before the two-week Toussaint holidays, fewer schools were blockaded, but there were incidents: at the Paul-Éluard lycée in Saint-Denis, teachers blocked police who entered to arrest a minor, and the Bobigny prosecutor opened an inquiry into violence against police; in Lorient seven people were arrested on 15 October and two lycées were closed on 16 October; in Alsace, police used tear gas in Bischheim and a firework mortar was fired at a principal in Mulhouse. In Nantes six teenagers were arrested over a fire at the Talensac lycée; in Salon-de-Provence a 21-year-old was charged over a lycée fire that caused about €350,000 in damage; in Marseille a 15-year-old was charged over an attack on a bus.",
+   "sources": [
+    {
+     "name": "Le Parisien",
+     "url": "https://www.leparisien.fr/societe/mobilisation-lyceenne-sebastien-lecornu-denonce-sa-transformation-en-un-mouvement-de-violences-urbaines-15-10-2026-4YP4THUB5NDULLQ6KM3AVPYUP4.php"
+    },
+    {
+     "name": "BFMTV",
+     "url": "https://www.bfmtv.com/politique/gouvernement/sebastien-lecornu-deplore-la-transformation-du-mouvement-lyceen-en-un-mouvement-de-violences-urbaines_AD-202610150528.html"
+    },
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mouvement-lyceen-les-organisations-lyceennes-doivent-etre-recues-pour-la-troisieme-fois-par-le-ministre-de-l-education_8238049.html"
+    },
+    {
+     "name": "Ouest-France",
+     "url": "https://www.ouest-france.fr/education/direct-mobilisation-lyceenne-le-mouvement-va-se-poursuivre-pendant-les-vacances-selon-les-syndicats-37b069f9-7c7c-4f3e-9eab-c4352191b61a"
+    },
+    {
+     "name": "DNA",
+     "url": "https://www.dna.fr/education/2026/10/16/colere-des-lyceens-des-etablissements-bloques-a-strasbourg-mais-dans-le-calme"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-france-election-protests-2",
+   "edition": "2026-10-17",
+   "section": "france-election",
+   "headline": "Saturday 17 October: a 'convergence' day against the cost of living, with bans in central Paris",
+   "lead": "Pupils, so-called students, former gilets jaunes, climate activists, the CGT-led union alliance and the Confédération paysanne have called for a joint day of protest against the cost of living on Saturday, 17 October; the main farmers' unions, the FNSEA and the Coordination rurale, are not taking part.",
+   "text": "Pupils, so-called students, former gilets jaunes, climate activists, the CGT-led union alliance and the Confédération paysanne have called for a joint day of protest against the cost of living on Saturday, 17 October; the main farmers' unions, the FNSEA and the Coordination rurale, are not taking part. The Socialist Party called on people to march, and Jean-Luc Mélenchon called for a gathering at Place de la République at 2 p.m. The office of Interior Minister Laurent Nuñez spoke of about 500 planned actions and more than 90 demonstrations. Estimates of the turnout differ: intelligence services expect 60,000 to 110,000 people outside Paris (BFMTV and RTL); a police source quoted by AFP expects about 150,000 outside Paris and 40,000 in Paris; the gilets jaunes announced about 1,500 actions. The Paris police prefect, Patrice Faure, banned demonstrations around the Élysée, Matignon, the Champs-Élysées, Concorde, Bastille and other sites (fine €135); the authorized route runs from République to Place de Clichy, which the student collective Interfac IDF refused, and many metro stations are closed. The stun grenades suspended for the school protests (after a 15-year-old lost a hand in Lens on 5 October) may be used again in case of 'extremely serious urban violence'; the teachers' union SNES-FSU called this irresponsible. Lecornu set up an interministerial crisis cell, Justice Minister Gérald Darmanin told prosecutors to prepare special court arrangements, and President Macron, in Brussels, appealed for calm. The government also extended to the end of the year a €100 aid for people who drive long distances to work. The website of the Republicans (LR) was hacked by activists calling for the protests; an LR source said no data was leaked.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/fr/info-en-continu/20261016-lyc%C3%A9ens-gilets-jaunes-militants-du-climat-vers-une-convergence-des-col%C3%A8res-samedi-dans-la-rue"
+    },
+    {
+     "name": "Ouest-France",
+     "url": "https://www.ouest-france.fr/education/direct-mobilisation-lyceenne-le-mouvement-va-se-poursuivre-pendant-les-vacances-selon-les-syndicats-37b069f9-7c7c-4f3e-9eab-c4352191b61a"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-france-election-protests-3",
+   "edition": "2026-10-17",
+   "section": "france-election",
+   "headline": "Opinion and analysis: 69 percent approve of the 17 October protest; an essayist doubts a repeat of 2018",
+   "lead": "An Elabe poll for BFMTV (1,506 people, 14–16 October) finds that 69 percent of the French approve of the mobilization against the cost of living (36 percent support it and 33 percent feel sympathy; 14 percent are indifferent, 10 percent opposed and 7 percent hostile).",
+   "text": "An Elabe poll for BFMTV (1,506 people, 14–16 October) finds that 69 percent of the French approve of the mobilization against the cost of living (36 percent support it and 33 percent feel sympathy; 14 percent are indifferent, 10 percent opposed and 7 percent hostile). Approval is 83 percent among left-wing (NFP) voters, 70 percent among National Rally voters, 55 percent among Republican voters and 51 percent among voters of Macron's camp, and 77 percent among people aged 18 to 24. Sixty-five percent say people are right to protest now rather than wait for the vote in April. AFP also cites 55 percent support for the high-school and student movement (71 percent among 18- to 24-year-olds). On the candidates: Marine Le Pen (CNews, 15 October) called for 'total transparency' in the criteria of Parcoursup, the university admissions system; Édouard Philippe proposed school days focused on the morning and shorter Toussaint and Easter holidays, and defended Parcoursup. The government says 2,000 of the 3,000 promised substitute teachers have been assigned (Education Ministry via AFP, which confirms the point reported earlier by TF1 alone) and promises Parcoursup measures before the end of October. Analysis: the essayist Jean-Laurent Cassely told RTL on 16 October that he does not expect a repeat of the 2018 gilets jaunes movement; he said the gilets jaunes and the pupils, though marching side by side, come from different social and cultural worlds, and their votes will not express the same anger.",
+   "sources": [
+    {
+     "name": "BFMTV (Elabe)",
+     "url": "https://www.bfmtv.com/societe/manifestations/sondage-bfmtv-pres-de-sept-francais-sur-dix-approuvent-la-mobilisation-du-17-octobre-contre-la-hausse-du-cout-de-la-vie_AN-202610160598.html"
+    },
+    {
+     "name": "Le Parisien",
+     "url": "https://www.leparisien.fr/societe/manifestations-du-17-octobre-une-large-majorite-des-francais-soutient-la-mobilisation-contre-la-hausse-du-cout-de-la-vie-16-10-2026-RHD7SSHYBNBWPN5MO2S2H64PFQ.php"
+    },
+    {
+     "name": "TF1 Info",
+     "url": "https://www.tf1info.fr/societe/en-direct-mouvement-lyceen-universites-grandes-ecoles-les-dernieres-actualites-rencontre-edouard-geffray-les-informations-du-jeudi-15-octobre-2026-2470037.html"
+    },
+    {
+     "name": "RTL",
+     "url": "https://www.rtl.fr/actu/debats-societe/je-ne-crois-pas-du-tout-qu-on-va-rejouer-les-gilets-jaunes-sur-rtl-l-essayiste-jean-laurent-cassely-analyse-les-possibles-debouches-de-la-mobilisation-du-17-octobre-7900685809"
+    }
+   ]
   }
  ]
 }
