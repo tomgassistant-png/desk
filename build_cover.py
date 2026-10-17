@@ -201,12 +201,31 @@ def main():
         if s.get("useful_links"):
             side = ('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0;min-width:220px"><b>Useful links</b><ul style="margin:6px 0;padding-left:18px">'
                     + "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in s["useful_links"]) + '</ul></aside>')
-        if s["id"] == "trenton":
+        if s["id"] == "trenton" and not s.get("rail_boxes"):
             try:
                 import realestate; side = side + realestate.box()
             except Exception as ex:
                 print("realestate box failed:", ex)
-        if sidebar:
+        if s.get("rail_boxes"):
+            # Section keeps its baseline in the main column but moves backgrounders, trackers and links to the rail
+            bgl = "".join(f'<div style="margin:8px 0"><a href="{e(b["url"])}"><b>{e(b["label"])}</b></a>'
+                          + (f'<p class="summary" style="margin:4px 0;font-size:14px">{e(b["teaser"])}</p>' if b.get("teaser") else "")
+                          + (f'<p class="srcs" style="margin:2px 0"><i>Last updated: {e(b["updated"])}</i></p>' if b.get("updated") else "") + '</div>'
+                          for b in s.get("backgrounders", []))
+            rbox = ('<aside style="border:1px solid #ccc;border-left:4px solid #8b0000;background:#f1efe8;padding:10px 14px;margin:12px 0">'
+                    f'<b>Backgrounders</b>{bgl}</aside>') if bgl else ""
+            re_html = ""
+            if s["id"] == "trenton":
+                try:
+                    import realestate; re_html = realestate.box()
+                except Exception as ex:
+                    print("realestate box failed:", ex)
+            ul = ('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0"><b>Useful links</b><ul style="margin:6px 0;padding-left:18px">'
+                  + "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in s.get("useful_links", [])) + '</ul></aside>') if s.get("useful_links") else ""
+            rail = rbox + re_html + ul
+            side = ""; sidebar = True
+            out.append('<div class="cov-grid"><main>')
+        elif sidebar:
             rail = (bgbox if s.get("baseline") else "") + (polymarket_box(s["polymarket"]["slug"], s["polymarket"]["label"]) if s.get("polymarket") else "") + side
             out.append('<div class="cov-grid"><main>')
         elif s["id"] == "spacex-xai-and-cursor" or side or s.get("polymarket"):

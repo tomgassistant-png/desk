@@ -156,14 +156,6 @@
    ],
    "useful_links": [
     {
-     "label": "Backgrounder: city finances and property taxes",
-     "url": "backgrounder/"
-    },
-    {
-     "label": "Backgrounder: Bomb damage or rent control?",
-     "url": "rent-control/"
-    },
-    {
      "label": "City of Trenton news",
      "url": "https://www.trentonnj.org/"
     },
@@ -186,6 +178,21 @@
     {
      "label": "Greater Trenton on X",
      "url": "https://x.com/GreaterTrenton"
+    }
+   ],
+   "rail_boxes": true,
+   "backgrounders": [
+    {
+     "label": "City finances and property taxes",
+     "url": "backgrounder/",
+     "teaser": "Why Trenton taxes property more heavily than any other town in Mercer County and still depends on the state for about half of its main operating revenue: exempt land, state aid, PILOTs, debt and what would make private investment easier.",
+     "updated": "16 October 2026"
+    },
+    {
+     "label": "Bomb damage or rent control? Policy and urban decay",
+     "url": "rent-control/",
+     "teaser": "A 1981 Fraser Institute book opened each chapter with an unlabeled photograph of a ruined city and asked whether bombing or rent control had done the damage. What economists have said about rent control since then.",
+     "updated": "16 October 2026"
     }
    ]
   },
