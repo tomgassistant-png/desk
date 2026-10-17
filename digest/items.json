@@ -1810,6 +1810,46 @@
      "url": "https://www.rtl.fr/actu/debats-societe/je-ne-crois-pas-du-tout-qu-on-va-rejouer-les-gilets-jaunes-sur-rtl-l-essayiste-jean-laurent-cassely-analyse-les-possibles-debouches-de-la-mobilisation-du-17-octobre-7900685809"
     }
    ]
+  },
+  {
+   "id": "2026-10-17-france-election-protests-4",
+   "edition": "2026-10-17",
+   "section": "france-election",
+   "headline": "Protest day: clashes in Paris, Lyon, Bordeaux, Marseille and Lille; 272 arrests by 3 p.m.",
+   "lead": "The 17 October day of protest against the cost of living brought tens of thousands into the streets and violent clashes in several cities.",
+   "text": "The 17 October day of protest against the cost of living brought tens of thousands into the streets and violent clashes in several cities. At noon the Interior Ministry counted 140 actions outside Paris with 32,800 people. By 3 p.m. police had made 272 arrests nationwide, according to the ministry, BFMTV and Reuters; 133 of them were in Paris by 2 p.m., mostly for 'gathering with intent to commit violence.' In Paris, the police prefecture said several hundred people, 'mainly from the ultra-left,' attacked police at Place de la République from 1 p.m.; police used tear gas and a water cannon, and the authorized CGT march left for Place de Clichy at 2:30. An undeclared march toward the Élysée was turned back. AP reports a car and a newspaper kiosk burned. In Marseille, dozens forced their way into the city hall lobby, and a municipal police station was attacked; Mayor Benoît Payan demanded an account of the policing. In Lyon, a branch of the tourist office was ransacked and set on fire while firefighters were kept away. In Bordeaux, a march of several thousand turned into clashes. In Lille, several hundred people fought riot police beside a peaceful march, and some briefly broke into city hall. AFP, carried by Europe 1, reported about 20,000 marchers each in Lyon and Nantes and 10,000 in Rennes at 3 p.m., without naming the source of the count. The unions and organizers had not published a national figure by early evening, and the ministry had not published a final one; the organizers had expected 60,000 to 110,000. Jordan Bardella said only 'professionals of chaos' were in the streets; Marine Le Pen said the left had taken the protests hostage. Jean-Luc Mélenchon said tens of thousands marched calmly while television showed only violence. The police inspectorate is examining at least 24 complaints of police violence, Reuters reports.",
+   "sources": [
+    {
+     "name": "Europe 1 / AFP live",
+     "url": "https://www.europe1.fr/societe/en-direct-mobilisation-du-17-octobre-loffice-de-tourisme-de-lyon-incendie-scenes-de-chaos-a-bordeaux-et-paris-1156250"
+    },
+    {
+     "name": "BFMTV",
+     "url": "https://www.bfmtv.com/police-justice/video-manifestations-du-17-octobre-272-interpellations-ont-ete-recensees-sur-l-ensemble-du-territoire-national-a-15h_VN-202610170239.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-17-brazil-3",
+   "edition": "2026-10-17",
+   "section": "brazil",
+   "headline": "Ipespe poll: Flávio 48, Lula 46; first runoff debate on Sunday",
+   "lead": "A third poll this week shows the runoff within the margin of error, with the gap narrowing.",
+   "text": "A third poll this week shows the runoff within the margin of error, with the gap narrowing. Ipespe, commissioned by Abrapel and published on 17 October (1,500 telephone interviews, 13–15 October, margin of error 2.6 points, registered as BR-00223/2026), gives Flávio Bolsonaro 48 percent and Lula 46, against 49 to 44 in its previous round. In valid votes the figures are 51.2 to 48.8, down from 52.7 to 47.3. Each candidate is rejected by 47 percent. Among the 89 percent who say they are certain to vote, Flávio leads 50 to 46. Veja and CNN Brasil report the poll. The two candidates meet in their first runoff debate on TV Band on Sunday, 18 October, at 8 p.m. Brasília time (2 a.m. Monday, Israel time), according to BBC Brasil.",
+   "sources": [
+    {
+     "name": "Veja",
+     "url": "https://veja.abril.com.br/politica/a-nova-pesquisa-ipespe-abrapel-sobre-a-disputa-flavio-x-lula-a-oito-dias-do-segundo-turno/"
+    },
+    {
+     "name": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/eleicoes/ipespe-abrapel-flavio-tem-512-dos-votos-validos-no-2o-turno-lula-488/"
+    },
+    {
+     "name": "BBC News Brasil",
+     "url": "https://www.bbc.com/portuguese/articles/cwkg57dyvrn3o"
+    }
+   ]
   }
  ]
 }

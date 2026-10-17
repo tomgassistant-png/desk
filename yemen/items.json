@@ -4,8 +4,32 @@
  "editions": [
   {
    "date": "2026-10-17",
-   "lede": "The Houthis hit Aden a second day running, this time the airport, while Washington openly floated Israeli help for Saudi Arabia.",
+   "lede": "The Houthis hit Aden a second day running, this time the airport, while Washington openly floated Israeli help for Saudi Arabia. By evening Aden airport was open again, while the Houthis reported deaths from a Saudi strike in Dhamar.",
    "items": [
+    {
+     "headline": "Evening: Aden airport reopens; the Cairo flight diversion is confirmed",
+     "text": "Aden International Airport resumed traffic on Saturday, 17 October. The Yemeni sites Al-Wajha and Anbaa Aden report that a Fly Aden (Aden Airways) flight from Cairo circled over Aden for more than an hour during Friday night's attack, diverted to Djibouti, and later landed in Aden. That confirms the diversion this page marked as unconfirmed this morning. No official damage assessment of the airport has been published.",
+     "source": "Al-Wajha; Anbaa Aden",
+     "link": "https://www.alwajha.net/news/13613"
+    },
+    {
+     "headline": "Evening: Coalition says it destroyed two missile launchers in Saada",
+     "text": "The Saudi-led coalition said that early on Saturday it destroyed two ballistic-missile launch platforms in Saada province and stopped a sea smuggling attempt toward Hodeidah. Its spokesman, Turki al-Maliki, posted video. Asharq Al-Awsat, Anadolu and CNN Arabic report the statement. The Houthis have not commented, and the results are confirmed only by the coalition. The coalition also said King Khalid airport in Riyadh had been targeted 20 times this month, with 17 people killed and 333 injured; those are its own figures.",
+     "source": "Asharq Al-Awsat; Anadolu; CNN Arabic",
+     "link": "https://english.aawsat.com/gulf/5330447-coalition-destroys-two-ballistic-missile-launch-platforms-saada"
+    },
+    {
+     "headline": "Evening: Houthis say Saudi strike in Dhamar killed three children",
+     "text": "The Houthi-run health ministry said a Saudi airstrike on 16 October on the villages of al-Ar and Barza'a, in Dawran Anis district of Dhamar province, killed three children and wounded 15 to 17 people. The Houthi agency Saba says cluster bombs were used; that is unconfirmed. AP, reported by the Times of Israel, says Saudi Arabia did not comment, and that the Houthis say 124 people have been killed in areas they control since the fighting resumed in September. The casualty figures come from the Houthis only.",
+     "source": "AP; Times of Israel; Saba",
+     "link": "https://apnews.com/article/mideast-israel-palestinians-houthis-october-17-2026-aaf6d7e5367f99869eaf4b419c66e0df"
+    },
+    {
+     "headline": "Evening: Riyadh airport reopening still unconfirmed",
+     "text": "As of Saturday evening there was no Saudi announcement that King Khalid International Airport will reopen when the notice to airmen expires at 2100 GMT, or midnight in Riyadh and in Israel. Gulf Business and AGBI report the notice and the uncertainty. Airlines are extending suspensions: IndiGo and Akasa Air have cancelled Saudi flights until 24 October, and Air India until 20 October. Reports in some South Asian outlets that the airport has already reopened are contradicted by these sources and are not confirmed.",
+     "source": "AGBI; Gulf Business",
+     "link": "https://www.agbi.com/aviation/2026/10/riyadh-airport-reopening-in-doubt-after-houthi-attacks/"
+    },
     {
      "headline": "Two missiles land inside Aden airport",
      "text": "On Friday night, 16 October, two missiles landed inside Aden International Airport, police and government officials said, blaming the Houthis. Reports say one landed about 500 meters from a Yemenia aircraft; passengers and crew were evacuated and no casualties were reported in early accounts. A Houthi military source told the Houthi-run Saba agency that the target was a Saudi forces command headquarters and weapons depots at Badr camp, next to the airport. AP, Al Jazeera and Xinhua all report the strike. It was the second attack on the airport in ten days, after the 7 October strike, and came one day after the deadly hit on Al-Maashiq Palace. Reports on X that a second incoming flight from Cairo was diverted to Djibouti are unconfirmed.",
