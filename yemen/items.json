@@ -4,7 +4,7 @@
  "editions": [
   {
    "date": "2026-10-18",
-   "lede": "Egypt moved toward joining Saudi Arabia's defense, and the UAE is reported to be paying anti-Houthi forces again, as Houthi missiles and drones kept coming at Riyadh, the Eastern Province and the south overnight.",
+   "lede": "Egypt moved toward joining Saudi Arabia's defense, and the UAE is reported to be paying anti-Houthi forces again, as Houthi missiles and drones kept coming at Riyadh, the Eastern Province and the south overnight. By evening Egypt's parliament had put off its vote to Monday, Saudi Arabia confirmed the loss of a helicopter in Najran but blamed a malfunction, and Riyadh airport reopened.",
    "items": [
     {
      "headline": "Egypt's parliament meets today on defending Saudi Arabia",
@@ -53,10 +53,40 @@
      "text": "The notice closing King Khalid International Airport expired at 2100 GMT on Saturday (midnight in Riyadh and in Israel). As of early Sunday, no reopening announcement from the Saudi civil aviation authority could be found in the reports checked; AGBI had said before the deadline that the notice could easily be extended, and Asiatoday reports that no date has been given. That status is unconfirmed until Saudi authorities speak. Airlines are still staying away: Air France-KLM until the end of October and IndiGo and Akasa until 24 October.",
      "source": "AGBI; Asiatoday; Reuters via Al-Monitor",
      "link": "https://www.agbi.com/aviation/2026/10/riyadh-airport-reopening-in-doubt-after-houthi-attacks/"
+    },
+    {
+     "headline": "Evening: Egypt's defense council pledges support to Saudi Arabia; parliament puts off its vote to Monday",
+     "text": "Egypt's National Defence Council, chaired by President el-Sisi, pledged on Sunday 'all necessary and possible forms of support' to Saudi Arabia and said the kingdom's security is linked to Egypt's own. The statement did not mention troops, but MP Mostafa Bakry, who is close to the state, wrote that the council approved sending forces on 'a defensive mission'; that is his claim. Parliament met in an emergency closed session, where sending the army on a combat mission abroad needs a two-thirds vote, but adjourned without a vote and will meet again on Monday (Anadolu, citing Al Qahera News; AFP). The speaker of the Houthi-run parliament in Sanaa wrote to his Egyptian counterpart that joining 'the same trench as the takfiri forces and the Israeli occupation entity' would 'pose a grave danger' to Egypt's national security (The National, from Al Masirah). Saudi Arabia has still made no public request for Egyptian forces.",
+     "source": "The National; Anadolu; AFP via LBCI and Middle East Eye",
+     "link": "https://www.thenationalnews.com/news/mena/2026/10/18/egypt-pledges-support-for-saudi-arabia-as-houthis-warn-cairo-against-military-intervention/"
+    },
+    {
+     "headline": "Evening: Saudi Arabia says the Najran helicopter crashed from a malfunction; Houthi video appears to show it hit",
+     "text": "Coalition spokesman Maj. Gen. Turki al-Maliki said on Sunday that a Saudi National Guard AH-6i reconnaissance helicopter crashed inside Saudi territory in the Najran region 'due to a technical malfunction,' killing its two officers (Arab News; Al Arabiya). The Houthis had claimed on Saturday that they shot down an 'Apache' near Najran. Video they later released appears to show a small helicopter consistent with the AH-6i being struck by a loitering munition of the Iranian-designed 358 type, which they call Saqr (Defence Blog). This answers this morning's question in part: Saudi Arabia confirms the loss and the deaths but not the cause the Houthis claim. Which account is right is unconfirmed.",
+     "source": "Arab News; Al Arabiya; Defence Blog",
+     "link": "https://www.arabnews.com/saudi-arabia/two-officers-dead-as-saudi-reconnaissance-helicopter-crashes-in-najran-3006963"
+    },
+    {
+     "headline": "Evening: Houthi projectile hurts six in a residential area of Najran",
+     "text": "Saudi Civil Defense said a projectile fired by the Houthis hit a residential area in Najran, injuring six Saudi citizens and damaging homes (Okaz; Sabq). It was one of several attacks on the south of the kingdom on Sunday. Saudi Arabia later lifted its warnings for the southern and southwestern regions (Anadolu).",
+     "source": "Okaz; Sabq; Anadolu",
+     "link": "https://www.okaz.com.sa/local/na/2271336"
+    },
+    {
+     "headline": "Evening: Houthi media say a Saudi strike on a house in Saada killed nine",
+     "text": "The Houthi agency Saba said a Saudi airstrike on a home in Saada province killed nine people and wounded 16, 'most of them women and children,' and that the toll was not final (AFP via Dawn). Later Houthi-linked reports gave 10 dead and 23 wounded. The figures come only from the Houthis; the coalition has not commented, and what the strike targeted is not known.",
+     "source": "AFP via Dawn; Saba (Houthi); CGTN (Al Masirah)",
+     "link": "https://www.dawn.com/news/2038044/houthi-media-says-saudi-strike-kills-9-in-northern-yemen"
+    },
+    {
+     "headline": "Evening: Riyadh airport reopens, but most foreign airlines stay away",
+     "text": "The National reports that King Khalid International Airport in Riyadh reopened on Sunday after its closure because of Houthi attacks. Many carriers have not resumed: Qatar Airways and Air Arabia gave no date, Oman Air is suspended until 22 October, Air France and Air India until 24 October, KLM until 31 October, Lufthansa until 18 November, and Cathay Pacific until 31 January. No Saudi official statement on the reopening was found, so the reopening rests on The National's report (unconfirmed by a second independent source).",
+     "source": "The National",
+     "link": "https://www.thenationalnews.com/travel/2026/10/18/riyadh-airport-reopens-which-airlines-are-still-cancelling-flights-to-saudi-arabia/"
     }
    ],
    "trend": "Saudi Arabia is gathering outside help: Egypt is preparing legal authority to defend the kingdom, the UAE is reported to be funding southern forces again, and Europe is already helping protect oil sites. On the ground the government holds its lines around Taiz but is not advancing, while the Houthis keep up daily missile and drone fire on Saudi cities.",
-   "watch": "What Egypt's parliament authorizes today and whether Riyadh asks for help; confirmation of the UAE funding deal; whether Saudi Arabia confirms or denies the Apache loss; Riyadh airport status; Jabal Han and the Waziyah and Madaribah fronts."
+   "watch": "Egypt's parliament vote on Monday and whether Riyadh asks for help; confirmation of the UAE funding deal; the cause of the Najran helicopter crash; which airlines return to Riyadh; Jabal Han and the Waziyah and Madaribah fronts."
   },
   {
    "date": "2026-10-17",
