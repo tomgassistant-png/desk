@@ -750,6 +750,132 @@
    "name": "David Lisnard on X",
    "url": "https://x.com/davidlisnard",
    "group": "France (presidential election)"
+  },
+  {
+   "name": "Israel Hayom",
+   "url": "https://www.israelhayom.co.il/",
+   "group": "Hebrew news",
+   "note": "Center-right mainstream; West Bank desk (Lilach Shoval)"
+  },
+  {
+   "name": "Israel Hayom (English)",
+   "url": "https://www.israelhayom.com/",
+   "group": "Hebrew news",
+   "note": "English edition"
+  },
+  {
+   "name": "@IsraelHayomHeb",
+   "url": "https://x.com/IsraelHayomHeb",
+   "group": "X accounts",
+   "note": "Israel Hayom Hebrew"
+  },
+  {
+   "name": "HaKol HaYehudi",
+   "url": "https://www.hakolhayehudi.co.il/",
+   "group": "Hebrew news",
+   "note": "Settler-aligned investigative; incident wire (X @hakolhayehudi already listed)"
+  },
+  {
+   "name": "Khaled Abu Toameh (@KhaledAbuToameh)",
+   "url": "https://x.com/KhaledAbuToameh",
+   "group": "X accounts",
+   "note": "Center-right Palestinian-affairs correspondent; PA politics and incitement"
+  },
+  {
+   "name": "Matan Golan (@MatanGolanPhoto)",
+   "url": "https://x.com/MatanGolanPhoto",
+   "group": "X accounts",
+   "note": "Left / Haaretz West Bank field photo and video"
+  },
+  {
+   "name": "Hagar Shezaf (@hagar_shezaf)",
+   "url": "https://x.com/hagar_shezaf",
+   "group": "X accounts",
+   "note": "Left / Haaretz territories and detention"
+  },
+  {
+   "name": "Akiva Bigman (@akibigman)",
+   "url": "https://x.com/akibigman",
+   "group": "X accounts",
+   "note": "Right; land and planning; cited by Moran T / Regavim"
+  },
+  {
+   "name": "Mida",
+   "url": "https://mida.org.il/",
+   "group": "Journals",
+   "note": "Right; land, planning, Negev and Galilee"
+  },
+  {
+   "name": "@MidaWebsite",
+   "url": "https://x.com/MidaWebsite",
+   "group": "X accounts",
+   "note": "Mida"
+  },
+  {
+   "name": "HonestReporting",
+   "url": "https://honestreporting.com/",
+   "group": "Monitoring groups",
+   "note": "Pro-Israel media watchdog; footage vs framing on settler-violence claims"
+  },
+  {
+   "name": "@HonestReporting",
+   "url": "https://x.com/HonestReporting",
+   "group": "X accounts",
+   "note": "HonestReporting"
+  },
+  {
+   "name": "Breaking the Silence",
+   "url": "https://www.breakingthesilence.org.il/",
+   "group": "Monitoring groups",
+   "note": "Left / anti-occupation veterans; settler-violence narrative"
+  },
+  {
+   "name": "@BtSIsrael",
+   "url": "https://x.com/BtSIsrael",
+   "group": "X accounts",
+   "note": "Breaking the Silence"
+  },
+  {
+   "name": "Al-Haq",
+   "url": "https://www.alhaq.org/",
+   "group": "Monitoring groups",
+   "note": "Palestinian rights NGO, Ramallah; settler-violence advocacy"
+  },
+  {
+   "name": "Wattan",
+   "url": "https://www.wattan.net/ar/",
+   "group": "Palestinian and Arab media",
+   "note": "PA-aligned Palestinian wire; local West Bank incidents"
+  },
+  {
+   "name": "Shehab News Agency",
+   "url": "https://shehabnews.com/",
+   "group": "Palestinian and Arab media",
+   "note": "Hamas-aligned; West Bank briefs and Fatah-Hamas track"
+  },
+  {
+   "name": "@ShehabAgency",
+   "url": "https://x.com/ShehabAgency",
+   "group": "Palestinian and Arab media",
+   "note": "Shehab; may be geo-withheld in parts of EU"
+  },
+  {
+   "name": "MEMRI",
+   "url": "https://www.memri.org/",
+   "group": "Research and think tanks",
+   "note": "Pro-Israel Arabic media monitoring; PA/Hamas incitement translations"
+  },
+  {
+   "name": "@MEMRIReports",
+   "url": "https://x.com/MEMRIReports",
+   "group": "Research and think tanks",
+   "note": "MEMRI; cited by Moran T"
+  },
+  {
+   "name": "PCPSR (PSR)",
+   "url": "https://www.pcpsr.org/",
+   "group": "Research and think tanks",
+   "note": "Palestinian Center for Policy and Survey Research; Khalil Shikaki polls"
   }
  ]
 }
