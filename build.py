@@ -193,7 +193,7 @@ JS = r"""
 var b=document.getElementById('wx');if(!b)return;
 var L=JSON.parse(b.getAttribute('data-loc'));
 var cur=document.getElementById('wxcur'),tb=document.getElementById('wxtab');
-var u='https://api.open-meteo.com/v1/forecast?latitude='+L.lat+'&longitude='+L.lon+'&timezone='+encodeURIComponent(L.timezone||'auto')+'&current=temperature_2m,relative_humidity_2m,precipitation,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,relative_humidity_2m_mean,wind_speed_10m_max,wind_direction_10m_dominant&forecast_days=7';
+var u='https://api.open-meteo.com/v1/forecast?latitude='+L.lat+'&longitude='+L.lon+'&timezone='+encodeURIComponent(L.timezone||'auto')+'&current=temperature_2m,relative_humidity_2m,precipitation,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,precipitation_sum,relative_humidity_2m_mean,wind_speed_10m_max,wind_direction_10m_dominant,sunrise,sunset,daylight_duration&past_days=1&forecast_days=7';
 function st(w){if(w==null)return null;if(w<=1)return 'sun';if(w<=3||w==45||w==48)return 'cloud';if(w>=95)return 'storm';if(w>=51&&w<=86)return 'rain';return 'cloud'}
 var LB={sun:'Sunny',cloud:'Partly cloudy',rain:'Rain',storm:'Storm'};
 function ic(s,z){var C='<path d="M9 19h11a4 4 0 0 0 0-8 6 6 0 0 0-11.5 1.5A3.3 3.3 0 0 0 9 19z" fill="#cfd6df" stroke="#4d5b6b" stroke-width="1.3"/>',S='<circle cx="12" cy="12" r="5" fill="#f2c04a" stroke="#b5841c" stroke-width="1.2"/><g stroke="#b5841c" stroke-width="1.5" stroke-linecap="round"><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/></g>',g;
@@ -209,8 +209,11 @@ fetch(u).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
  var c=d.current,cs=st(c.weather_code);
  if(cs)b.classList.add('wx-'+cs);
  cur.innerHTML='<div class="wh">'+(cs?ic(cs,40):'')+'<div><div class="wn">'+Math.round(c.temperature_2m)+'°C<small>'+f(c.temperature_2m)+'°F</small></div>'+(cs?'<div class="ws">'+LB[cs]+'</div>':'')+'</div></div><div class="wd">Precipitation '+c.precipitation+' mm · Humidity '+c.relative_humidity_2m+'%</div><div class="wm">Click for 7-day forecast</div>';
- var y=d.daily,h='<table><tr><th>Day</th><th>High/Low</th><th>Rain</th><th>Hum.</th><th>Wind</th></tr>';
- for(var i=0;i<y.time.length;i++){var dt=new Date(y.time[i]+'T12:00:00');
+ var y=d.daily,T=function(x){return x?x.slice(11,16):'–'},DL=function(sec){var m=Math.round(sec/60);return Math.floor(m/60)+' h '+(m%60<10?'0':'')+(m%60)+' min'};
+ if(y.sunrise&&y.daylight_duration&&y.time.length>1){var dd=Math.round(y.daylight_duration[1]-y.daylight_duration[0]),ad=Math.abs(dd),dm=Math.floor(ad/60),dsx=ad%60,sg=dd>0?'+':(dd<0?'−':'±');
+  cur.insertAdjacentHTML('beforeend','<div class="wd">Sunrise '+T(y.sunrise[1])+' · Sunset '+T(y.sunset[1])+'</div><div class="wd">Day length '+DL(y.daylight_duration[1])+' ('+sg+(dm?dm+' min ':'')+dsx+' s from yesterday)</div>');}
+ var h='<table><tr><th>Day</th><th>High/Low</th><th>Rain</th><th>Hum.</th><th>Wind</th></tr>';
+ for(var i=1;i<y.time.length;i++){var dt=new Date(y.time[i]+'T12:00:00');
   var ds=st(y.weather_code?y.weather_code[i]:null);
   h+='<tr><td>'+(ds?ic(ds,18):'')+dt.toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'})+'</td><td>'+Math.round(y.temperature_2m_max[i])+'° / '+Math.round(y.temperature_2m_min[i])+'°C</td><td>'+(y.precipitation_probability_max[i]==null?'–':y.precipitation_probability_max[i]+'%')+' · '+y.precipitation_sum[i]+' mm</td><td>'+(y.relative_humidity_2m_mean?Math.round(y.relative_humidity_2m_mean[i])+'%':'–')+'</td><td>'+Math.round(y.wind_speed_10m_max[i])+' km/h '+dir(y.wind_direction_10m_dominant[i])+'</td></tr>'}
  tb.innerHTML=h+'</table>';
