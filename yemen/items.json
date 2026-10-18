@@ -3,6 +3,62 @@
  "subtitle": "The daily brief on the campaign against the Houthis",
  "editions": [
   {
+   "date": "2026-10-18",
+   "lede": "Egypt moved toward joining Saudi Arabia's defense, and the UAE is reported to be paying anti-Houthi forces again, as Houthi missiles and drones kept coming at Riyadh, the Eastern Province and the south overnight.",
+   "items": [
+    {
+     "headline": "Egypt's parliament meets today on defending Saudi Arabia",
+     "text": "At a military academy graduation on Saturday, 17 October, President Abdel Fattah el-Sisi said Egypt would take any measure needed to protect Saudi Arabia if King Salman and Crown Prince Mohammed bin Salman ask, and asked parliament for an emergency session to authorize it. He said Egypt would act only in defense. Parliament's secretariat scheduled a plenary session for 1 p.m. Cairo time (1 p.m. in Israel) on Sunday, 18 October, without publishing the agenda. Reuters, Al Jazeera, AFP via Arab News, The National and Egypt's State Information Service all report it. Saudi Arabia has made no public request. Egypt was part of the 2015 coalition; its stake now is Red Sea traffic to the Suez Canal, which runs past the Bab al-Mandab strait the Houthis took in September.",
+     "source": "The National; Reuters; Al Jazeera; Egypt State Information Service",
+     "link": "https://www.thenationalnews.com/news/gulf/2026/10/17/egypts-sisi-seeks-parliamentary-approval-to-defend-saudi-arabia-if-asked/"
+    },
+    {
+     "headline": "UAE reported to resume paying the Giants Brigades",
+     "text": "The Guardian reported on Saturday, citing sources in Yemen, that the UAE has agreed to resume funding southern forces, mainly the Giants Brigades it once trained and paid, in return for Saudi air support. Newsmax and Dunya News carry the report. The UAE left Yemen and stopped the payments in January after its dispute with Riyadh over the south. Neither government has confirmed the deal, so it is unconfirmed. If true, it would put money back behind the most effective ground force in the counteroffensive at a moment when the Taiz and Lahj fronts are stalled.",
+     "source": "The Guardian via Newsmax; Dunya News",
+     "link": "https://www.yahoo.com/news/world/articles/uae-resumes-yemen-funding-saudis-145235583.html"
+    },
+    {
+     "headline": "New overnight barrage on Riyadh, the Eastern Province and Khamis Mushait",
+     "text": "Coalition spokesman Maj. Gen. Turki al-Maliki said early on Sunday, 18 October, that the coalition intercepted two Houthi ballistic missiles aimed at Khamis Mushait and three drones, two over Riyadh region and one over the Eastern Province. Civil Defense sent alerts in Riyadh, Abha and Khamis Mushait before announcing the danger had passed. On Saturday the coalition had reported four drones downed over Riyadh, the Eastern Province and the south. Saudi Gazette and Anadolu report the statements; no damage or casualties were reported. The figures come from the coalition only.",
+     "source": "Saudi Gazette; Anadolu",
+     "link": "https://saudigazette.com.sa/article/665503/saudi-arabia/coalition-intercepts-two-houthi-ballistic-missiles-three-drones-over-kingdom"
+    },
+    {
+     "headline": "Houthis claim a Saudi Apache shot down near Najran",
+     "text": "Houthi military spokesman Yahya Saree said on Saturday that Houthi forces shot down a Saudi AH-64 Apache helicopter near Najran while it attacked their positions on the border. Video of a smoking aircraft is circulating on X, but it has not been verified, and Saudi officials have not commented. Anadolu reports the claim. It is unconfirmed. If true, it would be the first reported loss of a Saudi aircraft in this round of fighting and would point to cross-border ground and air combat on the Najran front.",
+     "source": "Anadolu; Saba (Houthi)",
+     "link": "https://www.aa.com.tr/en/middle-east/houthis-claim-to-have-shot-down-saudi-apache-helicopter-near-yemen-border/4092322"
+    },
+    {
+     "headline": "Taiz: government lines hold at Jabal Han, but no breakthrough",
+     "text": "Government forces said they repelled a Houthi assault west of Taiz city that lasted about 12 hours around Jabal Han, with fighting also at the old airport area, Ghurab and Bir Basha, and on the al-Dhabab, al-Aqrud and al-Shaqab fronts. Critical Threats, a US research project, reads the same reports as showing government forces holding the high ground west of the city that the Houthis have been trying to take since they encircled Taiz on 12 October. It also notes that the Giants Brigades and Homeland Shield Forces have made no significant gains in Waziyah and Madaribah, which protect the recently retaken Dhubab airport. The army claims 1,417 strikes and about 800 Houthis killed or wounded in 24 hours, and more than 17,000 strikes since 5 October; those figures are its own and unverified.",
+     "source": "Asharq Al-Awsat; Critical Threats; Arab News",
+     "link": "https://www.criticalthreats.org/analysis/iran-update-october-17-2026"
+    },
+    {
+     "headline": "Former prime minister warns Taiz decides the whole west",
+     "text": "Maeen Abdelmalik Saeed, prime minister from 2018 to 2024 and now a presidential adviser, told The National that the Houthis are taking the rural outskirts and roads around Taiz before closing a full siege, and that losing the city would open the way to Aden, Marib and Lahj, home of one of Yemen's largest military camps. He said the government offensive holds the center of Mokha, but Houthi forces in the hills around it still shell it. This is his assessment, not an independent finding.",
+     "source": "The National",
+     "link": "https://www.thenationalnews.com/news/mena/2026/10/17/battle-for-taiz-is-for-whole-of-western-yemen-warns-ex-pm-maeen-abdelmalik-saeed/"
+    },
+    {
+     "headline": "WSJ: Iranian officers directing Houthi strikes",
+     "text": "The Wall Street Journal reported on 16 October that Revolutionary Guard officers in Yemen helped the Houthis place missiles and radar near the Red Sea and Bab al-Mandab, gave targeting intelligence for attacks on Saudi Arabia, and that some were on the front lines directing drone and missile attacks. Iran International and Saudi outlet Ajel carry the report. Iran denies encouraging the attacks; the Journal's sourcing could not be checked independently. Yemen's foreign minister has rejected Iran's offer to mediate.",
+     "source": "Wall Street Journal; Iran International",
+     "link": "https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107"
+    },
+    {
+     "headline": "Riyadh airport: no reopening announced",
+     "text": "The notice closing King Khalid International Airport expired at 2100 GMT on Saturday (midnight in Riyadh and in Israel). As of early Sunday, no reopening announcement from the Saudi civil aviation authority could be found in the reports checked; AGBI had said before the deadline that the notice could easily be extended, and Asiatoday reports that no date has been given. That status is unconfirmed until Saudi authorities speak. Airlines are still staying away: Air France-KLM until the end of October and IndiGo and Akasa until 24 October.",
+     "source": "AGBI; Asiatoday; Reuters via Al-Monitor",
+     "link": "https://www.agbi.com/aviation/2026/10/riyadh-airport-reopening-in-doubt-after-houthi-attacks/"
+    }
+   ],
+   "trend": "Saudi Arabia is gathering outside help: Egypt is preparing legal authority to defend the kingdom, the UAE is reported to be funding southern forces again, and Europe is already helping protect oil sites. On the ground the government holds its lines around Taiz but is not advancing, while the Houthis keep up daily missile and drone fire on Saudi cities.",
+   "watch": "What Egypt's parliament authorizes today and whether Riyadh asks for help; confirmation of the UAE funding deal; whether Saudi Arabia confirms or denies the Apache loss; Riyadh airport status; Jabal Han and the Waziyah and Madaribah fronts."
+  },
+  {
    "date": "2026-10-17",
    "lede": "The Houthis hit Aden a second day running, this time the airport, while Washington openly floated Israeli help for Saudi Arabia. By evening Aden airport was open again, while the Houthis reported deaths from a Saudi strike in Dhamar.",
    "items": [
