@@ -50,7 +50,8 @@ def meta(it, link_text="Source"):
             f'<time datetime="{e(it["date"])}">{e(long_date(it["date"]))}</time> · '
             + (f'<span class="interim">{e(it["edition_label"])}</span> · ' if it.get("edition_label") else '') +
             f''
-            f'<a href="{e(it["url"])}" rel="noopener" target="_blank">{link_text}</a></p>')
+            f'<a href="{e(it["url"])}" rel="noopener" target="_blank">{link_text}</a>'
+            + (f' · <a href="{e(it["background"])}">Backgrounder</a>' if it.get("background") else '') + '</p>')
 
 NEWEST = None
 def is_new(it):
@@ -391,7 +392,7 @@ def build(data, now):
                       f'<span class="s">{e(it["source"])} · {e(long_date(it["date"]))}</span></li>')
         sv.append('</ol>')
     sv.append('</div>')
-    out.append('<aside class="rail">' + weather_html(data) + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li><li><a href="maozim/">The Ma\'ozim Road (Beitunia bypass) and the Wallerstein Road</a></li><li><a href="trump-plan-settlers/">Why settler leaders opposed the Trump plan (2020)</a></li></ul><h2>Sections</h2><ul><li><a href="yemen/">Yemen Desk: the daily anti-Houthi campaign brief</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
+    out.append('<aside class="rail">' + weather_html(data) + "".join(sv) + '<div class="sources" id="backgrounders"><h2>Backgrounders</h2><ul><li><a href="beit-hanina/">Beit Hanina: historical and contemporary profile</a></li><li><a href="maozim/">The Ma\'ozim Road (Beitunia bypass) and the Wallerstein Road</a></li><li><a href="trump-plan-settlers/">Why settler leaders opposed the Trump plan (2020)</a></li><li><a href="taybeh/">Taybeh: historical and contemporary profile</a></li><li><a href="abu-falah/">Abu Falah, October 16, 2026: the Israeli account and the evidence</a></li><li><a href="belgian-consul/">The Belgian Consul General in Jerusalem</a></li><li><a href="jonathan-pollak/">Jonathan Pollak: activist profile</a></li><li><a href="huckabee/">Ambassador Huckabee and "settler violence": statements and visits</a></li></ul><h2>Sections</h2><ul><li><a href="yemen/">Yemen Desk: the daily anti-Houthi campaign brief</a></li></ul></div>' + sources_html() + '<div class="about"><strong>About this page.</strong> Every item is taken from the morning '
                'letters and evening supplements on the Palestinian Authority and security, and links to its '
                'original source. Times are Israel time.</div></aside></div>')
 
