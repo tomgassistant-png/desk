@@ -3,6 +3,68 @@
  "subtitle": "The daily brief on the campaign against the Houthis",
  "editions": [
   {
+   "date": "2026-10-19",
+   "lede": "Egypt's vote on sending forces to Saudi Arabia slipped to Tuesday even as Egyptian transport planes were tracked into the kingdom, and the Gulf states closed ranks behind Riyadh. In Yemen the Houthis cut the main road from Aden into besieged Taiz, while the war kept emptying offices and classrooms in the Saudi capital.",
+   "items": [
+    {
+     "headline": "Egypt's vote moves to Tuesday; Egyptian transport planes tracked into Saudi Arabia",
+     "text": "Egypt's parliament ended Sunday's emergency session without voting on President el-Sisi's request for authority to defend Saudi Arabia, and resumes today, Monday 19 October. MP Mostafa Bakry, who is close to the state, wrote that debate will run three days because so many members asked to speak, with the vote expected on Tuesday (Ahram Online); Reuters and AFP confirm the delay. The pro-Sisi parties hold more than the two-thirds needed, according to the head of the Arab affairs committee, and the Egyptian Social Democratic Party says it will abstain (CNN Arabic). Separately, flight trackers reported at least two Egyptian Air Force C-130H transports, with transponders off, landing at King Fahd Air Base in Taif on Sunday. Al Jazeera Arabic saw the aircraft in western Saudi airspace but could not confirm where they landed, so the landing and any cargo are unconfirmed. Saudi Arabia has still made no public request for Egyptian troops.",
+     "source": "Ahram Online; Reuters via Geo News; AFP via Al-Monitor; CNN Arabic; Al Jazeera Arabic",
+     "link": "https://english.ahram.org.eg/News/580258.aspx"
+    },
+    {
+     "headline": "Gulf ministers back Saudi self-defense and call for the Houthis to be listed as terrorists",
+     "text": "The GCC Ministerial Council, meeting in Manama on Sunday for its 168th session, condemned the Houthi attacks on Saudi airports and vital facilities, declared full solidarity with Saudi Arabia, and affirmed the individual and collective right of self-defense under Article 51 of the UN Charter. It said the security of member states is indivisible, called for enforcement of the UN arms embargo, and urged that the Houthis be designated a terrorist group. The GCC secretariat published the communique; Al Jazeera and Xinhua report it. The Saudi and Russian foreign ministers also discussed the Yemen escalation and the threats to Hormuz and Bab al-Mandab on the sidelines (Saudi Foreign Ministry via AFP). The statement is political cover, not a commitment of forces.",
+     "source": "GCC Secretariat; Al Jazeera; Xinhua; AFP via Al-Monitor",
+     "link": "https://www.gcc-sg.org/en/MediaCenter/News/Pages/news-2026-10-18-5.aspx"
+    },
+    {
+     "headline": "Saudi defense minister in Abu Dhabi as the UAE funding report stays unconfirmed",
+     "text": "Prince Khalid bin Salman, the Saudi defense minister, met UAE President Mohamed bin Zayed in Abu Dhabi on Sunday, with Vice President Mansour bin Zayed and national security adviser Tahnoon bin Zayed present. The official readouts from the UAE presidency and the Saudi Press Agency (via Asharq Al-Awsat) speak only of regional developments and priorities for the coming period. They do not mention Yemen funding. The visit comes a day after The Guardian reported that the UAE agreed to resume paying the Giants Brigades in return for Saudi air support. The timing fits that report, but neither government has confirmed a deal, so it remains unconfirmed.",
+     "source": "UAE Presidential Court; Asharq Al-Awsat (SPA); Arab News",
+     "link": "https://english.aawsat.com/gulf/5330934-mohamed-bin-zayed-khalid-bin-salman-discuss-regional-developments"
+    },
+    {
+     "headline": "Houthis cut the main road from Aden into Taiz",
+     "text": "Yemen's transport ministry said the Houthis blew up a culvert on the road at Hayjat al-Abd, cutting the main route linking Taiz with Lahj and Aden. Al-Masdar Online reports the Houthis already control the area and that the road had reopened after an earlier blast, and Asharq Al-Awsat also reports the destruction. This matters for the campaign: it is the government side's main supply line into Taiz, which the Houthis have encircled since 12 October, so it makes holding the city harder. Reports that the government is building a replacement route have not been found.",
+     "source": "Asharq Al-Awsat; Al-Masdar Online; Al-Mahriah (transport ministry)",
+     "link": "https://english.aawsat.com/arab-world/5330912-yemen-forces-keep-efforts-eliminate-remaining-houthis-bab-al-mandeb"
+    },
+    {
+     "headline": "Fronts: Taiz lines hold, Bab al-Mandab mop-up, claimed push west of Marib",
+     "text": "Asharq Al-Awsat, citing military media, says government forces and the Popular Resistance turned back a broad Houthi attack west of Taiz and another on the al-Shaqab front at the city's southern entrance, while coalition jets struck around Jabal Han. On Sunday, the 14th day of Operation Dawn of Yemen, government forces began operations to clear Houthi pockets dug in behind hills, trenches and minefields near Bab al-Mandab, with fighting in Waziyah toward the Kahbub mountains. Army spokesman Majed al-Nuzaili claimed 1,326 strikes and about 370 Houthis killed or wounded in 24 hours, positions taken in Taiz, and an advance on the eastern front west of Marib (Arab News; Xinhua). One regional outlet places Taiz gains in the city's southeast; that is single-sourced. All the figures are the army's own and unverified, and no outside source yet confirms ground changing hands.",
+     "source": "Asharq Al-Awsat; Arab News; Xinhua",
+     "link": "https://www.arabnews.com/middle-east/yemens-military-claims-1326-strikes-on-houthis-about-370-fighters-neutralized-3007034"
+    },
+    {
+     "headline": "Houthis report 110 coalition strikes in a day",
+     "text": "Houthi military spokesman Yahya Saree said 110 coalition strikes hit Sanaa and the provinces of Hodeidah, Taiz and Marib in 24 hours, killing or wounding more than 30 people (Xinhua). Houthi-run media now put the toll from Sunday's strike on a house in Saada's al-Tawila area at 10 dead and 23 wounded. The coalition has not commented on either claim, and neither can be checked.",
+     "source": "Xinhua; AFP via Al-Monitor",
+     "link": "https://english.news.cn/20261019/cf4d7576026a47c19016e52efb72ef86/c.html"
+    },
+    {
+     "headline": "Riyadh: Kingdom Centre orders staff home, schools stay online, airport open only by permit",
+     "text": "The management of the Kingdom Centre tower in central Riyadh, whose tenants include Merrill Lynch, McKinsey and the IMF, told office staff on Sunday that remote work is mandatory 'until further notice,' in an email seen by AFP; the mall below stays open. Schools in Riyadh and the surrounding area extended online learning into a second week (AFP via Al-Monitor; Fox News). King Khalid International Airport reopened on Sunday but not to scheduled traffic: every arrival and departure needs prior permission from the civil aviation authority (Inside Aviation), which is why AFP still describes it as closed. Many foreign airlines remain suspended into late October or beyond (The National).",
+     "source": "AFP via Al-Monitor; Fox News; Inside Aviation; The National",
+     "link": "https://www.al-monitor.com/originals/2026/10/saudi-coalition-houthis-trade-strikes-disruption-spreads"
+    },
+    {
+     "headline": "France: Barrot in Riyadh, Macron's Gulf tour skips Saudi Arabia",
+     "text": "French Foreign Minister Jean-Noel Barrot arrived in Riyadh on Sunday evening to restate French support for the kingdom (AFP via Al-Monitor; Sud Ouest). President Macron's tour from 19 to 21 October covers Kuwait, the UAE, Bahrain and Qatar, not Saudi Arabia, and is focused on securing fuel supplies and alternative shipping routes (France 24). France has already begun deploying military means to help protect the Yanbu export terminal on the Red Sea.",
+     "source": "AFP via Al-Monitor; Sud Ouest; France 24",
+     "link": "https://www.france24.com/fr/info-en-continu/20261014-macron-dans-quatre-pays-du-golfe-du-19-au-21-octobre-pour-s%C3%A9curiser-des-approvisionnements-%C3%A9nerg%C3%A9tiques"
+    },
+    {
+     "headline": "No new overnight barrage reported yet",
+     "text": "As of about 5 a.m. in Israel on Monday, no coalition statement on overnight Houthi launches at Saudi Arabia could be found. Sunday's toll stands at two ballistic missiles intercepted near Khamis Mushait, three drones over Riyadh and the Eastern Province, and a projectile that hurt six people and damaged three homes and three vehicles in Najran (Saudi Civil Defense via Xinhua; AFP). Threat alerts for Najran and As Sulayyil in Riyadh province were issued and lifted on Sunday.",
+     "source": "Xinhua; AFP via Al-Monitor; Saudi Gazette",
+     "link": "https://saudigazette.com.sa/article/665503/saudi-arabia/coalition-intercepts-two-houthi-ballistic-missiles-three-drones-over-kingdom"
+    }
+   ],
+   "trend": "Riyadh is building an Arab and Gulf coalition around itself: Egypt is moving toward legal authority and may already be flying in support, the GCC has endorsed collective self-defense, and the Saudi defense minister is working on the UAE in person. On the ground the government holds Taiz but the Houthis are tightening the noose by cutting its southern supply road, while the war's cost inside Saudi Arabia now reaches the capital's business district and schools.",
+   "watch": "Egypt's vote, now expected Tuesday, and whether Riyadh formally asks for troops; what the Egyptian C-130s carried; any UAE confirmation of funding the Giants Brigades; whether the Hayjat al-Abd road is repaired or bypassed; Bab al-Mandab clearing; airline returns to Riyadh."
+  },
+  {
    "date": "2026-10-18",
    "lede": "Egypt moved toward joining Saudi Arabia's defense, and the UAE is reported to be paying anti-Houthi forces again, as Houthi missiles and drones kept coming at Riyadh, the Eastern Province and the south overnight. By evening Egypt's parliament had put off its vote to Monday, Saudi Arabia confirmed the loss of a helicopter in Najran but blamed a malfunction, and Riyadh airport reopened.",
    "items": [
