@@ -168,6 +168,10 @@
       {
        "label": "Cyphers News on YouTube (run by 网 @Net__Void)",
        "url": "https://www.youtube.com/@CyphersNews"
+      },
+      {
+       "label": "PHYTHAGRAM on X (@PHYTHAGRAM), music-from-words cipher tool",
+       "url": "https://x.com/PHYTHAGRAM"
       }
      ]
     },
@@ -251,6 +255,34 @@
       {
        "label": "@covenaut post",
        "url": "https://x.com/covenaut/status/2111606573780861181"
+      }
+     ]
+    },
+    {
+     "name": "PHYTHAGRAM",
+     "handle": "@PHYTHAGRAM",
+     "who": "England-based maker of PHYTHAGRAM (phythagram.com), a free web tool that turns words and gematria-style ciphers into chords and melodies; credited by Cyphers for the 17 October Nick Land x Cyphers interview.",
+     "confidence": "High that these channels share one owner: the X bio and the YouTube channel both describe the same 'Free Tool to Encode Music' and link phythagram.com, and the site links back to x.com/PHYTHAGRAM and to cyphers.news. The tie to Land is indirect: @CyphersNews thanked @PHYTHAGRAM in its 17 Oct. post on the Land interview. No direct exchange with @xenocosmography found. The X account is new (Aug. 2026) and small.",
+     "links": [
+      {
+       "label": "X",
+       "url": "https://x.com/PHYTHAGRAM"
+      },
+      {
+       "label": "Site",
+       "url": "https://www.phythagram.com/"
+      },
+      {
+       "label": "YouTube",
+       "url": "https://www.youtube.com/@phythagram"
+      },
+      {
+       "label": "Payhip store",
+       "url": "https://payhip.com/b/xXjdY"
+      },
+      {
+       "label": "Cyphers thank-you post",
+       "url": "https://x.com/CyphersNews/status/2111535190438817875"
       }
      ]
     }
