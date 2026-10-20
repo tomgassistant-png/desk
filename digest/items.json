@@ -172,6 +172,10 @@
       {
        "label": "PHYTHAGRAM on X (@PHYTHAGRAM), music-from-words cipher tool",
        "url": "https://x.com/PHYTHAGRAM"
+      },
+      {
+       "label": "desert resonatrix (Colette) on X (@resonatingloop)",
+       "url": "https://x.com/resonatingloop"
       }
      ]
     },
@@ -282,6 +286,38 @@
       },
       {
        "label": "Cyphers thank-you post",
+       "url": "https://x.com/CyphersNews/status/2111535190438817875"
+      }
+     ]
+    },
+    {
+     "name": "desert resonatrix (Maria Colette)",
+     "handle": "@resonatingloop",
+     "who": "Cyphers collaborator ('cybernetic co-cleric'; bio tags @cyphersnews) who builds gematria and numerology web tools at resonatrix.tech and writes the Substack Despite Obvious Competence; tagged by @CyphersNews in its 17 Oct. post of the Nick Land x Cyphers interview.",
+     "confidence": "High. The site resonatrix.tech names 'maria colette · desert resonatrix,' uses a resonatingloop@cyphers.news address, and links the X, GitHub, Substack and Instagram accounts listed here. Daily replies in threads with @xenocosmography and @Net__Void (Oct. 2026).",
+     "links": [
+      {
+       "label": "X",
+       "url": "https://x.com/resonatingloop"
+      },
+      {
+       "label": "Site",
+       "url": "https://resonatrix.tech/"
+      },
+      {
+       "label": "Substack",
+       "url": "https://resonatingloop.substack.com/"
+      },
+      {
+       "label": "GitHub",
+       "url": "https://github.com/resonatingloop"
+      },
+      {
+       "label": "Instagram",
+       "url": "https://instagram.com/reverse.oracle"
+      },
+      {
+       "label": "Cyphers interview post",
        "url": "https://x.com/CyphersNews/status/2111535190438817875"
       }
      ]
