@@ -250,7 +250,8 @@
             }
           ]
         }
-      ]
+      ],
+      "baseline_position": "bottom"
     },
     {
       "id": "uk-breakup-politics",

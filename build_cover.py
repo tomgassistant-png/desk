@@ -188,11 +188,14 @@ def main():
         if s.get("baseline") and not sidebar:
             paras = s["baseline"] if isinstance(s["baseline"], list) else [s["baseline"]]
             srcs = " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in s.get("baseline_sources", []))
-            out.append('<div class="baseline" style="background:#f1efe8;border-left:4px solid #8b0000;padding:12px 16px;margin:12px 0">'
+            blhtml = ('<div class="baseline" style="background:#f1efe8;border-left:4px solid #8b0000;padding:12px 16px;margin:12px 0">'
                        '<b>Background</b>' + "".join('<p style="margin:6px 0">' + e(x) + '</p>' for x in paras)
                        + (f'<p class="srcs" style="margin:4px 0">Sources: {srcs}</p>' if srcs else "")
                        + (f'<p class="srcs" style="margin:4px 0"><i>Last updated: {e(s["baseline_updated"])}</i></p>' if s.get("baseline_updated") else "")
                        + '</div>')
+            if s.get("baseline_position") != "bottom": out.append(blhtml); blhtml = ""
+        else:
+            blhtml = ""
         if s.get("links"):
             out.append('<p class="summary">' + " · ".join(f'<a href="{e(l["url"])}">{e(l["label"])}</a>' for l in s["links"]) + '</p>')
         if s.get("about"):
@@ -250,6 +253,7 @@ def main():
             if i["edition"] != last:
                 last = i["edition"]; out.append(f'<h2 class="edn">{e(long_date(last))}{" · today" if last == sn else ""}</h2>')
             out.append(story(i, secnew))
+        if blhtml: out.append(blhtml)
         if sidebar:
             out.append(f'</main><aside class="rail">{rail}</aside></div>')
         out.append('</div></body></html>')
