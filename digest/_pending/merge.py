@@ -1,5 +1,5 @@
 import json,sys,os
-P='/workspace/frontpage/digest/items.json'; E='2026-10-19'
+P='/workspace/frontpage/digest/items.json'; E='2026-10-20'
 d=json.load(open(P)); ids={i['id'] for i in d['items']}
 secs={s['id']:s for s in d['sections']}
 new=[];quiet=[];notes={};phr=[]
