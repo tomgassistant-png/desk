@@ -88,3 +88,9 @@ A section in `digest/items.json` may carry an optional `baseline` (one paragraph
 `build_cover.py` shows them in a shaded "Background" box under the section title.
 The morning digest should revise the paragraph and the date whenever there is a material development
 (used first for `carney-case`). Facts need two independent sources or must be marked unconfirmed.
+
+## Section rail extras (digest sections with `rail_boxes`)
+- `link_groups`: list of `{title, links:[{label,url}]}` boxes in the right column.
+- `watch_people`: list of `{name, handle, who, confidence, links:[{label,url}]}`; add a person by appending an entry.
+- `redirect_from`: old section ids; the build writes `digest/<old>/index.html` as a noindex redirect to the section.
+  Example: Cypherboria (`digest/cypherboria/`, formerly `nick-land`).

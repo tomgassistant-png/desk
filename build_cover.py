@@ -222,7 +222,18 @@ def main():
                     print("realestate box failed:", ex)
             ul = ('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0"><b>Useful links</b><ul style="margin:6px 0;padding-left:18px">'
                   + "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in s.get("useful_links", [])) + '</ul></aside>') if s.get("useful_links") else ""
-            rail = rbox + re_html + ul
+            ppl = ""
+            if s.get("watch_people"):
+                ppl = ('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0"><b>People watched</b>'
+                       + "".join(f'<div style="margin:8px 0"><b>{e(pp["name"])}</b>' + (f' <span class="srcs">{e(pp["handle"])}</span>' if pp.get("handle") else "")
+                                 + f'<p class="summary" style="margin:3px 0;font-size:14px">{e(pp["who"])}</p>'
+                                 + (f'<p class="srcs" style="margin:2px 0"><i>Confidence: {e(pp["confidence"])}</i></p>' if pp.get("confidence") else "")
+                                 + '<p class="srcs" style="margin:2px 0">' + " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in pp.get("links", [])) + '</p></div>'
+                                 for pp in s["watch_people"]) + '</aside>')
+            lg = "".join('<aside style="border:1px solid #ccc;padding:10px 14px;margin:12px 0">' + f'<b>{e(g["title"])}</b><ul style="margin:6px 0;padding-left:18px">'
+                         + "".join(f'<li><a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a></li>' for l in g["links"]) + '</ul></aside>'
+                         for g in s.get("link_groups", []))
+            rail = rbox + re_html + ul + lg + ppl
             side = ""; sidebar = True
             out.append('<div class="cov-grid"><main>')
         elif sidebar:
@@ -243,6 +254,12 @@ def main():
             out.append(f'</main><aside class="rail">{rail}</aside></div>')
         out.append('</div></body></html>')
         write(os.path.join(ROOT, f'digest/{s["id"]}/index.html'), "".join(out))
+        for old_id in s.get("redirect_from", []):
+            tgt = f'../{s["id"]}/'; full = f'https://tomgassistant-png.github.io/desk/digest/{s["id"]}/'
+            write(os.path.join(ROOT, f'digest/{old_id}/index.html'),
+                  f'<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex,nofollow">'
+                  f'<link rel="canonical" href="{full}"><meta http-equiv="refresh" content="0; url={tgt}"><title>Moved to {e(s["name"])}</title>'
+                  f'<script>location.replace("{tgt}"+location.hash)</script></head><body><p>This section is now <a href="{tgt}">{e(s["name"])}</a>.</p></body></html>')
     import glob
     jobs = []
     if os.path.exists(os.path.join(ROOT, "digest/trenton/backgrounder.json")):
