@@ -209,6 +209,14 @@
       {
        "label": "Retrochronic: anthology of Land's writings on \"capitalism is AI\" (fan-run, not Land's site)",
        "url": "https://retrochronic.com/"
+      },
+      {
+       "label": "Y-3 – Haecker exchange on the JCCRU (Substack, Oct. 2026)",
+       "url": "https://yyy3.substack.com/p/the-cybernetic-aggiornamento"
+      },
+      {
+       "label": "Haecker: Breaking the Cybernetic Silence (16 Oct. 2026)",
+       "url": "https://ryanhaecker.substack.com/p/breaking-the-cybernetic-silence"
       }
      ]
     }
@@ -427,15 +435,15 @@
     "slug": "next-french-presidential-election",
     "label": "Next French presidential election, winner"
    },
-   "baseline_updated": "20 October 2026",
+   "baseline_updated": "21 October 2026",
    "baseline": [
     "Dates. The Council of Ministers fixed the dates on 1 July 2026: the first round is on Sunday, 18 April 2027, and the second round on Sunday, 2 May 2027. Voters in Guadeloupe, Martinique, French Guiana, Saint-Pierre-et-Miquelon, Saint-Barthélemy, Saint-Martin and French Polynesia vote one day earlier. The formal decree that convenes the voters has not yet been published; it must appear at least ten weeks before the first round, that is, by about 7 February 2027. If no candidate wins more than half of the votes cast in the first round, the two leaders meet in the second round two weeks later.",
     "Getting on the ballot. A candidate needs at least 500 signed sponsorships (parrainages) from elected officials, chiefly mayors, but also members of parliament, departmental and regional councilors and others. The 500 must come from at least 30 departments or overseas territories, with no more than one tenth from any one of them. The forms are sent out after the decree is published, and the deadline is calculated to fall on about 12 March 2027 (a calculation from the law, not yet an official date). The Constitutional Council then publishes the official list of candidates and the names of the sponsors.",
     "Macron. Emmanuel Macron, elected in 2017 and re-elected in 2022, cannot run, because the Constitution limits a president to two consecutive terms.",
     "Candidates. National Rally (RN): Marine Le Pen, who announced on 7 July 2026 that she will run for a fourth time, with Jordan Bardella as her heir if she cannot. The center and Macron's former camp: Édouard Philippe (Horizons, declared since September 2024) and Gabriel Attal (Renaissance, declared in May 2026). The Republicans (LR): Bruno Retailleau, designated by the party in April 2026; David Lisnard, mayor of Cannes, also declared, in March 2026. Radical left: Jean-Luc Mélenchon (La France insoumise), declared in May 2026. Social-democratic left: Raphaël Glucksmann (Place publique), who won the joint primary of the Socialist Party, Place publique and the Gauche républicaine et socialiste on 11 October 2026 with 66.2 percent. Others tested in polls or declared include Éric Zemmour or Sarah Knafo (Reconquête), Fabien Roussel (Communists), Marine Tondelier (Greens), Nicolas Dupont-Aignan, Nathalie Arthaud, François Ruffin, Dominique de Villepin, the essayist Natacha Polony (declared 14 October 2026), and former president François Hollande, who has not ruled out a run. The month in which Philippe and Attal declared is taken from summaries and is unconfirmed.",
-    "Polls. Every recent poll puts Le Pen far ahead in the first round, and the race is for second place, where Philippe, Glucksmann and Mélenchon are now close together. Elabe for BFMTV and La Tribune Dimanche (14–16 October, 1,533 registered voters, published 17 October): Le Pen 31 to 33.5 percent, Philippe 15.5 to 16.5 when he is the only centrist, Glucksmann 15 to 16.5 and Mélenchon 15 to 16; in the second round Le Pen beats Philippe 52.5 to 47.5, Glucksmann 53.5 to 46.5 and Mélenchon 69 to 31. OpinionWay (13–14 October, after the left's primary; 978 registered voters): Le Pen 35 to 37 percent depending on the centrist candidate, with Mélenchon at 14 to 15, Glucksmann at 13 to 16 (up four to five points) and Philippe at 12 to 15 (his lowest in the series); in the second round Le Pen beats Philippe 56 to 44, Glucksmann 56 to 44 and Mélenchon 68 to 32. Ifop-Fiducial for LCI and Sud Radio (12–14 October, 1,390 people): Le Pen 34, Mélenchon 16, Philippe 14, Glucksmann 14, Attal 6 in the central scenario; without Attal, Philippe rises to 18. Odoxa (published 14 October): Le Pen 37 to 38, Mélenchon about 18, Philippe 17. Toluna Harris Interactive (12 October): Le Pen 37, Mélenchon 19. YouGov for Le HuffPost (12–15 October, 976 registered voters, published 18 October): Le Pen 35 to 37, Mélenchon 13 to 16, Glucksmann 12 to 14, Philippe 13 when he is the only centrist; in the second round Le Pen beats Philippe 52 to 48, Glucksmann 55 to 45 and Mélenchon 68 to 32. The pollsters differ most on the Le Pen–Philippe runoff: Elabe and YouGov have it at 52.5 to 47.5 and 52 to 48, OpinionWay at 56 to 44. No poll yet measures the effect of the violent protest day of 17 October. The Odoxa and Harris figures come from poll aggregators, not from the pollsters' own reports, and are unconfirmed in detail.",
+    "Polls. Every recent poll puts Le Pen far ahead in the first round, and the race is for second place, where Philippe, Glucksmann and Mélenchon are close together; the first poll taken after the riots of 17 October (Ifop, below) has Mélenchon second and Philippe out in every scenario. Elabe for BFMTV and La Tribune Dimanche (14–16 October, 1,533 registered voters, published 17 October): Le Pen 31 to 33.5 percent, Philippe 15.5 to 16.5 when he is the only centrist, Glucksmann 15 to 16.5 and Mélenchon 15 to 16; in the second round Le Pen beats Philippe 52.5 to 47.5, Glucksmann 53.5 to 46.5 and Mélenchon 69 to 31. OpinionWay (13–14 October, after the left's primary; 978 registered voters): Le Pen 35 to 37 percent depending on the centrist candidate, with Mélenchon at 14 to 15, Glucksmann at 13 to 16 (up four to five points) and Philippe at 12 to 15 (his lowest in the series); in the second round Le Pen beats Philippe 56 to 44, Glucksmann 56 to 44 and Mélenchon 68 to 32. Ifop-Fiducial for LCI and Sud Radio (12–14 October, 1,390 people): Le Pen 34, Mélenchon 16, Philippe 14, Glucksmann 14, Attal 6 in the central scenario; without Attal, Philippe rises to 18. Odoxa (published 14 October): Le Pen 37 to 38, Mélenchon about 18, Philippe 17. Toluna Harris Interactive (12 October): Le Pen 37, Mélenchon 19. YouGov for Le HuffPost (12–15 October, 976 registered voters, published 18 October): Le Pen 35 to 37, Mélenchon 13 to 16, Glucksmann 12 to 14, Philippe 13 when he is the only centrist; in the second round Le Pen beats Philippe 52 to 48, Glucksmann 55 to 45 and Mélenchon 68 to 32. The pollsters differ most on the Le Pen–Philippe runoff: Elabe and YouGov have it at 52.5 to 47.5 and 52 to 48, OpinionWay at 56 to 44. The first poll taken after the violence of 17 October, Ifop-Fiducial for LCI, Le Figaro and Sud Radio (17–19 October, 1,928 registered voters, published 20 October), has Le Pen at 34 to 38 percent, Mélenchon 15 to 20, Glucksmann 12 to 16 and Philippe 12 to 16, with Philippe eliminated in every scenario (main scenario: Le Pen 36, Mélenchon 16.5, Philippe 15, Glucksmann 14, Retailleau 7.5); Le Pen wins every runoff, including 56 to 44 against Philippe, up from 52 to 48 in Ifop's 12–14 October wave. The Odoxa and Harris figures come from poll aggregators, not from the pollsters' own reports, and are unconfirmed in detail.",
     "Parliament and government. Since the snap elections of July 2024 the National Assembly has had no majority. The National Rally is the largest group, with about 118 to 119 of the 577 seats; the government's base (Renaissance/EPR, Horizons, the Democrats/MoDem and LR) is split and well short of a majority, and 289 votes bring down a government. Sébastien Lecornu has been prime minister since September 2025; his second government survived two censure motions on the 2026 budget in January 2026 (the La France insoumise motion received 269 votes). He presented the 2027 budget on 1 October 2026, again without a majority, and may have to use Article 49.3, which would expose him to a censure vote, or budget ordinances, which have never been used. The vote on the first (revenue) part of the 2027 budget, planned for 20 October, was postponed with more than 2,600 amendments left; the Assembly takes up the social security budget from 20 October and returns to the state budget on 27 October. The minister for public accounts says the first week of debate added €10 billion to the deficit, and the revenue part is expected to be rejected and sent to the Senate.",
-    "Street protests. Since mid-September a movement chiefly of high school pupils (lycéens), joined by so-called students, unions and others, has blockaded schools and marched over school conditions and then the cost of living; the government accuses La France insoumise of encouraging it, which Mélenchon denies. The national day of 17 October drew 550,000 marchers by the Interior Ministry's count (800,000 by the organizers') and ended in looting in Paris, Lyon, Marseille, Bordeaux and other cities and the burning of the Limoges town hall. The ministry's consolidated toll is 2,397 arrests and 997 police officers and gendarmes injured, seven seriously; one marcher died after collapsing, two teenagers were maimed by police grenades (in Saint-Étienne and Mulhouse, both under IGPN inquiry), and the government counts at least 3,000 shops damaged or looted. By 19 October 2,513 people had been held in custody and 67 jailed; prosecutors are told to treat looters as organized crime, and the antiterrorism prosecutors are weighing the Limoges fire. Macron's address of 18 October blamed ultra-left groups and delinquents but declared no state of emergency and offered no new cost-of-living measures. On 19 October Interior Minister Laurent Nuñez offered his resignation, which Macron refused; the government admitted failures of anticipation and intelligence; and Prime Minister Lecornu ordered partial local curfews (central Paris around République and Les Halles, central Lyon, and curfews for minors in Nice, the Lille area and Bordeaux), support for looted shops, and a meeting with the unions on 21 October. Lecornu says an ultra-left network wants disorder up to the election; the Paris prosecutor says she cannot confirm that those arrested are ultra-left, and Mediapart reports, from police sources, that intelligence officers were told to blame LFI (unconfirmed). Next dates: a gilets jaunes 'Act II' on 24 October and an inter-union strike day on 5 November. The RN, LR and the center call for firmness, Retailleau for a state of emergency, and Glucksmann accuses Mélenchon of helping the far right; Ifop's Frédéric Dabi says the disorder could strengthen Le Pen's first-round base, but no poll yet measures the effect.",
+    "Street protests. Since mid-September a movement chiefly of high school pupils (lycéens), joined by so-called students, unions and others, has blockaded schools and marched over school conditions and then the cost of living; the government accuses La France insoumise of encouraging it, which Mélenchon denies. The national day of 17 October drew 550,000 marchers by the Interior Ministry's count (800,000 by the organizers') and ended in looting in Paris, Lyon, Marseille, Bordeaux and other cities and the burning of the Limoges town hall. The ministry's consolidated toll is 2,397 arrests and 997 police officers and gendarmes injured, seven seriously; one marcher died after collapsing, two teenagers were maimed by police grenades (in Saint-Étienne and Mulhouse, both under IGPN inquiry), and the government counts at least 3,000 shops damaged or looted. By 19 October 2,513 people had been held in custody and 67 jailed; prosecutors are told to treat looters as organized crime, and the antiterrorism prosecutors are weighing the Limoges fire. Macron's address of 18 October blamed ultra-left groups and delinquents but declared no state of emergency and offered no new cost-of-living measures. On 19 October Interior Minister Laurent Nuñez offered his resignation, which Macron refused; the government admitted failures of anticipation and intelligence; and Prime Minister Lecornu ordered partial local curfews (central Paris around République and Les Halles, central Lyon, and curfews for minors in Nice, the Lille area and Bordeaux), support for looted shops, and a meeting with the unions on 21 October. Lecornu says an ultra-left network wants disorder up to the election; the Paris prosecutor says she cannot confirm that those arrested are ultra-left, and Mediapart reports, from police sources, that intelligence officers were told to blame LFI (unconfirmed). Next dates: a gilets jaunes 'Act II' on 24 October and an inter-union strike day on 5 November. The RN, LR and the center call for firmness, Retailleau for a state of emergency, and Glucksmann accuses Mélenchon of helping the far right; the first poll after the riots (Ifop, 17–19 October) shows Le Pen stronger and Philippe weaker. On 20 October Lecornu promised a 'massive' security operation for 24 October, with Sentinelle soldiers taking over static guard duties to free police; curfews for minors were extended to Marseille and Bordeaux; and the Justice Ministry said about 700 of some 2,500 people held had been brought before a magistrate.",
     "Le Pen's case. On 31 March 2025 a Paris court convicted Le Pen of embezzling European Parliament funds to pay party staff and banned her from office for five years with immediate effect, which would have kept her out of the race. On 7 July 2026 the Paris Court of Appeal upheld the conviction but cut the ban to 45 months, of which 30 are suspended. It ruled that the 15 months to be served had already run since 31 March 2025, so she is eligible. It also sentenced her to three years in prison, two suspended and one to be served with an electronic tag, and a fine of 100,000 euros. She appealed to the Court of Cassation, which suspends the sentence, including the tag. Her lawyers' written arguments were due by 15 October 2026. No hearing date has been set; a ruling is expected before the first round, possibly in early April 2027 (unconfirmed)."
    ],
    "baseline_sources": [
@@ -558,6 +566,10 @@
     {
      "label": "franceinfo: gilets jaunes 'Act II'",
      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/mobilisation-du-17-octobre-une-coordination-de-gilets-jaunes-annonce-un-acte-ii-des-manifestations-pour-samedi-24-octobre_8243932.html"
+    },
+    {
+     "label": "Ifop-Fiducial wave 7 (17–19 Oct.)",
+     "url": "https://www.ifopgroup.com/wp-content/uploads/2026/10/122853-barometre-de-lelection-presidentielle-vague-7-resultats-densemble.pdf"
     }
    ],
    "useful_links": [
@@ -618,6 +630,10 @@
   "2026-10-20": {
    "intro": "The main items are Gantz's withdrawal from the Israeli race and the pressure on small right-wing parties to follow, three Monday polls with Eisenkot's bloc at 51 to 55 seats (Channel 14 gives the right 62), a Channel 12 report that Netanyahu aide Urich kept working for Qatar into 2024, the opening of the Tampa military talks and Lebanon's refusal of direct army coordination, Lebanese army patrols in Beirut amid tension with Hezbollah, about 1,300 new megawatts for Israeli data centers until 2030, US–China investment talks and new Chinese export controls, the EU's Arctic strategy with a secure cable to Greenland, an open model for reading Tibetan texts, Interior Minister Nuñez's refused resignation and the first local curfews in five French cities, 2,513 people in custody after the riots, the dispute over Lecornu's claim of an ultra-left plot, a YouGov poll with Le Pen at 35 to 37 percent, the postponed French budget vote, three close Brazil runoff polls as Flávio's Polymarket odds slip to about 77 percent, the Quebec cabinet swearing-in dispute, SpaceX's third-quarter results due tonight, and a new Grok Bot release, version 0.71.2.",
    "quiet": "Nothing material on the Carney case, Trenton (no new city good news; a $54.3 million senior-housing tax credit from 2 October is outside the window), Colombia and Israel, HaShiloach (no new essays since 24 September in Hebrew and 16 August in English), UK breakup politics (Burnham is due to meet the first ministers at the end of October), Nick Land or Belle Burden. On the EUSM Lebanon watch: no new official or unofficial Israeli reaction was found, and no new contributing countries were named beyond Italy, France, Spain and Ireland, reported earlier."
+  },
+  "2026-10-21": {
+   "intro": "The main items are SpaceX's third-quarter results (revenue up 161 percent to $14.6 billion, a $4.4 billion profit, and $608 million from Cursor) and Musk's word that SpaceX and Tesla have set up committees to study a merger, four Israeli polls a week before the vote, the pressure on Winter to quit and Hanegbi's vote for Liberman, the airport arrests of Chabad draft evaders, the first day of the Tampa talks without agreement, a military-court summons for two Hezbollah officials, the first French poll after the riots with Philippe out in every scenario, soldiers freed up for Saturday's protests and new curfews in Marseille and Bordeaux, a Brazil poll with Flávio ahead and his Polymarket odds back near 81 percent, today's swearing-in of the PQ cabinet, the EU's Arctic strategy as adopted, the start of the Carver Center restoration in Trenton, and a written exchange on the JCCRU panel.",
+   "quiet": "Nothing material on the Carney case, Colombia and Israel, UK breakup politics, Trump and Xi, Israeli data centers, Belle Burden (book events only), HaShiloach (no new essays since 24 September in Hebrew), or non-Latin script digitization. Lebanon watch: no new Israeli reaction, official or unofficial, to the EU security mission in Lebanon (EUSM Lebanon) was found in Hebrew or English, and no new contributing countries were confirmed. Grok Bot's changelog is still at version 0.71.2. On Cypherboria: no new Land interviews, podcasts or talks; Retrochronic is unchanged (version 1.0.176, 199 sources); and 网 (@Net__Void)'s X posts could not be read (the account is protected)."
   }
  },
  "items": [
@@ -3711,6 +3727,438 @@
     {
      "name": "@RyanHaecker, 20 Oct. (X)",
      "url": "https://x.com/RyanHaecker/status/2112544304833159278"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-israel-election-1",
+   "edition": "2026-10-21",
+   "section": "israel-election",
+   "headline": "Four Tuesday polls: Walla has Eisenkot's Yashar ahead of Likud 23 to 19, Channel 14 has Likud far ahead and the coalition at 62",
+   "lead": "Four polls published on Tuesday, 20 October, a week before the 27 October vote, again split by outlet.",
+   "text": "Four polls published on Tuesday, 20 October, a week before the 27 October vote, again split by outlet. Walla (Lazar Research with Panel4All; 601 people questioned on 19 October; margin of error 4 points): Yashar 23 seats, Likud 19, Beyachad 14, the Democrats 9, Yisrael Beytenu 8, Shas 8, Otzma Yehudit 8, the Joint List 8, United Torah Judaism 7, Religious Zionism–Zehut 6, Ra'am 6 and the Reservists 4; Winter's party is at 2.9 percent, below the threshold. Blocs: Netanyahu's coalition 48, the opposition 54, the Arab parties 14 (Jerusalem Post; JFeed). Channel 14 (poll by Shlomo Filber): Likud 30, Yashar 20, Beyachad 9; coalition 62, opposition 44, Arab parties 14; in a direct contest Netanyahu leads Eisenkot 56 to 44 (Skarim poll archive; Globes/ice.co.il). The poll aggregator israelielections.com also lists i24News/Direct Polls (Likud 26, Yashar 20, Beyachad 12) and Maagar Mochot for 103FM (Yashar 21, Likud 18, Beyachad 15, with the Reservists and Amcha at 4 each); for these two the aggregator is the only source found, so the figures are unconfirmed. Polymarket's 'next prime minister' market has Eisenkot at about 50 percent, Netanyahu at 27.5 and Bennett at 12.5 (about $49.7 million traded).",
+   "sources": [
+    {
+     "name": "Jerusalem Post: Walla poll",
+     "url": "https://www.jpost.com/israel-election-2026/article-912291"
+    },
+    {
+     "name": "JFeed",
+     "url": "https://www.jfeed.com/news-israel/tn7ccy"
+    },
+    {
+     "name": "Skarim: Channel 14 poll, 20 Oct.",
+     "url": "https://www.skarim.org/polls/channel-14-2026-10-20"
+    },
+    {
+     "name": "Globes / ice.co.il",
+     "url": "https://www.ice.co.il/research/news/article/1134443"
+    },
+    {
+     "name": "israelielections.com poll table",
+     "url": "https://israelielections.com/2026/polls/"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-israel-election-2",
+   "edition": "2026-10-21",
+   "section": "israel-election",
+   "headline": "Netanyahu and Smotrich press Winter's rabbi to get him to quit; Winter refuses, and Hanegbi says he will vote for Liberman",
+   "lead": "Netanyahu and Bezalel Smotrich met Rabbi Eli Sadan, the mentor of candidate Winter, on Tuesday to press Winter to withdraw so his votes are not lost below the threshold; Winter refused, saying 'we are going all the way' (Times of Israel; Jerusalem Post).",
+   "text": "Netanyahu and Bezalel Smotrich met Rabbi Eli Sadan, the mentor of candidate Winter, on Tuesday to press Winter to withdraw so his votes are not lost below the threshold; Winter refused, saying 'we are going all the way' (Times of Israel; Jerusalem Post). Nissim Louk, the father of Shani Louk, who was murdered on 7 October 2023, endorsed Winter. Channel 12 reported, via the Times of Israel, that Netanyahu also phoned Moti Leitner of the Charedi Public party on Saturday; Leitner is staying in the race. Separately, Tzachi Hanegbi, a longtime Likud politician and Netanyahu's former national security adviser, wrote in Ynet that he will vote for Avigdor Liberman's Yisrael Beytenu, citing the 'messianic right,' the 'racist right' and the exemption of Haredim from the draft (Times of Israel; Jerusalem Post; Arutz Sheva). Ben Gvir said on the evening of 18 October that Netanyahu's office had promised European countries to keep Otzma Yehudit out of the next government; he gave no proof, and Likud called the claim 'false political spin.' Hours earlier Netanyahu had answered 'Absolutely' when asked whether Otzma would be in his government (Arutz Sheva; Ynetnews).",
+   "sources": [
+    {
+     "name": "Times of Israel: Winter's rabbi",
+     "url": "https://www.timesofisrael.com/netanyahu-smotrich-meet-winters-rabbi-to-pressure-him-to-quit-race-he-stays-defiant/amp/"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-912322"
+    },
+    {
+     "name": "Times of Israel: Hanegbi",
+     "url": "https://www.timesofisrael.com/liveblog_entry/ex-netanyahu-ally-hanegbi-a-longtime-likud-politician-says-hes-voting-for-liberman/"
+    },
+    {
+     "name": "Jerusalem Post: Hanegbi",
+     "url": "https://www.jpost.com/israel-election-2026/article-912239"
+    },
+    {
+     "name": "Arutz Sheva: Hanegbi",
+     "url": "https://www.israelnationalnews.com/news/434875"
+    },
+    {
+     "name": "Arutz Sheva: Ben Gvir",
+     "url": "https://www.israelnationalnews.com/news/434808"
+    },
+    {
+     "name": "Ynetnews: Ben Gvir",
+     "url": "https://www.ynetnews.com/article/syurwvm3fg"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-israel-election-3",
+   "edition": "2026-10-21",
+   "section": "israel-election",
+   "headline": "42 Chabad men detained at Ben Gurion over draft evasion; Netanyahu condemns the arrests; election committee fines Likud over IDF footage",
+   "lead": "Military police detained 42 Chabad men at Ben Gurion Airport on 20 October on draft-evasion charges; most were released after agreeing to enlist, and Ynet reports two were kept in custody (Ynetnews; Jerusalem Post).",
+   "text": "Military police detained 42 Chabad men at Ben Gurion Airport on 20 October on draft-evasion charges; most were released after agreeing to enlist, and Ynet reports two were kept in custody (Ynetnews; Jerusalem Post). Netanyahu called the arrests a 'deliberate attempt to harm the process of drafting Haredim without coercion,' and Haredi protesters blocked a highway (Times of Israel). The IDF has asked the Justice Ministry and the Central Elections Committee to cancel Netanyahu's planned speech at Wednesday's officer-cadet graduation, on the grounds that it would be electioneering (Channel 13 and Haaretz, via the Times of Israel). The chairman of the Central Elections Committee, Justice Sohlberg, ruled that Likud's campaign ads illegally used IDF Spokesperson footage; Likud must pay NIS 1,500 to the petitioner and NIS 6,000 to the state, and any further use needs advance approval and payment (Haaretz, headline and summary only because of the paywall; JFeed).",
+   "sources": [
+    {
+     "name": "Times of Israel: airport arrests",
+     "url": "https://www.timesofisrael.com/netanyahu-comes-out-against-arrest-of-haredi-draft-dodgers-as-42-detained-at-airport/"
+    },
+    {
+     "name": "Ynetnews",
+     "url": "https://www.ynetnews.com/article/c4wlf7g76"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912254"
+    },
+    {
+     "name": "Times of Israel: cadet speech",
+     "url": "https://www.timesofisrael.com/liveblog_entry/idf-appeals-against-pms-expected-speech-at-cadets-graduation-ceremony-over-electioneering-concerns/"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-21/ty-article/.premium/likud-fined-again-court-rules-netanyahu-campaign-ads-illegally-used-idf-assets/000001a1-5aa3-d602-a5b5-5fafe7de0000"
+    },
+    {
+     "name": "JFeed",
+     "url": "https://www.jfeed.com/latest-news/likud-party-ordered-to-pay-idf-for-use-of-military-footage-in-campaign-videos-56003"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-lebanon-1",
+   "edition": "2026-10-21",
+   "section": "lebanon",
+   "headline": "Tampa talks end their first day without agreement; Israel wants a joint operations room to verify pilot zones, Lebanon objects",
+   "lead": "The Lebanese and Israeli military delegations met for about six hours at US Central Command in Tampa on 20 October without reaching agreement, and resume on Wednesday, 21 October (Anadolu; Annahar).",
+   "text": "The Lebanese and Israeli military delegations met for about six hours at US Central Command in Tampa on 20 October without reaching agreement, and resume on Wednesday, 21 October (Anadolu; Annahar). Lebanon sent three officers instead of the six first planned. According to Annahar and Anadolu, it asked for an end to demolitions and firing, an organized Israeli withdrawal, new 'model' areas cleared of weapons, the release of prisoners, the return of residents and access for the olive harvest. Israel wants a direct operations room with the Lebanese army to verify that the pilot zones are clear, which Lebanon rejects. The villages discussed for the pilot are Froun, Sarifa and Zawtar al-Sharqiya, possibly extended to near Tallat Ali Taher. A US official told the Times of Israel the meeting is at working level, without the two ambassadors.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://aa.com.tr/en/middle-east/lebanon-israel-military-technical-talks-in-florida-conclude-first-day-to-resume-wednesday/4095149"
+    },
+    {
+     "name": "Annahar",
+     "url": "https://en.annahar.com/en/358747/start-of-the-tampa-military-meeting-lebanon-proposes-de-escalation-and-israeli-withdrawal"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/israel-and-lebanon-to-hold-working-level-talks-in-florida-today-us-official-says/"
+    },
+    {
+     "name": "Al Arabiya",
+     "url": "https://english.alarabiya.net/News/middle-east/2026/10/20/us-military-hosts-officials-from-lebanon-israel-for-threeday-conference-centcom"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-lebanon-2",
+   "edition": "2026-10-21",
+   "section": "lebanon",
+   "headline": "Military court summons two Hezbollah officials over a seized explosives shipment",
+   "lead": "Claude Ghanem, the government commissioner to Lebanon's military court, on 20 October summoned two Hezbollah officials known as 'Sajed' and 'Dulfiqar' over the explosives shipment that army intelligence seized at Dahr al-Baidar, and security agencies are trying to locate them (MTV; Naharnet; Times of Israel).",
+   "text": "Claude Ghanem, the government commissioner to Lebanon's military court, on 20 October summoned two Hezbollah officials known as 'Sajed' and 'Dulfiqar' over the explosives shipment that army intelligence seized at Dahr al-Baidar, and security agencies are trying to locate them (MTV; Naharnet; Times of Israel). Naharnet, citing AFP, dates the seizure to 8 October and puts the load at half a ton; MTV says 780 kilograms (an earlier item on this page gave a different date). It is one of three large explosives shipments seized this month, and US Secretary of State Rubio has urged Lebanon not to hand the explosives back.",
+   "sources": [
+    {
+     "name": "Naharnet",
+     "url": "https://www.naharnet.com/stories/en/323220-judicial-warrants-reportedly-issued-for-hezbollah-officials-in-explosives-case"
+    },
+    {
+     "name": "MTV Lebanon",
+     "url": "https://www.mtv.com.lb/en/News/Local/1750073/mtv-website-has-learned-that-the-government-commissioner-to-the-military-court-judge-claude-ghanem--has-issued-a-summons-for-hezbollah-figures-known-as--sajed--and--dulfiqar--after-army-intelligence-e"
+    },
+    {
+     "name": "Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/lebanon-judge-summons-2-hezbollah-officials-over-seized-explosives-shipment/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-france-election-1",
+   "edition": "2026-10-21",
+   "section": "france-election",
+   "headline": "First poll after the riots: Ifop has Le Pen at 34 to 38 percent, Mélenchon second and Philippe out in every scenario",
+   "lead": "An Ifop-Fiducial poll for LCI, Le Figaro and Sud Radio, taken online from the evening of 17 October to 19 October among 1,928 registered voters and published on 20 October, is the first measured after the 17 October violence.",
+   "text": "An Ifop-Fiducial poll for LCI, Le Figaro and Sud Radio, taken online from the evening of 17 October to 19 October among 1,928 registered voters and published on 20 October, is the first measured after the 17 October violence. First round: Le Pen 34 to 38 percent, Mélenchon 15 to 20, Glucksmann 12 to 16 and Philippe 12 to 16, and Philippe fails to reach the runoff in every scenario. In the main scenario, with Philippe as the only centrist: Le Pen 36, Mélenchon 16.5, Philippe 15, Glucksmann 14, Retailleau 7.5. Second round: Le Pen beats Mélenchon 68 to 32, Glucksmann 57 to 43, Hollande 59 to 41, Attal 58 to 42 and Philippe 56 to 44; in Ifop's previous wave (12–14 October) the Le Pen–Philippe runoff was 52 to 48. Polymarket barely moved: Le Pen about 46.5 percent, Philippe 18.5, Lisnard 11.7, Mélenchon 10.5, Glucksmann 5.",
+   "sources": [
+    {
+     "name": "Ifop: wave 7 results (PDF)",
+     "url": "https://www.ifopgroup.com/wp-content/uploads/2026/10/122853-barometre-de-lelection-presidentielle-vague-7-resultats-densemble.pdf"
+    },
+    {
+     "name": "Le Figaro",
+     "url": "https://www.lefigaro.fr/elections/presidentielles/sondages/presidentielle-2027-melenchon-qualifie-face-a-le-pen-surpuissante-philippe-elimine-dans-tous-les-cas-apres-les-emeutes-decouvrez-le-sondage-du-figaro-20261020"
+    },
+    {
+     "name": "TF1 Info",
+     "url": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-presidentielle-2027-apres-les-violences-du-17-octobre-ce-que-revele-notre-derniere-enquete-2471007.html"
+    },
+    {
+     "name": "Le Parisien",
+     "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-un-premier-sondage-post-17-octobre-donne-marine-le-pen-largement-en-tete-au-premier-tour-devant-jean-luc-melenchon-20-10-2026-34TUA5TW6BAV5HSLDBY4R65OZI.php"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-france-election-protests-1",
+   "edition": "2026-10-21",
+   "section": "france-election",
+   "headline": "Soldiers to guard sites so police are free for Saturday; curfews spread to Marseille and Bordeaux; 700 brought before judges",
+   "lead": "Prime Minister Lecornu promised a 'massive' security operation for Saturday, 24 October, when student unions and the gilets jaunes plan new protests, and Interior Minister Nuñez told parliament that Operation Sentinelle soldiers will take over static guard duties to free police officers; he is also considering a ban on undeclared demonstrations (Euronews; France 24).",
+   "text": "Prime Minister Lecornu promised a 'massive' security operation for Saturday, 24 October, when student unions and the gilets jaunes plan new protests, and Interior Minister Nuñez told parliament that Operation Sentinelle soldiers will take over static guard duties to free police officers; he is also considering a ban on undeclared demonstrations (Euronews; France 24). Monday night passed without notable incidents. On Tuesday night curfews were renewed in about a dozen towns (central Lyon; Lille, Douai, Wattignies and Denain for minors; Nice for minors until 25 October), and new ones began in Marseille (minors, 10 p.m. to 5 a.m. until Friday, 23 October, also covering Aubagne, Cabriès and Les Pennes-Mirabeau) and in Bordeaux (minors, until 26 October). In Paris the curfew around République and Les Halles runs from 11 p.m. to 6 a.m., and undeclared gatherings are banned from 8 p.m. (BFMTV). Justice Ministry spokesman Sacha Straub-Khan said that of about 2,500 people held in custody, 700 have been brought before a magistrate, about 20 percent of cases have been dropped, and more than 70 judicial investigations are open (franceinfo); a franceinfo video headline gives 149 people jailed, a figure found in no second source.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/10/20/france-vows-massive-security-operation-involving-military-forces-for-expected-weekend-prot"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/france/20261020-french-pm-blames-ultra-left-groups-for-weekend-riots-promises-massive-security-deployment"
+    },
+    {
+     "name": "BFMTV",
+     "url": "https://www.bfmtv.com/societe/manifestations/couvre-feu-pour-la-deuxieme-soiree-consecutive-a-paris-lyon-lille-ou-nice-et-pour-la-premiere-fois-a-bordeaux-et-marseille_AV-202610200795.html"
+    },
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/apres-les-violences-du-17-octobre-700-personnes-ont-ete-presentees-a-un-magistrat-a-l-issue-de-la-garde-a-vue-annonce-le-porte-parole-du-ministere-de-la-justice_8245135.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-brazil-1",
+   "edition": "2026-10-21",
+   "section": "brazil",
+   "headline": "Real Time Big Data has Flávio ahead 48 to 45; Polymarket rises back to about 81 percent; Quaest and Datafolha due Wednesday and Thursday",
+   "lead": "A Real Time Big Data poll published on 20 October (2,000 voters, 15–19 October, margin of error 2 points, registered with the electoral court as BR-02952/2026) puts Flávio Bolsonaro at 48 percent and Lula at 45, or 52 to 48 in valid votes (Brasil de Fato).",
+   "text": "A Real Time Big Data poll published on 20 October (2,000 voters, 15–19 October, margin of error 2 points, registered with the electoral court as BR-02952/2026) puts Flávio Bolsonaro at 48 percent and Lula at 45, or 52 to 48 in valid votes (Brasil de Fato). Quaest publishes its next runoff poll on Wednesday morning (2,154 interviews, 17–20 October) and Datafolha on Thursday afternoon; both plan final polls on Saturday, 24 October, the day before the vote. On Polymarket, Flávio has risen to about 81 percent from about 77 in the last edition, with Lula at about 19.5 percent (about $190 million traded).",
+   "sources": [
+    {
+     "name": "Brasil de Fato",
+     "url": "https://www.brasildefato.com.br/2026/10/20/quaest-e-datafolha-divulgam-nova-rodada-de-pesquisas-para-o-segundo-turno-nesta-quarta-21-e-quinta-feira-22/"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/brazil-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-quebec-1",
+   "edition": "2026-10-21",
+   "section": "quebec",
+   "headline": "St-Pierre Plamondon's cabinet is sworn in today: about 20 ministers, a minister for the independence process, and Paradis as chief negotiator",
+   "lead": "The Parti Québécois cabinet is sworn in on Wednesday, 21 October, at 1:30 p.m. Quebec time (8:30 p.m. Israel time), without the lieutenant governor, Manon Jeannotte, who was not invited and will sign the appointment acts in her office (Le Devoir; Radio-Canada).",
+   "text": "The Parti Québécois cabinet is sworn in on Wednesday, 21 October, at 1:30 p.m. Quebec time (8:30 p.m. Israel time), without the lieutenant governor, Manon Jeannotte, who was not invited and will sign the appointment acts in her office (Le Devoir; Radio-Canada). The cabinet is a reduced one of about 20 ministers, against 28 under Fréchette, and includes a 'minister responsible for the independence process'; Pascal Paradis is named Quebec's chief negotiator. The government's 100-day priorities are a special budget for homelessness, a lower gas tax, a secretariat for government efficiency and regulatory relief, and lower immigration levels. PQ members meet former premier Pauline Marois and Jean Royer on Thursday, and the National Assembly session opens in late November.",
+   "sources": [
+    {
+     "name": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1018334/pspp-formera-mercredi-equipe-ministres"
+    },
+    {
+     "name": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292076/conseil-des-ministres-deputes-assermentation"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-greenland-1",
+   "edition": "2026-10-21",
+   "section": "greenland",
+   "headline": "EU adopts its Arctic strategy: a direct cable from Greenland to Europe, €200 million for Greenland, and shared icebreakers",
+   "lead": "The European Commission and High Representative Kaja Kallas adopted 'Europe's Northern Neighbourhood – A New Strategy for the Arctic' on 20 October, with four priorities: security and resilience, climate, prosperity, and people (European Commission; EEAS).",
+   "text": "The European Commission and High Representative Kaja Kallas adopted 'Europe's Northern Neighbourhood – A New Strategy for the Arctic' on 20 October, with four priorities: security and resilience, climate, prosperity, and people (European Commission; EEAS). Its measures include an Arctic Cable Hub, possibly a first step toward a maritime security hub; wider Copernicus and Galileo satellite coverage; joint purchase and pooling of icebreakers; military mobility; €260 million from the European Defence Fund; a Pan-Arctic Cable that links Greenland directly to Europe; Arctic coverage for the IRIS² satellite network; €200 million for Greenland; and the Rail Nordica project. Asked why there is no new budget, Kallas named the satellite upgrades as the concrete step within 12 months and said the EU is open to working with the United States 'if they so wish.' Greenland's broadcaster KNR notes that the EU has already put €107 million into the Greenland cable, and Commission President von der Leyen presented the strategy as a response to Russia. Greenland's reaction was not found in a second source.",
+   "sources": [
+    {
+     "name": "European Commission: digital strategy",
+     "url": "https://digital-strategy.ec.europa.eu/en/news/eu-sets-out-new-strategy-arctic"
+    },
+    {
+     "name": "European Commission",
+     "url": "https://commission.europa.eu/news-and-media/news/eu-strategy-rapidly-changing-arctic-2026-10-20_en"
+    },
+    {
+     "name": "EEAS: Kallas remarks",
+     "url": "https://www.eeas.europa.eu/eeas/europes-northern-neighbourhood-new-strategy-arctic-remarks-high-representative-kallas-press_en"
+    },
+    {
+     "name": "KNR",
+     "url": "https://www.knr.gl/da/nyheder/ny-eu-strategi-arktis-soekabler-isbrydere-og-sikkerhed"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-spacex-xai-and-cursor-1",
+   "edition": "2026-10-21",
+   "section": "spacex-xai-and-cursor",
+   "headline": "SpaceX's third quarter: revenue up 161 percent to $14.6 billion and a $4.4 billion profit, driven by AI; Cursor added $608 million",
+   "lead": "SpaceX reported third-quarter revenue of $14.575 billion on 20 October, up 161 percent from $5.576 billion a year earlier and from $7.814 billion in the second quarter, well above the LSEG analyst estimate of $12.72 billion (SEC filing; Reuters).",
+   "text": "SpaceX reported third-quarter revenue of $14.575 billion on 20 October, up 161 percent from $5.576 billion a year earlier and from $7.814 billion in the second quarter, well above the LSEG analyst estimate of $12.72 billion (SEC filing; Reuters). Net income was $4.404 billion, against a loss of $1.054 billion a year earlier; operating income was $2.791 billion and adjusted EBITDA $8.809 billion. Diluted GAAP earnings were 35 cents a share; Reuters, using adjusted figures, reports 45 cents against an expected 13 cents. By segment: AI (the 'SI' segment, which includes xAI and Cursor) brought in $7.560 billion, up 195 percent from the second quarter and 830 percent from a year earlier, with operating income of $431 million after $1.2 billion of share-based pay tied to the Cursor purchase; Connectivity (Starlink) $5.248 billion; Space $1.767 billion. Capital spending was $19.593 billion, of which $16.444 billion went to AI. Starlink has 13.6 million consumer subscribers paying an average of $69 a month, and the company has 1.7 gigawatts of nameplate computing capacity as Colossus II is built. The Cursor deal closed on 14 August at an implied equity value of $60 billion (GAAP consideration $42.5 billion), and Cursor contributed $608 million of revenue through 30 September. The release also names Starship Flight 14 as the first revenue-earning orbital flight (26 Starlink V3 satellites), a planned Starbase in Louisiana with a first launch targeted for 2029, and an 800 MHz spectrum deal signed on 8 October, and it mentions Grok Bot. Yahoo Finance reports a backlog of $63 billion, $42 billion of it expected within a year.",
+   "sources": [
+    {
+     "name": "SEC: SpaceX Q3 2026 release",
+     "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+    },
+    {
+     "name": "Reuters via NBC News",
+     "url": "https://www.nbcnews.com/business/business-news/spacex-quarterly-revenue-jumps-data-center-rcna604655"
+    },
+    {
+     "name": "Reuters via Investing.com",
+     "url": "https://ca.investing.com/news/stock-market-news/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges-4891702"
+    },
+    {
+     "name": "AP",
+     "url": "https://apnews.com/article/spacex-musk-turns-profit-losses-67064446bf0afdf529db55bdec82af69"
+    },
+    {
+     "name": "Wall Street Journal",
+     "url": "https://www.wsj.com/business/earnings/spacex-spcx-q3-earnings-report-2026-stock-4138193d"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-spacex-xai-and-cursor-2",
+   "edition": "2026-10-21",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Musk: SpaceX and Tesla have set up independent committees to study a merger; shares rise after hours",
+   "lead": "On the earnings call Musk said SpaceX and Tesla have each formed a special committee of independent directors to explore a merger; he called it 'a good idea' but said it is not certain, no terms are agreed, and a deal would need a majority of all outstanding Tesla shares, describing the process as 'an odd kabuki dance' (Yahoo Finance; BBC; Reuters).",
+   "text": "On the earnings call Musk said SpaceX and Tesla have each formed a special committee of independent directors to explore a merger; he called it 'a good idea' but said it is not certain, no terms are agreed, and a deal would need a majority of all outstanding Tesla shares, describing the process as 'an odd kabuki dance' (Yahoo Finance; BBC; Reuters). Musk also said he expects $500 billion to $1 trillion of annual recurring revenue by the end of 2027 (Reuters), and that the Terafab chip plant should produce a test chip in about May or June 2027, with volume production in the third quarter of 2028. SpaceX shares (SPCX) rose about 8 percent after hours by Reuters' count (Bloomberg reported 4.6 percent), and Tesla about 2 percent; Tesla reports its own results on Wednesday, 21 October.",
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-form-independent-committees-225646859.html"
+    },
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/cmlyl09xjke4o"
+    },
+    {
+     "name": "Reuters via NBC News",
+     "url": "https://www.nbcnews.com/business/business-news/spacex-quarterly-revenue-jumps-data-center-rcna604655"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-trenton-1",
+   "edition": "2026-10-21",
+   "section": "trenton",
+   "headline": "City breaks ground on the restoration of the Carver Center, the 1922 hall where Ella Fitzgerald and Duke Ellington played",
+   "lead": "The City of Trenton broke ground on 20 October on the first phase of restoring the Carver Center at 40 Fowler Street: a contract of about $2.53 million for the roof and exterior, part of a restoration expected to cost about $8 million (Trenton Journal, from a city release; InsiderNJ).",
+   "text": "The City of Trenton broke ground on 20 October on the first phase of restoring the Carver Center at 40 Fowler Street: a contract of about $2.53 million for the roof and exterior, part of a restoration expected to cost about $8 million (Trenton Journal, from a city release; InsiderNJ). The building was put up in 1922 by the Sunlight Elks Lodge and renamed for George Washington Carver by the YMCA in 1944; Ella Fitzgerald, Count Basie and Duke Ellington performed there. The city bought it in 2021. Government role: this is a public project, and the first phase is paid for with federal Community Development Block Grant money.",
+   "sources": [
+    {
+     "name": "Trenton Journal",
+     "url": "https://trentonjournal.com/city-of-trenton-breaks-ground-on-historic-carver-center-restoration-project/"
+    },
+    {
+     "name": "InsiderNJ",
+     "url": "https://www.insidernj.com/press-release/city-of-trenton-begins-first-phase-of-restoration-of-historic-carver-center/"
+    }
+   ],
+   "image": "digest/trenton/img/carver-center.jpg",
+   "image_credit": "Zeete / Wikimedia Commons, CC BY-SA 4.0",
+   "image_url": "https://commons.wikimedia.org/wiki/File:Carver_Center,_Trenton,_NJ.jpg",
+   "image_caption": "The Carver Center on Fowler Street, Trenton, in August 2022"
+  },
+  {
+   "id": "2026-10-21-cypherboria-1",
+   "edition": "2026-10-21",
+   "section": "cypherboria",
+   "headline": "The JCCRU debate continues in writing: Y-3 answers Haecker with 'The Cybernetic Aggiornamento'",
+   "lead": "The Substack writer Y-3 (@RvelinEdu) published 'The Cybernetic Aggiornamento' on 20 October (U.S. time), his reply to Ryan Haecker's 16 October essay 'Breaking the Cybernetic Silence,' which in turn answered Y-3's 10 October essay 'Nick Land, Ryan Haecker, and the Problem of Cybernetic Consciousness.'",
+   "text": "The Substack writer Y-3 (@RvelinEdu) published 'The Cybernetic Aggiornamento' on 20 October (U.S. time), his reply to Ryan Haecker's 16 October essay 'Breaking the Cybernetic Silence,' which in turn answered Y-3's 10 October essay 'Nick Land, Ryan Haecker, and the Problem of Cybernetic Consciousness.' Y-3 argues that Haecker's project of joining Jesuit theology to CCRU cybernetics is a technological version of the Catholic 'aggiornamento' (updating) of the Second Vatican Council, names the Jesuit Pierre Teilhard de Chardin as its closest precursor, and warns, citing Kierkegaard and E. L. Mascall, that an attempt to make modernity Christian can end by making Christianity modern. Haecker quoted the essay on X. Separately, on 14 October the writer Alex Mazey posted an essay titled 'AQ & Nick Land: Psychotic Schizo-LARP or the Retroactive Diagnosis of Outsideness?', which he says appeared in ŠUM Journal, and @resonatingloop of the Cyphers circle shared it; the essay itself could not be found online, so its contents are not confirmed.",
+   "sources": [
+    {
+     "name": "Y-3: The Cybernetic Aggiornamento",
+     "url": "https://yyy3.substack.com/p/the-cybernetic-aggiornamento"
+    },
+    {
+     "name": "Y-3 on X",
+     "url": "https://x.com/RvelinEdu/status/2112693518393299325"
+    },
+    {
+     "name": "Haecker: Breaking the Cybernetic Silence",
+     "url": "https://ryanhaecker.substack.com/p/breaking-the-cybernetic-silence"
+    },
+    {
+     "name": "Haecker quotes Y-3 on X",
+     "url": "https://x.com/RyanHaecker/status/2112705266600874190"
+    },
+    {
+     "name": "Y-3: Nick Land, Ryan Haecker, and the Problem of Cybernetic Consciousness",
+     "url": "https://yyy3.substack.com/p/nick-land-ryan-haecker-and-the-problem"
+    },
+    {
+     "name": "Alex Mazey on X",
+     "url": "https://x.com/AlexzanderMazey/status/2110317511015338193"
+    },
+    {
+     "name": "@resonatingloop on X",
+     "url": "https://x.com/resonatingloop/status/2112700956806701203"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-cypherboria-2",
+   "edition": "2026-10-21",
+   "section": "cypherboria",
+   "headline": "Methexis posts the JCCRU talks one by one: Haecker's introduction and Khokhar's 'Against Schizoid Mystagogy'",
+   "lead": "The Methexis Institute's YouTube channel has posted separate videos of two more talks from the 9 October JCCRU panel, about three days ago: 'Ryan Haecker, Introduction to Jesuit Cybernetics' (10 minutes 53 seconds) and 'Aaron Khokhar, Against Schizoid Mystagogy' (15 minutes 27 seconds).",
+   "text": "The Methexis Institute's YouTube channel has posted separate videos of two more talks from the 9 October JCCRU panel, about three days ago: 'Ryan Haecker, Introduction to Jesuit Cybernetics' (10 minutes 53 seconds) and 'Aaron Khokhar, Against Schizoid Mystagogy' (15 minutes 27 seconds). They join the edited clip of Land's response posted earlier. The upload dates come from YouTube's 'days ago' labels, because the exact dates could not be read on the box (YouTube blocked yt-dlp).",
+   "sources": [
+    {
+     "name": "YouTube: Haecker, Introduction to Jesuit Cybernetics",
+     "url": "https://www.youtube.com/watch?v=oS8Z7QgCQtE"
+    },
+    {
+     "name": "YouTube: Khokhar, Against Schizoid Mystagogy",
+     "url": "https://www.youtube.com/watch?v=86bKmrmVDgc"
+    },
+    {
+     "name": "Methexis Institute videos",
+     "url": "https://www.youtube.com/@MethexisInstitute/videos"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-21-cypherboria-3",
+   "edition": "2026-10-21",
+   "section": "cypherboria",
+   "headline": "Cyphers' other Land material and coming streams: a 'Xenosystems' read-through, an earlier Land clip, and a 'Doomer vs Accelerationism' debate on 7 November",
+   "lead": "Besides the three-hour Land interview, the CYPHERS YouTube channel holds a short clip, 'Nick Land talks Cyphers.News, Gematria and Numerology' (7 minutes 43 seconds, posted about two months ago), and a 4-hour-31-minute live 'Xenosystems Read-Through,' streamed about 11 days ago, of Land's blog Xenosystems.",
+   "text": "Besides the three-hour Land interview, the CYPHERS YouTube channel holds a short clip, 'Nick Land talks Cyphers.News, Gematria and Numerology' (7 minutes 43 seconds, posted about two months ago), and a 4-hour-31-minute live 'Xenosystems Read-Through,' streamed about 11 days ago, of Land's blog Xenosystems. About three weeks ago it also streamed 'Gnostic Calvinism ft. Anomaly of the Elected,' on the phrase Land has used most on X since August; Anomaly of the Elected (@AOElection) talks often with @resonatingloop. The channel lists scheduled streams: a 'Sloptober Halloween Party' on 24 October, a 'Doomer vs Accelerationism Debate' on 7 November, 'Thelema + Aleister Crowley Decodes' on 8 November, 'Book of Paths ft. Anomaly of the Elected' and 'Memetic Magick' on 14 November, and 'Gnosticism' on 21 November. None of these lists Land as a guest. Dates are YouTube's relative labels, because exact dates could not be read on the box.",
+   "sources": [
+    {
+     "name": "YouTube: Nick Land talks Cyphers.News, Gematria and Numerology",
+     "url": "https://www.youtube.com/watch?v=WEaul-m2D4A"
+    },
+    {
+     "name": "YouTube: Xenosystems Read-Through",
+     "url": "https://www.youtube.com/watch?v=MVL9-PxYMTc"
+    },
+    {
+     "name": "YouTube: Gnostic Calvinism ft. Anomaly of the Elected",
+     "url": "https://www.youtube.com/watch?v=4vn4M2sCWt4"
+    },
+    {
+     "name": "CYPHERS streams",
+     "url": "https://www.youtube.com/@CyphersNews/streams"
     }
    ]
   }
