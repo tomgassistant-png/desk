@@ -3,6 +3,62 @@
  "subtitle": "The daily brief on the campaign against the Houthis",
  "editions": [
   {
+   "date": "2026-10-22",
+   "lede": "The Houthis widened their strikes on Wednesday: an evening attack on Dammam's King Fahd airport killed one person, falling drone debris killed two workers at Aramco's Shaybah field, and missiles hit near Aden airport and at Riyan airport in Mukalla. Washington ordered non-emergency diplomats out of Saudi Arabia, while Macron flew to Riyadh, Egypt said its help would be defensive only and Turkey said a troop mandate would follow ratification of the Makkah pact. On the ground, the government says it is holding and pushing in Taiz, with no confirmed change in the lines.",
+   "items": [
+    {
+     "headline": "Dammam airport hit, one killed; debris kills two at Shaybah",
+     "text": "Saudi Arabia's General Authority of Civil Aviation said a late Wednesday attack on King Fahd International Airport in Dammam killed one Saudi resident, injured eight and caused material damage that is still being assessed (SPA; Reuters; AP). Flightradar24 showed flights diverted from the airport, AP reports. No claim for this attack had been reported by early Thursday; the Houthis claimed an earlier strike on the same airport on 11 October. Earlier on Wednesday, debris from a drone intercepted over Aramco's Shaybah oilfield killed a Filipino and a Nepali worker and wounded two others; the Energy Ministry said the drone was aimed at a processing plant and operations were not affected (The National). Coalition spokesman Turki al-Maliki said five drones aimed at Medina and the Eastern Region were downed (Gulf News, Reuters via Al-Monitor). Houthi spokesman Yahya Saree denied launching any drones at Medina or carrying out any operation against Saudi Arabia that day (Reuters). The Eastern Province, home of the oil industry, is now a regular target, not only Riyadh.",
+     "source": "SPA; Reuters; AP; The National; Gulf News; Al-Monitor",
+     "link": "https://www.spa.gov.sa/en/w2707431"
+    },
+    {
+     "headline": "US orders non-emergency diplomats and families out of Saudi Arabia",
+     "text": "State Department spokesman Tommy Pigott said non-emergency US government staff and their families must leave Saudi Arabia because of the growing Houthi attacks on civilian airports and critical infrastructure (The National; AP; Al Jazeera; The Guardian). He said the order covers only Saudi Arabia, and rejected reports of a Gulf-wide evacuation (Middle East Eye). Gulf News says Washington also reaffirmed its logistical support for Riyadh. An ordered departure is a public signal that the US expects the attacks on Saudi cities to go on for some time, and it adds to the pressure on foreign business and travel in the kingdom.",
+     "source": "The National; AP; Al Jazeera; The Guardian; Middle East Eye",
+     "link": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat"
+    },
+    {
+     "headline": "Macron in Riyadh: French forces already guarding Yanbu",
+     "text": "French President Emmanuel Macron made a surprise visit to Riyadh on Wednesday and met Crown Prince Mohammed bin Salman, the first Western leader to visit since the current wave of Houthi attacks (The National; Gulf News, citing AFP). He confirmed that French military personnel and air-defense assets have been protecting the Yanbu oil terminal on the Red Sea for eight days. According to the Elysee, Saudi Arabia agreed to supply France with extra diesel for as long as needed, and the two sides will look at closer security cooperation and infrastructure projects to bypass the blocked Strait of Hormuz (Gulf News). Yanbu now carries much of Saudi Arabia's oil exports, which makes it the most valuable target in the kingdom.",
+     "source": "The National; Gulf News (AFP)",
+     "link": "https://www.thenationalnews.com/news/gulf/2026/10/21/french-president-macron-arrives-in-riyadh-on-surprise-visit/"
+    },
+    {
+     "headline": "Egypt: defense of Saudi soil only, no attacks on Yemen; Turkey plans a troop mandate",
+     "text": "President Abdel Fattah al-Sisi said on Wednesday that any Egyptian military support for Saudi Arabia would protect Saudi territory and borders and would not include attacks inside Yemen (Anadolu; Al Arabiya; Arab News; Al-Monitor). Egypt's parliament votes on 26 October on authorizing the assistance. In Turkey, an AK Party lawmaker told Reuters that once parliament ratifies the Makkah Joint Defense Agreement, a separate mandate will be submitted to send Turkish military personnel to Saudi Arabia (Al-Monitor; Straits Times). The first deployment would be technical and specialist staff for air defense, electronic warfare and other defensive roles, not combat troops. So both of Riyadh's big Muslim partners are now committing to defend the kingdom while explicitly staying out of the offensive in Yemen.",
+     "source": "Anadolu; Al Arabiya; Arab News; Al-Monitor; Reuters via Straits Times",
+     "link": "https://www.al-monitor.com/originals/2026/10/turkey-plans-mandate-send-military-personnel-saudi-arabia-ruling-party-official"
+    },
+    {
+     "headline": "Houthi missiles hit Aden and Mukalla airports",
+     "text": "Houthi spokesman Yahya Saree said a ballistic missile hit the coalition's operations room at the Badr camp next to Aden airport on Wednesday, the third attack on the government's seat in a week (AFP via The Hindu; Reuters via Al-Monitor). Security sources told AFP the target was a coalition site near the airport. A Yemeni transport official said a civilian plane had left before the strike, the departure hall was evacuated and the runway was not damaged (Gulf News). Military officials told AFP and Reuters that the Houthis also struck a coalition base at Riyan airport in Mukalla with missiles and drones; Saree said the target was equipment flown in on Saudi military cargo planes. No casualty figures were given for either attack. Together with Shabwa on Monday, this shows the Houthis going after the government's rear bases and supply routes in the south.",
+     "source": "AFP via The Hindu; Reuters via Al-Monitor; Gulf News",
+     "link": "https://www.thehindu.com/news/international/yemens-houthis-say-targeted-saudi-position-in-aden/article71608725.ece"
+    },
+    {
+     "headline": "Fronts: government claims gains around Taiz, Marib under missile fire",
+     "text": "Army spokesman Majed al-Nuzaili said government forces and Popular Resistance fighters turned back new Houthi reinforcements trying to retake positions around Taiz, and that operations extended to western Marib (Sawti; Arab News). The army claims 835 strikes in 24 hours and about 285 Houthi fighters killed or wounded; these are government figures only and are unconfirmed. Earlier this week Asharq Al-Awsat and Al-Rshad, citing military sources, reported advances in the al-Sanamat and al-Sarari areas of Saber district south of Taiz; that is also not independently confirmed. Marib's information office said the Houthis fired eight ballistic missiles at the city in one day and 24 in 72 hours (Al-Rshad). The Houthis destroyed a crossing on the road linking Taiz and Lahj, which the transport ministry condemned. AP and Reuters still report no confirmed change in the front lines.",
+     "source": "Sawti; Arab News; Asharq Al-Awsat; Al-Rshad Press",
+     "link": "https://www.arabnews.com/middle-east/yemeni-forces-claim-835-strikes-against-houthi-targets-in-24-hours-3007576"
+    },
+    {
+     "headline": "Shipping: tanker hit off Oman; coalition goes after Houthi smuggling boats",
+     "text": "UK Maritime Trade Operations said a projectile struck a tanker about 11 nautical miles west of Bukha in Oman's Musandam province on Wednesday, starting a fire that was put out; the crew is safe (Gulf News). No one has been named as responsible, and the location is near Hormuz, not the Red Sea, so a Houthi link is unconfirmed. Separately, the coalition this week warned owners of traditional fishing boats not to carry Houthi weapons, after releasing footage of strikes on smuggling boats, trucks and stores near Hodeidah (Al Arabiya; Arab News; Gulf News). Choking off resupply by sea is the coalition's main lever against the Houthi missile campaign.",
+     "source": "Gulf News (UKMTO); Al Arabiya; Arab News",
+     "link": "https://english.alarabiya.net/News/middle-east/2026/10/19/saudiled-coalition-warns-against-houthi-arms-smuggling-using-fishing-boats"
+    },
+    {
+     "headline": "Inside Saudi Arabia: Riyadh airport partly reopens",
+     "text": "Riyadh's King Khalid International Airport, closed since 10 October after repeated Houthi strikes, reopened on Wednesday for limited domestic flights by Saudia and flynas, with prior permission (AP; Gulf News). International service is still badly disrupted: Lufthansa and Air France have cancelled flights through mid-November (Gulf News). The reopening came on the same day as the Dammam attack and the US departure order, so the cost to travel, business and foreign workers in the kingdom is still rising.",
+     "source": "AP; Gulf News",
+     "link": "https://apnews.com/article/mideast-yemen-saudi-israel-gaza-october-21-2026-f9b9c553a5b3c689fc3c8c5be1d75b94"
+    }
+   ],
+   "trend": "The Houthis are spreading their fire: the Eastern Province oil region and Dammam, Aden and Mukalla in the south, alongside Riyadh. Riyadh's partners keep adding defense (French forces at Yanbu, British jets, Turkish air-defense specialists to come, Egypt pledging to protect Saudi soil), but every one of them has now said in public that it will not join the offensive. The ground war is left to Yemeni forces, who claim progress around Taiz without confirmed gains, while the US departure order shows Washington expects the attacks on the kingdom to continue.",
+   "watch": "Whether the Houthis claim the Dammam attack; the Turkish committee debate, possibly Friday, and the troop mandate after it; Egypt's 26 October vote; any further attacks on Yanbu; the government's promised response to Shabwa; whether claimed gains south of Taiz are confirmed; more airlines returning to Riyadh or pulling out."
+  },
+  {
    "date": "2026-10-21",
    "lede": "Britain is sending RAF Typhoon fighters to help defend Saudi cities, a step up from the refueling tanker it offered in September, and Turkey sent its defense pact with Saudi Arabia and Pakistan to parliament for ratification. The Shabwa death toll rose to 73, Riyadh again came under missile and drone fire, and on the ground both sides traded attacks around Taiz with no confirmed change in the lines.",
    "items": [
