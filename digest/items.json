@@ -634,6 +634,10 @@
   "2026-10-21": {
    "intro": "The main items are SpaceX's third-quarter results (revenue up 161 percent to $14.6 billion, a $4.4 billion profit, and $608 million from Cursor) and Musk's word that SpaceX and Tesla have set up committees to study a merger, four Israeli polls a week before the vote, the pressure on Winter to quit and Hanegbi's vote for Liberman, the airport arrests of Chabad draft evaders, the first day of the Tampa talks without agreement, a military-court summons for two Hezbollah officials, the first French poll after the riots with Philippe out in every scenario, soldiers freed up for Saturday's protests and new curfews in Marseille and Bordeaux, a Brazil poll with Flávio ahead and his Polymarket odds back near 81 percent, today's swearing-in of the PQ cabinet, the EU's Arctic strategy as adopted, the start of the Carver Center restoration in Trenton, and a written exchange on the JCCRU panel.",
    "quiet": "Nothing material on the Carney case, Colombia and Israel, UK breakup politics, Trump and Xi, Israeli data centers, Belle Burden (book events only), HaShiloach (no new essays since 24 September in Hebrew), or non-Latin script digitization. Lebanon watch: no new Israeli reaction, official or unofficial, to the EU security mission in Lebanon (EUSM Lebanon) was found in Hebrew or English, and no new contributing countries were confirmed. Grok Bot's changelog is still at version 0.71.2. On Cypherboria: no new Land interviews, podcasts or talks; Retrochronic is unchanged (version 1.0.176, 199 sources); and 网 (@Net__Void)'s X posts could not be read (the account is protected)."
+  },
+  "2026-10-22": {
+   "intro": "The main items are two Israeli polls five days before the vote with Eisenkot's Yashar ahead in both, Winter and Leitner refusing to quit and Eisenkot ruling out serving under Netanyahu, Netanyahu's order to the IDF and Mossad to topple Iran's regime as soldiers began voting, the end of the Tampa talks without agreement and Macron's plan for a Lebanese army conference after the Israeli vote, a Quaest poll with Flávio 45 and Lula 44, the French unions' call for a general strike on 5 November and Macron's attack on 'stupid' foreign comments, the swearing-in of the PQ cabinet, Trump's openness to a three-way meeting with Xi and Putin, Tesla's lower profit, SpaceX's first Grok Bot user count, and Locust Hill Cemetery joining New Jersey's Black Heritage Trail.",
+   "quiet": "Nothing material on the Carney case, Colombia and Israel, UK breakup politics, Greenland (the second reading of the US defense agreement is still set for 3 November), Israeli data centers, Belle Burden, HaShiloach, or non-Latin script digitization. Lebanon watch: no new Israeli reaction, official or unofficial, to the EU security mission in Lebanon (EUSM Lebanon) was found in Hebrew or English, and no new contributing countries were confirmed. On Cypherboria: no new Land interviews, podcasts or talks, and no new uploads from Cyphers, Truth is Christ or PHYTHAGRAM; Retrochronic is unchanged (version 1.0.176, 199 sources). Land posted on X about migration and Europe and, quoting Mark 5:9 in the King James wording, about 'freedom of expression for demons' and the Roman Church; @resonatingloop's posts were mostly reposts and personal; 网 (@Net__Void)'s X posts still could not be read (the account is protected)."
   }
  },
  "items": [
@@ -4159,6 +4163,270 @@
     {
      "name": "CYPHERS streams",
      "url": "https://www.youtube.com/@CyphersNews/streams"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-israel-election-1",
+   "edition": "2026-10-22",
+   "section": "israel-election",
+   "headline": "Two Wednesday polls: Yashar leads Likud in both; Winter's party is in on Channel 12 and out on Channel 13",
+   "lead": "Channel 12 and Channel 13 published polls on Wednesday, 21 October, six days before the 27 October vote, and both put Eisenkot's Yashar first.",
+   "text": "Channel 12 and Channel 13 published polls on Wednesday, 21 October, six days before the 27 October vote, and both put Eisenkot's Yashar first. Channel 13 (Midgam Project, Camil Fuchs): Yashar 20 seats, Likud 19, Beyachad 14, the Democrats 10, the Joint List 9, United Torah Judaism 8, Yisrael Beytenu 8, Religious Zionism–Zehut 8, Otzma Yehudit 7, Shas 7, Ra'am 6 and the Reservists (Hendel and Zelekha) 4; Ofer Winter's party falls below the threshold. Blocs: opposition 52, Netanyahu's coalition 49, Arab parties 15 (Skarim poll archive; israelielections.com). Channel 12 (Midgam, Mano Geva; 505 people): Yashar 23, Likud 19, Beyachad 15, the Democrats 9, the Joint List 9, Shas 8, Yisrael Beytenu 8, Otzma Yehudit 7, United Torah Judaism 7, Religious Zionism–Zehut 6, Ra'am 5 and Winter's Amcha Yisrael 4, with the Reservists below the threshold. These Channel 12 seat figures come from the israelielections.com aggregator only and are unconfirmed; Haaretz and Maariv headlines confirm that Winter passes and Hendel–Zelekha fail in the Channel 12 poll, and the reverse in the Channel 13 poll.",
+   "sources": [
+    {
+     "name": "Skarim poll archive (Channel 13)",
+     "url": "https://www.skarim.org/polls/channel-13-2026-10-21"
+    },
+    {
+     "name": "israelielections.com polls",
+     "url": "https://israelielections.com/2026/polls/"
+    },
+    {
+     "name": "israelielections.com news, 21 October",
+     "url": "https://israelielections.com/news/2026-10-21/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-israel-election-2",
+   "edition": "2026-10-22",
+   "section": "israel-election",
+   "headline": "Winter and Leitner refuse to quit despite a Smotrich offer of a ministry; Eisenkot rules out serving under Netanyahu, even in a rotation",
+   "lead": "Bezalel Smotrich offered on 21 October to give up one of his party's ministerial posts to Ofer Winter if Winter withdrew; Winter refused.",
+   "text": "Bezalel Smotrich offered on 21 October to give up one of his party's ministerial posts to Ofer Winter if Winter withdrew from the race; Winter refused, saying 'we didn't come for jobs' and 'we are in the right-wing camp, but there will be no blank check' (Times of Israel; Jerusalem Post; Ynet). Earlier in the day Winter said it may have been a mistake to pledge early that he would recommend only Netanyahu, then said he stands by it. Moti Leitner of the Charedi Public party also said he would stay in after meeting Netanyahu, though Likud officials told Walla and Kan they still expect him to drop out. Gadi Eisenkot pledged on air that he will not sit in a government led by Netanyahu, not even under a rotation deal, and that he would resign within an hour if he did (Haaretz; Times of Israel; Davar). Separately, minister May Golan (Likud) was questioned for about 11 hours by the Lahav 433 police unit in a bribery case (Haaretz; Ynet).",
+   "sources": [
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog_entry/ofer-winter-refuses-to-quit-election-race-despite-smotrich-offer-likud-pressure/"
+    },
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-912440"
+    },
+    {
+     "name": "Haaretz live blog",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-21/ty-article-live/top-election-official-netanyahu-party-illegally-used-idf-assets-in-campaign-ads/000001a1-5c1e-ddca-abbb-df9f30d50000?liveBlogItemId=1870749448"
+    },
+    {
+     "name": "israelielections.com news, 21 October",
+     "url": "https://israelielections.com/news/2026-10-21/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-israel-election-3",
+   "edition": "2026-10-22",
+   "section": "israel-election",
+   "headline": "Netanyahu says Iran is trying again to build a bomb and that he has ordered the IDF and Mossad to topple the regime; soldiers begin voting",
+   "lead": "Speaking at the officer-cadet graduation on 21 October, Netanyahu said Iran is 'again trying to develop the bombs of death' and that he has instructed the IDF and the Mossad to bring down the regime.",
+   "text": "Speaking at the officer-cadet graduation on 21 October, Netanyahu said Iran is 'again trying to develop the bombs of death' and that he has instructed the IDF and the Mossad to bring down the regime; Defense Minister Katz said that if Iran attacks Israel, 'Iran will burn' (Times of Israel, Ynet and Kan, as listed by israelielections.com). A security source told Globes it was not aware of the information Netanyahu cited. The attorney general barred a live broadcast of the speech as election propaganda, and the IDF did not stream any part of the ceremony. Also on Wednesday, soldiers began voting at more than 850 polling stations at bases and outposts, including in Gaza, Lebanon and Syria (All Israel News; Maariv), and the Central Bureau of Statistics said 7.3 million people are eligible to vote, about 810,000 of whom live abroad (Times of Israel; Kan). The Bank of Israel held its rate at 3.25 percent.",
+   "sources": [
+    {
+     "name": "israelielections.com news, 21 October",
+     "url": "https://israelielections.com/news/2026-10-21/"
+    },
+    {
+     "name": "All Israel News",
+     "url": "https://allisraelnews.com/idf-soldiers-begin-voting-as-poll-shows-most-israelis-have-settled-on-a-party"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-lebanon-1",
+   "edition": "2026-10-22",
+   "section": "lebanon",
+   "headline": "Tampa military talks end after two days without agreement; Macron will hold a conference for the Lebanese army after the Israeli vote",
+   "lead": "The second day of US-mediated talks between the Lebanese and Israeli military delegations at Central Command in Tampa ended on 21 October without agreement.",
+   "text": "The second day of US-mediated talks between the Lebanese and Israeli military delegations at Central Command in Tampa ended on 21 October without agreement or any expansion of the pilot zones (MTV; Jarayid, from Lebanese media). The dispute is still who verifies what happens in the south: Israel wants a direct joint operations room with the Lebanese army, and Lebanon refuses any arrangement that gives Israel a say over its army's movements and wants contact to go through the United States. Lebanese reports say the third day is set aside for the US side to review the results, with possible separate meetings with each delegation. In Doha, President Macron said France will organize a conference to support the Lebanese army 'in the coming weeks,' but only after the Israeli election, since holding it before would be 'useless'; he called the pressure on Lebanon 'the least best way' to deal with Hezbollah and said disarmament needs an Israeli withdrawal with confidence-building measures (Naharnet, from AFP; Times of Israel).",
+   "sources": [
+    {
+     "name": "MTV Lebanon",
+     "url": "https://www.mtv.com.lb/en/News/Local/1750577/watch--military-talks-continue-for-a-second-day-in-tampa"
+    },
+    {
+     "name": "Jarayid",
+     "url": "https://jarayid.com/en/lebanon/1971677/tampa-day-3-us-update-and-talks"
+    },
+    {
+     "name": "Naharnet",
+     "url": "https://www.naharnet.com/stories/en/323232-macron-says-france-to-hold-conference-for-lebanese-army-after-israeli-elections"
+    },
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/macron-says-france-to-hold-confab-to-back-lebanese-army-after-israeli-election/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-brazil-1",
+   "edition": "2026-10-22",
+   "section": "brazil",
+   "headline": "Quaest: Flávio 45, Lula 44, still a technical tie; Lula's rejection falls to 47 percent; Datafolha due Thursday",
+   "lead": "A Quaest poll for Globo published on 21 October has Flávio Bolsonaro at 45 percent and Lula at 44 in the runoff, a technical tie.",
+   "text": "A Quaest poll for Globo and O Globo published on 21 October (2,154 voters in 124 cities, 17–20 October, margin of error 2 points, registered as BR-08535/2026) has Flávio Bolsonaro at 45 percent and Lula at 44 in the 25 October runoff, against 46 to 44 a week earlier; blank, null or not voting 9 percent, undecided 2. In valid votes that is about 50.6 to 49.4, by UOL's calculation. In the unprompted question both have 40 percent. Rejection moved toward Lula: 52 percent say they would never vote for Flávio (54 before) and 47 percent for Lula (53 before). Approval of the Lula government rose to 46 percent, with 47 percent disapproving (g1; UOL). It is Quaest's first poll since the end of the 6x1 work schedule, a Lula campaign promise, was enacted. Datafolha publishes on Thursday, 22 October. Polymarket has Flávio at about 79 percent, Lula about 21.",
+   "sources": [
+    {
+     "name": "g1 (Jornal Nacional)",
+     "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/21/quaest-divulga-segunda-pesquisa-do-2o-turno-da-eleicao-presidencial-veja-os-numeros.ghtml"
+    },
+    {
+     "name": "UOL",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/10/21/quaest-presidencial-segundo-tuno-21-de-outubro.ghtm"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/brazil-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-france-election-1",
+   "edition": "2026-10-22",
+   "section": "france-election",
+   "headline": "Unions leave Matignon empty-handed and call a general strike for 5 November; Lecornu meets the parties on Thursday",
+   "lead": "The five main unions met Prime Minister Lecornu for two and a half hours on 21 October and came out saying he announced no measures.",
+   "text": "The five main unions met Prime Minister Lecornu for two and a half hours on 21 October and came out saying he announced no measures; CGT leader Sophie Binet called for strike meetings everywhere and said 'the strike must take over' from 5 November, the date nearly all unions have set for a general strike in the private and public sectors (Nouvel Obs, from AFP; RTS; L'Humanité). The CFTC said the government had opened the door to talks on the minimum wage, and Lecornu has promised first announcements for young people early next week. On Thursday, 22 October, he receives the political parties on the 17 October violence and on securing the presidential campaign, and Macron holds a meeting with the intelligence services on the failures of that day. Curfews were renewed on Wednesday night in parts of Paris, Lille, Lyon and Marseille, and undeclared gatherings remain banned in Paris ahead of Saturday's protests (franceinfo; RFI). Polymarket is unchanged, with Le Pen at about 46.5 percent.",
+   "sources": [
+    {
+     "name": "Le Nouvel Obs",
+     "url": "https://www.nouvelobs.com/social/20261021.OBS119410/apres-une-reunion-a-matignon-decevante-plusieurs-syndicats-appellent-a-une-greve-generale-le-5-novembre.html"
+    },
+    {
+     "name": "RTS",
+     "url": "https://www.rts.ch/info/monde/2026/article/crise-sociale-en-france-les-syndicats-decus-par-matignon-29392641.html"
+    },
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/nouveaux-couvre-feux-decretes-mercredi-soir-dans-certains-secteurs-de-plusieurs-villes-dont-paris-et-lyon_8247457.html"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-france-election-2",
+   "edition": "2026-10-22",
+   "section": "france-election",
+   "headline": "Macron calls foreign leaders' comments on the riots 'stupid' and says AI-made videos are being used in their campaigns",
+   "lead": "Speaking in Doha on 21 October, Macron rejected what he called 'stupid' comments by foreign leaders who blamed the French riots on Muslim migrants.",
+   "text": "Speaking in Doha on 21 October, Macron rejected what he called 'stupid' comments by foreign leaders who blamed the French riots on Muslim migrants, and said fake videos made with artificial intelligence were being used for their own political campaigns (AP; The Guardian; BBC). He named no one, but the reports tie the remarks to Trump, who had said France should 'close your borders,' and to Netanyahu's comments on i24NEWS; Mélenchon separately accused Netanyahu of meddling in French politics (Ynet). At home, Macron called for firmness against those responsible for the violence but made no announcement on wages, purchasing power or public services.",
+   "sources": [
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/france-macron-trump-comments-protests-b46829a8161a4d152124642fd275f595"
+    },
+    {
+     "name": "The Guardian",
+     "url": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.com/news/articles/ckjrw044ggxgo"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-quebec-1",
+   "edition": "2026-10-22",
+   "section": "quebec",
+   "headline": "St-Pierre Plamondon's cabinet is sworn in: 22 ministers, with Gentilcore as deputy premier and minister for Quebec's accession to independence",
+   "lead": "Premier Paul St-Pierre Plamondon and 22 ministers were sworn in at the National Assembly on 21 October.",
+   "text": "Premier Paul St-Pierre Plamondon and 22 ministers were sworn in at the National Assembly on 21 October (TVA Nouvelles, from QMI; Journal de Montréal; Radio-Canada). St-Pierre Plamondon also keeps the fight against homelessness. Catherine Gentilcore is deputy premier, minister of immigration and integration, minister responsible for Quebec's accession to independence, and government house leader. Nicolas Marceau has finance and infrastructure; Alain Therrien is president of the Treasury Board; Marie-Karlynn Laflamme has health; Joël Arseneau has education; Marie-Claude Sarrazin has justice and Canadian intergovernmental affairs, plus relations with English-speaking Quebecers and secularism; Pascal Bérubé has culture and the French language; Guy Jr Lapointe has a new 'internal security' ministry; Dieudonné Ella Oyono has international relations and foreign trade; and Anne Nguyen is junior minister for artificial intelligence and digital affairs.",
+   "sources": [
+    {
+     "name": "TVA Nouvelles",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/voici-la-liste-des-ministres-du-gouvernement-st-pierre-plamondon"
+    },
+    {
+     "name": "Journal de Montréal",
+     "url": "https://www.journaldemontreal.com/2026/10/21/paul-st-pierre-plamondon-devoilera-son-conseil-des-ministres-cet-apres-midi"
+    },
+    {
+     "name": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-trenton-1",
+   "edition": "2026-10-22",
+   "section": "trenton",
+   "headline": "Locust Hill Cemetery, Trenton's 1861 Black burial ground, becomes a site on the New Jersey Black Heritage Trail",
+   "lead": "The New Jersey Historical Commission marked Locust Hill Cemetery in Trenton as a site on the state's Black Heritage Trail at a ceremony on 20 October.",
+   "text": "The New Jersey Historical Commission marked Locust Hill Cemetery in Trenton as a site on the state's Black Heritage Trail at a ceremony on 20 October (NBC10 Philadelphia; PIX11). Mount Zion AME Church bought the land in 1861 as a burial ground for Black residents; 174 people are known to be buried there, including at least 10 Civil War veterans. The late Algernon Ward nominated the site, it was approved in 2024, and City Council approved the marker on 16 December 2025. The trail was set up in 2022. No reusable photo was found; NBC10's report has photos of the ceremony.",
+   "sources": [
+    {
+     "name": "NBC10 Philadelphia",
+     "url": "https://www.nbcphiladelphia.com/news/local/historic-trenton-cemetery-new-jersey-black-heritage-trail/4482845/"
+    },
+    {
+     "name": "PIX11",
+     "url": "https://pix11.com/news/local-news/trenton-celebrates-two-chapters-of-its-black-history/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-trump-and-xi-1",
+   "edition": "2026-10-22",
+   "section": "trump-and-xi",
+   "headline": "Trump says he is open to a three-way meeting with Xi and Putin in China next month, with nuclear weapons on the agenda",
+   "lead": "Trump told reporters on 19 October that he would hold a three-way meeting with Xi Jinping and Vladimir Putin during his November visit to China 'if President Xi wants to have it.'",
+   "text": "Trump told reporters on 19 October, Washington time, that he would hold a three-way meeting with Xi Jinping and Vladimir Putin during his November visit to China 'if President Xi wants to have it,' to talk about 'nuclear weapons and denuclearisation' (South China Morning Post; Caixin). Caixin reports he said he had only just heard of the proposal and understood the meeting would take place in China, around the APEC summit in Shenzhen; Kremlin spokesman Peskov had said such talks would be useful. No date, format or agenda has been agreed, and China has not confirmed it.",
+   "sources": [
+    {
+     "name": "South China Morning Post",
+     "url": "https://www.scmp.com/news/us/article/3371428/trump-says-hes-open-xi-putin-meeting-china-nuclear-talks"
+    },
+    {
+     "name": "Caixin Global",
+     "url": "https://www.caixinglobal.com/2026-10-21/trump-open-to-summit-with-xi-and-putin-in-china-to-discuss-ukraine-102495614.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-spacex-xai-and-cursor-1",
+   "edition": "2026-10-22",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Tesla's third quarter: profit down 29 percent to $787 million, while the merger study with SpaceX goes on",
+   "lead": "Tesla reported third-quarter revenue of $28.05 billion and net income of $787 million on 21 October, a profit 29 percent lower than a year earlier.",
+   "text": "Tesla reported third-quarter revenue of $28.05 billion and net income of $787 million on 21 October, a profit 29 percent lower than a year earlier; adjusted earnings were 48 cents a share, above forecasts. Automotive revenue fell 3 percent to $20.56 billion, services revenue rose 33 percent to $4.61 billion, and free cash flow was $1.53 billion (CNBC; AP). The results come a day after Musk said both companies had set up committees of independent directors to study a merger; AP says no terms have been agreed. The detailed figures are from CNBC; AP confirms the drop in profit.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html"
+    },
+    {
+     "name": "AP News",
+     "url": "https://apnews.com/article/tesla-quarterly-earning-musk-spacex-merger-cfe0453f6bf0d08d22150022128492fa"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-22-spacex-xai-and-cursor-2",
+   "edition": "2026-10-22",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Grok Bot: SpaceX gives a first user count of 800,000 paying weekly users, and the company says Bot can now build reports, memos and dashboards",
+   "lead": "On SpaceX's earnings call on 20 October, president Gwynne Shotwell said Grok Bot had 800,000 paid weekly users earlier this month, more than double a month before.",
+   "text": "On SpaceX's earnings call on 20 October, president Gwynne Shotwell said Grok Bot had 800,000 paid weekly users earlier this month, more than double a month before, and called business customers the fastest-growing group; Musk said wide deployment for companies should come 'within a few weeks' (TSN, from the call transcript). The company did not define a paid weekly user, and the number is not in the written filing. On 21 October the official @bot account on X said 'Grok Bot can now build reports, memos, and dashboards' that users can edit with it or have it keep up to date, without further details on plans or availability (TSN). A secondary report says a 'What's new' video posted on 20 October by Matt Palmer, who works on the product, shows Bot reading and answering X Chat messages and being set as the default assistant on Android phones (HIMIAO, citing Tesla North); that report is unconfirmed. The official changelog is still at version 0.71.2 of 14 October.",
+   "sources": [
+    {
+     "name": "TSN: 800,000 paid weekly users",
+     "url": "https://tsnmedia.org/spacex-grok-bot-paid-weekly-users/"
+    },
+    {
+     "name": "TSN: reports, memos and dashboards",
+     "url": "https://tsnmedia.org/grok-bot-reports-memos-dashboards/"
+    },
+    {
+     "name": "HIMIAO Horizon",
+     "url": "https://himiao.ai/en/news/2026-10-21-grok-bot-x-dms"
+    },
+    {
+     "name": "Grok Bot changelog",
+     "url": "https://x.ai/changelog/bot"
     }
    ]
   }
