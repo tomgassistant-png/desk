@@ -60,7 +60,7 @@ def places_html(it):
     out = []
     for p in ps:
         la, lo = p["lat"], p["lon"]
-        url = f"https://www.openstreetmap.org/?mlat={la}&mlon={lo}#map=15/{la}/{lo}"
+        url = f"https://www.google.com/maps/search/?api=1&query={la},{lo}"
         lbl = f'{p["name"]} ({abs(la):.3f}°N, {abs(lo):.3f}°E)'
         note = f' <span class="interim">{e(p["note"])}</span>' if p.get("note") else ""
         out.append(f'<a href="{e(url)}" rel="noopener" target="_blank">{e(lbl)}</a>{note}')
