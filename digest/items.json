@@ -4731,6 +4731,28 @@
      "url": "https://x.com/xenocosmography/status/2113241953211154614"
     }
    ]
+  },
+  {
+   "id": "2026-10-23-marc-andreessen-1",
+   "edition": "2026-10-23",
+   "section": "marc-andreessen",
+   "headline": "Andreessen appears on camera in a new a16z Show episode announcing a16z Frontier",
+   "lead": "On 22 October 2026, a16z published a one-hour video podcast in which Marc Andreessen, Ben Horowitz and Chris Dixon, with host Erik Torenberg, announce that the a16z crypto fund is becoming a16z Frontier.",
+   "text": "On 22 October 2026, a16z published a one-hour video podcast, \"The Frontier Ideas a16z Wants to Fund Now,\" in which Marc Andreessen, Ben Horowitz and Chris Dixon, with host Erik Torenberg, announce that the a16z crypto fund is becoming a16z Frontier. A transcript service counts about 17 minutes of speaking time for Andreessen. In a clip posted by a16z, he says: \"The AI-native early stage startups have just a completely different view on what they can do with AI than the typical incumbents in almost any industry.\" The episode also covers AI agents, open source AI, and what comes after the iPhone. It is the first new podcast or video appearance found since the CLARITY Act episode in early August. On X he still made no original posts: his posts from 22 to 23 October were all reposts, including the a16z Frontier announcement. His total X post count rose by 5 in the day to 23 October, about 20 percent of his pre-July rate of about 25 a day.",
+   "sources": [
+    {
+     "name": "YouTube, a16z, 22 Oct 2026",
+     "url": "https://www.youtube.com/watch?v=-9XQMHhpypc"
+    },
+    {
+     "name": "X, @a16z clip, 22 Oct 2026",
+     "url": "https://x.com/a16z/status/2113337272599023840"
+    },
+    {
+     "name": "Audioscrape transcript",
+     "url": "https://www.audioscrape.com/podcast/a16z-podcast/episode/the-frontier-ideas-a16z-wants-to-fund-marc-andreessen-ben-horowitz-chris-dixon-85277"
+    }
+   ]
   }
  ]
 }
