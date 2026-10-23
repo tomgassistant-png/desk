@@ -3,6 +3,62 @@
  "subtitle": "The daily brief on the campaign against the Houthis",
  "editions": [
   {
+   "date": "2026-10-23",
+   "lede": "The Houthis claimed the Dammam airport attack, now with two dead, along with strikes they say hit the Defense Ministry in Riyadh, Aramco in Yanbu and Abha airport; Saudi Arabia has confirmed only the Dammam deaths. The coalition says it downed 11 drones and a missile on Thursday. The more important news is from the ground: a senior government commander admits that Houthi advances west and south of Taiz have nearly cut the city off, and that the planned counteroffensive is still being prepared. Turkey's committee debate on the Makkah defense pact is set for Tuesday, 27 October, not Friday.",
+   "items": [
+    {
+     "headline": "Houthis claim Dammam and three other strikes; Dammam toll rises to two",
+     "text": "Saudi Arabia's civil aviation authority said Wednesday night's attack on King Fahd International Airport in Dammam killed two people, a Saudi citizen and an Indian resident, and injured eight, and that the airport resumed normal operations on Thursday (BBC; AP; Arab News; Xinhua). On Thursday Houthi spokesman Yahya Saree claimed four missile and drone operations in 48 hours: Dammam airport, the Saudi Defense Ministry headquarters in Riyadh, an Aramco facility in Yanbu where he said a fire broke out, and Abha airport (Reuters via The Hindu; DPA; AP). Reuters reports no Saudi confirmation of hits in Riyadh or Yanbu, so those two claims are unconfirmed. The Houthis did not claim the Shaybah drone that killed two workers. Saudi figures cited by the BBC put deaths from attacks on Saudi airports since 1 October at 21 or more; an AFP tally cited by Arab News says 22.",
+     "source": "BBC; AP; Arab News; Xinhua; Reuters via The Hindu; DPA",
+     "link": "https://www.bbc.com/news/articles/cqwy71ww156ro"
+    },
+    {
+     "headline": "Coalition says it downed 11 drones and a missile aimed at Najran",
+     "text": "Coalition spokesman Turki al-Maliki said air defenses destroyed 11 drones on Thursday over Riyadh, Medina, the Eastern Province and the southern region, plus a ballistic missile heading for Najran (Anadolu; Xinhua). He gave no details of damage or injuries. The spread of targets on a single day, from Medina to the Eastern Province to the southern border, shows how many directions Saudi air defenses must now cover at once.",
+     "source": "Anadolu; Xinhua",
+     "link": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-it-intercepted-11-houthi-drones-and-a-ballistic-missile/4097904"
+    },
+    {
+     "headline": "Government commander admits Taiz is nearly cut off and a counteroffensive is still being prepared",
+     "text": "Brigadier General Mohamed al-Mahmoudi, deputy interior minister and commander of anti-Houthi forces on Jabal Sabir above Taiz, told The New Arab (21 October) that the collapse of National Resistance forces on the west coast, the loss of al-Kadha, Shamir and Maqbana, and Houthi advances into Jabal Habashi and parts of al-Hujariyah have left the city under a \"suffocating siege.\" He said forces had halted parts of the advance since 18 October and are preparing a counteroffensive, with the battle for al-Misrakh key to reopening the southern supply route. He blamed government complacency since the 2022 truce and called for an inquiry. AP and Al Jazeera separately report that the Houthis have largely encircled Taiz after cutting the main road south, and Houthi media claimed on 12 October to have secured the rest of Jabal Habashi and the Yafrus junction (Saba). This is a more sober picture than the army's daily claims of gains around Taiz.",
+     "source": "The New Arab; AP; Al Jazeera; Saba (Houthi)",
+     "link": "https://www.newarab.com/news/yemens-anti-houthi-forces-prepare-counteroffensive-save-taiz"
+    },
+    {
+     "headline": "Army claims 835 strikes in a day; Marib fronts active",
+     "text": "Army spokesman Col. Majed al-Nazili said government forces carried out 835 strikes in 24 hours, killed or wounded about 285 Houthi fighters and repelled Houthi attempts to retake positions in Taiz province, while armor, artillery and drones hit Houthi positions west of Marib (Gulf News, which notes the figures cannot be verified). Al Arabiya also reported government strikes on Houthi positions in Marib on Thursday, and Houthi media released footage of drone attacks on government forces there. No change in the lines was confirmed.",
+     "source": "Gulf News; Al Arabiya; Yemen Press Agency (Houthi)",
+     "link": "https://gulfnews.com/world/gulf/yemen/yemen-govt-forces-claims-285-houthis-killed-or-wounded-in-835-strikes-1.500719134"
+    },
+    {
+     "headline": "Government declares Houthi recruitment rallies military targets; Houthis threaten \"major options\"",
+     "text": "Yemen's Defense Ministry said gatherings the Houthis hold as tribal mobilization, rallies or cultural courses are used to recruit children and young fighters and will be treated as legitimate military targets, and told residents to stay away (The National). US chargé d'affaires Neil Hop backed the charge of child recruitment in a video from the US embassy. Saree answered that if Saudi Arabia carries out a threat to target Yemeni tribes, the Houthis would use \"major options\" they have so far avoided, with \"catastrophic\" results (The National; Xinhua; Shafaq News). According to Xinhua, the coalition denied any threat against tribes and accused the Houthis of trying to drag the tribes into the war; that response was not found in a second source. Striking mobilization rallies would take the air campaign further into Houthi recruiting, and the Houthi threat hints at escalation beyond the current attacks on Saudi cities.",
+     "source": "The National; Xinhua; Shafaq News",
+     "link": "https://www.thenationalnews.com/news/mena/2026/10/22/houthi-recruitment-gatherings-are-legitimate-military-targets-yemen-warns/"
+    },
+    {
+     "headline": "Turkish committee to take up the Makkah pact on 27 October",
+     "text": "Fuat Oktay, chairman of the Turkish parliament's foreign affairs committee, said on Thursday that the committee plans to meet on the Makkah Joint Defense Agreement next Tuesday, 27 October, in an open session, and then send it to the full assembly (Cumhuriyet; soL). The bill was referred to his committee on 21 October (DHA; TBMM). That is later than the Friday date reported earlier in the week. The government's explanatory note says the collective-defense clause does not apply automatically and depends on decisions reached by consultation and consensus (TBMM). Egypt's parliament still votes on its defensive support for Saudi Arabia on 26 October.",
+     "source": "Cumhuriyet; soL; DHA; Turkish parliament (TBMM)",
+     "link": "https://www.cumhuriyet.com.tr/turkiye/mekke-anlasmasi-tbmm-gundeminde-fuat-oktay-komisyon-icin-tarih-verdi-2549332"
+    },
+    {
+     "headline": "Inside Saudi Arabia: Gulf airlines stay out of Riyadh and Dammam; oil above $110",
+     "text": "Qatar Airways extended its suspension of Riyadh and Dammam flights until 24 October and cut Jeddah service from seven to four daily flights (Qatar Civil Aviation Authority, citing QNA). Emirates suspended Dubai to Dammam flights after the attack, and flydubai extended cancellations to Dammam, Riyadh and Abha through 24 October (Arabian Business; Khaleej Times). The National reports Brent crude rose to $110.63 a barrel on Thursday morning after the Shaybah attack; that figure was not checked against a second source. Regional states including the UAE, Qatar, Egypt, Jordan and Kuwait condemned the Dammam attack, and UN Secretary-General Guterres called for restraint and \"a political horizon\" for Yemen (Xinhua; The National).",
+     "source": "Qatar CAA (QNA); Arabian Business; Khaleej Times; The National; Xinhua",
+     "link": "https://www.caa.gov.qa/en/news/qatar-airways-extends-suspension-flights-and-riyadh-and-dammam-until-october-24"
+    },
+    {
+     "headline": "Houthis allege a Saudi strike on an Indian vessel near Zuqar",
+     "text": "Saree claimed that Saudi forces struck an Indian yacht with 14 Indian nationals aboard near Zuqar Island in the southern Red Sea, and said Houthi forces were mounting a rescue (Xinhua). There was no Saudi or Indian comment, and UKMTO's incident page listed no new Red Sea report, so the claim is unconfirmed.",
+     "source": "Xinhua (Houthi claim); UKMTO",
+     "link": "https://english.news.cn/20261023/a4db1c6e1b9842ea87c00ab8a8dabae9/c.html"
+    }
+   ],
+   "trend": "The war has two faces now. In the air, the Houthis keep hitting Saudi cities and oil sites daily and are claiming their attacks again, while Riyadh's partners add defenses and the airlines stay away. On the ground, the government's own commander in Taiz concedes the Houthis have nearly encircled the city and that the counteroffensive is not yet underway, which undercuts the army's daily claims of gains. Both sides are signaling escalation, the government by declaring Houthi recruitment rallies targets and the Houthis by threatening unspecified \"major options.\"",
+   "watch": "Whether a Taiz counteroffensive starts, especially at al-Misrakh; any Saudi confirmation of damage in Riyadh or Yanbu; any coalition strike on a Houthi rally and the Houthi response; Egypt's vote on 26 October and the Turkish committee on 27 October; whether Gulf airlines resume Riyadh and Dammam flights after 24 October; any confirmation of the Zuqar vessel claim."
+  },
+  {
    "date": "2026-10-22",
    "lede": "The Houthis widened their strikes on Wednesday: an evening attack on Dammam's King Fahd airport killed one person, falling drone debris killed two workers at Aramco's Shaybah field, and missiles hit near Aden airport and at Riyan airport in Mukalla. Washington ordered non-emergency diplomats out of Saudi Arabia, while Macron flew to Riyadh, Egypt said its help would be defensive only and Turkey said a troop mandate would follow ratification of the Makkah pact. On the ground, the government says it is holding and pushing in Taiz, with no confirmed change in the lines.",
    "items": [
