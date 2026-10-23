@@ -51,7 +51,20 @@ def meta(it, link_text="Source"):
             + (f'<span class="interim">{e(it["edition_label"])}</span> · ' if it.get("edition_label") else '') +
             f''
             f'<a href="{e(it["url"])}" rel="noopener" target="_blank">{link_text}</a>'
-            + (f' · <a href="{e(it["background"])}">Backgrounder</a>' if it.get("background") else '') + '</p>')
+            + (f' · <a href="{e(it["background"])}">Backgrounder</a>' if it.get("background") else '') + '</p>' + places_html(it))
+
+def places_html(it):
+    ps = it.get("places") or []
+    if not ps:
+        return ""
+    out = []
+    for p in ps:
+        la, lo = p["lat"], p["lon"]
+        url = f"https://www.openstreetmap.org/?mlat={la}&mlon={lo}#map=15/{la}/{lo}"
+        lbl = f'{p["name"]} ({abs(la):.3f}°N, {abs(lo):.3f}°E)'
+        note = f' <span class="interim">{e(p["note"])}</span>' if p.get("note") else ""
+        out.append(f'<a href="{e(url)}" rel="noopener" target="_blank">{e(lbl)}</a>{note}')
+    return '<p class="meta places">Map: ' + " · ".join(out) + '</p>'
 
 NEWEST = None
 def is_new(it):
