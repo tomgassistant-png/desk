@@ -51,6 +51,24 @@ def build(now):
     kn = d["key_numbers"]
     rail = ('<aside class="rail"><div class="sources"><h2>Reports</h2><ul><li><a href="numbers/"><b>Key numbers</b></a>'
             f'<span class="s">{len(kn)} program figures: population, holding, removals, fertility control, money and fall gathers. Refreshed weekly (last: {e(long_date(d["key_numbers_updated"]))}).</span></li></ul></div></aside>')
+    GROUPS = [("Baseline", ["rtf", "salvation", "american-prairie"]),
+              ("Sanctuaries and rescues", ["iram-black-hills", "mustang-monument", "skydog", "pryor-center", "strawberry-mtn", "wild-burro-rescue", "kiger-mesteno", "mustang-heritage"]),
+              ("National advocacy and litigation", ["awhc", "whe", "foa", "awi", "ida", "humane-world", "cloud-foundation"]),
+              ("Local groups and range conservation", ["carter-reservoir-mustangs", "salt-river-whmg", "owho", "cowhc", "wwp"]),
+              ("Agency, science and opposing view", ["blm-whb", "science-conservation-center", "plc"])]
+    byid = {o["id"]: o for o in d["organizations"]}
+    def entry(o):
+        x = o.get("x")
+        xl = f' <span class="s">(<a href="{e(x["url"])}" target="_blank" rel="noopener">{e(x["handle"])}</a>)</span>' if x else ''
+        return f'<li>{link(o["website"], o["name"].split(" (")[0])}{xl}</li>'
+    seen = {i for _, ids in GROUPS for i in ids}
+    rest = [o for o in d["organizations"] if o["id"] not in seen and o.get("website")]
+    blog = '<div class="sources" id="links"><h2>Links</h2>'
+    for title, ids in GROUPS + ([("Other", [o["id"] for o in rest])] if rest else []):
+        blog += f'<h4>{e(title)}</h4><ul>' + "".join(entry(byid[i]) for i in ids if i in byid and byid[i].get("website")) + '</ul>'
+    blog += '<h4>Related X accounts</h4><ul>' + "".join(f'<li>{link(r["url"], r["handle"])}</li>' for r in d.get("x_related", [])) + '</ul>'
+    blog += '<h4>Sources to watch</h4><ul>' + "".join(f'<li>{link(w["url"], w["name"])}</li>' for w in d["watch_sources"]) + '</ul></div>'
+    rail = rail.replace('</div></aside>', '</div>' + blog + '</aside>')
     nav = __import__("sitenav").nav("horses", "../")
     return ('<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow, noarchive"><meta name="googlebot" content="noindex, nofollow, noarchive">'
             '<meta name="viewport" content="width=device-width, initial-scale=1"><title>Wild horse rescue and Western conservation tracker</title>'
