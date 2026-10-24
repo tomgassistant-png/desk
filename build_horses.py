@@ -21,10 +21,8 @@ def build(now):
     h = []
     h.append('<h1>Wild Horse Rescue and Western Conservation Tracker</h1>')
     h.append(f'<p class="lede">Organizations, campaigns and court and agency actions on wild horses and burros and on conservation in the western United States. Data updated {e(long_date(d["updated"]))}. "Far West" is read here as the western states. Labels on each development: <b>official</b> (BLM or a court docket), <b>advocacy claim</b> (a group\'s own statement), <b>independent reporting</b>, or <b>unconfirmed</b>. All map points are approximate.</p>')
-    h.append('<h2>Key numbers</h2><table><tr><th>Measure</th><th>Value</th><th>As of</th><th>Source and note</th></tr>')
-    for k in d["key_numbers"]:
-        h.append(f'<tr><td>{e(k["label"])}</td><td class="big">{e(k["value"])}</td><td>{e(k["as_of"])}</td><td>{link(k["source_url"], k["source_name"])}. {e(k.get("note",""))}</td></tr>')
-    h.append('</table><h2>Developments, newest first</h2>')
+    head = ''.join(h); h = []
+    h.append('<h2>Developments, newest first</h2>')
     for x in sorted(d["developments"], key=lambda x: x["date"], reverse=True):
         rel = ", ".join(orgs.get(r, r) for r in x.get("related", []))
         h.append(f'<div class="dev"><span class="kind">{e(x["kind"])}</span> · {e(long_date(x["date"]) if len(x["date"])==10 else x["date"])}<br>{e(x["text"])} <span class="meta">Source: {link(x["source_url"], x["source_name"])}{(" · Related: "+e(rel)) if rel else ""}</span></div>')
@@ -50,13 +48,44 @@ def build(now):
         h.append('<h2>Related X accounts</h2><ul>' + "".join(f'<li>{link(r["url"], r["handle"])}: {e(r["relation"])}</li>' for r in d["x_related"]) + '</ul>')
     h.append('<h2>Sources to watch</h2><ul>' + "".join(f'<li>{link(w["url"], w["name"])}: {e(w["how"])}</li>' for w in d["watch_sources"]) + '</ul>')
     h.append('<h2>Notes and limits</h2><ul>' + "".join(f'<li>{e(n)}</li>' for n in d["notes"]) + '</ul>')
+    kn = d["key_numbers"]
+    rail = ('<aside class="rail"><div class="sources"><h2>Reports</h2><ul><li><a href="numbers/"><b>Key numbers</b></a>'
+            f'<span class="s">{len(kn)} program figures: population, holding, removals, fertility control, money and fall gathers. Refreshed weekly (last: {e(long_date(d["key_numbers_updated"]))}).</span></li></ul></div></aside>')
     nav = __import__("sitenav").nav("horses", "../")
     return ('<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow, noarchive"><meta name="googlebot" content="noindex, nofollow, noarchive">'
             '<meta name="viewport" content="width=device-width, initial-scale=1"><title>Wild horse rescue and Western conservation tracker</title>'
             f'<style>{CSS}{NAV_CSS}{EXTRA}</style></head><body><div class="page">{nav}'
-            f'<div class="topline"><span>Wild Horse Tracker</span><span>Page built {now:%d %B %Y, %H:%M} Israel time</span></div><main class="hz">{"".join(h)}</main>'
+            f'<div class="topline"><span>Wild Horse Tracker</span><span>Page built {now:%d %B %Y, %H:%M} Israel time</span></div><main class="hz">{head}<div class="layout"><main class="main">{"".join(h)}</main>{rail}</div></main>'
             '<footer>Wild Horse Tracker · refreshed on request</footer></div></body></html>')
 
+def build_numbers(now):
+    d = json.load(open(os.path.join(D, "horses/data.json"), encoding="utf-8"))
+    hist = sorted(d.get("key_numbers_history", []), key=lambda x: x["date"])
+    h = ['<h1>Wild Horse Tracker: Key Numbers</h1>',
+         f'<p class="lede">Program figures for wild horses and burros on federal land and for the fall 2026 gathers. Refreshed weekly; last refresh {e(long_date(d["key_numbers_updated"]))}. Each figure carries its own "as of" date, because the sources update on different schedules. Advocacy groups dispute some agency figures, and the notes say where.</p>',
+         '<h2>Current figures</h2><table><tr><th>Measure</th><th>Value</th><th>As of</th><th>Source and note</th></tr>']
+    for k in d["key_numbers"]:
+        h.append(f'<tr><td>{e(k["label"])}</td><td class="big">{e(k["value"])}</td><td>{e(k["as_of"])}</td><td>{link(k["source_url"], k["source_name"])}. {e(k.get("note",""))}</td></tr>')
+    h.append('</table><h2>Changes at the last refresh</h2>')
+    if len(hist) < 2:
+        h.append('<p>This is the first edition, so there is nothing to compare yet. Changes will appear here after the next weekly refresh.</p>')
+    else:
+        old, new = hist[-2], hist[-1]
+        rows = [(l, old["values"].get(l, "(new)"), v) for l, v in new["values"].items() if old["values"].get(l) != v]
+        if rows:
+            h.append(f'<p class="meta">{e(long_date(old["date"]))} to {e(long_date(new["date"]))}</p><table><tr><th>Measure</th><th>Previous</th><th>Now</th></tr>' + "".join(f'<tr><td>{e(a)}</td><td>{e(b)}</td><td>{e(c)}</td></tr>' for a, b, c in rows) + '</table>')
+        else:
+            h.append(f'<p>No figure changed between {e(long_date(old["date"]))} and {e(long_date(new["date"]))}.</p>')
+    h.append('<h2>Refresh history</h2><p>' + ", ".join(e(long_date(x["date"])) for x in reversed(hist)) + '.</p>')
+    nav = __import__("sitenav").nav("horses", "../../")
+    return ('<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex, nofollow, noarchive"><meta name="googlebot" content="noindex, nofollow, noarchive">'
+            '<meta name="viewport" content="width=device-width, initial-scale=1"><title>Wild horse tracker: key numbers</title>'
+            f'<style>{CSS}{NAV_CSS}{EXTRA}</style></head><body><div class="page">{nav}'
+            f'<div class="topline"><span><a href="../">← Wild Horse Tracker</a></span><span>Page built {now:%d %B %Y, %H:%M} Israel time</span></div><main class="hz">{"".join(h)}</main>'
+            '<footer>Wild Horse Tracker · key numbers · <a href="../">Back to the tracker</a></footer></div></body></html>')
+
 if __name__ == "__main__":
+    os.makedirs(os.path.join(D, "horses/numbers"), exist_ok=True)
+    open(os.path.join(D, "horses/numbers/index.html"), "w", encoding="utf-8").write(build_numbers(datetime.now(TZ)))
     open(os.path.join(D, "horses/index.html"), "w", encoding="utf-8").write(build(datetime.now(TZ)))
     print("wrote horses/index.html")

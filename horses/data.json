@@ -1338,5 +1338,22 @@
   "The Salt River horses are managed by Arizona and the Forest Service, not BLM.",
   "Death counts are BLM's own categories. WHE (Oct 20) gave 7 Red Desert deaths and RTF's Oct 23 post says seven; BLM's daily rows add to 11 by Oct 23.",
   "ProPublica financials lag: FY2023 or FY2024 is the latest posted. All coordinates are approximate."
+ ],
+ "key_numbers_updated": "2026-10-24",
+ "key_numbers_history": [
+  {
+   "date": "2026-10-24",
+   "values": {
+    "Estimated wild horses and burros on BLM land": "85,466 (61,523 horses; 23,943 burros)",
+    "Appropriate management level (AML)": "25,592 (high end, all herds)",
+    "Population by state vs high AML (total animals)": "NV 42,572 vs 12,811; AZ 13,814 vs 1,676; CA 8,467 vs 2,236; WY 7,165 vs 2,566; OR 6,080 vs 2,700; UT 4,843 vs 1,956; CO 1,669 vs 827; ID 564 vs 617; MT 195 vs 120; NM 97 vs 83",
+    "Animals in off-range holding": "58,025 (corrals 20,350; pastures 36,459; public pastures 1,216); capacity 78,751",
+    "FY2025 removals and placements": "7,853 removed; 8,080 placed (4,330 adoptions; 3,718 sales)",
+    "FY2025 fertility treatments": "921 (PZP 484; PZP-22 99; GonaCon 338)",
+    "FY2024 program money": "$142M appropriated; $153M spent; $101M (66%) on holding",
+    "New fertility-control money": "$30 million from USDA",
+    "Fall 2026 gathers in this file": "Red Desert WY 666 gathered (target 1,035); North Complex NV 323; Sulphur UT about 259 (search summary); Sand Wash CO about 301 gathered; Riddle OR up to 140 (court cap); Pryor MT bait trap about 100"
+   }
+  }
  ]
 }
