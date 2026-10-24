@@ -1,7 +1,7 @@
 {
   "title": "Judea & Samaria Desk",
   "subtitle": "The Palestinian Authority, security, settlement and land in Judea and Samaria",
-  "latest_count": 8,
+  "latest_count": 9,
   "items": [
     {
       "id": "2026-10-18-taybeh-evidence",
@@ -2442,9 +2442,240 @@
       "edition": "2026-10-23",
       "letter": "PA security: 23 Oct 2026",
       "published": "2026-10-23T05:32:00+03:00"
+    },
+    {
+      "id": "2026-10-24-yehuda-junction-attack",
+      "section": "attacks",
+      "date": "2026-10-23",
+      "headline": "Two soldiers killed as Hebron gunmen open fire at Route 35 checkpoint",
+      "summary": "Two Hamas-affiliated men from Hebron, both 27, drove up in a car with yellow Israeli plates (JPost says an off-road vehicle no longer licensed for the road) and opened fire at a temporary checkpoint at the Hebron exit near Yehuda Junction on Route 35, at about 7:15 Friday morning. Staff Sgt. Ron Yonatan Roytman, 23, of Ashkelon, a squad commander, and Sgt. Yuval Shai Svilem, 20, of Hod Hasharon, both of the Home Front Command's new Ari Battalion on its first Judea and Samaria deployment, were killed; three soldiers were lightly hurt. After a gunbattle of more than 20 minutes, the battalion's deputy commander, a company commander and a 101st Paratroopers officer flanked and killed the two. They carried an M4, a handgun and a lot of ammunition, and the IDF believes they were heading for a larger attack on civilians on Route 35 or inside Israel. Roytman's funeral is Sunday at 11:00 at the Ashkelon military cemetery. Also reported by <a href=\"https://www.israelnationalnews.com/news/435060\">INN</a>, <a href=\"https://www.ynetnews.com/article/rjckmad2ze\">Ynetnews</a>, <a href=\"https://www.timesofisrael.com/liveblog_entry/2-palestinian-gunmen-planned-a-larger-attack-targeting-israeli-civilians-in-west-bank-idf-believes/\">Times of Israel</a> and <a href=\"https://apnews.com/article/israel-shooting-west-bank-election-f6646718072b4ff6929cff43297edd05\">AP</a>; more detail in <a href=\"https://www.inn.co.il/news/709193\">Arutz 7</a>.",
+      "source": "Arutz 7",
+      "url": "https://www.inn.co.il/news/709152",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "Attack site, Route 35 at the Hebron exit (Farsh al-Hawa road)",
+          "lat": 31.5587,
+          "lon": 35.0837,
+          "note": "approximate"
+        },
+        {
+          "name": "Hebron",
+          "lat": 31.5289,
+          "lon": 35.0945
+        }
+      ],
+      "lead": true,
+      "highlight": true
+    },
+    {
+      "id": "2026-10-24-hebron-closure-camps-model",
+      "section": "idf",
+      "date": "2026-10-23",
+      "headline": "Hebron closed; Netanyahu says the refugee-camp operation model will be applied to the attackers' neighborhood",
+      "summary": "Chief of Staff Eyal Zamir approved a full closure of Hebron and surrounding villages and stepped-up arrests (<a href=\"https://www.inn.co.il/news/709160\">Arutz 7</a>). At the scene, Netanyahu said Hebron and Halhul are closed, a full closure of Judea and Samaria is being prepared, and the \"camps model\" will be applied to the neighborhood the gunmen came from: evacuating residents, going house to house, seizing weapons and destroying infrastructure, possibly in other cities too, with faster clearing of illegal building along roads (<a href=\"https://www.inn.co.il/news/709188\">Arutz 7</a>). Central Command chief Avi Bluth announced a \"significant counterterror operation\" (<a href=\"https://www.inn.co.il/news/709195\">Arutz 7</a>). Ben Gvir called at the scene for dismantling the PA and ending shared roads (<a href=\"https://www.inn.co.il/news/709164\">Arutz 7</a>); Smotrich called for a full campaign to dismantle the PA. The IDF says more than 70 wanted men were arrested in Judea and Samaria last week.",
+      "source": "Arutz 7",
+      "url": "https://www.inn.co.il/news/709188",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "Hebron",
+          "lat": 31.5289,
+          "lon": 35.0945
+        },
+        {
+          "name": "Halhul",
+          "lat": 31.5775,
+          "lon": 35.0993
+        }
+      ],
+      "highlight": true
+    },
+    {
+      "id": "2026-10-24-smotrich-demolitions-four-farms",
+      "section": "land",
+      "date": "2026-10-23",
+      "headline": "Civil Administration razes dozens of illegal structures by the attack site; Smotrich announces four new farms in the south Hebron Hills",
+      "summary": "On Smotrich's direct order, the Civil Administration's enforcement unit demolished dozens of illegal Arab structures next to the attack site before Shabbat. \"This is only the beginning… Jewish blood is not cheap,\" he said. He also announced four new farms in the south Hebron Hills, with residents organizing to move onto them before Shabbat, and said it was agreed with the prime minister and defense minister to map more areas for enforcement. Abu Ali Express places the demolitions in the Farsh al-Hawa area. Also reported by <a href=\"https://www.kikar.co.il/israel-news/smotrich-demolishes-buildings-near-terror-attack-j\">Kikar HaShabbat</a>, <a href=\"https://www.ynet.co.il/news/article/rkd6hs00nze\">Ynet</a> and <a href=\"https://www.news1.co.il/Archive/001-D-525596-00.html\">News1</a>. The exact farm sites were not given.",
+      "source": "Ynet",
+      "url": "https://www.ynet.co.il/news/article/rjcxwcd3fx",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "Attack site, Route 35 at the Hebron exit (Farsh al-Hawa road)",
+          "lat": 31.5587,
+          "lon": 35.0837,
+          "note": "approximate"
+        }
+      ],
+      "highlight": true
+    },
+    {
+      "id": "2026-10-24-burin-hikers-attacked",
+      "section": "attacks",
+      "date": "2026-10-23",
+      "headline": "Hikers on ATVs attacked with clubs and stones near Burin on the way to Ein Amsha spring",
+      "summary": "Three hikers riding ATVs to the Ein Amsha spring between Yitzhar and Givat Ronen were attacked with clubs and stones and lightly hurt. A victim told Arutz 7 there were 30 to 40 attackers, Arabs and foreign activists; <a href=\"https://x.com/elchanangr/status/2113594877074157924\">Elchanan Groner</a> and JSR say dozens came from Burin on off-road vehicles with foreign women activists who filmed, and the ATVs were vandalized. Samaria Council head Yossi Dagan demanded arrests and the deportation of the foreigners. Groner adds that the Shai District commander said the off-road vehicles would be dealt with.",
+      "source": "Arutz 7",
+      "url": "https://www.inn.co.il/news/709197",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "Ein Amsha spring",
+          "lat": 32.1802,
+          "lon": 35.2675
+        },
+        {
+          "name": "Burin",
+          "lat": 32.1832,
+          "lon": 35.2501
+        },
+        {
+          "name": "Givat Ronen",
+          "lat": 32.1782,
+          "lon": 35.2639
+        },
+        {
+          "name": "Yitzhar",
+          "lat": 32.1686,
+          "lon": 35.2337
+        }
+      ],
+      "highlight": true
+    },
+    {
+      "id": "2026-10-24-harvest-activists-hizma",
+      "section": "pa",
+      "date": "2026-10-23",
+      "headline": "About 100 left-wing activists stopped at Hizma on the way to the Mukhmas olive harvest",
+      "summary": "Elisha Yered reports that Binyamin police stopped about 100 far-left activists at the Hizma checkpoint as they headed to Mukhmas, near Sha'ar Binyamin. <a href=\"https://x.com/elchanangr/status/2113524122471063789\">Elchanan Groner</a> reports the IDF let activists, including Roi Elani, stay in the Shiloh valley. Neither report has been confirmed elsewhere.",
+      "source": "Elisha Yered (X)",
+      "url": "https://x.com/ElishaYered/status/2113593526831259968",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "Hizma checkpoint",
+          "lat": 31.8282,
+          "lon": 35.2519
+        },
+        {
+          "name": "Mukhmas",
+          "lat": 31.8722,
+          "lon": 35.2775
+        },
+        {
+          "name": "Shiloh",
+          "lat": 32.0552,
+          "lon": 35.2995
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-desert-smugglers-yered",
+      "section": "idf",
+      "date": "2026-10-23",
+      "headline": "Yered: soldiers say they may not chase smuggler convoys in the Hebron Hills (unconfirmed)",
+      "summary": "Elisha Yered relays a soldier's message that troops in the Hebron Hills are not allowed to fire at or chase smugglers' vehicles, which Elchanan Groner says cross the Judean Desert in convoys weekly; two weeks ago a smuggler rammed an IDF Humvee and was released within a day (<a href=\"https://x.com/ElishaYered/status/2113526169001726407\">second post</a>). There is no IDF response, and the claim is unverified.",
+      "source": "Elisha Yered (X)",
+      "url": "https://x.com/ElishaYered/status/2113503463799660753",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "Hebron Hills (area)",
+          "lat": 31.45,
+          "lon": 35.1,
+          "note": "approximate"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-quneitra-rafid-roads",
+      "section": "idf",
+      "date": "2026-10-23",
+      "headline": "Southern Syria: IDF closes roads near al-Rafid; artillery on Hamidiyah outskirts",
+      "summary": "North Press reports Israeli forces with three vehicles moved west of Saida al-Hanout in south Quneitra on Friday and closed roads west of the al-Za'rura farm near al-Rafid after entering with a bulldozer. <a href=\"https://aa.com.tr/en/middle-east/israeli-artillery-fire-hits-outskirts-of-2-villages-in-syria-s-quneitra-province/4098847\">Anadolu</a> reports artillery fire on the outskirts of Hamidiyah and western Zubayda. No IDF comment.",
+      "source": "North Press",
+      "url": "https://npasyria.com/en/142951/",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "al-Rafid",
+          "lat": 32.9559,
+          "lon": 35.9009
+        },
+        {
+          "name": "Saida (Saida al-Hanout)",
+          "lat": 32.8756,
+          "lon": 35.8774,
+          "note": "approximate: Nominatim match for Saida in Quneitra"
+        },
+        {
+          "name": "Hamidiyah",
+          "lat": 33.1563,
+          "lon": 35.8479
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-afp-photographer-cleared",
+      "section": "attacks",
+      "date": "2026-10-23",
+      "headline": "Police: AFP photographer at the attack scene is not a suspect",
+      "summary": "Early reports, including from JSR and Elchanan Groner, said AFP photographer Hazem Bader was suspected of knowing about the attack in advance. Police later said he is not a suspect, the IDF told AFP no investigation was underway, and the Foreign Press Association called the reports false (<a href=\"https://www.al-monitor.com/originals/2026/10/afp-photographer-captures-striking-images-west-bank-attack\">AFP via Al-Monitor</a>, <a href=\"https://www.ynetnews.com/article/sjy0afdhmx\">Ynetnews</a>).",
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912651",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "Attack site, Route 35 at the Hebron exit (Farsh al-Hawa road)",
+          "lat": 31.5587,
+          "lon": 35.0837,
+          "note": "approximate"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-24-itamar-coordinator-indicted",
+      "section": "pa",
+      "date": "2026-10-23",
+      "headline": "Itamar security coordinator indicted over shooting at a car in Aqraba",
+      "summary": "Prosecutors indicted Pinchas Shem Tov Ran, the security coordinator of Itamar's Gid'onim ridge, alleging he entered Aqraba with a career soldier, checked IDs without authority and fired at a car, badly wounding an 18-year-old woman. He says a car with no plates sped at them and they had to jump aside. His brother, Maj. Or Yosef Ran, fell at Kfar Aza on 7 October; Honenu represents him. Shai District police apologized for issuing the announcement right after the attack (<a href=\"https://x.com/ElishaYered/status/2113574002706771987\">Elisha Yered</a>).",
+      "source": "Arutz 7",
+      "url": "https://www.inn.co.il/news/709170",
+      "edition": "2026-10-24",
+      "letter": "PA security: 24 Oct 2026",
+      "published": "2026-10-24T08:00:00+03:00",
+      "places": [
+        {
+          "name": "Itamar",
+          "lat": 32.1745,
+          "lon": 35.3084
+        },
+        {
+          "name": "Aqraba",
+          "lat": 32.127,
+          "lon": 35.3438
+        }
+      ]
     }
   ],
-  "highlight_count": 8,
+  "highlight_count": 9,
   "weather_location": {
     "name": "Herzliya",
     "lat": 32.1663,

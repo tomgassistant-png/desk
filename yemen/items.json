@@ -3,6 +3,62 @@
  "subtitle": "The daily brief on the campaign against the Houthis",
  "editions": [
   {
+   "date": "2026-10-24",
+   "lede": "The air war kept its daily rhythm: Saudi defenses downed missiles aimed at Riyadh and Khamis Mushait on Friday and a drone over the Eastern Province early Saturday, while Aramco emptied its Dhahran headquarters and Brent settled at a six-month high of $116.72. On the ground, government forces attacked Houthi positions on the al-Aqroud front in al-Misrakh, south of Taiz, though no change in the lines is confirmed. Turkey's defense minister said Turkish troops will not fight the Houthis, and the 14 Indians from the Zuqar boat are reported safe in Hodeidah.",
+   "items": [
+    {
+     "headline": "Missiles at Riyadh and Khamis Mushait downed; Saturday drone over the Eastern Province",
+     "text": "Coalition spokesman Turki al-Maliki said a ballistic missile fired at Riyadh was intercepted shortly after 4 a.m. on Friday, a second missile aimed at Khamis Mushait was downed later in the day, and two drones heading for the southern region were destroyed (Arab News; Saudi Gazette; QNA; Xinhua). Early Saturday the coalition said it destroyed a drone over the Eastern Province. Arab News, with AFP, reports that Saudi Civil Defense sounded alerts for Riyadh, Najran and Wadi al-Dawasir just after 4 a.m. and that two loud blasts were heard in the capital minutes later; the blasts were not reported elsewhere, so treat them as unconfirmed. No damage or casualties were reported from either day. Arab News, citing coalition and SPA figures, puts this month's toll in the kingdom at 24 dead and at least 374 injured, and says the Houthis have fired at least 14 ballistic missiles and more than 60 drones at Saudi Arabia in October; that count was not found in a second source.",
+     "source": "Arab News; Saudi Gazette; QNA; Xinhua",
+     "link": "https://www.arabnews.com/saudi-arabia/coalition-forces-down-drone-as-houthis-keep-up-strikes-on-saudi-arabia-3007971"
+    },
+    {
+     "headline": "Aramco empties its Dhahran headquarters; Brent at a six-month high",
+     "text": "Aramco told remaining staff to leave its Dhahran headquarters and work remotely, six people told Reuters on Thursday; AFP's sources said most employees had already been working from home since a strike hit the building last week, and only essential staff had stayed (Reuters via Al-Monitor; Gulf News, citing AFP). Aramco did not comment, and Reuters says the reason for the order was unclear. Brent crude settled at $116.72 a barrel on Friday, up $3.55, its highest close since 29 April and up 6% on the week, with traders citing the Houthi attacks on Saudi energy sites (Reuters via CNA; CNBC; The National). The evacuation shows that even the oil company's nerve center, in the Eastern Province far from Yemen, is now treated as within range.",
+     "source": "Reuters via Al-Monitor and CNA; Gulf News (AFP); CNBC; The National",
+     "link": "https://www.al-monitor.com/originals/2026/10/saudi-aramco-tells-staff-evacuate-dhahran-clashes-yemens-houthis-continue"
+    },
+    {
+     "headline": "Taiz: government attack on the al-Aqroud front in al-Misrakh",
+     "text": "The Taiz military axis said army and Popular Resistance forces attacked Houthi positions on the al-Aqroud front in al-Misrakh district on Thursday evening, hitting sites around Jabal al-Manara, Kur and Wadi Kur, and claimed more than 35 Houthi fighters killed or wounded (al-Mashhad al-Yemeni). Field reports on Friday spoke of reinforcements reaching the al-Aqroud and Dhahih fronts, and local sources claimed positions near Jabal al-Manara were retaken; that is unconfirmed. The cost was real: the 35th Armored Brigade mourned its training chief, Col. Mahfouz al-Jaradi, another officer and several soldiers killed at al-Aqroud (Al Jazeera, citing Anadolu; al-Mashhad al-Yemeni). Government aircraft also struck Houthi sites west of the city and in Jabal Habashi, al-Ma'afer and al-Misrakh (Al Jazeera; al-Sahil al-Gharbi). With Taiz described as nearly cut off, this may be the first move of the counteroffensive the desk has been watching for (my inference); no outlet has yet reported a change in the lines.",
+     "source": "al-Mashhad al-Yemeni; Al Jazeera Arabic (Anadolu); al-Sahil al-Gharbi",
+     "link": "https://www.almashhad.news/news/502927"
+    },
+    {
+     "headline": "Other fronts: Giants hold at Kahbub; army claims 780 strikes",
+     "text": "The Southern Giants Forces said they turned back a Houthi attack on the Kahbub front in Lahij on Friday morning, part of repeated Houthi attempts to retake ground near Dhubab and Bab al-Mandab (Aden Time via Jarayid; al-Yemeni al-Jadid). Al Jazeera also reported clashes on the Bab al-Mandab and al-Mudaraba fronts in Lahij. Army spokesman Col. Majed al-Nuzaili claimed 780 strikes in 24 hours across al-Jawf, western Marib, al-Bayda and the Taiz fronts, with 512 Houthi fighters \"neutralized\" and more than 330 vehicles destroyed or disabled (Arab News; Al Jazeera, citing Saba); these are government figures and cannot be verified. Nation's Shield forces released video of a drone strike on Houthi supplies at Huwayshan in al-Jawf (al-Mashhad al-Yemeni only). On the other side, Houthi spokesman Yahya Saree said Saudi aircraft carried out 124 strikes in 24 hours across seven provinces and Sanaa (Saba), and Houthi-run al-Masirah said a strike on a house in Nihm district killed three and injured nine (Xinhua); neither claim has been independently verified.",
+     "source": "Jarayid (Aden Time); al-Yemeni al-Jadid; Arab News; Al Jazeera Arabic; Saba (Houthi); Xinhua",
+     "link": "https://www.arabnews.com/middle-east/yemen-military-reports-780-strikes-against-houthi-targets-in-24-hours-3007811"
+    },
+    {
+     "headline": "Turkey's defense minister: no fighting with the Houthis",
+     "text": "Defense Minister Yaşar Güler said on Friday that once parliament approves the Makkah agreement, Ankara will weigh Saudi requests within the mandate parliament grants, and that, as in Qatar, the aim of any Turkish military support would be deterrence: \"We definitely do not foresee entering into any conflict with the Houthis\" (NTV, citing Anadolu). The foreign affairs committee still takes up the pact on Tuesday, 27 October, and sending troops would need a separate presidential mandate (haber.aero; T24). Güler's remark settles what Turkey's part will be: air defense and deterrence on Saudi soil, not a role in Yemen.",
+     "source": "NTV (Anadolu); haber.aero; T24",
+     "link": "https://www.ntv.com.tr/turkiye/bakan-gulerden-mekke-ittifaki-aciklamasi-husilerle-catismaya-girilmeyecek-1747683"
+    },
+    {
+     "headline": "European Parliament asks the EU to list the Houthis as a terrorist group",
+     "text": "The European Parliament on Thursday adopted a resolution asking the EU Council to put the Houthis, including their political and military wings, leaders and security apparatus, on the EU terrorist list and freeze their funds (Euronews; The National; European Parliament press service). Yemen's Foreign Ministry and parliament welcomed it (Al Jazeera, citing Saba). The resolution is not binding; listing needs a unanimous decision by member governments. The Arab League separately condemned the Dammam airport and Shaybah attacks as a violation of Saudi sovereignty (Petra; Asharq Al-Awsat).",
+     "source": "Euronews; The National; European Parliament; Al Jazeera Arabic; Petra; Asharq Al-Awsat",
+     "link": "https://www.euronews.com/2026/10/22/meps-call-for-houthis-to-be-added-to-eu-terrorist-list"
+    },
+    {
+     "headline": "Inside Saudi Arabia: airlines push suspensions into November",
+     "text": "Despite Riyadh's partial reopening, most foreign carriers are still staying away (The National's airline tracker, 23 October). Etihad has cancelled Riyadh, Dammam and some Jeddah flights until 5 November; flydubai's Riyadh, Dammam and Abha suspension runs to 29 October; Emirates has suspended Riyadh, Dammam and Jeddah to 25 October; Oman Air, SalamAir and KLM are out until 31 October; Lufthansa is out of Riyadh until 18 November; and Delta has pushed its planned Atlanta to Riyadh launch, due 23 October, to March 2027. Qatar Airways' Riyadh and Dammam suspension ran through 24 October, with no resumption date announced yet (Qatar CAA; Gulf News). Most of these dates come from The National's tracker alone.",
+     "source": "The National; Qatar CAA; Gulf News",
+     "link": "https://www.thenationalnews.com/travel/2026/10/23/saudi-arabia-flight-cancellations-which-airlines-are-suspending-services-and-until-when/"
+    },
+    {
+     "headline": "Zuqar boat: all 14 Indians safe; reports of an arms boat hit nearby",
+     "text": "India's embassy in Yemen said on Friday that all 14 Indian nationals from the boat the Houthis say Saudi forces struck near Jabal Zuqar are reported safe and located around Hodeidah (Reuters via Daily Maverick; NDTV). Saudi Arabia has still not commented, and who hit the boat is unconfirmed. Separately, Yemeni journalist Fares al-Homairi reported on X that a boat carrying weapons from the coast of an Arab country toward Houthi-held Zuqar was struck and destroyed in the Red Sea (via al-Mashhad al-Yemeni); there is no official confirmation. Houthi media also said Saudi aircraft hit the lighthouse on Mayyun (Perim) island in the Bab al-Mandab (Xinhua); that is also unconfirmed.",
+     "source": "Reuters via Daily Maverick; NDTV; al-Mashhad al-Yemeni; Xinhua",
+     "link": "https://www.dailymaverick.co.za/article/2026-10-23-all-14-indians-in-yacht-incident-off-yemen-coast-reported-safe-embassy-says/"
+    }
+   ],
+   "trend": "The pattern holds. Houthi missiles and drones reach Saudi Arabia every night, nearly all are intercepted, and yet the cost keeps building: Aramco has emptied its headquarters, oil is at a six-month high, and foreign airlines are pushing their return into November. Riyadh's partners keep defining their help as defense of Saudi soil, and Turkey has now said so outright. The real test is around Taiz, where the government has begun attacking on the al-Misrakh front south of the city, at a visible cost in officers. Whether that becomes a real counteroffensive, or stalls like the earlier claimed advances, will decide whether Taiz holds.",
+   "watch": "Whether the al-Aqroud attack grows into a push through al-Misrakh and any confirmed change in the lines; whether Saudi Arabia confirms damage from the Saturday alerts in Riyadh; Egypt's parliamentary vote on 26 October and the Turkish committee on 27 October; any coalition strike on Houthi rallies and the Houthi \"major options\" response; whether Qatar Airways and other Gulf carriers announce a return to Riyadh and Dammam; how the 14 Indians get out of Hodeidah."
+  },
+  {
    "date": "2026-10-23",
    "lede": "The Houthis claimed the Dammam airport attack, now with two dead, along with strikes they say hit the Defense Ministry in Riyadh, Aramco in Yanbu and Abha airport; Saudi Arabia has confirmed only the Dammam deaths. The coalition says it downed 11 drones and a missile on Thursday. The more important news is from the ground: a senior government commander admits that Houthi advances west and south of Taiz have nearly cut the city off, and that the planned counteroffensive is still being prepared. Turkey's committee debate on the Makkah defense pact is set for Tuesday, 27 October, not Friday.",
    "items": [
