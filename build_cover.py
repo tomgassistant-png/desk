@@ -111,6 +111,57 @@ def polymarket_box(slug, label):
             f'<span class="srcs">Fetched {t} Israel time. Market price of a "Yes" share, updated at each daily build. Odds are bets, not polls.</span><br>'
             f'<a href="{url}" target="_blank" rel="noopener">Open the market on Polymarket</a></div>')
 
+def render_timestamped(b, secid, slug, names):
+    """Backgrounder with a timestamped video summary: every time links to the video at that second."""
+    R = "../../../"
+    vid = b["video"]
+    def ts(t):
+        t = int(t); return f"{t//3600}:{t//60%60:02d}:{t%60:02d}"
+    def lk(t, label=None):
+        return f'<a href="https://www.youtube.com/watch?v={e(vid)}&amp;t={int(t)}s" target="_blank" rel="noopener">{e(label or ts(t))}</a>'
+    o = [head(b["title"]), sitenav.nav(secid, R),
+         f'<header class="masthead"><h1>{e(b["title"])}</h1><p class="dateline">{e(names.get(secid, secid))} backgrounder · {e(b["date"])} · <a href="../">Back to the section</a></p></header>',
+         f'<p class="summary"><b>{e(b["summary"])}</b></p>',
+         f'<p class="srcs">Video: <a href="https://www.youtube.com/watch?v={e(vid)}" target="_blank" rel="noopener">Nick Land x Fans on YouTube (CYPHERS)</a> · <a href="transcript/">Full timestamped transcript (auto-captions, with errors)</a> · <a href="transcript.txt">Raw transcript text file</a></p>']
+    o.append('<aside style="border:1px solid #ccc;border-left:4px solid #8b0000;background:#f1efe8;padding:10px 14px;margin:12px 0"><b>Method and limits</b>'
+             '<p class="summary" style="margin:6px 0">The text comes from YouTube\'s automatic English captions, read by a script. No person has checked it against the audio. '
+             'Captions are readable but often wrong on names and terms. Examples: "Ned" for Net, "Sydney" for Patallax, "Luis Electron", "Casey" or "Katie" for Lemur, "Kyodo school" for the Kyoto school, "RA" for rigor, "neog" for numogram, "Ryan Her" for Ryan Haecker. '
+             'The captions have no speaker names. A ">>" in the transcript only marks that the speaker changed. This page attributes words to Nick Land only where the context makes it clear that he is answering a question. Other speakers are named only where the chapter title or a host\'s introduction says who is asking; otherwise the page says "speaker unclear".</p>'
+             '<p class="summary" style="margin:6px 0">Quoted passages are exact caption text, including caption mistakes, which are noted. Words in square brackets or odd spelling come from the captions, not from this page. Every timestamp links to that second of the video. The summaries are written by this digest from the captions. They are shorter than the talk and leave out details, and where a summary relies on chapter titles alone it says "from chapter titles only". A caption error could change the meaning of a passage, so check a quote against the video before you rely on it.</p></aside>')
+    o.append('<h2 class="edn">At a glance</h2><table class="srcs" style="border-collapse:collapse">' + "".join(
+        f'<tr><td style="vertical-align:top;padding:3px 12px 3px 0"><b>{e(x["k"])}</b></td><td style="padding:3px 0">{e(x["v"])}</td></tr>' for x in b["facts"]) + '</table>')
+    o.append('<h2 class="edn">Land\'s most notable statements</h2><ul>' + "".join(f'<li class="summary">{lk(n["t"])} {e(n["text"])}</li>' for n in b["notable"]) + '</ul>')
+    o.append('<h2 class="edn">Chapter index</h2><ol style="padding-left:22px">' + "".join(
+        f'<li class="summary"><a href="#c{i}">{e(c["title"])}</a> ({lk(c["start"])} to {ts(c["end"])})</li>' for i, c in enumerate(b["sections"])) + '</ol>')
+    for i, c in enumerate(b["sections"]):
+        o.append(f'<h2 class="edn" id="c{i}">{lk(c["start"])} {e(c["title"])}</h2>')
+        o.append(f'<p class="srcs"><i>{e(c["basis"])}</i></p>')
+        o.append("".join(f'<p class="summary">{e(x)}</p>' for x in c["paras"]))
+        o.append('<p class="srcs"><b>Timeline</b></p><ul>' + "".join(f'<li class="srcs">{lk(x["t"])} {e(x["text"])}</li>' for x in c["timeline"]) + '</ul>')
+        if c["quotes"]:
+            o.append('<p class="srcs"><b>Quotes (exact caption text)</b></p>')
+            for q in c["quotes"]:
+                o.append(f'<blockquote style="margin:8px 0 8px 12px;padding-left:10px;border-left:3px solid #8b0000"><p class="summary" style="margin:0">&ldquo;{e(q["quote"])}&rdquo;</p>'
+                         f'<p class="srcs" style="margin:2px 0">{e(q["speaker"])} · {lk(q["t"])}' + (f' · <i>{e(q["note"])}</i>' if q.get("note") else "") + '</p></blockquote>')
+    o.append('<p class="srcs"><a href="transcript/">Read the full timestamped transcript</a></p></div></body></html>')
+    write(os.path.join(ROOT, f"digest/{secid}/{slug}/index.html"), "".join(o))
+    # transcript page, built from the raw text file next to the page
+    tp = os.path.join(ROOT, f"digest/{secid}/{slug}/transcript.txt")
+    if os.path.exists(tp):
+        import re as _re
+        t = [head("Nick Land x Fans: auto-caption transcript"), sitenav.nav(secid, R + "../"),
+             '<header class="masthead"><h1>Nick Land x Fans: auto-caption transcript</h1><p class="dateline">Cypherboria backgrounder · <a href="../">Back to the summary</a></p></header>',
+             '<aside style="border:1px solid #ccc;border-left:4px solid #8b0000;background:#f1efe8;padding:10px 14px;margin:12px 0"><b>Read this first.</b> This is YouTube\'s automatic captioning, with no human correction. Names and terms are often wrong, there are no speaker labels, and ">>" marks only that the speaker changed. '
+             'Each timestamp links to that point in the video. Check anything you quote against the audio.</aside>']
+        for ln in open(tp, encoding="utf-8").read().split("\n"):
+            m = _re.match(r"\[(\d+):(\d+):(\d+)\] (.*)$", ln)
+            if not m: continue
+            secs_ = int(m[1])*3600 + int(m[2])*60 + int(m[3])
+            t.append(f'<p class="summary" style="margin:6px 0"><b>{lk(secs_, "[" + ts(secs_) + "]")}</b> {e(m[4])}</p>')
+        t.append('</div></body></html>')
+        write(os.path.join(ROOT, f"digest/{secid}/{slug}/transcript/index.html"), "".join(t))
+
+
 def main():
     d = load("digest/items.json")
     items = d["items"]
@@ -272,6 +323,8 @@ def main():
         jobs.append((f, f.split(os.sep)[-3], os.path.splitext(os.path.basename(f))[0]))
     for bgp, secid, slug in jobs:
         b = json.load(open(bgp, encoding="utf-8"))
+        if b.get("kind") == "timestamped":
+            render_timestamped(b, secid, slug, names); continue
         R = "../../../"
         fig = lambda im: (f'<figure style="margin:10px 0 12px"><img src="{R}{e(im["image"])}" alt="{e(im["caption"])}" loading="lazy" style="max-width:100%;max-height:380px;height:auto;display:block">'
                           f'<figcaption class="srcs">{e(im["caption"])} · Photo: <a href="{e(im["image_url"])}" target="_blank" rel="noopener">{e(im["image_credit"])}</a></figcaption></figure>')
