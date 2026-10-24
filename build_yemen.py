@@ -85,9 +85,11 @@ def build(data, now):
         top = eds[0]
         o.append(f'<div class="dateline"><span>{e(weekday_date(now.date()))}</span><span>Aden · Sanaa · Riyadh</span>'
                  f'<span>This edition: {e(long_date(top["date"]))}</span></div>')
-        o.append('<aside class="ybox" id="reports"><strong>Reports.</strong> <a href="taiz/">Battle for Taiz: weekly update, 17–24 October 2026</a> '
-                 '<span class="srcs">(with photos and credits; refreshed on request)</span></aside>')
-        o.append(f'<main class="main"><section class="section"><h2>{e(weekday_date(date.fromisoformat(top["date"])))}</h2>{edition(top, new=True)}</section></main>')
+        rail = ('<aside class="rail"><div class="sources" id="reports"><h2>Reports</h2><ul>'
+                '<li><a href="taiz/"><b>Battle for Taiz: the week in review, 17–24 October 2026</b></a>'
+                '<span class="s">A synthesized account of the siege, the fighting, the claims and the humanitarian picture, with photos and credits. Refreshed on request.</span></li>'
+                '</ul></div></aside>')
+        o.append(f'<div class="layout"><main class="main"><section class="section"><h2>{e(weekday_date(date.fromisoformat(top["date"])))}</h2>{edition(top, new=True)}</section></main>{rail}</div>')
         o.append(map_section())
     o.append('<section class="archive"><h2>Archive — earlier editions</h2>')
     if len(eds) < 2: o.append('<p class="empty">No earlier editions yet.</p>')
