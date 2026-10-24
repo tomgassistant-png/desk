@@ -130,6 +130,10 @@
      "title": "Key links",
      "links": [
       {
+       "label": "Veil and Light: Gnostic Calvinist prayer and meditation (daily prayer app)",
+       "url": "prayer/"
+      },
+      {
        "label": "Nick Land on X (@xenocosmography)",
        "url": "https://x.com/xenocosmography"
       },
@@ -484,6 +488,12 @@
      "url": "nick-land-x-fans-watch-along/",
      "teaser": "Ten timed chapters beside an embedded video player. Click a time to jump the video there, and open each chapter's full notes. Built from auto-captions, so it has errors.",
      "updated": "24 October 2026"
+    }
+   ],
+   "links": [
+    {
+     "label": "New: Veil and Light, a daily prayer and meditation app with King James readings, silent meditation and night prayer",
+     "url": "prayer/"
     }
    ]
   },
