@@ -13,6 +13,7 @@ def build(now):
     d = json.load(open(os.path.join(D, "haiti/data.json"), encoding="utf-8"))
     S = d["sections"]; h = []
     h.append(f'<h1>{e(d["title"])}</h1><p class="meta">Updated {e(d["updated"])} Israel time. Each item says who said it, where, when, and what comes with it. Nothing here is graded. Where sources differ, the item says "another source says" and the judgment is yours.</p>')
+    h.append('<h2>Summary</h2>' + ''.join(f'<p>{e(t)}</p>' for t in d.get('narrative', [])))
     h.append('<h2>Latest, newest first</h2>')
     for x in d["feed"]:
         h.append(f'<div class="it"><div class="when">{e(x["when"])}</div><div><span class="who">{e(x["who"])}</span> · {e(x["where"])}</div><p>{e(x["text"])}</p>'
