@@ -9,15 +9,24 @@ def _load(p):
     p = os.path.join(ROOT, p)
     return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
 
+def load_digest():
+    """digest/items.json plus the Drinks Advisor section (digest/drinks-advisor/section.json, owned by the Drinks Advisor assistant)."""
+    d = _load("digest/items.json")
+    x = _load("digest/drinks-advisor/section.json")
+    if x.get("section") and d.get("sections") is not None:
+        d["sections"] = [s for s in d["sections"] if s["id"] != x["section"]["id"]] + [x["section"]]
+        d["items"] = d.get("items", []) + x.get("items", [])
+    return d
+
 def sections():
     """[(id, path-from-root, name, latest date or '')]"""
     jsd = _load("items.json").get("items", [])
     ye = _load("yemen/items.json").get("editions", [])
-    d = _load("digest/items.json")
+    d = load_digest()
     out = [("jsd", "", "Judea &amp; Samaria", max((i["edition"] for i in jsd), default="")),
            ("yemen", "yemen/", "Yemen", max((x["date"] for x in ye), default=""))]
     for s in d.get("sections", []):
-        dt = max((i["edition"] for i in d.get("items", []) if i["section"] == s["id"]), default="")
+        dt = max([i["edition"] for i in d.get("items", []) if i["section"] == s["id"]] + ([s["updated"]] if s.get("updated") else []), default="")
         out.append((s["id"], f'digest/{s["id"]}/', e(s["name"]), dt))
     return out
 

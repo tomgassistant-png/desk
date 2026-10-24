@@ -165,7 +165,7 @@ def render_timestamped(b, secid, slug, names):
 
 
 def main():
-    d = load("digest/items.json")
+    d = sitenav.load_digest()
     items = d["items"]
     ids = {s["id"] for s in d["sections"]}
     bad = [i["id"] for i in items if i["section"] not in ids or not all(i.get(k) for k in ("id", "edition", "headline", "text"))]
@@ -216,7 +216,7 @@ def main():
         sn = secnew[s["id"]]
         mine = sorted((i for i in items if i["section"] == s["id"]), key=lambda i: i["edition"], reverse=True)
         out = [head(s["name"] + " — Digest section"), sitenav.nav(s["id"], "../../"),
-               f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">Daily research digest section · latest edition {e(long_date(sn))}</p></header>']
+               f'<header class="masthead"><h1>{e(s["name"])}</h1><p class="dateline">{("Daily research digest section · latest edition " + e(long_date(sn))) if sn else ("Published by the " + e(s["name"]) + " assistant" + ((" · updated " + e(long_date(s["updated"]))) if s.get("updated") else ""))}</p></header>']
         if s.get("header_image"):
             hi = s["header_image"]
             out.append(f'<figure style="margin:0 0 12px"><img src="../../{e(hi["image"])}" alt="{e(hi.get("caption",""))}" style="width:100%;max-height:320px;object-fit:cover;display:block">'
