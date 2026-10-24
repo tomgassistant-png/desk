@@ -196,6 +196,10 @@
       {
        "label": "Eric Hadley on X (@EricRHadley), Hyperdope founder; in the 23 Oct. Land session",
        "url": "https://x.com/EricRHadley"
+      },
+      {
+       "label": "Luís Gonçalves on X (@GematResearch), gematria researcher; replies to Land (@xenocosmography) and others in the circle; Linktree lists a Gematria Research blog and the Alektryon GitHub",
+       "url": "https://x.com/GematResearch"
       }
      ]
     },
@@ -434,7 +438,7 @@
      "name": "Eric Hadley",
      "handle": "@EricRHadley",
      "who": "X account (created Feb. 2009, about 300 followers, New Hampshire) with the bio 'Sovereign systems and Lightning commerce for humans & agents. Founder @ Hyperdope and maintainer of Hyperdope Cyphers.' On 23 Oct. he posted that he had an interview with Nick Land on Cyphers, AI and 'Bitcoin as divine providence,' quoting @resonatingloop's session post.",
-     "confidence": "Added at Tom's request, 24 Oct 2026. High that he took part in the 23 Oct. session (his own post, quoting @resonatingloop's). The bio names 'Hyperdope Cyphers'; I did not confirm whether that is the same project as Cyphers (@CyphersNews). The 'Hyperdope' product and Bitcoin focus come from his posts.",
+     "confidence": "Added at Tom's request, 24 Oct 2026. High that he took part in the 23 Oct. session (his own post, quoting @resonatingloop's). The bio names 'Hyperdope Cyphers.' hyperdope.com (opened) is his publishing site, where viewers pay small Bitcoin amounts over Lightning to unlock audio briefs and files. cyphers.news (opened), the gematria calculator, lists a 'Hyperdope Github 2023' repo and 'Coded by Gematro in 2021.' Whether Hyperdope Cyphers is the same project as the Cyphers News channel (@CyphersNews) run by Net Void remains unconfirmed.",
      "links": [
       {
        "label": "X",
@@ -443,6 +447,22 @@
       {
        "label": "Land interview post, 23 Oct.",
        "url": "https://x.com/EricRHadley/status/2113761030191116547"
+      }
+     ]
+    },
+    {
+     "name": "Luís Gonçalves",
+     "handle": "@GematResearch",
+     "who": "X account (created May 2020, location listed as Portugal, about 711 followers, not protected, 104 posts). Bio: \"Self-taught researcher on the occult, religion, calendars, codes & ciphers. Astrology lover. Writing about Gematria on my blog (link below).\" The linked Linktree (linktr.ee/alektryon, opened) lists a Gematria Research blog, an Alektryon GitHub page, a \"GEMATRO - Gematria Calculator\" and an interview titled \"Gematria, Hyperstition and Alphanumeric Qabbala.\" Recent posts (Mar.-Oct. 2026) are mostly replies to @xenocosmography (Land), @CyphersNews, @acadianlemur and @AOElection about Alphanumeric Qabbala (AQ) and the \"Synx\" cipher, which he describes as applying the 36 divisors of 1260 to the 36 digits 0-9 and A-Z. On 16 Jul. he wrote that Synx fits the CCRU Writings and Numogrammatics. On 5 Aug. he posted that Jack Parsons' Oath of the Abyss name adds to 666 in AQ. On 1 Oct. he asked Land about a 2020 dream post that said Vampire = 149. His last post in the sample was a reply on 5 Oct. 2026. Link to Cyphers: the cyphers.news calculator (opened) has a \"Gematria Research\" button, an \"Alektryon Github 2021\" button and an \"Alektryon Calculator\" button, and its cipher file says some ciphers come from alektryon.github.io/gematria. The same Alektryon name appears on his Linktree, so he is probably the Alektryon behind that earlier work.",
+     "confidence": "Added at Tom's request, 24 Oct 2026. High for the profile facts and posts, which come from the account itself. Medium that he is the \"Alektryon\" credited on cyphers.news: the Linktree URL is \"alektryon\" and lists the Alektryon GitHub, but no page I opened states in words that Luís Gonçalves is Alektryon. Unconfirmed whether he is the \"Gematro\" credited as coder in 2021, and unconfirmed whether he has any tie to Net Void or Eric Hadley beyond posting in the same threads.",
+     "links": [
+      {
+       "label": "X",
+       "url": "https://x.com/GematResearch"
+      },
+      {
+       "label": "Linktree",
+       "url": "https://linktr.ee/alektryon"
       }
      ]
     }
