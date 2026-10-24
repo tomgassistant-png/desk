@@ -7,7 +7,8 @@
    "as_of": "2026-03-01",
    "source_name": "BLM Program Data",
    "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
-   "note": "Up from 73,130 in 2025. Advocates (WHE, Mar 18, 2026) say BLM's numbers rest on old surveys and are used to justify removals."
+   "note": "Up from 73,130 in 2025. Advocates (WHE, Mar 18, 2026) say BLM's numbers rest on old surveys and are used to justify removals.",
+   "topic": "horses"
   },
   {
    "label": "Appropriate management level (AML)",
@@ -15,7 +16,8 @@
    "as_of": "2026-03-01",
    "source_name": "BLM Program Data",
    "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
-   "note": "WHE says BLM works to the low end, 15,374, so it treats 70,092 animals as excess. WHE also says zero-AML areas inflate percentages."
+   "note": "WHE says BLM works to the low end, 15,374, so it treats 70,092 animals as excess. WHE also says zero-AML areas inflate percentages.",
+   "topic": "horses"
   },
   {
    "label": "Population by state vs high AML (total animals)",
@@ -23,7 +25,8 @@
    "as_of": "2026-03-01",
    "source_name": "BLM Program Data",
    "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
-   "note": "Advocates dispute how AML was set; livestock groups say herds are larger than the land can carry."
+   "note": "Advocates dispute how AML was set; livestock groups say herds are larger than the land can carry.",
+   "topic": "horses"
   },
   {
    "label": "Animals in off-range holding",
@@ -31,7 +34,8 @@
    "as_of": "2026-05",
    "source_name": "BLM Program Data",
    "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
-   "note": "The monthly facility report PDF linked on that page was not opened. NYT (Aug 20) says holding costs about $100 million a year."
+   "note": "The monthly facility report PDF linked on that page was not opened. NYT (Aug 20) says holding costs about $100 million a year.",
+   "topic": "horses"
   },
   {
    "label": "FY2025 removals and placements",
@@ -39,7 +43,8 @@
    "as_of": "FY2025",
    "source_name": "BLM Program Data",
    "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
-   "note": "NYT (via Seattle Times) says sales more than doubled to about 3,700 in 2025. BLM says it does not sell to slaughter."
+   "note": "NYT (via Seattle Times) says sales more than doubled to about 3,700 in 2025. BLM says it does not sell to slaughter.",
+   "topic": "horses"
   },
   {
    "label": "FY2025 fertility treatments",
@@ -47,7 +52,8 @@
    "as_of": "FY2025",
    "source_name": "BLM Program Data",
    "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
-   "note": "AWI calls this 'paltry' against about 14,000 equines targeted for removal in FY2026."
+   "note": "AWI calls this 'paltry' against about 14,000 equines targeted for removal in FY2026.",
+   "topic": "horses"
   },
   {
    "label": "FY2024 program money",
@@ -55,7 +61,8 @@
    "as_of": "FY2024",
    "source_name": "BLM Program Data",
    "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
-   "note": "Advocates argue spending on holding crowds out fertility control."
+   "note": "Advocates argue spending on holding crowds out fertility control.",
+   "topic": "horses"
   },
   {
    "label": "New fertility-control money",
@@ -63,7 +70,8 @@
    "as_of": "2026-09-21",
    "source_name": "BLM press release",
    "source_url": "https://www.blm.gov/press-release/blm-delivers-call-more-wild-horse-fertility-control-30-million-usda-investment-and",
-   "note": "WHE says the USDA budget line is not disclosed and wants guardrails."
+   "note": "WHE says the USDA budget line is not disclosed and wants guardrails.",
+   "topic": "horses"
   },
   {
    "label": "Fall 2026 gathers in this file",
@@ -71,7 +79,62 @@
    "as_of": "2026-10-23",
    "source_name": "BLM gather pages",
    "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/wyoming/2026-red-desert-complex",
-   "note": "Counts come from BLM's daily reports; death causes are BLM's own wording."
+   "note": "Counts come from BLM's daily reports; death causes are BLM's own wording.",
+   "topic": "horses"
+  },
+  {
+   "label": "BLM surface acres",
+   "value": "243,046,406",
+   "as_of": "2025",
+   "source_name": "BLM Public Land Statistics 2025",
+   "source_url": "https://www.blm.gov/sites/default/files/docs/2026-08/BLM-Public-Land-Statistics-2025.pdf",
+   "note": "Nationwide, not only the West.",
+   "topic": "conservation"
+  },
+  {
+   "label": "BLM grazing permits and active AUMs",
+   "value": "17,670 permits; 12,289,935 active AUMs",
+   "as_of": "2026-01-15",
+   "source_name": "BLM Public Land Statistics 2025",
+   "source_url": "https://www.blm.gov/sites/default/files/docs/2026-08/BLM-Public-Land-Statistics-2025.pdf",
+   "note": "1,929,939 AUMs were suspended.",
+   "topic": "conservation"
+  },
+  {
+   "label": "BLM livestock grazing: acres, fees and budget",
+   "value": "155M acres grazed; about $13M fee revenue; $106.3M rangeland program (FY2025)",
+   "as_of": "2026-10-24 (page read)",
+   "source_name": "BLM livestock grazing page",
+   "source_url": "https://www.blm.gov/programs/natural-resources/rangelands-and-grazing/livestock-grazing",
+   "note": "BLM says about 43% of the rangeland program went to grazing administration, and cites $2.9B output and 36,200 jobs.",
+   "topic": "conservation"
+  },
+  {
+   "label": "Greater sage-grouse cumulative decline",
+   "value": "77.9% (longest period reported); 1.9% decline 2024-2025",
+   "as_of": "2026-10-09",
+   "source_name": "USGS Data Report 1234",
+   "source_url": "https://pubs.usgs.gov/publication/dr1234",
+   "note": "Missing Wyoming data biases the trend estimates.",
+   "topic": "conservation"
+  },
+  {
+   "label": "Colorado River reservoirs",
+   "value": "Lake Powell 23% full; Lake Mead 26% full",
+   "as_of": "2026-10-18",
+   "source_name": "Bureau of Reclamation weekly update",
+   "source_url": "https://www.usbr.gov/lc/region/g4000/weekly.pdf",
+   "note": "Total system 18,128 kaf (31%) versus 37% last year. Powell WY2027 unregulated inflow forecast: 39% of normal.",
+   "topic": "conservation"
+  },
+  {
+   "label": "BLM land burned by wildfire in 2026",
+   "value": "over 3.3 million acres",
+   "as_of": "2026-10-22",
+   "source_name": "BLM press release",
+   "source_url": "https://www.blm.gov/press-release/blm-and-partners-target-invasive-weeds-enhance-resiliency-critical-habitat",
+   "note": "BLM's statement in a release about Jacks Creek, Idaho.",
+   "topic": "conservation"
   }
  ],
  "organizations": [
@@ -125,7 +188,8 @@
     "verified_from": "Linked from returntofreedom.org (site opened); profile checked with the x connector on 2026-10-24",
     "followers": 8832,
     "last_post_date": "2026-10-23"
-   }
+   },
+   "topic": "horses"
   },
   {
    "id": "salvation",
@@ -164,7 +228,8 @@
     "verified_from": "Linked from salvationwildmustangsanctuary.com; profile bio lists EIN 84-5158782 (checked 2026-10-24)",
     "followers": 3661,
     "last_post_date": "2026-10-23"
-   }
+   },
+   "topic": "horses"
   },
   {
    "id": "save-red-desert",
@@ -201,7 +266,8 @@
     }
    ],
    "confidence": "Low. Name not matched to any entity. No website, nonprofit record or X feed claimed. Tell me the exact group if you know it.",
-   "x": null
+   "x": null,
+   "topic": "red-desert"
   },
   {
    "id": "american-prairie",
@@ -251,7 +317,8 @@
     "followers": 4360,
     "last_post_date": null,
     "note": "Profile name is '.', empty bio, and the posts lookup returned 0 posts. It looks inactive or restricted."
-   }
+   },
+   "topic": "grazing-and-prairie"
   },
   {
    "id": "iram-black-hills",
@@ -279,7 +346,8 @@
    ],
    "confidence": "High on identity and EIN 46-0401462. News item is the site's own claim.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "mustang-monument",
@@ -317,7 +385,8 @@
     "last_post_date": null,
     "note": "12 lifetime posts; last post date not checked."
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "skydog",
@@ -355,7 +424,8 @@
     "followers": 10840,
     "last_post_date": "2026-10-24"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "cloud-foundation",
@@ -389,7 +459,8 @@
    ],
    "confidence": "High.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "pryor-center",
@@ -421,7 +492,8 @@
    ],
    "confidence": "Medium. Its statements on the 2026 gather were not found.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "strawberry-mtn",
@@ -446,7 +518,8 @@
    ],
    "confidence": "Medium. Small group; the site loads but no news confirmed.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "wild-burro-rescue",
@@ -471,7 +544,8 @@
    ],
    "confidence": "Medium. The website names Peaceful Valley Donkey Rescue; I matched it to this EIN on location, not on a stated link.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "kiger-mesteno",
@@ -488,7 +562,8 @@
    "places": [],
    "confidence": "Low to medium. No tax record found.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "carter-reservoir-mustangs",
@@ -523,7 +598,8 @@
     "followers": 41,
     "last_post_date": "2026-08-07"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "salt-river-whmg",
@@ -554,7 +630,8 @@
    ],
    "confidence": "Medium. Governor's action not checked against the governor's own page (search result only). Salt River horses are a state and Forest Service issue, not BLM. The homepage blocked curl; read through WebFetch.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "awhc",
@@ -585,7 +662,8 @@
     "followers": 23314,
     "last_post_date": "2026-10-22"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "whe",
@@ -620,7 +698,8 @@
     "followers": 7909,
     "last_post_date": "2026-07-18"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "foa",
@@ -647,7 +726,8 @@
     "followers": 2265,
     "last_post_date": "2026-10-23"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "awi",
@@ -677,7 +757,8 @@
     "followers": 13381,
     "last_post_date": "2026-10-23"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "ida",
@@ -701,7 +782,8 @@
     "followers": 30487,
     "last_post_date": "2026-10-24"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "humane-world",
@@ -725,7 +807,8 @@
     "followers": 734462,
     "last_post_date": "2026-10-23"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "owho",
@@ -756,7 +839,8 @@
    ],
    "confidence": "Medium. Site loads but its page title is empty.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "cowhc",
@@ -784,7 +868,8 @@
    ],
    "confidence": "Medium.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "wwp",
@@ -818,7 +903,8 @@
    ],
    "confidence": "High. WWP's general aim is less grazing; its horse stance is narrower than horse advocates'.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "public-lands"
   },
   {
    "id": "science-conservation-center",
@@ -843,7 +929,8 @@
    ],
    "confidence": "Medium.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "mustang-heritage",
@@ -865,7 +952,8 @@
    "places": [],
    "confidence": "Medium.",
    "x": null,
-   "baseline": false
+   "baseline": false,
+   "topic": "horses"
   },
   {
    "id": "plc",
@@ -897,7 +985,8 @@
     "followers": 1382,
     "last_post_date": "2026-07-24"
    },
-   "baseline": false
+   "baseline": false,
+   "topic": "grazing-and-prairie"
   },
   {
    "id": "blm-whb",
@@ -946,6 +1035,924 @@
     "last_post_date": "2026-10-23",
     "note": "Agency-wide account; its latest posts were not about horses."
    },
+   "baseline": false,
+   "topic": "public-lands"
+  },
+  {
+   "id": "woc",
+   "name": "Wyoming Outdoor Council",
+   "type": "State conservation group (public lands, energy, wildlife)",
+   "states": [
+    "WY"
+   ],
+   "summary": "Statewide Wyoming conservation group. Works on public lands, oil and gas, wildlife and water. Its site now carries a petition on data center limits and a 2026 voter guide.",
+   "website": "https://wyomingoutdoorcouncil.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/830259411",
+   "financials": "ProPublica (Wyoming Outdoor Council), FY2023: revenue $2,369,043; expenses $1,451,881; assets $10,123,626 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-21",
+    "text": "Data centers page (last modified Oct 21): petition asking for state guardrails on data center development.",
+    "url": "https://wyomingoutdoorcouncil.org/data-centers/"
+   },
+   "latest_note": "Date is the page's modified time, not a news date. The site also lists a 2026 general election voter guide (modified Oct 5).",
+   "campaigns": [
+    "Data center guardrails petition",
+    "2026 conservation voter guide",
+    "Wyoming Legislature tracking"
+   ],
+   "key_people": [
+    "Carl Fisher (executive director)"
+   ],
+   "places": [
+    {
+     "name": "Wyoming (statewide)",
+     "lat": 43.0,
+     "lon": -107.55,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. Site and ProPublica record opened. X account is stale.",
+   "x": {
+    "handle": "@OutdoorCouncil",
+    "url": "https://x.com/OutdoorCouncil",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 2344,
+    "last_post_date": "2023-05-05",
+    "note": "Last post found is from 2023, so treat as inactive."
+   },
+   "topic": "public-lands",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "cwp",
+   "name": "Center for Western Priorities",
+   "type": "Public lands policy and watchdog group",
+   "states": [
+    "CO",
+    "UT",
+    "WY",
+    "NM",
+    "MT",
+    "AZ"
+   ],
+   "summary": "Denver-based nonpartisan conservation group that publishes comment analyses and trackers on public lands and energy. Runs a BLM data center tracker and the Westwise newsletter.",
+   "website": "https://westernpriorities.org/",
+   "nonprofit_check_url": null,
+   "financials": "No separate IRS filing found. The About page says the Center is a project of the Resources Legacy Fund.",
+   "latest": {
+    "date": "2026-10-19",
+    "text": "Says BLM is weighing at least 35 data center applications covering over 24,000 acres in six Western states, per its own new tracker.",
+    "url": "https://westernpriorities.org/2026/10/the-trump-administration-is-trying-to-build-data-centers-on-public-lands/"
+   },
+   "latest_note": "Advocacy claim from CWP's tracker; I did not check the underlying BLM records. On Oct 8 CWP also reported that 99.1 percent of 370,238 posted comments oppose the Roadless Rule repeal.",
+   "campaigns": [
+    "BLM Data Center Tracker",
+    "Public comment analyses (Roadless, Public Lands Rule, Travel Management)",
+    "Westwise newsletter and The Landscape podcast"
+   ],
+   "key_people": [
+    "Aaron Weiss (executive director)",
+    "Lauren Bogard (deputy director)"
+   ],
+   "places": [
+    {
+     "name": "Denver, CO",
+     "lat": 39.74,
+     "lon": -104.99,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. About page opened (via WebFetch; curl got 403). No X handle confirmed.",
+   "x": null,
+   "topic": "public-lands",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "cbd",
+   "name": "Center for Biological Diversity",
+   "type": "Wildlife and Endangered Species Act litigation group",
+   "states": [
+    "AZ",
+    "NM",
+    "CA",
+    "WY",
+    "MT",
+    "UT",
+    "CO",
+    "ID",
+    "OR",
+    "NV"
+   ],
+   "summary": "Large litigation-based group that files Endangered Species Act suits and petitions. In October it criticized the pace of new listings and moved to intervene to defend sage-grouse protections.",
+   "website": "https://biologicaldiversity.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/273943866",
+   "financials": "ProPublica (Center for Biological Diversity), FY2023: revenue $34,484,948; expenses $31,797,568; assets $46,823,092 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-22",
+    "text": "Says only 3 species have been listed under the Endangered Species Act in nearly two years and 39 FY2026 findings were missed.",
+    "url": "https://biologicaldiversity.org/w/news/press-releases/trump-protects-fewest-species-ever-under-endangered-species-act-2026-10-22/"
+   },
+   "latest_note": "All CBD items here are advocacy claims. I did not check the counts against FWS records. Oct 22 it also said 100+ groups oppose public lands provisions in the permitting bill.",
+   "campaigns": [
+    "ESA listing deadlines",
+    "Gray wolf appeals (Ninth Circuit)",
+    "Sage-grouse intervention with WWP (Oct 19)",
+    "FWS 'take' directive of Sept 14"
+   ],
+   "key_people": [
+    "Kierán Suckling (executive director per search result; listed on the board page I opened)"
+   ],
+   "places": [
+    {
+     "name": "Tucson, AZ",
+     "lat": 32.22,
+     "lon": -110.97,
+     "approx": true
+    },
+    {
+     "name": "Northern Rockies",
+     "lat": 46.0,
+     "lon": -111.5,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium-high on the org. Staff title not confirmed on a page I opened.",
+   "x": {
+    "handle": "@CenterForBioDiv",
+    "url": "https://x.com/CenterForBioDiv",
+    "verified_from": "x connector lookup, 2026-10-24",
+    "followers": 5191,
+    "last_post_date": null,
+    "note": "Profile text says the group no longer uses X. Posts could not be read."
+   },
+   "topic": "wildlife",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "tws",
+   "name": "The Wilderness Society",
+   "type": "National public lands conservation group",
+   "states": [
+    "WY",
+    "UT",
+    "MT",
+    "ID",
+    "CO",
+    "NM",
+    "AK",
+    "NV"
+   ],
+   "summary": "National group working on wilderness, roadless areas, national monuments and energy siting on public land. It calls for changes to the Senate permitting bill and for a moratorium on data centers on public land.",
+   "website": "https://www.wilderness.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/530167933",
+   "financials": "ProPublica (The Wilderness Society), FY2023: revenue $39,217,935; expenses $47,392,193; assets $111,901,689 (latest year posted; data lags).",
+   "latest": {
+    "date": null,
+    "text": "Blog post '6 threats to public lands in the Bipartisan American Affordability and Jobs Act'. The page shows no date; the bill was introduced Sept 30.",
+    "url": "https://www.wilderness.org/articles/blog/6-threats-public-lands-bipartisan-american-affordability-and-jobs-act"
+   },
+   "latest_note": "Date missing on the page. CWP says TWS called for a data center moratorium on public land earlier in October (CWP's account; not checked on TWS's site).",
+   "campaigns": [
+    "Roadless Rule defense",
+    "Bears Ears and Grand Staircase",
+    "S. 5653 permitting bill changes"
+   ],
+   "key_people": [
+    "Tracy Stone-Manning (president)"
+   ],
+   "places": [
+    {
+     "name": "Bears Ears region, UT",
+     "lat": 37.58,
+     "lon": -109.85,
+     "approx": true
+    },
+    {
+     "name": "Red Desert, WY",
+     "lat": 41.8,
+     "lon": -108.6,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium-high.",
+   "x": {
+    "handle": "@Wilderness",
+    "url": "https://x.com/Wilderness",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 88431,
+    "last_post_date": "2026-01-21",
+    "note": "Last post found is Jan 2026; low activity."
+   },
+   "topic": "public-lands",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "coco",
+   "name": "Conservation Colorado",
+   "type": "State conservation advocacy group",
+   "states": [
+    "CO"
+   ],
+   "summary": "Colorado statewide conservation advocacy group. Runs separate (c)(4) and (c)(3) entities. Part of the coalition backing Colorado Proposition 137 on conservation and wildfire funding.",
+   "website": "https://www.conservationco.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/300037131",
+   "financials": "ProPublica (Conservation Colorado, 501(c)(4)), FY2023: revenue $1,644,617; expenses $1,331,951; assets $1,838,768 (latest year posted; data lags). Its education fund, a 501(c)(3), is at https://projects.propublica.org/nonprofits/organizations/840614285 : FY2023 revenue $3,351,363; expenses $3,660,226; assets $7,428,062.",
+   "latest": {
+    "date": "2026-10-23",
+    "text": "Named in a release by more than 55 groups backing Proposition 137, which would direct about $175 million a year to water, wildfire and open space.",
+    "url": "https://yellowscene.com/2026/10/23/record-coalition-of-conservation-and-outdoors-organizations-unites-behind-proposition-137/"
+   },
+   "latest_note": "Source is a coalition press release republished by Yellow Scene. The Prop 137 funding claims are the campaign's own.",
+   "campaigns": [
+    "Proposition 137",
+    "2026 voter guide",
+    "Public lands defense resolution"
+   ],
+   "key_people": [
+    "Kelly Nordini (chief executive officer)"
+   ],
+   "places": [
+    {
+     "name": "Denver, CO",
+     "lat": 39.74,
+     "lon": -104.99,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. No X account confirmed.",
+   "x": null,
+   "topic": "public-lands",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "gob",
+   "name": "Great Old Broads for Wilderness",
+   "type": "Volunteer wilderness advocacy group",
+   "states": [
+    "UT",
+    "CO",
+    "NM",
+    "WY",
+    "ID"
+   ],
+   "summary": "Wilderness advocacy group with volunteer chapters, active in the Colorado Plateau. Listed as a press contact on the Sept 2, 2026 filing to reopen the Bears Ears and Grand Staircase suits.",
+   "website": "https://gobroads.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/870479828",
+   "financials": "ProPublica (Great Old Broads for Wilderness), FY2023: revenue $882,525; expenses $879,758; assets $1,173,924 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-09-02",
+    "text": "Conservation groups filed to reopen suits over the cuts to Bears Ears and Grand Staircase-Escalante; Reba Elliott is the group's contact.",
+    "url": "https://earthjustice.org/press/2026/conservation-groups-challenge-trumps-decimation-of-two-national-monuments-in-utah"
+   },
+   "latest_note": "Earthjustice release. Before the Sept 12 window. Judge's Oct 16 order is in the developments list.",
+   "campaigns": [
+    "Bears Ears and Grand Staircase litigation",
+    "Roadless Rule defense (per search result)"
+   ],
+   "key_people": [
+    "Reba Elliott (executive director)"
+   ],
+   "places": [
+    {
+     "name": "Bears Ears, UT",
+     "lat": 37.58,
+     "lon": -109.85,
+     "approx": true
+    },
+    {
+     "name": "Grand Staircase-Escalante, UT",
+     "lat": 37.4,
+     "lon": -111.6,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium.",
+   "x": null,
+   "topic": "public-lands",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "wwa",
+   "name": "Wyoming Wilderness Association",
+   "type": "State wilderness advocacy group",
+   "states": [
+    "WY"
+   ],
+   "summary": "Wyoming group that works for wilderness and roadless areas, including the Red Desert. Its Oct 7 post says the Run the Red race will not return in its current format after 2026.",
+   "website": "https://www.wildwyo.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/383667856",
+   "financials": "ProPublica (Wyoming Wilderness Association), FY2023: revenue $669,389; expenses $483,608; assets $1,242,743 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-07",
+    "text": "'Run the Red 2026' staff post about the Sept 25 race in the northern Red Desert and Roadless Rule comments.",
+    "url": "https://www.wildwyo.org/post/run-the-red-2026"
+   },
+   "latest_note": "The post says the Red Desert has nine Wilderness Study Areas. The group's own claim.",
+   "campaigns": [
+    "Red Desert protection",
+    "Roadless Rule comments (closed Oct 6)"
+   ],
+   "key_people": [
+    "Aaron Bannon (executive director)"
+   ],
+   "places": [
+    {
+     "name": "Northern Red Desert, WY",
+     "lat": 42.3,
+     "lon": -108.6,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. X account stale.",
+   "x": {
+    "handle": "@WildWyo",
+    "url": "https://x.com/WildWyo",
+    "verified_from": "x connector lookup, 2026-10-24; profile has no website link",
+    "followers": 401,
+    "last_post_date": "2023-11-29",
+    "note": "Last post found is 2023; handle matched by name only."
+   },
+   "topic": "red-desert",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "cftrd",
+   "name": "Citizens for the Red Desert",
+   "type": "Local Red Desert advocacy group",
+   "states": [
+    "WY"
+   ],
+   "summary": "Red Desert advocacy group. Its site (reddesert.org) mostly references 2021 and earlier, so it may be dormant. Included because it is a named Red Desert voice.",
+   "website": "https://reddesert.org/",
+   "nonprofit_check_url": null,
+   "financials": "No ProPublica record found.",
+   "latest": {
+    "date": null,
+    "text": "No dated 2026 item found on the site.",
+    "url": "https://reddesert.org/"
+   },
+   "latest_note": "Check before relying on it.",
+   "campaigns": [
+    "Red Desert and historic trails (per site pages)"
+   ],
+   "key_people": [],
+   "places": [
+    {
+     "name": "Red Desert, WY",
+     "lat": 41.8,
+     "lon": -108.6,
+     "approx": true
+    }
+   ],
+   "confidence": "Low. Possibly dormant.",
+   "x": null,
+   "topic": "red-desert",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "bha",
+   "name": "Backcountry Hunters & Anglers",
+   "type": "Hunting and angling conservation group",
+   "states": [
+    "MT",
+    "WY",
+    "CO",
+    "ID",
+    "NM",
+    "UT",
+    "OR",
+    "NV",
+    "AK"
+   ],
+   "summary": "Sportsmen's group focused on public land access and habitat. Opposes the Roadless Rule rescission and issued a statement on a proposed Colorado land swap on Oct 22.",
+   "website": "https://www.backcountryhunters.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/201037177",
+   "financials": "ProPublica (Backcountry Hunters & Anglers), FY2023: revenue $4,861,110; expenses $4,426,327; assets $2,692,125 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-22",
+    "text": "Colorado BHA statement on a proposed swap of about 2,158 acres of BLM land near Glenwood Springs for about 2,103 acres on the Roan Plateau (GAME Act). The bill is not yet introduced.",
+    "url": "https://www.backcountryhunters.org/media/press-releases/details/colorado-bha-on-the-proposed-game-act"
+   },
+   "latest_note": "BHA's September roundup says it sent 98,981 messages on the Roadless Rule.",
+   "campaigns": [
+    "Roadless Rule",
+    "Travel Management Rule",
+    "GAME Act (Colorado)",
+    "Public land sales"
+   ],
+   "key_people": [
+    "Ryan 'Cal' Callaghan (president and CEO)"
+   ],
+   "places": [
+    {
+     "name": "Roan Plateau, CO",
+     "lat": 39.55,
+     "lon": -108.2,
+     "approx": true
+    },
+    {
+     "name": "Montana",
+     "lat": 46.9,
+     "lon": -110.4,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium-high.",
+   "x": {
+    "handle": "@Backcountry_H_A",
+    "url": "https://x.com/Backcountry_H_A",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 31707,
+    "last_post_date": "2026-09-22"
+   },
+   "topic": "public-lands",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "trcp",
+   "name": "Theodore Roosevelt Conservation Partnership",
+   "type": "Hunting and angling policy coalition",
+   "states": [
+    "MT",
+    "WY",
+    "CO",
+    "ID",
+    "NM",
+    "UT",
+    "NV"
+   ],
+   "summary": "Sportsmen's policy group focused on public land access. Welcomed the Sept 17 hunting executive order and a Oct 22 BLM call for landlocked land projects. Names a new CEO who starts Nov 9.",
+   "website": "https://www.trcp.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/43706385",
+   "financials": "ProPublica (Theodore Roosevelt Conservation Partnership), FY2023: revenue $9,182,480; expenses $9,244,173; assets $8,522,479 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-22",
+    "text": "Reports that BLM is seeking nominations for projects to open landlocked public land (Dingell Act lands of at least 640 contiguous acres).",
+    "url": "https://www.trcp.org/2026/10/22/blm-seeks-projects-to-open-landlocked-public-land/"
+   },
+   "latest_note": "TRCP cites a 2018 TRCP/onX count of 9.52 million landlocked acres in 13 western states. A TRCP Oct 23 article on the permitting bill was not opened.",
+   "campaigns": [
+    "Landlocked public land access",
+    "Bridger-Teton forest plan revision",
+    "Colorado Amendment 83 and Prop 137 (per TRCP)"
+   ],
+   "key_people": [
+    "Matt Cook (interim CEO)",
+    "Jessica Turner (president and CEO from Nov 9, 2026)"
+   ],
+   "places": [
+    {
+     "name": "Bridger-Teton National Forest, WY",
+     "lat": 43.6,
+     "lon": -110.5,
+     "approx": true
+    }
+   ],
+   "confidence": "High.",
+   "x": {
+    "handle": "@TheTRCP",
+    "url": "https://x.com/TheTRCP",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 31724,
+    "last_post_date": "2026-10-23"
+   },
+   "topic": "public-lands",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "tu",
+   "name": "Trout Unlimited",
+   "type": "Angling and coldwater habitat group",
+   "states": [
+    "WA",
+    "ID",
+    "MT",
+    "WY",
+    "CO",
+    "UT"
+   ],
+   "summary": "National angling group working on trout streams and abandoned mine cleanup. On Sept 9 it said EPA approved its permit for the first Good Samaritan abandoned mine cleanup.",
+   "website": "https://www.tu.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/381612715",
+   "financials": "ProPublica (Trout Unlimited), FY2023: revenue $62,668,640; expenses $66,964,069; assets $46,514,067 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-09-09",
+    "text": "EPA approved a permit for TU to clean up Bodie Mine on Toroda Creek, Okanogan County, WA, the first under the 2024 Good Samaritan law.",
+    "url": "https://www.tu.org/press-releases/trout-unlimited-to-tackle-first-good-sam-mine-cleanup/"
+   },
+   "latest_note": "Just before the window. Colorado Trout Unlimited is on the Prop 137 supporter list.",
+   "campaigns": [
+    "Good Samaritan mine cleanup",
+    "Western stream habitat"
+   ],
+   "key_people": [
+    "Chris Wood (President and CEO per search result; named on the board page I opened)"
+   ],
+   "places": [
+    {
+     "name": "Toroda Creek, Okanogan County, WA",
+     "lat": 48.8,
+     "lon": -118.8,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium-high.",
+   "x": {
+    "handle": "@TroutUnlimited",
+    "url": "https://x.com/TroutUnlimited",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 41331,
+    "last_post_date": "2026-05-07",
+    "note": "Last post found is May 2026."
+   },
+   "topic": "water-and-range",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "wywf",
+   "name": "Wyoming Wildlife Federation",
+   "type": "State hunting and angling conservation group",
+   "states": [
+    "WY"
+   ],
+   "summary": "Wyoming sportsmen's group. Opposes the Seminoe Pumped Storage Project ('Bad Project. Bad Place. Bad Deal for Wyoming.').",
+   "website": "https://wyomingwildlife.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/237002578",
+   "financials": "ProPublica (Wyoming Wildlife Federation), FY2023: revenue $622,744; expenses $571,258; assets $157,615 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-01",
+    "text": "Seminoe Pumped Storage Project page, published July 9 and last modified Oct 1.",
+    "url": "https://wyomingwildlife.org/bad-project-bad-place-bad-deal-for-wyoming/"
+   },
+   "latest_note": "Date is the page's modified time. I did not read the project's federal docket.",
+   "campaigns": [
+    "Seminoe Pumped Storage opposition"
+   ],
+   "key_people": [
+    "Craig Benjamin (executive director; hired 2025 per the hiring post I opened)"
+   ],
+   "places": [
+    {
+     "name": "Seminoe Reservoir, WY",
+     "lat": 42.1,
+     "lon": -106.9,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. X account stale.",
+   "x": {
+    "handle": "@wyowildlife",
+    "url": "https://x.com/wyowildlife",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 746,
+    "last_post_date": "2023-03-14",
+    "note": "Last post found is 2023."
+   },
+   "topic": "wildlife",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "gyc",
+   "name": "Greater Yellowstone Coalition",
+   "type": "Regional conservation group",
+   "states": [
+    "MT",
+    "WY",
+    "ID"
+   ],
+   "summary": "Works on the Greater Yellowstone region: wildlife, public lands and roads. Reported 31,561 supporter comments on the Roadless Rule in 45 days.",
+   "website": "https://greateryellowstone.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/810414042",
+   "financials": "ProPublica (Greater Yellowstone Coalition), FY2023: revenue $13,368,134; expenses $4,293,530; assets $27,291,108 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-07",
+    "text": "Blog: supporters sent 31,561 comments in 45 days in support of the Roadless Rule.",
+    "url": "https://greateryellowstone.org/blog/2026/gyc-supporters-send-30000-comments-to-usda-in-support-of-the-roadless-rule"
+   },
+   "latest_note": "Date about Oct 7 (not shown clearly on the page). Advocacy claim. The homepage also mentions Montana wolf quota reductions.",
+   "campaigns": [
+    "Roadless Rule",
+    "Madison Valley roads",
+    "Wolf management"
+   ],
+   "key_people": [
+    "Scott Christensen (executive director; team page opened)"
+   ],
+   "places": [
+    {
+     "name": "Greater Yellowstone Ecosystem",
+     "lat": 44.6,
+     "lon": -110.5,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium-high.",
+   "x": {
+    "handle": "@GYCnews",
+    "url": "https://x.com/GYCnews",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 954,
+    "last_post_date": "2026-10-22"
+   },
+   "topic": "wildlife",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "dow",
+   "name": "Defenders of Wildlife",
+   "type": "Wildlife protection and litigation group",
+   "states": [
+    "MT",
+    "WY",
+    "ID",
+    "NM",
+    "AZ",
+    "CA",
+    "OR"
+   ],
+   "summary": "National wildlife group. Counsel for Defenders argued in the Ninth Circuit gray wolf appeals. In July it said the proposed grizzly 4(d) rule left key details open.",
+   "website": "https://defenders.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/530183181",
+   "financials": "ProPublica (Defenders of Wildlife), FY2023: revenue $35,880,686; expenses $37,549,970; assets $50,165,827 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-13",
+    "text": "Courthouse News reports a Ninth Circuit hearing on gray wolf appeals; Defenders' attorney Kristin Boyles argued for keeping protections.",
+    "url": "https://www.courthousenews.com/endangered-gray-wolf-protections-up-in-the-air-pending-appeals"
+   },
+   "latest_note": "Independent reporting. Defenders' own July 15 statement on the grizzly 4(d) rule is at defenders.org/newsroom/grizzly-bear-proposal-leaves-more-questions-answers.",
+   "campaigns": [
+    "Gray wolf protections",
+    "Grizzly 4(d) rule",
+    "Mexican wolf"
+   ],
+   "key_people": [
+    "Andrew Bowman (president and CEO; profile page opened)"
+   ],
+   "places": [
+    {
+     "name": "Northern Rocky Mountains",
+     "lat": 46.5,
+     "lon": -112.5,
+     "approx": true
+    },
+    {
+     "name": "Mexican wolf range, NM and AZ",
+     "lat": 33.5,
+     "lon": -108.5,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium-high.",
+   "x": {
+    "handle": "@Defenders",
+    "url": "https://x.com/Defenders",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 178436,
+    "last_post_date": "2026-10-21"
+   },
+   "topic": "wildlife",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "wra",
+   "name": "Western Resource Advocates",
+   "type": "Water, climate and public lands advocacy group",
+   "states": [
+    "CO",
+    "UT",
+    "NM",
+    "NV",
+    "AZ",
+    "WY",
+    "ID"
+   ],
+   "summary": "Regional group working on Colorado River water, clean energy and land. Its president, Jon Goldin-Dubois, will step down at the end of 2026; a national search is planned.",
+   "website": "https://westernresourceadvocates.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/841113831",
+   "financials": "ProPublica (Western Resource Advocates), FY2023: revenue $18,491,649; expenses $12,462,042; assets $21,124,209 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-23",
+    "text": "Goldin-Dubois quoted in the Prop 137 coalition release.",
+    "url": "https://yellowscene.com/2026/10/23/record-coalition-of-conservation-and-outdoors-organizations-unites-behind-proposition-137/"
+   },
+   "latest_note": "On July 31 WRA published a statement on Reclamation's Colorado River Final EIS (10-year framework; urges mediation): westernresourceadvocates.org/news/colorado-river-feis/. A search summary called that 'October'; the page says July 31.",
+   "campaigns": [
+    "Colorado River post-2026 rules",
+    "Proposition 137"
+   ],
+   "key_people": [
+    "Jon Goldin-Dubois (president until end of 2026)"
+   ],
+   "places": [
+    {
+     "name": "Lake Powell, UT/AZ",
+     "lat": 37.0,
+     "lon": -111.5,
+     "approx": true
+    },
+    {
+     "name": "Lake Mead, NV/AZ",
+     "lat": 36.1,
+     "lon": -114.4,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium-high. No X account confirmed.",
+   "x": null,
+   "topic": "water-and-range",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "ncba",
+   "name": "National Cattlemen's Beef Association",
+   "type": "Cattle industry association (opposing viewpoint)",
+   "states": [
+    "WY",
+    "MT",
+    "CO",
+    "NV",
+    "OR",
+    "ID",
+    "UT",
+    "NM"
+   ],
+   "summary": "National cattle producers' trade group (501(c)(6)). Not western-only, but it speaks for ranchers on grazing, meat inspection and conservation awards.",
+   "website": "https://www.ncba.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/840738973",
+   "financials": "ProPublica (National Cattlemen's Beef Association), FY2023: revenue $54,881,383; expenses $55,109,972; assets $37,314,701 (latest year posted; data lags). It is a 501(c)(6).",
+   "latest": {
+    "date": "2026-10-12",
+    "text": "Opened nominations for the 2027 Environmental Stewardship Awards; President Gene Copenhaver is quoted.",
+    "url": "https://www.ncba.org/news-media/news/details/51386/nominations-accepted-for-2027-environmental-stewardship-award"
+   },
+   "latest_note": "On Sept 17 it responded to USDA's Stand-Up Program ($50M for state meat inspection).",
+   "campaigns": [
+    "Environmental Stewardship Award",
+    "Meat inspection capacity",
+    "Federal grazing policy (with PLC)"
+   ],
+   "key_people": [
+    "Gene Copenhaver (president)"
+   ],
+   "places": [],
+   "confidence": "Medium-high.",
+   "x": {
+    "handle": "@BeefUSA",
+    "url": "https://x.com/BeefUSA",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 34305,
+    "last_post_date": "2026-09-25"
+   },
+   "topic": "grazing-and-prairie",
+   "related": [
+    "plc"
+   ],
+   "baseline": false
+  },
+  {
+   "id": "perc",
+   "name": "Property and Environment Research Center",
+   "type": "Free-market environmental think tank (opposing viewpoint)",
+   "states": [
+    "MT",
+    "WY",
+    "CO"
+   ],
+   "summary": "Group that promotes market-based and property-rights approaches to conservation. Supports the proposed grizzly 4(d) rule and an Improving Species Recovery Act.",
+   "website": "https://www.perc.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/810393444",
+   "financials": "ProPublica (PERC), FY2023: revenue $5,931,884; expenses $3,486,180; assets $9,955,082 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-20",
+    "text": "'Grizzly recovery is working': supports the tiered 4(d) rule; says Yellowstone-area bears grew from 136 in 1975 to over 1,000.",
+    "url": "https://www.perc.org/2026/10/20/grizzly-recovery-is-working/"
+   },
+   "latest_note": "Advocacy claim. Sept 21 post on the Roadless Rule and wildfire uses 58.5 million acres.",
+   "campaigns": [
+    "Grizzly recovery",
+    "Species recovery bill",
+    "Roadless and wildfire"
+   ],
+   "key_people": [
+    "Brian Yablonski (quoted in PERC's Sept 30 post; title not confirmed)"
+   ],
+   "places": [
+    {
+     "name": "Yellowstone ecosystem",
+     "lat": 44.6,
+     "lon": -110.5,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium.",
+   "x": {
+    "handle": "@PERCtweets",
+    "url": "https://x.com/PERCtweets",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 5379,
+    "last_post_date": "2026-10-22"
+   },
+   "topic": "wildlife",
+   "baseline": false,
+   "related": []
+  },
+  {
+   "id": "wsga",
+   "name": "Wyoming Stock Growers Association",
+   "type": "State ranching association (opposing viewpoint)",
+   "states": [
+    "WY"
+   ],
+   "summary": "Wyoming ranchers' association (501(c)(5)). Urged a No vote on Ballot Initiative #1 in an Oct 9 column.",
+   "website": "https://www.wysga.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/830157325",
+   "financials": "ProPublica (Wyoming Stock Growers Association), FY2024: revenue $509,797; expenses $473,047; assets $46,120 (latest year posted; data lags). It is a 501(c)(5).",
+   "latest": {
+    "date": "2026-10-09",
+    "text": "Column by EVP Jim Magagna against the homeowner property tax exemption (Ballot Initiative #1).",
+    "url": "https://www.wylr.net/2026/10/09/your-vote-is-critical/"
+   },
+   "latest_note": "Not about conservation directly. Its next listed event is Winter Roundup, Casper, Dec 7-9 (search result).",
+   "campaigns": [
+    "Ballot Initiative #1 opposition",
+    "Agricultural land taxation"
+   ],
+   "key_people": [
+    "Jim Magagna (executive vice president; page opened)"
+   ],
+   "places": [
+    {
+     "name": "Wyoming (statewide)",
+     "lat": 43.0,
+     "lon": -107.55,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium.",
+   "x": null,
+   "topic": "grazing-and-prairie",
+   "related": [
+    "plc"
+   ],
+   "baseline": false
+  },
+  {
+   "id": "wea",
+   "name": "Western Energy Alliance",
+   "type": "Oil and gas industry association (opposing viewpoint)",
+   "states": [
+    "CO",
+    "WY",
+    "UT",
+    "NM",
+    "MT",
+    "ND"
+   ],
+   "summary": "Trade group for independent oil and gas producers in the West (501(c)(6)). Backs the Senate permitting bill and is a party in the Wyoming sage-grouse suit CBD and WWP want to join.",
+   "website": "https://www.westernenergyalliance.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/840700841",
+   "financials": "ProPublica (Western Energy Alliance), FY2023: revenue $1,868,612; expenses $1,960,753; assets $1,214,324 (latest year posted; data lags). It is a 501(c)(6).",
+   "latest": {
+    "date": "2026-10-09",
+    "text": "President Melissa Simpson says the Senate permitting bill balances energy and the environment.",
+    "url": "https://www.westernenergyalliance.org/2026/10/09/senate-permitting-bill-balances-energy-and-the-environment/"
+   },
+   "latest_note": "On Oct 1 WEA said the Senate passed an energy permitting fund renewal, 'headed for Trump's signature'.",
+   "campaigns": [
+    "S. 5653 permitting bill",
+    "Sage-grouse litigation"
+   ],
+   "key_people": [
+    "Melissa Simpson (president)"
+   ],
+   "places": [],
+   "confidence": "Medium-high.",
+   "x": {
+    "handle": "@WesternEnergy1",
+    "url": "https://x.com/WesternEnergy1",
+    "verified_from": "x connector lookup, 2026-10-24; handle linked from the org's website",
+    "followers": 2735,
+    "last_post_date": "2026-10-21"
+   },
+   "topic": "public-lands",
+   "related": [
+    "wwp"
+   ],
    "baseline": false
   }
  ],
@@ -972,7 +1979,8 @@
    "kind": "advocacy claim",
    "related": [
     "cloud-foundation"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-23",
@@ -986,7 +1994,8 @@
     "rtf",
     "awhc",
     "whe"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-23",
@@ -997,7 +2006,8 @@
    "related": [
     "rtf",
     "whe"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-23",
@@ -1008,7 +2018,8 @@
    "related": [
     "skydog",
     "blm-whb"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-22",
@@ -1020,7 +2031,8 @@
     "blm-whb",
     "whe",
     "awhc"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-22",
@@ -1030,7 +2042,8 @@
    "kind": "advocacy claim",
    "related": [
     "rtf"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-21",
@@ -1043,7 +2056,8 @@
     "wwp",
     "owho",
     "cowhc"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-20",
@@ -1056,7 +2070,8 @@
     "owho",
     "cowhc",
     "wwp"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-20",
@@ -1067,7 +2082,8 @@
    "related": [
     "whe",
     "blm-whb"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-19",
@@ -1080,7 +2096,8 @@
     "cloud-foundation",
     "pryor-center",
     "whe"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-17",
@@ -1091,7 +2108,8 @@
    "related": [
     "blm-whb",
     "awhc"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-15",
@@ -1103,7 +2121,8 @@
     "wwp",
     "owho",
     "cowhc"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-15",
@@ -1117,7 +2136,8 @@
     "awhc",
     "whe",
     "rtf"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-05",
@@ -1127,7 +2147,8 @@
    "kind": "independent reporting",
    "related": [
     "american-prairie"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-10-05",
@@ -1137,7 +2158,8 @@
    "kind": "advocacy claim",
    "related": [
     "whe"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-09-26",
@@ -1147,7 +2169,8 @@
    "kind": "official",
    "related": [
     "blm-whb"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-09-24",
@@ -1157,7 +2180,8 @@
    "kind": "advocacy claim",
    "related": [
     "awi"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-09-21",
@@ -1169,7 +2193,8 @@
     "blm-whb",
     "awi",
     "whe"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-09-04",
@@ -1179,7 +2204,8 @@
    "kind": "advocacy claim",
    "related": [
     "american-prairie"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-08-20",
@@ -1191,7 +2217,8 @@
     "blm-whb",
     "skydog",
     "rtf"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-08-18",
@@ -1201,7 +2228,8 @@
    "kind": "advocacy claim",
    "related": [
     "salt-river-whmg"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-08-06",
@@ -1212,7 +2240,8 @@
    "related": [
     "rtf",
     "blm-whb"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-08-04",
@@ -1222,7 +2251,8 @@
    "kind": "advocacy claim",
    "related": [
     "american-prairie"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-07-08",
@@ -1233,7 +2263,8 @@
    "related": [
     "carter-reservoir-mustangs",
     "whe"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-05-08",
@@ -1243,7 +2274,8 @@
    "kind": "advocacy claim",
    "related": [
     "american-prairie"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-03-19",
@@ -1254,7 +2286,8 @@
    "related": [
     "foa",
     "awhc"
-   ]
+   ],
+   "topic": "horses"
   },
   {
    "date": "2026-03-18",
@@ -1265,7 +2298,312 @@
    "related": [
     "whe",
     "blm-whb"
-   ]
+   ],
+   "topic": "horses"
+  },
+  {
+   "date": "2026-09-16",
+   "text": "BLM's project page for the Rock Springs Special Management RMP Amendment (Red Desert) shows status 'In Progress - Analysis & Document Preparation', last updated Sept 16. No draft plan is posted. Planning area lists 12 ACECs, 5 SRMAs and 13 WSAs. BLM's 2025 release says about 1.3 million acres; WyoFile says 3.6 million. I could not reconcile this.",
+   "source_name": "BLM ePlanning",
+   "source_url": "https://eplanning.blm.gov/Project-Home/?id=17ebe1f2-a7f2-f011-8407-001dd80db62a",
+   "kind": "official",
+   "related": [
+    "blm-whb",
+    "wwa",
+    "woc",
+    "cftrd"
+   ],
+   "topic": "red-desert"
+  },
+  {
+   "date": "2026-09-17",
+   "text": "President signed EO 14429, 'Reinvigorating America's Hunting Heritage'. Within 90 days: allow hunting in Castle Mountains and Craters of the Moon national monuments. Within 180 days: policies to expand access, including permitting lead ammunition. TRCP welcomed it on Sept 18.",
+   "source_name": "White House; Federal Register (Sept 22)",
+   "source_url": "https://www.whitehouse.gov/presidential-actions/2026/09/reinvigorating-americas-hunting-heritage/",
+   "kind": "official",
+   "related": [
+    "trcp",
+    "bha"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-09-17",
+   "text": "CBD says an FWS directive from Director Brian Nesvik dated Sept 14 narrows the Endangered Species Act definition of 'take' and would allow killing of endangered wildlife. CBD's account; I did not open the directive.",
+   "source_name": "Center for Biological Diversity",
+   "source_url": "https://biologicaldiversity.org/w/news/press-releases/trump-administration-directive-would-allow-killing-of-endangered-wildlife-2026-09-17/",
+   "kind": "advocacy claim",
+   "related": [
+    "cbd",
+    "dow"
+   ],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-09-18",
+   "text": "Public Lands Council held its 58th annual meeting Sept 15-17 at Copper Mountain, CO. President Tim Canterbury and others described policy wins and challenges for public lands ranchers.",
+   "source_name": "Wyoming Livestock Roundup",
+   "source_url": "https://www.wylr.net/2026/09/18/public-lands-progress-plc-leaders-highlight-policy-wins-and-challenges-facing-public-lands-ranchers/",
+   "kind": "independent reporting",
+   "related": [
+    "plc",
+    "ncba"
+   ],
+   "topic": "grazing-and-prairie"
+  },
+  {
+   "date": "2026-09-21",
+   "text": "BHA's September roundup lists H.R. 10529, Rep. Zinke's 'A River Runs Through It Act' (about 430,000 acres in Montana), introduced Sept 21. Bill text not opened; this is BHA's summary.",
+   "source_name": "Backcountry Hunters & Anglers",
+   "source_url": "https://www.backcountryhunters.org/news/details/artmid/3306/articleid/7109/september-federal-policy-roundup",
+   "kind": "advocacy claim",
+   "related": [
+    "bha"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-09-29",
+   "text": "TRCP named Jessica Turner president and CEO, starting Nov 9, 2026. Matt Cook is interim CEO until then.",
+   "source_name": "Theodore Roosevelt Conservation Partnership",
+   "source_url": "https://www.trcp.org/2026/09/29/jessica-turner-named-president-and-ceo-of-the-theodore-roosevelt-conservation-partnership/",
+   "kind": "advocacy claim",
+   "related": [
+    "trcp"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-09-30",
+   "text": "S. 5653, the 'Bipartisan American Affordability and Jobs Act of 2026', was introduced by Sens. Capito, Lee, Whitehouse and Heinrich and sent to the Senate Energy and Natural Resources Committee. The Wilderness Society lists six public lands concerns; WEA backs it.",
+   "source_name": "GovInfo (bill text)",
+   "source_url": "https://www.govinfo.gov/content/pkg/BILLS-119s5653is/xhtml/BILLS-119s5653is.html",
+   "kind": "official",
+   "related": [
+    "wea",
+    "tws",
+    "cwp",
+    "cbd"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-06",
+   "text": "Forest Service comment period on rescinding the Roadless Rule closed after a 15-day extension. BHA says it sent 98,981 messages; about 58.2 million acres are inventoried roadless and the rescission would remove 44.7 million acres, 9.3 million in the Tongass. GYC says supporters sent 31,561 comments in 45 days (GYC blog: https://greateryellowstone.org/blog/2026/gyc-supporters-send-30000-comments-to-usda-in-support-of-the-roadless-rule). Acreage figures differ by source (44.7, 58.2 and 58.5 million).",
+   "source_name": "Backcountry Hunters & Anglers (September roundup)",
+   "source_url": "https://www.backcountryhunters.org/news/details/artmid/3306/articleid/7109/september-federal-policy-roundup",
+   "kind": "advocacy claim",
+   "related": [
+    "bha",
+    "gyc",
+    "tws"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-08",
+   "text": "CWP analysis: 99.1 percent of the 370,238 comments posted on the Roadless Rule rescission oppose it. The proposed rule was published Aug 20. CWP's own count of posted comments.",
+   "source_name": "Center for Western Priorities",
+   "source_url": "https://westernpriorities.org/2026/10/analysis-99-1-percent-of-public-comments-oppose-roadless-rule-repeal/",
+   "kind": "advocacy claim",
+   "related": [
+    "cwp",
+    "bha",
+    "gyc"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-09",
+   "text": "USGS Data Report 1234 updates the greater sage-grouse range-wide trend: 2.7 percent average annual decline 1966-2021, cumulative declines of 42.4, 61.7 and 77.9 percent over the periods it reports, and a 1.9 percent decline 2024-2025. Missing Wyoming data biases the estimates.",
+   "source_name": "USGS",
+   "source_url": "https://pubs.usgs.gov/publication/dr1234",
+   "kind": "official",
+   "related": [
+    "wwp",
+    "cbd"
+   ],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-10-09",
+   "text": "Western Energy Alliance President Melissa Simpson backs the Senate permitting bill (S. 5653) as balancing energy and the environment.",
+   "source_name": "Western Energy Alliance",
+   "source_url": "https://www.westernenergyalliance.org/2026/10/09/senate-permitting-bill-balances-energy-and-the-environment/",
+   "kind": "advocacy claim",
+   "related": [
+    "wea"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-13",
+   "text": "Ninth Circuit heard appeals on gray wolf protections (three appeals from 14 challenges). Defenders of Wildlife's attorney argued against removing protections. No ruling reported yet.",
+   "source_name": "Courthouse News Service",
+   "source_url": "https://www.courthousenews.com/endangered-gray-wolf-protections-up-in-the-air-pending-appeals",
+   "kind": "independent reporting",
+   "related": [
+    "dow",
+    "cbd"
+   ],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-10-16",
+   "text": "A federal judge reopened the lawsuits over the cuts to Bears Ears and Grand Staircase-Escalante monuments. Requires 48 hours' notice before ground-disturbing activity on lands cut out of the monuments.",
+   "source_name": "Utah News Dispatch",
+   "source_url": "https://utahnewsdispatch.com/2026/10/16/judge-reopens-lawsuits-challenging-cuts-of-bears-ears-grand-staircase/",
+   "kind": "independent reporting",
+   "related": [
+    "gob",
+    "tws"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-18",
+   "text": "Reclamation weekly update (as of Oct 18): Lake Powell 3,520.55 ft (23% full), Lake Mead 1,037.24 ft (26% full); total system storage 18,128 kaf (31%) versus 37% a year ago; WY2027 Powell unregulated inflow forecast 39% of normal. Kiowa County Press reports Mead record lows on Oct 9 and Oct 15 and Powell's low on Sept 15.",
+   "source_name": "Bureau of Reclamation; Kiowa County Press",
+   "source_url": "https://www.usbr.gov/lc/region/g4000/weekly.pdf",
+   "kind": "official",
+   "related": [
+    "wra"
+   ],
+   "topic": "water-and-range"
+  },
+  {
+   "date": "2026-10-19",
+   "text": "KSFR reports on new threats to New Mexico's Mexican wolves from border wall construction and a possible delisting. EO 14425 (Sept 4; https://thefederalregister.org/documents/2026-18571/supporting-america-s-ranchers) directs Interior to decide whether gray and Mexican wolves meet delisting or downlisting criteria; its report is due about Dec 3.",
+   "source_name": "KSFR; Federal Register (EO 14425)",
+   "source_url": "https://www.ksfr.org/environment/2026-10-19/new-threats-to-new-mexico-wolves-border-wall-endangered-delisting",
+   "kind": "independent reporting",
+   "related": [
+    "dow",
+    "cbd"
+   ],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-10-19",
+   "text": "CBD says it and Western Watersheds Project moved to intervene to defend sage-grouse protections against an oil industry lawsuit by Western Energy Alliance and Wyoming. CBD's account; court docket not opened.",
+   "source_name": "Center for Biological Diversity",
+   "source_url": "https://biologicaldiversity.org/w/news/press-releases/legal-intervention-seeks-to-defend-sage-grouse-from-oil-industry-lawsuit-2026-10-19/",
+   "kind": "advocacy claim",
+   "related": [
+    "cbd",
+    "wwp",
+    "wea"
+   ],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-10-19",
+   "text": "CWP's new BLM Data Center Tracker lists at least 35 active data center applications covering over 24,000 acres in six Western states. Many list no acreage. CWP's own tracker.",
+   "source_name": "Center for Western Priorities",
+   "source_url": "https://westernpriorities.org/2026/10/the-trump-administration-is-trying-to-build-data-centers-on-public-lands/",
+   "kind": "advocacy claim",
+   "related": [
+    "cwp",
+    "tws",
+    "woc"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-20",
+   "text": "PERC argues grizzly recovery is working and backs the proposed tiered 4(d) rule; says Yellowstone-area bears grew from 136 in 1975 to over 1,000. FWS's grizzly rulemaking page shows a comment period through Aug 17 and no final rule.",
+   "source_name": "PERC; FWS",
+   "source_url": "https://www.perc.org/2026/10/20/grizzly-recovery-is-working/",
+   "kind": "advocacy claim",
+   "related": [
+    "perc",
+    "dow"
+   ],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-10-21",
+   "text": "WyoFile reports a Path of the Pronghorn bottleneck near gas leasing is now protected by a 169-acre easement and a route designation.",
+   "source_name": "WyoFile",
+   "source_url": "https://wyofile.com/three-years-after-gas-drillers-caused-a-stir-leasing-a-path-of-the-pronghorn-bottleneck-its-been-protected/",
+   "kind": "independent reporting",
+   "related": [
+    "wywf"
+   ],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-10-22",
+   "text": "BLM began aerial herbicide treatment on about 23,600 acres at Jacks Creek, Idaho (Oct 23, up to three weeks) with Pheasants Forever and the U.S. Wildland Fire Service. BLM says wildfires burned over 3.3 million acres of BLM land this year.",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/press-release/blm-and-partners-target-invasive-weeds-enhance-resiliency-critical-habitat",
+   "kind": "official",
+   "related": [
+    "blm-whb"
+   ],
+   "topic": "water-and-range"
+  },
+  {
+   "date": "2026-10-22",
+   "text": "CBD says only 3 species were listed under the Endangered Species Act in nearly two years, 39 FY2026 findings were missed, and a July workplan dropped 64 species. CBD's counts; not checked against FWS.",
+   "source_name": "Center for Biological Diversity",
+   "source_url": "https://biologicaldiversity.org/w/news/press-releases/trump-protects-fewest-species-ever-under-endangered-species-act-2026-10-22/",
+   "kind": "advocacy claim",
+   "related": [
+    "cbd"
+   ],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-10-22",
+   "text": "TRCP reports BLM is taking nominations for projects to open landlocked public land (Dingell Act lands, at least 640 contiguous acres, LWCF-funded). TRCP cites a 2018 count of 9.52 million landlocked acres in 13 western states. BLM's notice not opened.",
+   "source_name": "Theodore Roosevelt Conservation Partnership",
+   "source_url": "https://www.trcp.org/2026/10/22/blm-seeks-projects-to-open-landlocked-public-land/",
+   "kind": "advocacy claim",
+   "related": [
+    "trcp",
+    "bha"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-22",
+   "text": "Colorado BHA says a proposed GAME Act would swap about 2,158 acres of BLM land near Glenwood Springs for about 2,103 acres on the Roan Plateau. The bill has not been introduced and Colorado Parks and Wildlife does not endorse it.",
+   "source_name": "Backcountry Hunters & Anglers",
+   "source_url": "https://www.backcountryhunters.org/media/press-releases/details/colorado-bha-on-the-proposed-game-act",
+   "kind": "advocacy claim",
+   "related": [
+    "bha"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-23",
+   "text": "Colorado Newsline opinion by Sammy Herdman on the proposed federal grazing rules and cattle ranchers. It is an opinion piece. PLC says BLM's proposed grazing rule (RIN 1004-AE82) is not final.",
+   "source_name": "Colorado Newsline",
+   "source_url": "https://coloradonewsline.com/2026/10/23/proposed-grazing-rules-cattle-ranchers/",
+   "kind": "advocacy claim",
+   "related": [
+    "plc",
+    "wwp",
+    "ncba"
+   ],
+   "topic": "grazing-and-prairie"
+  },
+  {
+   "date": "2026-10-23",
+   "text": "More than 55 groups, including Conservation Colorado, Trout Unlimited, TRCP, BHA and WRA, back Colorado Proposition 137, which they say would direct about $175 million a year to water, wildfire and open space without raising tax rates.",
+   "source_name": "Yellow Scene (coalition press release)",
+   "source_url": "https://yellowscene.com/2026/10/23/record-coalition-of-conservation-and-outdoors-organizations-unites-behind-proposition-137/",
+   "kind": "advocacy claim",
+   "related": [
+    "coco",
+    "wra",
+    "trcp",
+    "tu",
+    "bha"
+   ],
+   "topic": "water-and-range"
   }
  ],
  "watch_sources": [
@@ -1328,6 +2666,61 @@
    "name": "AWI news",
    "url": "https://awionline.org/news/federal-investment-in-wild-horse-fertility-control-is-welcome-if-vague/",
    "how": "Site blocks curl (403) on its news list; an article page was readable with WebFetch."
+  },
+  {
+   "name": "BLM ePlanning, Rock Springs Special Management RMP Amendment",
+   "url": "https://eplanning.blm.gov/Project-Home/?id=17ebe1f2-a7f2-f011-8407-001dd80db62a",
+   "how": "Project page with status and 'Last Updated' date; opened 2026-10-24. Check for a draft plan or comment period."
+  },
+  {
+   "name": "Federal Register",
+   "url": "https://www.federalregister.gov/documents/2026/09/22/2026-19416/reinvigorating-americas-hunting-heritage",
+   "how": "Document page for EO 14429; opened. Use site search for new Interior or Forest Service rules."
+  },
+  {
+   "name": "GovInfo bill text, S. 5653",
+   "url": "https://www.govinfo.gov/content/pkg/BILLS-119s5653is/xhtml/BILLS-119s5653is.html",
+   "how": "Introduced text; opened. Senate committee pages returned 403 to my fetch."
+  },
+  {
+   "name": "USGS publications",
+   "url": "https://pubs.usgs.gov/publication/dr1234",
+   "how": "Report page for sage-grouse trends; opened."
+  },
+  {
+   "name": "Reclamation Lower Colorado weekly update",
+   "url": "https://www.usbr.gov/lc/region/g4000/weekly.pdf",
+   "how": "PDF updated weekly; opened. Poll for reservoir levels."
+  },
+  {
+   "name": "FWS grizzly rulemaking",
+   "url": "https://www.fws.gov/grizzlyrulemaking",
+   "how": "Page opened; comment period through Aug 17, 2026; no final rule posted."
+  },
+  {
+   "name": "WyoFile",
+   "url": "https://wyofile.com/",
+   "how": "Home page not opened; two WyoFile stories were opened. No feed checked."
+  },
+  {
+   "name": "Center for Western Priorities news",
+   "url": "https://westernpriorities.org/",
+   "how": "Loads through WebFetch; plain curl got 403."
+  },
+  {
+   "name": "Backcountry Hunters & Anglers news",
+   "url": "https://www.backcountryhunters.org/news",
+   "how": "List page not opened; individual roundup and press release pages were opened."
+  },
+  {
+   "name": "TRCP news",
+   "url": "https://www.trcp.org/",
+   "how": "Home page not opened; individual posts with dates in the URL were opened."
+  },
+  {
+   "name": "Center for Biological Diversity press releases",
+   "url": "https://biologicaldiversity.org/w/news/press-releases/",
+   "how": "List page not opened; individual releases were opened (dates in URLs). CBD no longer uses X."
   }
  ],
  "notes": [
@@ -1337,7 +2730,15 @@
   "Not opened, so left out of developments: Roll Call report that the House FY2027 Interior bill (H.R. 9171) has $144M for the program; the SAFE Act status; Idaho Challis gather (226 horses).",
   "The Salt River horses are managed by Arizona and the Forest Service, not BLM.",
   "Death counts are BLM's own categories. WHE (Oct 20) gave 7 Red Desert deaths and RTF's Oct 23 post says seven; BLM's daily rows add to 11 by Oct 23.",
-  "ProPublica financials lag: FY2023 or FY2024 is the latest posted. All coordinates are approximate."
+  "ProPublica financials lag: FY2023 or FY2024 is the latest posted. All coordinates are approximate.",
+  "This file broadens the horse rescue tracker to western conservation, hunting and angling, ranching and industry voices. Public Lands Council (plc), American Prairie (american-prairie), Western Watersheds Project (wwp) and BLM (blm-whb) are already in data.json and are linked by id in 'related'.",
+  "Western Values Project is not listed. Its site (westernvaluesproject.org) now serves casino spam. InfluenceWatch (modified 2026-05-01) and a political email archive say it is integrating with Accountable.US. Status not confirmed.",
+  "Acreage differences, unresolved: Rock Springs plan area is about 1.3 million acres in BLM's Oct 2025 release and 3.6 million in WyoFile. Roadless acres appear as 44.7 million (rescission), 58.2 million (BHA) and 58.5 million (PERC).",
+  "Citizens for the Red Desert's site looks dated (references 2021) and may be dormant. Wyoming Outdoor Council, Wyoming Wildlife Federation and Wyoming Wilderness Association X accounts have no posts since 2023.",
+  "Center for Biological Diversity's X profile says it no longer uses X. X follower counts and last post dates were read on 2026-10-24. No official X handle found for CWP, Conservation Colorado, Great Old Broads, WRA, WSGA or Citizens for the Red Desert.",
+  "Financials are the latest year ProPublica posts (FY2023, WSGA FY2024); data lags. CWP is a project of the Resources Legacy Fund and has no separate record.",
+  "WRA's Colorado River Final EIS statement is dated July 31, 2026 (out of window). A search summary that said October was wrong. EO 14425 (Sept 4) and the Las Vegas land sale (BLM, Sept 10) are before the window and appear only as context.",
+  "Not confirmed, because I only saw them in search results: Montana's wolf quota cut to 300 (Daily Montanan, Aug 21), S. 5604 and its committee referral, the Utah v. Burgum case, and TRCP's Oct 23 permitting bill article. TWS's date on its S. 5653 post is missing."
  ],
  "key_numbers_updated": "2026-10-24",
  "key_numbers_history": [
@@ -1352,8 +2753,22 @@
     "FY2025 fertility treatments": "921 (PZP 484; PZP-22 99; GonaCon 338)",
     "FY2024 program money": "$142M appropriated; $153M spent; $101M (66%) on holding",
     "New fertility-control money": "$30 million from USDA",
-    "Fall 2026 gathers in this file": "Red Desert WY 666 gathered (target 1,035); North Complex NV 323; Sulphur UT about 259 (search summary); Sand Wash CO about 301 gathered; Riddle OR up to 140 (court cap); Pryor MT bait trap about 100"
+    "Fall 2026 gathers in this file": "Red Desert WY 666 gathered (target 1,035); North Complex NV 323; Sulphur UT about 259 (search summary); Sand Wash CO about 301 gathered; Riddle OR up to 140 (court cap); Pryor MT bait trap about 100",
+    "BLM surface acres": "243,046,406",
+    "BLM grazing permits and active AUMs": "17,670 permits; 12,289,935 active AUMs",
+    "BLM livestock grazing: acres, fees and budget": "155M acres grazed; about $13M fee revenue; $106.3M rangeland program (FY2025)",
+    "Greater sage-grouse cumulative decline": "77.9% (longest period reported); 1.9% decline 2024-2025",
+    "Colorado River reservoirs": "Lake Powell 23% full; Lake Mead 26% full",
+    "BLM land burned by wildfire in 2026": "over 3.3 million acres"
    }
   }
- ]
+ ],
+ "topics": {
+  "horses": "Wild horses and burros",
+  "public-lands": "Public lands policy",
+  "grazing-and-prairie": "Grazing and prairie",
+  "wildlife": "Wildlife",
+  "water-and-range": "Water and range",
+  "red-desert": "Red Desert"
+ }
 }

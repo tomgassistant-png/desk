@@ -10,6 +10,7 @@ EXTRA = ('.hz{max-width:1000px;margin:0 auto}.hz h1{font-size:30px;margin:14px 0
          '.hz table{border-collapse:collapse;width:100%;font-size:14px}.hz th,.hz td{border:1px solid #ccc;padding:6px 8px;vertical-align:top;text-align:left}.hz th{background:#f2f2f2;font-family:Helvetica,Arial,sans-serif;font-size:12px;letter-spacing:.8px;text-transform:uppercase}'
          '.hz .org{border-top:1px solid #bbb;padding:12px 0}.hz .org h3{margin:0 0 2px;font-size:19px}.hz .meta{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555;margin-bottom:6px}'
          '.hz .base{background:#7a1f1f;color:#fff;font-size:10px;letter-spacing:1px;text-transform:uppercase;padding:1px 5px;margin-left:6px;font-family:Helvetica,Arial,sans-serif;vertical-align:middle}'
+         '.hz .flt{margin:14px 0 0;font-family:Helvetica,Arial,sans-serif;font-size:12px}.hz .flt button{margin:2px 4px 2px 0;padding:3px 8px;border:1px solid #1a1a1a;background:#fff;cursor:pointer;font:inherit}.hz .flt button.on{background:#1a1a1a;color:#fff}.hz .tp{font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:#555}'
          '.hz .conf{font-size:13px;color:#444;font-style:italic}.hz .kind{font-family:Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:#7a1f1f}'
          '.hz .dev{border-top:1px dotted #9d968a;padding:8px 0}.hz .big{font-size:22px;font-weight:700}.hz .lede{font-size:16px;line-height:1.45}.hz ul{margin:4px 0 8px 20px;padding:0}')
 def link(u, t): return f'<a href="{e(u)}" target="_blank" rel="noopener">{e(t)}</a>'
@@ -20,19 +21,22 @@ def build(now):
     orgs = {o["id"]: o["name"] for o in d["organizations"]}
     h = []
     h.append('<h1>Wild Horse Rescue and Western Conservation Tracker</h1>')
-    h.append(f'<p class="lede">Organizations, campaigns and court and agency actions on wild horses and burros and on conservation in the western United States. Data updated {e(long_date(d["updated"]))}. "Far West" is read here as the western states. Labels on each development: <b>official</b> (BLM or a court docket), <b>advocacy claim</b> (a group\'s own statement), <b>independent reporting</b>, or <b>unconfirmed</b>. All map points are approximate.</p>')
-    head = ''.join(h); h = []
+    h.append(f'<p class="lede">Organizations, campaigns and court and agency actions on wild horse and burro rescue, which is one strand here, and on the other strands of western conservation: public lands policy, grazing and prairie, wildlife, water and range, and the Red Desert. Data updated {e(long_date(d["updated"]))}. "Far West" is read here as the western states. Labels on each development: <b>official</b> (BLM or a court docket), <b>advocacy claim</b> (a group\'s own statement), <b>independent reporting</b>, or <b>unconfirmed</b>. All map points are approximate.</p>')
+    T = d.get("topics", {})
+    flt = ('<div class="flt">Show: <button data-t="all" class="on">All</button>' + "".join(f'<button data-t="{e(k)}">{e(v)}</button>' for k, v in T.items()) + '</div>'
+           '<script>document.querySelectorAll(".flt button").forEach(function(b){b.onclick=function(){document.querySelectorAll(".flt button").forEach(function(x){x.classList.remove("on")});b.classList.add("on");var t=b.dataset.t;document.querySelectorAll("[data-topic]").forEach(function(n){n.style.display=(t=="all"||n.dataset.topic==t)?"":"none"})}});</script>')
+    head = ''.join(h) + flt; h = []
     h.append('<h2>Developments, newest first</h2>')
     for x in sorted(d["developments"], key=lambda x: x["date"], reverse=True):
         rel = ", ".join(orgs.get(r, r) for r in x.get("related", []))
-        h.append(f'<div class="dev"><span class="kind">{e(x["kind"])}</span> · {e(long_date(x["date"]) if len(x["date"])==10 else x["date"])}<br>{e(x["text"])} <span class="meta">Source: {link(x["source_url"], x["source_name"])}{(" · Related: "+e(rel)) if rel else ""}</span></div>')
+        h.append(f'<div class="dev" data-topic="{e(x.get("topic",""))}"><span class="tp">{e(T.get(x.get("topic",""),""))}</span> <span class="kind">{e(x["kind"])}</span> · {e(long_date(x["date"]) if len(x["date"])==10 else x["date"])}<br>{e(x["text"])} <span class="meta">Source: {link(x["source_url"], x["source_name"])}{(" · Related: "+e(rel)) if rel else ""}</span></div>')
     h.append('<h2>Organizations</h2><p class="meta">The four baseline organizations come first. Identification problems are stated in each entry.</p>')
     for o in sorted(d["organizations"], key=lambda o: (not o.get("baseline"), o["name"])):
         x = o.get("x")
         xs = (f'{link(x["url"], x["handle"])} ({x["followers"]:,} followers, last post {e(x["last_post_date"])})' if x and x.get("followers") and x.get("last_post_date")
               else (link(x["url"], x["handle"]) if x else 'no official handle found'))
-        s = [f'<div class="org"><h3>{e(o["name"])}{"<span class=base>baseline</span>" if o.get("baseline") else ""}</h3>',
-             f'<div class="meta">{e(o["type"])} · {e(", ".join(o["states"]))}</div><p>{e(o["summary"])}</p>']
+        s = [f'<div class="org" data-topic="{e(o.get("topic",""))}"><h3>{e(o["name"])}{"<span class=base>baseline</span>" if o.get("baseline") else ""}</h3>',
+             f'<div class="meta">{e(T.get(o.get("topic",""),""))} · {e(o["type"])} · {e(", ".join(o["states"]))}</div><p>{e(o["summary"])}</p>']
         lt = o.get("latest")
         if lt: s.append(f'<p><b>Latest ({e(lt["date"])}):</b> {e(lt["text"])} {link(lt["url"], "source") if lt.get("url") else ""}</p>')
         elif o.get("latest_note"): s.append(f'<p><b>Latest:</b> {e(o["latest_note"])}</p>')
@@ -50,12 +54,15 @@ def build(now):
     h.append('<h2>Notes and limits</h2><ul>' + "".join(f'<li>{e(n)}</li>' for n in d["notes"]) + '</ul>')
     kn = d["key_numbers"]
     rail = ('<aside class="rail"><div class="sources"><h2>Reports</h2><ul><li><a href="numbers/"><b>Key numbers</b></a>'
-            f'<span class="s">{len(kn)} program figures: population, holding, removals, fertility control, money and fall gathers. Refreshed weekly (last: {e(long_date(d["key_numbers_updated"]))}).</span></li></ul></div></aside>')
+            f'<span class="s">{len(kn)} figures on wild horses (population, holding, removals, fertility control, fall gathers) and on western conservation (public land, grazing, sage-grouse, Colorado River, wildfire). Refreshed weekly (last: {e(long_date(d["key_numbers_updated"]))}).</span></li></ul></div></aside>')
     GROUPS = [("Baseline", ["rtf", "salvation", "american-prairie"]),
               ("Sanctuaries and rescues", ["iram-black-hills", "mustang-monument", "skydog", "pryor-center", "strawberry-mtn", "wild-burro-rescue", "kiger-mesteno", "mustang-heritage"]),
-              ("National advocacy and litigation", ["awhc", "whe", "foa", "awi", "ida", "humane-world", "cloud-foundation"]),
+              ("Horse advocacy and litigation", ["awhc", "whe", "foa", "awi", "ida", "humane-world", "cloud-foundation"]),
               ("Local groups and range conservation", ["carter-reservoir-mustangs", "salt-river-whmg", "owho", "cowhc", "wwp"]),
-              ("Agency, science and opposing view", ["blm-whb", "science-conservation-center", "plc"])]
+              ("Public lands and wilderness", ["tws", "cwp", "woc", "coco", "gob", "wwa", "cftrd", "wwp"]),
+              ("Wildlife, water and habitat", ["cbd", "dow", "gyc", "wywf", "wra", "tu"]),
+              ("Hunting and angling", ["bha", "trcp"]),
+              ("Agency, science and opposing view", ["blm-whb", "science-conservation-center", "plc", "ncba", "wsga", "wea", "perc"])]
     byid = {o["id"]: o for o in d["organizations"]}
     def entry(o):
         x = o.get("x")
@@ -80,7 +87,7 @@ def build_numbers(now):
     d = json.load(open(os.path.join(D, "horses/data.json"), encoding="utf-8"))
     hist = sorted(d.get("key_numbers_history", []), key=lambda x: x["date"])
     h = ['<h1>Wild Horse Tracker: Key Numbers</h1>',
-         f'<p class="lede">Program figures for wild horses and burros on federal land and for the fall 2026 gathers. Refreshed weekly; last refresh {e(long_date(d["key_numbers_updated"]))}. Each figure carries its own "as of" date, because the sources update on different schedules. Advocacy groups dispute some agency figures, and the notes say where.</p>',
+         f'<p class="lede">Figures for wild horses and burros on federal land, the fall 2026 gathers, and western conservation (public land, grazing, sage-grouse, Colorado River, wildfire). Refreshed weekly; last refresh {e(long_date(d["key_numbers_updated"]))}. Each figure carries its own "as of" date, because the sources update on different schedules. Advocacy groups dispute some agency figures, and the notes say where.</p>',
          '<h2>Current figures</h2><table><tr><th>Measure</th><th>Value</th><th>As of</th><th>Source and note</th></tr>']
     for k in d["key_numbers"]:
         h.append(f'<tr><td>{e(k["label"])}</td><td class="big">{e(k["value"])}</td><td>{e(k["as_of"])}</td><td>{link(k["source_url"], k["source_name"])}. {e(k.get("note",""))}</td></tr>')
