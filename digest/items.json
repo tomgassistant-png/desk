@@ -478,6 +478,12 @@
      "url": "nick-land-x-fans/",
      "teaser": "Section-by-section summary of the 3-hour session posted 23 October, with quotes and links to the video at each timestamp. Built from auto-captions, so it has errors.",
      "updated": "24 October 2026"
+    },
+    {
+     "label": "Nick Land x Fans: watch-along reader",
+     "url": "nick-land-x-fans-watch-along/",
+     "teaser": "Ten timed chapters beside an embedded video player. Click a time to jump the video there, and open each chapter's full notes. Built from auto-captions, so it has errors.",
+     "updated": "24 October 2026"
     }
    ]
   },
