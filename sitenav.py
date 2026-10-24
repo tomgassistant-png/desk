@@ -32,4 +32,6 @@ def nav(here, root, extra=""):
     links = [f'<a href="{root}cover/"{" class=on" if here == "cover" else ""}>Cover</a>']
     for k, p, name, dt in sections():
         links.append(f'<a href="{root}{p}" data-sec="{k}" data-upd="{dt}"{" class=on" if k == here else ""}>{name}</a>')
+    _hd = _load("horses/data.json").get("updated", "")
+    links.append(f'<a href="{root}horses/" data-sec="horses" data-upd="{_hd}"{" class=on" if here == "horses" else ""}>Horses</a>')
     return f'<style>{CSS}</style><nav class="secnav">' + " | ".join(links) + extra + '</nav>' + JS

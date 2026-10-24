@@ -1,0 +1,1342 @@
+{
+ "updated": "2026-10-24",
+ "key_numbers": [
+  {
+   "label": "Estimated wild horses and burros on BLM land",
+   "value": "85,466 (61,523 horses; 23,943 burros)",
+   "as_of": "2026-03-01",
+   "source_name": "BLM Program Data",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
+   "note": "Up from 73,130 in 2025. Advocates (WHE, Mar 18, 2026) say BLM's numbers rest on old surveys and are used to justify removals."
+  },
+  {
+   "label": "Appropriate management level (AML)",
+   "value": "25,592 (high end, all herds)",
+   "as_of": "2026-03-01",
+   "source_name": "BLM Program Data",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
+   "note": "WHE says BLM works to the low end, 15,374, so it treats 70,092 animals as excess. WHE also says zero-AML areas inflate percentages."
+  },
+  {
+   "label": "Population by state vs high AML (total animals)",
+   "value": "NV 42,572 vs 12,811; AZ 13,814 vs 1,676; CA 8,467 vs 2,236; WY 7,165 vs 2,566; OR 6,080 vs 2,700; UT 4,843 vs 1,956; CO 1,669 vs 827; ID 564 vs 617; MT 195 vs 120; NM 97 vs 83",
+   "as_of": "2026-03-01",
+   "source_name": "BLM Program Data",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
+   "note": "Advocates dispute how AML was set; livestock groups say herds are larger than the land can carry."
+  },
+  {
+   "label": "Animals in off-range holding",
+   "value": "58,025 (corrals 20,350; pastures 36,459; public pastures 1,216); capacity 78,751",
+   "as_of": "2026-05",
+   "source_name": "BLM Program Data",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
+   "note": "The monthly facility report PDF linked on that page was not opened. NYT (Aug 20) says holding costs about $100 million a year."
+  },
+  {
+   "label": "FY2025 removals and placements",
+   "value": "7,853 removed; 8,080 placed (4,330 adoptions; 3,718 sales)",
+   "as_of": "FY2025",
+   "source_name": "BLM Program Data",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
+   "note": "NYT (via Seattle Times) says sales more than doubled to about 3,700 in 2025. BLM says it does not sell to slaughter."
+  },
+  {
+   "label": "FY2025 fertility treatments",
+   "value": "921 (PZP 484; PZP-22 99; GonaCon 338)",
+   "as_of": "FY2025",
+   "source_name": "BLM Program Data",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
+   "note": "AWI calls this 'paltry' against about 14,000 equines targeted for removal in FY2026."
+  },
+  {
+   "label": "FY2024 program money",
+   "value": "$142M appropriated; $153M spent; $101M (66%) on holding",
+   "as_of": "FY2024",
+   "source_name": "BLM Program Data",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
+   "note": "Advocates argue spending on holding crowds out fertility control."
+  },
+  {
+   "label": "New fertility-control money",
+   "value": "$30 million from USDA",
+   "as_of": "2026-09-21",
+   "source_name": "BLM press release",
+   "source_url": "https://www.blm.gov/press-release/blm-delivers-call-more-wild-horse-fertility-control-30-million-usda-investment-and",
+   "note": "WHE says the USDA budget line is not disclosed and wants guardrails."
+  },
+  {
+   "label": "Fall 2026 gathers in this file",
+   "value": "Red Desert WY 666 gathered (target 1,035); North Complex NV 323; Sulphur UT about 259 (search summary); Sand Wash CO about 301 gathered; Riddle OR up to 140 (court cap); Pryor MT bait trap about 100",
+   "as_of": "2026-10-23",
+   "source_name": "BLM gather pages",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/wyoming/2026-red-desert-complex",
+   "note": "Counts come from BLM's daily reports; death causes are BLM's own wording."
+  }
+ ],
+ "organizations": [
+  {
+   "id": "rtf",
+   "name": "Return to Freedom",
+   "type": "Sanctuary and advocacy (national)",
+   "states": [
+    "CA",
+    "WY",
+    "NV",
+    "OR"
+   ],
+   "baseline": true,
+   "summary": "Lompoc, California nonprofit that runs a wild horse and burro sanctuary and lobbies on BLM policy. Current focus: stopping BLM sales that can end in slaughter, the SAFE Act, fertility control instead of roundups, and the fall 2026 Red Desert, Wyoming gather. Key person: Neda DeMayo, founder and president.",
+   "website": "https://returntofreedom.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/61484961",
+   "financials": "ProPublica, FY2023: revenue $3,090,806; expenses $2,536,916; assets $1,835,214 (latest year posted; data lags).",
+   "latest": {
+    "date": "2026-10-22",
+    "text": "Reposted a Santa Barbara News-Press feature: the Lompoc sanctuary and a San Luis Obispo satellite hold about 400 horses and 50 burros, at a cost the group puts above $240,000 a month. On X on Oct 23 it said more than 650 horses had been captured and seven killed in south central Wyoming.",
+    "url": "https://returntofreedom.org/lompoc-based-nonprofit-fighting-to-protect-wild-horses-from-being-shipped-to-slaughter/"
+   },
+   "campaigns": [
+    "Stop BLM sales that feed slaughter (SAFE Act, H.R. 1661)",
+    "Matching-gift fund drive (website says through Sept 30; its Oct 8 X post says Oct 31, not confirmed on the website)",
+    "Red Desert, Wyoming gather response",
+    "Fertility control (PZP) in place of roundups"
+   ],
+   "key_people": [
+    "Neda DeMayo (founder and president)"
+   ],
+   "places": [
+    {
+     "name": "Return to Freedom sanctuary, Lompoc CA (PO Box 926, Lompoc CA 93438)",
+     "lat": 34.64,
+     "lon": -120.46,
+     "approx": true
+    },
+    {
+     "name": "San Luis Obispo satellite",
+     "lat": 35.28,
+     "lon": -120.66,
+     "approx": true
+    }
+   ],
+   "confidence": "High on identity, website and nonprofit record. Latest-news text is the group's own account. Matching-gift end date is unconfirmed.",
+   "x": {
+    "handle": "@ReturnToFreedom",
+    "url": "https://x.com/ReturnToFreedom",
+    "verified_from": "Linked from returntofreedom.org (site opened); profile checked with the x connector on 2026-10-24",
+    "followers": 8832,
+    "last_post_date": "2026-10-23"
+   }
+  },
+  {
+   "id": "salvation",
+   "name": "Salvation Wild Mustang Sanctuary",
+   "type": "Sanctuary and rescue",
+   "states": [
+    "KS",
+    "NV"
+   ],
+   "baseline": true,
+   "summary": "Plainville, Kansas sanctuary for rescued mustangs. Matched to Tom's 'Salvation Wild Horses' on probable identification; no organization with that exact name was found. Its X feed says it is raising money for 10 rescued mares in Kansas quarantine that are to move to Mustang Monument in Nevada.",
+   "website": "https://salvationwildmustangsanctuary.com/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/845158782",
+   "financials": "ProPublica, FY2023: revenue $279,278; expenses $253,164; assets $129,844 (ruled tax-exempt 2021).",
+   "latest": {
+    "date": "2026-10-23",
+    "text": "X post: fundraising for 10 rescued mares, quarantine in Kansas, planned transport to Mustang Monument. Not confirmed by a second source.",
+    "url": "https://x.com/WildCorp"
+   },
+   "campaigns": [
+    "Rescue and placement of mares (per its X feed)"
+   ],
+   "key_people": [],
+   "places": [
+    {
+     "name": "Salvation sanctuary, Plainville KS",
+     "lat": 39.23,
+     "lon": -99.3,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. Identity match is probable, not confirmed. Key people not found on the pages I opened.",
+   "x": {
+    "handle": "@WildCorp",
+    "url": "https://x.com/WildCorp",
+    "verified_from": "Linked from salvationwildmustangsanctuary.com; profile bio lists EIN 84-5158782 (checked 2026-10-24)",
+    "followers": 3661,
+    "last_post_date": "2026-10-23"
+   }
+  },
+  {
+   "id": "save-red-desert",
+   "name": "Save the Red Desert (not identified as one organization)",
+   "type": "Unidentified campaign name",
+   "states": [
+    "WY"
+   ],
+   "baseline": true,
+   "summary": "I could not find an organization or website by this name. The place it refers to, the Red Desert and Great Divide Basin of Wyoming, is the site of the fall 2026 BLM Red Desert Complex gather (about 1,035 horses targeted). Groups active on it in this file: Return to Freedom, AWHC, Wild Horse Education and Friends of Animals.",
+   "website": null,
+   "nonprofit_check_url": null,
+   "latest": {
+    "date": "2026-10-23",
+    "text": "BLM's Red Desert Complex gather page reports 666 horses gathered, 508 shipped and 11 deaths as of Oct 23.",
+    "url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/wyoming/2026-red-desert-complex"
+   },
+   "campaigns": [
+    "No campaign page of this name found"
+   ],
+   "key_people": [],
+   "places": [
+    {
+     "name": "Red Desert Complex / Great Divide Basin",
+     "lat": 42.0,
+     "lon": -108.2,
+     "approx": true
+    },
+    {
+     "name": "BLM Wheatland WY holding facility",
+     "lat": 42.05,
+     "lon": -104.95,
+     "approx": true
+    }
+   ],
+   "confidence": "Low. Name not matched to any entity. No website, nonprofit record or X feed claimed. Tell me the exact group if you know it.",
+   "x": null
+  },
+  {
+   "id": "american-prairie",
+   "name": "American Prairie",
+   "type": "Land conservation (bison; BLM grazing permits)",
+   "states": [
+    "MT"
+   ],
+   "baseline": true,
+   "summary": "Bozeman, Montana nonprofit building a prairie reserve in northeast Montana with a herd of about 1,000 bison. It does not run a wild horse program. It matters here because BLM revoked six of its bison grazing permits on May 8, 2026, in a dispute over how BLM treats grazing permits on public land. A federal judge paused part of that on Sept 4. CEO: Alison Fox; counsel: Mary Cochenour.",
+   "website": "https://americanprairie.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/810541893",
+   "financials": "ProPublica (American Prairie Foundation), FY2023: revenue $25,022,771; expenses $11,562,813; assets $171,484,657.",
+   "latest": {
+    "date": "2026-10-05",
+    "text": "Ninth Circuit appeal No. 26-6528 docketed. The docket page does not say who filed it. Opening brief due Nov 2, answering brief Nov 30. Intervenors include the State of Montana and the Montana Stockgrowers Association.",
+    "url": "https://dockets.justia.com/docket/circuit-courts/ca9/26-6528"
+   },
+   "campaigns": [
+    "Bison grazing permit case: D. Mont. 4:26-cv-00282",
+    "Injunction (Sept 4) covers three allotments: Telegraph Creek, Box Elder, Whiterock",
+    "Land purchases (about 2,000 acres of wetland habitat announced Mar 5, 2026)"
+   ],
+   "key_people": [
+    "Alison Fox (CEO)",
+    "Mary Cochenour (counsel)"
+   ],
+   "places": [
+    {
+     "name": "American Prairie reserve, Phillips County MT",
+     "lat": 47.9,
+     "lon": -108.1,
+     "approx": true
+    },
+    {
+     "name": "Telegraph Creek, Box Elder, Whiterock allotments (general area)",
+     "lat": 47.9,
+     "lon": -108.1,
+     "approx": true
+    }
+   ],
+   "confidence": "High on facts from its own releases and the Justia docket. Wild horse link is indirect (grazing and BLM permit policy only). No horse policy found.",
+   "x": {
+    "handle": "@AmericanPrairie",
+    "url": "https://x.com/AmericanPrairie",
+    "verified_from": "Linked from americanprairie.org; profile checked 2026-10-24",
+    "followers": 4360,
+    "last_post_date": null,
+    "note": "Profile name is '.', empty bio, and the posts lookup returned 0 posts. It looks inactive or restricted."
+   }
+  },
+  {
+   "id": "iram-black-hills",
+   "name": "Black Hills Wild Horse Sanctuary (Institute of Range and the American Mustang)",
+   "type": "Sanctuary",
+   "states": [
+    "SD"
+   ],
+   "summary": "Hot Springs, South Dakota sanctuary of about 11,000 acres. Its hay fund page says drought costs about $85,000 a month. It named new advisory board members on Jul 7, 2026.",
+   "website": "https://www.wildmustangs.com/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/460401462",
+   "financials": "ProPublica (Institute of Range & the American Mustang), FY2023: revenue $1,655,620; expenses $2,294,307; assets $6,158,197.",
+   "latest": {
+    "date": "2026-07-07",
+    "text": "New advisory board members announced (its own site; individual page not separately confirmed).",
+    "url": "https://www.wildmustangs.com/"
+   },
+   "places": [
+    {
+     "name": "Black Hills sanctuary near Hot Springs SD",
+     "lat": 43.43,
+     "lon": -103.47,
+     "approx": true
+    }
+   ],
+   "confidence": "High on identity and EIN 46-0401462. News item is the site's own claim.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "mustang-monument",
+   "name": "Mustang Monument (Saving America's Mustangs)",
+   "type": "Sanctuary / eco-resort",
+   "states": [
+    "NV"
+   ],
+   "summary": "Wells, Nevada preserve with nearly 1,000 mustangs, open seasonally June 1 to Sept 30. Run by Saving America's Mustangs, a private foundation (Form 990-PF). The site links Madeleine Pickens' X account.",
+   "website": "https://mustangmonument.com/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/943460086",
+   "financials": "ProPublica (Saving Americas Mustangs), FY2023, private foundation: revenue $262,301; expenses $2,659,737; assets $10,598,494.",
+   "latest": {
+    "date": "2026-10-23",
+    "text": "Salvation Wild Mustang Sanctuary says 10 rescued mares are headed here after quarantine (Salvation's post; not confirmed by Mustang Monument).",
+    "url": "https://x.com/WildCorp"
+   },
+   "key_people": [
+    "Madeleine Pickens"
+   ],
+   "places": [
+    {
+     "name": "Mustang Monument near Wells NV",
+     "lat": 41.11,
+     "lon": -114.96,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. Entity link between the site and the EIN rests on the name match.",
+   "x": {
+    "handle": "@MustangMonument",
+    "url": "https://x.com/MustangMonument",
+    "verified_from": "Profile URL is mustangmonument.com; checked with the x connector 2026-10-24",
+    "followers": 179,
+    "last_post_date": null,
+    "note": "12 lifetime posts; last post date not checked."
+   },
+   "baseline": false
+  },
+  {
+   "id": "skydog",
+   "name": "Skydog Ranch & Sanctuary (Sky Dog Sanctuary Inc)",
+   "type": "Sanctuary and rescue",
+   "states": [
+    "OR",
+    "CA"
+   ],
+   "summary": "Rescue and sanctuary founded by Clare Staples in 2016. The New York Times (Aug 20, 2026) places her ranch in Oregon. Vocal critic of BLM sales; its X posts on Oct 23 and 24 push a Times (UK) report about horses sold at a BLM event.",
+   "website": "https://skydogranch.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/813188893",
+   "financials": "ProPublica (Sky Dog Sanctuary Inc, Malibu CA address on file), FY2023: revenue $2,868,619; expenses $2,317,140; assets $2,747,501.",
+   "latest": {
+    "date": "2026-10-23",
+    "text": "X posts cite a Times (UK) article on the 'Bowie 41' horses sold at a BLM event in Hugo, Oklahoma, saying most went to Mexico. Advocacy claim; I did not open the article.",
+    "url": "https://x.com/skydogsanctuary"
+   },
+   "key_people": [
+    "Clare Staples (founder)"
+   ],
+   "places": [
+    {
+     "name": "Skydog ranch, Oregon (location only roughly known; near Prineville is a search result)",
+     "lat": 44.3,
+     "lon": -120.83,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. Ranch coordinates are a low-confidence guess. IRS address is in California.",
+   "x": {
+    "handle": "@skydogsanctuary",
+    "url": "https://x.com/skydogsanctuary",
+    "verified_from": "Bio URL is skydogranch.org; checked 2026-10-24",
+    "followers": 10840,
+    "last_post_date": "2026-10-24"
+   },
+   "baseline": false
+  },
+  {
+   "id": "cloud-foundation",
+   "name": "The Cloud Foundation",
+   "type": "Advocacy and education (Pryor Mountain herd)",
+   "states": [
+    "CO",
+    "MT",
+    "WY"
+   ],
+   "summary": "Colorado Springs nonprofit founded by Ginger Kathrens, known for the Cloud documentaries. Launched a Pryor Mountain Range Study in June 2026 with Dr. J. Boone Kauffman. Executive director: Kerry Ferguson. Its 'Born to Be Wild' gala is Oct 24, 2026.",
+   "website": "https://www.thecloudfoundation.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/201740623",
+   "financials": "ProPublica, FY2023: revenue $484,155; expenses $348,552; assets $581,450.",
+   "latest": {
+    "date": "2026-10-24",
+    "text": "'Born to Be Wild' gala at Flying W Ranch, Colorado Springs (event notice on its site).",
+    "url": "https://www.thecloudfoundation.org/"
+   },
+   "key_people": [
+    "Ginger Kathrens (founder)",
+    "Kerry Ferguson (executive director)"
+   ],
+   "places": [
+    {
+     "name": "Pryor Mountain Wild Horse Range",
+     "lat": 45.0,
+     "lon": -108.3,
+     "approx": true
+    }
+   ],
+   "confidence": "High.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "pryor-center",
+   "name": "Pryor Mountain Wild Mustang Center",
+   "type": "Education center and sanctuary support",
+   "states": [
+    "WY",
+    "MT"
+   ],
+   "summary": "501(c)(3) in Lovell, Wyoming focused on the Pryor Mountain herd. BLM began a bait-trap gather on the Pryor Mountain range on Oct 19, 2026.",
+   "website": "https://pryormustangs.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/830325020",
+   "financials": "ProPublica, FY2023: revenue $134,911; expenses $117,322; assets $477,854.",
+   "latest": null,
+   "latest_note": "No dated news item opened on its site.",
+   "places": [
+    {
+     "name": "Lovell WY",
+     "lat": 44.84,
+     "lon": -108.39,
+     "approx": true
+    },
+    {
+     "name": "Pryor Mountain Wild Horse Range",
+     "lat": 45.0,
+     "lon": -108.3,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. Its statements on the 2026 gather were not found.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "strawberry-mtn",
+   "name": "Strawberry Mountain Mustangs",
+   "type": "Rescue and adoption",
+   "states": [
+    "OR"
+   ],
+   "summary": "Roseburg, Oregon rescue for mustangs and burros.",
+   "website": "https://strawberrymountainmustangs.com/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/810668011",
+   "financials": "ProPublica, FY2023: revenue $33,590; expenses $37,862; assets $168,127.",
+   "latest": null,
+   "latest_note": "No dated news item opened.",
+   "places": [
+    {
+     "name": "Roseburg OR",
+     "lat": 43.22,
+     "lon": -123.34,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. Small group; the site loads but no news confirmed.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "wild-burro-rescue",
+   "name": "Wild Burro Rescue and Preservation Project (site shows Peaceful Valley Donkey Rescue)",
+   "type": "Burro and donkey rescue",
+   "states": [
+    "AZ"
+   ],
+   "summary": "Benson, Arizona burro and donkey rescue. BLM's Arizona burro estimate is 13,546 (Mar 1, 2026), the most of any state.",
+   "website": "https://wildburrorescue.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/943168144",
+   "financials": "ProPublica, FY2023: revenue $82,948; expenses $73,880; assets $157,197.",
+   "latest": null,
+   "latest_note": "No dated news item opened.",
+   "places": [
+    {
+     "name": "Benson AZ",
+     "lat": 31.97,
+     "lon": -110.29,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. The website names Peaceful Valley Donkey Rescue; I matched it to this EIN on location, not on a stated link.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "kiger-mesteno",
+   "name": "Kiger Mesteño Association",
+   "type": "Breed registry (Kiger mustangs)",
+   "states": [
+    "OR"
+   ],
+   "summary": "Site loads. Registry and association for Kiger mustangs, which come from Oregon BLM herds such as Riddle Mountain (the Kiger herd). Not an advocacy group.",
+   "website": "https://kigermustangs.org/",
+   "nonprofit_check_url": null,
+   "latest": null,
+   "latest_note": "No news opened. No EIN found, so no nonprofit check link.",
+   "places": [],
+   "confidence": "Low to medium. No tax record found.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "carter-reservoir-mustangs",
+   "name": "Carter Reservoir Mustangs Inc",
+   "type": "Local advocacy and litigation",
+   "states": [
+    "CA",
+    "OR"
+   ],
+   "summary": "Plaintiff with Wild Horse Education in the case that won a preliminary injunction on Jul 7, 2026 blocking BLM gathers at Carter Reservoir, Buckhorn and Coppersmith (470, 273 and 113 horses). Per WHE, BLM is appealing to the Ninth Circuit.",
+   "website": "https://www.carterreservoirmustangs.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/473415397",
+   "financials": "ProPublica (Carter Reservoir Mustangs Inc, Richland OR), FY2023: revenue $89,921; expenses $12,362; assets $84,084. A different entity, 810983410 in WA, shares a similar name.",
+   "latest": {
+    "date": "2026-07-08",
+    "text": "Judge William Shubb (E.D. Cal.) granted a preliminary injunction on Jul 7 blocking the September gathers. Counsel: Greenfire Law.",
+    "url": "https://wildhorseeducation.org/2026/07/08/breaking-federal-court-halts-blm-roundup-of-carter-reservoir-buckhorn-and-coppersmith-wild-horses/"
+   },
+   "places": [
+    {
+     "name": "Carter Reservoir HMA",
+     "lat": 41.6,
+     "lon": -120.3,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. EIN match to the plaintiff is probable.",
+   "x": {
+    "handle": "@CarterMustangs",
+    "url": "https://x.com/CarterMustangs",
+    "verified_from": "Linked from carterreservoirmustangs.org; checked 2026-10-24",
+    "followers": 41,
+    "last_post_date": "2026-08-07"
+   },
+   "baseline": false
+  },
+  {
+   "id": "salt-river-whmg",
+   "name": "Salt River Wild Horse Management Group",
+   "type": "Local herd management (fertility control)",
+   "states": [
+    "AZ"
+   ],
+   "summary": "Arizona group led by president Simone Netherlands. Its Aug 18, 2026 release says Governor Hobbs suspended removals and adoptions of Salt River horses until 2028 via a contract amendment with the Arizona Department of Agriculture, raising the herd target from 120 to 170 and funding a genetic study. The herd is 267 horses; it claims about 1,050 births prevented since 2020.",
+   "website": "https://saltriverwildhorsemanagementgroup.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/465280587",
+   "financials": "ProPublica, FY2023: revenue $918,760; expenses $613,578; assets $776,607.",
+   "latest": {
+    "date": "2026-08-18",
+    "text": "Release commending Gov. Hobbs for suspending removals until 2028 (the group's own account).",
+    "url": "https://saltriverwildhorsemanagementgroup.org/for-immediate-release-salt-river-wild-horse-management-group-commends-governor-hobbs-action-to-suspend-removals-of-salt-river-wild-horses-until-2028/"
+   },
+   "key_people": [
+    "Simone Netherlands (president)"
+   ],
+   "places": [
+    {
+     "name": "Salt River herd, Tonto National Forest AZ",
+     "lat": 33.55,
+     "lon": -111.65,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. Governor's action not checked against the governor's own page (search result only). Salt River horses are a state and Forest Service issue, not BLM. The homepage blocked curl; read through WebFetch.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "awhc",
+   "name": "American Wild Horse Conservation (formerly American Wild Horse Campaign)",
+   "type": "National advocacy and litigation",
+   "states": [
+    "WY",
+    "NV",
+    "CA",
+    "OR",
+    "UT"
+   ],
+   "summary": "Largest wild-horse-only advocacy group in this file. Plaintiff in AWHC v. Raby, where the Tenth Circuit on Jul 15, 2025 reversed BLM's Rock Springs checkerboard plan. Its X feed tracks the fall 2026 roundups.",
+   "website": "https://www.americanwildhorse.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/474016989",
+   "financials": "ProPublica, FY2023: revenue $4,178,550; expenses $3,431,686; assets $6,494,191.",
+   "latest": {
+    "date": "2026-10-18",
+    "text": "X post: roundups continue (Sulphur, Red Desert with 1,035 targeted, North Complex).",
+    "url": "https://x.com/FreeWildHorses"
+   },
+   "places": [],
+   "confidence": "High on identity. X profile still shows the old domain americanwildhorsecampaign.org.",
+   "x": {
+    "handle": "@FreeWildHorses",
+    "url": "https://x.com/FreeWildHorses",
+    "verified_from": "Linked from americanwildhorse.org; profile checked 2026-10-24",
+    "followers": 23314,
+    "last_post_date": "2026-10-22"
+   },
+   "baseline": false
+  },
+  {
+   "id": "whe",
+   "name": "Wild Horse Education",
+   "type": "Field observation and litigation",
+   "states": [
+    "NV",
+    "WY",
+    "CA",
+    "OR",
+    "UT",
+    "CO"
+   ],
+   "summary": "Nevada-based group that observes roundups, files suits and publishes daily field reports. Its Mar 18, 2026 review calls BLM's population report 'a political tool'. Its Oct 20, 2026 post says BLM expects a rewrite of program rules, a draft by year end.",
+   "website": "https://wildhorseeducation.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/452507000",
+   "financials": "ProPublica, FY2023: revenue $238,739; expenses $211,135; assets $127,020.",
+   "latest": {
+    "date": "2026-10-20",
+    "text": "'Roundups (October 20, 2026)': Riddle emergency gather, Pryor bait trap, North Complex day 4, Red Desert Stewart Creek done with 287 captured and 7 dead, USDA $30M, planned rule rewrite.",
+    "url": "https://wildhorseeducation.org/2026/10/20/roundups-october-20-2026/"
+   },
+   "key_people": [
+    "Laura Leigh (author of its posts)"
+   ],
+   "places": [],
+   "confidence": "High. Its posts are advocacy and are marked that way.",
+   "x": {
+    "handle": "@WildHorseEdu",
+    "url": "https://x.com/WildHorseEdu",
+    "verified_from": "Linked from wildhorseeducation.org; profile checked 2026-10-24",
+    "followers": 7909,
+    "last_post_date": "2026-07-18"
+   },
+   "baseline": false
+  },
+  {
+   "id": "foa",
+   "name": "Friends of Animals",
+   "type": "National advocacy and litigation",
+   "states": [
+    "WY"
+   ],
+   "summary": "Connecticut group that sues over Wyoming checkerboard removals. It welcomed BLM's March 2026 delay and said it would challenge any new plan (per WyoFile).",
+   "website": "https://friendsofanimals.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/136018549",
+   "financials": "ProPublica, FY2024: revenue $5,520,218; expenses $4,556,669; assets $13,938,141.",
+   "latest": {
+    "date": "2026-03-19",
+    "text": "WyoFile: BLM delays the Wyoming checkerboard removal to about October 2026. Older than 90 days.",
+    "url": "https://wyofile.com/wild-horse-wipeout-in-wyomings-checkerboard-delayed-until-october-due-to-funding-staffing-legal-woes/"
+   },
+   "places": [],
+   "confidence": "Medium. The site blocks curl with a 403; the X handle and profile were confirmed. Wyoming plan status after Mar 2026 is not confirmed.",
+   "x": {
+    "handle": "@FoAorg",
+    "url": "https://x.com/FoAorg",
+    "verified_from": "Profile URL friendsofanimals.org; checked 2026-10-24",
+    "followers": 2265,
+    "last_post_date": "2026-10-23"
+   },
+   "baseline": false
+  },
+  {
+   "id": "awi",
+   "name": "Animal Welfare Institute",
+   "type": "National advocacy (policy, fertility control)",
+   "states": [
+    "DC"
+   ],
+   "summary": "Washington, DC group that funds and promotes PZP fertility control. On Sept 24, 2026 it welcomed BLM's $30 million fertility-control announcement but called it vague and noted only 921 treatments in FY2025 against about 14,000 equines targeted for removal in FY2026.",
+   "website": "https://awionline.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/135655952",
+   "financials": "ProPublica, FY2024: revenue $7,972,836; expenses $7,216,776; assets $28,192,619.",
+   "latest": {
+    "date": "2026-09-24",
+    "text": "Release: 'Federal Investment in Wild Horse Fertility Control is Welcome, If Vague'. Cites 91 House members and 19 senators who wrote for more vaccine funding. Dr. Joanna Grossman is equine program director.",
+    "url": "https://awionline.org/news/federal-investment-in-wild-horse-fertility-control-is-welcome-if-vague/"
+   },
+   "key_people": [
+    "Dr. Joanna Grossman (equine program director)"
+   ],
+   "places": [],
+   "confidence": "High. Read via WebFetch because curl gets a 403.",
+   "x": {
+    "handle": "@AWIOnline",
+    "url": "https://x.com/AWIOnline",
+    "verified_from": "Profile URL awionline.org; checked 2026-10-24",
+    "followers": 13381,
+    "last_post_date": "2026-10-23"
+   },
+   "baseline": false
+  },
+  {
+   "id": "ida",
+   "name": "In Defense of Animals",
+   "type": "National advocacy",
+   "states": [
+    "CA"
+   ],
+   "summary": "California animal rights group that runs a wild horse and burro campaign. No 2026 horse item was opened.",
+   "website": "https://www.idausa.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/680008936",
+   "financials": "ProPublica, FY2023: revenue $3,903,333; expenses $2,943,460; assets $9,086,842.",
+   "latest": null,
+   "latest_note": "X is active (Oct 24) but I did not confirm any horse item.",
+   "places": [],
+   "confidence": "Medium on topic relevance.",
+   "x": {
+    "handle": "@IDAUSA",
+    "url": "https://x.com/IDAUSA",
+    "verified_from": "Profile URL idausa.org; checked 2026-10-24",
+    "followers": 30487,
+    "last_post_date": "2026-10-24"
+   },
+   "baseline": false
+  },
+  {
+   "id": "humane-world",
+   "name": "Humane World for Animals (formerly Humane Society of the United States)",
+   "type": "National advocacy",
+   "states": [
+    "DC"
+   ],
+   "summary": "Large national group. Wild horse work not confirmed in this pass; included for scale.",
+   "website": "https://humaneworld.org/en",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/530225390",
+   "financials": "ProPublica, FY2023: revenue $174,968,233; expenses $177,657,489; assets $454,727,590.",
+   "latest": null,
+   "latest_note": "No horse item opened.",
+   "places": [],
+   "confidence": "Low on topic relevance.",
+   "x": {
+    "handle": "@humaneworldorg",
+    "url": "https://x.com/humaneworldorg",
+    "verified_from": "Linked from the site; checked 2026-10-24",
+    "followers": 734462,
+    "last_post_date": "2026-10-23"
+   },
+   "baseline": false
+  },
+  {
+   "id": "owho",
+   "name": "Oregon Wild Horse Organization",
+   "type": "Local advocacy and litigation",
+   "states": [
+    "OR"
+   ],
+   "summary": "Drain, Oregon group. Plaintiff in the Riddle Mountain case. Theresa Barbour is its contact on the Oct 16 release.",
+   "website": "https://owho.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/882678261",
+   "financials": "ProPublica: no financials posted (ruled 2022).",
+   "latest": {
+    "date": "2026-10-16",
+    "text": "Judge Immergut granted a preliminary injunction on Oct 15 in the Riddle Mountain roundup case (joint release with WWP and COWHC).",
+    "url": "https://www.westernwatersheds.org/2026/10/judge-issues-injunction-blocking-riddle-mountain-wild-horse-roundup-in-victory-for-science-based-management/"
+   },
+   "key_people": [
+    "Theresa Barbour (contact)"
+   ],
+   "places": [
+    {
+     "name": "Riddle Mountain HMA OR",
+     "lat": 43.0,
+     "lon": -118.7,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium. Site loads but its page title is empty.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "cowhc",
+   "name": "Central Oregon Wild Horse Coalition",
+   "type": "Local advocacy and litigation",
+   "states": [
+    "OR"
+   ],
+   "summary": "Prineville, Oregon group. Plaintiff in the Riddle Mountain case.",
+   "website": "https://cowildhorse.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/460516013",
+   "financials": "ProPublica: no financials posted (ruled 2003).",
+   "latest": {
+    "date": "2026-10-16",
+    "text": "Co-plaintiff named in the Riddle Mountain injunction release.",
+    "url": "https://www.westernwatersheds.org/2026/10/judge-issues-injunction-blocking-riddle-mountain-wild-horse-roundup-in-victory-for-science-based-management/"
+   },
+   "places": [
+    {
+     "name": "Riddle Mountain HMA OR",
+     "lat": 43.0,
+     "lon": -118.7,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "wwp",
+   "name": "Western Watersheds Project",
+   "type": "Range conservation and litigation",
+   "states": [
+    "ID",
+    "OR",
+    "NV",
+    "UT",
+    "WY",
+    "AZ",
+    "CA"
+   ],
+   "summary": "Idaho-based group that challenges livestock grazing and also joined the Riddle Mountain wild horse case, arguing for science-based management. Its recent posts also cover sage grouse, Owyhee grazing and public lands bills.",
+   "website": "https://www.westernwatersheds.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/943202140",
+   "financials": "ProPublica, FY2023: revenue $1,705,061; expenses $1,557,029; assets $764,278.",
+   "latest": {
+    "date": "2026-10-16",
+    "text": "Release: judge issues injunction blocking the Riddle Mountain roundup; the court left 278 horses on the range; the Bald Mountain Fire burned about half of the HMA (AML 33 to 56).",
+    "url": "https://www.westernwatersheds.org/2026/10/judge-issues-injunction-blocking-riddle-mountain-wild-horse-roundup-in-victory-for-science-based-management/"
+   },
+   "places": [
+    {
+     "name": "Riddle Mountain HMA OR",
+     "lat": 43.0,
+     "lon": -118.7,
+     "approx": true
+    }
+   ],
+   "confidence": "High. WWP's general aim is less grazing; its horse stance is narrower than horse advocates'.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "science-conservation-center",
+   "name": "Science and Conservation Center (PZP program)",
+   "type": "Science (PZP vaccine)",
+   "states": [
+    "MT"
+   ],
+   "summary": "Billings, Montana lab that makes the PZP vaccine used on Pryor Mountain and other herds.",
+   "website": "https://sccpzp.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/810539631",
+   "financials": "ProPublica, FY2023: revenue $460,940.",
+   "latest": null,
+   "latest_note": "No news opened.",
+   "places": [
+    {
+     "name": "Billings MT",
+     "lat": 45.78,
+     "lon": -108.5,
+     "approx": true
+    }
+   ],
+   "confidence": "Medium.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "mustang-heritage",
+   "name": "Mustang Heritage Foundation",
+   "type": "Adoption and training partner of BLM",
+   "states": [
+    "TX",
+    "NM",
+    "CO",
+    "UT",
+    "NV"
+   ],
+   "summary": "Works with BLM on adoption and training events (Extreme Mustang Makeover).",
+   "website": "https://mustangheritagefoundation.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/880512149",
+   "financials": "ProPublica, FY2023: revenue $5,225,643; expenses $4,812,816; assets $3,288,791.",
+   "latest": null,
+   "latest_note": "No news opened. No X handle found (guessed @MustangHeritage not valid).",
+   "places": [],
+   "confidence": "Medium.",
+   "x": null,
+   "baseline": false
+  },
+  {
+   "id": "plc",
+   "name": "Public Lands Council",
+   "type": "Grazing industry association (opposing viewpoint)",
+   "states": [
+    "WY",
+    "MT",
+    "NV",
+    "OR",
+    "ID",
+    "UT"
+   ],
+   "summary": "National livestock grazing trade group (501(c)(6)). Its X posts in June and July 2026 praise Interior's proposed grazing rule changes. Useful as the industry side of range disputes.",
+   "website": "https://publiclandscouncil.org/",
+   "nonprofit_check_url": "https://projects.propublica.org/nonprofits/organizations/840583125",
+   "financials": "ProPublica, FY2023 revenue $970,879 (501(c)(6)).",
+   "latest": {
+    "date": "2026-07-24",
+    "text": "Last X post found, in the grazing rule thread.",
+    "url": "https://x.com/PLCranching"
+   },
+   "places": [],
+   "confidence": "Medium.",
+   "x": {
+    "handle": "@PLCranching",
+    "url": "https://x.com/PLCranching",
+    "verified_from": "Linked from publiclandscouncil.org; checked 2026-10-24",
+    "followers": 1382,
+    "last_post_date": "2026-07-24"
+   },
+   "baseline": false
+  },
+  {
+   "id": "blm-whb",
+   "name": "BLM Wild Horse and Burro Program",
+   "type": "Public agency",
+   "states": [
+    "AZ",
+    "CA",
+    "CO",
+    "ID",
+    "MT",
+    "NV",
+    "NM",
+    "OR",
+    "UT",
+    "WY"
+   ],
+   "summary": "Federal program under the Wild Free-Roaming Horses and Burros Act. Runs gathers, fertility control, adoption, sale and off-range holding. Gather pages list daily totals and deaths.",
+   "website": "https://www.blm.gov/programs/wild-horse-and-burro",
+   "nonprofit_check_url": null,
+   "latest": {
+    "date": "2026-10-23",
+    "text": "Red Desert Complex totals as of Oct 23: 666 gathered, 508 shipped, 11 deaths.",
+    "url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/wyoming/2026-red-desert-complex"
+   },
+   "places": [
+    {
+     "name": "Wheatland WY facility",
+     "lat": 42.05,
+     "lon": -104.95,
+     "approx": true
+    },
+    {
+     "name": "Litchfield corrals CA",
+     "lat": 40.4,
+     "lon": -120.4,
+     "approx": true
+    }
+   ],
+   "confidence": "High. Government agency, so no nonprofit check. The page fetches with curl (not always with other tools).",
+   "x": {
+    "handle": "@BLMNational",
+    "url": "https://x.com/BLMNational",
+    "verified_from": "Linked from the BLM program page; checked 2026-10-24",
+    "followers": 59610,
+    "last_post_date": "2026-10-23",
+    "note": "Agency-wide account; its latest posts were not about horses."
+   },
+   "baseline": false
+  }
+ ],
+ "x_related": [
+  {
+   "handle": "@mpickens",
+   "url": "https://x.com/mpickens",
+   "relation": "Madeleine Pickens, linked from mustangmonument.com; 6,426 followers; last post 2019 (stale).",
+   "org": "mustang-monument"
+  },
+  {
+   "handle": "@SusieCoen",
+   "url": "https://x.com/SusieCoen",
+   "relation": "Reporter named in @skydogsanctuary posts about the Times (UK) article. Handle taken from the post text; profile not looked up.",
+   "org": "skydog"
+  }
+ ],
+ "developments": [
+  {
+   "date": "2026-10-24",
+   "text": "The Cloud Foundation holds its 'Born to Be Wild' gala in Colorado Springs.",
+   "source_name": "The Cloud Foundation",
+   "source_url": "https://www.thecloudfoundation.org/",
+   "kind": "advocacy claim",
+   "related": [
+    "cloud-foundation"
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "text": "BLM's Red Desert Complex page reports 666 horses gathered, 508 shipped and 11 deaths as of Oct 23. The plan is about 1,035 removals this fall. BLM labels the deaths pre-existing or chronic.",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/wyoming/2026-red-desert-complex",
+   "kind": "official",
+   "related": [
+    "blm-whb",
+    "save-red-desert",
+    "rtf",
+    "awhc",
+    "whe"
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "text": "Return to Freedom posts that more than 650 horses have been captured and seven killed in south central Wyoming. Seven matches WHE's Oct 20 count; BLM's Oct 23 count is 11.",
+   "source_name": "Return to Freedom on X",
+   "source_url": "https://x.com/ReturnToFreedom",
+   "kind": "advocacy claim",
+   "related": [
+    "rtf",
+    "whe"
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "text": "Skydog Ranch posts say a Times (UK) report found horses sold at a BLM event in Hugo, Oklahoma ('Bowie 41') mostly went to Mexico. I did not open the article.",
+   "source_name": "Skydog on X",
+   "source_url": "https://x.com/skydogsanctuary",
+   "kind": "unconfirmed",
+   "related": [
+    "skydog",
+    "blm-whb"
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "text": "BLM concludes the North Complex gather in Washoe County, Nevada (first there since 2012): 323 horses gathered, 322 shipped. Estimate 424 against AML 101 to 157; target was about 320.",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/nevada/2026-north-complex-wild",
+   "kind": "official",
+   "related": [
+    "blm-whb",
+    "whe",
+    "awhc"
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "text": "Santa Barbara News-Press feature on Return to Freedom, reposted by the group: about 400 horses and 50 burros in care, costs above $240,000 a month, push for the SAFE Act.",
+   "source_name": "Return to Freedom",
+   "source_url": "https://returntofreedom.org/lompoc-based-nonprofit-fighting-to-protect-wild-horses-from-being-shipped-to-slaughter/",
+   "kind": "advocacy claim",
+   "related": [
+    "rtf"
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "text": "BLM concludes the emergency Riddle Mountain gather in Oregon. BLM reports a 12-year-old mare euthanized for a fractured leg. Court order allowed up to 140 horses of a herd of about 418, leaving 278 on the range.",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/oregon-washington/2026-riddle",
+   "kind": "official",
+   "related": [
+    "blm-whb",
+    "wwp",
+    "owho",
+    "cowhc"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "text": "OPB reports BLM began capturing about 140 Riddle Mountain horses after the Bald Mountain Fire. BLM's Oct 19 release calls it an emergency rescue after a delay caused by a restraining order.",
+   "source_name": "OPB",
+   "source_url": "https://www.opb.org/article/2026/10/20/judge-limits-blm-wild-horse-capture-southeastern-oregon/",
+   "kind": "independent reporting",
+   "related": [
+    "blm-whb",
+    "owho",
+    "cowhc",
+    "wwp"
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "text": "WHE says BLM's Karen Budd-Falen announced rewrites of the Wild Horse and Burro rules, with a draft for public comment expected before year end. Also says $30M USDA plus $11M in the Interior budget will come with no guardrails.",
+   "source_name": "Wild Horse Education",
+   "source_url": "https://wildhorseeducation.org/2026/10/20/roundups-october-20-2026/",
+   "kind": "advocacy claim",
+   "related": [
+    "whe",
+    "blm-whb"
+   ]
+  },
+  {
+   "date": "2026-10-19",
+   "text": "BLM begins a bait-trap gather on the Pryor Mountain Wild Horse Range, Montana: about 100 to be gathered, up to 37 removed, others treated with fertility control and released. BLM estimate is 187 horses against AML 107 to 120. (WHE says 185.)",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/montana-dakotas/2026-pryor",
+   "kind": "official",
+   "related": [
+    "blm-whb",
+    "cloud-foundation",
+    "pryor-center",
+    "whe"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "text": "BLM concludes the Sulphur gather in western Utah (about 300 planned; AML 165 to 250). Daily totals are on the BLM page; I did not total them. A search summary gave 259 gathered and 2 deaths.",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/utah/2026-sulphur-wild-horse-gather",
+   "kind": "official",
+   "related": [
+    "blm-whb",
+    "awhc"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "text": "A federal judge (D. Or., Karin Immergut) grants a preliminary injunction against the full Riddle Mountain roundup, in a suit by OWHO, COWHC and Western Watersheds Project.",
+   "source_name": "Western Watersheds Project",
+   "source_url": "https://www.westernwatersheds.org/2026/10/judge-issues-injunction-blocking-riddle-mountain-wild-horse-roundup-in-victory-for-science-based-management/",
+   "kind": "advocacy claim",
+   "related": [
+    "wwp",
+    "owho",
+    "cowhc"
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "text": "BLM announces the Red Desert Complex gather in Wyoming: about 1,035 horses this fall (about 1,800 over time). Estimate 2,278 against AML 480 to 720. Horses go to Wheatland.",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/announcement/blm-initiates-actions-sustain-long-term-health-red-desert-wild-horse-herd",
+   "kind": "official",
+   "related": [
+    "blm-whb",
+    "save-red-desert",
+    "awhc",
+    "whe",
+    "rtf"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "text": "Ninth Circuit appeal 26-6528 docketed in the American Prairie grazing permit case. Opening brief due Nov 2; answering brief due Nov 30.",
+   "source_name": "Justia docket",
+   "source_url": "https://dockets.justia.com/docket/circuit-courts/ca9/26-6528",
+   "kind": "independent reporting",
+   "related": [
+    "american-prairie"
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "text": "WHE says the Congressional Wild Horse Caucus has asked GAO to audit the BLM sale program, and that the Pancake Complex case (NV) is in final briefing.",
+   "source_name": "Wild Horse Education",
+   "source_url": "https://wildhorseeducation.org/2026/10/05/pancake-complex-where-the-legal-battle-stands/",
+   "kind": "advocacy claim",
+   "related": [
+    "whe"
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "text": "Sand Wash Basin gather (Colorado) concludes: about 245 removed, 55 released (22 mares treated with fertility control), no deaths. Estimate 505 against AML 163 to 362.",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/colorado-2026-sand-wash-basin",
+   "kind": "official",
+   "related": [
+    "blm-whb"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "text": "AWI calls BLM's $30M fertility-control plan welcome but vague. It notes 921 treatments in FY2025 versus about 14,000 equines targeted for removal in FY2026.",
+   "source_name": "Animal Welfare Institute",
+   "source_url": "https://awionline.org/news/federal-investment-in-wild-horse-fertility-control-is-welcome-if-vague/",
+   "kind": "advocacy claim",
+   "related": [
+    "awi"
+   ]
+  },
+  {
+   "date": "2026-09-21",
+   "text": "BLM announces a $30 million USDA investment to expand fertility control, and a national roundtable. Details such as vaccine type and herds were not given.",
+   "source_name": "BLM",
+   "source_url": "https://www.blm.gov/press-release/blm-delivers-call-more-wild-horse-fertility-control-30-million-usda-investment-and",
+   "kind": "official",
+   "related": [
+    "blm-whb",
+    "awi",
+    "whe"
+   ]
+  },
+  {
+   "date": "2026-09-04",
+   "text": "Judge Brian Morris (D. Mont.) grants a preliminary injunction for three American Prairie allotments (Telegraph Creek, Box Elder, Whiterock) after BLM revoked six bison grazing permits on May 8.",
+   "source_name": "American Prairie",
+   "source_url": "https://americanprairie.org/the-latest/federal-court-blocks-blm-order-to-remove-american-prairie-bison-from-public-lands/",
+   "kind": "advocacy claim",
+   "related": [
+    "american-prairie"
+   ]
+  },
+  {
+   "date": "2026-08-20",
+   "text": "NYT (Dave Philipps; Seattle Times copy): BLM sales more than doubled to about 3,700 in 2025. One Ohio buyer got about 500 horses at $25 each. BLM did not answer questions and says it does not sell to slaughter. Skydog's Clare Staples is quoted.",
+   "source_name": "The Seattle Times (NYT)",
+   "source_url": "https://www.seattletimes.com/nation-world/under-trump-protected-wild-horses-are-going-to-slaughter/",
+   "kind": "independent reporting",
+   "related": [
+    "blm-whb",
+    "skydog",
+    "rtf"
+   ]
+  },
+  {
+   "date": "2026-08-18",
+   "text": "Salt River Wild Horse Management Group says Gov. Hobbs suspended removals and adoptions of Salt River horses until 2028, raising the herd target from 120 to 170.",
+   "source_name": "Salt River Wild Horse Management Group",
+   "source_url": "https://saltriverwildhorsemanagementgroup.org/for-immediate-release-salt-river-wild-horse-management-group-commends-governor-hobbs-action-to-suspend-removals-of-salt-river-wild-horses-until-2028/",
+   "kind": "advocacy claim",
+   "related": [
+    "salt-river-whmg"
+   ]
+  },
+  {
+   "date": "2026-08-06",
+   "text": "Return to Freedom welcomes BLM's new sale terms: the bill of sale bars 'recklessly or negligently' selling for slaughter. BLM's sales page now shows fees starting at $125 per animal (it was $25).",
+   "source_name": "Return to Freedom; BLM sales page",
+   "source_url": "https://returntofreedom.org/improved-wild-horse-sale-policy-a-win-for-painstaking-advocacy/",
+   "kind": "advocacy claim",
+   "related": [
+    "rtf",
+    "blm-whb"
+   ]
+  },
+  {
+   "date": "2026-08-04",
+   "text": "American Prairie sues in D. Mont. (4:26-cv-00282) over the permit revocations.",
+   "source_name": "American Prairie",
+   "source_url": "https://americanprairie.org/the-latest/american-prairie-asks-federal-court-to-halt-unprecedented-revocation-of-bison-grazing-permits/",
+   "kind": "advocacy claim",
+   "related": [
+    "american-prairie"
+   ]
+  },
+  {
+   "date": "2026-07-08",
+   "text": "Judge William Shubb (E.D. Cal.) granted a preliminary injunction on Jul 7 blocking BLM gathers at Carter Reservoir, Buckhorn and Coppersmith (470, 273, 113 horses). WHE says BLM is appealing to the Ninth Circuit.",
+   "source_name": "Wild Horse Education",
+   "source_url": "https://wildhorseeducation.org/2026/07/08/breaking-federal-court-halts-blm-roundup-of-carter-reservoir-buckhorn-and-coppersmith-wild-horses/",
+   "kind": "advocacy claim",
+   "related": [
+    "carter-reservoir-mustangs",
+    "whe"
+   ]
+  },
+  {
+   "date": "2026-05-08",
+   "text": "BLM revokes six American Prairie bison grazing permits. Older than 90 days; included as context.",
+   "source_name": "American Prairie",
+   "source_url": "https://americanprairie.org/the-latest/american-prairie-condemns-blm-decision-revoking-bison-grazing-permits/",
+   "kind": "advocacy claim",
+   "related": [
+    "american-prairie"
+   ]
+  },
+  {
+   "date": "2026-03-19",
+   "text": "WyoFile: BLM delays Wyoming checkerboard removals (Rock Springs) to about October 2026 after the Tenth Circuit's Jul 15, 2025 ruling (No. 24-8055). Older than 90 days.",
+   "source_name": "WyoFile",
+   "source_url": "https://wyofile.com/wild-horse-wipeout-in-wyomings-checkerboard-delayed-until-october-due-to-funding-staffing-legal-woes/",
+   "kind": "independent reporting",
+   "related": [
+    "foa",
+    "awhc"
+   ]
+  },
+  {
+   "date": "2026-03-18",
+   "text": "WHE says BLM's 2026 population report is 'a political tool': it counts 70,092 as excess using the low AML total of 15,374. Older than 90 days.",
+   "source_name": "Wild Horse Education",
+   "source_url": "https://wildhorseeducation.org/2026/03/18/blms-2026-population-statistics-report-a-political-tool-not-a-science-document/",
+   "kind": "advocacy claim",
+   "related": [
+    "whe",
+    "blm-whb"
+   ]
+  }
+ ],
+ "watch_sources": [
+  {
+   "name": "BLM press releases",
+   "url": "https://www.blm.gov/press-release",
+   "how": "HTML list page, loads (HTTP 200). A guessed RSS path (/press-releases/rss.xml) returned 404. No RSS confirmed."
+  },
+  {
+   "name": "BLM gather pages (Red Desert, North Complex, Pryor, Riddle)",
+   "url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/wyoming",
+   "how": "HTML state pages (also /colorado, /nevada), HTTP 200; the gathers-and-removals index itself returned 404. Daily totals and deaths. Fetches with curl."
+  },
+  {
+   "name": "BLM Program Data",
+   "url": "https://www.blm.gov/programs/wild-horse-and-burro/about-the-program/program-data",
+   "how": "HTML table; updated each spring and monthly for holding."
+  },
+  {
+   "name": "Wild Horse Education feed",
+   "url": "https://wildhorseeducation.org/feed/",
+   "how": "RSS tested: HTTP 200, valid RSS items dated through Oct 20, 2026."
+  },
+  {
+   "name": "Western Watersheds Project feed",
+   "url": "https://www.westernwatersheds.org/feed/",
+   "how": "RSS tested: HTTP 200, items through Oct 22, 2026 (not only horse topics)."
+  },
+  {
+   "name": "American Prairie feed",
+   "url": "https://americanprairie.org/feed/",
+   "how": "RSS tested: HTTP 200, items through Sep 4, 2026 (includes podcasts)."
+  },
+  {
+   "name": "WyoFile feed",
+   "url": "https://wyofile.com/feed/",
+   "how": "RSS tested: HTTP 200 (all Wyoming news; filter for horses)."
+  },
+  {
+   "name": "Return to Freedom news",
+   "url": "https://returntofreedom.org/category/in-the-news/",
+   "how": "HTML. The /feed/ path returned a web page, not RSS, so no RSS confirmed."
+  },
+  {
+   "name": "@ReturnToFreedom, @FreeWildHorses, @skydogsanctuary, @WildCorp on X",
+   "url": "https://x.com/FreeWildHorses",
+   "how": "Readable through the x connector (user posts lookup); no login scraping."
+  },
+  {
+   "name": "@BLMNational on X",
+   "url": "https://x.com/BLMNational",
+   "how": "x connector; posts rarely about horses."
+  },
+  {
+   "name": "Justia Ninth Circuit docket 26-6528",
+   "url": "https://dockets.justia.com/docket/circuit-courts/ca9/26-6528",
+   "how": "HTML; check for new filings after Nov 2."
+  },
+  {
+   "name": "AWI news",
+   "url": "https://awionline.org/news/federal-investment-in-wild-horse-fertility-control-is-welcome-if-vague/",
+   "how": "Site blocks curl (403) on its news list; an article page was readable with WebFetch."
+  }
+ ],
+ "notes": [
+  "Updated 2026-10-24. 'kind' values: official (BLM or a court docket), advocacy claim (an interested group's own statement), independent reporting, unconfirmed.",
+  "Greenfire Law (Berkeley CA; Jessica Blome, Rachel Doughty) is counsel in the Riddle Mountain and Carter Reservoir cases per the pages I opened. It is a law firm, so it is not listed as an organization.",
+  "Not in the final list because the site did not load or the entity did not check out: Donkeyland, Wild Horse Spirit, Life Savers, Wild Horse Observers, Wild Horse Preservation League, Hidden Valley, Spirit of the Wild Horse, Montana Wild Horse, Front Range Equine Rescue (Virginia).",
+  "Not opened, so left out of developments: Roll Call report that the House FY2027 Interior bill (H.R. 9171) has $144M for the program; the SAFE Act status; Idaho Challis gather (226 horses).",
+  "The Salt River horses are managed by Arizona and the Forest Service, not BLM.",
+  "Death counts are BLM's own categories. WHE (Oct 20) gave 7 Red Desert deaths and RTF's Oct 23 post says seven; BLM's daily rows add to 11 by Oct 23.",
+  "ProPublica financials lag: FY2023 or FY2024 is the latest posted. All coordinates are approximate."
+ ]
+}
