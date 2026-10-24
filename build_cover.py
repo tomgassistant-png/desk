@@ -194,7 +194,11 @@ def main():
         elif todays:
             lines.append(f'<li><b>{e(s["name"])}</b> <a href="../digest/{s["id"]}/#{e(todays[0]["id"])}">{e(todays[0]["headline"])}</a></li>')
         else:
-            lines.append(f'<li class="quiet"><b>{e(s["name"])}</b> <a href="../digest/{s["id"]}/">Nothing new today</a></li>')
+            prev = sorted((i for i in items if i["section"] == s["id"]), key=lambda i: i["edition"], reverse=True)
+            if prev:
+                lines.append(f'<li class="quiet"><b>{e(s["name"])}</b> <a href="../digest/{s["id"]}/#{e(prev[0]["id"])}">{e(prev[0]["headline"])}</a> <span class="srcs">(latest, {e(long_date(prev[0]["edition"]))})</span></li>')
+            else:
+                lines.append(f'<li class="quiet"><b>{e(s["name"])}</b> <a href="../digest/{s["id"]}/">Nothing yet</a></li>')
 
     # cover: top story of each section in today's edition
     seen, top = set(), []
@@ -202,12 +206,39 @@ def main():
         if i["edition"] == newest and i["section"] not in seen:
             seen.add(i["section"]); top.append(i)
     body = "".join(f'<p class="sec">{e(names[i["section"]])}</p>' + story(i, newest, "h2", "../") for i in top)
+    # one search index over every section: digest sections, Judea and Samaria, Yemen
+    sidx = []
+    for i in items:
+        srcs = i.get("sources") or []
+        sn_ = " ".join(x.get("name", "") for x in srcs if isinstance(x, dict))
+        sidx.append({"headline": i["headline"], "summary": (i.get("lead") or i["text"])[:400], "source": sn_, "section_name": names[i["section"]],
+                     "edition": i["edition"], "date_long": long_date(i["edition"]), "url": f'../digest/{i["section"]}/#{i["id"]}'})
+    for it in load("search-index.json", {}).get("items", []):
+        sidx.append({"headline": it["headline"], "summary": it.get("summary", "")[:400], "source": it.get("source", ""), "section_name": "Judea & Samaria · " + it.get("section_name", ""),
+                     "edition": it["edition"], "date_long": long_date(it["edition"]), "url": f'../#{it["id"]}'})
+    for y_ in load("yemen/items.json", {}).get("editions", []):
+        for it in y_.get("items", []):
+            sidx.append({"headline": it["headline"], "summary": it.get("text", "")[:400], "source": "", "section_name": "Yemen", "edition": y_["date"],
+                         "date_long": long_date(y_["date"]), "url": "../yemen/"})
+    write(os.path.join(ROOT, "cover/search-index.json"), json.dumps({"built": now.isoformat(), "count": len(sidx), "items": sidx}, ensure_ascii=False))
+    srch = ('<form class="search" id="csearch" role="search" onsubmit="return false" style="margin:10px 0"><input type="search" id="cq" placeholder="Search every section" aria-label="Search every section" autocomplete="off" style="width:70%;max-width:420px;padding:6px 8px;font-size:15px"> '
+            '<button type="button" id="cclear">Clear</button></form><section id="cresults" hidden aria-live="polite"></section>'
+            """<script>(function(){var q=document.getElementById('cq'),r=document.getElementById('cresults'),idx=null,pend=false;if(!q||!window.fetch)return;
+function esc(s){return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+function load(){if(idx||pend)return;pend=true;fetch('search-index.json',{cache:'no-cache'}).then(function(x){return x.json()}).then(function(d){idx=d.items.map(function(it){it._t=[it.headline,it.summary,it.source,it.section_name,it.edition,it.date_long].join(' ').toLowerCase();return it});run()}).catch(function(){r.hidden=false;r.innerHTML='<p>The search index could not be loaded.</p>'})}
+function run(){var v=q.value.trim().toLowerCase();if(!v){r.hidden=true;r.innerHTML='';document.querySelector('.cov-grid').style.display='';return}
+document.querySelector('.cov-grid').style.display='none';r.hidden=false;if(!idx){r.innerHTML='<p>Searching…</p>';load();return}
+var w=v.split(/\\s+/),m=idx.filter(function(it){return w.every(function(x){return it._t.indexOf(x)>=0})});
+var h='<h2 class="edn">'+m.length+' result'+(m.length==1?'':'s')+' for “'+esc(q.value.trim())+'”</h2>';
+m.slice(0,200).forEach(function(it){h+='<article class="story"><p class="sec">'+esc(it.section_name)+' · '+esc(it.date_long)+'</p><h3><a href="'+esc(it.url)+'">'+esc(it.headline)+'</a></h3><p class="summary">'+esc(it.summary)+'</p></article>'});r.innerHTML=h}
+q.addEventListener('focus',load);q.addEventListener('input',run);document.getElementById('cclear').addEventListener('click',function(){q.value='';run();q.focus()});
+q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()}});})();</script>""")
     cover = (head("Tom's Cover — " + long_date(newest)) + sitenav.nav("cover", "../") +
              f'<header class="masthead"><h1>Tom\'s Cover</h1><p class="dateline">{e(weekday_date(now.date()))} · Digest edition of {e(long_date(newest))}</p></header>'
-             + (f'<p class="summary"><i>{e(ed["intro"])}</i></p>' if ed.get("intro") else "") +
+             + srch + (f'<p class="summary"><i>{e(ed["intro"])}</i></p>' if ed.get("intro") else "") +
              f'<div class="cov-grid"><main><h2 class="edn">Top stories</h2>{body}'
              + (f'<p class="srcs">{e(ed["quiet"])}</p>' if ed.get("quiet") else "") +
-             f'</main><aside class="rail">{weather_html(d)}<h2 class="edn">New today, by section</h2><ul class="cov-list">{"".join(lines)}</ul></aside></div>'
+             f'</main><aside class="rail">{weather_html(d)}<h2 class="edn">Latest by section</h2><ul class="cov-list">{"".join(lines)}</ul></aside></div>'
              f'<p class="srcs">Built {e(now.strftime("%Y-%m-%d %H:%M"))} Israel time from the daily research digest.</p></div><script>{JS}</script></body></html>')
     write(os.path.join(ROOT, "cover/index.html"), cover)
 
