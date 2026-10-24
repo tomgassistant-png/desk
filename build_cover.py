@@ -51,7 +51,9 @@ def story(it, newest, h="h3", root="../../"):
     url = it["sources"][0]["url"] if it.get("sources") else "#"
     srcs = " · ".join(f'<a href="{e(s["url"])}" rel="noopener" target="_blank">{e(s["name"])}</a>' for s in it.get("sources", []))
     return (f'<article class="story{" new" if new else ""}" id="{e(it["id"])}"><{h}><a href="{e(url)}" rel="noopener" target="_blank">{tag}{e(it["headline"])}</a></{h}>'
-            + photo(it, root) + f'<p class="summary">{e(it["text"])}</p><p class="meta srcs">{e(long_date(it["edition"]))} edition · {srcs}</p></article>')
+            + photo(it, root) + f'<p class="summary">{e(it["text"])}</p>' + ("".join(f'<p class="summary">{e(x)}</p>' for x in it.get("body", [])) if h != "h2" else "")
+            + (('<details class="more"><summary><b>More: the rest of the session</b></summary>' + "".join(f'<p class="summary">{e(x)}</p>' for x in it["more"]) + '</details>') if it.get("more") and h != "h2" else "")
+            + f'<p class="meta srcs">{e(long_date(it["edition"]))} edition · {srcs}</p></article>')
 
 def write(path, html):
     os.makedirs(os.path.dirname(path), exist_ok=True)
