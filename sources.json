@@ -900,6 +900,48 @@
    "url": "https://www.pcpsr.org/",
    "group": "Research and think tanks",
    "note": "Palestinian Center for Policy and Survey Research; Khalil Shikaki polls"
+  },
+  {
+   "name": "Joe Truzman (@JoeTruzman)",
+   "url": "https://x.com/JoeTruzman",
+   "group": "X accounts",
+   "note": "Pro-Israel researcher (HonestReporting, ex-FDD Long War Journal); tracks Palestinian armed groups in the West Bank"
+  },
+  {
+   "name": "Amir Bohbot (@amirbohbot)",
+   "url": "https://x.com/amirbohbot",
+   "group": "X accounts",
+   "note": "Walla military correspondent and analyst (mainstream); IDF operations and deployments"
+  },
+  {
+   "name": "Elisha Ben Kimon (@elishabenkimon)",
+   "url": "https://x.com/elishabenkimon",
+   "group": "X accounts",
+   "note": "Ynet/Yedioth military correspondent, formerly on the settlements beat; Hebrew"
+  },
+  {
+   "name": "Jeremy Sharon (@jeremysharon)",
+   "url": "https://x.com/jeremysharon",
+   "group": "X accounts",
+   "note": "Times of Israel legal affairs and settlements reporter (centrist); court rulings, land orders, outposts"
+  },
+  {
+   "name": "Peace Now (@peacenowisrael)",
+   "url": "https://x.com/peacenowisrael",
+   "group": "X accounts",
+   "note": "Anti-settlement group's English account; Hebrew posts at @PeaceNowIL"
+  },
+  {
+   "name": "Palestinian Information Center (@PalinfoAr)",
+   "url": "https://x.com/PalinfoAr",
+   "group": "Palestinian and Arab media",
+   "note": "Hamas-aligned Arabic outlet; fast reports on raids, clashes and Hamas messaging in the West Bank"
+  },
+  {
+   "name": "ACLED (@ACLEDINFO)",
+   "url": "https://x.com/ACLEDINFO",
+   "group": "Research and think tanks",
+   "note": "International conflict-event data group; West Bank violence counts and trend reports"
   }
  ]
 }
