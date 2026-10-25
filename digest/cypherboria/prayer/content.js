@@ -108,9 +108,9 @@ window.PRAYER_DATA={
     "Sit with this slowly. You did not begin your own life, and you did not begin your own salvation. The hand that holds you is older than your fear. Let the mind rest in the fact that you are known, and that you were known before you knew anything."
    ],
    "prayer": [
-    "Eternal God, before the world was made you set your love upon a people in Christ. I did not earn it and I cannot lose it by my own weakness. Teach me to receive what you have given.",
-    "Quiet the voice in me that says I must make myself worthy. Let me stand in your choice and not in my effort. Make me holy and without blame in love, as you have said, because you are faithful to finish what you have begun.",
-    "To the praise of your glorious grace I give this hour. Amen."
+    "God, you are holy, and everything good begins with you. Before the world was made, you chose a people in Christ and set your love on them. The choice was yours, not mine, and I praise you for it.",
+    "Let your will be done in me, and not my need to prove myself. I have tried to earn what you gave freely, and I have been afraid of losing it. Forgive me for that, and help me stand in your choice instead of my own effort.",
+    "Give me what I need for today, and make me holy and without blame in love, as you said. You will finish what you began. All the glory is yours, now and always. Amen."
    ],
    "conf": {
     "src": "Westminster Confession of Faith, ch. 3, sec. 5 (Westminster Assembly, 1640s)",
@@ -183,9 +183,9 @@ window.PRAYER_DATA={
     "Name the things that frighten you tonight, one by one. Death, life, things present, things to come. Place each one beside the last verse and read it again: none of them shall be able to separate us from the love of God."
    ],
    "prayer": [
-    "Father, I bring you my fear without hiding any of it. You know its name and its size. You have said that all things work together for good to them that love you, and I ask you to make me believe it in the hours when I cannot see it.",
-    "Hold me as you held those who came before me. When my grip fails, let yours remain. Let me rest in a love that does not depend on my strength.",
-    "In the name of Christ our Lord I pray. Amen."
+    "Father, you are for us, and you gave up your own Son for us all. Nothing in heaven or on earth is stronger than your love, and I praise you for it.",
+    "Do what you have purposed, even where I can’t see it. I bring you my fear without hiding any of it. Forgive me for the times I doubted your love because my own grip was weak.",
+    "Today, hold me when I can’t hold on, and help me believe that all things work together for good to them that love God. The glory is yours for ever. Amen."
    ],
    "conf": {
     "src": "Heidelberg Catechism, Question 1 (1563)",
@@ -254,9 +254,9 @@ window.PRAYER_DATA={
     "Do not hurry to settle every question. Let the passage humble you before it informs you. The confession says this teaching is to be handled with care, so that it brings praise, reverence, humility and consolation."
    ],
    "prayer": [
-    "Lord, I am clay, and you are the potter. I do not understand all your ways, and I will not pretend that I do. Give me reverence in place of argument, and trust in place of fear.",
-    "Show me mercy as you have said you will show mercy to whom you will. Let me be a vessel prepared unto glory, and let my life show the riches of that glory.",
-    "Keep me from using this teaching to judge another. Let it make me humble and thankful. Amen."
+    "Lord, you are the potter and I am the clay. You are wise and just in everything you do, and I honor your name.",
+    "Your will is higher than my understanding. Forgive me for arguing with you, and for the times I looked down on someone else as if I had made myself. Have mercy on me, as you have said you will have mercy on whom you will.",
+    "Give me reverence in place of argument and trust in place of fear. Make my life a vessel that shows your glory, and keep me humble and thankful. Amen."
    ],
    "conf": {
     "src": "Westminster Confession of Faith, ch. 3, sec. 8 (Westminster Assembly, 1640s)",
@@ -354,9 +354,9 @@ window.PRAYER_DATA={
     "Notice what God does next. He walks in the garden and calls: Where art thou? The question is not asked because God lacks knowledge. It is the sound of a Father seeking the lost. In the last verses of the reading, he makes garments of skins and clothes them."
    ],
    "prayer": [
-    "God of the garden, I have hidden from you, as they did. I have covered myself with excuses and called it wisdom. Call my name again, and give me the courage to answer.",
-    "Clothe me with what you provide, since what I make for myself will not cover me. Turn me from the way that is closed, and set my face toward the one who is the way.",
-    "Hear me, for the sake of your Son. Amen."
+    "God of the garden, you walked in the cool of the day to find the ones who hid from you. You are holy and patient, and I praise you.",
+    "Let your will be done, not my excuses. I have covered myself with them and called it wisdom. Forgive me, and call my name again.",
+    "Clothe me with what you provide, and turn my face toward the one who is the way. The glory and the mercy are yours. Amen."
    ],
    "conf": {
     "src": "Westminster Shorter Catechism, Question 20 (Westminster Assembly, 1640s)",
@@ -427,9 +427,9 @@ window.PRAYER_DATA={
     "Treasure in earthen vessels: the knowledge is real, and the vessel is weak. Let both be true tonight."
    ],
    "prayer": [
-    "Father of lights, I cannot lift this veil by my own hand. You who said, Let there be light, say it again within me.",
-    "Show me the glory of God in the face of Jesus Christ. Where I am blind, open my eyes. Where I am weak, remind me that the power is yours and not mine.",
-    "While I look not at the things which are seen, but at the things which are not seen, renew my inward man day by day. Amen."
+    "Father of lights, you said, “Let there be light,” and there was light. I praise you for the light that comes from you alone.",
+    "Do your will in me, because I can’t lift this veil with my own hands. Forgive me for the times I chose to stay in the dark.",
+    "Say it again within me. Show me the glory of God in the face of Jesus Christ, and renew me day by day. The power and the glory are yours. Amen."
    ]
   },
   {
@@ -506,9 +506,9 @@ window.PRAYER_DATA={
     "Let your eyes close and keep the word light before you. It comes without force. It does not argue with the darkness. It shines, and the darkness cannot take it. Rest in the quiet certainty of that."
    ],
    "prayer": [
-    "Eternal Word, you were with God and you were God. All things were made by you. You came to your own, and you were not received, and yet to those who received you, you gave power to become the sons of God.",
-    "Be the light in the dark rooms of my mind. Let me see, and let me be seen. Make me one who is born not of the will of the flesh, nor of the will of man, but of God.",
-    "Dwell among us still, full of grace and truth. Amen."
+    "Eternal Word, you were with God and you were God, and everything was made through you. I praise you, because “the light shineth in darkness; and the darkness comprehended it not.”",
+    "Do what you will in me. I have been slow to receive you, as your own people were. Forgive me, and make me a child born not of my own will but of God.",
+    "Be the light in the dark rooms of my mind today, and stay with us, full of grace and truth. The glory is yours. Amen."
    ]
   },
   {
@@ -569,9 +569,9 @@ window.PRAYER_DATA={
     "The next verses are honest. If we say we have no sin, we deceive ourselves. If we confess our sins, he is faithful and just to forgive. Light does not shame us for the sake of shame. It shows us so that we may be cleansed."
    ],
    "prayer": [
-    "God who is light, I come into your light without a disguise. Show me what is there, and do not let me look away from it.",
-    "I confess what I know and what I do not know. Cleanse me by the blood of Jesus Christ your Son. Let our fellowship be with the Father and with the Son, and let my joy be full.",
-    "Amen."
+    "God, you are light, and in you there is no darkness at all. I praise you that I can come to you without a disguise.",
+    "Let your will be clear to me, even when it shows me what I would rather not see. I confess what I know and what I don’t know. Forgive me and cleanse me through Jesus Christ your Son.",
+    "Help me walk in the light today, and keep faith with you and with others. Let my joy be full, and let the glory be yours. Amen."
    ]
   },
   {
@@ -620,9 +620,9 @@ window.PRAYER_DATA={
     "The passage gives the reason: God hath revealed them unto us by his Spirit. The Spirit searcheth all things, even the deep things of God. To know God is a gift of the Spirit, and it is given that we may know the things that are freely given to us of God."
    ],
    "prayer": [
-    "Spirit of God, you search the deep things of God. Teach me what I cannot learn by my own effort. Give me to know the things that are freely given to me.",
-    "Keep me from the pride of knowing and from the fear of not knowing. Let my knowledge turn into love and my love into obedience.",
-    "In Christ's name. Amen."
+    "Spirit of God, you search the deep things of God. Your wisdom was hidden for ages and is given to us freely. I praise you for it.",
+    "Teach me what I can’t learn by my own effort, and let your will guide me, not my cleverness. Forgive me for the pride of knowing and the fear of not knowing.",
+    "Give me enough understanding to love well today. Let what I know turn into love, and my love into action. All the glory is yours. In Christ’s name. Amen."
    ]
   },
   {
@@ -667,8 +667,9 @@ window.PRAYER_DATA={
     "Pause on the words, thou art with me. The psalm turns from speaking about the Lord to speaking to him at the moment of the dark valley."
    ],
    "prayer": [
-    "Lord, you are my shepherd. Lead me beside the still waters, and restore my soul. When I walk through the valley of the shadow of death, let me fear no evil, because you are with me.",
-    "Let goodness and mercy follow me all the days of my life, and let me dwell in your house for ever. Amen."
+    "Lord, you are my shepherd. You are good, and I praise your name.",
+    "Lead me where you will, beside the still waters, and restore my soul. Forgive me for the ways I have wandered. Though I walk through the valley of the shadow of death, I will fear no evil, for you are with me.",
+    "Give me what I need today. Let “goodness and mercy” follow me all the days of my life, and let me live in your house for ever. The glory is yours. Amen."
    ]
   },
   {
@@ -733,8 +734,9 @@ window.PRAYER_DATA={
     "In the midst of the noise comes one command: Be still, and know that I am God. Say it slowly, and take away a word each time you breathe out, until only the last two remain: Be still."
    ],
    "prayer": [
-    "God our refuge and strength, be near to me in trouble. Though the waters roar and the mountains shake, keep my heart quiet.",
-    "Teach me to be still, and to know that you are God. Let the Lord of hosts be with us, and the God of Jacob our refuge. Amen."
+    "God, you are our refuge and strength, “a very present help in trouble.” I praise you.",
+    "Your will is done when the waters roar and the mountains shake. Forgive me for the times I trusted my own plans instead of you.",
+    "Today, quiet my heart, and teach me to “be still, and know that I am God.” The Lord of hosts is with us, and the glory is his. Amen."
    ]
   },
   {
@@ -816,8 +818,9 @@ window.PRAYER_DATA={
     "Even the darkness hideth not from thee. For one who has tried to hide, this is hard news. For one who is tired of hiding, it is the end of a long labor."
    ],
    "prayer": [
-    "O Lord, thou hast searched me and known me. I cannot flee from thy presence, and I no longer wish to.",
-    "Search me, O God, and know my heart. Try me, and know my thoughts. See if there be any wicked way in me, and lead me in the way everlasting. Amen."
+    "“O LORD, thou hast searched me, and known me.” I praise you, because there is nowhere I could go where you are not, and I no longer want to hide.",
+    "Do your will in me, even where it means looking at what I would rather not see. Forgive me for anything in me that is wrong.",
+    "Today, “search me, O God, and know my heart: try me, and know my thoughts,” and lead me in the way everlasting. The glory is yours. Amen."
    ]
   },
   {
@@ -870,7 +873,9 @@ window.PRAYER_DATA={
     "He that keepeth thee will not slumber. Let that line carry you into rest. You may sleep because another does not."
    ],
    "prayer": [
-    "Lord, my help comes from you, who made heaven and earth. Keep my foot from being moved. Keep my going out and my coming in, from this time forth and for evermore. Amen."
+    "Lord, you made heaven and earth, and my help comes from you. I praise you.",
+    "Let your will be done in my going out and my coming in. Forgive me where I have trusted anything else to keep me.",
+    "Keep my foot from being moved today, “from this time forth, and even for evermore.” The glory is yours. Amen."
    ]
   },
   {
@@ -923,8 +928,9 @@ window.PRAYER_DATA={
     "Give back the day to the one who gave it. Name what went well, then name what went badly, and set them both down."
    ],
    "prayer": [
-    "Lord, keep me tonight. Forgive me what I did not do well, and keep me in what I did well, so that I do not make it my pride.",
-    "Lift up the light of thy countenance upon me. Thou only makest me dwell in safety. I lay me down in peace. Amen."
+    "Lord, you are good, and you give peace to those who trust you. I praise you at the end of this day.",
+    "Let your will be done tonight in what I could not finish. Forgive me what I did poorly, and keep me in what I did well, so that I don’t make it my pride.",
+    "Give me rest tonight. “I will both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.” The glory is yours. Amen."
    ]
   },
   {
@@ -986,8 +992,9 @@ window.PRAYER_DATA={
     "Lift up your hands in the dark, even if only in the mind. Let the night be a place of blessing, not only of rest."
    ],
    "prayer": [
-    "Lord, I keep this watch for a little while. Bless me out of Zion, you who made heaven and earth.",
-    "I will say of the Lord, he is my refuge and my fortress, and in him will I trust. Cover me under thy shadow tonight. Amen."
+    "Lord, you made heaven and earth, and you are worth blessing at any hour. I keep this watch to praise you.",
+    "Your will is done while I sleep and while I wake. Forgive me for anything I am carrying from today that I should have put down.",
+    "Cover me tonight. “I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.” The glory is his, now and always. Amen."
    ]
   },
   {
@@ -1042,8 +1049,9 @@ window.PRAYER_DATA={
     "Take these one at a time and leave a minute of silence after each. Do not argue with what you see. The reading says that if we confess our sins, he is faithful and just to forgive us. That promise is what makes honest looking possible."
    ],
    "prayer": [
-    "Search me, O God, and know my heart. Show me the day as you saw it. Where I was kind, let me give thanks. Where I was careless or unkind, let me see it plainly.",
-    "I confess it, and I ask your forgiveness for the sake of Christ. Cleanse me from all unrighteousness, and give me a clean beginning tomorrow. Amen."
+    "God, you see all of my day, and you are kind. I praise you for your patience with me.",
+    "I want your will for tomorrow, not only my own plans. Show me the day as you saw it. Where I was kind, I give thanks. Where I was careless or unkind, I see it plainly and confess it. Forgive me for the sake of Christ.",
+    "Give me a clean start tomorrow, and cleanse me from “all unrighteousness.” The glory is yours. Amen."
    ],
    "conf": {
     "src": "John Calvin, Institutes of the Christian Religion, 1.1.1 (Beveridge translation, 1845)",
@@ -1125,8 +1133,9 @@ window.PRAYER_DATA={
     "Then the cry, O wretched man that I am, and the answer in the next breath: I thank God through Jesus Christ our Lord. The chapter that follows begins with there is therefore now no condemnation. Read these two verses last, and let them stand as the end of the examination."
    ],
    "prayer": [
-    "Lord, I see two laws in me, and I cannot reconcile them by my own will. Deliver me from the body of this death.",
-    "I thank thee through Jesus Christ our Lord. There is now no condemnation to them which are in Christ Jesus. Let the law of the Spirit of life make me free. Amen."
+    "Lord, you are faithful, and you set people free. I praise you, because you do for me what I can’t do for myself.",
+    "I see two laws in me, and I can’t settle them by my own will. Do your will in me, and forgive me for the times I chose against it.",
+    "Give me freedom today. “There is therefore now no condemnation to them which are in Christ Jesus.” I thank you through Jesus Christ our Lord, and the glory is yours. Amen."
    ]
   },
   {
@@ -1179,8 +1188,9 @@ window.PRAYER_DATA={
     "Then the waiting, twice named: more than they that watch for the morning. The watchman knows that morning will come. The psalm does not say when."
    ],
    "prayer": [
-    "Out of the depths I cry to thee, O Lord. Lord, hear my voice. If thou shouldest mark iniquities, who shall stand? But there is forgiveness with thee, that thou mayest be feared.",
-    "I wait for the Lord, my soul doth wait, and in his word do I hope. Let me wait more than they that watch for the morning. Amen."
+    "“Out of the depths have I cried unto thee, O LORD. Lord, hear my voice.” I praise you, because you are the one who forgives.",
+    "I wait for your will, and not for my own timing. “If thou, LORD, shouldest mark iniquities, O Lord, who shall stand? But there is forgiveness with thee.” Forgive me, and hold me.",
+    "Today, give me hope in your word, and let my soul wait “more than they that watch for the morning.” The glory and the mercy are yours. Amen."
    ]
   },
   {
@@ -1225,8 +1235,9 @@ window.PRAYER_DATA={
     "The turn comes late and is small: But I have trusted in thy mercy. It is not a solution. It is a place to stand while the question remains open."
    ],
    "prayer": [
-    "How long, O Lord? Wilt thou forget me for ever? Consider and hear me, O Lord my God. Lighten mine eyes, lest I sleep the sleep of death.",
-    "I have trusted in thy mercy. My heart shall rejoice in thy salvation. Amen."
+    "Lord, I don’t understand your timing, but I know you are good. I praise you, even in the waiting.",
+    "“How long, O LORD? wilt thou forget me for ever?” Your will is not mine, and I want to trust it. Forgive me for the times I assumed you had left.",
+    "Give me light today: “Lighten mine eyes, lest I sleep the sleep of death.” I have trusted in your mercy, and “my heart shall rejoice in thy salvation.” The glory is yours. Amen."
    ]
   },
   {
@@ -1279,8 +1290,9 @@ window.PRAYER_DATA={
     "Then he says: This I recall to my mind, therefore have I hope. The hope does not come from the facts around him. It comes from what he recalls of God: his mercies are new every morning, great is thy faithfulness."
    ],
    "prayer": [
-    "Lord, my soul hath them still in remembrance. I do not hide my grief from thee. Yet this I recall to my mind, and therefore I have hope: it is of thy mercies that we are not consumed, because thy compassions fail not.",
-    "Let me hope and quietly wait for the salvation of the Lord. Amen."
+    "Lord, “it is of the LORD’s mercies that we are not consumed, because his compassions fail not. They are new every morning: great is thy faithfulness.” I praise you.",
+    "I don’t hide my grief from you. Let your will be done, even in this. Forgive me for the despair that forgot your mercy.",
+    "Give me hope today, and help me to “quietly wait for the salvation of the LORD.” The glory is yours. Amen."
    ]
   },
   {
@@ -1357,8 +1369,9 @@ window.PRAYER_DATA={
     "Go through your own list of benefits. Do not rush it. Gratitude is easier to feel when it has particular things to rest upon."
    ],
    "prayer": [
-    "Bless the Lord, O my soul, and all that is within me, bless his holy name. Let me not forget all his benefits.",
-    "As far as the east is from the west, so far hast thou removed our transgressions from us. Thou knowest our frame, and rememberest that we are dust. I give thee thanks. Amen."
+    "“Bless the LORD, O my soul: and all that is within me, bless his holy name.” You are worth praising, and I don’t want to forget your gifts.",
+    "Do your will in me. “As far as the east is from the west, so far hath he removed our transgressions from us.” Thank you for forgiving me.",
+    "Give me a grateful heart today. You know that we are dust, and you remember it with kindness. The glory is yours. Amen."
    ],
    "conf": {
     "src": "Westminster Shorter Catechism, Question 1 (Westminster Assembly, 1640s)",
@@ -1420,8 +1433,9 @@ window.PRAYER_DATA={
     "In everything give thanks is not a feeling to be forced. It is a way of attending to what is given."
    ],
    "prayer": [
-    "Lord, we are thy people and the sheep of thy pasture. I enter thy gates with thanksgiving, and thy courts with praise.",
-    "For thou art good, thy mercy is everlasting, and thy truth endureth to all generations. Amen."
+    "“Make a joyful noise unto the LORD.” You are good, and your mercy lasts for ever. I come into your courts with thanks and praise.",
+    "We are your people and the sheep of your pasture, and your will is good. Forgive me for the days I forgot to be thankful.",
+    "Today, let me serve you gladly. “His truth endureth to all generations.” The glory is yours. Amen."
    ]
   }
  ],
