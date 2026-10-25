@@ -164,6 +164,18 @@ def render_timestamped(b, secid, slug, names):
         write(os.path.join(ROOT, f"digest/{secid}/{slug}/transcript/index.html"), "".join(t))
 
 
+def calvin_line(di):
+    try:
+        raw = open(os.path.join(ROOT, "digest/cypherboria/prayer/inst.js"), encoding="utf-8").read()
+        C = json.loads(raw[raw.index("["):raw.rindex("]") + 1])
+        c = C[di % len(C)]
+        return ('<p style="margin:10px 0 0;font-size:16px;font-style:italic">' + e(c["t"]) + '</p>'
+                '<p class="srcs" style="margin:2px 0 0">' + e(c["ref"]) + ' (Beveridge translation, 1845)</p>')
+    except Exception as ex:
+        print("calvin line failed:", ex)
+        return ""
+
+
 def prayer_box():
     """Today's prayer from the Veil and Light app (digest/cypherboria/prayer/content.js, owned by Tomji; read only).
     Same pick as the app's own 'Today' session: non-night sessions, indexed by days since 1970 on the Israel date."""
@@ -188,6 +200,7 @@ def prayer_box():
             f'<h2 style="margin:0 0 6px;font-size:22px">{e(s["title"])}</h2>'
             + reads
             + '<div style="margin-top:8px">' + "".join(f'<p style="margin:6px 0;font-size:17px">{e(x)}</p>' for x in s["prayer"]) + '</div>'
+            + calvin_line(di)
             + '<p class="srcs" style="margin:8px 0 0"><a href="prayer/">Open the full session in Veil and Light (scripture, meditation, prayer, closing) →</a></p>'
             '</section>')
 

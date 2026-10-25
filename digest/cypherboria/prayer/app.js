@@ -65,6 +65,7 @@ function homeView(){
   h('section',{class:'card hero'},h('p',{class:'eyebrow',text:'Today · '+new Date().toLocaleDateString(undefined,{weekday:'long',month:'long',day:'numeric'})}),h('h1',{text:s.title}),h('p',{class:'lede',style:'margin:0 auto 16px',text:catName[s.cat]+' · '+s.min+' minutes · '+s.read.map(function(p){return p.ref}).join(', ')}),
    h('div',{class:'row center'},h('a',{class:'btn',href:'#/daily'},'Begin today’s prayer'),h('a',{class:'btn ghost',href:'#/silence'},'Watch the order'))),
   h('section',{class:'card'},h('p',{class:'eyebrow',text:'Verse of the day'}),passageEl(v),numNote(v)),
+  (window.CALVIN&&window.CALVIN.length)?h('section',{class:'card'},h('p',{class:'eyebrow',text:'From the Institutes today'}),h('blockquote',{class:'mvverse',style:'max-width:none;margin:6px 0'},h('p',{text:window.CALVIN[dayIndex()%window.CALVIN.length].t}),h('span',{class:'src',text:window.CALVIN[dayIndex()%window.CALVIN.length].ref+' (Beveridge translation, 1845)'}))):null,
   night?h('section',{class:'card'},h('p',{class:'eyebrow',text:'For the evening'}),h('h3',{text:night.title}),h('p',{class:'muted',text:'A short prayer for the end of the day, with dimmed text.'}),h('a',{class:'btn ghost small',href:'#/session/'+night.id,onclick:function(){store.set('night',true);applyNight()}},'Begin night prayer')):null);
  var right=h('div',{},
   h('section',{class:'card'},h('div',{class:'stats'},h('div',{class:'stat'},h('b',{text:String(st)}),h('span',{text:st===1?'day streak':'day streak'})),h('div',{class:'stat'},h('b',{text:String(store.get('sessions',0)||0)}),h('span',{text:'sessions'})),h('div',{class:'stat'},h('b',{text:String(store.get('minutes',0)||0)}),h('span',{text:'minutes'}))),h('p',{class:'muted',style:'margin:12px 0 0;text-align:center',text:'Kept only on this device. No account and no tracking.'})),
@@ -116,7 +117,8 @@ var MOVES=[
   {ref:'Isaiah 46:10',t:'Declaring the end from the beginning, and from ancient times the things that are not yet done.'},
   {ref:'2 Peter 3:8',t:'One day is with the Lord as a thousand years, and a thousand years as one day.'},
   {ref:'Psalm 90:4',t:'For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.'},
-  {ref:'Revelation 1:8',t:'I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.'}]},
+  {ref:'Revelation 1:8',t:'I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.'},
+  {ref:'John Calvin, Institutes of the Christian Religion 3.21.5 (Beveridge translation, 1845)',src:'cal',t:'When we attribute prescience to God, we mean that all things always were, and ever continue, under his eye; that to his knowledge there is no past or future, but all things are present, and indeed so present, that it is not merely the idea of them that is before him (as those objects are which we retain in our memory), but that he truly sees and contemplates them as actually under his immediate inspection.'}]},
  {k:'The hand you cannot see',share:.20,text:'The order holds, and the one who holds it is hidden. Stay with that without trying to resolve it.',verses:[
   {ref:'Romans 11:36',t:'For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.'},
   {ref:'Job 38:36',t:'Who hath put wisdom in the inward parts? or who hath given understanding to the heart?'},
@@ -160,7 +162,7 @@ function silenceView(){
   state.c=[.1+.2*q,.3+.6*q,.92,.92,.92][mi];state.fade=[.14,.12,.012,.05,.07][mi];state.speed=mi===4?(1-.6*q):1;state.alpha=mi===4?(.85-.45*q):.85;
   if(mi!==lastMv){if(lastMv>=0)bell(.28);lastMv=mi;lastV=-1;mvTitle.textContent=(mi+1)+'. '+m.k;mvText.textContent=words?m.text:'';mvText.hidden=!words||!!m.silent&&false;mvVerse.textContent='';mvVerse.hidden=true;
    if(m.silent){ctx.fillStyle='#0a0b10'}}
-  if(m.verses.length&&words){var vi=Math.min(m.verses.length-1,Math.floor(q*m.verses.length));if(vi!==lastV){lastV=vi;var v=m.verses[vi];mvVerse.textContent='';mvVerse.appendChild(h('p',{text:v.t}));mvVerse.appendChild(h('span',{class:'src',text:v.ref+' (King James Version)'}));mvVerse.hidden=false}}}
+  if(m.verses.length&&words){var vi=Math.min(m.verses.length-1,Math.floor(q*m.verses.length));if(vi!==lastV){lastV=vi;var v=m.verses[vi];mvVerse.textContent='';mvVerse.appendChild(h('p',{text:v.t}));mvVerse.appendChild(h('span',{class:'src',text:v.src==='cal'?v.ref:v.ref+' (King James Version)'}));mvVerse.hidden=false}}}
  function tick(){if(paused)return;var now=Date.now();remain=end-now;clock.textContent=fmt(remain);
   var total=dur*60000,el=Math.min(total,total-remain),f=el/total,acc=0,mi=0,q=0;
   for(var i=0;i<MOVES.length;i++){if(f<acc+MOVES[i].share||i===MOVES.length-1){mi=i;q=Math.min(1,Math.max(0,(f-acc)/MOVES[i].share));break}acc+=MOVES[i].share}
@@ -180,7 +182,7 @@ function silenceView(){
 function sourcesView(){
  var li=function(a,b){return h('li',{},a,b?h('span',{class:'muted',text:' '+b}):null)};
  return h('div',{class:'reader'},h('h1',{text:'Texts and sources'}),h('p',{class:'lede',text:'All scripture and quoted texts in this app are in the public domain. The meditations, prayers and closings are original writing for this app.'}),
-  h('ul',{},li('The Holy Bible, King James Version (1611, text as in the standard 1769 edition). ','Digital text from Project Gutenberg, ebook 10.'),li('Westminster Confession of Faith, chapter 3 (Westminster Assembly, 1640s). ','Quoted from the standard public-domain text.'),li('Westminster Shorter Catechism, questions 1 and 20 (Westminster Assembly, 1640s).'),li('Heidelberg Catechism, question 1 (1563), in the older public-domain English translation.'),li('John Calvin, Institutes of the Christian Religion, 1.1.1, translated by Henry Beveridge (1845).')),
+  h('ul',{},li('The Holy Bible, King James Version (1611, text as in the standard 1769 edition). ','Digital text from Project Gutenberg, ebook 10.'),li('Westminster Confession of Faith, chapter 3 (Westminster Assembly, 1640s). ','Quoted from the standard public-domain text.'),li('Westminster Shorter Catechism, questions 1 and 20 (Westminster Assembly, 1640s).'),li('Heidelberg Catechism, question 1 (1563), in the older public-domain English translation.'),li('John Calvin, Institutes of the Christian Religion, 1.1.1 and 3.21.5, translated by Henry Beveridge (1845).')),
   h('h2',{text:'Settings'}),
   h('p',{},h('label',{class:'switch'},h('input',{type:'checkbox',checked:store.get('nums',true)!==false,onchange:function(e){store.set('nums',e.target.checked)}}),'Show the optional number notes (speculative)')),
   h('p',{},h('label',{class:'switch'},h('input',{type:'checkbox',checked:!!store.get('night',false),onchange:function(e){store.set('night',e.target.checked);applyNight()}}),'Night mode (dimmed text)')),
