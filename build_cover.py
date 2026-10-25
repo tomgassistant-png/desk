@@ -164,6 +164,34 @@ def render_timestamped(b, secid, slug, names):
         write(os.path.join(ROOT, f"digest/{secid}/{slug}/transcript/index.html"), "".join(t))
 
 
+def prayer_box():
+    """Today's prayer from the Veil and Light app (digest/cypherboria/prayer/content.js, owned by Tomji; read only).
+    Same pick as the app's own 'Today' session: non-night sessions, indexed by days since 1970 on the Israel date."""
+    import re, datetime as _dt
+    try:
+        raw = open(os.path.join(ROOT, "digest/cypherboria/prayer/content.js"), encoding="utf-8").read()
+        D = json.loads(raw[raw.index("{"):raw.rindex("}") + 1])
+        t = datetime.now(TZ).date()
+        di = (t - _dt.date(1970, 1, 1)).days
+        pool = [x for x in D["sessions"] if not x.get("night")]
+        s = pool[di % len(pool)]
+        cat = {c["id"]: c["name"] for c in D["cats"]}.get(s["cat"], "")
+    except Exception as ex:
+        print("prayer box failed:", ex)
+        return ""
+    reads = "".join(
+        '<details style="margin:4px 0"><summary><b>' + e(p["ref"]) + '</b> <span class="srcs">King James Version</span></summary>'
+        + '<p style="margin:6px 0">' + " ".join(f'<sup>{v["n"]}</sup>{e(v["t"])}' for v in p["verses"]) + '</p></details>'
+        for p in s["read"])
+    return ('<section class="todays-prayer" style="background:#f1efe8;border-left:4px solid #8b0000;padding:12px 18px;margin:12px 0">'
+            f'<p class="srcs" style="margin:0 0 2px;text-transform:uppercase;letter-spacing:1px">Today\'s prayer · {e(weekday_date(datetime.combine(t, datetime.min.time())))} · {e(cat)}</p>'
+            f'<h2 style="margin:0 0 6px;font-size:22px">{e(s["title"])}</h2>'
+            + reads
+            + '<div style="margin-top:8px">' + "".join(f'<p style="margin:6px 0;font-size:17px">{e(x)}</p>' for x in s["prayer"]) + '</div>'
+            + '<p class="srcs" style="margin:8px 0 0"><a href="prayer/">Open the full session in Veil and Light (scripture, meditation, prayer, closing) →</a></p>'
+            '</section>')
+
+
 def main():
     d = sitenav.load_digest()
     items = d["items"]
@@ -252,6 +280,7 @@ q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()
             hi = s["header_image"]
             out.append(f'<figure style="margin:0 0 12px"><img src="../../{e(hi["image"])}" alt="{e(hi.get("caption",""))}" style="width:100%;max-height:320px;object-fit:cover;display:block">'
                        f'<figcaption class="srcs">{e(hi.get("caption",""))} · Photo: <a href="{e(hi["image_url"])}" target="_blank" rel="noopener">{e(hi["image_credit"])}</a></figcaption></figure>')
+        if s["id"] == "cypherboria": out.append(prayer_box())
         sidebar = s.get("baseline_placement") == "sidebar"
         if s.get("baseline") and sidebar:
             paras = s["baseline"] if isinstance(s["baseline"], list) else [s["baseline"]]
