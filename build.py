@@ -19,6 +19,13 @@ SECTIONS = OrderedDict([
 REQUIRED = ["id", "edition", "published", "section", "headline", "summary", "source", "date", "url"]
 
 e = lambda s: html.escape(str(s), quote=True)
+import re as _re
+_A = _re.compile(r'&lt;a href=&quot;(https?://[^"&<>\s]+?)&quot;&gt;(.*?)&lt;/a&gt;', _re.S)
+def rich(s):
+    # escape everything, then allow only plain <a href="http..."> links inside summaries
+    return _A.sub(lambda m: '<a href="' + m.group(1) + '" rel="noopener" target="_blank">' + m.group(2) + '</a>', e(s))
+def plain(s):
+    return _re.sub(r'<a href="[^"]*">(.*?)</a>', r'\1', str(s), flags=_re.S)
 
 def long_date(d):
     if isinstance(d, str):
@@ -77,7 +84,7 @@ def tag(it):
 def article(it, cls="story"):
     return (f'<article class="{cls}{nc(it)}" id="{e(it["id"])}">'
             f'<h3><a href="{e(it["url"])}" rel="noopener" target="_blank">{tag(it)}{e(it["headline"])}</a></h3>'
-            f'<p class="summary">{e(it["summary"])}</p>{meta(it)}</article>')
+            f'<p class="summary">{rich(it["summary"])}</p>{meta(it)}</article>')
 
 CSS = r"""
 *{box-sizing:border-box}
@@ -267,7 +274,7 @@ def search_index(data, now):
     items = sorted(data["items"], key=lambda it: (it["date"], it["published"]), reverse=True)
     keys = ["id", "edition", "date", "section", "headline", "summary", "source", "url"]
     return {"built": now.isoformat(timespec="minutes"), "count": len(items),
-            "items": [dict({k: it[k] for k in keys}, section_name=SECTIONS[it["section"]],
+            "items": [dict({k: (plain(it[k]) if k=="summary" else it[k]) for k in keys}, section_name=SECTIONS[it["section"]],
                            date_long=long_date(it["date"]), edition_long=long_date(it["edition"]),
                            new=it["edition"] == newest) for it in items]}
 
@@ -359,7 +366,7 @@ def build(data, now):
     out.append('<div class="layout"><main class="main">')
     out.append(f'<section class="lead{nc(lead)}" id="{e(lead["id"])}"><p class="kicker">{e(SECTIONS[lead["section"]])}</p>'
                f'<h2><a href="{e(lead["url"])}" rel="noopener" target="_blank">{tag(lead)}{e(lead["headline"])}</a></h2>'
-               f'<p class="summary">{e(lead["summary"])}</p>{meta(lead, "Read the source")}</section>')
+               f'<p class="summary">{rich(lead["summary"])}</p>{meta(lead, "Read the source")}</section>')
 
     older = [d for d in editions if d not in front_ed]
     marked, fallback = [], []
@@ -421,7 +428,7 @@ def build(data, now):
         for it in day:
             out.append(f'<article class="story" id="{e(it["id"])}"><p class="sec">{e(SECTIONS[it["section"]])}</p>'
                        f'<h3><a href="{e(it["url"])}" rel="noopener" target="_blank">{e(it["headline"])}</a></h3>'
-                       f'<p class="summary">{e(it["summary"])}</p>{meta(it)}</article>')
+                       f'<p class="summary">{rich(it["summary"])}</p>{meta(it)}</article>')
         out.append('</div></details>')
     out.append('</section>')
     out.append(f'<footer>{e(title)} · {len(items)} items on file · built {now:%d %B %Y, %H:%M} Israel time</footer>')
