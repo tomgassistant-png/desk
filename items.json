@@ -1,7 +1,7 @@
 {
   "title": "Judea & Samaria Desk",
   "subtitle": "The Palestinian Authority, security, settlement and land in Judea and Samaria",
-  "latest_count": 9,
+  "latest_count": 17,
   "items": [
     {
       "id": "2026-10-18-taybeh-evidence",
@@ -2852,6 +2852,173 @@
           "lat": 32.035,
           "lon": 35.265,
           "note": "Approximate"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-smotrich-hebron-demolitions-four-farms",
+      "edition": "2026-10-25",
+      "published": "2026-10-25T05:00:00+02:00",
+      "letter": "PA security: 25 Oct 2026",
+      "section": "land",
+      "headline": "After the Hebron attack, Smotrich orders demolitions of dozens of unpermitted structures near the site and approves four more farms in the southern Hebron Hills",
+      "summary": "Hours after Friday's attack near Hebron that killed two soldiers, Civil Administration enforcement teams began demolishing structures near the scene that the state says were built illegally. Arutz 7 (English) reports that Minister Bezalel Smotrich, who is in charge of settlement and civil matters in the Defense Ministry, came to the site and ordered the work. His office said dozens of structures would be demolished in coordination with the army and the Civil Administration. Smotrich said the aim was to \"establish deterrence and exact a price,\" that the work would continue until Shabbat, and that he had agreed with the prime minister and defense minister to map the area and other locations in Judea and Samaria to widen the effort. He also announced approval of four more farms in the southern Hebron Hills and said he would work to approve four new Israeli communities. The same account is in a <a href=\"https://www.israelnationalnews.com/news/435067\">second Arutz 7 report</a>, and <a href=\"https://www.ynetnews.com/article/lxm4mzqwn\">Ynetnews</a> carries the headline \"Smotrich announces establishment of 4 outposts.\" The Palestinian news agency <a href=\"https://english.wafa.ps/Pages/Details/176204\">WAFA</a> reported separately that on Friday Israeli forces demolished a three-apartment residential building belonging to Riyad Amrish in northern Hebron and sealed the city's entrances. This is the Palestinian account of the same events. On Saturday, Elisha Yered wrote on X that bulldozers worked in Hebron on both Friday and Saturday (his own report, not confirmed by a second source). At the scene, Central Command chief Maj. Gen. Avi Blut said the soldiers' bravery prevented a severe attack on civilians and announced a significant operation with a closure of Hebron and Halhul (<a href=\"https://www.inn.co.il/news/709195\">Arutz 7, Hebrew</a>). The council's separate announcement of two communities and six farms in the Hebron Hills is in another item in this edition.",
+      "source": "Arutz 7 (English)",
+      "date": "2026-10-23",
+      "url": "https://www.israelnationalnews.com/news/435069",
+      "places": [
+        {
+          "name": "Hebron (northern outskirts, near the attack site)",
+          "lat": 31.5289,
+          "lon": 35.0945,
+          "note": "City center from OpenStreetMap; the demolitions were on the northern edge near Judea Junction (approximate, no exact coordinates in the reports)"
+        }
+      ],
+      "highlight": true
+    },
+    {
+      "id": "2026-10-25-geva-shomron-ramat-gan-families",
+      "edition": "2026-10-25",
+      "published": "2026-10-25T05:00:00+02:00",
+      "letter": "PA security: 25 Oct 2026",
+      "section": "land",
+      "headline": "Families from the Ramat Gan yeshiva will found \"Geva Shomron\" on the former Paratroopers training base next to Sa-Nur, the 19th new community in northern Samaria",
+      "summary": "A group of families, graduates of the Ramat Gan hesder yeshiva led by Rabbi Yehoshua Shapira and Rabbi Ben Zion Elgazi, is preparing to move onto the land and found a new community called Geva Shomron, Arutz 7 reports. The site is the former training base of the Paratroopers Brigade, next to Sa-Nur, which was evacuated before the 2005 disengagement. Dozens of families toured the site with Samaria Regional Council head Yossi Dagan. The community is part of the \"Reconnection Plan\" run by the council, the Amana movement and the Settlement Division, which includes 19 new communities in northern Samaria as part of the council's \"a million in Samaria\" vision. Dagan said the new communities, together with Noa and a renewed Homesh, \"take back the space\" and connect northern Samaria to the Jordan Valley. \"We received a second chance and we will not miss it,\" he said. Rabbi Shapira said: \"For thousands of years we waited to arrive here.\" Background: in July the cabinet approved a 19th community in the plan, according to <a href=\"https://vinnews.com/2026/07/15/19th-community-approved-for-northern-samaria-reconnection-plan/\">VINnews</a> and <a href=\"https://www.c14news.com/article/1478254\">Channel 14's English site</a> (both dated 15 July). The Arutz 7 report does not give a date for the move or a permit status, so those are unconfirmed.",
+      "source": "Arutz 7",
+      "date": "2026-10-22",
+      "url": "https://www.inn.co.il/news/709103",
+      "places": [
+        {
+          "name": "Sa-Nur (reference point for the new community)",
+          "lat": 32.3369,
+          "lon": 35.2019,
+          "note": "OpenStreetMap point for Sa-Nur; Geva Shomron is planned on the former Paratroopers base next to it (approximate, new site)"
+        }
+      ],
+      "highlight": true
+    },
+    {
+      "id": "2026-10-25-netanyahu-arutz7-interview-104-communities",
+      "edition": "2026-10-25",
+      "published": "2026-10-25T05:00:00+02:00",
+      "letter": "PA security: 25 Oct 2026",
+      "section": "pa",
+      "headline": "Netanyahu to Arutz 7: \"I prefer to do rather than declare\" on sovereignty; says his government advanced 104 new communities and there will be no Palestinian state while he is prime minister",
+      "summary": "In a special interview with Channel 7 (Arutz 7), which also ran in English, Prime Minister Benjamin Netanyahu said building in Judea and Samaria is \"at a record pace.\" He said \"we recognized, organized or built 104 new communities.\" Asked whether applying sovereignty is the next step, he said, \"Well, it was discussed with the President\" (President Trump), without giving a date or a step. He added: \"I prefer to do rather than declare, unlike some of my rivals on the right who declare instead of doing.\" On a Palestinian state he said: \"As long as I am prime minister of Israel, there will be no Palestinian state. That is the formula for our destruction,\" and \"we made it impossible.\" Israel votes on Tuesday, and the interview is aimed in part at voters to his right. The 104 figure is the prime minister's own count. Arutz 7 does not say which communities it includes.",
+      "source": "Arutz 7",
+      "date": "2026-10-22",
+      "url": "https://www.inn.co.il/news/709101",
+      "places": [],
+      "highlight": true
+    },
+    {
+      "id": "2026-10-25-smotrich-dismantle-pa-eisenkot-settlement-directorate",
+      "edition": "2026-10-25",
+      "published": "2026-10-25T05:00:00+02:00",
+      "letter": "PA security: 25 Oct 2026",
+      "section": "pa",
+      "headline": "Smotrich on Channel 14: \"There is no escape from dismantling the Palestinian Authority through a military campaign and cancelling the Oslo Accords\"",
+      "summary": "Three days before the election, Religious Zionism leader Bezalel Smotrich said on Channel 14's \"HaPatriotim\" on Saturday night that Israel must change its policy and act against the Palestinian Authority by military means as well: \"There is no escape from dismantling the Palestinian Authority through a military campaign and from canceling the Oslo Accords,\" <a href=\"https://www.c14.co.il/article/1751558\">Channel 14 reports</a>. On Thursday, Arutz 7 reported that former chief of staff Gadi Eisenkot, who leads the Yashar party, told a rally in Modi'in that if he joins the next government he will work to abolish the additional minister post in the Defense Ministry that Smotrich holds, bring back administrative detention orders and allow about 60,000 to 70,000 Palestinian workers to enter Israel. He also listed demolition of illegal construction among his steps. Smotrich replied, in his own words, that this would \"close the Settlement Directorate we built,\" return settlers to military rule, \"evacuate the farms and communities,\" and end up with \"a Palestinian terror state\" (<a href=\"https://www.inn.co.il/news/709098\">Arutz 7</a>). These are campaign statements by the two politicians. Neither report describes a government plan.",
+      "source": "Channel 14",
+      "date": "2026-10-24",
+      "url": "https://www.c14.co.il/article/1751558",
+      "places": []
+    },
+    {
+      "id": "2026-10-25-hebron-attack-debrief-afp-photographer",
+      "edition": "2026-10-25",
+      "published": "2026-10-25T05:00:00+02:00",
+      "letter": "PA security: 25 Oct 2026",
+      "section": "idf",
+      "headline": "Hebron attack debrief: two gunmen from Hebron, first operational deployment for the Ari Battalion squad; police say there is no suspicion the AFP photographer knew in advance",
+      "summary": "According to the IDF's preliminary debrief, reported by <a href=\"https://www.walla.co.il/news/military/383958613\">Walla</a> and the <a href=\"https://www.jpost.com/israel-news/crime-in-israel/article-912651\">Jerusalem Post</a>, two gunmen from Hebron came to the Judea Junction area with a large amount of ammunition, an M4 rifle and a handgun. They arrived in a vehicle with Israeli plates to a scrapyard nearby and watched the soldiers first. A squad-level outpost of the Ari Battalion had been set up at the junction two months earlier, and this was the soldiers' first operational assignment. They went out to set up a checkpoint to stop attackers from reaching Routes 35 and 60. Early reports counted five wounded, two critically. Arutz 7 later reported that two soldiers were killed, and the army killed both attackers. Judea and Samaria District Police commander Maj. Gen. Moshe Pinchi ordered investigators to focus on the use of a \"mashtuba,\" a vehicle taken off the road, and to step up checks and seizures of such vehicles on the main roads. On the photographer: the Yesha Council's Joint Situation Room (JSR) <a href=\"https://t.me/JSR_HEB/385\">wrote on Telegram</a> that security officials suspected the AFP photographer who published close-up pictures of the attackers knew in advance, and said he told reporters he was on his way to a protest in Beit Jala. Elchanan Groner <a href=\"https://x.com/elchanangr/status/2113585630638752251\">wrote on X</a> that the suspicion was being checked. Police told Walla that no such suspicion arises, and the IDF said \"the entire incident is under investigation.\" <a href=\"https://www.ynetnews.com/article/wxs2e2h1f\">Ynetnews</a> ran a headline saying the IDF is investigating whether the photographer was informed in advance. The suspicion is unconfirmed and the police statement contradicts it.",
+      "source": "Walla",
+      "date": "2026-10-23",
+      "url": "https://www.walla.co.il/news/military/383958613",
+      "places": [
+        {
+          "name": "Judea Junction (Route 35), near Hebron",
+          "lat": 31.5289,
+          "lon": 35.0945,
+          "note": "Hebron city center used as the nearest sourced point; the junction has no exact coordinates in the reports (approximate)"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-ben-gvir-letter-attorney-general-negev-demolitions",
+      "edition": "2026-10-25",
+      "published": "2026-10-25T05:00:00+02:00",
+      "letter": "PA security: 25 Oct 2026",
+      "section": "land",
+      "headline": "Ben Gvir tells the Attorney General he will keep attending Negev demolitions, says more than 19,000 illegal structures were demolished on his watch",
+      "summary": "National Security Minister Itamar Ben Gvir sent Attorney General Gali Baharav-Miara a letter on Thursday saying he will keep taking an active part in enforcement and demolition of illegal structures in the Negev, despite her instruction not to. He called her instruction \"illegal and without authority.\" He wrote that no law bars a minister from supervising, visiting and attending events carried out under his ministry, as his predecessors did, and that his presence does not include operational involvement. He said more than 19,000 illegal structures were demolished in the Negev during his term (his figure, not independently confirmed), and that he will keep leading the governance reform and the return of state land, <a href=\"https://www.jdn.co.il/news/2752918/\">JDN reports</a>. The report does not include the Attorney General's side. Background: on 12 October the Land Enforcement Authority, with hundreds of police, demolished buildings in the Abu Wadi family's Dahiya compound north of Rahat, near Beit Kama. The Rahat municipality said 80 buildings were demolished and about 400 people, about 250 of them students, were left without housing. Police said it enforced court demolition orders, and the Regavim movement said a court had rejected the residents' land claims (<a href=\"https://br7news.co.il/he/news/news-1791813416\">Be'er Sheva 7</a>). For the planning background on Bedouin communities and state land, see the <a href=\"https://tomgassistant-png.github.io/desk/khamaisi/\">Khamaisi backgrounder</a>.",
+      "source": "JDN",
+      "date": "2026-10-22",
+      "url": "https://www.jdn.co.il/news/2752918/",
+      "places": [
+        {
+          "name": "Rahat",
+          "lat": 31.3934,
+          "lon": 34.7547,
+          "note": "OpenStreetMap city point"
+        },
+        {
+          "name": "Beit Kama (Dahiya compound is north of Rahat, near Beit Kama)",
+          "lat": 31.4475,
+          "lon": 34.7623,
+          "note": "OpenStreetMap point for Beit Kama; the compound itself has no coordinates in the report (approximate)"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-police-regret-itamar-security-coordinator-statement",
+      "edition": "2026-10-25",
+      "published": "2026-10-25T05:00:00+02:00",
+      "letter": "PA security: 25 Oct 2026",
+      "section": "pa",
+      "headline": "Police regret the timing of a statement on the Itamar security coordinator case, issued the hour of the Hebron attack; Honenu says he fired in the air after a car tried to run him over",
+      "summary": "On Friday morning, shortly after the Hebron attack, the Judea and Samaria police district and the Shin Bet issued a media statement about a case in which the security coordinator of the Itamar Gideonim ridge was arrested over gunfire near Akraba, Elisha Yered wrote on X. Later in the day police expressed regret over the timing of an earlier statement and said such releases require \"sensitivity to what is happening on the ground\" (<a href=\"https://www.walla.co.il/news/military/383958613\">Walla</a>, <a href=\"https://www.jpost.com/israel-news/crime-in-israel/article-912651\">Jerusalem Post</a>; both do not name the case). Yered, quoting the legal-aid group Honenu, named the suspect as Pinchas (Hasi) Ran, a reservist commando whose brother Capt. Or Yosef Ran fell in the battle of Kfar Aza on 7 October 2023. According to Ran, as relayed by Honenu, he fired into the air after a car without license plates tried to run over him and an officer with him, and senior commanders sent letters of support to the court (<a href=\"https://x.com/ElishaYered\">Yered's X account</a>). This is the suspect's account via his lawyers, and an indictment has been filed, according to Yered's post. The police statement does not describe the evidence.",
+      "source": "Elisha Yered (X)",
+      "date": "2026-10-23",
+      "url": "https://x.com/ElishaYered",
+      "places": [
+        {
+          "name": "Itamar",
+          "lat": 32.1752,
+          "lon": 35.3087,
+          "note": "OpenStreetMap point (Itamar A)"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-25-weekend-reports-stones-firebombs-havat-gilad",
+      "edition": "2026-10-25",
+      "published": "2026-10-25T05:00:00+02:00",
+      "letter": "PA security: 25 Oct 2026",
+      "section": "attacks",
+      "headline": "Unconfirmed weekend reports: stones and firebombs near Psagot and Duma, and a suspected ramming near Havat Gilad (single-source)",
+      "summary": "Hatzala Yosh, a group that posts incident alerts, reported stone-throwing and firebomb incidents in several places in the past 24 hours, according to Elchanan Groner's <a href=\"https://x.com/elchanangr/status/2114064917422575891\">summary on X</a>, including near Psagot, near Duma and near Ma'ale HaTamar. Separately, Netanel Frankel (@Israel8251) <a href=\"https://x.com/Israel8251/status/2114100825354047878\">wrote on X</a> that a vehicle tried to ram Israelis at the Havat Gilad area. No casualties are reported in either account, and no army, police or news report confirming the incidents was found. Both are the posters' own claims and are unconfirmed.",
+      "source": "Elchanan Groner (X)",
+      "date": "2026-10-24",
+      "url": "https://x.com/elchanangr/status/2114064917422575891",
+      "places": [
+        {
+          "name": "Psagot",
+          "lat": 31.8987,
+          "lon": 35.2241,
+          "note": "OpenStreetMap point"
+        },
+        {
+          "name": "Duma",
+          "lat": 32.056,
+          "lon": 35.3661,
+          "note": "OpenStreetMap point"
+        },
+        {
+          "name": "Havat Gilad",
+          "lat": 32.1995,
+          "lon": 35.1816,
+          "note": "OpenStreetMap point; exact spot of the claimed ramming not given"
         }
       ]
     }

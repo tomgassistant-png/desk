@@ -94,3 +94,6 @@ The morning digest should revise the paragraph and the date whenever there is a 
 - `watch_people`: list of `{name, handle, who, confidence, links:[{label,url}]}`; add a person by appending an entry.
 - `redirect_from`: old section ids; the build writes `digest/<old>/index.html` as a noindex redirect to the section.
   Example: Cypherboria (`digest/cypherboria/`, formerly `nick-land`).
+
+## Worker prompts (prompts/)
+The morning desk run reads its standing research instructions from /workspace/frontpage/prompts/ (digest.md, pa.md, yemen.md), because a routine run cannot read other routines' saved prompts. Tom's new sources and rules go into these files. They are not published (publish.sh copies only named files).
