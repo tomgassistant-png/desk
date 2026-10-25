@@ -85,3 +85,8 @@ body.night .orb{background:radial-gradient(circle at 50% 40%,rgba(157,130,80,.35
  .grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
  .reader{max-width:1000px;margin-left:auto;margin-right:auto}}
 @media (min-width:2400px){:root{--maxw:1900px}body{font-size:25px}}
+
+.orderfield{display:block;width:min(92vw,520px);height:min(70vw,360px);margin:14px auto;border:1px solid var(--gold2);border-radius:14px;background:#0a0b10}
+.mvtitle{margin:10px 0 4px}.mvtext{max-width:56ch;margin:6px auto;color:var(--text)}
+.mvverse{max-width:52ch;margin:10px auto;border-left:3px solid var(--gold2);padding:2px 0 2px 14px;text-align:left;color:var(--dim)}.mvverse p{margin:0}.mvverse .src{display:block;margin-top:6px;font-size:13px;letter-spacing:.04em;color:var(--gold2)}
+.orderprayer{max-width:56ch;margin:16px auto;text-align:left}

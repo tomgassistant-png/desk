@@ -63,7 +63,7 @@ function homeView(){
  var st=streak();
  var left=h('div',{},
   h('section',{class:'card hero'},h('p',{class:'eyebrow',text:'Today · '+new Date().toLocaleDateString(undefined,{weekday:'long',month:'long',day:'numeric'})}),h('h1',{text:s.title}),h('p',{class:'lede',style:'margin:0 auto 16px',text:catName[s.cat]+' · '+s.min+' minutes · '+s.read.map(function(p){return p.ref}).join(', ')}),
-   h('div',{class:'row center'},h('a',{class:'btn',href:'#/daily'},'Begin today’s prayer'),h('a',{class:'btn ghost',href:'#/silence'},'Silent meditation'))),
+   h('div',{class:'row center'},h('a',{class:'btn',href:'#/daily'},'Begin today’s prayer'),h('a',{class:'btn ghost',href:'#/silence'},'Watch the order'))),
   h('section',{class:'card'},h('p',{class:'eyebrow',text:'Verse of the day'}),passageEl(v),numNote(v)),
   night?h('section',{class:'card'},h('p',{class:'eyebrow',text:'For the evening'}),h('h3',{text:night.title}),h('p',{class:'muted',text:'A short prayer for the end of the day, with dimmed text.'}),h('a',{class:'btn ghost small',href:'#/session/'+night.id,onclick:function(){store.set('night',true);applyNight()}},'Begin night prayer')):null);
  var right=h('div',{},
@@ -98,7 +98,7 @@ function sessionView(s,daily){
   if(tts.on&&!tts.paused){tts.paused=true;synth.pause();setL('pause');return}
   if(tts.on&&tts.paused){tts.paused=false;synth.resume();setL('play');return}
   setL('play');speakQueue(items(cur),function(it){if(it.stage!==cur)go(it.stage,true)},function(){setL('idle')})}
- function finish(){stopSpeech();logDone(s.min,s.id);bell(.35);var st=streak();app.textContent='';app.appendChild(h('div',{class:'card hero'},h('p',{class:'eyebrow',text:'Amen'}),h('h1',{text:'Session complete'}),h('p',{class:'lede',style:'margin:0 auto 14px',text:'Current streak: '+st+(st===1?' day.':' days.')}),h('div',{class:'row center'},h('a',{class:'btn',href:'#/'},'Return home'),h('a',{class:'btn ghost',href:'#/silence'},'Sit in silence'),h('a',{class:'btn ghost',href:'#/library'},'Library'))))}
+ function finish(){stopSpeech();logDone(s.min,s.id);bell(.35);var st=streak();app.textContent='';app.appendChild(h('div',{class:'card hero'},h('p',{class:'eyebrow',text:'Amen'}),h('h1',{text:'Session complete'}),h('p',{class:'lede',style:'margin:0 auto 14px',text:'Current streak: '+st+(st===1?' day.':' days.')}),h('div',{class:'row center'},h('a',{class:'btn',href:'#/'},'Return home'),h('a',{class:'btn ghost',href:'#/silence'},'Watch the order'),h('a',{class:'btn ghost',href:'#/library'},'Library'))))}
  var rate=h('select',{'aria-label':'Speech speed',onchange:function(e){store.set('rate',parseFloat(e.target.value))}},[['0.75','Slow'],['0.9','Calm'],['1','Normal'],['1.15','Brisk']].map(function(o){return h('option',{value:o[0],selected:parseFloat(o[0])===store.get('rate',0.9)},o[1])}));
  var vsel=h('select',{'aria-label':'Voice',onchange:function(e){store.set('voice',e.target.value)}});
  function fillV(){var vs=voices();vsel.textContent='';vsel.appendChild(h('option',{value:'',text:'Default voice'}));vs.forEach(function(v){vsel.appendChild(h('option',{value:v.name,selected:v.name===store.get('voice',''),text:v.name}))});vsel.hidden=vs.length===0}
@@ -106,28 +106,77 @@ function sessionView(s,daily){
  render();
  return h('div',{class:'reader'},h('p',{class:'crumb'},h('a',{href:daily?'#/':'#/library/'+s.cat},'← '+(daily?'Home':catName[s.cat]))),h('p',{class:'eyebrow',text:(daily?'Today · ':'')+catName[s.cat]+' · '+s.min+' min'}),title,
   h('div',{class:'row',style:'margin:0 0 16px'},listenBtn,stopBtn,favBtn,synth?rate:null,synth?vsel:null),dots,body,h('div',{class:'row',style:'justify-content:space-between;margin-top:6px'},prev,next))}
-/* silence */
+/* watching the order (timed meditation; route stays #/silence) */
 var timer=null;
+function killTimer(){if(timer){clearInterval(timer.iv);if(timer.raf)cancelAnimationFrame(timer.raf);timer=null}}
+var MOVES=[
+ {k:'Notice',share:.15,text:'Notice what is in front of you: your breath, the sounds in the room, the light on the wall. Do not name or fix any of it.',verses:[]},
+ {k:'No one is arranging it',share:.20,text:'All of this is running, and you are not the one doing it. Your heart is beating and your thoughts are arriving. Each small part follows the parts beside it, and an order appears. No one you can see is directing it, and no one fully understands how it works.',verses:[]},
+ {k:'All at once',share:.20,text:'Now look from the other side. For God there is no earlier and later. The day you were born, this hour and your last day are before him together, as a whole river is before someone standing on a mountain. You are inside the story. He sees all of it.',verses:[
+  {ref:'Isaiah 46:10',t:'Declaring the end from the beginning, and from ancient times the things that are not yet done.'},
+  {ref:'2 Peter 3:8',t:'One day is with the Lord as a thousand years, and a thousand years as one day.'},
+  {ref:'Psalm 90:4',t:'For a thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.'},
+  {ref:'Revelation 1:8',t:'I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.'}]},
+ {k:'The hand you cannot see',share:.20,text:'The order holds, and the one who holds it is hidden. Stay with that without trying to resolve it.',verses:[
+  {ref:'Romans 11:36',t:'For of him, and through him, and to him, are all things: to whom be glory for ever. Amen.'},
+  {ref:'Job 38:36',t:'Who hath put wisdom in the inward parts? or who hath given understanding to the heart?'},
+  {ref:'Matthew 10:29',t:'Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.'},
+  {ref:'Proverbs 16:9',t:'A man’s heart deviseth his way: but the LORD directeth his steps.'},
+  {ref:'Isaiah 45:15',t:'Verily thou art a God that hidest thyself, O God of Israel, the Saviour.'}]},
+ {k:'The empty center',share:.25,text:'Rest. The center is empty and nothing falls apart. Nothing answers, and no answer is needed.',verses:[],silent:true}];
+var ORDER_PRAYER=['God, you are eternal, and you rule all things, though no one sees you. You are worth praising.','Let your will be done in the order I can’t see and can’t explain. Forgive me for the times I wanted to see you before I would trust you.','Give me what I need today, and keep me in the order you have made. The glory is yours. Amen.'];
 function silenceView(){
- if(timer){clearInterval(timer.iv);timer=null}
- var dur=store.get('sdur',10),breathe=store.get('breath',true),remain,end,running=false,paused=false,wl=null,phase='';
- var clock=h('div',{class:'clock','aria-live':'off',text:'10:00'}),orb=h('div',{class:'orb','aria-hidden':'true'},h('span',{text:'Be still'})),status=h('p',{class:'muted',style:'min-height:1.6em',text:'Choose a length, then begin.'});
+ killTimer();
+ var dur=store.get('sdur',10);if([5,10,15,20,30].indexOf(dur)<0)dur=10;
+ var words=store.get('words',true)!==false,remain,end,running=false,paused=false,wl=null,lastMv=-1,lastV=-1;
+ var reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+ var clock=h('div',{class:'clock','aria-live':'off',text:'10:00'});
+ var cv=h('canvas',{class:'orderfield','aria-hidden':'true'}),ctx=cv.getContext('2d');
+ var mvTitle=h('h2',{class:'mvtitle',text:'Watching the order'}),mvText=h('p',{class:'mvtext',text:'Choose a length, then begin.'}),mvVerse=h('blockquote',{class:'mvverse'});
  var chipsEl=h('div',{class:'chips'}),startBtn=h('button',{class:'btn',onclick:start,text:'Begin'}),resetBtn=h('button',{class:'btn ghost',onclick:reset,text:'Reset'});resetBtn.hidden=true;
+ var after=h('div',{class:'orderprayer'});after.hidden=true;
  function fmt(ms){var s=Math.max(0,Math.ceil(ms/1000));return String(Math.floor(s/60)).padStart(2,'0')+':'+String(s%60).padStart(2,'0')}
- function chips(){chipsEl.textContent='';[3,5,10,15,20,30].forEach(function(m){chipsEl.appendChild(h('button',{class:'chip'+(m===dur?' on':''),disabled:running,onclick:function(){dur=m;store.set('sdur',m);clock.textContent=fmt(m*60000);chips()},text:m+' min'}))})}
- function tick(){var now=Date.now();if(paused)return;remain=end-now;clock.textContent=fmt(remain);
-  if(breathe){var cyc=(dur*60000-remain)%10000;var p=cyc<4000?'in':'out';if(p!==phase){phase=p;orb.className='orb '+p;orb.firstChild.textContent=p==='in'?'Breathe in':'Breathe out'}}
-  if(remain<=0){done()}}
- function start(){audio();if(!running){running=true;paused=false;end=Date.now()+dur*60000;bell(.5);status.textContent='Silence has begun.';if(navigator.wakeLock&&navigator.wakeLock.request)navigator.wakeLock.request('screen').then(function(l){wl=l}).catch(function(){});
-   timer={iv:setInterval(tick,250)};startBtn.textContent='Pause';resetBtn.hidden=false;chips();if(!breathe){orb.className='orb';}else{phase='';orb.className='orb'}tick()}
-  else if(!paused){paused=true;remain=end-Date.now();startBtn.textContent='Resume';status.textContent='Paused.'}
-  else{paused=false;end=Date.now()+remain;startBtn.textContent='Pause';status.textContent='Silence has begun.'}}
- function stopAll(){if(timer){clearInterval(timer.iv);timer=null}running=false;paused=false;if(wl){try{wl.release()}catch(e){}wl=null}orb.className='orb'}
- function reset(){stopAll();clock.textContent=fmt(dur*60000);startBtn.textContent='Begin';resetBtn.hidden=true;status.textContent='Choose a length, then begin.';orb.firstChild.textContent='Be still';chips()}
- function done(){stopAll();bell(.6);setTimeout(function(){bell(.35)},4200);logDone(dur,null);clock.textContent='00:00';status.textContent='The time is complete. Streak: '+streak()+(streak()===1?' day.':' days.');startBtn.textContent='Begin again';resetBtn.hidden=true;orb.firstChild.textContent='Amen';chips()}
- var sw=h('label',{class:'switch'},h('input',{type:'checkbox',checked:breathe,onchange:function(e){breathe=e.target.checked;store.set('breath',breathe);orb.style.visibility=breathe?'visible':'hidden'}}),'Breathing guide (4 seconds in, 6 seconds out)');
- orb.style.visibility=breathe?'visible':'hidden';chips();clock.textContent=fmt(dur*60000);
- return h('div',{class:'timer'},h('h1',{text:'Silent meditation'}),h('p',{class:'lede',style:'margin:0 auto',text:'A bell sounds at the beginning and at the end. Keep this screen open. Sound is made on your device with no files loaded.'}),chipsEl,orb,clock,status,h('div',{class:'row center'},startBtn,resetBtn),h('p',{style:'margin-top:16px'},sw),h('p',{class:'muted',style:'max-width:56ch;margin:14px auto'},'Suggested practice: read one verse, close the eyes, and return to the words “Be still, and know that I am God” (Psalm 46:10) whenever the mind wanders.'),h('div',{class:'row center'},h('button',{class:'btn ghost small',onclick:function(){bell(.5)},text:'Test the bell'})))}
+ function chips(){chipsEl.textContent='';[5,10,15,20,30].forEach(function(m){chipsEl.appendChild(h('button',{class:'chip'+(m===dur?' on':''),disabled:running,onclick:function(){dur=m;store.set('sdur',m);clock.textContent=fmt(m*60000);chips()},text:m+' min'}))})}
+ /* the many small parts: each follows only its near neighbors; nothing directs the whole */
+ var W=0,H=0,P=[],N=150;
+ function size(){var r=cv.getBoundingClientRect(),d=Math.min(window.devicePixelRatio||1,2);W=Math.max(200,r.width);H=Math.max(200,r.height);cv.width=W*d;cv.height=H*d;ctx.setTransform(d,0,0,d,0,0);ctx.fillStyle='#0a0b10';ctx.fillRect(0,0,W,H)}
+ function seed(){P=[];for(var i=0;i<N;i++){var a=Math.random()*6.283,r=Math.sqrt(Math.random())*Math.min(W,H)*.48;P.push({x:W/2+Math.cos(a)*r,y:H/2+Math.sin(a)*r,vx:(Math.random()-.5)*1.2,vy:(Math.random()-.5)*1.2})}}
+ var state={c:.05,fade:.14,speed:1,alpha:.85};
+ function step(){
+  var cx=W/2,cy=H/2,hole=Math.min(W,H)*.14,R=48,c=state.c,sp=(reduce?.35:1)*state.speed;
+  for(var i=0;i<N;i++){var p=P[i],ax=0,ay=0,px=0,py=0,sx=0,sy=0,n=0;
+   for(var j=0;j<N;j++){if(i===j)continue;var q=P[j],dx=q.x-p.x,dy=q.y-p.y,d2=dx*dx+dy*dy;if(d2<R*R){n++;ax+=q.vx;ay+=q.vy;px+=q.x;py+=q.y;if(d2<260){sx-=dx;sy-=dy}}}
+   if(n){p.vx+=(ax/n-p.vx)*.07*c+((px/n-p.x)*.0009)*c+sx*.0016;p.vy+=(ay/n-p.vy)*.07*c+((py/n-p.y)*.0009)*c+sy*.0016}
+   var ox=p.x-cx,oy=p.y-cy,od=Math.sqrt(ox*ox+oy*oy)||1;
+   if(od<hole*2.2){var push=(1-od/(hole*2.2));p.vx+=ox/od*push*.12;p.vy+=oy/od*push*.12}
+   p.vx+=-oy/od*.012*c+(Math.random()-.5)*.16*(1-c);p.vy+=ox/od*.012*c+(Math.random()-.5)*.16*(1-c);
+   var s=Math.sqrt(p.vx*p.vx+p.vy*p.vy)||1,t=(.9+.5*c)*sp;p.vx=p.vx/s*t;p.vy=p.vy/s*t;
+   var nx=p.x+p.vx,ny=p.y+p.vy;if(nx<0)nx+=W;if(nx>W)nx-=W;if(ny<0)ny+=H;if(ny>H)ny-=H;p.x=nx;p.y=ny}
+  ctx.fillStyle='rgba(10,11,16,'+state.fade+')';ctx.fillRect(0,0,W,H);
+  ctx.fillStyle='rgba(210,173,102,'+state.alpha+')';
+  for(var k=0;k<N;k++){ctx.fillRect(P[k].x,P[k].y,1.8,1.8)}}
+ function frame(){if(!timer)return;if(!paused)step();timer.raf=requestAnimationFrame(frame)}
+ function setMove(mi,q){var m=MOVES[mi];
+  state.c=[.1+.2*q,.3+.6*q,.92,.92,.92][mi];state.fade=[.14,.12,.012,.05,.07][mi];state.speed=mi===4?(1-.6*q):1;state.alpha=mi===4?(.85-.45*q):.85;
+  if(mi!==lastMv){if(lastMv>=0)bell(.28);lastMv=mi;lastV=-1;mvTitle.textContent=(mi+1)+'. '+m.k;mvText.textContent=words?m.text:'';mvText.hidden=!words||!!m.silent&&false;mvVerse.textContent='';mvVerse.hidden=true;
+   if(m.silent){ctx.fillStyle='#0a0b10'}}
+  if(m.verses.length&&words){var vi=Math.min(m.verses.length-1,Math.floor(q*m.verses.length));if(vi!==lastV){lastV=vi;var v=m.verses[vi];mvVerse.textContent='';mvVerse.appendChild(h('p',{text:v.t}));mvVerse.appendChild(h('span',{class:'src',text:v.ref+' (King James Version)'}));mvVerse.hidden=false}}}
+ function tick(){if(paused)return;var now=Date.now();remain=end-now;clock.textContent=fmt(remain);
+  var total=dur*60000,el=Math.min(total,total-remain),f=el/total,acc=0,mi=0,q=0;
+  for(var i=0;i<MOVES.length;i++){if(f<acc+MOVES[i].share||i===MOVES.length-1){mi=i;q=Math.min(1,Math.max(0,(f-acc)/MOVES[i].share));break}acc+=MOVES[i].share}
+  setMove(mi,q);if(remain<=0)done()}
+ function start(){audio();if(!running){running=true;paused=false;after.hidden=true;lastMv=-1;end=Date.now()+dur*60000;bell(.5);if(navigator.wakeLock&&navigator.wakeLock.request)navigator.wakeLock.request('screen').then(function(l){wl=l}).catch(function(){});
+   size();seed();timer={iv:setInterval(tick,250),raf:0};startBtn.textContent='Pause';resetBtn.hidden=false;chips();frame();tick()}
+  else if(!paused){paused=true;remain=end-Date.now();startBtn.textContent='Resume'}
+  else{paused=false;end=Date.now()+remain;startBtn.textContent='Pause'}}
+ function stopAll(){killTimer();running=false;paused=false;if(wl){try{wl.release()}catch(e){}wl=null}}
+ function reset(){stopAll();clock.textContent=fmt(dur*60000);startBtn.textContent='Begin';resetBtn.hidden=true;mvTitle.textContent='Watching the order';mvText.textContent='Choose a length, then begin.';mvText.hidden=false;mvVerse.hidden=true;after.hidden=true;lastMv=-1;size();chips()}
+ function done(){stopAll();bell(.6);setTimeout(function(){bell(.35)},4200);logDone(dur,null);clock.textContent='00:00';mvTitle.textContent='Amen';mvText.textContent='The time is complete. Streak: '+streak()+(streak()===1?' day.':' days.');mvText.hidden=false;mvVerse.hidden=true;startBtn.textContent='Begin again';resetBtn.hidden=true;
+  after.textContent='';after.appendChild(h('p',{class:'eyebrow',text:'Prayer'}));ORDER_PRAYER.forEach(function(x){after.appendChild(h('p',{text:x}))});after.hidden=false;chips()}
+ var sw=h('label',{class:'switch'},h('input',{type:'checkbox',checked:words,onchange:function(e){words=e.target.checked;store.set('words',words);if(running){lastMv=-1}else{mvText.hidden=false}}}),'Show the words (turn off to watch and sit in silence)');
+ chips();clock.textContent=fmt(dur*60000);
+ setTimeout(function(){size()},0);
+ return h('div',{class:'timer ordermed'},h('h1',{text:'Watching the order'}),h('p',{class:'lede',style:'margin:0 auto',text:'Many small parts, each following only its neighbors, form an order that no one visible is directing. The center stays empty. A bell sounds at the beginning, at each change, and at the end. Keep this screen open. Sound is made on your device with no files loaded.'}),chipsEl,cv,clock,mvTitle,mvText,mvVerse,h('div',{class:'row center'},startBtn,resetBtn),h('p',{style:'margin-top:16px'},sw),after,h('p',{class:'muted',style:'max-width:60ch;margin:14px auto'},'Five movements: notice what is in front of you; see that no one is arranging it; see it from God’s side, where there is no earlier or later; name the hand you cannot see; rest in the empty center.'),h('div',{class:'row center'},h('button',{class:'btn ghost small',onclick:function(){bell(.5)},text:'Test the bell'})))}
 function sourcesView(){
  var li=function(a,b){return h('li',{},a,b?h('span',{class:'muted',text:' '+b}):null)};
  return h('div',{class:'reader'},h('h1',{text:'Texts and sources'}),h('p',{class:'lede',text:'All scripture and quoted texts in this app are in the public domain. The meditations, prayers and closings are original writing for this app.'}),
@@ -135,13 +184,13 @@ function sourcesView(){
   h('h2',{text:'Settings'}),
   h('p',{},h('label',{class:'switch'},h('input',{type:'checkbox',checked:store.get('nums',true)!==false,onchange:function(e){store.set('nums',e.target.checked)}}),'Show the optional number notes (speculative)')),
   h('p',{},h('label',{class:'switch'},h('input',{type:'checkbox',checked:!!store.get('night',false),onchange:function(e){store.set('night',e.target.checked);applyNight()}}),'Night mode (dimmed text)')),
-  h('p',{},h('button',{class:'btn ghost small',onclick:function(){if(confirm('Erase streak, favorites and settings stored on this device?')){['days','minutes','sessions','doneIds','fav','night','nums','rate','voice','sdur','breath'].forEach(function(k){try{localStorage.removeItem('vl.'+k)}catch(e){}});applyNight();route()}}},'Erase data on this device')),
+  h('p',{},h('button',{class:'btn ghost small',onclick:function(){if(confirm('Erase streak, favorites and settings stored on this device?')){['days','minutes','sessions','doneIds','fav','night','nums','rate','voice','sdur','breath','words'].forEach(function(k){try{localStorage.removeItem('vl.'+k)}catch(e){}});applyNight();route()}}},'Erase data on this device')),
   h('p',{class:'muted',text:'Everything is stored in this browser only. Nothing is sent to a server, and there are no accounts, cookies or trackers.'}))}
 /* ---------- router ---------- */
 var titles={'':'Veil and Light: Gnostic Calvinist Prayer and Meditation'};
 function route(){
  var hs=(location.hash||'#/').replace(/^#\/?/,''),p=hs.split('/');var r=p[0]||'';
- if(r!=='silence'&&timer){clearInterval(timer.iv);timer=null}
+ if(r!=='silence'&&timer){killTimer()}
  if(r!=='session'&&r!=='daily')stopSpeech();
  app.textContent='';var v,nav=r;
  if(r==='library'){v=libraryView(p[1]&&catName[p[1]]?p[1]:null)}
@@ -152,7 +201,7 @@ function route(){
  else if(r==='sources'){v=sourcesView()}
  else{v=homeView();nav=''}
  app.appendChild(v);setNav(nav);window.scrollTo(0,0);
- var sess=(r==='session'&&byId[p[1]])?byId[p[1]].title:null;document.title=(sess?sess+' · ':(r&&{library:'Library · ',silence:'Silent meditation · ',favorites:'Favorites · ',sources:'Texts and sources · ',daily:'Today · '}[r])||'')+titles['']}
+ var sess=(r==='session'&&byId[p[1]])?byId[p[1]].title:null;document.title=(sess?sess+' · ':(r&&{library:'Library · ',silence:'Watching the order · ',favorites:'Favorites · ',sources:'Texts and sources · ',daily:'Today · '}[r])||'')+titles['']}
 $('#nightBtn').addEventListener('click',function(){store.set('night',!store.get('night',false));applyNight()});
 window.addEventListener('hashchange',route);
 applyNight();route();
