@@ -198,7 +198,6 @@ def prayer_box():
     return ('<section class="todays-prayer" style="background:#f1efe8;border-left:4px solid #8b0000;padding:12px 18px;margin:12px 0">'
             f'<p class="srcs" style="margin:0 0 2px;text-transform:uppercase;letter-spacing:1px">Today\'s prayer · {e(weekday_date(datetime.combine(t, datetime.min.time())))} · {e(cat)}</p>'
             f'<h2 style="margin:0 0 6px;font-size:22px">{e(s["title"])}</h2>'
-            + reads
             + '<div style="margin-top:8px">' + "".join(f'<p style="margin:6px 0;font-size:17px">{e(x)}</p>' for x in s["prayer"]) + '</div>'
             + calvin_line(di)
             + '<p class="srcs" style="margin:8px 0 0"><a href="prayer/">Open the full session in Veil and Light (scripture, meditation, prayer, closing) →</a></p>'
