@@ -3428,7 +3428,7 @@
       "letter": "PA security: 26 Oct 2026",
       "section": "land",
       "headline": "Twelve families move into the new community of Shalem near Alon Moreh, the ninth new Samaria Regional Council community in under a year",
-      "summary": "Arutz 7 reports that 12 families moved into the new community of Shalem, near Alon Moreh in Samaria, on Monday morning, at a ceremony attended by hundreds of people. Speakers included Samaria Regional Council head Yossi Dagan, Samaria rabbi Elyakim Levanon, the chief rabbi of Ukraine, Moshe Azman, and Knesset Constitution Committee chair Simcha Rothman. Arutz 7 and Makor Rishon both say it is part of the council's \"Hitchabrut\" plan, run with Amana and the Settlement Division, for 19 new communities in northern Samaria, following a cabinet decision about a year ago led by Israel Katz and Bezalel Smotrich. Arutz 7 lists the earlier eight as Rehavam, Eival, Emek Dotan, Noa, and the four northern Samaria communities evacuated in the 2005 disengagement and re-established (Homesh, Sa-Nur, Ganim and Kadim). Dagan said: \"There will be a million residents in Samaria.\" Israel Hayom's settlements correspondent, Yotam Deshe, wrote on X that the regional councils sped up moves onto the land in recent months out of concern that a new government after Tuesday's election would stop communities that were approved but not yet populated. That is his reading, not a sourced fact. Simcha Raz of Olam Katan, a non-mainstream outlet, posted that the site is by Route 555 between Alon Moreh and Itamar, with a lookout named for Binyamin Livnat nearby; those details are not in the Arutz 7 report and are unconfirmed. The number of families and the ceremony are confirmed by two independent outlets.",
+      "summary": "Arutz 7 reports that 12 families moved into the new community of Shalem, near Alon Moreh in Samaria, on Monday morning, at a ceremony attended by hundreds of people. Speakers included Samaria Regional Council head Yossi Dagan, Samaria rabbi Elyakim Levanon, the chief rabbi of Ukraine, Moshe Azman, and Knesset Constitution Committee chair Simcha Rothman. Arutz 7 and Makor Rishon both say it is part of the council's \"Hitchabrut\" plan, run with Amana and the Settlement Division, for 19 new communities in northern Samaria, following a cabinet decision about a year ago led by Israel Katz and Bezalel Smotrich. Arutz 7 lists the earlier eight as Rehavam, Eival, Emek Dotan, Noa, and the four northern Samaria communities evacuated in the 2005 disengagement and re-established (Homesh, Sa-Nur, Ganim and Kadim). Dagan said: \"There will be a million residents in Samaria.\" Israel Hayom's settlements correspondent, Yotam Deshe, wrote on X that the regional councils sped up moves onto the land in recent months out of concern that a new government after Tuesday's election would stop communities that were approved but not yet populated. That is his reading, not a sourced fact. Simcha Raz of Olam Katan, a non-mainstream outlet, reported the same day that the site is on the Kabir ridge by Route 555 between Alon Moreh and Itamar, next to a lookout named for Ben Yosef Livnat; the lookout is confirmed by other sources (see the Olam Katan item below). The number of families and the ceremony are confirmed by two independent outlets.",
       "source": "Arutz 7",
       "date": "2026-10-26",
       "url": "https://www.inn.co.il/news/709366",
@@ -3441,6 +3441,51 @@
         }
       ],
       "highlight": true
+    },
+    {
+      "id": "2026-10-26-land-alon-moreh-not-isolated-shalem",
+      "edition": "2026-10-26",
+      "published": "2026-10-26T20:30:00+02:00",
+      "letter": "PA security: 26 Oct 2026",
+      "section": "land",
+      "headline": "Olam Katan: Shalem gives Alon Moreh a neighboring community for the first time, on the Kabir ridge next to the Ben Yosef Livnat lookout",
+      "summary": "Olam Katan settlements reporter Simcha Raz, under the headline \"Alon Moreh is no longer isolated,\" wrote on Monday that Shalem, the ninth community to go up in the Samaria Regional Council area in a year, will for the first time create a settlement bloc around Alon Moreh after years in which that community stood alone. He places Shalem on the Kabir ridge by Route 555, between Alon Moreh and Itamar, beside the lookout named for Ben Yosef Livnat. The lookout and its namesake are confirmed: Livnat, 24, a nephew of then-minister Limor Livnat, was shot dead on 24 April 2011 near Joseph's Tomb in Nablus while visiting the site, by Palestinian police fire (Ynet, Haaretz and The New York Times, 2011), and the Samaria tourism body says the lookout was opened in 2015 on the southern slope of the Kabir ridge near the road to Alon Moreh, with a view of Mount Ebal, Mount Gerizim and Nablus. Raz adds that the site was approved about a year ago, which matches the cabinet decision that Arutz 7 and Makor Rishon date to about a year ago. Only Raz reports that the site has ancient wine presses and water cisterns, that the lookout's west side faces Joseph's Tomb, Mount Berakha and Yitzhar, and that researchers identify the biblical city of Shalem with the nearby Arab village of Salem; these points are unconfirmed. His claim that this is the first bloc around Alon Moreh is his own characterization. Raz also notes that paving of a road from Alon Moreh to Mekhora in the Jordan Valley began on Sunday (a separate item on this page). Israel Hayom wrote in its report on the arrival of the first families that Shalem is the last community expected to go up before the election and that several other cabinet-approved communities will not be populated in time, because settlement leaders fear that a new government would stop them. That is the same worry Yotam Deshe described on X; Israel Hayom's page blocked automated reading, so this comes from the text returned by search. Photo posted by Raz (the council's photo): families holding an Israeli flag and a Samaria Regional Council flag in front of mobile homes. The 12 families and the ceremony are confirmed by Arutz 7, Makor Rishon, Channel 14 and Israel Hayom.",
+      "source": "Olam Katan (Simcha Raz)",
+      "date": "2026-10-26",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/72279/",
+      "places": [
+        {
+          "name": "Shalem, near Alon Moreh (approximate)",
+          "lat": 32.22626,
+          "lon": 35.33529,
+          "note": "Approximate; shown at the Alon Moreh OpenStreetMap point. The exact site was not published."
+        }
+      ],
+      "highlight": false
+    },
+    {
+      "id": "2026-10-26-itamar-coordinator-house-arrest",
+      "edition": "2026-10-26",
+      "published": "2026-10-26T20:30:00+02:00",
+      "letter": "PA security: 26 Oct 2026",
+      "section": "pa",
+      "headline": "Court releases Itamar-area security coordinator Pinchas Ran to house arrest in the Golan, saying there is no objective evidence of what happened at Aqraba",
+      "summary": "On Sunday the Jerusalem District Court, Judge Elad Persky, ordered Pinchas (Hasi) Ran, 37, the security coordinator (rabshatz) of the Gidonim Ridge near Itamar, moved to house arrest in the Golan Heights; the release took effect Monday morning (Arutz 7; Ynet; Israel Hayom; Olam Katan; JDN). The prosecution had asked to hold him until the end of the proceedings. Ran is charged with aggravated assault with intent (up to 20 years) and obstruction of justice (up to 3 years) over 18 September, when, according to the indictment, he entered Aqraba outside his area with an armed career soldier, checked IDs without authority, and fired at least three shots at a car that sped away, badly wounding the 18-year-old woman inside; the indictment also says he later searched for the shell casings and denied being there (Times of Israel). He says he fired in the air after a car without plates tried to run over him and the soldier, and they jumped aside (Honenu). The judge wrote that \"there is no objective evidence of what happened when the car and the Ranger passed each other\" and noted the conflicting accounts. He found a \"very low\" chance that Ran would violate house arrest or repeat the act, found no concrete risk of obstructing proceedings now that an indictment is filed, and weighed that Ran has no criminal record, has served over 600 reserve days, returned to combat after his brother, Capt. Or Yosef Ran, fell at Kfar Aza on 7 October 2023, and has letters of support from the Samaria Brigade commander and others. He also noted that police waited about three weeks to arrest Ran although he was responsible for dozens of weapons. He ordered the release before the probation report, which he called exceptional. Supervisors are former Sayeret Matkal and Shin Bet men. Honenu attorneys Nati Rom and Moshe Polski represent Ran. Rom said the prosecution \"adopted the narrative of those who tried to ram the security vehicle\" and urged it to reconsider the case; MK Limor Son Har-Melech called Ran \"a hero of Israel\" and over 100 supporters came to the hearing (Honenu's statement as relayed by Arutz 7, JDN and Olam Katan). How he was arrested: on Sunday 11 October, at 5 a.m., Shin Bet and Shai District police, with military police, took him and a second security man from their homes in a joint investigation of violence against Palestinians near Aqraba, with a gag order and a bar on seeing a lawyer; the order was lifted on 23 October (Arutz 7). Honenu says the second man was released earlier to house arrest. Not confirmed: the victim's father told Kan that Ran fired 10 rounds (the indictment says at least three; relayed by Times of Israel). The Times of Israel calls the court a magistrate's court; Ynet, Arutz 7 and Olam Katan say district court. No Shin Bet or prosecution comment on the ruling was found, and no statement from Peace Now, Yesh Din or the victim's family. Simcha Raz's own post was not retrievable by search.",
+      "source": "Arutz 7; Ynet; Israel Hayom; Olam Katan (okn.co.il); JDN; Times of Israel; Israel National News; Honenu via the outlets; Ayelet Lash on X (wife's statement)",
+      "date": "2026-10-25",
+      "url": "https://www.inn.co.il/news/709334",
+      "places": [
+        {
+          "name": "Itamar",
+          "lat": 32.1745,
+          "lon": 35.3084
+        },
+        {
+          "name": "Aqraba",
+          "lat": 32.127,
+          "lon": 35.3438
+        }
+      ]
     }
   ],
   "highlight_count": 9,
