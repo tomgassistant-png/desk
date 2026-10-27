@@ -12,10 +12,11 @@ def _load(p):
 def load_digest():
     """digest/items.json plus the Drinks Advisor section (digest/drinks-advisor/section.json, owned by the Drinks Advisor assistant)."""
     d = _load("digest/items.json")
-    x = _load("digest/drinks-advisor/section.json")
-    if x.get("section") and d.get("sections") is not None:
-        d["sections"] = [s for s in d["sections"] if s["id"] != x["section"]["id"]] + [x["section"]]
-        d["items"] = d.get("items", []) + x.get("items", [])
+    for owned in ("drinks-advisor", "scholar"):
+        x = _load(f"digest/{owned}/section.json")
+        if x.get("section") and d.get("sections") is not None:
+            d["sections"] = [s for s in d["sections"] if s["id"] != x["section"]["id"]] + [x["section"]]
+            d["items"] = d.get("items", []) + x.get("items", [])
     return d
 
 def sections():

@@ -1,0 +1,111 @@
+{
+ "section": {
+  "id": "scholar",
+  "name": "Scholar",
+  "own_edition": true,
+  "about": "An index of the courses and research reports written by Tom's Scholar assistant, newest first, each with a short summary. New projects are added here by Scholar when it finishes them.",
+  "placeholder": "No projects yet.",
+  "useful_links": [
+   {
+    "label": "Scholar's own index page (all projects)",
+    "url": "https://tomgassistant-png.github.io/scholar/"
+   }
+  ],
+  "link_groups": [],
+  "backgrounders": [],
+  "updated": "2026-10-27"
+ },
+ "items": [
+  {
+   "id": "scholar-mars-exploration",
+   "edition": "2026-10-27",
+   "section": "scholar",
+   "headline": "Exploring Mars: Past, Present and Future (science and space)",
+   "text": "A course on Mars exploration from 1610 to late 2026, with five maps built from real Mars elevation data showing landing sites, Perseverance's route and proposed future landing regions. Company and agency timelines are marked as aspirational.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html"
+    }
+   ]
+  },
+  {
+   "id": "scholar-hasmonean",
+   "edition": "2026-10-26",
+   "section": "scholar",
+   "headline": "The Hasmonean Period (history, ancient Israel)",
+   "text": "A lesson on the Jewish kingdom from the Maccabean revolt in 167 BCE to Herod's capture of Jerusalem in 37 BCE, with three maps, a family tree, and a section on Dr. Yonatan Adler's argument that Torah law spread widely only in this period. Uncertain facts are marked as unconfirmed.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/hasmonean-period.html"
+    }
+   ]
+  },
+  {
+   "id": "scholar-kagame",
+   "edition": "2026-10-21",
+   "section": "scholar",
+   "headline": "Paul Kagame's Rise from Exile (history, Africa)",
+   "text": "A research report on Kagame's life from his refugee childhood in Uganda to the Rwandan presidency, with a 44-entry timeline, two maps and a bibliography. Disputed questions, such as the 1994 plane shootdown, are shown with each source and no side is taken.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/kagame-rise-from-exile.html"
+    }
+   ]
+  },
+  {
+   "id": "scholar-savannah",
+   "edition": "2026-09-29",
+   "section": "scholar",
+   "headline": "Operation Savannah, 1975 (history, Africa)",
+   "text": "A short course on South Africa's secret military intervention in Angola, told from the South African side but checked against Cuban and American accounts. It includes 15 contemporary New York Times articles and the disputed figures for South African dead.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/operation-savannah.html"
+    }
+   ]
+  },
+  {
+   "id": "scholar-timur-visual",
+   "edition": "2026-09-27",
+   "section": "scholar",
+   "headline": "The House of Timur, visual edition (history, Central Asia)",
+   "text": "A seven-lesson course on Timur (Tamerlane) and his descendants, with maps, charts of reigns and campaigns, a family tree and 19 credited images. Dates and claims from medieval chroniclers are attributed to them.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/house-of-timur-visual.html"
+    }
+   ]
+  },
+  {
+   "id": "scholar-timur-europe",
+   "edition": "2026-09-27",
+   "section": "scholar",
+   "headline": "Timur in the European Imagination (history, Central Asia)",
+   "text": "A one-lesson course on how Europeans pictured Timur from 1402 to today: the Spanish envoy Clavijo, Marlowe's play Tamburlaine, Handel's and Vivaldi's operas, Poe, and the Soviet opening of his tomb in 1941. Legends such as the cage story are marked as legends.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/timur-in-the-european-imagination.html"
+    }
+   ]
+  },
+  {
+   "id": "scholar-timur-text",
+   "edition": "2026-09-27",
+   "section": "scholar",
+   "headline": "The House of Timur, text edition (history, Central Asia)",
+   "text": "The earlier version of the same Timur course, with fewer visuals.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/house-of-timur-course.html"
+    }
+   ]
+  }
+ ]
+}
