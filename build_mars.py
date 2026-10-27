@@ -13,9 +13,21 @@ EXTRA = ('.mz{max-width:1100px;margin:0 auto}.mz h1{font-size:34px;margin:14px 0
  '.mz .chip{display:inline-block;font-family:Helvetica,Arial,sans-serif;font-size:11px;font-weight:700;color:#7a1f1f;border:1px solid #7a1f1f;padding:0 4px;margin-left:4px;letter-spacing:.3px}'
  '.mz .kind{font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#444;border:1px solid #999;padding:0 4px;margin-left:4px}'
  '.mz .counter{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0}.mz .counter div.n{border:1px solid #1a1a1a;padding:8px 12px;min-width:150px}.mz .counter b{display:block;font-family:Helvetica,Arial,sans-serif;font-size:26px}.mz .counter span{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555}'
- '.mz svg{max-width:100%;height:auto;border:1px solid #bbb;background:#faf7f0}')
+ '.mz svg{max-width:100%;height:auto;border:1px solid #bbb;background:#faf7f0}'
+ '.mz figure{margin:8px 0 10px;max-width:100%}.mz figure img{display:block;max-width:100%;height:auto;max-height:340px;border:1px solid #bbb}.mz figcaption{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555;margin-top:3px;overflow-wrap:anywhere}.mz .srcs{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555;margin:6px 0}')
 def a(u, t): return f'<a href="{e(u)}" target="_blank" rel="noopener">{e(t)}</a>'
 def lk(links): return "".join(" · " + a(u, t) for t, u in links)
+def fig(x):
+    """Optional picture on a feed item, board row or section: x has image (file under mars/img/), image_alt, image_caption, image_credit (who and license), image_url (source page); and/or photo_link {url,label} for a copyrighted photo we do not copy."""
+    out = ""
+    if x.get("image"):
+        cr = e(x.get("image_credit", ""))
+        if x.get("image_url"): cr = a(x["image_url"], x.get("image_credit", ""))
+        cap = (e(x["image_caption"]) + " · " if x.get("image_caption") else "") + "Credit: " + cr
+        out += f'<figure><img src="{e(x["image"])}" alt="{e(x.get("image_alt") or x.get("image_caption", ""))}" loading="lazy"><figcaption>{cap}</figcaption></figure>'
+    pl = x.get("photo_link")
+    if pl: out += f'<p class="srcs">Photo (copyrighted, not copied): {a(pl["url"], pl["label"])}</p>'
+    return out
 def chip(label): return f' <span class="chip">[{e(label)}]</span>' if label else ""
 def svg_map(p):
     pts = p["route"]; la0 = sum(x[1] for x in pts) / len(pts); k = math.cos(math.radians(la0))
@@ -41,21 +53,20 @@ def build(now):
     h.append('<h2>Summary</h2>' + ''.join(f'<p>{e(t)}</p>' for t in d["narrative"]))
     h.append('<h2>Today and recent, newest first</h2>')
     for x in d["feed"]:
-        h.append(f'<div class="it"><div class="when">{e(x["when"])}</div><div><span class="who">{e(x["who"])}</span> · {e(x["where"])} <span class="kind">{e(x["kind"])}</span></div><p>{e(x["text"])}</p>'
+        h.append(f'<div class="it"><div class="when">{e(x["when"])}</div><div><span class="who">{e(x["who"])}</span> · {e(x["where"])} <span class="kind">{e(x["kind"])}</span></div><p>{e(x["text"])}</p>{fig(x)}'
                  f'<div class="meta">Evidence: {e(x["evidence"])} · {a(x["url"], x["link_text"])}</div>'
                  + (f'<div class="oth"><b>Also:</b> {e(x["other"])}' + lk(x.get("links", [])) + '</div>' if x.get("other") else '') + '</div>')
     h.append('<h2>Mission status board</h2><p class="meta">Last checked ' + e(d["checked"]) + '. The date in the last column is the newest source date for that row.</p>')
     for g, rows in d["board"]:
         h.append(f'<h3>{e(g)}</h3><table><tr><th>Mission</th><th>Status</th><th>Source date</th><th>Links</th></tr>' + "".join(
-            f'<tr><td><b>{e(r["m"])}</b></td><td>{e(r["s"])}</td><td>{e(r["d"])}</td><td>{" · ".join(a(u, t) for t, u in r["links"]) or "per Scholar\'s course"}</td></tr>' for r in rows) + '</table>')
+            f'<tr><td><b>{e(r["m"])}</b></td><td>{e(r["s"])}</td><td>{e(r["d"])}</td><td>{" · ".join(a(u, t) for t, u in r["links"]) or "per Scholar\'s course"}</td></tr>' + (f'<tr><td colspan="4">{fig(r)}</td></tr>' if fig(r) else '') for r in rows) + '</table>')
     h.append('<h2>Perseverance counter</h2><div class="counter">'
              f'<div class="n"><b>{P["sol"]}</b><span>last waypoint in NASA\'s file: sol {P["sol"]} ({e(P["sol_date"])})</span></div>'
              f'<div class="n"><b>{P["km"]:.2f} km</b><span>{P["mi"]} miles driven in total (NASA\'s record: 45.22 km on sol 2006)</span></div>'
              f'<div class="n"><b>{P["lat"]:.4f}, {P["lon"]:.4f}</b><span>latitude, longitude (degrees north, east)</span></div></div>'
-             f'<p><b>Area:</b> {e(P["area"])}</p><p><b>Today\'s sol:</b> {e(P["est_sol"])} ({e(P["est_note"])})</p><p class="meta">{e(P["note"])}</p>'
+             + fig(P) + f'<p><b>Area:</b> {e(P["area"])}</p><p><b>Today\'s sol:</b> {e(P["est_sol"])} ({e(P["est_note"])})</p><p class="meta">{e(P["note"])}</p>'
              + svg_map(P) + '<p class="meta">Route drawn from the {n} waypoints in NASA\'s public traverse file, copied 27 Oct 2026. The path loops, so the area covered is far smaller than the distance driven. {l}</p>'.format(n=len(P["route"]), l=" · ".join(a(u, t) for t, u in P["links"])))
-    h.append('<h2>Curiosity</h2><ul>' + "".join(f'<li>{e(x["t"])}{lk(x["links"])}</li>' for x in d["curiosity"]) + '</ul>')
-    h.append('<h2>Money and politics</h2><ul>' + "".join(f'<li>{e(x["t"])}{lk(x["links"])}</li>' for x in d["money"]) + '</ul>')
+    h.append('<h2>Curiosity</h2>' + fig(d.get("curiosity_image", {})) + '<ul>' + "".join(f'<li>{e(x["t"])}{lk(x["links"])}</li>' for x in d["curiosity"]) + '</ul>')
     h.append('<h2>Plans and company claims</h2><p class="meta">Goals unless a budget and a contract exist. Each is labeled.</p><ul>' + "".join(f'<li><b>{e(x["who"])}</b>{chip(x["label"])}: {e(x["t"])}{lk(x["links"])}</li>' for x in d["plans"]) + '</ul>')
     h.append('<h2>Upcoming dates</h2><table><tr><th>When</th><th>What</th></tr>' + "".join(f'<tr><td>{e(w)}</td><td>{e(t)}{chip(l)}</td></tr>' for w, t, l in d["upcoming"]) + '</table>')
     h.append('<h2>Terms</h2><ul>' + "".join(f'<li><b>{e(t)}</b>: {e(x)}</li>' for t, x in d["glossary"]) + '</ul>')

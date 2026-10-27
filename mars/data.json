@@ -1,11 +1,11 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-10-27 11:12",
+ "updated": "2026-10-27 11:25",
  "checked": "27 Oct 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
   "Where things stand on 27 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove). Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; arrival at Mars is August 2027 per ESA and NASASpaceFlight [JAXA's own release gives no arrival date].",
-  "Money and politics: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October.",
+  "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "feed": [
@@ -20,6 +20,23 @@
    "link_text": "open the course",
    "other": "",
    "links": []
+  },
+  {
+   "when": "2026-10-27",
+   "who": "Grok Bot daily check of NASA's Mars pages (our own check)",
+   "kind": "our own check",
+   "where": "NASA Mars Future Plan page",
+   "text": "Low-cost Mars mission: the 2027 request (AAS summary of NASA's document) says a solicitation for a low-cost Mars mission \"will be released in October 2026\", aiming at a 2030 launch with a $220 million lifecycle cost, not counting the rocket. As of 27 October I did not find it released on NASA's Mars pages: not yet seen [unconfirmed]. The 2030 launch is a goal until funded [aspirational]. NASA's April slides name launch windows in fiscal years 2029, 2031 and 2033 as considerations.",
+   "evidence": "our own check; not finding a release is not proof that none exists",
+   "url": "https://science.nasa.gov/planetary-science/programs/mars-exploration/future-of-mars-plan/",
+   "link_text": "open NASA's page",
+   "other": "The 2027 request is the source of the October date.",
+   "links": [
+    [
+     "AAS summary of the 2027 request",
+     "https://aas.org/posts/news/2026/04/fy27-presidents-budget-request-nasa-nsf-and-doe-details"
+    ]
+   ]
   },
   {
    "when": "2026-10-26 23:40",
@@ -70,6 +87,11 @@
   {
    "when": "2026-10-22",
    "who": "Richard Speed, The Register",
+   "image": "img/mars-express.jpg",
+   "image_alt": "Artist's impression of ESA's Mars Express spacecraft in front of Mars",
+   "image_caption": "An artist's impression of ESA's Mars Express at Mars (a drawing, not a photo)",
+   "image_credit": "ESA, CC BY-SA 3.0 IGO, via Wikimedia Commons",
+   "image_url": "https://commons.wikimedia.org/wiki/File:Mars_Express.jpg",
    "kind": "named reporter (secondary source)",
    "where": "UK technology news site",
    "text": "Reports that ESA's Mars Express, at Mars since 2003, could support MMX when it arrives in 2027, with joint observations and imaging of the landing site. Says Mars Express's latest extension runs to 2029 and, quoting a former team member, is \"definitely the last\" (the same person notes the first \"last ever extension\" was around 2007). Says JAXA reported on 21 October that MMX's initial critical operations, including solar array deployment, were complete. Says MMX plans to collect about 10 g from Phobos, with return in 2031, and that ESA's Trace Gas Orbiter, not Mars Express, will be the main relay for the Rosalind Franklin rover.",
@@ -85,8 +107,29 @@
    ]
   },
   {
+   "when": "2026-10-21",
+   "who": "Vandi Verma, chief engineer for robotic operations, NASA JPL (Perseverance blog)",
+   "kind": "primary source",
+   "where": "NASA science blog, \"Tracks Along the Longest Drive on Another World\"",
+   "text": "Verma (post dated 12 October, published 21 October) says the odometer read 45.22 km (28.10 miles) on sol 2006 and explains the driving upgrades behind it: a higher tilt limit (24 degrees), smaller required belly clearance (20 cm), new braking and wheel-slip software, and an on-board position-finding tool that works like GPS on a world without it. About 200 meters short of the record on sol 1947, the team stayed to study outcrops instead of driving on. She says the team is exploring using generative AI to help plan paths.",
+   "evidence": "official NASA blog, named author; the AI use is described as being explored, not in use",
+   "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+   "link_text": "open the original",
+   "other": "",
+   "links": []
+  },
+  {
    "when": "2026-10-20",
    "who": "JAXA (Japan Aerospace Exploration Agency), launch release",
+   "image": "img/mmx-plan.jpg",
+   "image_alt": "Comic-style drawing of the MMX trip: launch from Tanegashima, arrival at Mars, then Phobos",
+   "image_caption": "Part of an ESA infographic, a drawing and not a photo of the launch: launch in October 2026, Mars in August 2027, Phobos in September 2027",
+   "image_credit": "ESA, CC BY-SA 3.0 IGO, via Wikimedia Commons",
+   "image_url": "https://commons.wikimedia.org/wiki/File:MMX_from_launch_to_Phobos_ESA529680.png",
+   "photo_link": {
+    "url": "https://jda.jaxa.jp/result.php?id=aa4643ac36d22d768ee1a6315d9d612c&lang=e",
+    "label": "JAXA Digital Archives, MMX launch photo (JAXA allows use only by application, so it is linked, not copied)"
+   },
    "kind": "primary source",
    "where": "global.jaxa.jp",
    "text": "JAXA announces that MMX launched on H3 flight No. 10 at 04:41:03 Japan time on 20 October 2026 (19:41 UTC on 19 October) from the Tanegashima Space Center. The rocket flew as planned; the spacecraft separated 71 minutes 13 seconds after liftoff and was placed in its planned orbit. The release gives no Mars arrival date.",
@@ -125,6 +168,11 @@
   {
    "when": "2026-10-14",
    "who": "Andrew Jones, Space.com",
+   "image": "img/starship-flight6.jpg",
+   "image_alt": "Aerial view of a rocket's white smoke trail rising from the Texas coast over the ocean",
+   "image_caption": "File photo, not the latest flight: the smoke trail of Starship's sixth test flight (19 November 2024) seen from the International Space Station",
+   "image_credit": "NASA/Don Pettit, NASA photo (generally not copyrighted), via Wikimedia Commons",
+   "image_url": "https://commons.wikimedia.org/wiki/File:Launch_of_SpaceX_Starship_6_rocket_seen_from_the_International_Space_Station_(iss072e220043,_cropped).jpg",
    "kind": "named reporter (secondary source)",
    "where": "Space.com",
    "text": "On Starship's tenth birthday: SpaceX's Starship has not flown to Mars; this year's Mars window (the roughly 26-month period when Earth and Mars line up for a launch) is closing with no Starship Mars launch; the next window is late 2028 to early 2029. Says Starship Flight 14 on 28 September reached orbit and that Flights 15 and 16 have no confirmed dates.",
@@ -142,18 +190,6 @@
      "https://x.com/elonmusk/status/2110947164512038931"
     ]
    ]
-  },
-  {
-   "when": "2026-10-21",
-   "who": "Vandi Verma, chief engineer for robotic operations, NASA JPL (Perseverance blog)",
-   "kind": "primary source",
-   "where": "NASA science blog, \"Tracks Along the Longest Drive on Another World\"",
-   "text": "Verma (post dated 12 October, published 21 October) says the odometer read 45.22 km (28.10 miles) on sol 2006 and explains the driving upgrades behind it: a higher tilt limit (24 degrees), smaller required belly clearance (20 cm), new braking and wheel-slip software, and an on-board position-finding tool that works like GPS on a world without it. About 200 meters short of the record on sol 1947, the team stayed to study outcrops instead of driving on. She says the team is exploring using generative AI to help plan paths.",
-   "evidence": "official NASA blog, named author; the AI use is described as being explored, not in use",
-   "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-   "link_text": "open the original",
-   "other": "",
-   "links": []
   },
   {
    "when": "2026-10-12",
@@ -181,8 +217,21 @@
    "evidence": "named reporter; NASA statement and Isaacman quotes as printed; Lockheed Martin's under-$3 billion return concept (by 2037) is a company claim [aspirational]",
    "url": "https://www.cnn.com/2026/10/12/science/nasa-mars-sample-return-sapphire-canyon-china",
    "link_text": "open the original",
-   "other": "",
-   "links": []
+   "other": "Where the budget papers stand on Mars Sample Return: NASA's 2026 request said it \"plans to terminate\" the program. For 2027, the American Astronomical Society (AAS) says the request \"reiterates the cancellation\", while CNN says the request does not mention it at all; the two read the document differently. The 2026 spending law gave $110 million for Mars Future Missions (NASA slides); the Planetary Society, an advocacy group, says that money was meant to buy down technical risk for a restructured sample return, and that the House committee bill for 2027 is \"silent\" on it.",
+   "links": [
+    [
+     "AAS summary of the 2027 request",
+     "https://aas.org/posts/news/2026/04/fy27-presidents-budget-request-nasa-nsf-and-doe-details"
+    ],
+    [
+     "NASA MEPAG slides",
+     "https://www.hou.usra.edu/meetings/mepagapril2026/presentations/Tuesday/1330_Morgan.pdf"
+    ],
+    [
+     "Planetary Society (advocacy group)",
+     "https://www.planetary.org/articles/house-appropriators-advance-key-nasa-funding-bill"
+    ]
+   ]
   },
   {
    "when": "2026-09-11",
@@ -228,6 +277,11 @@
   {
    "when": "2026-09-01",
    "who": "NASA, news release \"NASA Selects Blue Origin as Mars Telecommunications Network Provider\"",
+   "image": "img/new-glenn-escapade.jpg",
+   "image_alt": "A white New Glenn rocket climbing into a clear blue sky with a long exhaust plume",
+   "image_caption": "File photo of Blue Origin's New Glenn rocket launching on 13 November 2025 (the ESCAPADE flight). It is not part of the relay network.",
+   "image_credit": "U.S. Space Force photo by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
+   "image_url": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
    "kind": "primary source",
    "where": "nasa.gov",
    "text": "NASA announces it selected Blue Origin to provide the Mars Telecommunications Network (MTN), a relay satellite service for future Mars missions. NASA's April slides give the program as about $700 million. Blue Origin is a company with its own interest in the result.",
@@ -265,6 +319,40 @@
      "https://destevez.net/2026/03/where-is-tianwen-1/"
     ]
    ]
+  },
+  {
+   "when": "2026-05-13",
+   "who": "The Planetary Society (a space advocacy group), article on the House Appropriations Committee's NASA bill",
+   "kind": "advocacy group (interested source), secondary",
+   "where": "planetary.org",
+   "image": "img/us-capitol.jpg",
+   "image_alt": "The white U.S. Capitol building with its dome, under a clear blue sky",
+   "image_caption": "File photo: the U.S. Capitol, where Congress meets",
+   "image_credit": "Noclip, public domain, via Wikimedia Commons",
+   "image_url": "https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg",
+   "text": "Reports that the House committee's bill for 2027 keeps NASA flat at $24.4 billion, with Planetary Science at $2.5 billion and Mars Exploration at $300 million (the group's tables). The group says the bill is \"silent\" on Mars Sample Return. As far as I read, the full House has not passed it. Congress, not the White House request, sets the final amounts. Next: midterm elections on 3 November; the stopgap law runs out on 11 December.",
+   "evidence": "advocacy group's summary; figures as printed; I did not open the bill text",
+   "url": "https://www.planetary.org/articles/house-appropriators-advance-key-nasa-funding-bill",
+   "link_text": "open the article",
+   "other": "Senate: SpacePolicyOnline reported on 1 September that no Senate appropriations bill had been reported. The stopgap law (P.L. 119-103) keeps NASA at its 2026 level through 11 December 2026; see the 2 September item.",
+   "links": [
+    [
+     "SpacePolicyOnline",
+     "https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-04-03",
+   "who": "American Astronomical Society (AAS), summary of NASA's 2027 budget request",
+   "kind": "professional society (secondary summary of a government document)",
+   "where": "aas.org",
+   "text": "White House request for 2027: NASA $18.829 billion, 23% below the $24.438 billion enacted for 2026; Planetary Science $1.876 billion (down 26%); Mars Exploration $248.3 million; Perseverance operations $38.0 million, down from $87.5 million in the 2024 plan (AAS says NASA is \"reassessing objectives for the mission\"); Mars Future Missions $110 million. AAS reads Mars Odyssey, the U.S. part of Mars Express and the U.S. contribution to ESA's Rosalind Franklin rover as missions the request does not mention, meaning proposed endings carried over from the 2026 request; the House committee report protects some other science missions, and I did not confirm it names these three.",
+   "evidence": "society's summary of NASA's own document; figures as printed; I did not open the request itself",
+   "url": "https://aas.org/posts/news/2026/04/fy27-presidents-budget-request-nasa-nsf-and-doe-details",
+   "link_text": "open the summary",
+   "other": "",
+   "links": []
   }
  ],
  "board": [
@@ -303,6 +391,11 @@
     },
     {
      "m": "Zhurong (China, CNSA)",
+     "image": "img/zhurong-hirise.jpg",
+     "image_alt": "Orbital view of orange Martian plain with two small dark-blue dots, a lander and a rover, and a pale blast pattern around them",
+     "image_caption": "China's Tianwen-1 lander (upper dot, with its blast pattern) and the Zhurong rover (lower dot), seen from orbit on 6 June 2021 by NASA's HiRISE camera",
+     "image_credit": "NASA/JPL-Caltech/University of Arizona, NASA image (generally not copyrighted), via Wikimedia Commons",
+     "image_url": "https://commons.wikimedia.org/wiki/File:Tianwen-1_Lander_and_Zhurong_Rover_in_Southern_Utopia_Planitia.jpg",
      "s": "Asleep since May 2022; it did not wake up. China has not said the mission is over. Zhang Rongqiao, the mission's chief designer, has said dust was the most likely cause (per the Planetary Society and marsprogress.com).",
      "d": "Not re-checked at CNSA today; secondary source 6 Oct 2026 [unconfirmed]",
      "links": [
@@ -433,6 +526,11 @@
     },
     {
      "m": "ESCAPADE, two orbiters (NASA and UC Berkeley)",
+     "image": "img/new-glenn-escapade.jpg",
+     "image_alt": "A white New Glenn rocket climbing into a clear blue sky with a long exhaust plume",
+     "image_caption": "Blue Origin's New Glenn rocket launching ESCAPADE from Cape Canaveral on 13 November 2025",
+     "image_credit": "U.S. Space Force photo by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
+     "image_url": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
      "s": "Launched 13 Nov 2025 on Blue Origin's New Glenn. The Mars departure burn is in November 2026 and arrival is September 2027 per the Berkeley mission-design page. NASA's own page says only \"fall of 2026\" for the Earth flyby. FY2027 request: $4.5M.",
      "d": "27 Oct 2026",
      "links": [
@@ -453,6 +551,11 @@
    [
     {
      "m": "MAVEN (NASA)",
+     "image": "img/maven-concept.jpg",
+     "image_alt": "Computer drawing of the MAVEN spacecraft with solar panels and a gold and silver body",
+     "image_caption": "NASA artist's concept of MAVEN, made before its 2013 launch (a drawing, not a photo from Mars)",
+     "image_credit": "NASA, public domain, via Wikimedia Commons",
+     "image_url": "https://commons.wikimedia.org/wiki/File:Maven_spacecraft_full.jpg",
      "s": "Ended. Last heard 6 Dec 2025; NASA declared the mission ended 3 June 2026. An anomaly review board found it unrecoverable. The root cause is still being investigated, with a final report expected later this year (per Scholar's course; not re-read today).",
      "d": "3 Jun 2026",
      "links": [
@@ -484,6 +587,11 @@
   ]
  ],
  "perseverance": {
+  "image": "img/perseverance-latest.jpg",
+  "image_alt": "Brown Martian soil with scattered rocks, one large light rock in the lower right with a small hole",
+  "image_caption": "Latest view: raw image from the right Mastcam-Z camera, sol 2020 (26 October 2026), rocks and soil near the rover. Raw images are not processed or checked",
+  "image_credit": "NASA/JPL-Caltech/ASU, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
+  "image_url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_2020_0846263644_223EBY_N0920000ZCAM10053_0480LMJ",
   "sol": 2009,
   "sol_date": "14 Oct 2026",
   "km": 45.22,
@@ -491,8 +599,8 @@
   "lat": 18.4356,
   "lon": 77.2329,
   "area": "Southern border of \"Idubi\", an olivine-rich outcrop on the rim of Jezero crater; the rover's recent target there is called \"Tinga\".",
-  "est_sol": "about 2021 or 2022",
-  "est_note": "our own arithmetic: sol 2009 = 14 Oct, and one sol is about 1.0275 Earth days. NASA has not posted a newer sol in the sources I opened.",
+  "est_sol": "about 2021",
+  "est_note": "NASA's raw-image feed lists images from sol 2020 taken on 26 October 2026; 27 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "\"Last waypoint in NASA's file\" is the newest point in NASA's public traverse file (a list of the rover's stopping points). That file does not update every day. The record figure of 45.22 km was for sol 2006 (11 Oct); the file's sol 2009 figure is 45,223.6 meters, which rounds to the same 45.22 km. If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -4078,99 +4186,13 @@
    ]
   }
  ],
- "money": [
-  {
-   "t": "Mars Sample Return (MSR): no approved program. NASA's 2026 request said it \"plans to terminate\" MSR. For 2027, AAS says the request \"reiterates the cancellation\", while CNN's Ashley Strickland says the request does not mention the program at all; the two read the document differently. NASA's July 2026 statement: it is \"exploring a range of potential return options\" that are simpler and cheaper, \"including possible commercial or international contributions\". The 2026 spending law gave $110 million for Mars Future Missions (NASA slides); the Planetary Society says it was meant to buy down technical risk for a restructured sample return. The Planetary Society, an advocacy group for space exploration, says the House committee bill for 2027 is \"silent\" on MSR.",
-   "links": [
-    [
-     "CNN",
-     "https://www.cnn.com/2026/10/12/science/nasa-mars-sample-return-sapphire-canyon-china"
-    ],
-    [
-     "NASA MEPAG slides",
-     "https://www.hou.usra.edu/meetings/mepagapril2026/presentations/Tuesday/1330_Morgan.pdf"
-    ],
-    [
-     "Planetary Society",
-     "https://www.planetary.org/articles/house-appropriators-advance-key-nasa-funding-bill"
-    ]
-   ]
-  },
-  {
-   "t": "2027 request versus Congress. White House request (3 April 2026): NASA $18.829 billion, 23% below the $24.438 billion enacted for 2026; Planetary Science $1.876 billion (down 26%); Mars Exploration $248.3 million; Perseverance operations $38.0 million, down from $87.5 million in the 2024 plan (AAS says NASA is \"reassessing objectives for the mission\"); Mars Future Missions $110 million (American Astronomical Society, AAS, summary of NASA's request). House Appropriations Committee bill (13 May): NASA flat at $24.4 billion, Planetary Science $2.5 billion, Mars Exploration $300 million (Planetary Society tables; the full House has not passed it as far as I read). Senate: SpacePolicyOnline reported on 1 September that no Senate appropriations bill had been reported. Stopgap law P.L. 119-103 (signed 2 September) keeps NASA at the 2026 level through 11 December 2026.",
-   "links": [
-    [
-     "AAS summary",
-     "https://aas.org/posts/news/2026/04/fy27-presidents-budget-request-nasa-nsf-and-doe-details"
-    ],
-    [
-     "Planetary Society",
-     "https://www.planetary.org/articles/house-appropriators-advance-key-nasa-funding-bill"
-    ],
-    [
-     "SpacePolicyOnline",
-     "https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/"
-    ]
-   ]
-  },
-  {
-   "t": "Missions the request does not mention (AAS reads these as proposed endings, carried over from the 2026 request): Mars Odyssey, the U.S. part of Mars Express, and the U.S. contribution to ESA's Rosalind Franklin rover. The House committee report protects some other science missions; I did not confirm it names these three.",
-   "links": [
-    [
-     "AAS summary",
-     "https://aas.org/posts/news/2026/04/fy27-presidents-budget-request-nasa-nsf-and-doe-details"
-    ]
-   ]
-  },
-  {
-   "t": "Blue Origin's Mars Telecommunications Network (MTN, a relay network for Mars): NASA selected Blue Origin on 1 September 2026 (NASA release). NASA's April slides give about $700 million total, a fixed-price contract.",
-   "links": [
-    [
-     "NASA release",
-     "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/"
-    ],
-    [
-     "NASA MEPAG slides",
-     "https://www.hou.usra.edu/meetings/mepagapril2026/presentations/Tuesday/1330_Morgan.pdf"
-    ]
-   ]
-  },
-  {
-   "t": "The protests against the MTN award, both by Rocket Lab USA at the GAO: B-424825.1 filed 11 September, decision due 21 December 2026; B-424825.2 filed 23 October, decision date shown 1 February 2027. Both open. Rocket Lab is a competitor with its own interest. GAO's pages do not state the arguments.",
-   "links": [
-    [
-     "GAO B-424825.1",
-     "https://www.gao.gov/docket/b-424825.1"
-    ],
-    [
-     "GAO B-424825.2",
-     "https://www.gao.gov/docket/b-424825.2"
-    ]
-   ]
-  },
-  {
-   "t": "Low-cost Mars mission solicitation: the 2027 request (AAS summary of NASA's document) says a low-cost mission solicitation \"will be released in October 2026\", targeting a 2030 launch at a $220 million lifecycle cost, not counting the rocket. As of 27 October I did not find it released on NASA's Mars pages: not yet seen [unconfirmed]. [aspirational until funded.] NASA's April slides name launch windows FY29, FY31 and FY33 as considerations.",
-   "links": [
-    [
-     "AAS summary",
-     "https://aas.org/posts/news/2026/04/fy27-presidents-budget-request-nasa-nsf-and-doe-details"
-    ],
-    [
-     "NASA Mars Future Plan page",
-     "https://science.nasa.gov/planetary-science/programs/mars-exploration/future-of-mars-plan/"
-    ]
-   ]
-  },
-  {
-   "t": "Politics to watch: midterm elections 3 November 2026; the stopgap ends 11 December. Congress, not the White House request, sets the final amounts.",
-   "links": [
-    [
-     "SpacePolicyOnline",
-     "https://spacepolicyonline.com/news/house-clears-fy2027-cr-now-to-the-president/"
-    ]
-   ]
-  }
- ],
+ "curiosity_image": {
+  "image": "img/curiosity-latest.jpg",
+  "image_alt": "Gray photo of a rocky hillside under a pale sky",
+  "image_caption": "Latest view: raw image from the right Navigation Camera, sol 5055 (26 October 2026), a rocky ridge and slope ahead of the rover. Raw images are not processed or checked",
+  "image_credit": "NASA/JPL-Caltech, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
+  "image_url": "https://mars.nasa.gov/msl/multimedia/raw-images/NRB_846256044EDR_S1251326NCAM00594M_"
+ },
  "plans": [
   {
    "who": "SpaceX (company)",
@@ -4256,7 +4278,7 @@
   },
   {
    "who": "NASA: Mars Future Missions and the low-cost mission",
-   "t": "A $110 million technology and low-cost-mission line, a planned solicitation aimed at a 2030 launch, and a payload program. See Money and politics.",
+   "t": "A $110 million technology and low-cost-mission line, a planned solicitation aimed at a 2030 launch, and a payload program. See the 3 April item in the news feed.",
    "label": "aspirational",
    "links": [
     [
@@ -4468,7 +4490,7 @@
    ]
   ],
   [
-   "Government and money",
+   "Budget, Congress and GAO",
    [
     [
      "GAO docket B-424825.1",
