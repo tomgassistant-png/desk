@@ -6511,6 +6511,28 @@
      "url": "https://x.com/i/status/2114902088677543960"
     }
    ]
+  },
+  {
+   "id": "2026-10-27-marc-andreessen-1",
+   "edition": "2026-10-27",
+   "section": "marc-andreessen",
+   "headline": "Andreessen publishes a new essay on AI agents and the \"self-driving company\"",
+   "lead": "On 26 October 2026, Marc Andreessen published an essay titled \"Let Chaos Reign, and Then Rein In Chaos\" on the a16z newsletter site and as an X article on @pmarca.",
+   "text": "On 26 October 2026, Marc Andreessen published an essay titled \"Let Chaos Reign, and Then Rein In Chaos\" (subtitle \"Replit and the dawn of the self-driving company\") on the a16z newsletter site, and posted it as an X article from @pmarca at 16:08 UTC (18:08 Israel time). It was written for the launch of Replit for Business, a product of the a16z portfolio company Replit. He argues that important workplace technologies such as the personal computer, the spreadsheet and email first arrived in a disorderly way, and that companies then had to build controlled settings that kept employee initiative alive. He says AI agents are following the same path, and that companies will become \"self-driving\" when people set goals and agents carry out the work. It is his first written essay found since \"Investing in Cognition\" on 9 September 2026, and his first original X post found since 18 October. His X posting is still far below his pre-July level: his total post count rose by 4 in the day to 27 October, and he made 47 posts in the seven days to 27 October (about 7 a day), compared with about 25 a day before July.",
+   "sources": [
+    {
+     "name": "a16z newsletter, 26 Oct 2026",
+     "url": "https://www.a16z.news/p/let-chaos-reign-and-then-rein-in"
+    },
+    {
+     "name": "X, @pmarca article, 26 Oct 2026",
+     "url": "https://x.com/pmarca/status/2114751107293749731"
+    },
+    {
+     "name": "Replit blog, Amjad Masad, 26 Oct 2026",
+     "url": "https://replit.com/blog/rise-of-self-driving-company"
+    }
+   ]
   }
  ]
 }
