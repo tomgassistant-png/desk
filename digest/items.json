@@ -262,6 +262,10 @@
       {
        "label": "ReynoldsRetro, Simon Reynolds's blog (music critic; 11 Oct 2026 post: his unpublished 1999 Lingua Franca profile of the CCRU, with Land, Sadie Plant and Mark Fisher)",
        "url": "https://reynoldsretro.blogspot.com/"
+      },
+      {
+       "label": "Jacques Vallée, official site (scientist, author, investor; UFO research, articles, media)",
+       "url": "https://www.jacquesvallee.net/"
       }
      ]
     }
@@ -486,6 +490,11 @@
        "url": "https://linktr.ee/alektryon"
       }
      ]
+    },
+    {
+     "name": "Jacques Vallée",
+     "handle": "no known X account",
+     "who": "French-American computer scientist, venture investor and UFO researcher (born 1939). Author of Passport to Magonia and Forbidden Science; argues the UFO phenomenon works like a control system, not visitors from other planets. Added 27 Oct 2026 at Tom's request. Official site: jacquesvallee.net. The X account @valleeniac is a parody, not him."
     }
    ],
    "baseline_position": "bottom",
