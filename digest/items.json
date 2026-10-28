@@ -6542,8 +6542,8 @@
    "id": "2026-10-28-israel-election-1",
    "edition": "2026-10-28",
    "section": "israel-election",
-   "headline": "Israel votes with 77.7 percent turnout, the highest since 2001; exit polls show no 61-seat majority, and overnight updates moved toward Netanyahu",
-   "lead": "Turnout was 77.7 percent (5,695,682 of 7,331,981 eligible voters), the highest since 2001, and none of the 10 p.m. exit polls gave either bloc the 61 seats needed to govern.",
+   "headline": "Israel votes with 77.7 percent turnout, the highest since 1999; exit polls show no 61-seat majority, and overnight updates moved toward Netanyahu",
+   "lead": "Turnout was 77.7 percent (5,695,682 of 7,331,981 eligible voters), the highest since 1999, and none of the 10 p.m. exit polls gave either bloc the 61 seats needed to govern.",
    "text": "At 10 p.m., Channel 12, Channel 13 and Kan all had the Netanyahu bloc at 50 seats and the Eisenkot-led \"change\" bloc at 52, with Likud the largest party (Channel 12: Likud 24, Yashar! 22) and the Arab parties at about 17. The right-leaning channels differed: i24NEWS had 55 to 49 and Channel 14 had 60 to 43. Overnight updates moved toward Netanyahu: Kan revised to a 51–51 tie, and Channel 12 revised to Netanyahu bloc 52, Eisenkot bloc 49 and Arab parties 19, with Likud up to 27 and Yashar! down to 21. With about 21.4 percent of votes counted (1.2 million) at 4:18 a.m. Israel time, Ynet reported Likud at 23.4 percent, Yashar! 15.7 percent and B'Yachad (Bennett–Lapid) 8.5 percent, with Ra'am at 3.2 percent, just under the 3.25 percent threshold. Early counts are not representative of the final result. Arutz Sheva projected 65 seats for the current coalition from an 11.1 percent count; this is a partisan outlet's projection and is unconfirmed. On Polymarket at about 4:30 a.m. Israel time, Netanyahu was at 53.5 percent to be the next prime minister (up 26 points in a day) and Eisenkot at 22 percent (down 33 points). Official results are due by 4 November.",
    "sources": [
     {
@@ -6862,36 +6862,46 @@
    "id": "2026-10-28-israel-election-3",
    "edition": "2026-10-28",
    "section": "israel-election",
-   "headline": "Backgrounder: how Israel's Arab citizens voted, and why their seats matter",
-   "lead": "Israel's Arab citizens turned out in record numbers on 27 October, with an estimated 80 percent turnout (Channel 12 estimate, not official). Exit polls gave the Joint List and Ra'am 18 or 19 seats combined, and the partial official count at 5:58 a.m. on 28 October showed 16.",
-   "text": "Israel's Arab citizens turned out in record numbers on 27 October. Channel 12 estimated Arab turnout at about 80 percent, which is an estimate and not an official figure. In 2022 it was about 53 percent, according to the Israel Democracy Institute. National turnout was 77.7 percent, the highest since 1999, according to the Central Elections Committee as reported by Al Jazeera and Israel National News. All figures below are as of the morning of 28 October, and the real seat count is not yet known.",
+   "headline": "Backgrounder: the Arab vote, the Gaza war, and who the Arab parties are",
+   "lead": "Arab turnout was a record, estimated at about 80 percent (Channel 12 estimate, not official). The Arab parties are four separate groups with different voters and ideas, and they work together only in part. The latest committee count I found, at 5:58 a.m. on 28 October, gave the Joint List and Ra'am 16 seats combined, against 18 or 19 in the exit polls.",
+   "text": "Israel's Arab citizens voted in record numbers on 27 October. Channel 12 estimated Arab turnout at about 80 percent, which is an estimate and not an official figure. The Israel Democracy Institute (IDI) measured 53.2 percent in Arab and Druze towns in 2022. National turnout at the 10 p.m. close was 77.7 percent, up from 70.6 percent in 2022 (Times of Israel, citing the Central Elections Committee). That is the highest since 1999, when it was 78.7 percent (the committee's historical table; Times of Israel, Al Jazeera). Ynet wrote 'since 2001', but 2001 was a vote for prime minister only, at 62.3 percent, so we use 1999. The final Arab turnout is not yet published.",
    "body": [
-    "What the numbers say so far. Exit polls from Channels 11, 12 and 13, published at 10 p.m. on election night, gave the Joint List 11 or 12 seats and Ra'am 7, for a combined 18 or 19 (Times of Israel). Exit polls are surveys of voters, not counted votes, and they can be wrong. The outgoing Knesset has 10 seats held by these two parties (Times of Israel). The official partial count, as of 5:58 a.m. on 28 October with 41.9 percent of ballot boxes counted, showed the Joint List and Ra'am together at 16 seats (Times of Israel). Israel National News reported 12 for the Joint List and 4 for Ra'am at an earlier point in the count, 37.4 percent. That puts Ra'am below its exit-poll figure of 7. We could not find a confirmed reason. The Times of Israel notes that the results are partial, and that ballots in double envelopes, which include soldiers' votes, are counted later. The final count is not available as of this writing.",
-    "Where turnout jumped. Ynet reported these turnout rates for Arab towns: Sakhnin 86.8 percent, Kafr Qasim 84.9, Rahat 82, Kuseife 81.2, Hura 79.1, Tayibe 79, Shefa-Amr 75.9, Umm al-Fahm 75.7 and Nazareth 72.2. In 2022, the Times of Israel and Ynet reported Umm al-Fahm at 38.3 percent, Nazareth 48.3, Rahat 60.6 and Sakhnin 68.4.",
-    "The campaign and the fight over the vote. In September the Central Elections Committee voted to disqualify the Joint List and Ra'am, and also Hadash-Ta'al lawmaker Ofer Cassif and Balad's leader Sami Abu Shehadeh. On 2 October the Supreme Court unanimously reversed the bans on both lists and, by 7 to 2, reinstated Cassif. Abu Shehadeh withdrew after the court's president told him a majority of the justices favored disqualifying him (Al Jazeera, citing Israeli media). On 15 October Likud and Religious Zionism said they would send nearly 2,000 activists to polling stations in Arab communities because of fraud claims. The Times of Israel wrote that there is no evidence of widespread voter fraud in Israel. On election day Netanyahu posted a video warning that Arab voters were 'racing to the ballots.' He also said three 'senior Ra'am' figures were arrested with envelopes of cash. Police said three residents of two Bedouin communities in the Negev were arrested on suspicion of election bribery, and that cash and Ra'am ballot slips were found. The Times of Israel wrote that there is no indication they were senior Ra'am figures. We could not find a Ra'am response, and no charges had been reported by the morning of 28 October.",
-    "Why these seats matter. Ra'am became the first Arab party to join an Israeli government in 2021, in the coalition that briefly removed Netanyahu (Al Jazeera). Before this election, the Times of Israel reported that Ra'am wants to govern with the Zionist opposition. The Joint List has offered a conditional 'safety net' for an anti-Netanyahu minority government. Gadi Eisenkot and most opposition leaders have said they will not form a government with either party. Avigdor Liberman has also ruled out a minority government. In the partial count, Netanyahu's bloc held 57 seats and the opposition 47, so the Arab parties' role depends on the final count. Ra'am leader Mansour Abbas said on Channel 12, before the first votes came in, 'With the numbers we have now, there is no government.' Netanyahu has said a government resting on Arab parties would be 'forbidden.' Official results are expected around noon on 29 October (Map the General, an unofficial site that tracks the count), and the legal deadline for publication is 4 November.",
-    "Background Arab voters point to. In 2018 the Knesset passed the Nation-State Law. Its text says Hebrew is the state language and gives Arabic 'special status.' Al Jazeera's reporter Nour Odeh said the Knesset has passed more than 100 laws that discriminate against Arab citizens. That is her claim, and we did not count the laws. A 2017 planning law, the Kaminitz law, raised fines and penalties for building without a permit. Critics said it mostly hit Arab homes, because Arab towns find it hard to get permits (Times of Israel, 2017). Crime is a daily concern. Abraham Initiatives, an Arab-Jewish group, counted 186 Arab deaths in crime-related violence in 2026 as of 23 October, against 208 in the same period of 2025, a drop of about 10.5 percent (Israel Hayom). We did not verify how the war in Gaza affected Arab voters' choices, and we do not state that here."
+    "The count so far. The newest committee figures we could confirm are from 5:58 a.m. on 28 October, with 41.9 percent of ballot boxes counted: Joint List 12 seats, Ra'am 4, together 16. The Netanyahu bloc had 57 seats and the opposition 47 (Times of Israel). A seat tracker, israelielection.org, showed the same figures when checked at 7:15 a.m. (its seat counts are its own estimates). The final exit polls were Channel 13 at 1:14 a.m. (Joint List 11, Ra'am 7), Kan 11 at 1:40 a.m. (11 and 7) and Channel 12 at 2:17 a.m. (12 and 7), so 18 or 19 combined. Ra'am is below its exit-poll figure, and we found no confirmed reason. The count is partial, and double-envelope ballots, which include soldiers' votes, are counted later (Times of Israel). The two groups held 10 seats when the Knesset dissolved on 17 July: Hadash 3, Ta'al 2 and Ra'am 5 (israelielection.org).",
+    "The Gaza war and Arab voters. Direct evidence is thin, so each item is attributed. In an IDI poll of 500 Arab citizens in December 2025, only 13 percent felt free to speak on social media, down from 21 percent in December 2023. A June 2025 Dayan Center survey found 75.2 percent said the war hurt Arab-Jewish relations, yet 54 percent named crime as the top issue and 23.2 percent named ending the war. In IDI's August-September 2026 poll, about 32 percent of Arab respondents (150 people, a small sample) called 7 October a central factor in their vote, against 68 percent of Jews. In September 2025, 93 percent of Arabs and 60 percent of Jews told IDI it is time to end the war. Police and prosecutions: Adalah, an Arab rights group, reported in October 2023 that the police commissioner refused permits for Gaza solidarity protests, that at least 80 people were arrested over social media posts and 17 at protests by 15 October, and that 89 students faced discipline. It says the Knesset ethics committee suspended Hadash lawmaker Ofer Cassif. In 2026 the Central Elections Committee voted to disqualify Cassif and Balad's Sami Abu Shehadeh. The Supreme Court reinstated Cassif 7 to 2. Abu Shehadeh withdrew on 2 October after the court's president said most justices favored barring him over an article that called 7 October 'an important historical event'; he denies supporting the attack (Al Jazeera). Bedouin: CNN reported in September 2024 that, per lawmaker Waleed Alhwashla, 22 Bedouin were killed on 7 October, 7 by rockets that hit unrecognized villages. The Hostage Families Forum counted 8 Bedouin kidnapped; as of that report three were freed, one was believed dead, one was killed by Israeli fire while fleeing and three were still held. That status is from 2024 and may be out of date. Turnout: Haaretz's Jack Khoury wrote that a right-wing scare campaign pushed Arab voters to the polls, and Al Jazeera's Nour Odeh said even habitual boycotters voted. We found no study that measures why. In the December 2025 IDI poll, 24 percent said they would not vote.",
+    "Who is who: Ra'am (United Arab List, led by Mansour Abbas). Times of Israel calls it Islamist; J Street calls it the political arm of the Islamic Movement's southern branch. The Middle East Institute's Naif Abu Sharkia writes that the founder, Sheikh Abdullah Nimer Darwish, 'was part of the Muslim Brotherhood movement' but that the southern branch does not follow Brotherhood rulings as firmly as Hamas or the northern branch. So 'Brotherhood-aligned' fits its roots, not a current chain of command. Its base is Bedouin towns: in 2022 it won 73.9 percent of votes in the Negev (IDI). It joined the Bennett-Lapid government in 2021, the first Arab party in a coalition (IDI). This year it fields a Jewish candidate, Yoav Segalovitz, in second place (Al Jazeera; The Conversation).",
+    "Hadash (led by Yousef Jabareen, who replaced Ayman Odeh after winning 82 percent in a 16 May primary; Times of Israel). It is the Communist-rooted list, founded in 1977. IDI calls it far left and socialist, and it supports two states. It is an Arab-Jewish party with mostly Arab voters. In 2022 it led around Nazareth and the Sakhnin valley, with about 40 percent, and won some Jewish votes in mixed cities (IDI). Jabareen is from Umm al-Fahm, and Hadash is trying to win Triangle and Negev votes from Ra'am (Times of Israel).",
+    "Ta'al (led by Ahmad Tibi). Founded in 1996 by Tibi. IDI calls it secular, and J Street calls it Arab nationalist. It supports a Palestinian state and civil equality. It ran with Hadash in 2022.",
+    "Balad. Founded in 1996 by Azmi Bishara. IDI describes it as far left and secular, calling for 'a state of all its citizens', a Palestinian state with Jerusalem as capital and recognition of Arabs as a national minority. It was strongest in 2022 in the mixed central cities, Lod and Jaffa (IDI). It ran alone in 2022 and missed the threshold with 2.9 percent.",
+    "The northern branch of the Islamic Movement, led by Sheikh Raed Salah, is not on the ballot. Israel outlawed it on 17 November 2015 The government cited incitement and ties to the Muslim Brotherhood and Hamas (AP, in the Guardian). It rejects the Knesset; JFeed reported on 25 October that Salah and deputy Kamal Khatib urged a boycott and rejected both Ra'am's path and the Joint List's (single report, unconfirmed).",
+    "Who the voters are. About 2.1 million Arabs live in Israel, 20.9 percent of the population, which includes 3.7 percent who live in East Jerusalem. Arab citizens alone are 17.2 percent (end-2023 data from the Central Bureau of Statistics, in IDI's 2024 report). Of Arab citizens, 83.5 percent are Muslim (including about 300,000 Negev Bedouin, per CNN), 8.9 percent Druze and 7.6 percent Christian. A weaker secondary source gives 86.1, 6.8 and 7.1 for 2025, so treat these shares as approximate. About 49 percent live in the north, 19 percent in the Triangle, 18 percent in the Negev and 9 percent in mixed cities (IDI). Druze voters mostly choose Zionist parties: about 90 percent did so in 2022 (IDI). In some Galilee Christian villages Hadash-Ta'al finished first in 2022 with 39.8 percent (IDI).",
+    "Do they work together? Partly. The Joint List formed in 2015 after the electoral threshold was raised; it won 13 seats in 2015, broke apart before April 2019, ran again in September 2019 (13 seats) and 2020 (15 seats). Ra'am left before the 2021 vote, and in 2022 Balad also ran alone (IDI; Times of Israel). The differences are of ideology and government role. Ra'am wants to be in the government, including with Zionist parties. Hadash, Ta'al and Balad prefer to support or block from outside and oppose joining a government. They also differ on religion: Ra'am is conservative, the others secular or socialist. The four parties signed an agreement in January, reported by J Street as 22 January in Sakhnin, to revive the list (Times of Israel). Talks then stalled because Abbas wanted a purely technical list, and the other three would not promise to avoid opposing any government Ra'am joined (Times of Israel, 10 June). Hadash, Ta'al and Balad went ahead without Ra'am. The two sides signed a surplus-vote agreement in September, under which leftover votes are pooled, with a pledge of a clean campaign (Ynetnews). The Official Gazette published it on 19 October (israelielection.org, one source).",
+    "What they say now. Jabareen: 'we will make the responsible decision... that will ultimately send Netanyahu home.' Tibi: 'Without the Joint List, it's impossible to tip the balance.' and 'After the election, we'll get a phone call' (+972 Magazine, 27 October). The Conversation reports that the Joint List offered outside support on conditions, including a funded crime plan, and that Abbas and Jabareen condemned 7 October. The rivalry is open: a Joint List official, Noa Levy, criticized Ra'am for not raising the occupation (+972). On 28 October Abbas said the opposition must reach 61 seats and that 'with the numbers we have now, there is no government' (Al Jazeera). Gadi Eisenkot said Ra'am, 'including Mansour Abbas', would not be in his government; Segalovitz replied that Eisenkot cannot form one without Ra'am (Times of Israel, 26 September).",
+    "Unconfirmed or in dispute. Final seats and Arab turnout; why Ra'am trails its exit polls; the 2024 hostage status of the Bedouin; the JFeed boycott report; the Gazette date. We did not find Arab-sector polling that asks directly how the Gaza war changed party choice."
    ],
    "sources": [
-    {
-     "name": "Times of Israel: Arab parties revel as exit polls project historic gains",
-     "url": "https://www.timesofisrael.com/arab-parties-revel-as-exit-polls-project-historic-gains-but-kingmaker-role-still-in-doubt/"
-    },
     {
      "name": "Times of Israel: partial count, 41.9% of ballots counted (5:58 a.m., 28 Oct)",
      "url": "https://www.timesofisrael.com/liveblog_entry/with-nearly-42-of-ballots-counted-pms-bloc-leads-opposition-57-47-arab-parties-hold-remaining-seats/"
     },
     {
+     "name": "Times of Israel: live blog, 28 Oct (turnout 77.7%, up from 70.6%)",
+     "url": "https://www.timesofisrael.com/liveblog-october-28-2026/"
+    },
+    {
+     "name": "Times of Israel: Arab parties revel as exit polls project historic gains",
+     "url": "https://www.timesofisrael.com/arab-parties-revel-as-exit-polls-project-historic-gains-but-kingmaker-role-still-in-doubt/"
+    },
+    {
+     "name": "Times of Israel: Hadash, Ta'al, Balad announce slate without Ra'am (10 Jun 2026)",
+     "url": "https://www.timesofisrael.com/arab-parties-hadash-taal-balad-announce-joint-electoral-slate-without-raam/"
+    },
+    {
+     "name": "Times of Israel: Eisenkot says Ra'am won't be in his government (26 Sep)",
+     "url": "https://www.timesofisrael.com/eisenkot-raam-wont-be-in-my-government-pms-approval-of-qatari-funds-between-breach-of-trust-and-treason/"
+    },
+    {
      "name": "Times of Israel: Netanyahu warns of Arab voters 'racing to the ballots' (27 Oct)",
      "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-warns-once-again-of-arab-voters-racing-to-the-ballots-accuses-raam-operatives-of-trying-to-steal-the-election-from-us/"
-    },
-    {
-     "name": "Times of Israel: Likud, Smotrich to put 2,000 activists at Arab polling stations (15 Oct)",
-     "url": "https://www.timesofisrael.com/likud-smotrich-say-theyll-put-2000-activists-at-arab-polling-stations-on-election-day/"
-    },
-    {
-     "name": "Times of Israel: new law raises sanctions for illegal construction (2017)",
-     "url": "https://www.timesofisrael.com/new-legislation-ups-sanctions-for-illegal-construction/"
     },
     {
      "name": "Al Jazeera: Arab parties on track to win record seats (28 Oct)",
@@ -6902,36 +6912,108 @@
      "url": "https://www.aljazeera.com/news/2026/10/2/israels-supreme-court-overturns-election-panel-ban-on-arab-parties"
     },
     {
-     "name": "Israel National News: live election results (partial count)",
+     "name": "Israel National News: live election results",
      "url": "https://www.israelnationalnews.com/news/435272"
     },
     {
-     "name": "Ynet (Hebrew): turnout in Arab and Haredi communities",
-     "url": "https://www.ynet.co.il/news/article/s1by00qrnfx"
-    },
-    {
-     "name": "Ynetnews: election night coverage",
-     "url": "https://www.ynetnews.com/article/hym008yc3fe"
-    },
-    {
-     "name": "The Guardian: Palestinian parties and the Knesset exit polls (27 Oct)",
-     "url": "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape"
+     "name": "israelielection.org: results page (checked 7:15 a.m., 28 Oct)",
+     "url": "https://www.israelielection.org/results"
     },
     {
      "name": "Map the General: Israel results page",
      "url": "https://mapthegeneral.com/il/he/results/"
     },
     {
-     "name": "Israel Democracy Institute: 2022 election turnout",
-     "url": "https://en.idi.org.il/articles/47297"
+     "name": "Central Elections Committee: turnout in Knesset elections since 1949 (Hebrew)",
+     "url": "https://www.gov.il/apps/elections/elections-knesset-16/heb/about/percent_votes.html"
     },
     {
-     "name": "Israel Hayom (Hebrew): Abraham Initiatives homicide count",
-     "url": "https://www.israelhayom.co.il/israelnow/article/21694242"
+     "name": "Ynet (Hebrew): turnout in Arab and Haredi communities",
+     "url": "https://www.ynet.co.il/news/article/s1by00qrnfx"
     },
     {
-     "name": "Knesset: text of the Nation-State Law",
-     "url": "https://main.knesset.gov.il/en/News/PressReleases/Pages/Pr13978_pg.aspx"
+     "name": "Ynetnews: election night coverage ('since 2001')",
+     "url": "https://www.ynetnews.com/article/bknat9r3ge"
+    },
+    {
+     "name": "Ynetnews: Arab parties sign surplus-vote agreement (Sept 2026)",
+     "url": "https://www.ynetnews.com/article/cttpu7pfv"
+    },
+    {
+     "name": "IDI: how Arab and Druze communities voted in 2022",
+     "url": "https://en.idi.org.il/articles/47986"
+    },
+    {
+     "name": "IDI: Ra'am party page",
+     "url": "https://en.idi.org.il/israeli-elections-and-parties/parties/raam/"
+    },
+    {
+     "name": "IDI: Hadash party page",
+     "url": "https://en.idi.org.il/israeli-elections-and-parties/parties/hadash/"
+    },
+    {
+     "name": "IDI: Ta'al party page",
+     "url": "https://en.idi.org.il/israeli-elections-and-parties/parties/taal/"
+    },
+    {
+     "name": "IDI: Balad party page",
+     "url": "https://en.idi.org.il/israeli-elections-and-parties/parties/balad/"
+    },
+    {
+     "name": "IDI: Joint List page",
+     "url": "https://en.idi.org.il/israeli-elections-and-parties/parties/the-joint-list/"
+    },
+    {
+     "name": "IDI: Arab Society Statistical Report 2024 (CBS data)",
+     "url": "https://en.idi.org.il/arab-society/2024/?chapter=65053"
+    },
+    {
+     "name": "IDI: Arab society survey after two years of war (Dec 2025; Hebrew PDF)",
+     "url": "https://www.idi.org.il/media/30969/public-opinion-survey-in-the-arab-society-in-israel-after-two-years-of-war.pdf"
+    },
+    {
+     "name": "IDI: Israeli Voice Index, Aug-Sep 2026",
+     "url": "https://en.idi.org.il/articles/66177"
+    },
+    {
+     "name": "IDI: Israeli Voice Index, Sept 2025 (end the war)",
+     "url": "https://en.idi.org.il/articles/61845"
+    },
+    {
+     "name": "Dayan Center: in-depth survey of the Arab community, June 2025",
+     "url": "https://dayan.org/content/depth-survey-arab-community-between-two-wars"
+    },
+    {
+     "name": "Middle East Institute: what drives Mansour Abbas and Ra'am (May 2022)",
+     "url": "https://mei.edu/publication/whats-driving-mansour-abbas-and-raams-strategy/"
+    },
+    {
+     "name": "Adalah: police and prosecution of Arab citizens after 7 Oct (24 Oct 2023)",
+     "url": "https://www.adalah.org/en/content/view/10926"
+    },
+    {
+     "name": "CNN: Bedouin communities after 7 Oct (7 Sep 2024)",
+     "url": "https://www.cnn.com/2024/09/07/middleeast/israel-bedouins-arabs-unrecognized-villages-neglected-hamas-war-mime-intl"
+    },
+    {
+     "name": "The Conversation: two small Arab parties may decide the election (23 Oct)",
+     "url": "https://theconversation.com/two-small-arab-parties-may-decide-israels-election-294182"
+    },
+    {
+     "name": "+972 Magazine: Joint List and Ra'am battle for Jewish votes (27 Oct)",
+     "url": "https://www.972mag.com/joint-list-raam-battle-for-jewish-votes-election-2026/"
+    },
+    {
+     "name": "J Street: Arab-Israeli politics ahead of the 2026 election (Mar 2026; advocacy group)",
+     "url": "https://jstreet.org/sites/default/files/2026/03/Ghaida_Avraham-Arab-Israeli-Politics-and-Society-Ahead-of-the-2026-Israeli-Election.pdf"
+    },
+    {
+     "name": "The Guardian (AP): Israel bans the northern branch (17 Nov 2015)",
+     "url": "https://www.theguardian.com/world/2015/nov/17/israel-bans-islamist-group-islamic-movement-of-israel"
+    },
+    {
+     "name": "JFeed: northern branch calls for boycott (25 Oct 2026)",
+     "url": "https://www.jfeed.com/latest-news/northern-branch-islamic-movement-leaders-call-for-boycott-of-israeli-knesset-ele-56773"
     }
    ]
   }
