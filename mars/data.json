@@ -1,14 +1,82 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-10-27 11:25",
- "checked": "27 Oct 2026",
+ "updated": "2026-10-28 04:35",
+ "checked": "28 Oct 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 27 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove). Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; arrival at Mars is August 2027 per ESA and NASASpaceFlight [JAXA's own release gives no arrival date].",
+  "Where things stand on 28 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove). Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ends on 31 October.",
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "feed": [
+  {
+   "when": "2026-10-28",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JAXA, ESA, CNSA, UAE, ISRO, SpaceX, Blue Origin, GAO and news pages",
+   "text": "Nothing new today on these, so only their checked dates change: Perseverance and Curiosity team blogs (no post since 26 and 19 October), ESA (no Mars news since 20 October), CNSA and Xinhua in English (no Mars item), the UAE Space Agency (its 27 October posts are about the space economy, not Hope), ISRO (no Mars item), SpaceX and Blue Origin news pages (Blue Origin's latest Mars item is the 19 October MMX sampler launch), the two GAO protest dockets (both still open, decisions due 21 December 2026 and 1 February 2027), and Congress (in recess until after the 3 November elections, per SpacePolicyOnline's 25 October weekly list). No low-cost Mars mission solicitation seen yet [unconfirmed].",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://spacepolicyonline.com/",
+   "link_text": "open SpacePolicyOnline",
+   "other": "",
+   "links": [
+    [
+     "GAO docket B-424825.1",
+     "https://www.gao.gov/docket/b-424825.1"
+    ],
+    [
+     "GAO docket B-424825.2",
+     "https://www.gao.gov/docket/b-424825.2"
+    ],
+    [
+     "Blue Origin news",
+     "https://www.blueorigin.com/news"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-27 16:37",
+   "who": "CNSPACE (@CNSpaceflight), a Chinese spaceflight news account on X (not an agency), passing on a post by @Rain_Antar1121",
+   "kind": "rumor on X (unconfirmed)",
+   "where": "X, English and Chinese (posted 14:37 UTC)",
+   "text": "Rumor, not an announcement: two X accounts say China may split its Tianwen-3 Mars sample-return mission. The orbiter-and-return spacecraft would still launch in November 2028 to scout landing sites from orbit, but the lander and the small rocket that would lift samples off Mars (the Mars Ascent Vehicle) are behind schedule and could wait for the next launch window two years later. That would move the samples' arrival on Earth from about 2031 to about 2033. The original poster says an unnamed industry contact told them the plan was issued only weeks ago and is still being discussed. China has said nothing about this [unconfirmed]. China's last public plan (Xinhua, April 2026) was launch about 2028 and samples back about 2031.",
+   "evidence": "anonymous source passed on by two X accounts; no Chinese agency or state media page says this; I searched and found nothing that confirms it",
+   "url": "https://x.com/CNSpaceflight/status/2115090602727764410",
+   "link_text": "open the post",
+   "other": "The original Chinese post says the picture it carries is unrelated and shows the old plan.",
+   "links": [
+    [
+     "Original post, @Rain_Antar1121",
+     "https://x.com/Rain_Antar1121/status/2115033005165322355"
+    ],
+    [
+     "Xinhua, 24 Apr 2026",
+     "https://www.news.cn/20260424/f0c0b487dc004eafbcd9c5359a1983dc/c.html"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-27",
+   "who": "NASA, media advisory M26-083 (Lauren E. Low), \"NASA Invites Media to Crew Completion of Yearlong Mars Simulation\"",
+   "image": "img/chapea-crew.jpg",
+   "image_alt": "Four people in black flight suits posing in front of a red, Mars-like backdrop with sand on the floor",
+   "image_caption": "The CHAPEA Mission 2 crew (from left) Ross Elder, Matthew Montgomery, Ellen Ellis and James Spicer, photographed on 8 October 2025, before they went in. A posed photo on Earth, not on Mars",
+   "image_credit": "NASA photo (generally not copyrighted)",
+   "image_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+   "kind": "primary source",
+   "where": "nasa.gov",
+   "text": "Four volunteers who have lived for more than a year in a pretend Mars base on Earth come out on Saturday, 31 October, after 378 days. The mission is CHAPEA (Crew Health and Performance Exploration Analog), its second run; it began on 19 October 2025 in a 3D-printed, 1,700-square-foot building at NASA's Johnson Space Center in Houston. The crew did simulated spacewalks, grew plants and fixed the habitat while living with message delays, limited supplies and isolation, the way a real Mars crew would. NASA will stream the exit live from 3 p.m. EDT (21:00 Israel time). NASA now says the data will mainly help its Moon missions (Artemis and a Moon base).",
+   "evidence": "official NASA advisory; @NASAJohnson posted the same date on 27 October",
+   "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+   "link_text": "open the advisory",
+   "other": "",
+   "links": [
+    [
+     "@NASAJohnson post, 27 Oct",
+     "https://x.com/NASAJohnson/status/2115166148639789421"
+    ]
+   ]
+  },
   {
    "when": "2026-10-27",
    "who": "Scholar (Grok Bot research agent) for Tom Goldberger",
@@ -44,7 +112,7 @@
    "kind": "primary source",
    "where": "X, English (posted 21:40 UTC)",
    "text": "Posts that scientists are using instruments on Perseverance to study the dust on Mars and how it could harm future crews and equipment (the post's subject is the dust study NASA also lists on the Perseverance mission page).",
-   "evidence": "official NASA account; the linked JPL news article returned an access error (403) to my reader, so I could not read the article itself and give no figures from it",
+   "evidence": "official NASA account; the linked JPL copy of the article gave my reader an access error (403), but NASA's copy on nasa.gov opened on 28 October (see the 26 October NASA release item)",
    "url": "https://x.com/NASAMars/status/2114834555597422610",
    "link_text": "open the post",
    "other": "NASA's Perseverance mission page lists the story under the headline \"NASA's Perseverance Offers Clues to Protect Crews From Mars Dust\".",
@@ -52,6 +120,32 @@
     [
      "Perseverance mission page",
      "https://science.nasa.gov/mission/mars-2020-perseverance/"
+    ],
+    [
+     "NASA release on nasa.gov",
+     "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-26",
+   "who": "NASA, news release 2026-076, \"NASA's Perseverance Offers Clues to Protect Crews From Mars Dust\"",
+   "image": "img/perseverance-dust-neretva.jpg",
+   "image_alt": "Wide view of a rocky, dusty Martian channel with low hills; part of the rover's deck shows at the right edge",
+   "image_caption": "File picture, not new: a 360-degree enhanced-color view of Neretva Vallis that Perseverance's Mastcam-Z camera took on 20 May 2024 (sol 1155), stitched from 217 images. Enhanced color makes differences in the ground easier to see; it is not what the eye would see",
+   "image_credit": "NASA/JPL-Caltech/ASU/MSSS, NASA image (generally not copyrighted), NASA Photojournal PIA26816",
+   "image_url": "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/",
+   "kind": "primary source",
+   "where": "nasa.gov",
+   "text": "Over 1,645 sols (Martian days), Perseverance measured how much very fine dust settled on small squares of spacesuit material it carries: Teflon and Vectran (a strong woven fiber) on the calibration target of its SHERLOC instrument (an ultraviolet scanner that looks for minerals and carbon compounds), and Teflon and basalt glass on the target of PIXL (an X-ray instrument that reads the chemistry of rocks). It is the first measurement on Mars itself of fine dust (smaller than 2.5 micrometers, far thinner than a hair) and ultrafine dust (about 100 nanometers). Grains averaged about 2 micrometers on some swatches and only 100 to 300 nanometers on others; static electricity decides which grains stick to which material. The dust is rich in iron and sulfur, has extra phosphorus and signs of calcium sulfate, and Mars dust also carries perchlorates (salts that are toxic to people). The study, led by Scott VanBommel of Washington University in St. Louis, was published on 27 October in PNAS (Proceedings of the National Academy of Sciences). Quoted: Lindsay Hays, acting director of NASA's Planetary Science Division, and Katie Stack Morgan, the project scientist at JPL.",
+   "evidence": "official NASA release about a peer-reviewed paper; I read NASA's copy on nasa.gov (the JPL copy had given my reader an access error); I did not open the paper itself",
+   "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
+   "link_text": "open the release",
+   "other": "This is the story @NASAMars posted about on 26 October (see the next item).",
+   "links": [
+    [
+     "NASA Photojournal, PIA26816",
+     "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/"
     ]
    ]
   },
@@ -108,6 +202,36 @@
   },
   {
    "when": "2026-10-21",
+   "who": "JAXA (Japan Aerospace Exploration Agency), release \"Completion of the Initial Critical Operations Phase\" of MMX",
+   "image": "img/mmx-plan.jpg",
+   "image_alt": "Comic-style drawing of the MMX trip: launch from Tanegashima, arrival at Mars, then Phobos",
+   "image_caption": "Part of an ESA infographic, a drawing and not a photo: launch in October 2026, Mars in August 2027, Phobos in September 2027",
+   "image_credit": "ESA, CC BY-SA 3.0 IGO, via Wikimedia Commons",
+   "image_url": "https://commons.wikimedia.org/wiki/File:MMX_from_launch_to_Phobos_ESA529680.png",
+   "kind": "primary source",
+   "where": "global.jaxa.jp",
+   "text": "JAXA says MMX finished its first, risky days in space: the solar panels unfolded, the spacecraft holds itself steady on all three axes, and the medium-gain antenna (a mid-size dish for talking to Earth) was released from its launch locks. The spacecraft is healthy. Next come checks of each system, then the long cruise to Mars. Seen 28 October (we had it only through The Register before). On 26 October JAXA's MMX blog posted a team member's account of hearing the first signal after launch; it has no new status.",
+   "evidence": "JAXA's own release and blog",
+   "url": "https://global.jaxa.jp/press/2026/10/20261021-1_e.html",
+   "link_text": "open the release",
+   "other": "Dates: JAXA's MMX press kit (in Japanese, opened 28 Oct) gives fiscal years only: arrive at Mars in FY2027, leave Mars in FY2030, back at Earth in FY2031 (Japan's fiscal year runs April to March). It plans two landings on Phobos, with the small rover going down first. NASA's 8 October advisory says MMX arrives in August 2027, collects its sample no earlier than December 2028, and returns it in 2031. ESA says the landing is in 2030, so the landing date is still [unconfirmed].",
+   "links": [
+    [
+     "JAXA MMX blog, 26 Oct",
+     "https://mmx-news.isas.jaxa.jp/?p=2919"
+    ],
+    [
+     "JAXA MMX press kit (Japanese, PDF)",
+     "https://fanfun.jaxa.jp/countdown/mmx_h3f10/files/mmx_press-kit_ja_20260918.pdf"
+    ],
+    [
+     "NASA advisory M26-077, 8 Oct",
+     "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-21",
    "who": "Vandi Verma, chief engineer for robotic operations, NASA JPL (Perseverance blog)",
    "kind": "primary source",
    "where": "NASA science blog, \"Tracks Along the Longest Drive on Another World\"",
@@ -115,6 +239,23 @@
    "evidence": "official NASA blog, named author; the AI use is described as being explored, not in use",
    "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
    "link_text": "open the original",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-20",
+   "who": "NASA Ames Research Center (Arezu Sarvestani), \"NASA Experimental Mars Helicopter Blade Designs Target Longer Flights\"",
+   "image": "img/mars-helicopter-blades.jpg",
+   "image_alt": "A thin, slightly curved silver metal test piece of a rotor blade on a stand, in front of a ruler marked in centimeters",
+   "image_caption": "The picture NASA uses for the article: a thin metal rotor-blade test piece beside a ruler. The page does not caption this picture, so I do not know which design it is",
+   "image_credit": "NASA (generally not copyrighted)",
+   "image_url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+   "kind": "primary source",
+   "where": "nasa.gov",
+   "text": "Missed by earlier runs; seen 28 October. NASA engineers, with Imperial College London and Japan's Nagoya University, designed a thinner, sharper rotor blade for Mars's thin air, called roamx-0201. Computer studies say it could stretch a single helicopter flight from Ingenuity's 0.7 km to as much as 18.7 km while carrying instruments. Wind-tunnel tests backed up the gains. NASA says its SkyFall mission, a trio of Mars helicopters, is \"scheduled for launch in 2028\" and uses Ingenuity-style blades; the new design is for missions after that. The paper was published on 22 September in an American Institute of Aeronautics and Astronautics journal.",
+   "evidence": "official NASA article; SkyFall's 2028 launch is a NASA plan that Congress has not fully funded [aspirational]",
+   "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+   "link_text": "open the article",
    "other": "",
    "links": []
   },
@@ -361,8 +502,8 @@
    [
     {
      "m": "Curiosity (NASA)",
-     "s": "Working. Drilling at Basque Lakes (42nd drill hole), then driving on. Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M.",
-     "d": "19 Oct 2026",
+     "s": "Working. Drilling at Basque Lakes (42nd drill hole), then driving on. Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5056 (27 Oct); no new team blog.",
+     "d": "28 Oct 2026 (raw images); blog 19 Oct",
      "links": [
       [
        "blog",
@@ -376,8 +517,8 @@
     },
     {
      "m": "Perseverance (NASA)",
-     "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct). Exploring the Jezero rim near the Idubi outcrop. NASA counts 29 rock and regolith samples collected, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M.",
-     "d": "26 Oct 2026",
+     "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct). Exploring the Jezero rim near the Idubi outcrop. NASA counts 29 rock and regolith samples collected, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
+     "d": "28 Oct 2026 (raw images to sol 2021; blog 26 Oct)",
      "links": [
       [
        "blog",
@@ -386,6 +527,10 @@
       [
        "Tinga's Tale",
        "https://science.nasa.gov/blog/tingas-tale/"
+      ],
+      [
+       "dust release, 26 Oct",
+       "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
       ]
      ]
     },
@@ -442,9 +587,13 @@
     },
     {
      "m": "ExoMars Trace Gas Orbiter, TGO (ESA/Roscosmos program, run by ESA)",
-     "s": "Operating, and the main relay for ESA's Rosalind Franklin rover (The Register, 22 Oct). FY2027 request continues U.S. support at $2.0M (AAS). I did not open an ESA page on TGO today.",
-     "d": "course, 27 Oct 2026",
+     "s": "Operating, and the main relay for ESA's Rosalind Franklin rover (The Register, 22 Oct). FY2027 request continues U.S. support at $2.0M (AAS). ESA's \"facts and figures\" page (15 Oct) says TGO entered Mars orbit on 19 Oct 2016; it gives no end date.",
+     "d": "28 Oct 2026 (ESA page of 15 Oct)",
      "links": [
+      [
+       "ESA: TGO facts and figures",
+       "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures"
+      ],
       [
        "AAS budget summary",
        "https://aas.org/posts/news/2026/04/fy27-presidents-budget-request-nasa-nsf-and-doe-details"
@@ -507,9 +656,21 @@
    [
     {
      "m": "MMX, Martian Moons eXploration (JAXA, Japan)",
-     "s": "Launched 20 Oct 2026 (04:41 Japan time). Reached Mars orbit: August 2027 per ESA and NASASpaceFlight; JAXA's launch release gives no date. Phobos landing: 2030 per ESA, no earlier than December 2028 per NASASpaceFlight [unconfirmed]. Samples back on Earth in 2031 (ESA; The Register).",
-     "d": "20 Oct 2026",
+     "s": "Launched 20 Oct 2026 (04:41 Japan time). Healthy; first critical operations done (solar panels out, steady pointing, antenna released), JAXA 21 Oct; now checking its systems before the cruise. Reaches Mars: August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit says fiscal year 2027. Phobos sample: no earlier than December 2028 per NASA and NASASpaceFlight, 2030 per ESA [unconfirmed]. Leaves Mars FY2030; samples back on Earth in 2031 (JAXA press kit, NASA, ESA).",
+     "d": "28 Oct 2026 (JAXA 21 and 26 Oct)",
      "links": [
+      [
+       "JAXA release, 21 Oct",
+       "https://global.jaxa.jp/press/2026/10/20261021-1_e.html"
+      ],
+      [
+       "JAXA press kit (Japanese)",
+       "https://fanfun.jaxa.jp/countdown/mmx_h3f10/files/mmx_press-kit_ja_20260918.pdf"
+      ],
+      [
+       "NASA advisory, 8 Oct",
+       "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/"
+      ],
       [
        "JAXA release",
        "https://global.jaxa.jp/press/2026/10/20261020-1_e.html"
@@ -532,7 +693,7 @@
      "image_credit": "U.S. Space Force photo by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
      "image_url": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
      "s": "Launched 13 Nov 2025 on Blue Origin's New Glenn. The Mars departure burn is in November 2026 and arrival is September 2027 per the Berkeley mission-design page. NASA's own page says only \"fall of 2026\" for the Earth flyby. FY2027 request: $4.5M.",
-     "d": "27 Oct 2026",
+     "d": "28 Oct 2026",
      "links": [
       [
        "Berkeley mission design",
@@ -588,10 +749,10 @@
  ],
  "perseverance": {
   "image": "img/perseverance-latest.jpg",
-  "image_alt": "Brown Martian soil with scattered rocks, one large light rock in the lower right with a small hole",
-  "image_caption": "Latest view: raw image from the right Mastcam-Z camera, sol 2020 (26 October 2026), rocks and soil near the rover. Raw images are not processed or checked",
-  "image_credit": "NASA/JPL-Caltech/ASU, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
-  "image_url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_2020_0846263644_223EBY_N0920000ZCAM10053_0480LMJ",
+  "image_alt": "Gray, black-and-white view of a rocky plain with scattered stones, low hills and a slope on the right",
+  "image_caption": "Latest view: raw image from the left navigation camera (Navcam), sol 2021 (27 October 2026), the ground around the rover. Raw images are not processed or checked",
+  "image_credit": "NASA/JPL-Caltech, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
+  "image_url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/NLG_2021_0846356509_381ECM_N0920000NCAM00500_00_2I4J",
   "sol": 2009,
   "sol_date": "14 Oct 2026",
   "km": 45.22,
@@ -599,8 +760,8 @@
   "lat": 18.4356,
   "lon": 77.2329,
   "area": "Southern border of \"Idubi\", an olivine-rich outcrop on the rim of Jezero crater; the rover's recent target there is called \"Tinga\".",
-  "est_sol": "about 2021",
-  "est_note": "NASA's raw-image feed lists images from sol 2020 taken on 26 October 2026; 27 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "est_sol": "about 2022",
+  "est_note": "NASA's raw-image feed lists images from sol 2021 taken on 27 October 2026; 28 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "\"Last waypoint in NASA's file\" is the newest point in NASA's public traverse file (a list of the rover's stopping points). That file does not update every day. The record figure of 45.22 km was for sol 2006 (11 Oct); the file's sol 2009 figure is 45,223.6 meters, which rounds to the same 45.22 km. If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -4164,7 +4325,7 @@
    ]
   },
   {
-   "t": "Sol 5037 was 7 October 2026 per the blog's own dates, so 27 October is about sol 5056 (our own arithmetic). NASA's page in the sources I opened gives no odometer for 27 October, so none is shown here.",
+   "t": "NASA's raw-image feed has pictures through sol 5056, taken on 27 October 2026, so 28 October is about sol 5057 (our own arithmetic). No new team blog since 19 October. NASA's pages that I opened give no odometer for 28 October, so none is shown here.",
    "links": []
   },
   {
@@ -4188,10 +4349,10 @@
  ],
  "curiosity_image": {
   "image": "img/curiosity-latest.jpg",
-  "image_alt": "Gray photo of a rocky hillside under a pale sky",
-  "image_caption": "Latest view: raw image from the right Navigation Camera, sol 5055 (26 October 2026), a rocky ridge and slope ahead of the rover. Raw images are not processed or checked",
-  "image_credit": "NASA/JPL-Caltech, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
-  "image_url": "https://mars.nasa.gov/msl/multimedia/raw-images/NRB_846256044EDR_S1251326NCAM00594M_"
+  "image_alt": "Gray close-up of a patch of many small, flat, broken rock flakes next to smoother ground",
+  "image_caption": "Latest view: raw close-up from the right Mastcam camera, sol 5055 (26 October 2026), a patch of small broken rock plates. Sol 5056 (27 October) has only laser-camera close-ups so far. Raw images are not processed or checked",
+  "image_credit": "NASA/JPL-Caltech/MSSS, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
+  "image_url": "https://mars.nasa.gov/msl/multimedia/raw-images/5055MR1101900042601887C00_DXXX"
  },
  "plans": [
   {
@@ -4211,7 +4372,7 @@
   },
   {
    "who": "NASA SR-1 Freedom",
-   "t": "NASA's April slides say a nuclear-electric spacecraft, SR-1 Freedom, targets Mars in 2028 and would release \"SkyFall\" helicopters. The House committee bill supports it, and the Planetary Society repeats NASA's plan to fly it \"before the end of 2028\". Funding is not final.",
+   "t": "NASA's April slides say a nuclear-electric spacecraft, SR-1 Freedom, targets Mars in 2028 and would release \"SkyFall\" helicopters (a NASA article of 20 Oct says SkyFall is \"scheduled for launch in 2028\"). The House committee bill supports it, and the Planetary Society repeats NASA's plan to fly it \"before the end of 2028\". Funding is not final.",
    "label": "aspirational",
    "links": [
     [
@@ -4226,7 +4387,7 @@
   },
   {
    "who": "China (CNSA): Tianwen-3, Mars sample return",
-   "t": "Launch about 2028, samples back about 2031. Eight candidate landing zones; final site expected by end of 2026; at the engineering prototype stage (Xinhua, April and September 2026). Two launches, one lander with a drill and a helicopter (CNN, citing the mission team's 2025 paper).",
+   "t": "Launch about 2028, samples back about 2031. Eight candidate landing zones; final site expected by end of 2026; at the engineering prototype stage (Xinhua, April and September 2026). Two launches, one lander with a drill and a helicopter (CNN, citing the mission team's 2025 paper). A rumor on X (27 Oct) says the lander may slip two years, pushing samples to about 2033 [unconfirmed; China has said nothing].",
    "label": "aspirational",
    "links": [
     [
@@ -4267,7 +4428,7 @@
   },
   {
    "who": "Crewed Mars missions (any agency)",
-   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 27 October 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
+   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 28 October 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
    "label": "aspirational",
    "links": [
     [
@@ -4289,6 +4450,11 @@
   }
  ],
  "upcoming": [
+  [
+   "31 Oct 2026",
+   "CHAPEA Mission 2 crew leaves NASA's simulated Mars habitat in Houston after 378 days; live on NASA Johnson's YouTube from 3 p.m. EDT (21:00 Israel time).",
+   ""
+  ],
   [
    "3 Nov 2026",
    "U.S. midterm elections; Congress makes little progress before this (SpacePolicyOnline).",
@@ -4326,7 +4492,7 @@
   ],
   [
    "Aug 2027",
-   "MMX enters Mars orbit (ESA, NASASpaceFlight; JAXA gives fiscal year 2027 only). Orbit around Phobos from September 2027 per ESA.",
+   "MMX enters Mars orbit (ESA, NASA, NASASpaceFlight; JAXA's press kit gives fiscal year 2027 only). Orbit around Phobos from September 2027 per ESA.",
    ""
   ],
   [
@@ -4337,6 +4503,11 @@
   [
    "2028",
    "Rosalind Franklin launch (NASA's April slides say 2028; the course says no earlier than late 2028); Tianwen-3 launch about 2028; SR-1 Freedom before end of 2028; SpaceX Starship Mars cargo \"no earlier than 2028\"; Hope extended through 2028. Next Mars launch window: late 2028 to early 2029.",
+   "aspirational"
+  ],
+  [
+   "Dec 2028 at the earliest",
+   "MMX collects its Phobos sample, per NASA's 8 October advisory and NASASpaceFlight (ESA says 2030) [unconfirmed].",
    "aspirational"
   ],
   [
@@ -4351,7 +4522,7 @@
   ],
   [
    "About 2031",
-   "Samples from Phobos return to Earth (MMX, ESA); Tianwen-3 sample return (Xinhua).",
+   "Samples from Phobos return to Earth (MMX: JAXA press kit says FY2031; NASA and ESA say 2031); Tianwen-3 sample return (Xinhua).",
    "aspirational"
   ]
  ],
@@ -4375,6 +4546,10 @@
   [
    "CR",
    "continuing resolution: a stopgap law that keeps agencies funded at last year's level while Congress finishes the new budget."
+  ],
+  [
+   "Fiscal year (Japan)",
+   "Japan's government year runs from April to March, so \"fiscal year 2027\" means April 2027 to March 2028."
   ],
   [
    "Mars window",
@@ -4449,6 +4624,22 @@
     [
      "Perseverance traverse file (JSON)",
      "https://mars.nasa.gov/mmgis-maps/M20/Layers/json/M20_waypoints.json"
+    ],
+    [
+     "Mars dust release, 26 Oct",
+     "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
+    ],
+    [
+     "CHAPEA advisory, 27 Oct",
+     "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/"
+    ],
+    [
+     "Mars helicopter blades, 20 Oct",
+     "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+    ],
+    [
+     "MMX advisory M26-077, 8 Oct",
+     "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/"
     ]
    ]
   ],
@@ -4458,6 +4649,18 @@
     [
      "JAXA: MMX launch release",
      "https://global.jaxa.jp/press/2026/10/20261020-1_e.html"
+    ],
+    [
+     "JAXA: MMX first operations done, 21 Oct",
+     "https://global.jaxa.jp/press/2026/10/20261021-1_e.html"
+    ],
+    [
+     "JAXA: MMX press kit (Japanese, PDF)",
+     "https://fanfun.jaxa.jp/countdown/mmx_h3f10/files/mmx_press-kit_ja_20260918.pdf"
+    ],
+    [
+     "ESA: TGO facts and figures",
+     "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures"
     ],
     [
      "ESA: MMX",
@@ -4556,13 +4759,22 @@
     [
      "@elonmusk on X, 16 Oct",
      "https://x.com/elonmusk/status/2110947164512038931"
+    ],
+    [
+     "@CNSpaceflight on X, 27 Oct (Tianwen-3 rumor)",
+     "https://x.com/CNSpaceflight/status/2115090602727764410"
+    ],
+    [
+     "SpacePolicyOnline home page",
+     "https://spacepolicyonline.com/"
     ]
    ]
   ]
  ],
  "not_read": [
-  "NASA/JPL article on Perseverance and Mars dust (26 Oct): my reader got an access error (403). Only the NASA post and the mission-page headline are cited.",
-  "ISAS/JAXA MMX page and press kit PDF, the Aviation Week and Reuters pieces, Indian press on Mangalyaan-2, the Schiff/Padilla letter and HigherGov: seen only in search results, not opened, so not cited.",
+  "NASA/JPL copy of the Mars dust article (26 Oct): access error (403) on 27 and 28 Oct; NASA's own copy on nasa.gov was read instead. The PNAS paper itself was not opened.",
+  "JAXA's MMX press kit PDF was opened on 28 Oct (Japanese; dates read from it). Still not opened: the Aviation Week and Reuters pieces, Indian press on Mangalyaan-2, the Schiff/Padilla letter and HigherGov: seen only in search results, not opened, so not cited.",
+  "SpacePolicyOnline's own server blocked my plain reader on 28 Oct (a \"verifying your request\" page); the home page was read through a second reader. Blue Origin's news page refused my plain reader (error 429, too many requests) and was read through a second reader. The UAE Space Agency website timed out; its X account was checked instead.",
   "CNSA and Zhurong status come from secondary sources (Planetary Society, marsprogress.com); no Chinese agency page was opened for Zhurong."
  ]
 }

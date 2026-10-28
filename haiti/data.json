@@ -1,14 +1,356 @@
 {
  "title": "Crushing the Serpent Under the Heel",
- "updated": "2026-10-27 07:55",
+ "updated": "2026-10-28 04:40",
  "narrative": [
-  "Nine days after four Salvadoran aviation technicians went missing in Santo, nobody has publicly identified the burned remains handed over on Saturday. A person familiar with the matter told the Washington Post it is \"fairly certain\" that at least some are not the Salvadorans'; the remains of roughly three bodies were \"almost fused together,\" and DNA testing is being done outside Haiti. Bukele has posted nothing since Sunday night, and El Salvador's Diario El Mundo says his government has given no new information. Haiti's government has still said nothing, notes Jake Johnston of the Center for Economic and Policy Research (CEPR).",
-  "Meanwhile the planes keep coming. The Miami Herald counts at least a dozen flights since Thursday; the Post says more than 500 Salvadoran special forces are in Haiti, and Johnston says at least 1,000 may come. Both Johnston and the Herald say Bukele wants some of them outside the Gang Suppression Force, under his own commander. \"A multilateral force, a bilateral force, and a private force,\" Johnston wrote; later he said it is hard to imagine Bukele undermining the force unless some in the US government are working with him. The force itself said Monday that \"pressure on criminal groups will continue.\"",
-  "The effort to crush the gangs went on along several fronts. Haitian police struck Bel-Air on Sunday night with explosive drones; police sources say several gang members were killed, and a resident says innocent people were hurt. On Monday Salvadoran troops and Haitian police worked in Bon Repos, offensives were reported in Marin and Lizon, armored vehicles were filmed in Kenscoff, and the police posted video of its BRI unit in Mirebalais. A Gonaïves station says the US helped deliver 33 armored vehicles to the force and the police; no one else has reported that.",
-  "The gangs keep talking. Lanmò San Jou of 400 Mawozo, who says the four died \"by mistake\" in Chen Mechan's area, sang and showed off diamond teeth on video and says he holds three police officers; the Herald's sources say his men backed Chen Mechan in the 18 October attack. César Moreno, citing one local, names former deputy Lemaire Pierre as the man arming Chen Mechan, and a journalists' network accuses the prime minister of a quiet deal with gang leaders, without giving evidence. A widely shared video of a raid on a gang house, shared as Salvadoran commandos in Haiti, is from Ecuador, Moreno says.",
-  "Next door, Dominican President Luis Abinader says he will not let the gangs come within 20 kilometers of the border. His foreign minister says about 2,181 international personnel are now in Haiti, with 5,500 the goal within three months."
+  "Ten days after four Salvadoran aviation technicians went missing in Santo, El Salvador's buildup in Haiti has grown well past a rescue mission. A security official in Haiti, speaking without being named, told Reuters on Tuesday that about 1,000 Salvadoran soldiers have now deployed; no one official has said who commands them or how long they will stay. US Southern Command C-130s helped fly them in, a US military official told Reuters, and a Colombian Air Force C-130 made its first run from San Salvador to Port-au-Prince. Jake Johnston of the Center for Economic and Policy Research counted more charter flights and asked: \"Who is paying for all these flights?\"",
+  "The command question is still open. Luis Contreras, an analyst quoted by Reuters, expects some troops to work outside the Gang Suppression Force and coordinate with Erik Prince's company, and Haiti Info Project says private contractors are already coordinating with the Salvadorans and the force; neither gives a source. Vectus itself has said nothing new. The force, about 2,000 strong and a third of its planned size, accused the gangs of spreading false information. EFE says the operation is wrapped in secrecy, with the press kept away from the airport and Prime Minister Fils-Aimé's government silent.",
+  "On the ground, the push to crush the gangs moved through the Cul-de-Sac plain. Videos posted by Dominican journalist Rolfy Martínez show the force sweeping Ganthier and police and Salvadorans combing gang-held ground; one shaky clip ends as troops open fire on a gang member filming them. César Moreno, citing unnamed people on the ground, says the Chen Mechan leader is surrounded in Marin 21 and that his partner was killed; no one else has reported it.",
+  "The gang leaders answered on video. Lanmò San Jou of 400 Mawozo posted himself walking in Port-au-Prince to a song about the four Salvadorans, and an AI-made clip saying vodou will beat Bukele's prayers; Reuters says he denies holding the men. Jimmy \"Barbecue\" Chérizier put out a long video calling the accusations against him a plot by politicians and paid journalists.",
+  "The remains are still unidentified. Le Quotidien 509 asks who authorized their recovery and notes that HERO Client Rescue, the group that brought them out, holds about $9.3 million in State Department contracts. Haiti's foreign ministry summoned the Dominican ambassador over reported army incursions near Thomazeau, and the Haitian group KONTRAPÈPLA accuses the government of giving away sovereignty. At home, CID Gallup finds 94 percent of Salvadorans approve of Bukele and 82 percent worry about the troops in Haiti."
  ],
  "feed": [
+  {
+   "when": "2026-10-28 03:22",
+   "who": "Nayib Bukele, President of El Salvador (@nayibbukele), and the polling firm CID Gallup (@cidgallup)",
+   "where": "X",
+   "url": "https://x.com/nayibbukele/status/2115252865186828415",
+   "text": "Bukele posted \"94%\" with a link. Earlier (27 Oct, 22:19) CID Gallup posted its national poll of 24 to 27 Oct: 94 percent of Salvadorans approve of Bukele, 91 percent are proud to have him as president, and 82 percent are worried about the risk to personnel in the rescue operation in Haiti.",
+   "evidence": "Polling firm's own post with a results graphic; Bukele's post links it",
+   "other": "",
+   "links": [
+    [
+     "CID Gallup, 22:19",
+     "https://x.com/cidgallup/status/2115176651122225656"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-28 03:08",
+   "who": "Jacqueline Charles, Miami Herald (@Jacquiecharles)",
+   "where": "X",
+   "url": "https://x.com/Jacquiecharles/status/2115249371323437430",
+   "text": "\"Air space over #Haiti is not closed. The FAA was making a network change today!!\" (answering posts that said Haiti's airspace had been shut).",
+   "evidence": "Named reporter, text only",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-28 02:10",
+   "who": "Rolfy Martínez (@RolfyMartinez), Dominican journalist",
+   "where": "X, Port-au-Prince",
+   "url": "https://x.com/RolfyMartinez/status/2115234811925409932",
+   "text": "Jimmy \"Barbecue\" Chérizier, the Viv Ansanm leader, has put out a new video defending himself. Martínez's summary: Chérizier says he is the victim of a plot by politicians and journalists, names former senator Youri Latortue, Frantz Cormier and Pascal Saint-Cyr, says some journalists were paid to spread false stories about him, calls the corruption and crime accusations lies, and demands justice for the late President Jovenel Moïse. Not yet reported by others.",
+   "evidence": "Video (posted by Martínez, about 13 minutes); summary in Spanish by Martínez",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-28 01:31",
+   "who": "Cyrus Sibert, Réseau Citadelle (@reseaucitadelle), Haitian commentator, Cap-Haïtien",
+   "where": "X, op-ed in French, Spanish and English",
+   "url": "https://x.com/reseaucitadelle/status/2115224992673878196",
+   "text": "An op-ed backing Bukele's intervention and calling for a defense agreement between Haiti and El Salvador \"to eradicate criminal and terrorist gangs.\" \"El Salvador lives up to its name. God chose it to punish the terrorist gangs in Haiti.\"",
+   "evidence": "Signed opinion piece",
+   "other": "",
+   "links": [
+    [
+     "Spanish version",
+     "https://x.com/reseaucitadelle/status/2115227538481889678"
+    ],
+    [
+     "English version",
+     "https://x.com/reseaucitadelle/status/2115230183456158136"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-28 01:25",
+   "who": "Le Quotidien 509 (@lequotidien509), Haitian online paper",
+   "where": "X and its website (article dated 25 Oct)",
+   "url": "https://lequotidien509.com/hero-client-rescue-lentreprise-au-coeur-de-laffaire-des-restes-remis-aux-salvadoriens/",
+   "text": "Who authorized the recovery of the remains? The paper says HERO Client Rescue S.A. has received about $9.31 million in State Department anti-narcotics and law-enforcement (INL) awards, according to USAspending, starting with a 12 Aug 2024 contract for medical services to the Haitian police, and links the company to HALO Solutions Firm. It notes the Miami Herald says the remains went to the Gang Suppression Force while the New York Times says they went to a Salvadoran team.",
+   "evidence": "Public US spending records cited by the paper; no named source on the handover",
+   "other": "",
+   "links": [
+    [
+     "Le Quotidien 509 on X, 01:25",
+     "https://x.com/lequotidien509/status/2115223266134729041"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-28 01:00",
+   "who": "Gang Suppression Force (@GSForceHaiti)",
+   "where": "X, Port-au-Prince",
+   "url": "https://x.com/GSForceHaiti/status/2115217067511001562",
+   "text": "The force accuses the gangs of spreading false information to undermine its operations and asks the public to rely on official channels.",
+   "evidence": "Official statement",
+   "other": "EFE (via ABC Color, Paraguay) says the Salvadoran operation is wrapped in secrecy: Prime Minister Fils-Aimé's government has said nothing, the press is kept away from Toussaint Louverture airport, and some versions put the Salvadoran deployment at over 1,000. EFE names the force's commander as Mongolian Maj. Gen. Erdenebat Batsuuri and its members as El Salvador, Guatemala, Jamaica, Mongolia, Sri Lanka and Chad.",
+   "links": [
+    [
+     "EFE via ABC Color",
+     "https://www.abc.com.py/internacionales/2026/10/27/fuerza-antipandillas-acusa-a-bandas-haitianas-de-socavar-operaciones-con-desinformacion/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-28 00:50",
+   "who": "César Moreno (@CesarMorenoOK1), Spanish-language commentator",
+   "where": "X",
+   "url": "https://x.com/CesarMorenoOK1/status/2115214616238149774",
+   "text": "\"Total encirclement in Haiti\": Moreno says people \"on the ground\" tell him assault teams have surrounded the Chen Mechan leader in Marin 21, and that his partner, Nicole, was killed in the shooting; he says Viv Ansanm is cornered and out of ammunition. About 97,000 views. Not yet reported by others.",
+   "evidence": "Unnamed sources on the ground; no video or photo of the scene",
+   "other": "X's AI assistant, Grok, answered users that it could not back the report that the gang leader's wife was killed; Moreno asked it to apologize.",
+   "links": [
+    [
+     "Moreno on Grok's answer",
+     "https://x.com/CesarMorenoOK1/status/2115223916507754879"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-28 00:25",
+   "who": "Magazine Haïti (@maghaiti), relaying OAS Secretary General Albert Ramdin",
+   "where": "X",
+   "url": "https://x.com/maghaiti/status/2115208295392895082",
+   "text": "On Monday 26 Oct Ramdin expressed on X his solidarity with El Salvador over the four missing soldiers and called for \"more decisive and coordinated measures against the criminal gangs\" and more international support.",
+   "evidence": "Relay of Ramdin's own post (we did not open Ramdin's post itself)",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-28 00:23",
+   "who": "Franklin Vargas (@FranklinVargasG), Dominican journalist",
+   "where": "X, Santo Domingo",
+   "url": "https://x.com/FranklinVargasG/status/2115207767674020131",
+   "text": "Vargas says Abinader and his government owe Dominicans \"a very good explanation\" of how Dominican military and police ammunition reached 400 Mawozo, as the UN Panel of Experts reported, and should find and try those responsible.",
+   "evidence": "Opinion, relaying the UN Panel of Experts finding",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 23:53",
+   "who": "Radio Télé Confiance (@RTConfiance), Port-au-Prince",
+   "where": "X, in Creole",
+   "url": "https://x.com/RTConfiance/status/2115200272561828257",
+   "text": "Headline: \"Kandida pouvwa a voye gwo sòm lajan bay gang nan Site Solèy\" (the ruling side's candidate sent large sums to the gangs in Cité Soleil). The candidate is not named in the post.",
+   "evidence": "Headline only; we could not open the linked story",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 21:38",
+   "who": "@LatAmMilMVMTs, flight-tracking account for Latin American military aircraft",
+   "where": "X, San Salvador to Port-au-Prince",
+   "url": "https://x.com/LatAmMilMVMTs/status/2115166146639127036",
+   "text": "Colombian Air Force C-130H FAC1005 flew from San Salvador to Port-au-Prince, \"the first flight carried out by the Colombian Air Force in support of El Salvador's deployment of more troops and equipment to Haiti.\" Jake Johnston reposted it; Bukele reposted a Spanish post on the same plane early on 28 Oct.",
+   "evidence": "Flight-tracking data with the plane's registration and transponder code",
+   "other": "Ayitian Avan News (in French) reports the same flight.",
+   "links": [
+    [
+     "Ayitian Avan News",
+     "https://x.com/ayitianavannews/status/2115252761499431158"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-27 21:21",
+   "who": "Rolfy Martínez (@RolfyMartinez), relaying Wilson Joseph (\"Lanmò San Jou\") of 400 Mawozo",
+   "where": "X, Port-au-Prince (per the video)",
+   "url": "https://x.com/RolfyMartinez/status/2115162060753444995",
+   "text": "The 400 Mawozo leader posted new images of himself walking, saying he is in Port-au-Prince, set to a song about the four Salvadorans of 18 October. About 164,000 views.",
+   "evidence": "Video from the gang leader's account, relayed by Martínez",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 20:55",
+   "who": "Rolfy Martínez (@RolfyMartinez)",
+   "where": "X, Ganthier, Croix-des-Bouquets",
+   "url": "https://x.com/RolfyMartinez/status/2115155389113073879",
+   "text": "Video of Gang Suppression Force movements in the Ganthier area of Croix-des-Bouquets as it sweeps the zone. Martínez adds that people online say the Haitian police are leading the fight against the gangs.",
+   "evidence": "Video; place given by Martínez",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 20:30",
+   "who": "Haití en Español (@haitienespanol)",
+   "where": "X, in Spanish",
+   "url": "https://x.com/haitienespanol/status/2115149196135186581",
+   "text": "A thread: \"In less than a week, the president of El Salvador has announced the sending of 1,000 soldiers to Haiti,\" and Haitian sovereignty is gravely threatened by the gangs. About 13,000 views.",
+   "evidence": "Commentary; gives no source for the 1,000",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 20:09",
+   "who": "Franklin Vargas (@FranklinVargasG), Dominican journalist",
+   "where": "X, Santo Domingo and Port-au-Prince",
+   "url": "https://x.com/FranklinVargasG/status/2115143798342799383",
+   "text": "Haiti's foreign ministry has summoned the Dominican ambassador in Port-au-Prince, Faruk Miguel, over reports of Dominican army incursions into Haitian territory. Vargas posts a photo of the letter. Diario Libre (27 Oct, 18:26 Santo Domingo time) adds, from an unnamed source, that the meeting is set for Thursday 29 Oct at noon.",
+   "evidence": "Photo of the ministry letter; Diario Libre cites an unnamed source",
+   "other": "An unofficial Dominican version (Diario Libre) says the houses involved stood on the Dominican side and their residents were moved into Haiti with help to build new homes; Empire Média (in Creole) says Dominican soldiers entered Thomazeau, ordered people out and destroyed homes. Separately, Proceso.com.do reported on 26 Oct that the district head of El Guayabo (Elías Piña), Aneuris Rosario, says armed Haitians in groups of 8 to 15 crossed into the Dominican Republic carrying wounded men, and that troops were sent.",
+   "links": [
+    [
+     "Diario Libre",
+     "https://www.diariolibre.com/actualidad/nacional/2026/10/27/haiti-cita-al-embajador-dominicano-tras-denuncias-de-incursiones/3702694"
+    ],
+    [
+     "Proceso.com.do",
+     "https://proceso.com.do/2026/10/26/denuncian-ingreso-a-rd-de-haitianos-armados-cargando-heridos-por-el-guayabo-de-elias-pina/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-27 19:56",
+   "who": "Reuters (via The Straits Times and CBC)",
+   "where": "Port-au-Prince and San Salvador",
+   "url": "https://www.straitstimes.com/world/around-1000-soldiers-from-el-salvador-have-deployed-to-haiti-source-says",
+   "text": "About 1,000 Salvadoran soldiers have deployed to Haiti, says a security official in Haiti who asked not to be named. It is unclear who commands them or how long they will stay. A US military official says Southern Command C-130s helped move them; flight-tracking shows the flights, and a lawmaker from Bukele's party posted a photo of soldiers on a plane. The Gang Suppression Force has about 2,000 personnel, a third of its planned strength; before the ambush there were at least 124 Salvadorans. Pierre Espérance (RNDDH, a Haitian rights group) welcomed the troops but warned: \"Not everybody living in gang-controlled areas are gangsters.\" Wilson Joseph of 400 Mawozo denies holding the men. Analyst Luis Contreras expects some troops to work outside the force's chain of command, coordinating with Erik Prince's company.",
+   "evidence": "Anonymous security official and unnamed US military official; named analyst and rights advocate; flight-tracking data",
+   "other": "El Español (Spain) adds that direct flights by the Ecuadorian airline Aeroregional carried troops; Radio Télé Galaxie and other Haitian outlets relayed the 1,000 figure in French and Creole.",
+   "links": [
+    [
+     "CBC",
+     "https://www.cbc.ca/news/world/el-salvador-soldiers-deployed-haiti-9.7398494"
+    ],
+    [
+     "El Español",
+     "https://www.elespanol.com/mundo/20261027/bukele-despliega-soldados-haiti-desaparicion-militares-salvadorenos-combatian-pandillas/1003744437401_0.html"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-27 19:32",
+   "who": "Jacqueline Charles, Miami Herald (@Jacquiecharles)",
+   "where": "X, Port-au-Prince",
+   "url": "https://x.com/Jacquiecharles/status/2115134563764605322",
+   "text": "\"A second chartered flight from El Salvador has landed in Port-au-Prince today.\"",
+   "evidence": "Named reporter",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 19:15",
+   "who": "Carel Pèdre (@carelpedre), Haitian radio and TV host",
+   "where": "X, in Creole",
+   "url": "https://x.com/carelpedre/status/2115130370408501261",
+   "text": "An inventory, in Creole, of the armed forces now operating in Haiti, with Vectus Global and the \"Misyon espesyal El Salvador\" among them. About 10,000 views.",
+   "evidence": "Commentary list, no sources",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 18:54",
+   "who": "Rolfy Martínez (@RolfyMartinez), relaying Lanmò San Jou of 400 Mawozo",
+   "where": "X",
+   "url": "https://x.com/RolfyMartinez/status/2115124971525615985",
+   "text": "The 400 Mawozo leader posted an AI-made video aimed at Bukele: even if he prays to God, God will not protect his soldiers, \"because they have vodou.\"",
+   "evidence": "AI-generated video from the gang leader's account, relayed by Martínez",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 17:53",
+   "who": "Rolfy Martínez (@RolfyMartinez)",
+   "where": "X, Port-au-Prince area (place not given)",
+   "url": "https://x.com/RolfyMartinez/status/2115109615763329047",
+   "text": "A gang member was filming the joint forces passing; when the troops noticed, they opened fire, and the video cuts off as the shooting starts. About 44,000 views. Not yet reported by others.",
+   "evidence": "Shaky phone video; Martínez's description",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 17:37",
+   "who": "Franklin Vargas (@FranklinVargasG)",
+   "where": "X, Santo Domingo",
+   "url": "https://x.com/FranklinVargasG/status/2115105672731705745",
+   "text": "The Dominican executive sent the Senate a bill punishing with up to 30 years in prison anyone who recruits or uses children under 18 in irregular armed groups.",
+   "evidence": "Report, no document attached",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 16:50",
+   "who": "Haiti Info Project (@HaitiInfoProj)",
+   "where": "X, Port-au-Prince",
+   "url": "https://x.com/HaitiInfoProj/status/2115093822703280151",
+   "text": "Flights with soldiers and equipment from El Salvador kept landing Monday and Tuesday morning. HaitiInfoProj says the Haitian government has imposed a press blackout on the operation and that private contractors are coordinating with the Salvadoran and GSF forces. In Creole it reports another cargo plane overnight and three more flights scheduled for Tuesday. Not yet reported by others (the contractors point).",
+   "evidence": "No source given",
+   "other": "",
+   "links": [
+    [
+     "Creole flash, 16:54",
+     "https://x.com/HaitiInfoProj/status/2115094751628423359"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-27 16:21",
+   "who": "Radio Télé Confiance (@RTConfiance)",
+   "where": "X, in Creole, morning show",
+   "url": "https://x.com/RTConfiance/status/2115086560232439978",
+   "text": "Headline of Tuesday's show: \"Bukele di CECOT pare pou resevwa kriminèl yo\" (Bukele says CECOT, his mega-prison, is ready to receive the criminals).",
+   "evidence": "Show headline; we did not watch the show",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 16:10",
+   "who": "Haiti Info Project (@HaitiInfoProj)",
+   "where": "X, Lalue, Port-au-Prince",
+   "url": "https://x.com/HaitiInfoProj/status/2115083760920400349",
+   "text": "In heavy rain, people living in the displacement camps on Lalue protested, burning tires and throwing stones, to force the government to move them out of tents flooded with dirty water.",
+   "evidence": "Report in Creole",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 15:54",
+   "who": "@ParrainInfos, Haitian news account",
+   "where": "X, in French",
+   "url": "https://x.com/ParrainInfos/status/2115079597817524346",
+   "text": "\"VECTUS GLOBAL SOUS PRESSION!\" A graphic asking where the results are after a year of Erik Prince's company in Haiti.",
+   "evidence": "Commentary, no source",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 15:45",
+   "who": "Rolfy Martínez (@RolfyMartinez)",
+   "where": "X, Port-au-Prince area",
+   "url": "https://x.com/RolfyMartinez/status/2115077399964488097",
+   "text": "Video he says shows the Haitian police with the joint forces and El Salvador \"combing\" gang-held territory and pushing forward.",
+   "evidence": "Video; Martínez's description",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 15:40",
+   "who": "Jake Johnston (@JakobJohnston), Haiti analyst at CEPR",
+   "where": "X",
+   "url": "https://x.com/JakobJohnston/status/2115076258791117029",
+   "text": "\"Something tells me Bukele hasn't taken the advice of Marlene Daut: 'Aid State should be required reading for all world leaders before they even think about meddling in Haitian politics.'\"",
+   "evidence": "Opinion",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-27 14:41",
+   "who": "Jake Johnston (@JakobJohnston), Haiti analyst at CEPR",
+   "where": "X",
+   "url": "https://x.com/JakobJohnston/status/2115061321477533877",
+   "text": "\"Another chartered cargo flight arrived in Haiti last night. Three more from El Salvador are scheduled for today. Who is paying for all these flights?\" He quotes Jacqueline Charles that Bukele is reportedly seeking more troops to operate independently of the force.",
+   "evidence": "Flight listings; quote from the Miami Herald",
+   "other": "Rolfy Martínez (15:11) posted the same flight news and says the troops may answer directly to Haitian forces rather than the GSF.",
+   "links": [
+    [
+     "Rolfy Martínez, 15:11",
+     "https://x.com/RolfyMartinez/status/2115068854434935131"
+    ]
+   ]
+  },
   {
    "when": "2026-10-27 06:02",
    "who": "Bettinna (@bettinna), Haitian-diaspora account",
@@ -1287,6 +1629,9 @@
  ],
  "sections": {
   "salvador": [
+   "27 to 28 Oct: about 1,000 Salvadoran soldiers have now deployed, says a security official in Haiti who was not named (Reuters); who commands them and how long they stay is unclear. The flights go on: a second charter on Tuesday (Jacqueline Charles), more cargo flights (Jake Johnston, who asks who is paying), the first Colombian Air Force C-130H from San Salvador (@LatAmMilMVMTs), US Southern Command C-130s (an unnamed US military official, via Reuters) and Ecuador's Aeroregional airline (El Español). The FAA says Haiti's airspace is not closed.",
+   "Opinion: CID Gallup (24 to 27 Oct) finds 94 percent of Salvadorans approve of Bukele and 82 percent worry about the risk to personnel in Haiti. OAS Secretary General Albert Ramdin expressed solidarity and called for more decisive action against the gangs (via Magazine Haïti). Haitian commentator Cyrus Sibert calls for a Haiti–El Salvador defense agreement; the Haitian group KONTRAPÈPLA calls the deployment a giveaway of sovereignty.",
+   "Dominican Republic, 27 Oct: Haiti's foreign ministry summoned Ambassador Faruk Miguel over reported Dominican army incursions (letter photo posted by Franklin Vargas); Diario Libre's unnamed source sets the meeting for Thursday 29 Oct at noon, and an unofficial Dominican version says the houses involved were on the Dominican side. Empire Média says soldiers entered Thomazeau and destroyed homes. El Guayabo's district head says armed Haitians crossed into Elías Piña carrying wounded (Proceso.com.do). The executive sent the Senate a bill with up to 30 years in prison for recruiting minors into armed groups.",
    "26 to 27 Oct: the flights continue. The Miami Herald counts at least a dozen since Thursday, two on Sunday and cargo flights on Monday. Figures differ by source: 450 by Saturday \"with hundreds more expected\" (Herald), more than 500 special forces (Washington Post), at least 1,000 may ultimately deploy (Jake Johnston, no source given).",
    "A separate command: Johnston (no source) and the Miami Herald (\"reportedly\") say Bukele wants some Salvadoran troops to operate outside the GSF, answering to his own commander in Haiti. Johnston: \"A multilateral force, a bilateral force, and a private force.\"",
    "The remains: a person familiar with the matter told the Washington Post it is \"fairly certain\" at least some are not the Salvadorans'; roughly three bodies were \"almost fused together,\" and DNA testing is being done outside Haiti. Bukele has posted nothing on X since Sunday night, and Diario El Mundo says his government has given no new information nine days on.",
@@ -1307,6 +1652,7 @@
    "On 25 Oct Abinader said two more battalions, heavy equipment and artillery have gone to the southern border, on top of about 11,000 men (Diario Libre). Listín Diario says the government has still not explained how Dominican army and police ammunition reached 400 Mawozo and other gangs, as the UN Panel of Experts reported."
   ],
   "gsf": [
+   "27 Oct statement: the force accuses the gangs of spreading false information to undermine its operations and asks people to rely on official channels. Reuters puts the force at about 2,000, a third of its planned strength. EFE says the press is kept away from Toussaint Louverture airport and names the commander as Maj. Gen. Erdenebat Batsuuri. Rolfy Martínez posted video of the force sweeping Ganthier, Croix-des-Bouquets.",
    "26 Oct statement: \"Pressure on criminal groups will continue, and their acts of violence will not prevent the GSF from carrying out its mandate.\" EFE describes the photos: a convoy of eleven armored vehicles, Chadian soldiers, and a soldier in a Salvadoran helmet flying over the capital.",
    "Size, per Dominican Foreign Minister Víctor \"Ito\" Bisonó (26 Oct): about 2,181 international personnel deployed, with a goal of about 5,500 within three months. The Dominican Republic gives the force logistics (transit, medical evacuations, air permits, blood, military cargo) but takes no direct part in operations.",
    "Operations, 26 Oct: Salvadoran troops under the GSF and Haitian police ran a joint operation in Bon Repos (Miami Herald); Rolfy Martínez reports police and GSF offensives in Marin and Lizon and posts video of armored vehicles in Kenscoff; residents tell him the GSF presence in Croix-des-Bouquets is heavy.",
@@ -1319,6 +1665,10 @@
    "In July a GSF patrol in Tabarre came under fire near an illegal checkpoint in Kraze Baryè territory; the GSF said three armed men were killed (Haitian Times, 19 Oct)."
   ],
   "haitian": [
+   "27 Oct: the government has still said nothing about the Salvadoran deployment (EFE); HaitiInfoProj calls it a press blackout. Foreign Minister Raina Forbin held a virtual meeting with the heads of Haiti's 57 missions abroad on the government's foreign-policy roadmap (Ayitian Avan News). The ministry summoned the Dominican ambassador (see the El Salvador section).",
+   "KONTRAPÈPLA, a citizens' group, in a note of 26 Oct signed by Jean William Jeanty, accuses the state of \"liquidating\" Haiti's sovereignty and ceding ground to El Salvador, criticizes Bukele's threats and the authorities' silence, and raises concerns about the Cul-de-Sac plain (Rezo Nodwes, Lune News).",
+   "The national disarmament commission (CNDDR), in a note dated 24 Oct, warned of violence and forced displacement in Santo and asked for operations that respect human rights and for seized weapons to be listed and handed over (Vant Bèf Info, 25 Oct).",
+   "Port-au-Prince, 27 Oct: people in the flooded Lalue displacement camps protested in the rain, burning tires and throwing stones (HaitiInfoProj). The electoral council has registered more than 878,000 voters, but the election calendar is uncertain (Radio Télé Confiance). Radio Télé Confiance also headlines that the ruling side's candidate sent large sums to gangs in Cité Soleil (candidate not named in the post).",
    "Bel-Air, Sunday night 25 Oct: a police operation that began around 5 p.m. used explosive drones (Le Médiateur says nearly five). Police sources tell Vant Bèf Info, Radio Télé Galaxie (via EFE) and HaitiInfoProj that several gang members were killed; no official toll. A resident (via HaitiInfoProj) says a local second in command called \"Solo\" was shot, and that innocent people were hurt by a drone strike.",
    "The police posted video of its BRI unit on the ground in Mirebalais (27 Oct).",
    "The Haitian army (FAd'H) tested about 2,000 recruits on Sunday for 700 places, part of a plan to recruit 15,000 in three years (EFE).",
@@ -1335,6 +1685,9 @@
    "Haiti's government postponed the elections planned for December indefinitely in early October (EFE via France 24)."
   ],
   "us": [
+   "27 Oct: an unnamed US military official told Reuters that Southern Command C-130s helped move the Salvadoran troops. No new statement was found from the State Department or the US mission to the UN on 27 Oct (their posts that day were about Cuba), and the UN noon briefing had no Haiti item.",
+   "HERO Client Rescue, the group that recovered the remains, has about $9.31 million in State Department INL awards according to USAspending, starting with a 12 Aug 2024 contract for medical services to the Haitian police (Le Quotidien 509, which asks who authorized the recovery).",
+   "At a 24 to 25 Oct campaign rally in Perry, Georgia, Trump again called Haiti one of the \"shithouse countries\" while attacking Sen. Jon Ossoff for backing a longer TPS for Haitians (Le Quotidien 509).",
    "Radio X Inter (Gonaïves) says 33 armored vehicles that arrived on 23 Oct went 20 to the GSF and 13 to the Haitian police, with the US Embassy facilitating; not yet reported by others. El País says three of the first six aircraft to land were American.",
    "No new statement found on 26 Oct from the State Department or the US mission to the UN; a US Embassy post that day carried only a photo and a link, which we did not open.",
    "The group that recovered the remains, Hero Client Rescue, is a US-funded medical evacuation service led by Scott Reece, a former State Department security official (New York Times, Haitian Times). No new US government statement was found on 25 Oct; the State Department did not answer the Miami Herald about US transport for Salvadoran troops.",
@@ -1344,6 +1697,8 @@
    "The US designated Viv Ansanm and Gran Grif as terrorist organizations on 2 May 2025 (State Department)."
   ],
   "contractors": [
+   "28 Oct: nothing new from Vectus. No new post from Erik Prince (@realErikDPrince) or @VectusGlobal and no company statement on 27 to 28 Oct. Others did talk about it: analyst Luis Contreras (Reuters) expects some Salvadoran troops to work outside the GSF and coordinate with Prince's company; HaitiInfoProj says private contractors are coordinating with the Salvadoran and GSF forces (no source given); @ParrainInfos asks where Vectus's results are after a year; Carel Pèdre lists Vectus Global among the armed forces now in Haiti.",
+   "CNN (Nick Paton Walsh and Caitlin Stephen Hu, 17 Oct), after interviewing Erik Prince: more than 2,000 drone strikes since March 2025; an operation in Kenscoff and Bois d'Avril with foreign contractors in helicopters; the UN counts 85 civilians killed by drones, attributed to a \"private military contractor\"; rights advocate Rosy Auguste Ducena calls the contractors useless; the fee runs to tens of millions of dollars, and a border deal gives Prince 10 percent of new customs revenue for 10 years. Bel Air gang members told CNN \"drones are pushing us out.\"",
    "Bel-Air, 25 Oct: a police source says the Task Force used drones against gang positions (HaitiInfoProj); Vant Bèf Info says kamikaze drones were used against kidnappers. A resident says innocent people were wounded or killed by a drone.",
    "26 Oct: X posts repeat that Erik Prince's drones and a $52 million contract are part of the fight, with no source; Rezo Nodwes criticized the prime minister over the same $52 million contract. Nothing new from Vectus Global was found.",
    "25 to 26 Oct: Radio Télé Confiance says the Task Force launched several drones during heavy clashes in Santo, Croix-des-Bouquets, and that kamikaze drones struck Bel-Air on Sunday night. A Spanish-language account (@erickprometeom) says the Task Force with Vectus Global is fighting alongside the international force for the first time; it gives no source.",
@@ -1358,17 +1713,17 @@
  "gangs": [
   [
    "Viv Ansanm (\"Living Together\")",
-   "The coalition of the main Port-au-Prince gangs, formed in 2024 per El País (one source dates it September 2023). Jimmy \"Barbecue\" Chérizier is a leading figure and its spokesman. Designated a terrorist organization by the US on 2 May 2025. The Miami Herald's analyst says it had been fragmenting, and that this incident may restore its cohesion.",
+   "The coalition of the main Port-au-Prince gangs, formed in 2024 per El País (one source dates it September 2023). Jimmy \"Barbecue\" Chérizier is a leading figure and its spokesman. Designated a terrorist organization by the US on 2 May 2025. The Miami Herald's analyst says it had been fragmenting, and that this incident may restore its cohesion. Early on 28 Oct Chérizier released a long video calling the accusations against him a plot by politicians and paid journalists, naming Youri Latortue among others (Rolfy Martínez).",
    "https://www.state.gov/designation-of-viv-ansanm-and-gran-grif"
   ],
   [
    "400 Mawozo",
-   "Led by Wilson Joseph, \"Lanmò San Jou,\" operating in Croix-des-Bouquets and part of Viv Ansanm. He posted a video of ammunition and challenged Bukele (Anadolu). On 24 Oct new video showed him in a pickup with ammunition saying \"We have to fight just to stay alive\" (via HaitiInfoProj). On 25 Oct a TikTok video blamed Chen Mechan for the four Salvadorans' deaths and said he would have taken them alive and negotiated with Bukele; a longer version shows three men he says are police held in his area (Le Patrimoine 509) and, in César Moreno's Spanish version, a call to shoot foreigners. Radio Télé Confiance says he and Jeff Gwo Lwa have been in Saut-d'Eau since Wednesday. Listín Diario, citing the UN Panel of Experts, says most of 900,000 rounds diverted from Dominican police stocks went to 400 Mawozo and other groups. El Demócrata reports fighting against the gang in Croix-des-Bouquets. On 26 Oct he posted video singing and showing diamond teeth (Rolfy Martínez), and he says in a video that he holds three Haitian police officers; Herald sources say 400 Mawozo backed Chen Mechan's gunmen in the 18 Oct attack. His 25 Oct TikTok: https://www.tiktok.com/@plip_plip_400/video/7700668419598732558",
+   "Led by Wilson Joseph, \"Lanmò San Jou,\" operating in Croix-des-Bouquets and part of Viv Ansanm. He posted a video of ammunition and challenged Bukele (Anadolu). On 24 Oct new video showed him in a pickup with ammunition saying \"We have to fight just to stay alive\" (via HaitiInfoProj). On 25 Oct a TikTok video blamed Chen Mechan for the four Salvadorans' deaths and said he would have taken them alive and negotiated with Bukele; a longer version shows three men he says are police held in his area (Le Patrimoine 509) and, in César Moreno's Spanish version, a call to shoot foreigners. Radio Télé Confiance says he and Jeff Gwo Lwa have been in Saut-d'Eau since Wednesday. Listín Diario, citing the UN Panel of Experts, says most of 900,000 rounds diverted from Dominican police stocks went to 400 Mawozo and other groups. El Demócrata reports fighting against the gang in Croix-des-Bouquets. On 26 Oct he posted video singing and showing diamond teeth (Rolfy Martínez), and he says in a video that he holds three Haitian police officers; Herald sources say 400 Mawozo backed Chen Mechan's gunmen in the 18 Oct attack. His 25 Oct TikTok: https://www.tiktok.com/@plip_plip_400/video/7700668419598732558. On 27 Oct he posted video of himself walking in Port-au-Prince to a song about the four Salvadorans, and an AI-made video telling Bukele that God will not protect his soldiers \"because they have vodou\" (Rolfy Martínez). Reuters says he denies holding the men.",
    "https://www.aa.com.tr/en/americas/el-salvador-deploys-special-forces-to-haiti-to-rescue-kidnapped-troops/4099174"
   ],
   [
    "Chen Mechan (\"Vicious Dog\")",
-   "Part of Viv Ansanm. Haïti Liberté, relaying Chérizier, says its fighters ambushed the GSF members in Santo; Lanmò San Jou now says the four died in its area. Salazar names Claude Celestin as its head. Martínez says its base was destroyed (not yet reported by others). The burned remains handed over on 24 Oct were collected at a drop site in its territory (Miami Herald). Radio Télé Confiance says its leader is dug in at Marin 12; another source, Thériel Thélus, says he is hiding in Lizon and moving by motorcycle, that the gang has regrouped and blocked the Croix-des-Missions bridge, and that a video attributed to it says the Salvadorans fired first and that its men tried to put out the fire (not yet reported by others). On 26 Oct César Moreno, citing one local, named former deputy Lemaire Pierre as the man arming the gang to control 34 neighborhoods (not yet reported by others); police and GSF offensives were reported in Marin and Lizon.",
+   "Part of Viv Ansanm. Haïti Liberté, relaying Chérizier, says its fighters ambushed the GSF members in Santo; Lanmò San Jou now says the four died in its area. Salazar names Claude Celestin as its head. Martínez says its base was destroyed (not yet reported by others). The burned remains handed over on 24 Oct were collected at a drop site in its territory (Miami Herald). Radio Télé Confiance says its leader is dug in at Marin 12; another source, Thériel Thélus, says he is hiding in Lizon and moving by motorcycle, that the gang has regrouped and blocked the Croix-des-Missions bridge, and that a video attributed to it says the Salvadorans fired first and that its men tried to put out the fire (not yet reported by others). On 26 Oct César Moreno, citing one local, named former deputy Lemaire Pierre as the man arming the gang to control 34 neighborhoods (not yet reported by others); police and GSF offensives were reported in Marin and Lizon. On 27 Oct César Moreno, citing unnamed people on the ground, said its leader was surrounded in Marin 21 and his partner, Nicole, killed (not yet reported by others).",
    "https://haitiliberte.com/the-u-s-denies-that-its-salvadoran-mercenaries-have-been-killed/"
   ],
   [
@@ -1394,8 +1749,16 @@
  ],
  "numbers": [
   [
+   "Bukele approval, CID Gallup poll 24 to 27 Oct",
+   "94 percent approve; 82 percent worried about the risk to personnel in Haiti"
+  ],
+  [
+   "Drone strikes by Haiti's task force and contractors since Mar 2025",
+   "more than 2,000 (CNN, 17 Oct); 85 civilians killed by drones (UN, via CNN)"
+  ],
+  [
    "GSF strength",
-   "about 2,181 international personnel, goal about 5,500 within three months (Dominican Foreign Minister Bisonó, 26 Oct) / over 2,000 from six countries (Miami Herald) / more than 1,000 (EFE)"
+   "about 2,000, a third of planned strength (Reuters, 27 Oct) / about 2,181 international personnel, goal about 5,500 within three months (Dominican Foreign Minister Bisonó, 26 Oct) / over 2,000 from six countries (Miami Herald) / more than 1,000 (EFE)"
   ],
   [
    "Dominican troops at the border",
@@ -1403,7 +1766,7 @@
   ],
   [
    "Salvadoran troops in Haiti",
-   "450 by Saturday 24 Oct, hundreds more expected (Miami Herald, 27 Oct) / more than 500 (Washington Post, 26 Oct) / at least 1,000 may ultimately deploy (Johnston) / about 100 (Haitian Times, El País) / 200 (Pimentel) / 450 (Le Nouvelliste source, Listín Diario; Miami Herald \"as of Friday\"; Johnston \"450 and counting\") / 3,000 (Salazar, Reyes, Noticiero-502gt)"
+   "about 1,000 (security official in Haiti, not named, to Reuters, 27 Oct; also Haití en Español) / at least 124 before the 18 Oct ambush (Reuters) / 450 by Saturday 24 Oct, hundreds more expected (Miami Herald, 27 Oct) / more than 500 (Washington Post, 26 Oct) / at least 1,000 may ultimately deploy (Johnston) / about 100 (Haitian Times, El País) / 200 (Pimentel) / 450 (Le Nouvelliste source, Listín Diario; Miami Herald \"as of Friday\"; Johnston \"450 and counting\") / 3,000 (Salazar, Reyes, Noticiero-502gt)"
   ],
   [
    "Salvadorans wounded in first clash, 24 Oct",
@@ -1565,6 +1928,38 @@
     [
      "@realErikDPrince (Erik Prince)",
      "https://x.com/realErikDPrince"
+    ],
+    [
+     "@LatAmMilMVMTs (military flight tracking)",
+     "https://x.com/LatAmMilMVMTs"
+    ],
+    [
+     "@cidgallup (CID Gallup)",
+     "https://x.com/cidgallup"
+    ],
+    [
+     "@maghaiti (Magazine Haïti)",
+     "https://x.com/maghaiti"
+    ],
+    [
+     "@carelpedre (Carel Pèdre)",
+     "https://x.com/carelpedre"
+    ],
+    [
+     "@lequotidien509 (Le Quotidien 509)",
+     "https://x.com/lequotidien509"
+    ],
+    [
+     "@reseaucitadelle (Cyrus Sibert)",
+     "https://x.com/reseaucitadelle"
+    ],
+    [
+     "@ParrainInfos",
+     "https://x.com/ParrainInfos"
+    ],
+    [
+     "@ayitianavannews",
+     "https://x.com/ayitianavannews"
     ]
    ]
   ],
@@ -1602,6 +1997,22 @@
     [
      "Le Médiateur",
      "https://lemediateurhaiti.com/haiti-kidnapping-la-pnh-lance-une-operation-dans-le-quartier-de-bel-air/"
+    ],
+    [
+     "Le Quotidien 509, HERO Client Rescue",
+     "https://lequotidien509.com/hero-client-rescue-lentreprise-au-coeur-de-laffaire-des-restes-remis-aux-salvadoriens/"
+    ],
+    [
+     "Rezo Nodwes, KONTRAPÈPLA",
+     "https://rezonodwes.com/2026/10/quand-kontrapepla-denonce-une-liquidation-de-la-souverainete-haitienne/"
+    ],
+    [
+     "Lune News, KONTRAPÈPLA",
+     "https://lunenews.com/securite/haiti-kontra-pep-la-critique-les-menaces-de-bukele-apres-la-disparition-de-militaires-salvadoriens/"
+    ],
+    [
+     "Vant Bèf Info, CNDDR on Santo",
+     "https://vantbefinfo.com/haiti-la-cnddr-alerte-sur-les-violences-a-santo-et-exige-des-operations-respectueuses-des-droits-humains/"
     ]
    ]
   ],
@@ -1647,12 +2058,40 @@
     [
      "Dominican Presidency, 20-kilometer warning",
      "https://presidencia.gob.do/noticias/presidente-luis-abinader-advierte-no-permitira-bandas-haitianas-menos-de-20-kilometros-de"
+    ],
+    [
+     "Diario Libre, ambassador summoned",
+     "https://www.diariolibre.com/actualidad/nacional/2026/10/27/haiti-cita-al-embajador-dominicano-tras-denuncias-de-incursiones/3702694"
+    ],
+    [
+     "Proceso.com.do, El Guayabo",
+     "https://proceso.com.do/2026/10/26/denuncian-ingreso-a-rd-de-haitianos-armados-cargando-heridos-por-el-guayabo-de-elias-pina/"
     ]
    ]
   ],
   [
    "Other",
    [
+    [
+     "Reuters via The Straits Times, 27 Oct",
+     "https://www.straitstimes.com/world/around-1000-soldiers-from-el-salvador-have-deployed-to-haiti-source-says"
+    ],
+    [
+     "Reuters via CBC, 27 Oct",
+     "https://www.cbc.ca/news/world/el-salvador-soldiers-deployed-haiti-9.7398494"
+    ],
+    [
+     "CNN, Erik Prince and drones, 17 Oct",
+     "https://www.cnn.com/2026/10/17/americas/haiti-erik-prince-drones"
+    ],
+    [
+     "El Español, 27 Oct",
+     "https://www.elespanol.com/mundo/20261027/bukele-despliega-soldados-haiti-desaparicion-militares-salvadorenos-combatian-pandillas/1003744437401_0.html"
+    ],
+    [
+     "EFE via ABC Color, 27 Oct",
+     "https://www.abc.com.py/internacionales/2026/10/27/fuerza-antipandillas-acusa-a-bandas-haitianas-de-socavar-operaciones-con-desinformacion/"
+    ],
     [
      "El País",
      "https://elpais.com/america/"

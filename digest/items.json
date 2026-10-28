@@ -885,6 +885,10 @@
   "2026-10-27": {
    "intro": "Israel votes today: 7.33 million eligible voters and 36 lists, with polls open until 10 p.m. On the eve: reports of a Netanyahu–Zamir clash over a pre-election move against Iran (Netanyahu says he will not fire the IDF chief), Trump's denial that Netanyahu asked for his endorsement, Likud's plan to film Arab voters, and Polymarket at Eisenkot 54.9 percent. Sweida (Syria): Jordanian strikes after the Karak church attack hit Shahba. Also: Bolsonaro's party accepts Lula's win while Moraes bars Flávio from leaving Brazil, a Cluster17 poll with Mélenchon second in France, St-Pierre Plamondon's planned meeting with Macron, \"Strangers\" on Barnes & Noble's Book of the Year shortlist, Anthropic's 120.5-billion-dollar SpaceX compute deal, Grok Bot 0.75.8 and Cursor's Agent SDK.",
    "quiet": "Nothing material on the EUSM Lebanon mission (no news since 26 October), the Carney case, Trump and Xi (nothing beyond the 26 October Kremlin summit report), the UK breakup (only a Plaid Cymru council by-election win and a new pro-Union think tank in Northern Ireland), Greenland (Trump's \"our Greenland\" oil remark resurfaced, but it dates from 14 October), Trenton (only crime, sports and a TCAT Art Cart ribbon cutting), Colombia and Israel, Israeli data centers (Unconventional AI's purchase of NeuReality is a chip deal, not a data center), HaShiloach (no new issue or essay) or non-Latin script digitization."
+  },
+  "2026-10-28": {
+   "intro": "Israel voted with 77.7 percent turnout, the highest since 2001. Exit polls gave no bloc 61 seats, overnight updates leaned toward Netanyahu, and Likud leads the early count. Also: a Saudi report that Israel and Syria nearly clashed over Sweida, Flávio Bolsonaro's flight to the US, a poll saying Le Pen gains most from France's riots, Quebec's boycott of the Canada–EU summit, the Electricity Authority's full data-center proposal, an India–BnF manuscript deal, Grok Bot 0.77.0, SpaceX's planned Kennedy campus, a unionist case for a third Scottish referendum, and new Land and Vallée material in Cypherboria.",
+   "quiet": "Nothing material on Colombia and Israel (the 27 October report of Colombia leaving the Hague Group repeats the 16 October news), the Carney case (nothing since 23 September), Trump and Xi (only previews and commentary), Greenland (a Janes piece repeats 20 October remarks), Belle Burden (only the Barnes & Noble shortlist, covered 27 October), Trenton (only mayoral endorsements and sports) or HaShiloach (no new Hebrew essay since 24 September and no new English post since 16 August)."
   }
  },
  "items": [
@@ -6531,6 +6535,326 @@
     {
      "name": "Replit blog, Amjad Masad, 26 Oct 2026",
      "url": "https://replit.com/blog/rise-of-self-driving-company"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-israel-election-1",
+   "edition": "2026-10-28",
+   "section": "israel-election",
+   "headline": "Israel votes with 77.7 percent turnout, the highest since 2001; exit polls show no 61-seat majority, and overnight updates moved toward Netanyahu",
+   "lead": "Turnout was 77.7 percent (5,695,682 of 7,331,981 eligible voters), the highest since 2001, and none of the 10 p.m. exit polls gave either bloc the 61 seats needed to govern.",
+   "text": "At 10 p.m., Channel 12, Channel 13 and Kan all had the Netanyahu bloc at 50 seats and the Eisenkot-led \"change\" bloc at 52, with Likud the largest party (Channel 12: Likud 24, Yashar! 22) and the Arab parties at about 17. The right-leaning channels differed: i24NEWS had 55 to 49 and Channel 14 had 60 to 43. Overnight updates moved toward Netanyahu: Kan revised to a 51–51 tie, and Channel 12 revised to Netanyahu bloc 52, Eisenkot bloc 49 and Arab parties 19, with Likud up to 27 and Yashar! down to 21. With about 21.4 percent of votes counted (1.2 million) at 4:18 a.m. Israel time, Ynet reported Likud at 23.4 percent, Yashar! 15.7 percent and B'Yachad (Bennett–Lapid) 8.5 percent, with Ra'am at 3.2 percent, just under the 3.25 percent threshold. Early counts are not representative of the final result. Arutz Sheva projected 65 seats for the current coalition from an 11.1 percent count; this is a partisan outlet's projection and is unconfirmed. On Polymarket at about 4:30 a.m. Israel time, Netanyahu was at 53.5 percent to be the next prime minister (up 26 points in a day) and Eisenkot at 22 percent (down 33 points). Official results are due by 4 November.",
+   "sources": [
+    {
+     "name": "Ynet (turnout and exit polls)",
+     "url": "https://www.ynet.co.il/news/article/rks5sp03zx"
+    },
+    {
+     "name": "Maariv (Channel 12 update)",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382116"
+    },
+    {
+     "name": "Maariv (Kan update)",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382115"
+    },
+    {
+     "name": "Ynet (count at 21.4 percent)",
+     "url": "https://www.ynet.co.il/news/article/bjnakc0nzx"
+    },
+    {
+     "name": "JNS",
+     "url": "https://www.jns.org/news/israel-news/bennett-lapid-celebrate-though-israeli-election-results-still-unclear"
+    },
+    {
+     "name": "Arutz Sheva (projection)",
+     "url": "https://www.inn.co.il/flashes/1138242"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-israel-election-2",
+   "edition": "2026-10-28",
+   "section": "israel-election",
+   "headline": "Both sides claim the night: Netanyahu says the right has a \"clear majority\" among Jewish voters; Eisenkot says the public \"decided in favor of change\"",
+   "lead": "Netanyahu told supporters in Jerusalem that Likud is the largest party and that the right-wing bloc has a \"clear, decisive majority among the Jewish public,\" while waiting for the real results \"in the next day or two.\"",
+   "text": "Eisenkot told his Yashar! headquarters, \"We made history,\" said the public had \"decided in favor of change,\" and said it would be \"a mistake to go to another election.\" Bennett, speaking for B'Yachad with Lapid, said \"the alliance of those who serve has defeated the coalition of draft dodgers\" and signaled support for Eisenkot as prime minister; Lapid said the coalition might not be broad on the first day. United Torah Judaism leader Yitzhak Goldknopf did not rule out working with Eisenkot and said the question would go to the Torah sages. Ynet reported that people close to President Trump would prefer a unity government without Itamar Ben-Gvir (unnamed sources; unconfirmed). Haredi protesters blocked Route 4 after the exit polls were published.",
+   "sources": [
+    {
+     "name": "Ynet (Netanyahu)",
+     "url": "https://www.ynet.co.il/news/article/skwb36a2gx"
+    },
+    {
+     "name": "Maariv (Eisenkot)",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382112"
+    },
+    {
+     "name": "JNS (Bennett)",
+     "url": "https://www.jns.org/news/israel-news/bennett-lapid-celebrate-though-israeli-election-results-still-unclear"
+    },
+    {
+     "name": "Maariv (Lapid)",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382107"
+    },
+    {
+     "name": "Ynet (Goldknopf)",
+     "url": "https://www.ynet.co.il/news/article/hydmn2r2ml"
+    },
+    {
+     "name": "Ynet (Trump aides)",
+     "url": "https://www.ynet.co.il/news/article/skkawncngl"
+    },
+    {
+     "name": "Maariv (Route 4 protest)",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382105"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-lebanon-1",
+   "edition": "2026-10-28",
+   "section": "lebanon",
+   "headline": "Sweida (Syria): a Saudi paper says Israel and Syria came close to a direct clash last week until US and Gulf mediation on 20 October (single source)",
+   "lead": "Al-Majalla, as reported by Channel 14, says the US and Gulf states stepped in on 20 October and reached \"loose understandings\" that prevented an Israel–Syria clash over Sweida.",
+   "text": "According to the report, Damascus sent reinforcements to the lines around Sweida after hearing that Druze forces linked to Sheikh Hikmat al-Hijri planned to strike government targets, which Damascus believed was meant to draw Israel in. It also says Syrian Foreign Minister Asaad al-Shaibani has been pressing Washington and regional states to stop Israeli army operations in southern Syria. Damascus has not confirmed that war was close, and no new security agreement has been published. This rests on a single source (Al-Majalla) and is unconfirmed.",
+   "sources": [
+    {
+     "name": "Channel 14 (citing Al-Majalla)",
+     "url": "https://www.c14.co.il/article/1759966"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-lebanon-2",
+   "edition": "2026-10-28",
+   "section": "lebanon",
+   "headline": "Druze leader Walid Jumblatt answers a State Department rebuke: nobody in Lebanon was consulted on the three-way framework",
+   "lead": "After a State Department spokesman publicly criticized him, Jumblatt said he has the right to express his opinion and that no one in Lebanon was consulted before the US–Israel–Lebanon framework was announced.",
+   "text": "EUSM watch: no Israeli press reaction to the planned EU mission in Lebanon was found; the only new coverage is the Irish debate over sending troops (Sinn Féin criticized Minister Helen McEntee on 27 October).",
+   "sources": [
+    {
+     "name": "Antiwar.com",
+     "url": "https://news.antiwar.com/2026/10/27/lebanese-druze-figure-defiant-after-denunciation-by-us-state-dept/"
+    },
+    {
+     "name": "Daily Beirut",
+     "url": "https://dailybeirut.com/en/lebanon-news/joumblatt-responds-us-state-department-right-express-opinion/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-lebanon-3",
+   "edition": "2026-10-28",
+   "section": "lebanon",
+   "headline": "How Israel's Druze voted: Sweida pulled some toward Likud, while the Nation-State Law and crime pushed others away",
+   "lead": "i24NEWS Arabic reports that Druze voters were split, with some backing Likud because of Israel's actions to protect the Druze of Sweida (Syria).",
+   "text": "Others cited the Nation-State Law, the Kaminitz planning law and crime in Druze towns as reasons to vote against the government. Vote totals by town were not yet available.",
+   "sources": [
+    {
+     "name": "i24NEWS Arabic",
+     "url": "https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/israeli-election-2026/artc-a8e46778"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-brazil-1",
+   "edition": "2026-10-28",
+   "section": "brazil",
+   "headline": "Flávio Bolsonaro leaves Brazil for the US after his election loss; Lula calls it a \"shameful act\"",
+   "lead": "Flávio Bolsonaro left Brazil for the United States, and the US said it would grant him a visa.",
+   "text": "President Lula called the departure an \"ato vergonhoso\" (\"shameful act\"). Agência Brasil explains that the Supreme Court (STF) investigations against him continue, and that he keeps his Senate immunities until his term ends on 1 February. The day before, Justice Moraes had barred him from leaving the country (see 27 October).",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa"
+    },
+    {
+     "name": "Agência Brasil (Lula)",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ato-vergonhoso-diz-lula-sobre-fuga-de-flavio-bolsonaro"
+    },
+    {
+     "name": "Agência Brasil (STF probes)",
+     "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/entenda-investigacoes-contra-flavio-continuam-no-stf-apos-fuga"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-france-election-1",
+   "edition": "2026-10-28",
+   "section": "france-election",
+   "headline": "Odoxa-Mascaret poll (27 October): 74 percent say Le Pen gains most from the 17 October riots; 67 percent feel anger",
+   "lead": "In the Odoxa-Mascaret barometer published 27 October, 74 percent named Marine Le Pen as the main political beneficiary of the 17 October violence.",
+   "text": "Sixty-seven percent said they felt anger, and Macron's rating was 83 percent negative. Favorable ratings: Le Pen 38 percent, Bardella 37 percent and Mélenchon 32 percent. Polymarket barely moved: Le Pen 43 percent, Édouard Philippe 17.5 percent, David Lisnard 15.5 percent and Mélenchon 11.5 percent.",
+   "sources": [
+    {
+     "name": "La Dépêche",
+     "url": "https://www.ladepeche.fr/2026/10/27/decryptage-presidentielle-2027-sondage-pourquoi-marine-le-pen-et-jean-luc-melenchon-sortent-gagnants-des-violences-du-17-octobre-selon-le-barometre-13620816.php"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-france-election-2",
+   "edition": "2026-10-28",
+   "section": "france-election",
+   "headline": "Le Pen names Hérault deputy Charles Alloncle as her campaign spokesman",
+   "lead": "Marine Le Pen named Charles Alloncle, the RN deputy for Hérault, as spokesman for her 2027 presidential campaign.",
+   "text": "Also on 27 October: the Senate passed the \"casseurs-payeurs\" bill (which makes rioters pay for damage), and chambers of commerce counted more than 2,500 shops damaged in the 17 October riots.",
+   "sources": [
+    {
+     "name": "Midi Libre",
+     "url": "https://www.midilibre.fr/2026/10/27/presidentielle-2027-le-depute-de-lherault-charles-alloncle-nomme-porte-parole-de-campagne-de-marine-le-pen-13623051.php"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-quebec-1",
+   "edition": "2026-10-28",
+   "section": "quebec",
+   "headline": "St-Pierre Plamondon will boycott the Canada–EU summit in Montreal, saying Ottawa censored him; Carney: \"his decision to leave the chair empty\"",
+   "lead": "Quebec Premier Paul St-Pierre Plamondon says he will not attend the Canada–EU summit in Montreal on 29–30 October, accusing Ottawa of refusing to let him speak.",
+   "text": "Prime Minister Carney replied that it was the premier's \"decision to leave the chair empty.\" The boycott follows the premier's planned meeting with Macron (see 27 October).",
+   "sources": [
+    {
+     "name": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-premier-speech-canada-eu-summit-montreal-9.7397619"
+    },
+    {
+     "name": "Global News",
+     "url": "https://globalnews.ca/news/12122913/quebec-premier-accuses-ottawa-of-censoring-him-at-eu-summit/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-israeli-data-centers-1",
+   "edition": "2026-10-28",
+   "section": "israeli-data-centers",
+   "headline": "Electricity Authority's full proposal for data centers: 1,000 MW until 2035, 200 MW per site, and guarantees of up to NIS 400 million",
+   "lead": "The Electricity Authority published its full hearing document on connecting data centers to the grid, Globes reported on the evening of 25 October.",
+   "text": "The proposal caps each site at 200 MW and forbids splitting a site into smaller ones to get around the cap. It sets 1,000 MW in total for new data centers until 2035, plus a 300 MW reserve for data centers serving local customers. Developers would post a guarantee of NIS 0.5 million per MW when they apply (up to NIS 100 million), rising to NIS 2 million per MW (up to NIS 400 million) once approvals are in. Quotas would go first-come, first-served to those meeting the legal thresholds; plans taking more than seven years get an automatic no, and all applications are due by 1 June 2028. On-site renewable power with storage is allowed but gives no priority, and priority rules (periphery, flexibility at peak hours, efficiency) are still undecided. The authority froze new data-center connection requests in July after requests totaling 27 GW, three times Israel's entire generating capacity, came in. Public comments are open until 17 November, so the final decision will likely fall to the next government. Mega Or, which had planned more than 1,000 MW in Hadera, filed a stock-exchange report on 26 October about the hearing (seen only as an Investing.com headline).",
+   "sources": [
+    {
+     "name": "Globes",
+     "url": "https://www.globes.co.il/news/article.aspx?did=1001560769"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-non-latin-script-digitization-1",
+   "edition": "2026-10-28",
+   "section": "non-latin-script-digitization",
+   "headline": "India and the Bibliothèque nationale de France agree to digitize Indian manuscripts held in Paris and share OCR tools for Indian scripts",
+   "lead": "India's Ministry of Culture and the Bibliothèque nationale de France (BnF) signed a memorandum of understanding in Paris on 26 October under the Gyan Bharatam Mission.",
+   "text": "It was signed by Vivek Aggarwal for the ministry and Gilles Pécout for the BnF. It covers five areas: digitization, sharing on India's National Digital Repository, technology exchange, conservation, and research. It includes digitizing manuscripts of Indian origin held by the BnF and exchanging \"OCR/HTR tools for Indian scripts\" (software that reads printed and handwritten text). Source: the Indian government's press release; the DD News copy could not be opened.",
+   "sources": [
+    {
+     "name": "Press Information Bureau (India)",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2329163&reg=48&lang=2"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-spacex-xai-and-cursor-1",
+   "edition": "2026-10-28",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Grok Bot 0.77.0: approval per login for 1Password, memory import from other assistants, a Permissions page and 30-minute approval cards",
+   "lead": "xAI's changelog dated 26 October lists Grok Bot 0.77.0 (with 0.76.0), titled \"Permissions, Vault payments, and question cards.\"",
+   "text": "New: 1Password approval for each login; importing memory from another assistant; cards that ask several questions at once; a copy button for tables; a Vault Payments tab; address autocomplete; a Gmail sign-out notice; Portuguese (Portugal); pinned emoji; page owners can delete Pages; Order Concierge and Deal Watcher templates; custom MCP servers with a private certificate authority; and Team Bot features. Improved: a new typeface; a Permissions section in Settings that lists Auto-review rules; approval cards stay open 30 minutes instead of 10; background work started in your own words no longer needs approval; dictation that types while you speak; and bots try saved Vault logins and cards before a password manager.",
+   "sources": [
+    {
+     "name": "xAI changelog",
+     "url": "https://x.ai/changelog/bot"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-spacex-xai-and-cursor-2",
+   "edition": "2026-10-28",
+   "section": "spacex-xai-and-cursor",
+   "headline": "NASA draft study shows SpaceX's planned Kennedy campus: about 400 acres, 3,300 workers by 2045 and a Starship test stand",
+   "lead": "A 239-page NASA draft environmental assessment released this month describes SpaceX's planned expansion at Roberts Road, Kennedy Space Center.",
+   "text": "SpaceX would grow from the 167 acres it leases today to about 400 acres, with about 3,300 employees by full buildout in 2045. Plans include a payload processing facility, a Starship test stand near Schwartz Road, a new four-lane road and buildings up to 400 feet tall; about 156 acres of wetlands would be affected. SpaceX vice president Kiko Dontchev said on 21 October that the pad 39A infrastructure is \"effectively complete\" and that after the Bandwagon-5 launch on 20 October \"we have a six-week gap before the next Falcon 9,\" as SpaceX shifts its crews to Starship. The first Florida Starship launch may come by the end of the year.",
+   "sources": [
+    {
+     "name": "Florida Today via Miami Herald",
+     "url": "https://www.miamiherald.com/news/article317798434.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-uk-breakup-politics-1",
+   "edition": "2026-10-28",
+   "section": "uk-breakup-politics",
+   "headline": "A pro-union historian says unionists can't refuse a second Scottish referendum forever, and proposes a third, confirming vote after any Yes",
+   "lead": "Professor Colin Kidd of the University of St Andrews, who sits on the advisory council of the pro-union think tank These Islands, wrote in The Herald on 27 October that unionists \"can't keep on saying no indefinitely\" to a second referendum.",
+   "text": "He proposed that any deal for a second vote include a third, binding referendum, either when independence talks conclude or ten years after independence, citing \"buyer's remorse\" after Brexit. He also warned that an independent Scotland taking on part of the UK's three trillion pounds of debt would face strict market discipline and \"would almost certainly need to run a Thatcherite economic policy.\" Gordon MacIntyre-Kemp of the pro-independence Believe in Scotland criticized the idea in The Herald.",
+   "sources": [
+    {
+     "name": "The Herald",
+     "url": "https://www.heraldscotland.com/news/26674483.historian-calls-third-scottish-independence-referendum/"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenational.scot/news/26675650.scottish-independence-referendum-must-double-vote-historian-says/"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-cypherboria-1",
+   "edition": "2026-10-28",
+   "section": "cypherboria",
+   "headline": "Chi publishes an essay recounting a talk with Land: Land told her nature and grace \"are the same under the sovereignty of God\"",
+   "lead": "@chithinksonline posted \"Christian Hermetic Metaphysics: Agápē is Metamodern\" on her Substack on 27 October, and @patallax promoted it on X as reading on \"Network Spirituality.\"",
+   "text": "In the essay she writes that when she spoke to Nick Land about Gnostic Calvinism and her own \"Xenolutheranism,\" the talk came down to a disagreement over what nature is. In her account, Land told her that nature and grace are the same under the sovereignty of God, and that a miracle is not an exception to nature but one of its works beyond the reach of our judgment; Xenolutheranism, by contrast, negates nature to reach grace. This is her account only; Land has not posted about it. The same day she posted \"A blessed guide to Xenolutheran eschatology\" on X. Other watch-list activity since the last edition: Land posted only on politics and immigration; the Methexis Institute's Forbidden Books group meets 1 November on Christoph Schuringa's \"A Social History of Analytic Philosophy,\" and Ryan Haecker posted his introduction to Walter Burley's \"On the Purity of the Art of Logic\" for the group; @AOElection posted on Original Sin and Total Depravity (\"Original Sin = 189\"); Net Void and CyphersNews posted only memes and reposts. Retrochronic is unchanged (v1.0.176, 199 sources), and no new Land video or podcast appeared.",
+   "sources": [
+    {
+     "name": "chithinksonline Substack",
+     "url": "https://chithinksonline.substack.com/p/christian-hermetic-metaphysics-agape"
+    },
+    {
+     "name": "@chithinksonline on X, 27 Oct.",
+     "url": "https://x.com/chithinksonline/status/2115081890193625437"
+    },
+    {
+     "name": "@chithinksonline, Xenolutheran eschatology",
+     "url": "https://x.com/chithinksonline/status/2115162954782200082"
+    },
+    {
+     "name": "@MethexisATX, 1 Nov. reading group",
+     "url": "https://x.com/MethexisATX/status/2115194586976972964"
+    },
+    {
+     "name": "@AOElection on Original Sin",
+     "url": "https://x.com/AOElection/status/2114902088677543960"
+    }
+   ]
+  },
+  {
+   "id": "2026-10-28-cypherboria-2",
+   "edition": "2026-10-28",
+   "section": "cypherboria",
+   "headline": "Jacques Vallée on the UAP Files Podcast: AI might contact the phenomenon \"without us\"",
+   "lead": "On 24 October the UAP Files Podcast posted a 1 hour 51 minute conversation with Jacques Vallée, joined by Tom Vernon.",
+   "text": "The episode asks whether artificial intelligence could make contact with non-human intelligence on its own; the description quotes Vallée: \"The thing it could do on its own is to contact the phenomena, without us.\" It also covers crash retrievals and disclosure. On 19 October Ryan Sprague's Somewhere in the Skies posted a 1 hour 34 minute interview about his latest book, \"Forbidden Science 7: The Final Report,\" his material analysis with Garry Nolan, and the Trinity crash case. His official site, jacquesvallee.net, has not changed. No link to Land or the CCRU was found.",
+   "sources": [
+    {
+     "name": "YouTube: UAP Files Podcast",
+     "url": "https://www.youtube.com/watch?v=vSeDQpYAKOY"
+    },
+    {
+     "name": "Apple Podcasts: UAP Files",
+     "url": "https://podcasts.apple.com/us/podcast/jacques-vall%C3%A9e-ai-could-contact-ufos-before-we-do/id1741618111?i=1000797914766"
+    },
+    {
+     "name": "YouTube: Somewhere in the Skies",
+     "url": "https://www.youtube.com/watch?v=IYo6ua_aybA"
     }
    ]
   }
