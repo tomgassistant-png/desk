@@ -273,8 +273,8 @@ var h='<h2 class="edn">'+m.length+' result'+(m.length==1?'':'s')+' for “'+esc(
 m.slice(0,200).forEach(function(it){h+='<article class="story"><p class="sec">'+esc(it.section_name)+' · '+esc(it.date_long)+'</p><h3><a href="'+esc(it.url)+'">'+esc(it.headline)+'</a></h3><p class="summary">'+esc(it.summary)+'</p></article>'});r.innerHTML=h}
 q.addEventListener('focus',load);q.addEventListener('input',run);document.getElementById('cclear').addEventListener('click',function(){q.value='';run();q.focus()});
 q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()}});})();</script>""")
-    cover = (head("Tom's Cover — " + long_date(newest)) + sitenav.nav("cover", "../") +
-             f'<header class="masthead"><h1>Tom\'s Cover</h1><p class="dateline">{e(weekday_date(now.date()))} · Digest edition of {e(long_date(newest))}</p></header>'
+    cover = (head("Your Cover — " + long_date(newest)) + sitenav.nav("cover", "../") +
+             f'<header class="masthead"><h1>Your Cover</h1><p class="dateline">{e(weekday_date(now.date()))} · Digest edition of {e(long_date(newest))}</p></header>'
              + srch + (f'<p class="summary"><i>{e(ed["intro"])}</i></p>' if ed.get("intro") else "") +
              f'<div class="cov-grid"><main><h2 class="edn">Top stories</h2>{body}'
              + (f'<p class="srcs">{e(ed["quiet"])}</p>' if ed.get("quiet") else "") +

@@ -96,4 +96,4 @@ The morning digest should revise the paragraph and the date whenever there is a 
   Example: Cypherboria (`digest/cypherboria/`, formerly `nick-land`).
 
 ## Worker prompts (prompts/)
-The morning desk run reads its standing research instructions from /workspace/frontpage/prompts/ (digest.md, pa.md, yemen.md), because a routine run cannot read other routines' saved prompts. Tom's new sources and rules go into these files. They are not published (publish.sh copies only named files).
+The morning desk run reads its standing research instructions from /workspace/frontpage/prompts/ (digest.md, pa.md, yemen.md), because a routine run cannot read other routines' saved prompts. The user's new sources and rules go into these files. They are not published (publish.sh copies only named files).
