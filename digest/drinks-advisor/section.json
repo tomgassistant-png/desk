@@ -12,11 +12,17 @@
     "url": "../backgrounders/solaris-watch-along/",
     "teaser": "A 12-chapter timed reader that plays Mosfilm's official upload, with spoiler labels and a drink pairing.",
     "updated": "24 October 2026"
+   },
+   {
+    "label": "Missing (Costa-Gavras, 1982): watch-along reader",
+    "url": "missing-1982/",
+    "teaser": "A 12-chapter timed reader for the film in a Google Drive player, with spoiler labels, copy-time buttons, a drink pairing and a note on what the record says.",
+    "updated": "28 October 2026"
    }
   ],
   "useful_links": [],
   "link_groups": [],
-  "updated": "2026-10-24"
+  "updated": "2026-10-28"
  },
  "items": []
 }
