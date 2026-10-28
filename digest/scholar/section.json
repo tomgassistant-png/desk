@@ -13,9 +13,22 @@
   ],
   "link_groups": [],
   "backgrounders": [],
-  "updated": "2026-10-27"
+  "updated": "2026-10-28"
  },
  "items": [
+  {
+   "id": "scholar-ufo-uap-vallee",
+   "edition": "2026-10-28",
+   "section": "scholar",
+   "headline": "UFOs, UAP and Jacques Vallée: A Grounding Report (history, science, AI)",
+   "text": "A report on the documented history of UFO and UAP studies from 1947 to 2026, Jacques Vallée's control-system and dimensions views, what he has said about AI, scholarly links between alien intelligence and AI, and the CCRU and Nick Land. Every claim is tagged confirmed, disputed or unsupported, and unchecked facts are marked unconfirmed.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/ufo-uap-grounding-report.html"
+    }
+   ]
+  },
   {
    "id": "scholar-mars-exploration",
    "edition": "2026-10-27",
