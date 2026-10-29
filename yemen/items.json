@@ -3,6 +3,68 @@
   "subtitle": "The daily brief on the campaign against the Houthis",
   "editions": [
     {
+      "date": "2026-10-29",
+      "lede": "The Houthis hit Aden's airport with two ballistic missiles on Wednesday, the sixth attack on it according to the government, and Yemenia flights were sent elsewhere. An AP report says Russian military satellites passed over Saudi targets before and after 40 Houthi strikes, and a Saudi official said Russia passes targeting data through Iranian advisers in Yemen. Saudi air defenses shot down missiles aimed at Taif on Wednesday and at the Eastern Province early Thursday. Fighting near Bab al-Mandab killed at least 97 fighters, and around Taiz the Houthis are back at a key checkpoint on the southwestern road into the city. Qatar's draft deal with Iran remains in dispute, and Brent oil closed above $115.",
+      "items": [
+        {
+          "headline": "Houthis hit Aden airport with two ballistic missiles; government calls it the sixth attack on the airport",
+          "text": "On Wednesday, 28 October, two Houthi ballistic missiles struck Aden International Airport after Houthi military spokesman Yahya Saree told people to leave it, saying a Saudi military cargo plane carrying weapons was there. Police sources told AFP a Saudi military aircraft was at the airport but was not hit and took off, and that the second missile hit an area inside the perimeter controlled by Saudi forces; several civilians were wounded. Government spokesman Majed Abdullah al-Nazili called it the sixth such attack on the airport (AFP via RTE). The Transport Ministry asked the UN civil aviation agency, ICAO, to act, and said Yemenia flights from Mumbai and Cairo landed at Mukalla and Djibouti instead (Yemen Monitor); AP, citing a security source, said flights were diverted to Seiyun, so the exact diversions are not settled. Reuters said air traffic was halted after the strike (Gulf News). Critical Threats assesses the Houthis are likely trying to disrupt Saudi weapons deliveries to a government base inside the airport.",
+          "source": "RTE (AFP)",
+          "link": "https://www.rte.ie/news/middle-east/2026/1028/1597087-yemen-houthi-saudi/"
+        },
+        {
+          "headline": "AP: Russian satellites passed over Saudi targets before and after 40 Houthi strikes",
+          "text": "AP reported on 27 October that a Geneva-based geospatial firm, AURORAH, tracked 72 Russian reconnaissance satellites and found them over Saudi energy and military sites before and after Houthi strikes in 40 cases between 1 July and 19 October, including the 10 September strike on the East-West Pipeline (Al-Monitor). The firm's founder is Nawaf Obaid. A Saudi official and a senior Houthi official told AP that Russia passes targeting data through Iranian military advisers in Yemen (Critical Threats). Russia has not confirmed this. My inference: if true, it helps explain how Houthi missiles have reached distant oil sites, and it gives Riyadh a reason to press Moscow as well as Tehran.",
+          "source": "Al-Monitor",
+          "link": "https://www.al-monitor.com/originals/2026/10/russian-satellite-data-helped-yemens-houthis-target-saudi-arabia-what-know"
+        },
+        {
+          "headline": "Saudi air defenses down missiles aimed at Taif and the Eastern Province; Ras Tanura hit still unconfirmed",
+          "text": "The Saudi-led coalition said it intercepted a Houthi ballistic missile fired at Taif early Wednesday, after Civil Defense sent alerts to Jeddah and Yanbu on the Red Sea coast and then the all-clear (Arab News). Early Thursday, 29 October, coalition spokesman Turki al-Maliki said another ballistic missile aimed at the Eastern Province, the main oil region, was shot down; no damage or injuries were reported (Anadolu). Civil Defense had sent early-warning alerts for the Eastern Province and for Najran, then declared the danger over in both (KUNA via Al-Anba). Saudi Arabia and Aramco still have not confirmed Tuesday's Houthi claim of a hit on the Ras Tanura refinery; Bloomberg reported only a fire near the terminal that was contained.",
+          "source": "Anadolu",
+          "link": "https://aa.com.tr/en/middle-east/houthi-ballistic-missile-targeting-eastern-saudi-arabia-intercepted-coalition/4104441"
+        },
+        {
+          "headline": "Nearly 100 fighters killed near Bab al-Mandab and Kahbub in the heaviest fighting in weeks",
+          "text": "Military sources on both sides told AFP that at least 63 Houthi fighters and 34 pro-government fighters were killed in clashes on Tuesday, mostly near the Bab al-Mandab strait (Dawn, AFP). The Homeland Shield (Nation Shield) forces and the Giants Brigades said on Tuesday evening that they had taken strategic positions in northern Lahj, shot down a drone and destroyed vehicles (Al-Mahriah); these gains are not independently confirmed. Al-Masirah, the Houthi channel, reported airstrikes on Perim (Mayun) Island, which the Houthis have held since September, and Saba reported four strikes on Mokha port and city; the coalition did not comment (AP via Newser; Saba).",
+          "source": "Dawn (AFP)",
+          "link": "https://www.dawn.com/news/2040247/fresh-clashes-in-yemen-kill-97-combatants-military-sources"
+        },
+        {
+          "headline": "Taiz: Houthis shown back at the Hangar Checkpoint as the city reports being surrounded",
+          "text": "Critical Threats says Houthi footage shows Houthi fighters at the Hangar Checkpoint, on the main road into Taiz City from the southwest, and an anti-tank missile fired at a government tank from mountains southwest of the city; the government says it repelled attacks in al-Misrakh and Sabr al-Mawadim districts on Wednesday. Government Minister Eshraq al-Maqtari said more than 2,000 shells and rockets hit the city in recent days and that it is encircled on all four sides; Taiz governor Nabil Shamsan said wells in Wadi al-Dhubab that supply about 3 million liters of water are now under Houthi control, which AP could not verify (AP via Newser). The army spokesman claimed new gains in Taiz and heavy Houthi losses (Anadolu); these claims are unconfirmed.",
+          "source": "Critical Threats",
+          "link": "https://www.criticalthreats.org/analysis/iran-update-october-28-2026"
+        },
+        {
+          "headline": "Houthis say Saudi-led strikes killed 14 at a market in al-Jawf",
+          "text": "Houthi Health Ministry spokesman Anees al-Asbahi said strikes hit a central market near a gas station in al-Hazm, the capital of al-Jawf province, killing 14 people, including three children and two women, and wounding 15 (AP via Newser; AFP via RTE). The coalition did not comment. Saree said the Saudi side carried out 101 air and missile strikes in 24 hours (Saba); these figures come from the Houthis and are unconfirmed. Al-Jawf borders Saudi Arabia and Marib, and it is one of the fronts the government says it is attacking.",
+          "source": "Newser (AP)",
+          "link": "https://www.newser.com/article/c032db4b09725fea0f6320eec49de5d4/houthis-say-saudi-led-airstrikes-killed-14-at-a-market-in-northern-yemen-and-other-mideast-news.html"
+        },
+        {
+          "headline": "Qatar's draft deal with Iran is in dispute; Egypt and Saudi foreign ministers talk",
+          "text": "A source told Reuters that Qatar gave Iran a draft deal on Sunday with a seven-day schedule of trust-building steps and outside guarantors; a senior Iranian official said Qatar offered only \"unacceptable ideas\" (Gulf News). Iranian lawmaker Heshmatollah Falahatpisheh said that as long as the Yemen issue is unresolved, the Iran issue will not be on the agenda, and Kayhan editor Hossein Shariatmadari warned against distancing Iran from the Houthis. Foreign Minister Abbas Araghchi said Iran is studying ideas to carry out its plan \"in even less than a week\" (Arab News, AFP). Egypt's Badr Abdelatty and Saudi Arabia's Prince Faisal bin Farhan discussed containing the crisis by phone (Arab News). Turkey's full parliament has not yet set a date to vote on the Mecca defense pact.",
+          "source": "Gulf News",
+          "link": "https://gulfnews.com/world/mena/iran-says-qatar-offered-no-peace-deal-only-unacceptable-ideas-1.500727409"
+        },
+        {
+          "headline": "Inside Saudi Arabia: Riyadh Season opens, but schools are online and big events are leaving",
+          "text": "The LA Times reports that Riyadh Season opened with about 27,000 visitors even as Houthi strikes on airports have killed at least 21 people in October. Schools have moved online, Aramco staff work from home, and the Future Investment Initiative conference and the EU-GCC summit were put off to next year; contractors on the giant projects report cuts, and catering and event firms report losses of up to two-thirds. The Dakar Rally 2027 has been moved out of Saudi Arabia, with a return planned for 2028 (Al Jazeera).",
+          "source": "Los Angeles Times",
+          "link": "https://www.latimes.com/world-nation/story/2026-10-28/as-missiles-hit-saudi-arabia-residents-insist-life-goes-on"
+        },
+        {
+          "headline": "Oil: Brent closes at $115.32 on Yemen fighting and the refinery attack",
+          "text": "Brent rose $1.44 to $115.32 a barrel and US crude rose $2.88 to $102.78 on Wednesday, driven by the Yemen fighting, the claimed refinery attack and fears of US strikes on Iran after the 3 November midterm elections; US crude stocks also fell 1.9 million barrels. OPEC+ meets on Sunday and is expected to keep December output targets (Reuters via Euronext).",
+          "source": "Euronext (Reuters)",
+          "link": "https://live.euronext.com/en/financial-news/oil-prices-rise-yemen-fighting-saudi-refinery-attack"
+        }
+      ],
+      "trend": "The Houthis are aiming at supply lines as much as at cities: Aden airport, where Saudi weapons arrive, and Saudi oil sites, possibly with Russian satellite help. On the ground, both sides are paying heavily near Bab al-Mandab, and the Taiz road fight swings back and forth from day to day. My inference: Riyadh is trying to keep daily life going at home while big events and investment drain away.",
+      "watch": "Whether Saudi Arabia or Aramco confirms damage at Ras Tanura; any Russian response to the AP satellite report; whether Aden airport reopens to Yemenia flights; who holds the Hangar Checkpoint and the Taiz-Aden road; Iran's answer to Qatar's draft; the Turkish parliament vote; OPEC+ on Sunday; US decisions after the 3 November midterms."
+    },
+    {
       "date": "2026-10-28",
       "lede": "On Tuesday the Houthis claimed their first missile strike of this war on Ras Tanura, Saudi Arabia's largest refinery and its main Gulf export terminal; Bloomberg reported a fire near the terminal that was contained, and Saudi Arabia has not confirmed a hit. Saudi forces said they shot down five ballistic missiles and four drones, and debris from two missiles damaged property in Riyadh. The Tehran talks ended with a promise to keep talking and nothing more: Iran told the Saudi side it cannot stop the Houthis and asked for help with Washington instead. On the ground, government forces pushed into hills west of Taiz and renewed their offensive near Bab al-Mandab, while Turkey's parliamentary committee approved the Mecca defense pact and the Houthis said Egypt had in effect declared war on them.",
       "items": [

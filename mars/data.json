@@ -1,14 +1,82 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-10-28 04:35",
- "checked": "28 Oct 2026",
+ "updated": "2026-10-29 04:40",
+ "checked": "29 Oct 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 28 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove). Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ends on 31 October.",
+  "Where things stand on 29 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ends on 31 October.",
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "feed": [
+  {
+   "when": "2026-10-29",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JPL, JAXA, ESA, CNSA, Xinhua, CGTN, UAE, ISRO, SpaceX, Blue Origin, GAO, AMSAT-DL, Estévez and news pages, plus X",
+   "text": "Nothing new today on these, so only their checked dates change: NASA and JPL news releases (newest Mars items are the 27 October CHAPEA advisory and the 26 October dust story), the Perseverance team blog (newest post still \"Tinga's Tale\", 26 October), ESA (newest Mars Express items 7 and 14 October), JAXA (newest release 21 October; MMX blog 26 October), CNSA and Xinhua in English and CGTN (no new Mars item; CGTN's newest is MMX on 20 October), the UAE Space Agency and the Mohammed bin Rashid Space Centre on X (posts about the space economy and astronaut training, not Hope), ISRO (its posts are about the 30 October navigation-satellite launch, not Mars), SpaceX and Blue Origin news pages, the two GAO protest dockets (both still open, decisions due 21 December 2026 and 1 February 2027), Congress (in recess until after the 3 November elections, per SpacePolicyOnline), the ESCAPADE pages (still \"November 2026\" and \"fall of 2026\"), AMSAT-DL (amateur radio group; no new Mars tracking post) and Daniel Estévez's blog. No low-cost Mars mission solicitation seen on NASA's Mars Future Plan page yet [unconfirmed].",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://spacepolicyonline.com/",
+   "link_text": "open SpacePolicyOnline",
+   "other": "",
+   "links": [
+    [
+     "GAO docket B-424825.1",
+     "https://www.gao.gov/docket/b-424825.1"
+    ],
+    [
+     "GAO docket B-424825.2",
+     "https://www.gao.gov/docket/b-424825.2"
+    ],
+    [
+     "NASA Mars Future Plan",
+     "https://science.nasa.gov/planetary-science/programs/mars-exploration/future-of-mars-plan/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-28",
+   "who": "Asa Stahl, The Planetary Society (a space advocacy group), \"Mars rover samples what could be one of the oldest rocks on the Martian surface\"",
+   "image": "img/perseverance-singita-cachecam.jpg",
+   "image_alt": "A round, glowing view down into a tube, with a pale disc inside a bright ring, on a dark brown background",
+   "image_caption": "Raw image from Perseverance's sample-caching camera (CacheCam), which looks into sample tubes inside the rover, sol 2018 (24 October 2026). This is the day the Planetary Society says Singita was drilled; NASA's raw-image feed does not name the sample, so I cannot confirm this frame shows Singita. Raw image, not processed or checked",
+   "image_credit": "NASA/JPL-Caltech, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
+   "image_url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/CCF_2018_0846101690_020ECMUN0920000CACH00200_01_295J",
+   "kind": "advocacy group (interested source), reporting a NASA team announcement",
+   "where": "planetary.org",
+   "text": "For the first time in more than a year, Perseverance has collected a rock sample. On 24 October it drilled a core called \"Singita\" in the \"Lac de Charmes\" region outside the western rim of Jezero crater. The news was first given by Katie Stack Morgan, the mission's project scientist, at the American Astronomical Society's planetary sciences meeting (the Division for Planetary Sciences, DPS). She said it \"could be among the oldest rocks exposed on the surface of Mars\". Jezero itself formed about 3.9 billion years ago, and Singita, a crystalline igneous rock (one that cooled from molten rock), could be several hundred million years older. It was probably buried about 1 km deep before an impact threw it up to the surface; it may even be a piece of the impact that made the giant Isidis basin. Only lab work on Earth could give its exact age. The rock was so hard that the first try failed, and the rover switched to a less-used drill bit. Stack Morgan said the rover will stay in the area to try for two more samples, one of them from a younger igneous rock.",
+   "evidence": "the Planetary Society's report of a talk by NASA's project scientist; NASA had not posted its own story when I checked on 29 October. NASA's raw-image feed does show sample-camera (CacheCam) pictures taken on sol 2018 (24 October), which fits a sample being taken that day. The age is the team's estimate, not a measurement",
+   "url": "https://www.planetary.org/articles/mars-rover-samples-what-could-be-one-of-the-oldest-rocks-on-mars-surface",
+   "link_text": "open the article",
+   "other": "NASA's 5 October team blog \"A Journey to the Depths of Ancient Mars?\" describes the light-toned gabbro boulders (a coarse igneous rock from deep in the crust) in Lac de Charmes and a possible breccia at \"Idubi\" that may be their source. NASA's 12 October count of 29 rock and regolith samples was before Singita.",
+   "links": [
+    [
+     "Planetary Society image page (CacheCam photo of the core)",
+     "https://www.planetary.org/space-images/singita-sample"
+    ],
+    [
+     "NASA blog, 5 Oct",
+     "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-28",
+   "who": "NASA Curiosity team blog, sols 5043-5049, \"Preparing to Drill at 'Nazca'\", by Lucy Lim (planetary scientist, NASA Goddard)",
+   "kind": "primary source",
+   "where": "NASA science blog",
+   "text": "After the \"Basque Lakes\" drill campaign, Curiosity drove back near the \"Chiu Chiu\" block and is preparing to drill at \"Nazca\", a neighboring block packed with disc- and needle-shaped shapes that may be crystals, or pseudomorphs (minerals that have replaced earlier crystals but kept their shape). The plan for the week: a drill \"preload\" test (pressing the drill on the rock without drilling, to check it is safe), a 3D model of Nazca's surface from five overlapping close-up camera (MAHLI) pictures, laser shots by ChemCam (an instrument that zaps rock with a laser and reads the light to learn its chemistry) on targets \"Toucan\", Nazca and the finely layered \"Condor\", dust brushing and an X-ray chemistry reading (APXS) on Nazca, and night pictures of a full Phobos to estimate the size of particles in high, thin carbon-dioxide clouds; the twilight cloud season is starting. The plan was made on 16 October; the post's picture is from sol 5048 (18 October 2026).",
+   "evidence": "official NASA blog, named author; no new drill hole is reported yet (NASA's mission page still counts 42)",
+   "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+   "link_text": "open the original",
+   "other": "",
+   "links": [
+    [
+     "Curiosity mission page",
+     "https://science.nasa.gov/mission/msl-curiosity/"
+    ]
+   ]
+  },
   {
    "when": "2026-10-28",
    "who": "Grok Bot daily check (our own check)",
@@ -52,6 +120,23 @@
     [
      "Xinhua, 24 Apr 2026",
      "https://www.news.cn/20260424/f0c0b487dc004eafbcd9c5359a1983dc/c.html"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-27",
+   "who": "Ling Xin, South China Morning Post (a Hong Kong newspaper), on a paper by Zhang Zhe and colleagues",
+   "kind": "named reporter (secondary source), with the paper's abstract read",
+   "where": "scmp.com and the Journal of Deep Space Exploration",
+   "text": "A team at the state-funded Deep Space Exploration Laboratory in Hefei, China, reports a lab catalyst (a material that speeds up a chemical reaction) that turns carbon dioxide, which makes up more than 95 percent of Mars's air, plus hydrogen into methanol, a liquid fuel. This is the kind of ISRU (making fuel or air from what is already on Mars) that future crews would need. The paper's abstract says the best version, called MOF-808-NaCu (copper and sodium held in a porous framework), made 245 grams of methanol per kilogram of catalyst per hour, about 11 times the 22 grams of the same material without sodium, and made less carbon monoxide waste. The paper was published online in China's Journal of Deep Space Exploration.",
+   "evidence": "the paper's own abstract (Chinese journal page) and a newspaper report; laboratory work on Earth, not a test on Mars, and the hydrogen would also have to be made on Mars",
+   "url": "https://jdse.bit.edu.cn/sktcxb/article/doi/10.3724/j.issn.2096-9287.2026.20250134",
+   "link_text": "open the paper's page (Chinese and English abstract)",
+   "other": "The SCMP article is dated 27 October 2026 (12:00 p.m. Hong Kong time, 06:00 Israel time).",
+   "links": [
+    [
+     "South China Morning Post, 27 Oct",
+     "https://www.scmp.com/news/china/science/article/3372123/chinese-scientists-create-powerful-catalyst-turn-air-mars-rocket-fuel"
     ]
    ]
   },
@@ -115,7 +200,7 @@
    "evidence": "official NASA account; the linked JPL copy of the article gave my reader an access error (403), but NASA's copy on nasa.gov opened on 28 October (see the 26 October NASA release item)",
    "url": "https://x.com/NASAMars/status/2114834555597422610",
    "link_text": "open the post",
-   "other": "NASA's Perseverance mission page lists the story under the headline \"NASA's Perseverance Offers Clues to Protect Crews From Mars Dust\".",
+   "other": "The JPL copy, which gave an access error before, opened on 29 October. NASA's Perseverance mission page lists the story under the headline \"NASA's Perseverance Offers Clues to Protect Crews From Mars Dust\".",
    "links": [
     [
      "Perseverance mission page",
@@ -124,6 +209,10 @@
     [
      "NASA release on nasa.gov",
      "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
+    ],
+    [
+     "JPL copy",
+     "https://www.jpl.nasa.gov/news/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/"
     ]
    ]
   },
@@ -138,7 +227,7 @@
    "kind": "primary source",
    "where": "nasa.gov",
    "text": "Over 1,645 sols (Martian days), Perseverance measured how much very fine dust settled on small squares of spacesuit material it carries: Teflon and Vectran (a strong woven fiber) on the calibration target of its SHERLOC instrument (an ultraviolet scanner that looks for minerals and carbon compounds), and Teflon and basalt glass on the target of PIXL (an X-ray instrument that reads the chemistry of rocks). It is the first measurement on Mars itself of fine dust (smaller than 2.5 micrometers, far thinner than a hair) and ultrafine dust (about 100 nanometers). Grains averaged about 2 micrometers on some swatches and only 100 to 300 nanometers on others; static electricity decides which grains stick to which material. The dust is rich in iron and sulfur, has extra phosphorus and signs of calcium sulfate, and Mars dust also carries perchlorates (salts that are toxic to people). The study, led by Scott VanBommel of Washington University in St. Louis, was published on 27 October in PNAS (Proceedings of the National Academy of Sciences). Quoted: Lindsay Hays, acting director of NASA's Planetary Science Division, and Katie Stack Morgan, the project scientist at JPL.",
-   "evidence": "official NASA release about a peer-reviewed paper; I read NASA's copy on nasa.gov (the JPL copy had given my reader an access error); I did not open the paper itself",
+   "evidence": "official NASA release about a peer-reviewed paper; I read NASA's copy on nasa.gov, and on 29 October the JPL copy opened too; I did not open the paper itself",
    "url": "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/",
    "link_text": "open the release",
    "other": "This is the story @NASAMars posted about on 26 October (see the next item).",
@@ -502,12 +591,12 @@
    [
     {
      "m": "Curiosity (NASA)",
-     "s": "Working. Drilling at Basque Lakes (42nd drill hole), then driving on. Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5056 (27 Oct); no new team blog.",
-     "d": "28 Oct 2026 (raw images); blog 19 Oct",
+     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5057 (28 Oct).",
+     "d": "29 Oct 2026 (raw images); blog 28 Oct",
      "links": [
       [
-       "blog",
-       "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
+       "blog, 28 Oct",
+       "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
       ],
       [
        "mission page",
@@ -517,9 +606,13 @@
     },
     {
      "m": "Perseverance (NASA)",
-     "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct). Exploring the Jezero rim near the Idubi outcrop. NASA counts 29 rock and regolith samples collected, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
-     "d": "28 Oct 2026 (raw images to sol 2021; blog 26 Oct)",
+     "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct); NASA's traverse file shows 45.25 km by sol 2022 (28 Oct). Exploring Lac de Charmes, outside Jezero's western rim, near the Idubi outcrop. Drilled a new sample, \"Singita\", on 24 Oct, its first in more than a year (Planetary Society, from the project scientist's talk; no NASA story yet). NASA counted 29 rock and regolith samples before that, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
+     "d": "29 Oct 2026 (raw images and traverse file to sol 2022; blog 26 Oct)",
      "links": [
+      [
+       "Singita, Planetary Society",
+       "https://www.planetary.org/articles/mars-rover-samples-what-could-be-one-of-the-oldest-rocks-on-mars-surface"
+      ],
       [
        "blog",
        "https://science.nasa.gov/blogs/perseverance-mars-rover/2026/10/12/nasas-perseverance-sets-off-world-record-for-total-distance-driven/"
@@ -588,7 +681,7 @@
     {
      "m": "ExoMars Trace Gas Orbiter, TGO (ESA/Roscosmos program, run by ESA)",
      "s": "Operating, and the main relay for ESA's Rosalind Franklin rover (The Register, 22 Oct). FY2027 request continues U.S. support at $2.0M (AAS). ESA's \"facts and figures\" page (15 Oct) says TGO entered Mars orbit on 19 Oct 2016; it gives no end date.",
-     "d": "28 Oct 2026 (ESA page of 15 Oct)",
+     "d": "29 Oct 2026 (ESA page of 15 Oct)",
      "links": [
       [
        "ESA: TGO facts and figures",
@@ -657,7 +750,7 @@
     {
      "m": "MMX, Martian Moons eXploration (JAXA, Japan)",
      "s": "Launched 20 Oct 2026 (04:41 Japan time). Healthy; first critical operations done (solar panels out, steady pointing, antenna released), JAXA 21 Oct; now checking its systems before the cruise. Reaches Mars: August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit says fiscal year 2027. Phobos sample: no earlier than December 2028 per NASA and NASASpaceFlight, 2030 per ESA [unconfirmed]. Leaves Mars FY2030; samples back on Earth in 2031 (JAXA press kit, NASA, ESA).",
-     "d": "28 Oct 2026 (JAXA 21 and 26 Oct)",
+     "d": "29 Oct 2026 (JAXA 21 and 26 Oct)",
      "links": [
       [
        "JAXA release, 21 Oct",
@@ -693,7 +786,7 @@
      "image_credit": "U.S. Space Force photo by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
      "image_url": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
      "s": "Launched 13 Nov 2025 on Blue Origin's New Glenn. The Mars departure burn is in November 2026 and arrival is September 2027 per the Berkeley mission-design page. NASA's own page says only \"fall of 2026\" for the Earth flyby. FY2027 request: $4.5M.",
-     "d": "28 Oct 2026",
+     "d": "29 Oct 2026",
      "links": [
       [
        "Berkeley mission design",
@@ -749,20 +842,20 @@
  ],
  "perseverance": {
   "image": "img/perseverance-latest.jpg",
-  "image_alt": "Gray, black-and-white view of a rocky plain with scattered stones, low hills and a slope on the right",
-  "image_caption": "Latest view: raw image from the left navigation camera (Navcam), sol 2021 (27 October 2026), the ground around the rover. Raw images are not processed or checked",
-  "image_credit": "NASA/JPL-Caltech, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
-  "image_url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/NLG_2021_0846356509_381ECM_N0920000NCAM00500_00_2I4J",
-  "sol": 2009,
-  "sol_date": "14 Oct 2026",
-  "km": 45.22,
-  "mi": 28.1,
+  "image_alt": "Color view of reddish-tan ground covered with pebbles and a few fist-sized rocks",
+  "image_caption": "Latest view: raw color image from the left Mastcam-Z camera, sol 2022 (28 October 2026), the ground near the rover after its latest short drive. Raw image, not processed or checked",
+  "image_credit": "NASA/JPL-Caltech/ASU, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
+  "image_url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL0_2022_0846456664_206EBY_N0930000ZCAM07125_1100LMJ",
+  "sol": 2022,
+  "sol_date": "28 Oct 2026",
+  "km": 45.25,
+  "mi": 28.11,
   "lat": 18.4356,
-  "lon": 77.2329,
-  "area": "Southern border of \"Idubi\", an olivine-rich outcrop on the rim of Jezero crater; the rover's recent target there is called \"Tinga\".",
-  "est_sol": "about 2022",
-  "est_note": "NASA's raw-image feed lists images from sol 2021 taken on 27 October 2026; 28 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
-  "note": "\"Last waypoint in NASA's file\" is the newest point in NASA's public traverse file (a list of the rover's stopping points). That file does not update every day. The record figure of 45.22 km was for sol 2006 (11 Oct); the file's sol 2009 figure is 45,223.6 meters, which rounds to the same 45.22 km. If NASA's blog is newer, the daily check uses the blog's numbers.",
+  "lon": 77.2332,
+  "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October and plans to try for two more (Planetary Society).",
+  "est_sol": "about 2023",
+  "est_note": "NASA's raw-image feed lists images from sol 2022 taken on 28 October 2026; 29 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "note": "The distance comes from NASA's public traverse file (a list of the rover's stopping points), because no NASA blog gives a newer figure. That file lags and does not update every day. Its newest point is sol 2022 (28 Oct): 45,245.7 meters in total (45.25 km, 28.11 miles), after a 22-meter drive. The record figure NASA announced was 45.22 km for sol 2006 (11 Oct). If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
     "NASA traverse file (JSON)",
@@ -4311,21 +4404,40 @@
     77.2329,
     18.4356,
     2009
+   ],
+   [
+    77.2331,
+    18.4356,
+    2022
+   ],
+   [
+    77.2332,
+    18.4356,
+    2022
    ]
   ]
  },
  "curiosity": [
   {
-   "t": "Latest NASA blog: sols 5036 to 5042, posted 19 October 2026 by Alex Innanen. Drill campaign at \"Basque Lakes\"; it is autumn in Gale crater; a new Mars year (number 39) began at the end of September.",
+   "t": "Latest NASA blog: sols 5043 to 5049, posted 28 October 2026 by Lucy Lim (NASA Goddard). After Basque Lakes the rover went back near \"Chiu Chiu\" and is preparing to drill \"Nazca\", a block packed with disc- and needle-shaped possible crystals. It also planned night pictures of Phobos to study high, thin clouds; the twilight cloud season is starting. The plan is from 16 October, so the drilling may already have happened.",
    "links": [
     [
-     "blog",
+     "blog, 28 Oct",
+     "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
+    ]
+   ]
+  },
+  {
+   "t": "The previous blog (sols 5036 to 5042, 19 October, Alex Innanen): drill campaign at \"Basque Lakes\" finished; it is autumn in Gale crater; a new Mars year (number 39) began at the end of September.",
+   "links": [
+    [
+     "blog, 19 Oct",
      "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
     ]
    ]
   },
   {
-   "t": "NASA's raw-image feed has pictures through sol 5056, taken on 27 October 2026, so 28 October is about sol 5057 (our own arithmetic). No new team blog since 19 October. NASA's pages that I opened give no odometer for 28 October, so none is shown here.",
+   "t": "NASA's raw-image feed has pictures through sol 5057, taken on 28 October 2026, so 29 October is about sol 5058 (our own arithmetic). NASA's pages that I opened give no odometer for 29 October, so none is shown here.",
    "links": []
   },
   {
@@ -4349,10 +4461,10 @@
  ],
  "curiosity_image": {
   "image": "img/curiosity-latest.jpg",
-  "image_alt": "Gray close-up of a patch of many small, flat, broken rock flakes next to smoother ground",
-  "image_caption": "Latest view: raw close-up from the right Mastcam camera, sol 5055 (26 October 2026), a patch of small broken rock plates. Sol 5056 (27 October) has only laser-camera close-ups so far. Raw images are not processed or checked",
-  "image_credit": "NASA/JPL-Caltech/MSSS, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
-  "image_url": "https://mars.nasa.gov/msl/multimedia/raw-images/5055MR1101900042601887C00_DXXX"
+  "image_alt": "Small gray view of layered rocky hills under a bright sky, with dark ground in front",
+  "image_caption": "Latest view: raw image from the right navigation camera (Navcam), sol 5057 (28 October 2026), layered slopes toward the horizon in low light. The feed gives no caption; Navcam frames like this are often part of sky-watching sequences. Raw image, not processed or checked",
+  "image_credit": "NASA/JPL-Caltech, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
+  "image_url": "https://mars.nasa.gov/msl/multimedia/raw-images/NRB_846420259EDR_S1251326NCAM00594M_"
  },
  "plans": [
   {
@@ -4428,7 +4540,7 @@
   },
   {
    "who": "Crewed Mars missions (any agency)",
-   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 28 October 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
+   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 29 October 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
    "label": "aspirational",
    "links": [
     [
@@ -4462,7 +4574,7 @@
   ],
   [
    "Nov 2026",
-   "ESCAPADE leaves Earth's neighborhood for Mars (burn in November per Berkeley's mission-design page; NASA says only \"fall 2026\"). Exact date not published [unconfirmed].",
+   "ESCAPADE leaves Earth's neighborhood for Mars (burn in November per Berkeley's mission-design page; NASA says only \"fall 2026\"). Exact date not published as of 29 Oct [unconfirmed].",
    ""
   ],
   [
@@ -4600,6 +4712,14 @@
     [
      "Curiosity blog, sols 5036-5042",
      "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
+    ],
+    [
+     "Curiosity blog, sols 5043-5049 (Nazca), 28 Oct",
+     "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/"
+    ],
+    [
+     "Perseverance blog, Lac de Charmes, 5 Oct",
+     "https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/"
     ],
     [
      "ESCAPADE mission page",
@@ -4767,12 +4887,25 @@
     [
      "SpacePolicyOnline home page",
      "https://spacepolicyonline.com/"
+    ],
+    [
+     "Planetary Society (advocacy group): Singita sample, 28 Oct",
+     "https://www.planetary.org/articles/mars-rover-samples-what-could-be-one-of-the-oldest-rocks-on-mars-surface"
+    ],
+    [
+     "South China Morning Post: Mars methanol catalyst, 27 Oct",
+     "https://www.scmp.com/news/china/science/article/3372123/chinese-scientists-create-powerful-catalyst-turn-air-mars-rocket-fuel"
+    ],
+    [
+     "Journal of Deep Space Exploration: methanol paper",
+     "https://jdse.bit.edu.cn/sktcxb/article/doi/10.3724/j.issn.2096-9287.2026.20250134"
     ]
    ]
   ]
  ],
  "not_read": [
-  "NASA/JPL copy of the Mars dust article (26 Oct): access error (403) on 27 and 28 Oct; NASA's own copy on nasa.gov was read instead. The PNAS paper itself was not opened.",
+  "NASA/JPL copy of the Mars dust article (26 Oct): access error (403) on 27 and 28 Oct, opened fine on 29 Oct. The PNAS paper itself was not opened.",
+  "29 Oct: the UAE Space Agency website timed out again (plain reader and second reader); its X account and the Mohammed bin Rashid Space Centre's X account were checked instead. GAO's dockets refused my plain reader (403), SpacePolicyOnline showed a \"verifying your request\" page, Blue Origin answered 429 (too many requests) and SpaceX's page needs a browser; all four were read through a second reader. The English page of the Journal of Deep Space Exploration gave a server error (500); its Chinese page, which carries the English abstract, was read. Singita: NASA has no story of its own yet, so the sample news rests on the Planetary Society's report of the project scientist's talk plus NASA's raw images.",
   "JAXA's MMX press kit PDF was opened on 28 Oct (Japanese; dates read from it). Still not opened: the Aviation Week and Reuters pieces, Indian press on Mangalyaan-2, the Schiff/Padilla letter and HigherGov: seen only in search results, not opened, so not cited.",
   "SpacePolicyOnline's own server blocked my plain reader on 28 Oct (a \"verifying your request\" page); the home page was read through a second reader. Blue Origin's news page refused my plain reader (error 429, too many requests) and was read through a second reader. The UAE Space Agency website timed out; its X account was checked instead.",
   "CNSA and Zhurong status come from secondary sources (Planetary Society, marsprogress.com); no Chinese agency page was opened for Zhurong."

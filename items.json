@@ -4091,6 +4091,272 @@
           "lon": 35.1659
         }
       ]
+    },
+    {
+      "id": "2026-10-29-land-geva-shomron-founded-sa-nur-paratroopers-base",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "land",
+      "headline": "Geva Shomron goes up the morning after the election: 10 families from Ramat Gan move onto the old Paratroopers training base by Sa-Nur, the 10th new Samaria community in under a year",
+      "summary": "On Wednesday, the morning after the election, Geva Shomron was founded in northern Samaria as its first 10 families moved into caravans (mobile homes) (<a href=\"https://www.srugim.co.il/101014714-היישוב-החדש-ה10-בשומרון-גבע-שומרון-עלה\">Srugim</a>, <a href=\"https://www.inn.co.il/news/709550\">Arutz 7</a>). The families are graduates of the Ramat Gan hesder yeshiva (a yeshiva whose students combine Torah study with army service), led by Rabbi Yehoshua Shapira and Rabbi Ben Zion Algazi. The site is the former Paratroopers Brigade training base next to Sa-Nur. Samaria Council head Yossi Dagan called the base \"the first place uprooted in northern Samaria, in 2002\" (<a href=\"https://www.c14.co.il/article/1761726\">Channel 14</a>); Sa-Nur itself was evacuated in the 2005 disengagement and has since been rebuilt. The Samaria Regional Council says Geva Shomron is the 10th community it has set up in less than a year, under a plan for 19 new communities in northern Samaria in place of the four destroyed in the disengagement and the \"Million in Samaria\" plan, carried out with Amana and the Settlement Division. Other new or rebuilt communities in the push include Shalem, Rehavam, Eival, Emek Dotan and Noa, and the rebuilt Homesh, Sa-Nur, Ganim and Kadim. Dagan said: \"Geva Shomron is our answer to the expulsion... We promised not to miss the second chance we were given, and we are keeping that promise.\" Rabbi Shapira, on a tour of the site days earlier, said: \"We waited thousands of years to get here\" (Channel 14). Those attending included Rabbi Yaakov Ariel, Rabbi Berel Lazar, MK Boaz Bismuth and Ze'ev Hever (Zambish). <a href=\"https://x.com/i/status/2115360968372793377\">Yotam Deshe</a>, <a href=\"https://x.com/i/status/2115358970026025159\">Simcha Raz</a> and <a href=\"https://x.com/i/status/2115361746546298910\">Ayelet Lash</a> also posted on the founding; see also <a href=\"https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/74050/\">Olam Katan</a>.",
+      "source": "Srugim",
+      "date": "2026-10-28",
+      "url": "https://www.srugim.co.il/101014714-היישוב-החדש-ה10-בשומרון-גבע-שומרון-עלה",
+      "places": [
+        {
+          "name": "Geva Shomron (next to Sa-Nur)",
+          "lat": 32.3369,
+          "lon": 35.2019,
+          "note": "Approximate: point is Sa-Nur (Nominatim); the new community is on the former Paratroopers base beside it"
+        }
+      ],
+      "lead": true,
+      "highlight": true
+    },
+    {
+      "id": "2026-10-29-attacks-emuna-schreiber-stones-spine-fractures-rehelim",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "attacks",
+      "headline": "Sister of freed hostage Avinatan Or suffers spinal fractures after Arabs stone her car near Rehelim junction",
+      "summary": "Emuna Schreiber, the sister of freed hostage Avinatan Or, was moderately hurt on Monday when her car left the road near Rehelim junction in Samaria as she tried to escape Arabs throwing stones at it, <a href=\"https://www.c14news.com/article/1516891\">Channel 14</a> reports. Her family says she has spinal fractures and severe bruising, is at Beilinson Hospital, is not in danger and does not need surgery. JSR reported the same account (<a href=\"https://x.com/i/status/2115366201496940839\">JSR, English</a>, <a href=\"https://x.com/i/status/2115366372800696829\">Hebrew</a>). Ayelet Lash, who lives nearby, says she was driving from Ariel to Eli and a rock hit her windshield at the village of Lubban (<a href=\"https://x.com/i/status/2115516930048073777\">her post</a>); the exact spot is given differently in the two accounts. Lash also says the woman hurt by a stone near Rehelim on Tuesday (reported here yesterday) had a broken jaw and three hours of surgery (<a href=\"https://x.com/i/status/2115397391289380928\">her post</a>); this detail is unconfirmed. Yotam Deshe says both cases are part of a wave of attempted attacks since last weekend's Hebron-area shooting, mostly stone-throwing because of the heavy army presence, and that a stone was thrown at his own car on Tuesday (<a href=\"https://x.com/i/status/2115364899975278829\">his post</a>). No arrests were reported.",
+      "source": "Channel 14",
+      "date": "2026-10-28",
+      "url": "https://www.c14news.com/article/1516891",
+      "places": [
+        {
+          "name": "Rehelim junction (area)",
+          "lat": 32.1028,
+          "lon": 35.257,
+          "note": "Approximate: point is Rehelim (Nominatim); Lash places it at Lubban"
+        }
+      ],
+      "highlight": true
+    },
+    {
+      "id": "2026-10-29-attacks-carmel-khrzhanovskiy-activists-residents",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "attacks",
+      "headline": "Har Hevron council: foreign activists led by Andrey Khrzhanovskiy punch and kick residents near Carmel",
+      "summary": "The Har Hevron Regional Council's spokesman says a group of foreign far-left activists led by the pro-Palestinian activist Andrey Khrzhanovskiy attacked Jewish residents near Carmel on Wednesday evening. According to that account, the activists pushed cameras into residents' faces, punched and kicked them, blocked their car and touched one resident's gun; one resident was hit in the face and treated by medics (<a href=\"https://x.com/i/status/2115509428787036391\">council statement via Israel8251</a>; JSR's account: <a href=\"https://x.com/i/status/2115510166573428905\">Hebrew</a>, <a href=\"https://x.com/i/status/2115513452517040220\">English</a>). Elchanan Groner notes that Khrzhanovskiy has repeatedly entered Area A in Jenin and Tulkarm to support Palestinians after IDF operations (<a href=\"https://x.com/i/status/2115510492618002455\">his post</a>). This is the council's and JSR's account only: no police statement or account from the activists was found, and the report is otherwise unconfirmed.",
+      "source": "JSR",
+      "date": "2026-10-28",
+      "url": "https://x.com/i/status/2115510166573428905",
+      "places": [
+        {
+          "name": "Carmel",
+          "lat": 31.4309,
+          "lon": 35.1833
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-idf-beita-homes-demolished-72-hour-operation",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "idf",
+      "headline": "IDF demolishes the Beita homes of two bombers who planned a kidnapping; 72-hour Samaria operation ends with 12 terror monuments destroyed and 8 arrests",
+      "summary": "On Wednesday morning the Samaria Brigade and the Yahalom engineering unit demolished the homes in Beita of Zakaria Muhammad Abd Dawud and Ibrahim Abd al-Karim Abd Dawud, who the army says carried out three bombing attacks in 2024 and 2025 that wounded security forces (<a href=\"https://www.srugim.co.il/101014726-מבצע-ענק-בשומרון-12-אנדרטאות-טרור-נהרסו\">Srugim</a>, citing the IDF). JSR says the two also planned a kidnapping attack, and that Beita's Telegram group wrote that \"demolishing the homes will not break the spirit of the free,\" a term used for security prisoners (<a href=\"https://x.com/i/status/2115428827669078514\">JSR</a>). The demolitions closed a 72-hour operation in eight villages and Nablus: forces destroyed 12 monuments honoring terrorists, searched about 300 sites, arrested eight wanted men and seized a hunting rifle, a pistol and ammunition. In Yatzid, Duvdevan arrested a man the army says traded in bombs and weapons for a terror cell, and the Judea and Samaria police SWAT unit arrested a man suspected of making bombs and weapons (Srugim). Elchanan Groner posted that more monuments in Beita were destroyed this week (<a href=\"https://x.com/i/status/2115420956600528902\">his post</a>). This follows yesterday's lead on the Madama monument.",
+      "source": "Srugim",
+      "date": "2026-10-28",
+      "url": "https://www.srugim.co.il/101014726-מבצע-ענק-בשומרון-12-אנדרטאות-טרור-נהרסו",
+      "places": [
+        {
+          "name": "Beita",
+          "lat": 32.1423,
+          "lon": 35.2857
+        },
+        {
+          "name": "Yatzid",
+          "lat": 32.2965,
+          "lon": 35.2782
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-idf-hebron-operation-six-hamas-arrests-m16",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "idf",
+      "headline": "Hebron operation goes on: Border Police undercover troops arrest six wanted men, including Hamas members; an M16 is seized",
+      "summary": "In the operation that began after last weekend's shooting at Judah junction, in which Staff Sgt. Ron Yonatan Roytman and Sgt. Yuval Shai Svilem were killed, Border Police undercover troops guided by the Shin Bet arrested six wanted men, some of them Hamas members, overnight in several villages in the Judah Brigade area. Searches in Hebron turned up an M16 rifle, knives, a vest and a fake pistol (<a href=\"https://www.srugim.co.il/101014699-המבצע-בחברון-נמשך-6-חשודים-נעצרו-נשק-m16\">Srugim</a>, citing the IDF). <a href=\"https://x.com/i/status/2115420984798773270\">Simcha Raz</a> named the places as Dura, al-Fawwar camp, Bani Na'im and Dhahiriya; the army statement did not name them, so the map points are from his report.",
+      "source": "Srugim",
+      "date": "2026-10-28",
+      "url": "https://www.srugim.co.il/101014699-המבצע-בחברון-נמשך-6-חשודים-נעצרו-נשק-m16",
+      "places": [
+        {
+          "name": "Dura",
+          "lat": 31.5066,
+          "lon": 35.0264,
+          "note": "Per Simcha Raz"
+        },
+        {
+          "name": "al-Fawwar camp",
+          "lat": 31.4699,
+          "lon": 35.079,
+          "note": "Per Simcha Raz"
+        },
+        {
+          "name": "Bani Na'im",
+          "lat": 31.5169,
+          "lon": 35.163,
+          "note": "Per Simcha Raz"
+        },
+        {
+          "name": "Dhahiriya",
+          "lat": 31.4077,
+          "lon": 34.9711,
+          "note": "Per Simcha Raz"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-pa-judea-samaria-turnout-religious-zionism-carmel-power",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "pa",
+      "headline": "Judea and Samaria turnout put at 78.2%, above the national rate; Religious Zionism is the largest party there",
+      "summary": "Simcha Raz of Olam Katan reports that turnout in Judea and Samaria was 78.2%, above the national average, and that Religious Zionism was the largest party there with 24.8%, followed by United Torah Judaism and Likud. The highest turnout, by his figures: Beit Hogla (Megilot) 92.47%, Asael (Har Hevron) 90.24%, Rehelim 86.27%, then Avigail (<a href=\"https://x.com/i/status/2115474921883357469\">his post</a>). These figures are his and were not checked against official results. Raz also reported that Carmel in the Hebron Hills was without power on election day; the Israel Electric Corporation first blamed the election-day closure for keeping a contractor's tractor away, then told him that was a reporting error, blamed the weather and a harder repair than expected, and apologized to the council head (<a href=\"https://x.com/i/status/2115386698913771990\">first post</a>, <a href=\"https://x.com/i/status/2115399852758610133\">follow-up</a>).",
+      "source": "Simcha Raz (X)",
+      "date": "2026-10-28",
+      "url": "https://x.com/i/status/2115474921883357469",
+      "places": [
+        {
+          "name": "Beit Hogla",
+          "lat": 31.8278,
+          "lon": 35.5066,
+          "note": "Approximate"
+        },
+        {
+          "name": "Carmel",
+          "lat": 31.4309,
+          "lon": 35.1833
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-pa-jsr-akhbar-jenin-saadi-pa-fm-mep",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "pa",
+      "headline": "JSR: Hamas-linked Jenin channel spreads Osama al-Saadi's dedication of the Arab parties' \"victory\" to Gaza and to prisoners; PA foreign minister tells an MEP \"settler terrorism\" is rising",
+      "summary": "JSR's monitoring: Akhbar Jenin, which JSR calls the largest Jenin channel (225,000 followers) and Hamas-affiliated, is spreading a speech by former MK Osama al-Saadi of the Joint List dedicating the \"victory\" to Arabs in Gaza and Judea and Samaria and to \"prisoners\" (convicted terrorists) in Israeli jails (<a href=\"https://x.com/i/status/2115384635651674284\">JSR</a>). JSR also reports that PA Foreign Minister Varsen Aghabekian Shahin met European Parliament member Hildegard Bentele in Ramallah, alleged \"genocide\" in Gaza and rising \"settler terrorism,\" and asked the EU to keep funding UNRWA (<a href=\"https://x.com/i/status/2115494365678202948\">JSR</a>). Both are JSR's account; not confirmed elsewhere.",
+      "source": "JSR",
+      "date": "2026-10-28",
+      "url": "https://x.com/i/status/2115384635651674284",
+      "places": [
+        {
+          "name": "Jenin",
+          "lat": 32.4607,
+          "lon": 35.2961,
+          "note": "Approximate city point"
+        },
+        {
+          "name": "Ramallah",
+          "lat": 31.9038,
+          "lon": 35.2034,
+          "note": "Approximate city point"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-pa-effi-eitam-galei-israel-netanyahu",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "pa",
+      "headline": "Effi Eitam on Galei Israel radio: \"I was one of the few beside the prime minister in the hard hours\"",
+      "summary": "Brig. Gen. (res.) Effi Eitam told Sharon Gal on Galei Israel radio that Israel needs leaders able \"not only to recover but to lead us on to finish the campaign.\" He said he was among the few who sat with Netanyahu in the hard hours and saw him make decisions, and he said of the parties seeking to replace him that he saw them serve only \"defeat, cowardice, despair.\" \"There are no great leaders in the world who did not fail,\" he said; the point is the ability to recover (<a href=\"https://www.gly.co.il/item?id=73756\">Galei Israel</a>). The page gives no date; search results date it to around 27 Oct, which is unconfirmed. No new X posts from Eitam were found, and no new JNS or Arutz 7 appearance.",
+      "source": "Galei Israel",
+      "date": "2026-10-27",
+      "url": "https://www.gly.co.il/item?id=73756",
+      "places": []
+    },
+    {
+      "id": "2026-10-29-negev-tel-sheva-reservist-captagon-gaza",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "negev",
+      "headline": "Bedouin reservist from Tel Sheva caught in an IDF patrol vehicle in Gaza with about 10 kg of captagon",
+      "summary": "An active-duty reservist in his 30s from Tel Sheva was arrested inside the Gaza Strip in an army patrol vehicle with about 10 kilograms of what police believe is captagon, a stimulant drug, a joint police, Shin Bet and IDF statement said. The arrest by the Negev central police unit was based on advance intelligence; a Beersheba court extended his detention to Thursday (<a href=\"https://www.srugim.co.il/101014695-סוכל-ניסיון-הברחה-לעזה-חייל-נעצר-עם-כ-10\">Srugim</a>, <a href=\"https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1234946-0/\">Kipa</a>). HaKol HaYehudi gave his hometown as Segev Shalom (<a href=\"https://x.com/i/status/2115466108782211558\">its post</a>); police say Tel Sheva.",
+      "source": "Srugim",
+      "date": "2026-10-28",
+      "url": "https://www.srugim.co.il/101014695-סוכל-ניסיון-הברחה-לעזה-חייל-נעצר-עם-כ-10",
+      "places": [
+        {
+          "name": "Tel Sheva",
+          "lat": 31.2456,
+          "lon": 34.8578,
+          "note": "Suspect's hometown"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-negev-likud-fraud-claims-arab-polling-stations",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "negev",
+      "headline": "Likud hands police and the Shin Bet hundreds of testimonies of alleged fraud at Arab polling stations; claim that bribe money came from enemy states",
+      "summary": "Likud says it has given police, the Shin Bet and the Central Elections Committee hundreds of testimonies, including envelopes of cash with Ra'am ballots, threats and violence against polling staff, double voting and gaps between envelopes and voters. The committee said it is reviewing the complaint; these are Likud's claims, not findings (<a href=\"https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1234970-0/\">Kipa</a>). MK Simcha Rothman wrote to committee chair Judge Noam Sohlberg and to the Shin Bet (<a href=\"https://x.com/i/status/2115447135495688503\">Israel8251</a>), and HaKol HaYehudi reports MKs calling on the Shin Bet to investigate (<a href=\"https://x.com/i/status/2115465197024428402\">its post</a>). Ayelet Lash cites reporter Noam Amir that the investigation material raises suspicion of millions of shekels from enemy states (<a href=\"https://x.com/i/status/2115520748555247641\">her post</a>); this is unconfirmed. A Beersheba local news site also ran the headline \"Fuel cards for votes? Testimony from a gas station near Meitar\" (seen in Google News only; not opened). This follows the arrest of three Negev men with Ra'am envelopes reported yesterday.",
+      "source": "Kipa",
+      "date": "2026-10-28",
+      "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1234970-0/",
+      "places": [
+        {
+          "name": "Meitar",
+          "lat": 31.3271,
+          "lon": 34.9384,
+          "note": "Unconfirmed claim"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-negev-nasasra-balad-joint-list-2021-riots",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "negev",
+      "headline": "HaKol HaYehudi: new Joint List MK Hassan al-Nasasra praised the 2021 Negev road riots",
+      "summary": "HaKol HaYehudi reports that Hassan al-Nasasra, Balad's Negev representative, 10th on the Joint List, praised the rioting on Negev roads during the May 2021 riots and shared a post saying \"Arabs of 48\" are \"more dangerous than Hamas rockets\" (<a href=\"https://x.com/i/status/2115409780307054663\">HaKol HaYehudi</a>). The quotes are from HaKol HaYehudi's report and were not independently checked.",
+      "source": "HaKol HaYehudi",
+      "date": "2026-10-28",
+      "url": "https://x.com/i/status/2115409780307054663",
+      "places": [
+        {
+          "name": "Rahat",
+          "lat": 31.3934,
+          "lon": 34.7547
+        }
+      ]
+    },
+    {
+      "id": "2026-10-29-pa-rabbis-human-rights-removal-canceled-nahalin",
+      "edition": "2026-10-29",
+      "published": "2026-10-29T04:45:00+02:00",
+      "letter": "PA security: 29 Oct 2026",
+      "section": "pa",
+      "headline": "Court cancels the removal from Judea and Samaria of Rabbis for Human Rights volunteers detained at Nahalin",
+      "summary": "The Jerusalem Magistrate's Court canceled the 15- to 30-day removal from Judea and Samaria of Rabbis for Human Rights volunteers detained last week during the olive harvest at Nahalin. The group says the court found no reasonable suspicion that they broke the law and that they will return to the harvest (<a href=\"https://x.com/i/status/2115361620025282715\">Yotam Deshe</a>). Israel Hayom also reported the ruling (headline seen in search; the site blocks the desk).",
+      "source": "Yotam Deshe (X)",
+      "date": "2026-10-28",
+      "url": "https://x.com/i/status/2115361620025282715",
+      "places": [
+        {
+          "name": "Nahalin",
+          "lat": 31.6853,
+          "lon": 35.1193
+        }
+      ]
     }
   ],
   "highlight_count": 9,
