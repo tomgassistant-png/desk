@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T07:58:03+02:00",
+ "updated": "2026-10-30T12:20:00+02:00",
  "podcasts": [
   {
    "title": "The Tedesco Brothers: UFO Encounters, the Hitchhiker Effect & the FBI",
@@ -203,6 +203,15 @@
  ],
  "items": [
   {
+   "title": "Jacques Vallee Discusses UFO Control System",
+   "url": "https://thinkaboutit-ufos.com/jacques-vallee-discusses-ufo-control-system/",
+   "source": "Think About It UFOs (Bret Walters)",
+   "date": "2026-10-30",
+   "type": "article",
+   "note": "Walters recaps Vallée's control-system idea: the phenomenon works like a thermostat on human belief, using absurd, high-strange events to reshape myth, and he suggests people can study the feedback loop instead of watching passively. A recap of Vallée's 1970s ideas rather than new reporting; the page also shows an April update date.",
+   "interest": "Control mechanism (Vallée's control system); Vallée"
+  },
+  {
    "title": "The Tedesco Brothers: UFO Encounters, the Hitchhiker Effect & the FBI",
    "url": "https://audioboom.com/posts/8970179",
    "source": "That UFO Podcast",
@@ -213,6 +222,18 @@
    "guest": "John and Gerry Tedesco",
    "youtube": "",
    "podcast": "https://audioboom.com/posts/8970179"
+  },
+  {
+   "title": "The Secret Government Operation Faking Alien Abductions",
+   "url": "https://www.youtube.com/watch?v=QjU7FfTcACE",
+   "source": "American Alchemy",
+   "date": "2026-10-27",
+   "type": "podcast",
+   "guest": "Jason Jorjani",
+   "note": "Philosopher Jason Jorjani argues that reality is a computational system fought over by an \"archontic control system\" and a non-human superintelligence, and discusses Andrija Puharich's MKUltra-linked work on psychic manipulation and his claims of faked abductions. Speculative; judged from the episode description and a third-party summary.",
+   "interest": "Control mechanism (mind control, control system); nature of the phenomenon",
+   "youtube": "https://www.youtube.com/watch?v=QjU7FfTcACE",
+   "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740"
   },
   {
    "title": "The Fourth State: Are We Entering an Era of Attacking Plasma Orbs?",
