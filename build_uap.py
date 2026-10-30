@@ -10,6 +10,7 @@ CARDS = [
  ("Backgrounder: Skinwalker Ranch", "../skinwalker/", "An explainer on the Utah ranch in the Uintah Basin, famous for UFO and paranormal reports, and the government-funded studies done there."),
  ("Backgrounder: Frank Salisbury and the Uintah Basin sightings", "../uinta/", "The plant physiologist who investigated the 1960s and 1970s wave of UFO reports in northeastern Utah. It is a section of the Uinta Mountains trip page; scroll to \u201cThe UFO angle.\u201d"),
     ("Backgrounder: Arthur C. Clarke", "../backgrounders/arthur-c-clarke/", "The science fiction writer and futurist, and where his ideas meet UFOs, aliens and AI."),
+    ("Backgrounder: John Keel and The Mothman Prophecies", "../backgrounders/john-keel-mothman/", "Ultraterrestrials, the trickster, and his parallel path with Vallee."),
 ]
 FEEDJS = """<script>(function(){var b=document.getElementById('uapfeed');if(!b||!window.fetch)return;
 function esc(x){return String(x||'').replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
