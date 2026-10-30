@@ -278,7 +278,7 @@ q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()
              + srch + (f'<p class="summary"><i>{e(ed["intro"])}</i></p>' if ed.get("intro") else "") +
              f'<div class="cov-grid"><main><h2 class="edn">Top stories</h2>{body}'
              + (f'<p class="srcs">{e(ed["quiet"])}</p>' if ed.get("quiet") else "") +
-             f'</main><aside class="rail">{weather_html(d)}<h2 class="edn">Latest by section</h2><ul class="cov-list">{"".join(lines)}</ul><h2 class="edn">Listen</h2><ul class="cov-list"><li><a href="../ufo-podcasts/">UFO, AI &amp; Folklore Podcast Feed</a></li></ul></aside></div>'
+             f'</main><aside class="rail">{weather_html(d)}<h2 class="edn">Latest by section</h2><ul class="cov-list">{"".join(lines)}</ul><h2 class="edn">UFOs and UAPs</h2><ul class="cov-list"><li><a href="../uap/">UAP Desk</a></li><li><a href="../ufo-podcasts/">UFO, AI &amp; Folklore Podcast Feed</a></li></ul></aside></div>'
              f'<p class="srcs">Built {e(now.strftime("%Y-%m-%d %H:%M"))} Israel time from the daily research digest.</p></div><script>{JS}</script></body></html>')
     write(os.path.join(ROOT, "cover/index.html"), cover)
 
