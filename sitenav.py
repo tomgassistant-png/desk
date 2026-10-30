@@ -48,4 +48,5 @@ def nav(here, root, extra=""):
     links.append(f'<a href="{root}haiti/" data-sec="haiti" data-upd="{_hz}"{" class=on" if here == "haiti" else ""}>Haiti</a>')
     _ms = _load("mars/data.json").get("updated", "")[:10]
     links.append(f'<a href="{root}mars/" data-sec="mars" data-upd="{_ms}"{" class=on" if here == "mars" else ""}>Mars</a>')
+    links.append(f'<a href="{root}uap/"{" class=on" if here == "uap" else ""}>UAP</a>')
     return f'<style>{CSS}</style><nav class="secnav">' + " | ".join(links) + extra + '</nav>' + JS
