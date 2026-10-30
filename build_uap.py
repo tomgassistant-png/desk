@@ -31,7 +31,7 @@ def build(now):
             f'<style>{CSS}.uapg{{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:28px}}@media(max-width:800px){{.uapg{{grid-template-columns:1fr}}}}.uapside{{border-left:1px solid #ccc;padding-left:18px}}</style></head><body><div class="page">{sitenav.nav("uap", "../")}'
             '<header class="masthead"><h1>UAP Desk</h1><p class="dateline">UFOs, UAPs, the people who study them, and where AI comes in</p></header>'
             '<div class="uapg"><main><h2 class="edn">News feeds</h2><div id="uapfeed"><p class="summary">The daily scan of podcasts, YouTube, Substack and blogs will appear here starting 31 October. For now, see the <a href="../ufo-podcasts/">UFO, AI &amp; Folklore Podcast Feed</a>.</p></div></main>'
-            f'<aside class="uapside"><h2 class="edn">Backgrounders</h2>{side}</aside></div>'
+            f'<aside class="uapside"><h2 class="edn">Backgrounders</h2>{side}<h2 class="edn">Readalongs</h2><div style="margin:0 0 14px"><a href="https://drive.google.com/file/d/1-npbG8tsY02lZ-TBh36mP6MyhYOQOvoe/view?usp=drivesdk" target="_blank" rel="noopener"><b>The Others (Pasulka) readalong</b></a><p class="srcs" style="margin:4px 0">Private file in your Google Drive; download and open in a browser.</p></div></aside></div>'
             f'<p class="srcs">Page built {now:%d %B %Y, %H:%M} Israel time.</p></div>{FEEDJS}</body></html>')
 if __name__ == "__main__":
     open(os.path.join(D, "uap/index.html"), "w", encoding="utf-8").write(build(datetime.now(TZ)))
