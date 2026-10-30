@@ -1,14 +1,72 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-10-29 04:40",
- "checked": "29 Oct 2026",
+ "updated": "2026-10-30 04:30",
+ "checked": "30 Oct 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 29 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ends on 31 October.",
+  "Where things stand on 30 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ends on 31 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known.",
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "feed": [
+  {
+   "when": "2026-10-30",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JPL, JAXA, ESA, CNSA, Xinhua, CGTN, UAE, ISRO, SpaceX, Blue Origin, GAO, SpacePolicyOnline, Planetary Society, AMSAT-DL, Estévez, plus X",
+   "text": "Nothing new today on these, so only their checked dates change: the Perseverance team blog (newest post still \"Tinga's Tale\", 26 October) and the Curiosity team blog (newest still sols 5043-5049, 28 October; no new drill hole reported), ESA (newest Mars items are the MMX stories of 13 and 20 October), JAXA (newest release still 21 October; MMX blog 26 October), CNSA in English and CGTN (no new Mars item; CGTN's newest is MMX on 20 October), the UAE Space Agency and the Mohammed bin Rashid Space Centre on X (the center's 29 October posts are about an agreement with the University of Sharjah, not Hope), ISRO (its posts are about tonight's 30 October navigation-satellite launch, not Mars), SpaceX (newest update 8 October, not Mars) and Blue Origin on X (posts about an apprenticeship program and a podcast, not Mars), the two GAO protest dockets (both still open, decisions due 21 December 2026 and 1 February 2027), SpacePolicyOnline (no Congress action; Congress is out until after the 3 November elections), the Planetary Society (an advocacy group; newest Mars item still Singita, 28 October), the ESCAPADE pages (still \"November 2026\" for the Mars departure burn and \"fall of 2026\"), AMSAT-DL (amateur radio group) and Daniel Estévez's blog (newest post is about an aircraft-signal receiver, not Mars). The 27 October rumor that China may split Tianwen-3 (its Mars sample return) and delay the lander to 2030 is still only repeated on X; no agency or named outlet has confirmed it [unconfirmed]. No low-cost Mars mission solicitation seen on NASA's Mars Future Plan page yet [unconfirmed].",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://www.gao.gov/docket/b-424825.1",
+   "link_text": "open GAO docket B-424825.1",
+   "other": "",
+   "links": [
+    [
+     "GAO docket B-424825.2",
+     "https://www.gao.gov/docket/b-424825.2"
+    ],
+    [
+     "NASA Mars Future Plan",
+     "https://science.nasa.gov/planetary-science/programs/mars-exploration/future-of-mars-plan/"
+    ],
+    [
+     "Berkeley ESCAPADE mission design",
+     "https://escapade.ssl.berkeley.edu/mission-design/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-29 20:18",
+   "who": "NASA, news release 2026-079, \"NASA-funded Study Details One of Oldest Mars Meteorites Ever Found\"",
+   "kind": "primary source",
+   "where": "nasa.gov (posted 2:18 p.m. U.S. Eastern time, 20:18 Israel time)",
+   "text": "A rose-colored meteorite (a rock that fell to Earth from space) found in the Sahara in Mali in 2022, named Teghaza 001, formed on Mars more than 4.1 billion years ago, according to a study published 29 October in the journal Science. That makes it one of the three oldest of the roughly 435 Martian meteorites known; the others are ALH84001, found in Antarctica in 1984, which is of similar age, and \"Black Beauty\". Water altered the rock about 4.1 billion years ago, so it formed even earlier, and the team says this supports the idea that early Mars had liquid water and conditions that could have suited life, though it does not show that life existed. It is a single kind of coarse igneous rock (gabbro, which cooled slowly from molten rock below the surface), unlike Black Beauty, which is a jumble of many rock pieces. Its minerals best match Mars's ancient southern highlands as seen from orbit by NASA's Mars Reconnaissance Orbiter (MRO); NASA shows 13 possible source spots on a MOLA map (an elevation map made by a laser altimeter on the old Mars Global Surveyor orbiter). The lead author is Yang Liu of JPL; the University of New Mexico first spotted that it came from Mars from its oxygen isotopes (different forms of the oxygen atom).",
+   "evidence": "official NASA release about a peer-reviewed paper; the main facts (found in Mali in 2022, at least 4.1 billion years old, about 435 Martian meteorites, lead author Liu) match Reuters (Will Dunham, 29 Oct) and the University of New Mexico's own release. I did not open the Science paper itself (the journal site refused my reader)",
+   "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+   "link_text": "open the release",
+   "other": "The sources describe the dating a little differently: NASA names rubidium-strontium dating of mineral grains, while Reuters and the University of New Mexico describe uranium-lead dating of tiny zircon crystals; the paper may use both [unconfirmed]. Reuters reports the rock was found in eight pieces about 34 km (21 miles) from the village of Bir Chali, and quotes Liu that it may come from near the Hellas Basin, a huge impact crater. NASA puts it at about 800 grams (nearly 2 pounds) [unconfirmed by a second source]. The University of New Mexico is a partner in the study (an interested source). @NASAMars posted the story on X at 22:10 Israel time.",
+   "links": [
+    [
+     "NASA map of possible source spots (Photojournal)",
+     "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/"
+    ],
+    [
+     "NASA photo of a slice of the meteorite (Photojournal)",
+     "https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001/"
+    ],
+    [
+     "Reuters, Will Dunham, 29 Oct (via StreetInsider)",
+     "https://www.streetinsider.com/Reuters/Martian+meteorite+found+in+the+Sahara+is+4.1+billion+years+old/27256535.html"
+    ],
+    [
+     "University of New Mexico release (study partner)",
+     "https://news.unm.edu/news/unm-scientists-help-uncover-4-1-billion-year-old-martian-meteorite-revealing-clues-to-planet-s-ancient-past"
+    ],
+    [
+     "@NASAMars on X, 29 Oct",
+     "https://x.com/NASAMars/status/2115899009307193511"
+    ]
+   ]
+  },
   {
    "when": "2026-10-29",
    "who": "Grok Bot daily check (our own check)",
@@ -591,8 +649,8 @@
    [
     {
      "m": "Curiosity (NASA)",
-     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5057 (28 Oct).",
-     "d": "29 Oct 2026 (raw images); blog 28 Oct",
+     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5058 (29 Oct).",
+     "d": "30 Oct 2026 (raw images); blog 28 Oct",
      "links": [
       [
        "blog, 28 Oct",
@@ -607,7 +665,7 @@
     {
      "m": "Perseverance (NASA)",
      "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct); NASA's traverse file shows 45.25 km by sol 2022 (28 Oct). Exploring Lac de Charmes, outside Jezero's western rim, near the Idubi outcrop. Drilled a new sample, \"Singita\", on 24 Oct, its first in more than a year (Planetary Society, from the project scientist's talk; no NASA story yet). NASA counted 29 rock and regolith samples before that, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
-     "d": "29 Oct 2026 (raw images and traverse file to sol 2022; blog 26 Oct)",
+     "d": "30 Oct 2026 (raw images to sol 2023; traverse file sol 2022; blog 26 Oct)",
      "links": [
       [
        "Singita, Planetary Society",
@@ -681,7 +739,7 @@
     {
      "m": "ExoMars Trace Gas Orbiter, TGO (ESA/Roscosmos program, run by ESA)",
      "s": "Operating, and the main relay for ESA's Rosalind Franklin rover (The Register, 22 Oct). FY2027 request continues U.S. support at $2.0M (AAS). ESA's \"facts and figures\" page (15 Oct) says TGO entered Mars orbit on 19 Oct 2016; it gives no end date.",
-     "d": "29 Oct 2026 (ESA page of 15 Oct)",
+     "d": "30 Oct 2026 (ESA page of 15 Oct)",
      "links": [
       [
        "ESA: TGO facts and figures",
@@ -750,7 +808,7 @@
     {
      "m": "MMX, Martian Moons eXploration (JAXA, Japan)",
      "s": "Launched 20 Oct 2026 (04:41 Japan time). Healthy; first critical operations done (solar panels out, steady pointing, antenna released), JAXA 21 Oct; now checking its systems before the cruise. Reaches Mars: August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit says fiscal year 2027. Phobos sample: no earlier than December 2028 per NASA and NASASpaceFlight, 2030 per ESA [unconfirmed]. Leaves Mars FY2030; samples back on Earth in 2031 (JAXA press kit, NASA, ESA).",
-     "d": "29 Oct 2026 (JAXA 21 and 26 Oct)",
+     "d": "30 Oct 2026 (JAXA 21 and 26 Oct)",
      "links": [
       [
        "JAXA release, 21 Oct",
@@ -786,7 +844,7 @@
      "image_credit": "U.S. Space Force photo by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
      "image_url": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
      "s": "Launched 13 Nov 2025 on Blue Origin's New Glenn. The Mars departure burn is in November 2026 and arrival is September 2027 per the Berkeley mission-design page. NASA's own page says only \"fall of 2026\" for the Earth flyby. FY2027 request: $4.5M.",
-     "d": "29 Oct 2026",
+     "d": "30 Oct 2026",
      "links": [
       [
        "Berkeley mission design",
@@ -853,8 +911,8 @@
   "lat": 18.4356,
   "lon": 77.2332,
   "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October and plans to try for two more (Planetary Society).",
-  "est_sol": "about 2023",
-  "est_note": "NASA's raw-image feed lists images from sol 2022 taken on 28 October 2026; 29 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "est_sol": "about 2024",
+  "est_note": "NASA's raw-image feed lists images from sol 2023 taken on 29 October 2026 (close-up science camera pictures, not a drive); 30 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "The distance comes from NASA's public traverse file (a list of the rover's stopping points), because no NASA blog gives a newer figure. That file lags and does not update every day. Its newest point is sol 2022 (28 Oct): 45,245.7 meters in total (45.25 km, 28.11 miles), after a 22-meter drive. The record figure NASA announced was 45.22 km for sol 2006 (11 Oct). If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -4437,7 +4495,7 @@
    ]
   },
   {
-   "t": "NASA's raw-image feed has pictures through sol 5057, taken on 28 October 2026, so 29 October is about sol 5058 (our own arithmetic). NASA's pages that I opened give no odometer for 29 October, so none is shown here.",
+   "t": "NASA's raw-image feed has pictures through sol 5058, taken on 29 October 2026, so 30 October is about sol 5059 (our own arithmetic). NASA's pages that I opened give no odometer for 29 October, so none is shown here.",
    "links": []
   },
   {
@@ -4540,7 +4598,7 @@
   },
   {
    "who": "Crewed Mars missions (any agency)",
-   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 29 October 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
+   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 30 October 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
    "label": "aspirational",
    "links": [
     [
@@ -4574,7 +4632,7 @@
   ],
   [
    "Nov 2026",
-   "ESCAPADE leaves Earth's neighborhood for Mars (burn in November per Berkeley's mission-design page; NASA says only \"fall 2026\"). Exact date not published as of 29 Oct [unconfirmed].",
+   "ESCAPADE leaves Earth's neighborhood for Mars (burn in November per Berkeley's mission-design page; NASA says only \"fall 2026\"). Exact date not published as of 30 Oct [unconfirmed].",
    ""
   ],
   [
@@ -4904,6 +4962,7 @@
   ]
  ],
  "not_read": [
+  "30 Oct: GAO's dockets refused my plain reader (403) and were read through a second reader; GAO's own search page also refused (403). Blue Origin's news page answered 429 (too many requests) to all three readers tried, so its X account was checked instead. The second reader itself now refuses anonymous use (error 401), which also blocked it for the UAE Space Agency site (403 to the plain reader; X accounts checked instead) and for Xinhua, whose English science page shows only an empty page template; Xinhua was not read today. SpaceNews's science page gave 404 (not found). Science's own page for the meteorite paper refused my reader (403), and Reuters was read through StreetInsider's copy. The JPL copy of the meteorite release was seen on JPL's news list but not opened.",
   "NASA/JPL copy of the Mars dust article (26 Oct): access error (403) on 27 and 28 Oct, opened fine on 29 Oct. The PNAS paper itself was not opened.",
   "29 Oct: the UAE Space Agency website timed out again (plain reader and second reader); its X account and the Mohammed bin Rashid Space Centre's X account were checked instead. GAO's dockets refused my plain reader (403), SpacePolicyOnline showed a \"verifying your request\" page, Blue Origin answered 429 (too many requests) and SpaceX's page needs a browser; all four were read through a second reader. The English page of the Journal of Deep Space Exploration gave a server error (500); its Chinese page, which carries the English abstract, was read. Singita: NASA has no story of its own yet, so the sample news rests on the Planetary Society's report of the project scientist's talk plus NASA's raw images.",
   "JAXA's MMX press kit PDF was opened on 28 Oct (Japanese; dates read from it). Still not opened: the Aviation Week and Reuters pieces, Indian press on Mangalyaan-2, the Schiff/Padilla letter and HigherGov: seen only in search results, not opened, so not cited.",

@@ -3,6 +3,80 @@
   "subtitle": "The daily brief on the campaign against the Houthis",
   "editions": [
     {
+      "date": "2026-10-30",
+      "lede": "On Thursday Saudi air defenses shot down three Houthi ballistic missiles, two aimed at Riyadh and one at the Eastern Province. The Houthis claimed six attacks on Saudi oil sites, airports and a Najran base. Satellite images now point to fire damage at the Ras Tanura refinery, but Aramco has said nothing. Inside Yemen, the coalition is striking boats and ports at Mokha and Dhubab to cut the Houthis' sea supply line. Government forces are still trying to break the ring around Taiz City, whose governor now says the city is in famine.",
+      "items": [
+        {
+          "headline": "Saudi Arabia intercepts three ballistic missiles; one person hurt in Riyadh",
+          "text": "The Saudi-led coalition said Saudi air defenses intercepted three Houthi ballistic missiles on Thursday, two aimed at Riyadh and one at the Eastern Province (Xinhua; Reuters via Euronext). Saudi Civil Defense said falling debris lightly injured one person in Riyadh and damaged a house and a vehicle. Alerts in Riyadh, Al-Kharj and Najran were lifted after about 20 minutes (Arab News; Al Jazeera). AFP reporters in Riyadh heard at least eight explosions (RTE).",
+          "source": "Arab News",
+          "link": "https://www.arabnews.com/saudi-arabia/saudi-civil-defense-issues-warnings-for-riyadh-najran-al-kharj-3008889"
+        },
+        {
+          "headline": "Houthis claim six strikes on Saudi oil sites, airports and a Najran base",
+          "text": "Houthi military spokesman Yahya Saree said on al-Masirah TV that ballistic missiles were fired at the Ras Tanura refinery, Aramco facilities at Abqaiq and the Rabigh refinery on the Red Sea coast. He said missiles were also fired at King Khalid airport in Riyadh, a drone was sent at King Fahd airport in Dammam, and a Saudi command center in Najran was hit (Xinhua; Al Jazeera). Saudi Arabia has confirmed none of these hits beyond the interceptions above. The claim that Dammam air traffic was disrupted is unconfirmed.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities"
+        },
+        {
+          "headline": "Satellite images suggest damage at Ras Tanura refinery; crude loading goes on",
+          "text": "A 28 October Sentinel-2 image shows a dark patch about 200 meters wide inside the Ras Tanura refinery. It is not in the 23 or 25 October images, and NASA fire data recorded a strong heat signal there early on 27 October (Defence Mena). Maritime Executive reports that a cracking unit (the part of a refinery that breaks heavy oil into fuels) appears to have been hit and that open-source analysts saw flaring stop. Both outlets call the damage suspected, and Aramco has made no statement. Crude exports appear to continue: Maritime Executive cites Bloomberg's Javier Blas counting nine very large tankers loading at Ras Tanura and Juaymah (unconfirmed by a second source). The Iranian Fars agency's claim that the main unit is out of action is unsupported.",
+          "source": "Maritime Executive",
+          "link": "https://maritime-executive.com/article/strike-damage-confirmed-at-giant-saudi-refinery-complex"
+        },
+        {
+          "headline": "Coalition strikes boats and ports at Mokha and Dhubab to cut Houthi sea supply",
+          "text": "Critical Threats reports that coalition strikes on Houthi ports and boats at Mokha and Dhubab are meant to cut the Houthis' supply route by sea from Hudaydah to the Bab al-Mandab front, and that two vessels were reported destroyed on 28 October. The National ran the headline \"Saudi forces hit vessels carrying Houthi weapons,\" and Houthi media reported four strikes on Mokha and its port (Al Jazeera). Asharq Al-Awsat reports more strikes near Mokha and on Jabal al-Nar, with fighting in Bab al-Mandab and Dhubab and on Lahj's al-Mudaraba and al-Subaiha front. Critical Threats notes that government forces hold no port from which to patrol the coast. The government's totals for its operation \"Dawn of Yemen\" (982 strikes and 324 Houthi fighters killed by day 25, per Asharq Al-Awsat) cannot be checked.",
+          "source": "Critical Threats",
+          "link": "https://www.criticalthreats.org/analysis/iran-update-october-29-2026"
+        },
+        {
+          "headline": "Fighting continues south of Taiz City; government says Houthi shells may have carried toxic agents",
+          "text": "Government-aligned forces and Houthis fought at al-Aqroud and Kahlan in al-Misrakh district and in Sabr al-Mawadim, as the government tries to break the Houthi ring around central Taiz (Critical Threats map of 29 October; Al Jazeera). Asharq Al-Awsat says Houthi attacks on Kahlan and Hamma were pushed back and an ambulance was hit in Sabr al-Mawadim. The government's Taiz media office said shells fired near Kahlan and al-Aqroud on 28 October may have held \"internationally banned toxic substances,\" but gave no evidence (Critical Threats; Asharq Al-Awsat). This is unconfirmed. Information Minister Muammar al-Eryani has made similar claims before.",
+          "source": "Asharq Al-Awsat",
+          "link": "https://english.aawsat.com/arab-world/5334405-yemeni-govt-forces-press-advance-houthis-near-bab-al-mandeb-taiz"
+        },
+        {
+          "headline": "Houthis say a Saudi airstrike on homes in Maqbana killed 12 or more",
+          "text": "A Saudi airstrike hit homes of the al-Qouz family in al-Barah, in the Houthi-held Maqbana district of western Taiz. The Houthi health ministry gave a toll of 12 dead and 3 critically injured (AFP via New Straits Times); AP reported at least 13 dead, citing the same ministry, and the Houthi-aligned Hodhod agency said eight. The tolls come only from the Houthi side, and Saudi Arabia has not commented.",
+          "source": "New Straits Times (AFP)",
+          "link": "https://www.nst.com.my/world/world/2026/10/1566467/houthis-report-12-killed-saudi-strike-yemen-homes"
+        },
+        {
+          "headline": "Taiz governor says the besieged city is in famine; Houthi leader says there is no siege",
+          "text": "\"The city is in famine, not on the brink of it,\" Taiz Governor Nabil Shamsan said on Thursday. He said Houthi forces had seized the city's last outside water source, cooking gas was cut off, and 271 people had been killed since the offensive began (AP via The Independent). No official famine declaration has been made. Human Rights Watch said the siege may amount to the war crime of starving civilians. The UN aid office counts 281,000 people displaced since August and 800,000 trapped in Taiz (Al Jazeera). In a speech marking the Houthis' Martyr anniversary, Abdul-Malik al-Houthi said \"there is no siege on Taiz city,\" that only weapons for government forces are blocked, and called on Saudi Arabia to stop its strikes and blockade (al-Masirah; AP via The Independent). This matters for the war because breaking the siege is the main aim of the government push south of the city.",
+          "source": "The Independent (AP)",
+          "link": "https://www.independent.co.uk/news/taiz-houthi-yemen-cairo-world-food-program-b3075955.html"
+        },
+        {
+          "headline": "Aden airport reopens; government asks the UN Security Council for penalties",
+          "text": "Aden airport reopened on Thursday after its runway was repaired, following the sixth Houthi attack on it (Asharq Al-Awsat; Al Jazeera). Asharq Al-Awsat says Yemenia flights had been sent to Djibouti in the meantime. Yemen's UN envoy Abdullah Al-Saadi wrote to the Security Council asking for punitive measures and for the arms embargo under Resolutions 2140 and 2216 to be enforced (Yemen Monitor; Al Jazeera).",
+          "source": "Yemen Monitor",
+          "link": "https://www.yemenmonitor.com/en/Details/ArtMID/908/ArticleID/186339"
+        },
+        {
+          "headline": "Erdogan tells Trump the Mecca defense pact is watching Hormuz and Yemen",
+          "text": "In a phone call on Wednesday, Turkish President Recep Tayyip Erdogan told President Trump that the Mecca Joint Defense Alliance of Turkey, Saudi Arabia and Pakistan is \"closely\" watching the Strait of Hormuz and Yemen, and that Turkey is seeking a diplomatic solution (Anadolu; Times of Israel). The Turkish parliament's full vote on the pact is still pending. Separately, Critical Threats reports, citing Tasnim, that Iran has not answered the letter Vice President Vance sent through Qatar.",
+          "source": "Anadolu",
+          "link": "https://www.aa.com.tr/en/turkiye/turkish-us-presidents-discuss-bilateral-ties-regional-developments/4104346"
+        },
+        {
+          "headline": "Brent settles at $114.88; US oil majors skip the Abu Dhabi oil show",
+          "text": "Brent crude settled down 44 cents at $114.88 a barrel on Thursday, and US crude near $102, as hopes for diplomacy offset worry about Gulf supply (Reuters via Euronext; CNBC). Reuters says ExxonMobil and Chevron cancelled their executives' trips to the oil show in the UAE. The Wall Street Journal reported that the head of US Central Command briefed President Trump on options against Iran (Reuters via Euronext; not independently confirmed).",
+          "source": "Euronext (Reuters)",
+          "link": "https://live.euronext.com/en/financial-news/oil-prices-settles-lower-diplomacy-hopes-offset-some-mideast-supply-concerns"
+        },
+        {
+          "headline": "Inside Saudi Arabia: most Riyadh flights cancelled, a race postponed, more borrowing expected",
+          "text": "Flight data firm Cirium counted 4,071 of 4,736 Riyadh flights (86%) and more than 7,800 flights nationwide (45%) cancelled from 8 to 25 October, with every Najran flight cancelled (Reuters via Al-Monitor). The FIA and Extreme H postponed the hydrogen-car race at Qiddiya, set for 29–31 October, to 2027, citing logistical problems (FIA; Straits Times). Enterprise reports a Jefferies estimate that Riyadh may raise up to $12 billion more in foreign debt (one analyst's view), and that Aramco is in talks with the Philippines on crude storage after its Singapore deal. My inference: the war is now costing the kingdom in flights, events and borrowing, not only in oil.",
+          "source": "Al-Monitor (Reuters)",
+          "link": "https://www.al-monitor.com/originals/2026/10/how-houthi-attacks-have-grounded-flights-across-saudi-arabia"
+        }
+      ],
+      "trend": "Both sides are hitting supply lines. The Houthis keep firing at Saudi oil sites and airports, and for the first time satellite images back up some damage at Ras Tanura. The coalition is going after the Houthi sea route along the Red Sea coast while government forces try to reopen the road into Taiz. Neither side is close to a breakthrough. ACLED's analyst wrote on 16 October that a major Houthi defeat is unlikely, and the front lines have barely moved since then. My inference: the fight is now about supply and endurance more than ground.",
+      "watch": "Whether Aramco or Saudi officials confirm damage at Ras Tanura; whether coalition strikes stop Houthi boats reaching Bab al-Mandab; whether any evidence backs the toxic-shell claim near Kahlan; whether government forces reopen the Taiz–Aden road; any UN Security Council answer to Yemen's letter; Iran's reply to the Vance letter; the Turkish parliament's vote on the Mecca pact; OPEC+ on Sunday; US decisions after the 3 November midterms."
+    },
+    {
       "date": "2026-10-29",
       "lede": "The Houthis hit Aden's airport with two ballistic missiles on Wednesday, the sixth attack on it according to the government, and Yemenia flights were sent elsewhere. An AP report says Russian military satellites passed over Saudi targets before and after 40 Houthi strikes, and a Saudi official said Russia passes targeting data through Iranian advisers in Yemen. Saudi air defenses shot down missiles aimed at Taif on Wednesday and at the Eastern Province early Thursday. Fighting near Bab al-Mandab killed at least 97 fighters, and around Taiz the Houthis are back at a key checkpoint on the southwestern road into the city. Qatar's draft deal with Iran remains in dispute, and Brent oil closed above $115.",
       "items": [
