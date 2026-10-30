@@ -7,6 +7,7 @@ D = os.path.dirname(os.path.abspath(__file__))
 CARDS = [
  ("UFO Researcher Network", "../ufo-network/", "A map of the people who study UFOs and UAPs, from scientists and scholars to investigators, and how they connect."),
  ("UFO, AI &amp; Folklore Podcast Feed", "../ufo-podcasts/", "The best recent podcast episodes on Jacques Vallee, D.W. Pasulka, folklore, and ideas linking AI and aliens. Refreshed daily at about 4 a.m. Israel time."),
+ ("Backgrounder: Skinwalker Ranch", "../skinwalker/", "An explainer on the Utah ranch in the Uintah Basin, famous for UFO and paranormal reports, and the government-funded studies done there."),
  ("Backgrounder: Frank Salisbury and the Uintah Basin sightings", "../uinta/", "The plant physiologist who investigated the 1960s and 1970s wave of UFO reports in northeastern Utah. It is a section of the Uinta Mountains trip page; scroll to \u201cThe UFO angle.\u201d"),
 ]
 def build(now):
