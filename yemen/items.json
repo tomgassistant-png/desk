@@ -3,6 +3,68 @@
   "subtitle": "The daily brief on the campaign against the Houthis",
   "editions": [
     {
+      "date": "2026-10-31",
+      "lede": "On Friday the Houthis opened a new push out of southern Taiz into al-Maqatirah district of Lahj, the hill country on the road toward Aden. Government forces and the Saudi air force say they threw it back, while Houthi media claim gains. Critical Threats warns the push may be an early step toward threatening Aden itself. The Houthis also fired missiles at Aden's airport and presidential palace. Saudi Arabia says it shot down drones over the Mecca, Medina and Riyadh regions, which the Houthis deny launching. The US confirmed it has ordered non-emergency staff out of Saudi Arabia, and Brent crude hit a six-month high.",
+      "items": [
+        {
+          "headline": "Houthis push from Taiz into Lahj's al-Maqatirah district; government says the attack was thrown back",
+          "text": "Asharq Al-Awsat reports that the Houthis attacked northern Lahj from three directions on Friday, trying to take al-Maqatirah district, open a route toward Tur al-Bahah district and gain control over the roads linking Lahj and Taiz. Critical Threats, citing government-aligned sources and Saudi media, says the push ran southeast from al-Turbah toward al-Sawalihah along the Taiz-Aden road, that government-aligned forces reportedly repelled it, that Saudi airstrikes hit the advancing Houthi forces, and that the Houthis sent reinforcements to nearby al-Shamayatayn district. The government's Tur al-Bahah command reported fighting at al-Maqatirah, Haijat al-Abd, al-Sawalha and Hayfan (Yemen Monitor), and the Khabar agency says government units retook positions in Hayfan and hills in al-Sawalha that the Houthis had briefly seized. The Houthi-run Yemen Press Agency claims Houthi forces took the district center, al-Rabou market and the al-Maqatirah citadel. Neither side's account is independently confirmed, and casualty claims on both sides cannot be checked.",
+          "source": "Asharq Al-Awsat",
+          "link": "https://english.aawsat.com/arab-world/5335685-houthis-expand-taiz-offensive-southward-lahj"
+        },
+        {
+          "headline": "Critical Threats: the Lahj push may be meant to set up a later threat to Aden",
+          "text": "Critical Threats assesses that the Houthi attempt to move southeast from Taiz into Lahj \"may indicate\" the Houthis are trying to set conditions to besiege or capture Aden City, and that the Houthis are likely bringing in reinforcements for another try at al-Maqatirah, whose heights overlook Tur al-Bahah district on the way to Aden. The Jerusalem Post, quoting the UAE outlet Al-Ain, describes Tur al-Bahah as the main gateway to Aden and puts the fighting about 40 to 50 miles from the city. This is an analysts' reading of Houthi intent, not a confirmed plan.",
+          "source": "Critical Threats",
+          "link": "https://www.criticalthreats.org/analysis/iran-update-october-30-2026"
+        },
+        {
+          "headline": "Government forces reportedly retake ground west of Jabal Kahbub on the coast",
+          "text": "Critical Threats reports, citing an anti-Houthi journalist, that the Southern Giants Brigades and Homeland Shield forces, backed by Saudi air power, retook territory west of Jabal Kahbub in Lahj on 29 October. It says commercial satellite images from 15 to 29 October suggest the Houthis had taken and dug in on the east side of the mountain before pulling back under pressure. Jabal Kahbub matters because Houthi forces holding it could outflank government troops on the Red Sea coastal plain near Bab al-Mandab. The recapture rests on one partisan source and is unconfirmed.",
+          "source": "Critical Threats",
+          "link": "https://www.criticalthreats.org/analysis/iran-update-october-30-2026"
+        },
+        {
+          "headline": "Houthi missiles hit near Aden's presidential palace; airport targeted again",
+          "text": "Government forces spokesman Majed al-Nuzaili said the Houthis fired ballistic missiles at Aden International Airport and the Maashiq presidential palace on Friday (Arab News; also reported by Anadolu). A local security official told Xinhua the missiles struck near the palace in Aden's Crater district and that air defenses then engaged drones over government buildings. No casualty figures had been given. ACLED counted at least 24 Houthi attacks or possible attacks on Aden and other places far from the front since August, including a 15 October strike on the palace that killed five people.",
+          "source": "Xinhua",
+          "link": "https://english.news.cn/20261031/52b3cc34df91423696fcacdf68fd6439/c.html"
+        },
+        {
+          "headline": "Saudi Arabia says it downed drones over the Mecca, Medina and Riyadh regions; Houthis deny it",
+          "text": "Coalition spokesman Turki al-Maliki said Saudi air defenses on Friday destroyed a Houthi cruise missile aimed at the western region, drones over the Mecca region, the Medina region and Riyadh, and a ballistic missile fired at the south (Arab News; the Mecca and cruise missile reports via Al Jazeera). Houthi military spokesman Yahya Saree said the group carried out no operation toward the Saudi interior that day and called the Mecca and Medina claims fabrications, saying the group targets only oil sites and military bases (India Today, citing Reuters). Neither account can be independently checked. The dispute matters because a strike near the holy cities would carry heavy political weight across the Muslim world.",
+          "source": "Arab News",
+          "link": "https://www.arabnews.com/saudi-arabia/saudi-led-coalition-intercepts-houthi-drone-over-riyadh-missile-in-south-3009043"
+        },
+        {
+          "headline": "US confirms it has ordered non-emergency staff and families out of Saudi Arabia",
+          "text": "The US embassy in Riyadh said on Friday that the State Department ordered non-emergency government employees and their families to leave Saudi Arabia, effective 23 October, citing Houthi attacks on civilian airports and other critical infrastructure (Reuters via Al-Monitor). US staff now need special permission to use Saudi airports, and the embassy warned of more attacks, airspace closures and flight cancellations. The order took effect a week before it was made public on Friday. It adds to the picture of the war's cost to Saudi Arabia's image as a safe place to do business.",
+          "source": "Al-Monitor (Reuters)",
+          "link": "https://www.al-monitor.com/originals/2026/10/us-orders-non-emergency-staff-leave-saudi-arabia-over-security-risks"
+        },
+        {
+          "headline": "Taiz: government investigates suspected toxic shells; health chief warns a hospital may shut within a day",
+          "text": "The government said its forces are investigating shells suspected of containing \"toxic substances\" after reports of choking and fainting among civilians and Popular Resistance fighters on the Taiz fronts, and spokesman al-Nuzaili called for an urgent inquiry (The National; Asharq Al-Awsat). A source in Taiz told The National it was hard to tell what happened. Taiz health office director Fahd al-Nadhari said tests are under way and did not confirm any use of toxic agents. He also said one hospital could stop working within 24 hours for lack of diesel and that treatment sessions have fallen from 18,000 to under 4,000 during the month-long siege (Yemen Monitor, from an Al-Hadath interview). The toxic-agent claim remains unconfirmed. The siege matters for the war because breaking it is the main aim of the government push south of the city.",
+          "source": "The National",
+          "link": "https://www.thenationalnews.com/news/mena/2026/10/30/yemen-investigating-toxic-substances-allegedly-used-by-houthis-in-taiz/"
+        },
+        {
+          "headline": "Air war: rival strike counts, with strikes reported in Mokha, al-Jawf and Marib",
+          "text": "The government says its \"Dawn of Yemen\" operation has now carried out 1,087 strikes, killing or wounding about 336 Houthi commanders and fighters and destroying or disabling 112 vehicles and heavy weapons (Arab News; Asharq Al-Awsat). Asharq Al-Awsat reports strikes on al-Amoud al-Sughra in Mokha district on the Red Sea coast, on Huwayshan in al-Jawf and on Mahliyah district in Marib. Houthi spokesman Saree said Saudi forces made 93 air and missile strikes in 24 hours, and the Houthi channel al-Masirah said Saudi strikes on homes in Taiz province killed seven people (Xinhua). None of these figures can be independently checked.",
+          "source": "Arab News",
+          "link": "https://www.arabnews.pk/middle-east/houthis-target-aden-airport-and-maashiq-presidential-palace-with-ballistic-missiles-3005673"
+        },
+        {
+          "headline": "Brent hits a six-month high; Saudi crude exports rose in October",
+          "text": "Brent crude for December delivery, which expired on Friday, settled up $2.76 at $117.64 a barrel, a six-month high; the more traded January contract closed at $113.43 and US crude at $104.12 (Reuters via Euronext). Brent gained 13.6% in October. Reuters linked the rise to fears of a wider war with Iran. Reuters also reports that two of three ship-tracking firms show Saudi crude exports rising in October from September, despite the Houthi claims of attacks on Saudi oil sites. The Houthis' 29 October claims of hits on Ras Tanura, Abqaiq and Rabigh remain unconfirmed by Saudi Arabia (Critical Threats).",
+          "source": "Euronext (Reuters)",
+          "link": "https://live.euronext.com/en/financial-news/oil-jumps-2-settles-6-month-highs-fears-escalation-iran"
+        }
+      ],
+      "trend": "The ground war is spreading south. After weeks of fighting around Taiz City, the Houthis are now probing into Lahj along the road to Aden, while government forces, with Saudi air support, push back on the coast near Jabal Kahbub and Bab al-Mandab. The Houthis are also striking Aden directly with missiles, as they do in Saudi Arabia. On the Saudi side the costs keep growing (US staff ordered out, airports disrupted), but oil exports are holding up and prices are rising, which cushions the kingdom's income. My inference: neither side is close to winning on the ground, and a Houthi move toward Aden would be the most serious change in the campaign since Bab al-Mandab.",
+      "watch": "Whether the Houthis try al-Maqatirah again with the reinforcements reported at al-Shamayatayn; whether Critical Threats or other mappers confirm who holds the al-Maqatirah heights and Jabal Kahbub; casualty reports from the Aden palace strike; test results on the suspected toxic shells in Taiz; whether Taiz hospitals get fuel; any Saudi confirmation of damage at Ras Tanura; the OPEC+ meeting on Sunday; Iran's reply to the Vance letter; US decisions after the 3 November midterms."
+    },
+    {
       "date": "2026-10-30",
       "lede": "On Thursday Saudi air defenses shot down three Houthi ballistic missiles, two aimed at Riyadh and one at the Eastern Province. The Houthis claimed six attacks on Saudi oil sites, airports and a Najran base. Satellite images now point to fire damage at the Ras Tanura refinery, but Aramco has said nothing. Inside Yemen, the coalition is striking boats and ports at Mokha and Dhubab to cut the Houthis' sea supply line. Government forces are still trying to break the ring around Taiz City, whose governor now says the city is in famine.",
       "items": [

@@ -1,14 +1,72 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-10-30 04:30",
- "checked": "30 Oct 2026",
+ "updated": "2026-10-31 04:30",
+ "checked": "31 Oct 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 30 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ends on 31 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known.",
+  "Where things stand on 31 October 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ends today, 31 October, with the crew leaving the habitat at 21:00 Israel time. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known.",
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "feed": [
+  {
+   "when": "2026-10-31",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JPL, JAXA, ESA, CNSA, Xinhua, CGTN, UAE, ISRO, SpaceX, Blue Origin, GAO, SpacePolicyOnline, Planetary Society, SpaceNews, Space.com, AMSAT-DL, Estévez, plus X",
+   "text": "Nothing new today on these, so only their checked dates change: NASA news releases (newest Mars item still the 29 October meteorite release) and JPL news, the Perseverance team blog (newest post still \"Tinga's Tale\", 26 October), the Curiosity team blog (newest still sols 5043-5049, 28 October; no new drill hole reported), NASA's Mars Future Plan page (last updated 23 June; no low-cost Mars mission solicitation yet [unconfirmed]), the ESCAPADE pages (Berkeley still says \"November 2026\" for the Mars departure burn; NASA still says \"fall of 2026\"), JAXA's press releases in English and Japanese (newest still 21 October), CNSA in English and CGTN (no new Mars item), the UAE Space Agency on X (posts about government awards and a UN meeting, not Hope), ISRO (its 30 October navigation-satellite launch succeeded; nothing on Mars), SpaceX and Elon Musk on X (no Mars post found), Blue Origin on X (no post found), the two GAO protest dockets (both still open, decisions due 21 December 2026 and 1 February 2027), SpacePolicyOnline (no Congress action; Congress is out until after the 3 November elections), the Planetary Society (an advocacy group; newest Mars item still Singita, 28 October), AMSAT-DL (amateur radio group) and Daniel Estévez's blog (newest Tianwen post still August). New on other sources: the CNES Idefix wake-up and a 30 October MMX blog post from JAXA (both below), and an ESA story of 12 October about rehearsing the Rosalind Franklin rover's first drive, which earlier checks missed (below). Starship: Space.com (Mike Wall, 29 October) reports both stages for Starship Flight 15 have now been test-fired on the ground, and quotes Elon Musk that the flight is targeted for November; it is an Earth-orbit test, not a Mars flight. The 27 October rumor that China may split Tianwen-3 (its Mars sample return) and delay the lander to 2030 is still not confirmed by any agency or named outlet [unconfirmed].",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://www.gao.gov/docket/b-424825.2",
+   "link_text": "open GAO docket B-424825.2",
+   "other": "",
+   "links": [
+    [
+     "GAO docket B-424825.1",
+     "https://www.gao.gov/docket/b-424825.1"
+    ],
+    [
+     "Space.com, Mike Wall, 29 Oct (Starship Flight 15)",
+     "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video"
+    ],
+    [
+     "SpacePolicyOnline: CHAPEA exit event, 31 Oct",
+     "https://spacepolicyonline.com/events/nasa-chapea-mission-2-egress-ceremony-oct-31-2026-jsc-300-pm-et-watch-on-youtube/"
+    ],
+    [
+     "Berkeley ESCAPADE mission design",
+     "https://escapade.ssl.berkeley.edu/mission-design/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-10-30 21:05",
+   "who": "CNES (France's space agency), post on X",
+   "kind": "primary source (CNES built and runs the Idefix rover with Germany's DLR)",
+   "where": "x.com/CNES (posted 19:05 UTC, 21:05 Israel time)",
+   "text": "Engineers at CNES's control center in Toulouse woke up Idefix, the small French-German rover riding on Japan's MMX spacecraft, and the planned test sequence went well, CNES says. CNES puts MMX at more than 3 million km from Earth and says the next wake-up is in a month. Idefix is meant to be set down on Phobos, the larger moon of Mars, to drive on its surface; it stays attached to MMX until then.",
+   "evidence": "CNES's own post (in French; translated here). No CNES or DLR web page about the wake-up found yet, and the 3 million km figure has no second source [unconfirmed]",
+   "url": "https://x.com/CNES/status/2116245121763295739",
+   "link_text": "open the CNES post",
+   "other": "",
+   "links": []
+  },
+  {
+   "when": "2026-10-30",
+   "who": "JAXA MMX team blog: \"A path to the heavens opens: launch of the H3 Launch Vehicle flight No. 10\", by Baba Hajime (MMX project team)",
+   "kind": "primary source (mission team blog)",
+   "where": "mmx-news.isas.jaxa.jp",
+   "text": "A team member's account of the 20 October launch of MMX (04:41 Japan time, from Tanegashima). It says this was the first H3 rocket sent onto a path out of Earth's orbit toward another planet, that the launch went exactly on time, and that the rocket's flight data were relayed through NASA's TDRS satellites (NASA's data-relay satellites in Earth orbit). It says MMX is now entering its operations phase. It gives no new spacecraft status, engine burns or arrival date.",
+   "evidence": "JAXA's own blog; the launch time matches JAXA's 20 October release. The blog's claim that this was JAXA's first on-time launch in about six years is the author's own [unconfirmed]",
+   "url": "https://mmx-news.isas.jaxa.jp/?p=2945",
+   "link_text": "open the blog post",
+   "other": "",
+   "links": [
+    [
+     "JAXA release, 20 Oct",
+     "https://global.jaxa.jp/press/2026/10/20261020-1_e.html"
+    ]
+   ]
+  },
   {
    "when": "2026-10-30",
    "who": "Grok Bot daily check (our own check)",
@@ -481,6 +539,22 @@
   },
   {
    "when": "2026-10-12",
+   "who": "ESA, \"ExoMars rover twin rehearses first drive\" (first seen in our 31 Oct check)",
+   "kind": "primary source",
+   "where": "esa.int",
+   "text": "Before ESA's Rosalind Franklin rover can explore Mars it must drive off its landing platform, which ESA calls one of the mission's most critical moments. In a two-month test in Turin, Italy, a full-size twin rover called Amalia drove off a model of the platform more than 20 times: with a ceiling hoist carrying two-thirds of its weight to copy Mars's lower gravity, on a platform tilted 20 degrees, and with obstacles under the ramps. The platform has two pairs of ramps, front and back, and ground control will choose which way to drive off using only pictures from orbit; \"once we egress, there is no way back,\" said Eric Zekri, ESA's ExoMars rover team leader. The rover weighs 300 kg on Earth; the 3-meter aluminum ramps were made by the Polish company Astronika, and the tests were run by Thales Alenia Space (the main contractor) at ALTEC. ESA says the rover's journey on the Martian surface begins in 2030.",
+   "evidence": "ESA's own story; the test photos are Thales Alenia Space pictures under ESA's standard license, so none is shown here. The 2030 landing year is ESA's own statement, matching NASA's April slides (launch 2028) [no independent check of the date]",
+   "url": "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive",
+   "link_text": "open ESA's story",
+   "other": "ESA's October video round-up also mentions this test and a Mars Express finding about a giant Martian cloud.",
+   "photo_link": {
+    "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Rover_takes_first_steps_down_the_ramps",
+    "label": "ESA photo page: the twin rover on the ramps (Thales Alenia Space; not copied here)"
+   },
+   "links": []
+  },
+  {
+   "when": "2026-10-12",
    "who": "NASA science editorial team, \"NASA's Perseverance Sets Off-World Record for Total Distance Driven\"",
    "kind": "primary source",
    "where": "NASA science blog",
@@ -649,8 +723,8 @@
    [
     {
      "m": "Curiosity (NASA)",
-     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5058 (29 Oct).",
-     "d": "30 Oct 2026 (raw images); blog 28 Oct",
+     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5059 (30 Oct).",
+     "d": "31 Oct 2026 (raw images); blog 28 Oct",
      "links": [
       [
        "blog, 28 Oct",
@@ -665,7 +739,7 @@
     {
      "m": "Perseverance (NASA)",
      "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct); NASA's traverse file shows 45.25 km by sol 2022 (28 Oct). Exploring Lac de Charmes, outside Jezero's western rim, near the Idubi outcrop. Drilled a new sample, \"Singita\", on 24 Oct, its first in more than a year (Planetary Society, from the project scientist's talk; no NASA story yet). NASA counted 29 rock and regolith samples before that, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
-     "d": "30 Oct 2026 (raw images to sol 2023; traverse file sol 2022; blog 26 Oct)",
+     "d": "31 Oct 2026 (raw images to sol 2024; traverse file sol 2022; blog 26 Oct)",
      "links": [
       [
        "Singita, Planetary Society",
@@ -739,7 +813,7 @@
     {
      "m": "ExoMars Trace Gas Orbiter, TGO (ESA/Roscosmos program, run by ESA)",
      "s": "Operating, and the main relay for ESA's Rosalind Franklin rover (The Register, 22 Oct). FY2027 request continues U.S. support at $2.0M (AAS). ESA's \"facts and figures\" page (15 Oct) says TGO entered Mars orbit on 19 Oct 2016; it gives no end date.",
-     "d": "30 Oct 2026 (ESA page of 15 Oct)",
+     "d": "31 Oct 2026 (ESA page of 15 Oct)",
      "links": [
       [
        "ESA: TGO facts and figures",
@@ -807,9 +881,17 @@
    [
     {
      "m": "MMX, Martian Moons eXploration (JAXA, Japan)",
-     "s": "Launched 20 Oct 2026 (04:41 Japan time). Healthy; first critical operations done (solar panels out, steady pointing, antenna released), JAXA 21 Oct; now checking its systems before the cruise. Reaches Mars: August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit says fiscal year 2027. Phobos sample: no earlier than December 2028 per NASA and NASASpaceFlight, 2030 per ESA [unconfirmed]. Leaves Mars FY2030; samples back on Earth in 2031 (JAXA press kit, NASA, ESA).",
-     "d": "30 Oct 2026 (JAXA 21 and 26 Oct)",
+     "s": "Launched 20 Oct 2026 (04:41 Japan time). Healthy; first critical operations done (solar panels out, steady pointing, antenna released), JAXA 21 Oct; now checking its systems before the cruise. CNES woke the Idefix rover on board for a test on 30 Oct, which went well; next wake-up in a month (CNES on X). Reaches Mars: August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit says fiscal year 2027. Phobos sample: no earlier than December 2028 per NASA and NASASpaceFlight, 2030 per ESA [unconfirmed]. Leaves Mars FY2030; samples back on Earth in 2031 (JAXA press kit, NASA, ESA).",
+     "d": "31 Oct 2026 (JAXA 21 Oct; MMX blog 30 Oct; CNES 30 Oct)",
      "links": [
+      [
+       "CNES on X, 30 Oct",
+       "https://x.com/CNES/status/2116245121763295739"
+      ],
+      [
+       "MMX blog, 30 Oct",
+       "https://mmx-news.isas.jaxa.jp/?p=2945"
+      ],
       [
        "JAXA release, 21 Oct",
        "https://global.jaxa.jp/press/2026/10/20261021-1_e.html"
@@ -844,7 +926,7 @@
      "image_credit": "U.S. Space Force photo by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
      "image_url": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
      "s": "Launched 13 Nov 2025 on Blue Origin's New Glenn. The Mars departure burn is in November 2026 and arrival is September 2027 per the Berkeley mission-design page. NASA's own page says only \"fall of 2026\" for the Earth flyby. FY2027 request: $4.5M.",
-     "d": "30 Oct 2026",
+     "d": "31 Oct 2026",
      "links": [
       [
        "Berkeley mission design",
@@ -901,9 +983,9 @@
  "perseverance": {
   "image": "img/perseverance-latest.jpg",
   "image_alt": "Color view of reddish-tan ground covered with pebbles and a few fist-sized rocks",
-  "image_caption": "Latest view: raw color image from the left Mastcam-Z camera, sol 2022 (28 October 2026), the ground near the rover after its latest short drive. Raw image, not processed or checked",
+  "image_caption": "Latest view: raw color image from the right Mastcam-Z camera, sol 2024 (30 October 2026), pebbly ground near the rover; cropped to remove the black unused edge of the frame. Raw image, not processed or checked",
   "image_credit": "NASA/JPL-Caltech/ASU, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
-  "image_url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/ZL0_2022_0846456664_206EBY_N0930000ZCAM07125_1100LMJ",
+  "image_url": "https://mars.nasa.gov/mars2020/multimedia/raw-images/ZR0_2024_0846621642_145EBY_N0930000ZCAM10058_1100LMJ",
   "sol": 2022,
   "sol_date": "28 Oct 2026",
   "km": 45.25,
@@ -911,8 +993,8 @@
   "lat": 18.4356,
   "lon": 77.2332,
   "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October and plans to try for two more (Planetary Society).",
-  "est_sol": "about 2024",
-  "est_note": "NASA's raw-image feed lists images from sol 2023 taken on 29 October 2026 (close-up science camera pictures, not a drive); 30 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "est_sol": "about 2025",
+  "est_note": "NASA's raw-image feed lists images from sol 2024 taken on 30 October 2026 (Mastcam-Z, Navcam and SuperCam pictures; the feed shows no new drive since sol 2022); 31 October is about one sol later (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "The distance comes from NASA's public traverse file (a list of the rover's stopping points), because no NASA blog gives a newer figure. That file lags and does not update every day. Its newest point is sol 2022 (28 Oct): 45,245.7 meters in total (45.25 km, 28.11 miles), after a 22-meter drive. The record figure NASA announced was 45.22 km for sol 2006 (11 Oct). If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -4495,7 +4577,7 @@
    ]
   },
   {
-   "t": "NASA's raw-image feed has pictures through sol 5058, taken on 29 October 2026, so 30 October is about sol 5059 (our own arithmetic). NASA's pages that I opened give no odometer for 29 October, so none is shown here.",
+   "t": "NASA's raw-image feed has pictures through sol 5059, taken on 30 October 2026, so 31 October is about sol 5060 (our own arithmetic). NASA's pages that I opened give no odometer for 30 October, so none is shown here.",
    "links": []
   },
   {
@@ -4519,10 +4601,10 @@
  ],
  "curiosity_image": {
   "image": "img/curiosity-latest.jpg",
-  "image_alt": "Small gray view of layered rocky hills under a bright sky, with dark ground in front",
-  "image_caption": "Latest view: raw image from the right navigation camera (Navcam), sol 5057 (28 October 2026), layered slopes toward the horizon in low light. The feed gives no caption; Navcam frames like this are often part of sky-watching sequences. Raw image, not processed or checked",
+  "image_alt": "Gray view that is mostly empty sky, with low dark hills and rocky ground along the bottom edge",
+  "image_caption": "Latest view: raw image from the right navigation camera (Navcam), sol 5059 (30 October 2026), mostly sky above low hills on the horizon. The feed gives no caption; Navcam frames like this are often part of sky-watching sequences. Raw image, not processed or checked",
   "image_credit": "NASA/JPL-Caltech, NASA raw image (generally not copyrighted), from NASA's public raw-image feed",
-  "image_url": "https://mars.nasa.gov/msl/multimedia/raw-images/NRB_846420259EDR_S1251326NCAM00594M_"
+  "image_url": "https://mars.nasa.gov/msl/multimedia/raw-images/NRB_846598662EDR_S1251326NCAM00567M_"
  },
  "plans": [
   {
@@ -4572,9 +4654,13 @@
   },
   {
    "who": "ESA with NASA: Rosalind Franklin rover (ExoMars)",
-   "t": "NASA began implementation of its part in April 2026. NASA's April slides say \"scheduled to launch in 2028\"; the course says no earlier than late 2028, with a late-2030 landing reported [unconfirmed]. The 2027 U.S. budget request does not mention the U.S. contribution.",
+   "t": "NASA began implementation of its part in April 2026. NASA's April slides say \"scheduled to launch in 2028\"; the course says no earlier than late 2028. ESA's 12 October story says the rover's journey on the surface begins in 2030 (ESA's own date; no exact month given). The 2027 U.S. budget request does not mention the U.S. contribution.",
    "label": "aspirational",
    "links": [
+    [
+     "ESA: rover twin rehearses first drive, 12 Oct",
+     "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive"
+    ],
     [
      "NASA ROSA blog, 16 Apr 2026",
      "https://science.nasa.gov/blogs/mars-rosa/2026/04/16/nasa-begins-implementation-for-esas-rosalind-franklin-mission-to-mars/"
@@ -4598,7 +4684,7 @@
   },
   {
    "who": "Crewed Mars missions (any agency)",
-   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 30 October 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
+   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 31 October 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
    "label": "aspirational",
    "links": [
     [
@@ -4632,12 +4718,12 @@
   ],
   [
    "Nov 2026",
-   "ESCAPADE leaves Earth's neighborhood for Mars (burn in November per Berkeley's mission-design page; NASA says only \"fall 2026\"). Exact date not published as of 30 Oct [unconfirmed].",
+   "ESCAPADE leaves Earth's neighborhood for Mars (burn in November per Berkeley's mission-design page; NASA says only \"fall 2026\"). Exact date not published as of 31 Oct [unconfirmed].",
    ""
   ],
   [
    "Nov 2026",
-   "Starship Flights 15 and 16: slipped to mid or late November per Space.com; no confirmed dates.",
+   "Starship Flights 15 and 16: slipped to mid or late November per Space.com; both Flight 15 stages have been test-fired on the ground and Elon Musk says November (Space.com, 29 Oct); no confirmed dates. Earth-orbit tests, not Mars flights.",
    "aspirational"
   ],
   [
@@ -4684,6 +4770,11 @@
    "2029",
    "Mars Express mission reported to run to 2029 (The Register) [unconfirmed against ESA].",
    ""
+  ],
+  [
+   "2030",
+   "Rosalind Franklin begins driving on Mars, per ESA (12 Oct story).",
+   "aspirational"
   ],
   [
    "About 2030",
@@ -4841,6 +4932,18 @@
      "https://www.esa.int/ESA_Multimedia/Images/2026/10/Trace_Gas_Orbiter_Facts_and_figures"
     ],
     [
+     "ESA: ExoMars rover twin rehearses first drive, 12 Oct",
+     "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ExoMars_rover_twin_rehearses_first_drive"
+    ],
+    [
+     "JAXA MMX blog: H3 launch, 30 Oct",
+     "https://mmx-news.isas.jaxa.jp/?p=2945"
+    ],
+    [
+     "CNES on X: Idefix wake-up, 30 Oct",
+     "https://x.com/CNES/status/2116245121763295739"
+    ],
+    [
      "ESA: MMX",
      "https://www.esa.int/ESA_Multimedia/Images/2026/10/The_Martian_Moons_eXploration_MMX_mission"
     ],
@@ -4962,6 +5065,7 @@
   ]
  ],
  "not_read": [
+  "31 Oct: GAO's dockets refused my plain reader (403) and were read through a second reader. Blue Origin's news page answered 429 (too many requests) to both readers tried, and SpaceX's page needs a full browser, so both companies were checked on X instead. The UAE Space Agency site refused the plain reader (403) and timed out in the second reader; its X account was checked instead. Xinhua's English science page is an empty template and its site search gave no usable answer, so Xinhua was checked only through a web search (nothing new on Tianwen found). SpaceNews's science page gave 404 (not found) and its news feed carried only sponsored items, so SpaceNews was not really read today; Space.com was read through its news feed. The JAXA MMX blog's list page did not load in my reader, so the new post was opened directly. ESA's 12 October Rosalind Franklin story had been missed by earlier checks; it was found today through ESA's exploration news feed. The user's computer was offline, so all reading went over Grok Bot's own network.",
   "30 Oct: GAO's dockets refused my plain reader (403) and were read through a second reader; GAO's own search page also refused (403). Blue Origin's news page answered 429 (too many requests) to all three readers tried, so its X account was checked instead. The second reader itself now refuses anonymous use (error 401), which also blocked it for the UAE Space Agency site (403 to the plain reader; X accounts checked instead) and for Xinhua, whose English science page shows only an empty page template; Xinhua was not read today. SpaceNews's science page gave 404 (not found). Science's own page for the meteorite paper refused my reader (403), and Reuters was read through StreetInsider's copy. The JPL copy of the meteorite release was seen on JPL's news list but not opened.",
   "NASA/JPL copy of the Mars dust article (26 Oct): access error (403) on 27 and 28 Oct, opened fine on 29 Oct. The PNAS paper itself was not opened.",
   "29 Oct: the UAE Space Agency website timed out again (plain reader and second reader); its X account and the Mohammed bin Rashid Space Centre's X account were checked instead. GAO's dockets refused my plain reader (403), SpacePolicyOnline showed a \"verifying your request\" page, Blue Origin answered 429 (too many requests) and SpaceX's page needs a browser; all four were read through a second reader. The English page of the Journal of Deep Space Exploration gave a server error (500); its Chinese page, which carries the English abstract, was read. Singita: NASA has no story of its own yet, so the sample news rests on the Planetary Society's report of the project scientist's talk plus NASA's raw images.",
