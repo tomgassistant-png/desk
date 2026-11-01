@@ -124,15 +124,17 @@ def render_timestamped(b, secid, slug, names):
     o = [head(b["title"]), sitenav.nav(secid, R),
          f'<header class="masthead"><h1>{e(b["title"])}</h1><p class="dateline">{e(names.get(secid, secid))} backgrounder · {e(b["date"])} · <a href="../">Back to the section</a></p></header>',
          f'<p class="summary"><b>{e(b["summary"])}</b></p>',
-         f'<p class="srcs">Video: <a href="https://www.youtube.com/watch?v={e(vid)}" target="_blank" rel="noopener">Nick Land x Fans on YouTube (CYPHERS)</a> · <a href="transcript/">Full timestamped transcript (auto-captions, with errors)</a> · <a href="transcript.txt">Raw transcript text file</a></p>']
-    o.append('<aside style="border:1px solid #ccc;border-left:4px solid #8b0000;background:#f1efe8;padding:10px 14px;margin:12px 0"><b>Method and limits</b>'
+         f'<p class="srcs">Video: <a href="https://www.youtube.com/watch?v={e(vid)}" target="_blank" rel="noopener">{e(b.get("video_label", "Nick Land x Fans on YouTube (CYPHERS)"))}</a>' + ('' if b.get("method") else ' · <a href="transcript/">Full timestamped transcript (auto-captions, with errors)</a> · <a href="transcript.txt">Raw transcript text file</a>') + '</p>']
+    if b.get("method"):
+        o.append('<aside style="border:1px solid #ccc;border-left:4px solid #8b0000;background:#f1efe8;padding:10px 14px;margin:12px 0"><b>Method and limits</b>' + "".join(f'<p class="summary" style="margin:6px 0">{e(x)}</p>' for x in b["method"]) + '</aside>')
+    else: o.append('<aside style="border:1px solid #ccc;border-left:4px solid #8b0000;background:#f1efe8;padding:10px 14px;margin:12px 0"><b>Method and limits</b>'
              '<p class="summary" style="margin:6px 0">The text comes from YouTube\'s automatic English captions, read by a script. No person has checked it against the audio. '
              'Captions are readable but often wrong on names and terms. Examples: "Ned" for Net, "Sydney" for Patallax, "Luis Electron", "Casey" or "Katie" for Lemur, "Kyodo school" for the Kyoto school, "RA" for rigor, "neog" for numogram, "Ryan Her" for Ryan Haecker. '
              'The captions have no speaker names. A ">>" in the transcript only marks that the speaker changed. This page attributes words to Nick Land only where the context makes it clear that he is answering a question. Other speakers are named only where the chapter title or a host\'s introduction says who is asking; otherwise the page says "speaker unclear".</p>'
              '<p class="summary" style="margin:6px 0">Quoted passages are exact caption text, including caption mistakes, which are noted. Words in square brackets or odd spelling come from the captions, not from this page. Every timestamp links to that second of the video. The summaries are written by this digest from the captions. They are shorter than the talk and leave out details, and where a summary relies on chapter titles alone it says "from chapter titles only". A caption error could change the meaning of a passage, so check a quote against the video before you rely on it.</p></aside>')
     o.append('<h2 class="edn">At a glance</h2><table class="srcs" style="border-collapse:collapse">' + "".join(
         f'<tr><td style="vertical-align:top;padding:3px 12px 3px 0"><b>{e(x["k"])}</b></td><td style="padding:3px 0">{e(x["v"])}</td></tr>' for x in b["facts"]) + '</table>')
-    o.append('<h2 class="edn">Land\'s most notable statements</h2><ul>' + "".join(f'<li class="summary">{lk(n["t"])} {e(n["text"])}</li>' for n in b["notable"]) + '</ul>')
+    o.append(f'<h2 class="edn">{e(b.get("notable_title", "Land\'s most notable statements"))}</h2><ul>' + "".join(f'<li class="summary">{lk(n["t"])} {e(n["text"])}</li>' for n in b["notable"]) + '</ul>')
     o.append('<h2 class="edn">Chapter index</h2><ol style="padding-left:22px">' + "".join(
         f'<li class="summary"><a href="#c{i}">{e(c["title"])}</a> ({lk(c["start"])} to {ts(c["end"])})</li>' for i, c in enumerate(b["sections"])) + '</ol>')
     for i, c in enumerate(b["sections"]):
@@ -145,7 +147,13 @@ def render_timestamped(b, secid, slug, names):
             for q in c["quotes"]:
                 o.append(f'<blockquote style="margin:8px 0 8px 12px;padding-left:10px;border-left:3px solid #8b0000"><p class="summary" style="margin:0">&ldquo;{e(q["quote"])}&rdquo;</p>'
                          f'<p class="srcs" style="margin:2px 0">{e(q["speaker"])} · {lk(q["t"])}' + (f' · <i>{e(q["note"])}</i>' if q.get("note") else "") + '</p></blockquote>')
-    o.append('<p class="srcs"><a href="transcript/">Read the full timestamped transcript</a></p></div></body></html>')
+    if b.get("glossary"):
+        o.append('<h2 class="edn" id="glossary">Glossary: Land\'s vocabulary in plain English</h2><table class="srcs" style="border-collapse:collapse">' + "".join(
+            f'<tr><td style="vertical-align:top;padding:3px 12px 3px 0"><b>{e(x["k"])}</b></td><td style="padding:3px 0">{e(x["v"])}</td></tr>' for x in b["glossary"]) + '</table>')
+    if b.get("checks"):
+        o.append('<h2 class="edn" id="checks">Claims to check</h2><ul>' + "".join(f'<li class="summary">{e(x)}</li>' for x in b["checks"]) + '</ul>')
+    if b.get("method"): o.append('</div></body></html>')
+    else: o.append('<p class="srcs"><a href="transcript/">Read the full timestamped transcript</a></p></div></body></html>')
     write(os.path.join(ROOT, f"digest/{secid}/{slug}/index.html"), "".join(o))
     # transcript page, built from the raw text file next to the page
     tp = os.path.join(ROOT, f"digest/{secid}/{slug}/transcript.txt")
