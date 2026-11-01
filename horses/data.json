@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-11-01",
  "key_numbers": [
   {
    "label": "Estimated wild horses and burros on BLM land",
@@ -75,11 +75,11 @@
   },
   {
    "label": "Fall 2026 gathers in this file",
-   "value": "Red Desert WY 776 gathered through Oct 24 (target 1,035; 11 deaths); North Complex NV 323 (ended Oct 22); Sulphur UT about 259 (search summary); Sand Wash CO about 301 gathered (ended Sept 25); Riddle OR 140 gathered, 139 shipped (ended Oct 21); Pryor MT bait trap, about 100 planned (no animals reported Oct 20-21)",
-   "as_of": "2026-10-24",
-   "source_name": "BLM gather pages",
-   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/wyoming/2026-red-desert-complex",
-   "note": "Counts come from BLM's daily reports; death causes are BLM's own wording. The Red Desert figure is the sum of BLM's daily reports (776); a search-engine summary of the same page gave 777, so the exact total is not settled.",
+   "value": "Red Desert WY 1,035 gathered Oct 15-27, 1,018 shipped, 17 deaths (target met); North Complex NV 323 (ended Oct 22); Sulphur UT 257 per BLM news release (gather page says 259); Sand Wash CO about 301 gathered (ended Sept 25); Riddle OR 140 gathered, 139 shipped (ended Oct 21); Pryor MT bait trap since Oct 19, up to 37 to be removed (daily reports show 14 caught Oct 25-28, status box says 3); next: Cedar Mountain and Swasey UT, 640 planned, starting Nov 2",
+   "as_of": "2026-10-29",
+   "source_name": "BLM gather pages, news releases and FY2027 gather schedule",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-fertility-control-operations/schedule",
+   "note": "Red Desert: BLM status as of Oct 29 lists 372 stallions, 435 mares and 228 foals gathered; 1 sudden death (seizure) and 16 euthanized for pre-existing conditions, including blindness; horses shipped to Wheatland, WY. Conflicts: Sulphur 259 on the BLM gather page vs 257 in the BLM Oct 26 release; Pryor status box (3 gathered as of Oct 28) does not match its own daily reports (14 caught, 2 stallions released). Last week's file said about 100 were planned at Pryor; the schedule shows up to 100 gathered and 37 removed. Cedar Mountain (about 500) and Swasey (about 140) per BLM gather pages; both pages say Nov 2.",
    "topic": "horses"
   },
   {
@@ -120,20 +120,20 @@
   },
   {
    "label": "Colorado River reservoirs",
-   "value": "Lake Powell 23% full; Lake Mead 26% full",
-   "as_of": "2026-10-18",
+   "value": "Lake Powell 24% full; Lake Mead 26% full",
+   "as_of": "2026-10-25",
    "source_name": "Bureau of Reclamation weekly update",
    "source_url": "https://www.usbr.gov/lc/region/g4000/weekly.pdf",
-   "note": "Total system 18,128 kaf (31%) versus 37% last year. Powell WY2027 unregulated inflow forecast: 39% of normal.",
+   "note": "Powell 3,527.51 ft (up 6.96 ft in a week), Mead 1,038.03 ft. Total system storage 18,775 thousand acre-feet (32%) vs 21,924 (37%) a year ago. Powell's preliminary water year 2027 unregulated inflow forecast: 3,719 thousand acre-feet (39% of normal).",
    "topic": "conservation"
   },
   {
    "label": "BLM land burned by wildfire in 2026",
-   "value": "over 3.3 million acres",
-   "as_of": "2026-10-22",
-   "source_name": "BLM press release",
-   "source_url": "https://www.blm.gov/press-release/blm-and-partners-target-invasive-weeds-enhance-resiliency-critical-habitat",
-   "note": "BLM's statement in a release about Jacks Creek, Idaho.",
+   "value": "about 3.39 million acres",
+   "as_of": "2026-10-30",
+   "source_name": "National Interagency Fire Center, year-to-date report by state and agency",
+   "source_url": "https://gacc.nifc.gov/sacc/predictive/intelligence/NationalYTDbyStateandAgency.pdf",
+   "note": "Sum of BLM wildland acres in the Oct 30 report (Oregon alone 1.91 million). NIFC counts acres by the agency that protects the land, so this is not exactly BLM-owned land. BLM said over 3.3 million acres on Oct 22.",
    "topic": "conservation"
   }
  ],
@@ -1972,6 +1972,163 @@
  ],
  "developments": [
   {
+   "date": "2026-10-31",
+   "text": "Cowboy State Daily: advocates object that BLM shot three blue-eyed cremello horses, including two foals, as blind during the Red Desert gather. Chad Hanson of the Wyoming Mustang Institute wants a veterinarian to make such calls and says Skydog Ranch had offered to take special-needs horses; BLM says veterinarians are on call.",
+   "source_name": "Cowboy State Daily",
+   "source_url": "https://cowboystatedaily.com/2026/10/31/horse-advocates-decry-blm-shooting-3-rare-blue-eyed-mustangs-for-being-blind/",
+   "kind": "independent reporting",
+   "related": [
+    "blm-whb",
+    "skydog"
+   ],
+   "topic": "red-desert"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Return to Freedom calls the Red Desert removals inhumane and notes BLM plans to treat only 52 mares with fertility control there; it says Utah's Cedar Mountain (500) and Swasey (140) gathers are next.",
+   "source_name": "Return to Freedom",
+   "source_url": "https://returntofreedom.org/update-1035-wild-horses-captured-in-red-desert-wyo-utah-roundups-set-to-start/",
+   "kind": "advocacy claim",
+   "related": [
+    "rtf"
+   ],
+   "topic": "horses"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Tri-State Livestock News lays out the order's deadlines (30 days to identify grazable land, 150 days for a map); Nevada rancher Jack Payne welcomes the deadlines and urges allotment owners to apply.",
+   "source_name": "Tri-State Livestock News",
+   "source_url": "https://www.tsln.com/news/back-to-the-basics-interior-secretary-issues-order-to-restore-grazing-on-blm-land/",
+   "kind": "independent reporting",
+   "related": [],
+   "topic": "grazing-and-prairie"
+  },
+  {
+   "date": "2026-10-30",
+   "text": "A secondary news site reports American Prairie's end-of-season count put its bison herd at 1,016, the first time over 1,000. Not yet confirmed on American Prairie's own site.",
+   "source_name": "The Brighter Side of News",
+   "source_url": "https://thebrightside.news/american-prairie-bison-herd-1016/",
+   "kind": "unconfirmed",
+   "related": [
+    "american-prairie"
+   ],
+   "topic": "grazing-and-prairie"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "BLM finishes the Red Desert Complex gather (Oct 15-27): 1,035 horses gathered from Stewart Creek and Green Mountain, 1,018 shipped to Wheatland, 17 deaths (one seizure; 16 euthanized for chronic conditions, eight of them for blindness, per Return to Freedom's reading of BLM reports). BLM plans about 1,800 removals across the complex; AML 480-720.",
+   "source_name": "BLM Red Desert Complex gather page",
+   "source_url": "https://www.blm.gov/programs/wild-horse-and-burro/herd-management/gathers-and-removals/wyoming/2026-red-desert-complex",
+   "kind": "official",
+   "related": [
+    "blm-whb"
+   ],
+   "topic": "red-desert"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Ninth Circuit rules that BLM's duty to remove excess horses 'immediately' means as promptly as logistically and reasonably possible, upholding plans for Nevada's Little Fish Lake (AML 79-132; 291 estimated in 2021) and Stone Cabin Complex (AML 242-404; 1,097 estimated) against ranchers Colvin & Son and Stone Cabin Ranch.",
+   "source_name": "Courthouse News Service",
+   "source_url": "https://www.courthousenews.com/ninth-circuit-says-immediate-removal-of-nevada-wild-horses-doesnt-mean-instant/",
+   "kind": "independent reporting",
+   "related": [
+    "blm-whb"
+   ],
+   "topic": "horses"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "BLM says the Bug and Fred Mountain fires burned 93,733 acres near Reno, including about 4,588 acres in the Dogskin Mountains HMA and 1,619 in Granite Peak, in explaining the 323-horse North Complex gather.",
+   "source_name": "BLM news release",
+   "source_url": "https://www.blm.gov/press-release/blm-helps-protect-wild-horses-near-reno-range-conditions-worsen",
+   "kind": "official",
+   "related": [
+    "blm-whb"
+   ],
+   "topic": "horses"
+  },
+  {
+   "date": "2026-10-29",
+   "text": "Outdoor Alliance says the Senate permitting bill (Bipartisan American Affordability and Jobs Act) would help transmission lines but cut public participation, Tribal consultation and Clean Water Act reviews; lawmakers hope to pass it before year's end.",
+   "source_name": "Outdoor Alliance",
+   "source_url": "https://www.outdooralliance.org/blog/2026/10/29/permitting-reform",
+   "kind": "advocacy claim",
+   "related": [],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-28",
+   "text": "The Wildlife Society reports a Center for Western Priorities analysis finding 99.1% of public comments opposed repealing the Roadless Rule; over 370,000 comments came in by Oct 6. Other groups have cited higher totals.",
+   "source_name": "The Wildlife Society",
+   "source_url": "https://wildlife.org/public-comments-overwhelmingly-oppose-roadless-rule-repeal/",
+   "kind": "advocacy claim",
+   "related": [
+    "cwp"
+   ],
+   "topic": "public-lands"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "Interior Secretary Burgum signs Secretarial Order 3454 to expand grazing: agencies must find more land for livestock, reinstate suspended allotments, renew permits for full 10-year terms, publish a map of grazing land and review limits on protecting livestock from predators.",
+   "source_name": "BLM news release",
+   "source_url": "https://www.blm.gov/press-release/secretary-burgum-signs-order-support-american-ranchers-expand-grazing-and-cut-red-tape",
+   "kind": "official",
+   "related": [
+    "ncba",
+    "plc"
+   ],
+   "topic": "grazing-and-prairie"
+  },
+  {
+   "date": "2026-10-27",
+   "text": "The Central Arizona Project's operator files to join Nevada's lawsuit against the federal Colorado River operating plan; general manager Brenda Burman says the plan could cut its share to zero in the worst case.",
+   "source_name": "Las Vegas Review-Journal",
+   "source_url": "https://www.reviewjournal.com/news/environment/arizona-water-district-files-bid-separate-from-state-to-join-colorado-river-lawsuit-3905911/",
+   "kind": "independent reporting",
+   "related": [],
+   "topic": "water-and-range"
+  },
+  {
+   "date": "2026-10-26",
+   "text": "BLM announces it completed the Sulphur HMA gather in western Utah (Oct 2-17): 257 horses gathered from an estimated 560 (AML 165-250), sent to Axtell and Sutherland corrals. Its gather page says 259.",
+   "source_name": "BLM announcement",
+   "source_url": "https://www.blm.gov/announcement/blm-completes-wild-horse-gather-utah-ensures-herd-and-land-health",
+   "kind": "official",
+   "related": [
+    "blm-whb"
+   ],
+   "topic": "horses"
+  },
+  {
+   "date": "2026-10-26",
+   "text": "Montana DNRC's final checklist environmental assessment finds no significant impact from American Prairie's plan to graze bison as well as cattle on State Lease 6732 (640 acres, Phillips County, 120 AUMs) with wildlife-friendly fencing.",
+   "source_name": "Montana DNRC",
+   "source_url": "https://dnrc.mt.gov/_docs/environmental-documents/agriculture/10-26-2026_Final-AP-2026-Bison-EA-Checklist-reduced.pdf",
+   "kind": "official",
+   "related": [
+    "american-prairie"
+   ],
+   "topic": "grazing-and-prairie"
+  },
+  {
+   "date": "2026-10-26",
+   "text": "KCUR (NPR) on the Sept 4 executive order to remove gray wolves from the endangered list: Interior Secretary Burgum has until Dec 3 to approve or deny it. Ranchers in the Upper Midwest want to be able to kill wolves; some scientists warn it may do more harm than good.",
+   "source_name": "KCUR",
+   "source_url": "https://www.kcur.org/environment-agriculture/2026-10-26/gray-wolves-trump-delist-endangered",
+   "kind": "independent reporting",
+   "related": [],
+   "topic": "wildlife"
+  },
+  {
+   "date": "2026-10-25",
+   "text": "Reclamation's weekly report: Lake Powell rises 6.96 feet in a week to 24% full; total system storage 32% vs 37% a year ago; Powell's water year 2027 inflow forecast is 39% of normal.",
+   "source_name": "Bureau of Reclamation weekly report",
+   "source_url": "https://www.usbr.gov/lc/region/g4000/weekly.pdf",
+   "kind": "official",
+   "related": [],
+   "topic": "water-and-range"
+  },
+  {
    "date": "2026-10-24",
    "text": "BLM's Red Desert Complex daily reports: 109 horses gathered on Oct 24 and 80 shipped, with no deaths. On Oct 23 BLM put down four horses (two of them blind, two with limb deformities), which it lists as pre-existing conditions. The daily reports add up to 776 gathered since Oct 16, against a fall target of about 1,035 from the Stewart Creek and Green Mountain areas.",
    "source_name": "BLM gather page",
@@ -2796,7 +2953,7 @@
   "WRA's Colorado River Final EIS statement is dated July 31, 2026 (out of window). A search summary that said October was wrong. EO 14425 (Sept 4) and the Las Vegas land sale (BLM, Sept 10) are before the window and appear only as context.",
   "Not confirmed, because I only saw them in search results: Montana's wolf quota cut to 300 (Daily Montanan, Aug 21), S. 5604 and its committee referral, the Utah v. Burgum case, and TRCP's Oct 23 permitting bill article. TWS's date on its S. 5653 post is missing."
  ],
- "key_numbers_updated": "2026-10-25",
+ "key_numbers_updated": "2026-11-01",
  "key_numbers_history": [
   {
    "date": "2026-10-24",
@@ -2836,6 +2993,26 @@
     "Greater sage-grouse cumulative decline": "77.9% (longest period reported); 1.9% decline 2024-2025",
     "Colorado River reservoirs": "Lake Powell 23% full; Lake Mead 26% full",
     "BLM land burned by wildfire in 2026": "over 3.3 million acres"
+   }
+  },
+  {
+   "date": "2026-11-01",
+   "values": {
+    "Estimated wild horses and burros on BLM land": "85,466 (61,523 horses; 23,943 burros)",
+    "Appropriate management level (AML)": "25,592 (high end, all herds)",
+    "Population by state vs high AML (total animals)": "NV 42,572 vs 12,811; AZ 13,814 vs 1,676; CA 8,467 vs 2,236; WY 7,165 vs 2,566; OR 6,080 vs 2,700; UT 4,843 vs 1,956; CO 1,669 vs 827; ID 564 vs 617; MT 195 vs 120; NM 97 vs 83",
+    "Animals in off-range holding": "58,025 (corrals 20,350; pastures 36,459; public pastures 1,216); capacity 78,751",
+    "FY2025 removals and placements": "7,853 removed; 8,080 placed (4,330 adoptions; 3,718 sales)",
+    "FY2025 fertility treatments": "921 (PZP 484; PZP-22 99; GonaCon 338)",
+    "FY2024 program money": "$142M appropriated; $153M spent; $101M (66%) on holding",
+    "New fertility-control money": "$30 million from USDA",
+    "Fall 2026 gathers in this file": "Red Desert WY 1,035 gathered Oct 15-27, 1,018 shipped, 17 deaths (target met); North Complex NV 323 (ended Oct 22); Sulphur UT 257 per BLM news release (gather page says 259); Sand Wash CO about 301 gathered (ended Sept 25); Riddle OR 140 gathered, 139 shipped (ended Oct 21); Pryor MT bait trap since Oct 19, up to 37 to be removed (daily reports show 14 caught Oct 25-28, status box says 3); next: Cedar Mountain and Swasey UT, 640 planned, starting Nov 2",
+    "BLM surface acres": "243,046,406",
+    "BLM grazing permits and active AUMs": "17,670 permits; 12,289,935 active AUMs",
+    "BLM livestock grazing: acres, fees and budget": "155M acres grazed; about $13M fee revenue; $106.3M rangeland program (FY2025)",
+    "Greater sage-grouse cumulative decline": "77.9% (longest period reported); 1.9% decline 2024-2025",
+    "Colorado River reservoirs": "Lake Powell 24% full; Lake Mead 26% full",
+    "BLM land burned by wildfire in 2026": "about 3.39 million acres"
    }
   }
  ],
