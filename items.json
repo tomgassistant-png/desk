@@ -4869,6 +4869,261 @@
      "note": "Nominatim"
     }
    ]
+  },
+  {
+   "id": "2026-11-01-attacks-giborei-david-shepherds-duma",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "attacks",
+   "headline": "Two Jewish shepherds from the Giborei David farm are attacked with sticks and stones near Duma; police arrest an Anata man",
+   "summary": "On Saturday morning, two Jewish shepherds from the Giborei David farm east of Duma in Binyamin were attacked while grazing their flock. In JSR's account, dozens of Arabs with sticks and stones ambushed them, both shepherds were hurt and treated by rescue teams, the flock was attacked, and far-left activists at the scene shouted support for the attackers (<a href=\"https://t.me/s/JSR_HEB/427\">JSR Telegram</a>, <a href=\"https://x.com/JSR_EN/status/2116568573036384352\">JSR on X</a>). JSR also posted video and the testimony of the teenage shepherd (<a href=\"https://x.com/i/status/2116577815030022620\">video</a>, <a href=\"https://x.com/i/status/2116635059935727958\">testimony</a>). Israel Hayom confirmed that two Jewish shepherds from the farm were hurt near Duma by Palestinians throwing stones and swinging sticks, and that a suspect was arrested (<a href=\"https://www.israelhayom.co.il/israelnow/article/21747534\">Israel Hayom</a>). Police told Walla that an Anata resident in his 50s was arrested on suspicion of assault after a report of \"friction\"; Judea and Samaria District police and the army gathered evidence, and he was questioned at the Binyamin station and held in custody (<a href=\"https://www.walla.co.il/news/breaking-news/383959582\">Walla</a>, <a href=\"https://www.srugim.co.il/newsflash/142404\">Srugim</a>). Elchanan Groner wrote that the teenager had bruises on his head (<a href=\"https://t.me/realelchangr/7140\">Groner Telegram</a>), and Eliav Libi wrote that soldiers took 35 minutes to arrive because an access road has not been opened (<a href=\"https://x.com/i/status/2116604859604435080\">Libi on X</a>); both are their own accounts. Peace Now's listing says the farm was set up in 2025 beside Route 505 and is also called \"Duma East\" (<a href=\"https://peacenow.org.il/settlements/settlement1335\">Peace Now</a>). Haaretz and the activists give a different version (three hurt, including a Palestinian); see the short item lower down.",
+   "source": "JSR / Israel Hayom / Walla",
+   "date": "2026-10-31",
+   "url": "https://www.israelhayom.co.il/israelnow/article/21747534",
+   "places": [
+    {
+     "name": "Duma",
+     "lat": 32.056,
+     "lon": 35.3661,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Giborei David farm",
+     "lat": 32.0664,
+     "lon": 35.3769,
+     "note": "Approximate: Amud Anan map point for the farm; exact attack spot not published"
+    }
+   ],
+   "lead": true,
+   "highlight": true
+  },
+  {
+   "id": "2026-11-01-attacks-ateret-harvest-activists-groner",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "attacks",
+   "headline": "Groner: Jonathan Pollak and far-left activists bring Palestinians to harvest near Ateret and Kerem Binyamin",
+   "summary": "Elchanan Groner wrote that activist Jonathan Pollak and other far-left activists brought Arabs to an olive harvest near Ateret and the Kerem Binyamin farm, which he called a \"harvest provocation\" (<a href=\"https://t.me/realelchangr/7144\">Groner Telegram</a>, <a href=\"https://x.com/i/status/2116592274565996657\">Groner on X</a>). This is Groner's account; no second source was found, so it is unconfirmed. Background on Pollak: <a href=\"https://tomgassistant-png.github.io/desk/jonathan-pollak/\">Jonathan Pollak page</a>.",
+   "source": "Elchanan Groner",
+   "date": "2026-10-31",
+   "url": "https://t.me/realelchangr/7144",
+   "places": [
+    {
+     "name": "Ateret",
+     "lat": 32.0005,
+     "lon": 35.1766,
+     "note": "Nominatim; Kerem Binyamin farm location not confirmed"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-negev-lod-kabbalat-shabbat-mechina-threatened",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "negev",
+   "headline": "Lod: young Arabs drifting cars threaten pre-army academy students holding Friday-evening prayers in the market",
+   "summary": "Makor Rishon reports that on Friday evening, students of a pre-army academy (mechina) who were holding the Kabbalat Shabbat prayers in the Lod market were confronted by young Arabs who drifted cars nearby, threatened to run them over and shouted \"barra, barra\" (Arabic for \"out, out\"). Police and Border Police broke up the crowd, and some of the young Arabs were reportedly detained. Residents told the paper that police also blamed the Jewish students (<a href=\"https://www.makorrishon.co.il/news/crime/article/387203\">Makor Rishon</a>). Only one source was found for this incident.",
+   "source": "Makor Rishon",
+   "date": "2026-10-31",
+   "url": "https://www.makorrishon.co.il/news/crime/article/387203",
+   "places": [
+    {
+     "name": "Lod",
+     "lat": 31.9489,
+     "lon": 34.8885,
+     "note": "Nominatim (city center); the market spot was not plotted exactly"
+    }
+   ],
+   "highlight": true
+  },
+  {
+   "id": "2026-11-01-negev-bitzaron-tahar-family-vehicles-stolen",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "negev",
+   "headline": "Thieves strike the farm of fallen Shin Bet fighter Yossi Tahar in Bitzaron for the second time",
+   "summary": "Overnight Friday to Saturday, thieves broke into the Tahar family farm in moshav Bitzaron in the south and stole a golf cart, an ATV, an off-road motorcycle and riding gear. Yossi Tahar, a commander in the Shin Bet's operational unit, was killed defending Kibbutz Mefalsim on Oct. 7, 2023. Similar equipment was stolen from the yard about a year ago. His widow, Liat Shor, said there are thefts in the moshav \"twice a week\" (<a href=\"https://www.ynet.co.il/news/article/bjtvr57pze\">Ynet</a>). Police have not said who is suspected.",
+   "source": "Ynet",
+   "date": "2026-10-31",
+   "url": "https://www.ynet.co.il/news/article/bjtvr57pze",
+   "places": [
+    {
+     "name": "Bitzaron",
+     "lat": 31.7951,
+     "lon": 34.7393,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-negev-lash-smuggling-arad-stolen-vehicles",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "negev",
+   "headline": "Ayelet Lash: about 220 smuggling vehicles into the Arad area in a week, and 11 stolen off-road vehicles taken to the south Hebron Hills",
+   "summary": "Reporter Ayelet Lash wrote that in one week about 220 vehicles smuggled about 2,000 illegal entrants from Judea and Samaria into the Arad area, and that 11 off-road vehicles stolen in the Negev were taken to the south Hebron Hills (<a href=\"https://x.com/i/status/2116645635399012663\">Lash on X</a>). She also wrote that a judge released suspects in the smuggling of 32 illegal entrants through a sewer pipe (<a href=\"https://x.com/i/status/2116629121413386472\">Lash on X</a>). These are her figures; no police or army source was found for them, so they are unconfirmed.",
+   "source": "Ayelet Lash (X)",
+   "date": "2026-10-31",
+   "url": "https://x.com/i/status/2116645635399012663",
+   "places": [
+    {
+     "name": "Arad",
+     "lat": 31.2612,
+     "lon": 35.2146,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-negev-hummer-tiktok-unconfirmed",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "negev",
+   "headline": "Unconfirmed: Groner says a TikTok video shows the stolen army Hummer in the hands of a Bedouin group in the Negev",
+   "summary": "Following the theft of an army Hummer from the Julis base (see the 31 Oct edition), Elchanan Groner wrote that a TikTok video seems to show the vehicle held by a Bedouin \"militia\" in the Negev (<a href=\"https://t.me/realelchangr/7143\">Groner Telegram</a>). The army and police have not confirmed this, and the video was not checked.",
+   "source": "Elchanan Groner",
+   "date": "2026-10-31",
+   "url": "https://t.me/realelchangr/7143",
+   "places": [
+    {
+     "name": "Negev",
+     "lat": 31.2456,
+     "lon": 34.8578,
+     "note": "Approximate: no place was named; point set at Tel Sheva area"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-negev-zemer-shooting-triangle",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "negev",
+   "headline": "Triangle: a man about 30 is badly hurt in a shooting in Zemer; police suspect a criminal motive",
+   "summary": "A man about 30 years old was badly hurt in a shooting in Zemer on Saturday night. Taibe police opened a search for the shooters and suspect a criminal background (<a href=\"https://www.c14.co.il/article/1766131/\">Channel 14</a>). Srugim and Maariv reported the same; Maariv also reported a 24-year-old moderately hurt in Umm al-Fahm, a 44-year-old woman moderately hurt in Tel Sheva and an 18-year-old moderately hurt in Pardes Hanna over the weekend.",
+   "source": "Channel 14",
+   "date": "2026-10-31",
+   "url": "https://www.c14.co.il/article/1766131/",
+   "places": [
+    {
+     "name": "Zemer",
+     "lat": 32.3622,
+     "lon": 35.0325,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Umm al-Fahm",
+     "lat": 32.5158,
+     "lon": 35.1525,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-pa-itamar-eitam-enters-knesset",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "pa",
+   "headline": "Itamar Eitam, son of Effi Eitam, enters the Knesset in the last seat of Religious Zionism",
+   "summary": "Israel Hayom's list of the MKs who got in on the last seat of their party includes Lt. Col. (res.) Itamar Eitam, last on the Religious Zionism slate, which won six seats. He commanded a reserve battalion, was badly wounded in Gaza during the war and returned to command it. He is the son of Brig. Gen. (res.) Effi Eitam, a former National Religious Party minister under Ariel Sharon (<a href=\"https://www.israelhayom.co.il/news/politics/article/21745247\">Israel Hayom</a>). Final seat counts are still subject to the official results.",
+   "source": "Israel Hayom",
+   "date": "2026-10-31",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21745247",
+   "places": [
+    {
+     "name": "Knesset, Jerusalem",
+     "lat": 31.7765,
+     "lon": 35.2054,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-land-luxembourg-settlement-goods-ban",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "land",
+   "headline": "Luxembourg prepares to ban imports of goods from Judea and Samaria, though the trade is worth only about 10,000 to 15,000 euros",
+   "summary": "Ynet reports that Luxembourg, which recognized a Palestinian state last year, is preparing to ban imports of goods from Israeli communities in Judea and Samaria without waiting for an EU decision. About two weeks ago its government approved an amendment to its 2018 foreign trade law allowing national import limits, and a separate bill to ban settlement goods outright was filed in parliament; neither is final. Local estimates put the direct trade at only 10,000 to 15,000 euros (about 35,000 to 52,000 shekels), so the step is symbolic (<a href=\"https://www.ynet.co.il/news/article/bkygy2xaml\">Ynet</a>). The Netherlands has already banned such trade, according to Ynet.",
+   "source": "Ynet",
+   "date": "2026-10-31",
+   "url": "https://www.ynet.co.il/news/article/bkygy2xaml",
+   "places": [
+    {
+     "name": "Luxembourg",
+     "lat": 49.8159,
+     "lon": 6.1297,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-land-haaretz-dagan-profile",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "land",
+   "headline": "Haaretz profiles Samaria council head Yossi Dagan as the man driving roads, funding and foreign support",
+   "summary": "A long Haaretz feature by Hagai Amit calls Samaria Regional Council head Yossi Dagan \"King of Samaria\" and describes how he gets ministers to listen, funding to flow and foreign politicians to back his cause. It opens at the new Paduel bus terminal, which it says cost 10 million shekels, and the larger Rehalim terminal, which Dagan says cost 40 million (<a href=\"https://www.haaretz.com/israel-news/israel-security/2026-10-31/ty-article-magazine/.highlight/king-of-samaria-how-a-settler-council-head-runs-israels-west-bank-policy/000001a1-8166-d6da-a7eb-e7fff1b70000\">Haaretz</a>). The paper frames this as a drive toward annexation; the figures were not checked elsewhere.",
+   "source": "Haaretz",
+   "date": "2026-10-31",
+   "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-31/ty-article-magazine/.highlight/king-of-samaria-how-a-settler-council-head-runs-israels-west-bank-policy/000001a1-8166-d6da-a7eb-e7fff1b70000",
+   "places": [
+    {
+     "name": "Rehalim",
+     "lat": 32.1028,
+     "lon": 35.257,
+     "note": "Nominatim (community; the bus terminal itself was not plotted)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-idf-jordan-stops-armed-group-from-syria",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "idf",
+   "headline": "Jordan says it stopped 14 armed men trying to cross from Syria",
+   "summary": "Jordan's armed forces said on Saturday that border guards stopped a group of 14 armed men trying to cross into northern Jordan from Syria, under heavy fire, with many casualties among the group (<a href=\"https://www.haaretz.com/middle-east-news/jordan/2026-10-31/ty-article/jordan-says-it-stopped-an-armed-group-of-14-who-attempted-to-cross-from-syria/000001a1-9129-d8a4-a7b5-bfbf36cf0000\">Haaretz/Reuters</a>). It matters for the eastern border and weapons smuggling toward Judea and Samaria; no link to smuggling into Israel was reported.",
+   "source": "Haaretz / Reuters",
+   "date": "2026-10-31",
+   "url": "https://www.haaretz.com/middle-east-news/jordan/2026-10-31/ty-article/jordan-says-it-stopped-an-armed-group-of-14-who-attempted-to-cross-from-syria/000001a1-9129-d8a4-a7b5-bfbf36cf0000",
+   "places": [
+    {
+     "name": "Jordan-Syria border (north Jordan)",
+     "lat": 32.4,
+     "lon": 36.2,
+     "note": "Approximate: no crossing point was named"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-attacks-haaretz-activist-claims-harvest-duma",
+   "edition": "2026-11-01",
+   "published": "2026-11-01T04:45:00+02:00",
+   "letter": "PA security: 1 Nov 2026",
+   "section": "attacks",
+   "headline": "Haaretz and activist claims: soldiers halt a south Hebron Hills harvest; another version of the Duma clash",
+   "summary": "Haaretz (Matan Golan) reports that soldiers stopped a Palestinian olive harvest in the south Hebron Hills after consulting an armed settler and told activists to leave the olives behind; the paper says there was no closure order. The army had not commented (<a href=\"https://www.haaretz.co.il/news/politics/2026-10-31/ty-article/.premium/000001a1-933d-d8a4-a7b5-bfbf24ee0000\">Haaretz</a>). On the Duma clash, Haaretz and activists say three people were hurt, including a Palestinian, and that police first held the Palestinian and two shepherds. These are their accounts.",
+   "source": "Haaretz",
+   "date": "2026-10-31",
+   "url": "https://www.haaretz.co.il/news/politics/2026-10-31/ty-article/.premium/000001a1-933d-d8a4-a7b5-bfbf24ee0000",
+   "places": [
+    {
+     "name": "South Hebron Hills",
+     "lat": 31.4011,
+     "lon": 35.1087,
+     "note": "Approximate: Nominatim point near Susya; exact grove not named"
+    }
+   ]
   }
  ],
  "highlight_count": 9,

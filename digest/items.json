@@ -921,6 +921,10 @@
   "2026-10-31": {
    "intro": "Israel: the Mossad joins the foreign-interference probe, the Ra'am activists are likely to be freed, and coalition jockeying continues; no new official results (Herzog receives them 4 November). Also: 13 charged in Lebanon over a Hezbollah explosives truck, Sheikh Tarif on who arms and pays for Syria's rulers, Flávio Bolsonaro's first video from the US and Brazil's worst market week since 2008, Lagarde's early exit from the ECB, Quebec's plan to bar religious symbols for elementary pupils, a court defeat for xAI over its Mississippi turbines, SpaceX's $500 billion slide, the Burnham–Swinney–ap Iorwerth meeting in Glasgow, and Net Void unlocking her X account in Cypherboria.",
    "quiet": "Nothing material on the Carney case (no news since early October), Israeli data centers, non-Latin script digitization, Colombia and Israel (only a minor story about the Israeli ambassador's school video), Trump and Xi (commentary only), Greenland (Trump's oil-and-gas claim is from 14 October), Belle Burden, Trenton, Marc Andreessen or HaShiloach (no new essay since 24 September)."
+  },
+  "2026-11-01": {
+   "intro": "Israel: Herzog's consultations start Wednesday, Eisenkot sets conditions for joining him and plans to replace the Knesset speaker, Deri weighs leaving the Shas leadership, and rallies back a government with Arab parties; no new official results. Also: a UN official wounded in Druze infighting in Sweida (Syria), Rubio and Trump on Flávio Bolsonaro, France's third Saturday of protests and a poll roundup, Carney's offer to meet the Quebec premier, the Quad's summit plans before Trump meets Xi, Trump's Greenland image, xAI's coming watermark on Grok API text, and Land's conversation with Conrad Flynn in Cypherboria.",
+   "quiet": "Nothing material on Lebanon itself (only the Sweida story), the Carney case, Israeli data centers, non-Latin script digitization, Colombia and Israel, Belle Burden, UK breakup politics, HaShiloach (no new essay), Trenton (only high-school sports and a statewide e-bike story), or Marc Andreessen."
   }
  },
  "items": [
@@ -8118,6 +8122,302 @@
     {
      "name": "Curtis Yarvin on X: Lodge launch",
      "url": "https://x.com/curtis_yarvin/status/2116318681055826267"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-israel-election-1",
+   "edition": "2026-11-01",
+   "section": "israel-election",
+   "headline": "Herzog's consultations with the parties start Wednesday and will be broadcast live; Polymarket narrows to Netanyahu 41.5, Eisenkot 34",
+   "lead": "President Isaac Herzog's consultations with party representatives on who should form the next government will begin on Wednesday, 4 November, and will be broadcast live from the President's Residence (Haaretz, 31 October). No new official results were published: the final count of 30 October stands, and the new Knesset is due to be sworn in on 10 November.",
+   "text": "On Polymarket's next-prime-minister market at about 4:30 AM Israel time on 1 November, Netanyahu was at 41.5 percent (43 a day earlier), Gadi Eisenkot 34.35 (33.3), Naftali Bennett 4.6 and Avigdor Lieberman 3.6.",
+   "sources": [
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-31/ty-article/.premium/president-herzog-to-begin-talks-with-parties-on-forming-next-israeli-government/000001a1-92f2-d125-a3b1-f7f602840000"
+    },
+    {
+     "name": "Polymarket: next prime minister",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-israel-election-2",
+   "edition": "2026-11-01",
+   "section": "israel-election",
+   "headline": "Eisenkot sets four conditions for joining his government and plans to replace Speaker Ohana; Lieberman says he does not want the speaker's job",
+   "lead": "Gadi Eisenkot said any lawmaker can join his government who accepts four principles: Israel as a Jewish and democratic state, the Declaration of Independence, mandatory military or civilian service for all, and treating Hamas as a terrorist group (Haaretz). He also listed his first steps once the Knesset is sworn in, among them a state commission of inquiry and repeal of the judicial overhaul laws, and wrote that the low turnout demands \"a supreme effort\" to avoid another election (Ynet).",
+   "text": "Ynet reports that the change bloc plans to replace Knesset Speaker Amir Ohana at the first session after the swearing-in, while Likud tries to block the move, cast the Arab parties as illegitimate and find wavering lawmakers; Eisenkot's main target is the Haredi parties. Lieberman denied reports that he is demanding the speaker's post: \"I have no intention\" (Srugim). Eisenkot met Yair Lapid on Saturday evening, and Degel HaTorah is consulting its rabbis on its next step (Srugim). Ahmad Tibi of the Joint List sent Eisenkot a public message about the Arab parties' role (Srugim).",
+   "sources": [
+    {
+     "name": "Haaretz: Eisenkot's principles",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-31/ty-article/.premium/eisenkot-door-open-to-any-lawmaker-willing-to-accept-principles/000001a1-9333-d8ec-a9b7-f7bf0ac90000"
+    },
+    {
+     "name": "Ynet: Eisenkot's plan",
+     "url": "https://www.ynet.co.il/news/article/bysmrjq6gg"
+    },
+    {
+     "name": "Ynet: the fight over the speaker",
+     "url": "https://www.ynet.co.il/news/article/b10udhqtfl"
+    },
+    {
+     "name": "Srugim: Lieberman",
+     "url": "https://www.srugim.co.il/101014885-ליברמן-חושף-את-ההצעה-שקיבל-ומודיע-אין-לי"
+    },
+    {
+     "name": "Srugim: Eisenkot and Lapid meet",
+     "url": "https://www.srugim.co.il/101014886-איזנקוט-ולפיד-נפגשו-בדגל-התורה-בוחנים"
+    },
+    {
+     "name": "Srugim: Tibi",
+     "url": "https://www.srugim.co.il/101014890-אחמד-טיבי-במסר-חד-משמעי-לגדי-איזנקוט"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-israel-election-3",
+   "edition": "2026-11-01",
+   "section": "israel-election",
+   "headline": "Likud phone calls to Yashar! lawmakers spark a row; Deri weighs leaving the Shas leadership after the party falls to 6 seats",
+   "lead": "Ynet reports that Likud figures, among them Bardugo, Kish and Almog Cohen, phoned newly elected Yashar! members; Likud answered that \"Gadi is under pressure\" (Ynet). Minister Orit Strock wrote \"Guilty!\": she called her \"good friend\" Tal Ohana to congratulate her on entering the Knesset (Maariv).",
+   "text": "Shas chairman Aryeh Deri is weighing his political future after the party won only 6 seats, the same as in 1992; one option is to become a figurehead \"president\" of the movement (Ynet). Srugim reports that former minister Ariel Atias is being mentioned as a possible successor. In the Negev vote-buying case, Lahav 433 investigators expect the three suspects to be released to house arrest unless strong new evidence turns up; the suspects say the money went to needy families (Ynet).",
+   "sources": [
+    {
+     "name": "Ynet: the calls and Eisenkot's reply",
+     "url": "https://www.ynet.co.il/news/article/bysmrjq6gg"
+    },
+    {
+     "name": "Maariv: Strock",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383308"
+    },
+    {
+     "name": "Ynet: Deri",
+     "url": "https://www.ynet.co.il/news/article/sjzmzo7pgx"
+    },
+    {
+     "name": "Srugim: possible Shas successor",
+     "url": "https://www.srugim.co.il/101014882-מסתמן-זה-המועמד-להחליף-את-אריה-דרעי"
+    },
+    {
+     "name": "Ynet: vote-buying suspects",
+     "url": "https://www.ynet.co.il/news/article/sknbejqaze"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-israel-election-4",
+   "edition": "2026-11-01",
+   "section": "israel-election",
+   "headline": "Thousands rally for a government that includes Arab parties; Polymarket checks a burst of last-minute bets on a Netanyahu win",
+   "lead": "On Saturday, 31 October, demonstrators in Tel Aviv, Jerusalem, Haifa and the north called for a government with the Arab parties, while right-wing, pro-Netanyahu demonstrators rallied against any such cooperation and called for a new election (Haaretz).",
+   "text": "Haaretz reports that Polymarket is looking into hundreds of new accounts that bet on a Netanyahu win shortly before voting ended on Tuesday; one wallet, created 18 minutes before the polls closed, staked $14,000 and cashed out $42,000. The probe of the betting was first reported on 30 October; the wallet details are new.",
+   "sources": [
+    {
+     "name": "Haaretz: rallies",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-31/ty-article/.premium/thousands-rally-across-israel-calling-for-arab-parties-inclusion-in-government/000001a1-9291-d03f-aded-daffb56c0000"
+    },
+    {
+     "name": "Haaretz: Polymarket probe",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-31/ty-article/report-polymarket-probes-suspicious-last-minute-bets-on-netanyahu-election-win/000001a1-926c-d8a4-a7b5-befe384f0000"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-lebanon-1",
+   "edition": "2026-11-01",
+   "section": "lebanon",
+   "headline": "Sweida (Syria): UN refugee agency's local chief wounded in clashes between Druze National Guard groups",
+   "lead": "Ali Bibi, a Jordanian who heads the UN refugee agency's (UNHCR) office in Sweida and coordinates its work in southern Syria, was hit by shrapnel on Thursday evening, 29 October, during armed clashes between groups belonging to the \"National Guard\" in Sweida city, the Druze-led force that controls the province (Watar Amman; Roya).",
+   "text": "Watar Amman says the fighting began over a dispute at a roadside fuel stand and escalated to heavier weapons. Bibi was treated at a Sweida hospital and moved to Jordan, where shrapnel was removed in surgery; UNHCR Jordan spokesman Yousef Taha told Roya that his condition is stable. The Kurdish agency Hawar reported three people injured in armed clashes in Sweida on 30 October.",
+   "sources": [
+    {
+     "name": "Watar Amman",
+     "url": "https://wataramman.com/jordanian-unhcr-official-ali-bibi-injured-sweida-clashes/"
+    },
+    {
+     "name": "Roya News",
+     "url": "https://en.royanews.tv/news/75527/Jordanian-UN-official-injured-on-mission-in-Syria%2C-undergoes-surgery-in-Jordan"
+    },
+    {
+     "name": "Hawar News",
+     "url": "https://hawarnews.com/en/3-people-injured-in-armed-clashes-in-sweida"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-brazil-1",
+   "edition": "2026-11-01",
+   "section": "brazil",
+   "headline": "Rubio: the US \"did not directly participate\" in Flávio Bolsonaro's escape; Trump says he can stay \"as long as he wants\" but will not meet him",
+   "lead": "Secretary of State Marco Rubio said on Saturday, 31 October, that the US was not involved in the arrangements and that at least the US government did not take part directly in Flávio Bolsonaro's departure from Brazil, after The Wall Street Journal reported that White House adviser Jason Miller helped arrange the private plane (VEJA). Trump said at Mar-a-Lago that Bolsonaro may stay \"as long as he wants\" but that he has no plan to meet him (Israel National News).",
+   "text": "Lula's institutional relations minister, José Guimarães, said that the Bolsonaro family has become \"a political burden\" for Trump and backed the hashtag #DeportTheBolsonaros. Foreign Minister Mauro Vieira and Rubio spoke briefly at the G20 foreign ministers' reception in Atlanta on 30 October and agreed to hold a bilateral meeting before the G20 summit in Miami on 14–15 December (Agência Brasil). Democratic lawmakers have sent Rubio a letter about the case. Flávio is under investigation over R$60 million that banker Daniel Vorcaro paid toward the film Dark Horse and over his ties to lawyer Willer Tomaz.",
+   "sources": [
+    {
+     "name": "VEJA",
+     "url": "https://veja.abril.com.br/politica/o-que-disse-ministro-de-lula-sobre-declaracao-de-rubio-apos-fuga-de-flavio-bolsonaro/"
+    },
+    {
+     "name": "Israel National News",
+     "url": "https://www.inn.co.il/flashes/1138782"
+    },
+    {
+     "name": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/vieira-encontra-rubio-nos-eua-apos-vitoria-de-lula-e-fuga-de-flavio"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-france-election-1",
+   "edition": "2026-11-01",
+   "section": "france-election",
+   "headline": "Third Saturday of protests: 320,000 marchers by official count, fewer than last week; 520 arrests and a curfew in parts of Paris",
+   "lead": "The Interior Ministry counted 320,000 marchers across France on 31 October, 70,000 of them in Paris, down from 410,000 and 110,000 on 24 October; the youth union coalition counted nearly 500,000, 200,000 in Paris, down from 800,000 and 250,000 (franceinfo). Some 70,000 police and gendarmes were deployed, and the Paris march started from Porte de Bagnolet after the Council of State upheld the ban on the usual Bastille–Nation route.",
+   "text": "There were clashes at the end of the Paris march at Porte de Charenton, in Marseille (an undeclared march of up to 10,000), in Lyon (Place Jean-Macé) and in Rennes (13,500 marchers). Arrests reached 511 by 8 PM by franceinfo's count and 520 by France 24's, against about 1,000 a week earlier; police made 40,000 checks. Interior Minister Laurent Nuñez blamed \"ultra-left\" groups and called a Molotov cocktail thrown at a gendarme in Paris an \"attempted murder\" (the gendarme was lightly hurt). A new curfew covers some parts of Paris from 11 PM to 6 AM on the nights of Saturday and Sunday (France 24). Next: high-school and university blockades on Tuesday and Thursday, a strike and march day called by the CFDT, CGT, FO, Unsa and FSU on Thursday, 5 November, and a yellow-vest (gilets jaunes) call to continue on 6–7 November. Polymarket at about 4:30 AM Israel time on 1 November: Le Pen 40.55 percent (41.15 a day earlier), Lisnard 16.95 (20.15), Philippe 13.5, Mélenchon 11.5 (10.5), Lagarde 5.7 (4.15), Glucksmann 2.35, Bardella 1.9 and Hollande 1.85.",
+   "sources": [
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-importante-mais-en-baisse-heurts-en-marge-de-certains-corteges-centres-villes-sous-haute-protection-ce-qu-il-faut-retenir-de-la-journee-de-mobilisation-du-31-octobre_8262017.html"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/fr/france/20261031-acte-iii-de-la-col%C3%A8re-sociale-320-000-manifestants-en-france-selon-le-minist%C3%A8re-de-l-int%C3%A9rieur"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-france-election-2",
+   "edition": "2026-11-01",
+   "section": "france-election",
+   "headline": "Polls over the past weeks: Le Pen leads, Mélenchon and Glucksmann rise, Philippe slips",
+   "lead": "Le Parisien's 31 October roundup of recent polls: Marine Le Pen stood at 35 percent in Toluna-Harris Interactive's 12 October poll (37 percent if Édouard Philippe withdraws for Gabriel Attal) and at 33.5 percent in Ipsos-BVA-Cési's 24 October poll (35 in September; margin of error 2.9 points). In Odoxa's 27 October survey her approval rose 3 points and her rejection fell 3.",
+   "text": "Jean-Luc Mélenchon went from 16–17 percent (Toluna-Harris Interactive, 14 September) to 17–19 percent (Toluna-Harris Interactive, 23 October) and reaches the runoff in every scenario tested; his Odoxa approval rose 2 points, and 7 points among left-wing voters, to 52 percent. Philippe tops out at 16 percent (23 October), against 19 in mid-September, and no longer reaches the runoff in any scenario; Attal is at 11 percent (23 October). Raphaël Glucksmann, who won the Socialist primary on 11 October, is at 14 percent (23 October, up 2) and gained 4 points of approval in Odoxa. David Lisnard is at 6.5 percent (Ipsos-BVA-Cési, 24 October), ahead of Bruno Retailleau; Marine Tondelier is at 3.5 percent and Éric Zemmour gained 1.5 points.",
+   "sources": [
+    {
+     "name": "Le Parisien",
+     "url": "https://www.leparisien.fr/politique/melenchon-le-pen-et-glucksmann-progressent-le-centre-recule-ce-que-disent-les-sondages-des-dernieres-semaines-candidat-par-candidat-31-10-2026-7LFTYQVCABHWJOHACS5U7P5XKQ.php"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-quebec-1",
+   "edition": "2026-11-01",
+   "section": "quebec",
+   "headline": "Carney offers to meet Premier St-Pierre Plamondon within about ten days and lists federal money for Quebec",
+   "lead": "In an exclusive interview with La Presse, Prime Minister Mark Carney offered to meet Premier Paul St-Pierre Plamondon within about ten days, in Montreal or Ottawa, before the Francophonie Summit in Cambodia on 14–17 November. The offer follows St-Pierre Plamondon's boycott of the Canada–EU summit.",
+   "text": "Carney listed federal commitments to Quebec: the Port of Montreal's Contrecœur terminal, $10 billion over ten years for infrastructure, $10 billion toward the Churchill Falls and Gull Island projects, $11 billion for icebreakers from Davie, and $4.7 billion for VIA Rail cars from Alstom's La Pocatière plant. He wants to hear the premier's intentions on the Churchill Falls deal with Newfoundland and Labrador, and plans for the 2028 Francophonie Summit in Ottawa-Gatineau to be organized with St-Pierre Plamondon and New Brunswick Premier Susan Holt. The federal budget is due on 5 November, and Carney said any trade deal with the US would still leave some tariffs in place.",
+   "sources": [
+    {
+     "name": "La Presse+ (Joël-Denis Bellavance)",
+     "url": "https://plus.lapresse.ca/screens/afd8f86e-c773-447a-99e9-f43a518bb807|_0.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-trump-and-xi-1",
+   "edition": "2026-11-01",
+   "section": "trump-and-xi",
+   "headline": "Quad foreign ministers set a leaders' summit in Manila weeks before Trump meets Xi; Rubio says the group is \"not anti-China\"",
+   "lead": "Meeting on the sidelines of the G20 foreign ministers' talks in Atlanta on 31 October, the US, Japan, India and Australia agreed to hold the first Quad leaders' summit in two years in Manila in November; the date has not been announced. It will come weeks before Trump meets Xi Jinping in Shenzhen (SCMP).",
+   "text": "Rubio said the Quad is \"not an anti-China or anti-anybody coalition,\" though some of the behavior it worries about is \"coming repeatedly from one country\" (The Tribune, from ANI). The joint statement voices \"grave concerns\" about economic coercion and overcapacity without naming a country, pledges more than $85 million for trusted AI through a Quad AI Accelerator and $10 million for recovering minerals from electronic waste, backs freedom of navigation in the Strait of Hormuz, the Red Sea and Bab el-Mandeb, and schedules a meeting of the four countries' export credit agencies in Tokyo on 18 November (SCMP).",
+   "sources": [
+    {
+     "name": "South China Morning Post",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting"
+    },
+    {
+     "name": "The Tribune (ANI)",
+     "url": "https://www.tribuneindia.com/news/usa-news/quad-not-anti-china-or-anti-anybody-coalition-says-marco-rubio/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-greenland-1",
+   "edition": "2026-11-01",
+   "section": "greenland",
+   "headline": "Trump posts an AI image of a US base covering Greenland as Ilulissat's new airport opens",
+   "lead": "On Saturday, 31 October, Trump posted an AI-generated image on Truth Social showing a US military base covering Greenland, just as Greenland celebrated the opening of its new international airport at Ilulissat (The Independent).",
+   "text": "The airport, the last of three new ones, opened on 29 October (reported here on 30 October). No response from the Greenland or Danish governments was found.",
+   "sources": [
+    {
+     "name": "The Independent",
+     "url": "https://www.independent.co.uk/bulletin/news/trump-greenland-ai-photo-airport-b3076878.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-spacex-xai-and-cursor-1",
+   "edition": "2026-11-01",
+   "section": "spacex-xai-and-cursor",
+   "headline": "From 7 November, xAI will put an invisible watermark in Grok API text, to meet the EU AI Act",
+   "lead": "xAI's developer documentation says that from 7 November 2026, text from the Grok API will carry an invisible statistical watermark by default, to comply with the EU AI Act's transparency rules (Article 50, in force since 2 August 2026). It covers grok-4.7, 4.6, 4.5 and 4.3 and the grok-4.20 reasoning, non-reasoning and multi-agent models.",
+   "text": "The mark covers ordinary text, structured output and tool-call arguments on all endpoints. It works by shaping which words the model picks, adding no hidden characters, and a response header, x-watermark, reads \"true\" when output is marked. Team administrators can turn it off per model in the console by attesting that a legal exception applies, but some models cannot be opted out. Detection is statistical and available on application (xAI docs; TeslaNorth).",
+   "sources": [
+    {
+     "name": "xAI docs: watermarking",
+     "url": "https://docs.x.ai/developers/advanced-api-usage/watermarking"
+    },
+    {
+     "name": "TeslaNorth",
+     "url": "https://teslanorth.com/2026/10/31/grok-api-watermark-november/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-cypherboria-1",
+   "edition": "2026-11-01",
+   "section": "cypherboria",
+   "headline": "Land and Conrad Flynn meet at last in a three-hour conversation on The Dangerous Maybe",
+   "lead": "Michael Downs's YouTube channel The Dangerous Maybe posted \"Nick Land and Conrad Flynn in Conversation\" (3 hours 17 minutes) at about 7:00 PM Israel time on 31 October. Downs and his co-host Nance (Three Billion Nances) are joined by Land and by Flynn, who had discussed Land's work on Tucker Carlson's podcast; Downs calls it a conversation \"over a year in the making.\"",
+   "text": "Downs (@JutlandGhost) announced it as a Halloween episode, and Doomcrypt reposted it. The description also promotes Downs's November course on Land's Xenosystems at Philosophy Portal (reported here on 26 October) and Flynn's Substack. The video page was checked for date and length, not watched in full. Also new, but only about Land: C. Derick Varn's 29 October video \"Bottomless and Bottomless: Nick Land's Meltdown and Critique of Miserabilism\" (2 hours 46 minutes), with Grady.",
+   "sources": [
+    {
+     "name": "YouTube: The Dangerous Maybe",
+     "url": "https://www.youtube.com/watch?v=mkA9NS09ktA"
+    },
+    {
+     "name": "X: @JutlandGhost announcement",
+     "url": "https://x.com/JutlandGhost/status/2116578875434217743"
+    },
+    {
+     "name": "YouTube: C. Derick Varn",
+     "url": "https://www.youtube.com/watch?v=XEz_VWyLFCI"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-01-cypherboria-2",
+   "edition": "2026-11-01",
+   "section": "cypherboria",
+   "headline": "A Nick Land card for Canon: TCG, a philosophers' trading card game on Kickstarter; Doomcrypt shares the art and Net Void reposts it",
+   "lead": "Doomcrypt (@doomcrypt) posted on 31 October that new art for the Nick Land card in Canon: TCG, \"The Liberating Arts Canon Trading Card Game\" by David McKerracher, is out, drawn by Franklin Calles, tagging @xenocosmography. Net Void and resonatingloop reposted it.",
+   "text": "The game's Kickstarter campaign is in its last days: on the evening of 30 October its account posted \"64 hours and counting,\" which puts the end at about 3 November (an estimate). Doomcrypt also flagged a new post by @AOElection \"about the hydro-cycle and the Iron Law of Six.\" Net Void's other posts: a Halloween greeting, a quote post offering to \"talk about decodes regarding the Cathedral,\" and a repost of Curtis Yarvin's \"Start the lodge you want to join.\" Land's own posts were not on the section's themes. Nothing new from Cyphers News uploads, @Mortal_Series, PHYTHAGRAM, D.W. Pasulka, Truth is Christ, Ryan Haecker and Methexis, Jacques Vallée, ReynoldsRetro, or Retrochronic (still v1.0.176).",
+   "sources": [
+    {
+     "name": "X: Doomcrypt, Land card",
+     "url": "https://x.com/doomcrypt/status/2116522574138241057"
+    },
+    {
+     "name": "Kickstarter: Canon: TCG",
+     "url": "https://www.kickstarter.com/projects/canontcg/canon-tcg"
+    },
+    {
+     "name": "X: Canon_TCG, 64 hours",
+     "url": "https://x.com/Canon_TCG/status/2116302794168893728"
+    },
+    {
+     "name": "X: Doomcrypt on AOElection's post",
+     "url": "https://x.com/doomcrypt/status/2116531225523523942"
+    },
+    {
+     "name": "X: Net Void, Cathedral decodes",
+     "url": "https://x.com/i/status/2116698560964219258"
     }
    ]
   }
