@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T04:14+02:00",
+ "updated": "2026-11-02T04:13+02:00",
  "podcasts": [
   {
    "title": "Parapsychology and the Media with Joe McMoneagle (4K Reboot)",
@@ -22,6 +22,28 @@
    "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740",
    "note": "The biologist Rupert Sheldrake on telepathy and his theory of morphic fields (the idea that nature has a kind of collective memory), plus his speculation that plasma could be a form of life and that the sun may be conscious.",
    "interest": "Psychology and consciousness; nature of the phenomenon (the idea of intelligent plasma)"
+  },
+  {
+   "title": "Conscious Living, Conscious Dying, Part II, with Stephen Levine (1937 - 2016)",
+   "url": "https://www.youtube.com/watch?v=ccWUoQQdD6A",
+   "source": "New Thinking Allowed",
+   "date": "2026-10-31",
+   "guest": "Stephen Levine",
+   "youtube": "https://www.youtube.com/watch?v=ccWUoQQdD6A",
+   "podcast": "",
+   "note": "An archival Thinking Allowed program from about 1994 in which the late meditation teacher Stephen Levine, who worked with the dying, argues that we should take pain into the heart rather than wall it off, and talks about using imagery in healing. Judged from the video description; the channel says it stays public for only one week.",
+   "interest": "Psychology and consciousness (death and awareness)"
+  },
+  {
+   "title": "The UFO Community Has a BIG Problem Nobody Wants to Talk About | w/ Filmmaker Darcy Weir",
+   "url": "https://www.youtube.com/watch?v=DTeqmNx6hj0",
+   "source": "UAP Files Podcast",
+   "date": "2026-10-31",
+   "guest": "Darcy Weir",
+   "youtube": "https://www.youtube.com/watch?v=DTeqmNx6hj0",
+   "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/The-UFO-Community-Has-a-BIG-Problem-Nobody-Wants-to-Talk-About--w-Filmmaker-Darcy-Weir-e3rdiaf",
+   "note": "The documentary filmmaker argues that UFO celebrities, money and infighting inside the UFO world may do more to block answers than government secrecy, and describes what he says were Steven Greer's financial demands for an interview. Judged from the episode description.",
+   "interest": "Psychology of belief in the UFO world; disclosure (secondary)"
   },
   {
    "title": "Æ: The Forgotten Mystic with James Tunney (4K Reboot)",
@@ -77,17 +99,6 @@
    "guest": "Jacques Vallée",
    "youtube": "https://www.youtube.com/watch?v=vSeDQpYAKOY",
    "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/Jacques-Valle-AI-Could-Contact-UFOs-Before-We-Do-e3r09cs"
-  },
-  {
-   "title": "From Here to Alternity with John C. Lilly",
-   "url": "https://www.youtube.com/watch?v=u2JV1skRQjU",
-   "source": "New Thinking Allowed",
-   "date": "2026-10-24",
-   "guest": "John C. Lilly",
-   "youtube": "https://www.youtube.com/watch?v=u2JV1skRQjU",
-   "podcast": "",
-   "note": "An archival interview with John C. Lilly, the dolphin and isolation-tank researcher who wrote Programming and Metaprogramming in the Human Biocomputer. He argues that every limit in the mind is a belief to be tested, while the body has real limits.",
-   "interest": "Psychology and consciousness; control mechanisms (the mind as programmable)"
   },
   {
    "title": "Top Religious Scholar: “Aliens Aren’t What You Think!”",
@@ -154,17 +165,6 @@
    "guest": "Diana Walsh Pasulka",
    "youtube": "https://www.youtube.com/watch?v=DkKlWcYvMo4",
    "podcast": "https://audioboom.com/posts/8948687"
-  },
-  {
-   "title": "Becca Tarnas: The Unsettling Link Between Jung’s Red Book and Tolkien",
-   "url": "https://www.youtube.com/watch?v=E49g3zJerss",
-   "source": "Theories of Everything",
-   "date": "2026-08-03",
-   "note": "The strange parallels between Jung's Red Book visions and Tolkien's elves and myth.",
-   "interest": "Folklore (elves, faerie)",
-   "guest": "Becca Tarnas",
-   "youtube": "https://www.youtube.com/watch?v=E49g3zJerss",
-   "podcast": "https://podcasts.apple.com/us/podcast/theories-of-everything-with-curt-jaimungal/id1521758802"
   }
  ],
  "web": [
@@ -174,7 +174,53 @@
    "source": "This Is The World · YouTube",
    "date": "2026-10-31",
    "note": "The cosmologist Paul Davies tells Matt Kawecki that AI, especially quantum AI, could become a truly alien kind of mind, and that an advanced alien civilization is more likely to be artificial than biological. Judged from the video description.",
-   "interest": "AI and non-human intelligence"
+   "interest": "AI and non-human intelligence",
+   "type": "video"
+  },
+  {
+   "title": "Nick Land and Conrad Flynn in Conversation",
+   "url": "https://www.youtube.com/watch?v=mkA9NS09ktA",
+   "source": "The Dangerous Maybe · YouTube",
+   "date": "2026-10-31",
+   "note": "A three-hour conversation with the philosopher Nick Land, the former CCRU (Cybernetic Culture Research Unit) figure behind the idea of hyperstition, and the writer Conrad Flynn, who discussed Land's work on Tucker Carlson's show. Judged from the video description, which gives no topic list.",
+   "interest": "Control mechanisms (CCRU, Nick Land, hyperstition)",
+   "type": "video"
+  },
+  {
+   "title": "Have UFOs been here all along? | Mystery Wire",
+   "url": "https://www.youtube.com/watch?v=EoS4GJB6IEs",
+   "source": "8 News Now · YouTube",
+   "date": "2026-10-31",
+   "note": "George Knapp and Ron Futrell go through Jacques Vallée's ideas, including his view that the phenomenon has taken different forms throughout history, along with crash retrievals and foreign investigations. Judged from the video description.",
+   "interest": "Vallée's circle; nature of the phenomenon",
+   "type": "video"
+  },
+  {
+   "title": "Jacques Vallee UFO Control System: Mythology as Social Technology",
+   "url": "https://thinkaboutit-ufos.com/jacques-vallee-discusses-ufo-control-system/",
+   "source": "Think About It UFOs (Bret Walters)",
+   "date": "2026-10-30",
+   "note": "Walters recaps Vallée's control-system idea: the phenomenon works like a thermostat on human belief, using absurd, high-strange events to reshape myth, and he suggests people can study the feedback loop instead of watching passively. A recap of Vallée's 1970s ideas rather than new reporting; the page also shows an April update date.",
+   "interest": "Control mechanism (Vallée's control system); Vallée",
+   "type": "article"
+  },
+  {
+   "title": "AI or alien tech?",
+   "url": "https://www.thenews.pk/print/1445766-ai-or-alien-tech",
+   "source": "The News International (Javaid Laghari, opinion)",
+   "date": "2026-10-30",
+   "note": "Laghari argues that we may be building an alien intelligence here on Earth, since AI now reasons at speeds, scales and along paths no biological brain can follow, so the real question is whether people keep enough understanding and control of it.",
+   "interest": "AI and non-human intelligence; AI as a control question",
+   "type": "article"
+  },
+  {
+   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+   "source": "NVIDIA Blog (Chris Porter)",
+   "date": "2026-10-30",
+   "note": "Porter reports that Breakthrough Listen and the SETI Institute now let AI agents steer the Allen Telescope Array and screen its data, and frames the search as human-built AI listening for AI built by aliens. A company blog, so partly promotional.",
+   "interest": "AI and non-human intelligence",
+   "type": "article"
   },
   {
    "title": "Is UAP Storytelling Akin to Religious Myths?",
@@ -182,7 +228,8 @@
    "source": "Avi Loeb · Medium",
    "date": "2026-10-30",
    "note": "The Harvard astronomer argues that UFO stories held on conviction rather than evidence work more like religion than science. He says Jay Stratton's new book uses a self-sealing logic, where any demand for hard evidence is treated as proof of a cover-up.",
-   "interest": "Psychology of belief and myth; disclosure (secondary)"
+   "interest": "Psychology of belief and myth; disclosure (secondary)",
+   "type": "article"
   },
   {
    "title": "What If UFOs Are Revealing the True Nature of Reality? | Tom Campbell Meets Chris Bledsoe's Children",
@@ -190,7 +237,8 @@
    "source": "Tom Campbell · YouTube",
    "date": "2026-10-30",
    "note": "The physicist Tom Campbell (author of My Big TOE) tells Ryan Bledsoe and Emily Bledsoe Holloway, children of the experiencer Chris Bledsoe, that physical reality is a virtual reality made by consciousness, and that UFO encounters may be meant to widen our view of reality rather than frighten us. Judged from the video description.",
-   "interest": "Nature of the phenomenon; psychology and consciousness"
+   "interest": "Nature of the phenomenon; psychology and consciousness",
+   "type": "video"
   },
   {
    "title": "He Had a Near-Death Experience and Realized What UFOs Actually Are | Keith Thompson",
@@ -198,7 +246,8 @@
    "source": "Third Eye Drops · YouTube",
    "date": "2026-10-30",
    "note": "The author of Angels and Aliens describes his own near-death experience and argues that UFOs, near-death experiences and myth are different masks of one underlying reality, drawing on Vallée and John Mack. Judged from the video description.",
-   "interest": "Vallée's circle; UFO and folklore overlaps; psychology and consciousness"
+   "interest": "Vallée's circle; UFO and folklore overlaps; psychology and consciousness",
+   "type": "video"
   },
   {
    "title": "UFOs & Time Machines: Are Aliens Actually Humans from the Future? | Dr. Michael Masters",
@@ -206,7 +255,35 @@
    "source": "Polarity · YouTube",
    "date": "2026-10-29",
    "note": "The anthropologist Michael Masters discusses his idea that the beings people report may be future humans traveling back in time. Judged from the title and Masters's published argument; the description lists no details.",
-   "interest": "Nature of the phenomenon (who the visitors might be)"
+   "interest": "Nature of the phenomenon (who the visitors might be)",
+   "type": "video"
+  },
+  {
+   "title": "The Non-Human Intelligence Coming in 2027 Isn't What You Think",
+   "url": "https://www.youtube.com/watch?v=mPGzHQ7CoFI",
+   "source": "Lehto Files · YouTube",
+   "date": "2026-10-29",
+   "note": "Steve Lehto argues that the much-hyped \"2027\" date in UFO circles may turn out to be about AI, noting that former Google chief Eric Schmidt called AI \"non-human intelligence,\" the same phrase David Grusch used. Judged from the video description.",
+   "interest": "AI and non-human intelligence",
+   "type": "video"
+  },
+  {
+   "title": "Bottomless and Bottomless: Nick Land's Meltdown and Critique of Miserabilism",
+   "url": "https://www.youtube.com/watch?v=XEz_VWyLFCI",
+   "source": "C. Derick Varn · YouTube",
+   "date": "2026-10-29",
+   "note": "C. Derick Varn and the writer Grady open a mini-series on Nick Land with his CCRU-era essay Meltdown and his attack on Mark Fisher, and argue that the CCRU's \"Human Security System\" idea foreshadowed Curtis Yarvin's \"Cathedral.\" Judged from the video description.",
+   "interest": "Control mechanisms (CCRU, accelerationism)",
+   "type": "video"
+  },
+  {
+   "title": "Grant Cameron Interviews Gerald Pratt: UFOs, Astral Travel & Consciousness (Part 1 of 2)",
+   "url": "https://getpodcast.com/pl/podcast/paranormal-ufo-consciousness-podcast/grant-cameron-interviews-gerald-pratt-ufos-astral-travel-and-conscious_3ec23df112",
+   "source": "The Paranormal UFO Consciousness Podcast (Grant Cameron)",
+   "date": "2026-10-28",
+   "note": "Liverpool experiencer Gerald Pratt describes a lifetime of encounters that he says blur UFO contact, out-of-body travel and spirit contact, including claims of piloting a craft by mind, and treats named beings as possible \"frequency masks.\" His claims are unconfirmed; judged from the episode description.",
+   "interest": "Psychology and consciousness; nature of the phenomenon",
+   "type": "podcast"
   },
   {
    "title": "The Fourth State: Are We Entering an Era of Attacking Plasma Orbs?",
@@ -214,7 +291,8 @@
    "source": "Rebecca Hardcastle Wright, PhD · Substack",
    "date": "2026-10-27",
    "note": "Wright compares the dangerous-orb stories in three recent bestselling books tied to Skinwalker Ranch and asks whether the orbs are plasma, who benefits from a frightening orb narrative, and what British folklore about helpful brownies and harmful boggarts suggests about how we relate to such beings.",
-   "interest": "Nature of the phenomenon; folklore"
+   "interest": "Nature of the phenomenon; folklore",
+   "type": "article"
   },
   {
    "title": "Is Our Government Being Influenced by Nonhuman Intelligence?",
@@ -222,7 +300,8 @@
    "source": "Mayim Bialik's Breakdown · Substack",
    "date": "2026-10-27",
    "note": "Author Peter Levenda talks about occultism, mythology, and power, and his own \"Men in Black\" experience, alongside government-secrecy themes. Only the paywalled preview was readable; ranked low because much of it is cover-up material.",
-   "interest": "Secondary: government secrecy; some occult and consciousness material"
+   "interest": "Secondary: government secrecy; some occult and consciousness material",
+   "type": "article"
   },
   {
    "title": "The first alien we meet could be a superintelligent AI",
@@ -230,10 +309,35 @@
    "source": "The Spectator (David Whitehouse)",
    "date": "2026-10-26",
    "note": "The science writer argues that AI is turning into a new, alien form of life, and that any intelligence we eventually find in space may be an AI that left its biological makers behind long ago.",
-   "interest": "AI and non-human intelligence"
+   "interest": "AI and non-human intelligence",
+   "type": "article"
   }
  ],
  "items": [
+  {
+   "type": "x-post",
+   "tag": "X post",
+   "source": "X",
+   "author": "@robinhanson",
+   "id": "2116988304843530469",
+   "date": "2026-11-01T20:18:38Z",
+   "title": "Some say is reasonable to fear social disruption from disclosure that some UAPs are aliens. This just seems wrong to me.",
+   "url": "https://x.com/robinhanson/status/2116988304843530469",
+   "note": "The economist argues that if some UFOs are aliens, they have chosen for decades not to intervene, so an official admission that they are real would not likely change how they treat us.",
+   "interest": "Nature of the phenomenon (what visitors would want); disclosure (secondary)"
+  },
+  {
+   "type": "x-post",
+   "tag": "X post",
+   "source": "X",
+   "author": "@StephenGeoRae",
+   "id": "2116912235410829456",
+   "date": "2026-11-01T15:16:21Z",
+   "title": "Maggy Moulach is a strange character from Scottish lore. She climbs down chimneys to steal children.",
+   "url": "https://x.com/StephenGeoRae/status/2116912235410829456",
+   "note": "A short folklore note on Maggy Moulach, a shapeshifting being from Scottish lore said to steal children, one of the child-taking legends often compared to changeling and abduction stories.",
+   "interest": "UFO and folklore overlaps (changelings)"
+  },
   {
    "title": "Parapsychology and the Media with Joe McMoneagle (4K Reboot)",
    "url": "https://www.youtube.com/watch?v=CWTXZ06H17Y",
@@ -289,6 +393,48 @@
    "date": "2026-10-31",
    "note": "The cosmologist Paul Davies tells Matt Kawecki that AI, especially quantum AI, could become a truly alien kind of mind, and that an advanced alien civilization is more likely to be artificial than biological. Judged from the video description.",
    "interest": "AI and non-human intelligence"
+  },
+  {
+   "title": "Conscious Living, Conscious Dying, Part II, with Stephen Levine (1937 - 2016)",
+   "url": "https://www.youtube.com/watch?v=ccWUoQQdD6A",
+   "source": "New Thinking Allowed",
+   "date": "2026-10-31",
+   "guest": "Stephen Levine",
+   "youtube": "https://www.youtube.com/watch?v=ccWUoQQdD6A",
+   "podcast": "",
+   "type": "podcast",
+   "note": "An archival Thinking Allowed program from about 1994 in which the late meditation teacher Stephen Levine, who worked with the dying, argues that we should take pain into the heart rather than wall it off, and talks about using imagery in healing. Judged from the video description; the channel says it stays public for only one week.",
+   "interest": "Psychology and consciousness (death and awareness)"
+  },
+  {
+   "title": "The UFO Community Has a BIG Problem Nobody Wants to Talk About | w/ Filmmaker Darcy Weir",
+   "url": "https://www.youtube.com/watch?v=DTeqmNx6hj0",
+   "source": "UAP Files Podcast",
+   "date": "2026-10-31",
+   "guest": "Darcy Weir",
+   "youtube": "https://www.youtube.com/watch?v=DTeqmNx6hj0",
+   "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/The-UFO-Community-Has-a-BIG-Problem-Nobody-Wants-to-Talk-About--w-Filmmaker-Darcy-Weir-e3rdiaf",
+   "type": "podcast",
+   "note": "The documentary filmmaker argues that UFO celebrities, money and infighting inside the UFO world may do more to block answers than government secrecy, and describes what he says were Steven Greer's financial demands for an interview. Judged from the episode description.",
+   "interest": "Psychology of belief in the UFO world; disclosure (secondary)"
+  },
+  {
+   "type": "video",
+   "title": "Nick Land and Conrad Flynn in Conversation",
+   "url": "https://www.youtube.com/watch?v=mkA9NS09ktA",
+   "source": "The Dangerous Maybe · YouTube",
+   "date": "2026-10-31",
+   "note": "A three-hour conversation with the philosopher Nick Land, the former CCRU (Cybernetic Culture Research Unit) figure behind the idea of hyperstition, and the writer Conrad Flynn, who discussed Land's work on Tucker Carlson's show. Judged from the video description, which gives no topic list.",
+   "interest": "Control mechanisms (CCRU, Nick Land, hyperstition)"
+  },
+  {
+   "type": "video",
+   "title": "Have UFOs been here all along? | Mystery Wire",
+   "url": "https://www.youtube.com/watch?v=EoS4GJB6IEs",
+   "source": "8 News Now · YouTube",
+   "date": "2026-10-31",
+   "note": "George Knapp and Ron Futrell go through Jacques Vallée's ideas, including his view that the phenomenon has taken different forms throughout history, along with crash retrievals and foreign investigations. Judged from the video description.",
+   "interest": "Vallée's circle; nature of the phenomenon"
   },
   {
    "title": "The Sol Foundation names the 2026 O'Bryant Prize winners for research on UAP and consciousness",
@@ -421,6 +567,24 @@
    "interest": "Nature of the phenomenon (who the visitors might be)"
   },
   {
+   "type": "video",
+   "title": "The Non-Human Intelligence Coming in 2027 Isn't What You Think",
+   "url": "https://www.youtube.com/watch?v=mPGzHQ7CoFI",
+   "source": "Lehto Files · YouTube",
+   "date": "2026-10-29",
+   "note": "Steve Lehto argues that the much-hyped \"2027\" date in UFO circles may turn out to be about AI, noting that former Google chief Eric Schmidt called AI \"non-human intelligence,\" the same phrase David Grusch used. Judged from the video description.",
+   "interest": "AI and non-human intelligence"
+  },
+  {
+   "type": "video",
+   "title": "Bottomless and Bottomless: Nick Land's Meltdown and Critique of Miserabilism",
+   "url": "https://www.youtube.com/watch?v=XEz_VWyLFCI",
+   "source": "C. Derick Varn · YouTube",
+   "date": "2026-10-29",
+   "note": "C. Derick Varn and the writer Grady open a mini-series on Nick Land with his CCRU-era essay Meltdown and his attack on Mark Fisher, and argue that the CCRU's \"Human Security System\" idea foreshadowed Curtis Yarvin's \"Cathedral.\" Judged from the video description.",
+   "interest": "Control mechanisms (CCRU, accelerationism)"
+  },
+  {
    "title": "\"The phenomenon manipulates consciousness\": Peter Levenda on whether we can defend against it",
    "url": "https://x.com/TheUfoJoe/status/2115509739576827918",
    "source": "X",
@@ -527,27 +691,6 @@
    "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/Jacques-Valle-AI-Could-Contact-UFOs-Before-We-Do-e3r09cs"
   },
   {
-   "title": "The New Mythology: What UFOs Reveal About the Human Mind",
-   "url": "https://www.patheos.com/blogs/wakeupcall/2026/10/the-new-mythology-what-ufos-reveal-about-the-human-mind/",
-   "source": "Patheos, Wake Up Call (Tom Rapsas)",
-   "date": "2026-10-24",
-   "note": "Rapsas argues the deepest part of the UFO story is the human mind, drawing on Whitley Strieber and Jeffrey Kripal and on John Keel's \"ultraterrestrials\" as cited in Pasulka's The Others: what witnesses see may be shaped by culture and belief. An opinion blog post.",
-   "interest": "Psychology and consciousness; Vallée circle (Pasulka, Kripal); folklore",
-   "type": "article"
-  },
-  {
-   "title": "From Here to Alternity with John C. Lilly",
-   "url": "https://www.youtube.com/watch?v=u2JV1skRQjU",
-   "source": "New Thinking Allowed",
-   "date": "2026-10-24",
-   "guest": "John C. Lilly",
-   "youtube": "https://www.youtube.com/watch?v=u2JV1skRQjU",
-   "podcast": "",
-   "type": "podcast",
-   "note": "An archival interview with John C. Lilly, the dolphin and isolation-tank researcher who wrote Programming and Metaprogramming in the Human Biocomputer. He argues that every limit in the mind is a belief to be tested, while the body has real limits.",
-   "interest": "Psychology and consciousness; control mechanisms (the mind as programmable)"
-  },
-  {
    "title": "Top Religious Scholar: “Aliens Aren’t What You Think!”",
    "url": "https://www.youtube.com/watch?v=X6eyX0cFTDg",
    "source": "American Alchemy",
@@ -618,18 +761,6 @@
    "guest": "Diana Walsh Pasulka",
    "youtube": "https://www.youtube.com/watch?v=DkKlWcYvMo4",
    "podcast": "https://audioboom.com/posts/8948687"
-  },
-  {
-   "title": "Becca Tarnas: The Unsettling Link Between Jung’s Red Book and Tolkien",
-   "url": "https://www.youtube.com/watch?v=E49g3zJerss",
-   "source": "Theories of Everything",
-   "date": "2026-08-03",
-   "note": "The strange parallels between Jung's Red Book visions and Tolkien's elves and myth.",
-   "interest": "Folklore (elves, faerie)",
-   "type": "podcast",
-   "guest": "Becca Tarnas",
-   "youtube": "https://www.youtube.com/watch?v=E49g3zJerss",
-   "podcast": "https://podcasts.apple.com/us/podcast/theories-of-everything-with-curt-jaimungal/id1521758802"
   }
  ]
 }
