@@ -1,14 +1,47 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-11-01 04:45",
- "checked": "1 Nov 2026",
+ "updated": "2026-11-02 04:30",
+ "checked": "2 Nov 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 1 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters are due to fire their engines and leave Earth's neighborhood for Mars on 7 and 9 November, per Eos (not yet on a NASA or Berkeley page) [unconfirmed]. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known.",
+  "Where things stand on 2 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters are due to fire their engines and leave Earth's neighborhood for Mars on 7 and 9 November, per Eos (not yet on a NASA or Berkeley page) [unconfirmed]. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known.",
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "feed": [
+  {
+   "when": "2026-11-02 04:30",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JPL, JAXA, ESA, CNES, CNSA, Xinhua, UAE, ISRO, SpaceX, Blue Origin, GAO, SpacePolicyOnline, Planetary Society, SpaceNews, Space.com, The Space Road, AMSAT-DL, Estévez, plus X",
+   "text": "Nothing new today on these, so only their checked dates change: NASA news releases (newest Mars item still the 29 October meteorite release; still no NASA story on the CHAPEA exit) and JPL news (read through JPL's news feed; newest 29 October), the Perseverance team blog (newest still \"Tinga's Tale\", 26 October), NASA's Perseverance raw-image feed (newest still sol 2024, 30 October) and traverse file (still ends at sol 2022, so the distance is unchanged), the Curiosity team blog (newest still sols 5043-5049, 28 October; no new drill hole reported), NASA's Mars Future Plan page (last updated 23 June; no low-cost Mars mission solicitation seen [unconfirmed]), NASA's and Berkeley's ESCAPADE pages (still \"fall of 2026\" and \"November 2026\" for the Mars departure burn, so the 7 and 9 November dates still rest on Eos alone [unconfirmed]), ESA's science and exploration news (no Mars item since 20 October), JAXA's English releases (newest still 21 October) and the MMX blog (newest still 30 October), CNES on X (one post on 1 November congratulating planetary scientist Patrick Michel on a prize, which mentions the Idefix rover; no new Idefix news), Xinhua and a web search for Tianwen and Zhurong (nothing new; the Tianwen-3 landing site is still expected by year end), the UAE Space Agency (X and a web search; nothing new on Hope), ISRO (nothing on Mars), SpaceX and Elon Musk on X (no Mars or Starship post since 1 November morning), Blue Origin (X and a web search; nothing new), the two GAO protest dockets (both still open, decisions due 21 December 2026 and 1 February 2027), the Planetary Society (an advocacy group; its 30 October newsletter repeats Perseverance's record, nothing new on Mars), SpaceNews (news feed; nothing on Mars), Space.com (only a \"this day in space\" note on the Soviet Mars 1 probe of 1962 and stargazing notes), AMSAT-DL (amateur radio group) and Daniel Estévez's blog (newest post still 26 October, not about Mars). Money and politics: SpacePolicyOnline (Marcia Smith, week-ahead list posted 1 November) says the House and Senate stay in recess until after the 3 November midterm elections and return on 9 November, with all 12 fiscal year 2027 spending bills still unfinished; the stopgap law runs through 11 December. Starship Flight 15 (an Earth-orbit test, not a Mars flight): The Space Road (a news site; updated 1 November) now says an FAA air-traffic planning slide lists the flight no earlier than 12 November, moved from 8 November, citing a 29 October post by the SpaceNotices account on X (which I opened); both call it a planning marker, not a SpaceX date, and no FAA license or SpaceX date is shown [unconfirmed].",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-november-1-8-2026/",
+   "link_text": "open SpacePolicyOnline, week of 1-8 Nov",
+   "other": "",
+   "links": [
+    [
+     "The Space Road: when is Starship Flight 15?",
+     "https://thespaceroad.com/articles/when-is-starship-flight-15/"
+    ],
+    [
+     "SpaceNotices on X, 29 Oct",
+     "https://x.com/SpaceNotices/status/2115815059381469690"
+    ],
+    [
+     "GAO docket B-424825.1",
+     "https://www.gao.gov/docket/b-424825.1"
+    ],
+    [
+     "GAO docket B-424825.2",
+     "https://www.gao.gov/docket/b-424825.2"
+    ],
+    [
+     "Planetary Society Downlink, 30 Oct",
+     "https://www.planetary.org/the-downlink/a-drive-to-remember"
+    ]
+   ]
+  },
   {
    "when": "2026-11-01 04:45",
    "who": "Grok Bot daily check (our own check)",
@@ -790,8 +823,8 @@
    [
     {
      "m": "Curiosity (NASA)",
-     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5060 (31 Oct).",
-     "d": "1 Nov 2026 (raw images to sol 5060); blog 28 Oct",
+     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5061 (1 Nov).",
+     "d": "2 Nov 2026 (raw images to sol 5061); blog 28 Oct",
      "links": [
       [
        "blog, 28 Oct",
@@ -806,7 +839,7 @@
     {
      "m": "Perseverance (NASA)",
      "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct); NASA's traverse file shows 45.25 km by sol 2022 (28 Oct). Exploring Lac de Charmes, outside Jezero's western rim, near the Idubi outcrop. Drilled a new sample, \"Singita\", on 24 Oct, its first in more than a year (Planetary Society, from the project scientist's talk; no NASA story yet). NASA counted 29 rock and regolith samples before that, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
-     "d": "1 Nov 2026 (raw images to sol 2024; traverse file sol 2022; blog 26 Oct)",
+     "d": "2 Nov 2026 (raw images to sol 2024; traverse file sol 2022; blog 26 Oct)",
      "links": [
       [
        "Singita, Planetary Society",
@@ -993,7 +1026,7 @@
      "image_credit": "U.S. Space Force photo by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
      "image_url": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
      "s": "Launched 13 Nov 2025 on Blue Origin's New Glenn. The Mars departure burn is in November 2026 and arrival is September 2027 per the Berkeley mission-design page. NASA's own page says only \"fall of 2026\" for the Earth flyby. Eos (27 Oct) gives the burns as 7 November for Blue and 9 November for Gold [unconfirmed]. FY2027 request: $4.5M.",
-     "d": "1 Nov 2026",
+     "d": "2 Nov 2026",
      "links": [
       [
        "Berkeley mission design",
@@ -1064,8 +1097,8 @@
   "lat": 18.4356,
   "lon": 77.2332,
   "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October and plans to try for two more (Planetary Society).",
-  "est_sol": "about 2026",
-  "est_note": "NASA's raw-image feed still lists sol 2024 (30 October 2026) as its newest (Mastcam-Z, Navcam and SuperCam pictures; the feed shows no new drive since sol 2022); 1 November is about two sols later (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "est_sol": "about 2027",
+  "est_note": "NASA's raw-image feed still lists sol 2024 (30 October 2026) as its newest when checked on 2 November (Mastcam-Z, Navcam and SuperCam pictures; the feed shows no new drive since sol 2022); 2 November is about three sols later (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "The distance comes from NASA's public traverse file (a list of the rover's stopping points), because no NASA blog gives a newer figure. That file lags and does not update every day. Its newest point is sol 2022 (28 Oct): 45,245.7 meters in total (45.25 km, 28.11 miles), after a 22-meter drive. The record figure NASA announced was 45.22 km for sol 2006 (11 Oct). If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -4648,8 +4681,13 @@
    ]
   },
   {
-   "t": "NASA's raw-image feed has pictures through sol 5060, taken on 31 October 2026 (51 pictures that sol, from the ChemCam close-up camera and the Navcams), so 1 November is about sol 5061 (our own arithmetic). NASA's pages that I opened give no odometer for 31 October, so none is shown here.",
-   "links": []
+   "t": "NASA's raw-image feed has pictures through sol 5061, taken on 1 November 2026 (33 pictures that sol, from the ChemCam close-up camera and the right Navcam), so 2 November is about sol 5062 (our own arithmetic). The picture above is still the sol 5060 Navcam view. NASA's pages that I opened give no odometer for 1 November, so none is shown here.",
+   "links": [
+    [
+     "raw image, sol 5061",
+     "https://mars.nasa.gov/msl/multimedia/raw-images/CR0_846776469EDR_F1251326CCAM05060M_"
+    ]
+   ]
   },
   {
    "t": "Climbing Mount Sharp, the mound in Gale crater: 1 kilometer of elevation gain reached on 26 August 2026, per NASA's mission page, which also counts 42 drill holes.",
@@ -4755,7 +4793,7 @@
   },
   {
    "who": "Crewed Mars missions (any agency)",
-   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 1 November 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
+   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 2 November 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
    "label": "aspirational",
    "links": [
     [
@@ -4788,13 +4826,18 @@
    ""
   ],
   [
+   "9 Nov 2026",
+   "The House and Senate return after the elections with all 12 FY2027 spending bills, including NASA's, still unfinished (SpacePolicyOnline, 1 Nov).",
+   ""
+  ],
+  [
    "7 and 9 Nov 2026",
    "ESCAPADE's two orbiters fire their engines to leave Earth's neighborhood for Mars: Blue on 7 November, Gold on 9 November, per Eos (27 Oct). Berkeley's page says only \"November 2026\" and NASA's \"fall 2026\" [unconfirmed].",
    ""
   ],
   [
    "Nov 2026",
-   "Starship Flights 15 and 16: slipped to mid or late November per Space.com; both Flight 15 stages have been test-fired on the ground and Elon Musk says November (Space.com, 29 Oct); no confirmed dates. Earth-orbit tests, not Mars flights.",
+   "Starship Flights 15 and 16: slipped to mid or late November per Space.com; both Flight 15 stages have been test-fired on the ground and Elon Musk says November (Space.com, 29 Oct). An FAA air-traffic planning slide lists Flight 15 no earlier than 12 November (SpaceNotices on X, 29 Oct; The Space Road, 1 Nov), a planning marker, not a launch date [unconfirmed]; no confirmed dates. Earth-orbit tests, not Mars flights.",
    "aspirational"
   ],
   [
@@ -5165,6 +5208,7 @@
   ]
  ],
  "not_read": [
+  "2 Nov: pictures were not refreshed today: this run was told to write only the two data files, so the Perseverance and Curiosity pictures stay the sol 2024 and sol 5060 views, and their captions say so. Blue Origin's news page again answered 429 (too many requests); its X account and a web search were used instead (nothing new). The UAE Space Agency site refused my plain reader (403); its X account and a web search were used instead (nothing new on Hope). GAO's dockets refused my plain reader (403) and were read through a second reader. SpaceX's updates page returned only a short page that needs a full browser, so SpaceX was checked on X. Xinhua's English science list is an empty page template, so Xinhua was checked through a web search. JAXA's press list returned only a stub to my plain reader and was read through a second reader. NASA's science blog feed gave an error; the blog index and NASA's search were used instead. SpacePolicyOnline's news feed came back without items, so its home page and week-ahead page were read directly. The FAA planning slide for Starship Flight 15 was seen only through The Space Road and an X post, not on an FAA page.",
   "1 Nov: Blue Origin's news page again answered 429 (too many requests); its X account and a web search were used instead (nothing new; the Mars relay award is still under GAO protest). The UAE Space Agency site refused my plain reader (403); its X account and a web search were used instead (nothing new on Hope). GAO's dockets refused my plain reader (403) and were read through a second reader. JPL's news page refused one reader (403) and was read through JPL's news feed. SpaceNews was read through its news feed (alternate route; newest item 30 October, nothing on Mars). NASA's Perseverance mission-updates page gave 404 (not found); the blog index was used. The Chron (Houston Chronicle) story on the CHAPEA exit is behind a paywall (402) and was not read. Starship Flight 15 planning dates (8 or 12 November) were seen only in X posts and search results, not on an FAA or SpaceX page. The user's computer was offline, so all reading went over Grok Bot's own network.",
   "31 Oct: GAO's dockets refused my plain reader (403) and were read through a second reader. Blue Origin's news page answered 429 (too many requests) to both readers tried, and SpaceX's page needs a full browser, so both companies were checked on X instead. The UAE Space Agency site refused the plain reader (403) and timed out in the second reader; its X account was checked instead. Xinhua's English science page is an empty template and its site search gave no usable answer, so Xinhua was checked only through a web search (nothing new on Tianwen found). SpaceNews's science page gave 404 (not found) and its news feed carried only sponsored items, so SpaceNews was not really read today; Space.com was read through its news feed. The JAXA MMX blog's list page did not load in my reader, so the new post was opened directly. ESA's 12 October Rosalind Franklin story had been missed by earlier checks; it was found today through ESA's exploration news feed. The user's computer was offline, so all reading went over Grok Bot's own network.",
   "30 Oct: GAO's dockets refused my plain reader (403) and were read through a second reader; GAO's own search page also refused (403). Blue Origin's news page answered 429 (too many requests) to all three readers tried, so its X account was checked instead. The second reader itself now refuses anonymous use (error 401), which also blocked it for the UAE Space Agency site (403 to the plain reader; X accounts checked instead) and for Xinhua, whose English science page shows only an empty page template; Xinhua was not read today. SpaceNews's science page gave 404 (not found). Science's own page for the meteorite paper refused my reader (403), and Reuters was read through StreetInsider's copy. The JPL copy of the meteorite release was seen on JPL's news list but not opened.",

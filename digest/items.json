@@ -937,6 +937,10 @@
   "2026-11-01": {
    "intro": "Israel: Herzog's consultations start Wednesday, Eisenkot sets conditions for joining him and plans to replace the Knesset speaker, Deri weighs leaving the Shas leadership, and rallies back a government with Arab parties; no new official results. Also: a UN official wounded in Druze infighting in Sweida (Syria), Rubio and Trump on Flávio Bolsonaro, France's third Saturday of protests and a poll roundup, Carney's offer to meet the Quebec premier, the Quad's summit plans before Trump meets Xi, Trump's Greenland image, xAI's coming watermark on Grok API text, and Land's conversation with Conrad Flynn in Cypherboria.",
    "quiet": "Nothing material on Lebanon itself (only the Sweida story), the Carney case, Israeli data centers, non-Latin script digitization, Colombia and Israel, Belle Burden, UK breakup politics, HaShiloach (no new essay), Trenton (only high-school sports and a statewide e-bike story), or Marc Andreessen."
+  },
+  "2026-11-02": {
+   "intro": "Israel: the election chief says the vote stands despite the foreign-funding probe, Bennett's faction backs Eisenkot, UTJ may back no one, Polymarket now favors Eisenkot, and Fitch sees a likely repeat election in April; still no new official results before Wednesday. Also: Israel's reported plans if Hezbollah joins a new Iran war, clashes in Sweida, new details of Flávio Bolsonaro's escape and a rate-cap debate in Brazil, Philippe's refusal of a primary in France, the Quebec premier's answer to Carney, Musk on the cost of Grok Bot and two new Colossus 2 sites, and in Cypherboria a Doomcrypt interview on Land, a Badiou symposium and Net Void's Gnostic reading of the King James Bible.",
+   "quiet": "Nothing material on the Carney case, UK breakup politics (opinion pieces only), Greenland, Trump and Xi, Colombia and Israel, Belle Burden, Trenton (only a nonprofit food grant, civic events and high-school sports), Israeli data centers, non-Latin script digitization, HaShiloach (no new essay), or Marc Andreessen."
   }
  },
  "items": [
@@ -8430,6 +8434,348 @@
     {
      "name": "X: Net Void, Cathedral decodes",
      "url": "https://x.com/i/status/2116698560964219258"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-israel-election-1",
+   "edition": "2026-11-02",
+   "section": "israel-election",
+   "headline": "Election chief Sohlberg: the vote was \"conducted properly\" and the foreign-funding probe will not change the results; Likud and Ben-Gvir object",
+   "lead": "On the evening of Sunday, 1 November, Central Elections Committee chairman Justice Noam Sohlberg said, after speaking with Shin Bet chief David Zini, Attorney General Gali Baharav-Miara and the committee's director, Dean Livneh, that the election was \"conducted properly\" and \"the results reflect the will of the voters.\" He called the suspicions of foreign funding serious and under investigation, but said the claim that they could undermine the results \"is not correct\": \"Suspicions are suspicions\" (Ynet; Haaretz).",
+   "text": "Likud called the statement \"very puzzling\" and pointed to the 4,612-vote margin, saying \"a black cloud\" hangs over the result. Itamar Ben-Gvir said there was \"improper pressure\" on the Shin Bet chief and called it a cover-up. The Joint List's chairman answered that \"the mountain gave birth to a mouse\" and that \"67 seats said 'go home'\" (Maariv). Separately, a court on Sunday ordered the release of two United Arab List (Ra'am) activists arrested on Election Day on suspicion of buying votes, finding the evidence had weakened, and extended a third suspect's detention by two days (Haaretz). There are still no new official results: the Central Elections Committee is due to give the official results to President Herzog on Wednesday, 4 November. Its results site could not be reached (it returned \"not found\" at every address tried).",
+   "sources": [
+    {
+     "name": "Ynet",
+     "url": "https://www.ynet.co.il/news/article/r1fehxhpgg"
+    },
+    {
+     "name": "Haaretz: election chief",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article/.premium/election-chief-says-results-valid-amid-likud-effort-to-invalidate-arab-vote/000001a1-9835-dc07-a3f5-da3f10ea0000"
+    },
+    {
+     "name": "Maariv: Ben-Gvir",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383697"
+    },
+    {
+     "name": "Maariv: Joint List",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383695"
+    },
+    {
+     "name": "Haaretz: activists released",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article/.premium/police-seek-arab-party-activists-arrest-extended-over-alleged-voter-bribery/000001a1-966c-db9a-a1b3-9e7e4f8b0000"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-israel-election-2",
+   "edition": "2026-11-02",
+   "section": "israel-election",
+   "headline": "Bennett's faction will recommend Eisenkot; the Haredi party UTJ may recommend no one; Netanyahu does not rule out a rotation; Polymarket now favors Eisenkot",
+   "lead": "Naftali Bennett announced that his faction will recommend Gadi Eisenkot to President Herzog (Ynet; Maariv). By Ynet's count, Eisenkot would have about 60 recommendations without Yisrael Beiteinu, against 46 for Netanyahu. United Torah Judaism (UTJ) is weighing recommending no one for now and will consult its rabbis; Yitzhak Goldknopf is open to Eisenkot, while Meir Porush said, \"He didn't even call us.\" Ynet reports that Eisenkot has agreed to explore a government that UTJ and Ra'am would allow to stand by abstaining (Ynet; Haaretz).",
+   "text": "In closed talks Netanyahu said, \"I don't completely rule out any option,\" on a rotation with Eisenkot (Ynet). Lieberman's Saturday meeting with Eisenkot was tense: Lieberman blamed Eisenkot's campaign for hurting the change bloc and doubted that Yashar! has experienced people for the Knesset speaker's post (Ynet; Haaretz). Herzog told the parties, \"Stop climbing the trees... The election results are an existing fact\"; his consultations start Wednesday, and he has until 11 November to give one lawmaker the task of forming a government (Kikar HaShabbat). On Polymarket's next-prime-minister market at about 4:20 AM Israel time on 2 November, Eisenkot led at 43.55 percent (34.35 a day earlier), ahead of Netanyahu at 35.5 (41.5), Lieberman at 5.35 and Bennett at 4.3.",
+   "sources": [
+    {
+     "name": "Ynet: Bennett",
+     "url": "https://www.ynet.co.il/news/article/h1boolrtme"
+    },
+    {
+     "name": "Maariv: Bennett",
+     "url": "https://www.maariv.co.il/breaking-news/article-1383670"
+    },
+    {
+     "name": "Ynet: UTJ",
+     "url": "https://www.ynet.co.il/news/article/bycz00jhpge"
+    },
+    {
+     "name": "Haaretz: UTJ",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article/.premium/haredi-party-may-not-name-netanyahu-as-pm-choice-for-first-time-since-2009/000001a1-97f1-d216-a5af-f7f394c60000"
+    },
+    {
+     "name": "Ynet: Netanyahu on rotation",
+     "url": "https://www.ynet.co.il/news/article/yokra14945206"
+    },
+    {
+     "name": "Ynet: Lieberman and Eisenkot",
+     "url": "https://www.ynet.co.il/news/article/b1omvestme"
+    },
+    {
+     "name": "Haaretz: opposition meeting",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-01/ty-article/.premium/opposition-leaders-meet-to-coordinate-next-moves-joint-list-offers-safety-net/000001a1-977b-df63-ade5-f77f27cc0000"
+    },
+    {
+     "name": "Kikar HaShabbat: Herzog",
+     "url": "https://www.kikar.co.il/political-news/herzog-consultations-wednesday-coalition-talks"
+    },
+    {
+     "name": "Polymarket: next prime minister",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-israel-election-3",
+   "edition": "2026-11-02",
+   "section": "israel-election",
+   "headline": "Fitch: the deadlock fits Israel's A rating and negative outlook; its likely case is a Knesset dissolution in January and a new vote in April",
+   "lead": "The ratings agency Fitch said the political deadlock is consistent with Israel's A rating and negative outlook, and that its most likely scenario is a dissolution of the Knesset in early January and a repeat election in early April (The Jerusalem Post).",
+   "text": "JFeed reports that opposition leaders privately say an early election is now more likely than a new coalition. Fitch's statement itself was not opened; the figures above are as the Post reported them.",
+   "sources": [
+    {
+     "name": "The Jerusalem Post",
+     "url": "https://www.jpost.com/business-and-innovation/banking-and-finance/article-913470"
+    },
+    {
+     "name": "JFeed",
+     "url": "https://www.jfeed.com/news-israel/tnu1nu"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-lebanon-1",
+   "edition": "2026-11-02",
+   "section": "lebanon",
+   "headline": "Maariv: if Hezbollah joins a new war with Iran, Israel plans to take Tyre, Sidon and Nabatieh and could blockade Beirut and Tripoli",
+   "lead": "Maariv reported Israeli contingency plans for the case that Hezbollah joins a renewed war with Iran: the army would seize Tyre, Sidon and Nabatieh, and the navy would either fire on Beirut's southern suburbs or blockade the ports of Beirut and Tripoli (L'Orient Today and JFeed, both citing Maariv). The 7th Brigade has been pulled out to rest and will retrain on the Golan Heights.",
+   "text": "Israeli strikes in the south on Sunday, 1 November, hit Bani Hayan, Wadi Slouqi, Qusseir, Wadi Hujeir, the Aita al-Jabal–Beit Yahoun area and Mayfadoun (L'Orient Today). Israel National News, citing Lebanon's Al-Jadeed, said Lebanon was warned of long Israeli strikes on Beirut (single source, unconfirmed). Talks are stuck over who would verify the proposed \"test zones,\" and President Joseph Aoun has ordered the army not to deal directly with the Israeli army (Maariv, citing Asharq al-Awsat).",
+   "sources": [
+    {
+     "name": "L'Orient Today: Israel's warning",
+     "url": "https://today.lorientlejour.com/article/1552864/israel-takes-any-renewed-hezbollah-involvement-against-its-military-very-seriously.html"
+    },
+    {
+     "name": "L'Orient Today: evening recap",
+     "url": "https://today.lorientlejour.com/article/1552896/6-pm-recap-israeli-threats-of-advancing-as-far-as-saida-escalation-continues-in-the-south-and-record-cocaine-seizure-at-beirut-airport.html"
+    },
+    {
+     "name": "JFeed",
+     "url": "https://www.jfeed.com/news/israel-naval-blockade-beirut-tripoli-hezbollah"
+    },
+    {
+     "name": "Israel National News",
+     "url": "https://www.inn.co.il/flashes/1138953"
+    },
+    {
+     "name": "Maariv",
+     "url": "https://www.maariv.co.il/news/military/article-1383382"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-lebanon-2",
+   "edition": "2026-11-02",
+   "section": "lebanon",
+   "headline": "Sweida (Syria): Druze National Guard and government forces clash after a drone hits a Guard post; unidentified jets over the province",
+   "lead": "On 1 November, fighting broke out between the Druze-led National Guard and Syrian government forces on the al-Majdal–al-Mazraa road in western Sweida province, after a drone struck a Guard position (i24NEWS Arabic, citing the Syrian Observatory for Human Rights; Hawar News).",
+   "text": "i24NEWS Arabic also reported warplanes breaking the sound barrier over the province, an explosion heard near Shahba and a strike in the northeastern desert; whose aircraft they were is unconfirmed. Al-Araby al-Jadeed reported Israeli aircraft over Daraa and Sweida, three strikes on the Lajat area and an Israeli incursion into Samadaniya al-Gharbiya in Quneitra. The Syrian Observatory's own site could not be opened (blocked by Cloudflare), so its report is cited through i24NEWS.",
+   "sources": [
+    {
+     "name": "i24NEWS Arabic",
+     "url": "https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/middle-east/artc-4c164608"
+    },
+    {
+     "name": "Hawar News",
+     "url": "https://hawarnews.com/ar/148667"
+    },
+    {
+     "name": "Al-Araby al-Jadeed",
+     "url": "https://www.alaraby.co.uk/politics/%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%B9%D8%A7-%D9%88%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D8%AA%D9%88%D8%BA%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-brazil-1",
+   "edition": "2026-11-02",
+   "section": "brazil",
+   "headline": "Fantástico: three Argentine entry records in 40 minutes, and a former Israeli government agent under investigation, in Flávio Bolsonaro's escape",
+   "lead": "TV Globo's Fantástico reported on 1 November that Argentine border records show Flávio Bolsonaro entering three times in about 40 minutes: at 22:37 with his Italian passport, at 22:40 with his driver's license and at 23:11 with his Brazilian passport; only the Italian-passport entry was kept. He then flew out from Puerto Iguazú (G1).",
+   "text": "Menachem \"Booky\" Halevy, described as a former Israeli government agent (O Globo) and reported as ex-Mossad, rode in a van that crossed seven minutes earlier and is under investigation; lawyer Roberto Jorge Alexandre was also aboard, and the vans belong to Dallas Turismo. A Cessna linked to lawyer Willer Tomaz left Brasília at 5:05 AM on 27 October for San Fernando and then Iguazú (G1; O Globo). The Argentine paper Clarín, as cited by O Globo, says US agents took control of part of the airport (single source, unconfirmed). In a note, Flávio said, \"I regret absolutely nothing\" and \"I didn't leave Brazil, I left for Brazil\" (Metrópoles). His lawyers asked the court's president, Edson Fachin, to remove Justice Alexandre de Moraes from the case and give it to Justice André Mendonça (Folha).",
+   "sources": [
+    {
+     "name": "G1 (Fantástico)",
+     "url": "https://g1.globo.com/fantastico/noticia/2026/11/01/bastidores-da-saida-de-flavio-bolsonaro-do-brasil.ghtml"
+    },
+    {
+     "name": "O Globo: Israeli ex-agent",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/ex-agente-do-governo-israelense-e-investigado-por-ajuda-a-flavio-bolsonaro-na-fuga-para-os-eua.ghtml"
+    },
+    {
+     "name": "O Globo: Clarín report",
+     "url": "https://oglobo.globo.com/politica/noticia/2026/11/01/agente-dos-eua-tomaram-o-controle-de-parte-de-aeroporto-na-argentina-para-viabilizar-fuga-de-flavio-diz-jornal.ghtml"
+    },
+    {
+     "name": "Metrópoles",
+     "url": "https://www.metropoles.com/mundo/em-nota-flavio-alega-perseguicao-politica-nao-me-arrependo-de-nada"
+    },
+    {
+     "name": "Folha: defense request",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/defesa-de-flavio-bolsonaro-pede-que-moraes-seja-impedido-de-relatar-inquerito-e-quer-troca-por-mendonca.shtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-brazil-2",
+   "edition": "2026-11-02",
+   "section": "brazil",
+   "headline": "Lula promises no social program will end in his next term; a proposal to cap the central bank's interest rate worries investors",
+   "lead": "Lula said no social program will be ended in his 2027–2030 term (Agência Brasil).",
+   "text": "Folha reports that economist André Lara Resende's proposal to limit the Selic, the central bank's benchmark interest rate, has reached Lula and alarms the financial market; gross public debt is 82.9 percent of GDP. Finance official Dario Durigan denied that the government is discussing the idea. The central bank's rate committee (Copom) meets this week. These details come from Folha alone and were not confirmed elsewhere.",
+   "sources": [
+    {
+     "name": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-garante-que-programas-sociais-serao-mantidos"
+    },
+    {
+     "name": "Folha",
+     "url": "https://www1.folha.uol.com.br/mercado/2026/11/proposta-de-lara-resende-para-limitar-selic-entra-no-radar-de-lula-e-assusta-mercado.shtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-france-election-1",
+   "edition": "2026-11-02",
+   "section": "france-election",
+   "headline": "Philippe again refuses a primary of the right and center; Macron says the ballot box must outweigh the street",
+   "lead": "On TF1, Édouard Philippe again refused to take part in a primary of the right and center, calling it a source of \"division and confusion\": \"I don't believe this primary will take place\" (franceinfo).",
+   "text": "After the 31 October protests, President Macron's circle said that \"the electoral debate and the ballot box must take precedence over social democracy and the street\" (franceinfo). franceinfo calls this a high-risk week for the government as schools reopen, with blockades and the 5 November strike day ahead. Seen only as headlines: an attempted-murder investigation over the Molotov cocktail thrown at a gendarme, and Jean-Luc Mélenchon canceling a TF1 appearance. Polymarket at about 4:20 AM Israel time on 2 November: Le Pen 40.25 percent (40.55 a day earlier), Lisnard 16.05 (16.95), Mélenchon 13.5 (11.5), Philippe 11.5 (13.5), Lagarde 7.65 (5.7), Glucksmann 2.35, Bardella 2.15 and Hollande 2.05.",
+   "sources": [
+    {
+     "name": "franceinfo: Philippe",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/edouard-philippe-refuse-une-nouvelle-fois-de-participer-a-une-primaire-de-la-droite-et-du-centre-source-de-division-et-de-confusion_8263160.html"
+    },
+    {
+     "name": "franceinfo: Macron",
+     "url": "https://www.franceinfo.fr/societe/manifestations/au-lendemain-de-la-mobilisation-du-31-octobre-emmanuel-macron-considere-que-le-debat-electoral-et-les-urnes-doivent-prendre-le-pas-sur-la-democratie-sociale-et-la-rue_8262659.html"
+    },
+    {
+     "name": "franceinfo: the week ahead",
+     "url": "https://www.franceinfo.fr/economie/greve/semaine-a-hauts-risques-pour-le-gouvernement_8263184.html"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-quebec-1",
+   "edition": "2026-11-02",
+   "section": "quebec",
+   "headline": "St-Pierre Plamondon accepts Carney's invitation to meet, if it is held in Quebec City; three federal byelections in Quebec on 7 December",
+   "lead": "Premier Paul St-Pierre Plamondon accepted Prime Minister Carney's offer to meet before the Francophonie Summit in Cambodia, on condition that the meeting take place in Quebec City: \"I thank him for his change of tone\" (Radio-Canada).",
+   "text": "Six federal byelections were called for 7 December, three of them in Quebec: Laurier–Sainte-Marie, where Guy Cormier is the Liberal candidate, Rosemont–La Petite-Patrie, and Saint-Hyacinthe–Bagot–Acton (Radio-Canada).",
+   "sources": [
+    {
+     "name": "Radio-Canada: the meeting",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297460/st-pierre-plamondon-invitation-rencontre-carney"
+    },
+    {
+     "name": "Radio-Canada: byelections",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-spacex-xai-and-cursor-1",
+   "edition": "2026-11-02",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Musk: \"The cost of serving Grok Bot was unsustainably high relative to revenue\"",
+   "lead": "Replying on X at 10:34 PM Israel time on 1 November to a user who asked for a reset because \"usage ran out really fast this week,\" Elon Musk wrote: \"The cost of serving Grok Bot was unsustainably high relative to revenue.\"",
+   "text": "TeslaNorth notes that he said nothing about prices or resets, and quotes one user who hit 100 percent of the weekly allowance with four days left. Startup Fortune says Grok Bot launched on 11 August 2026 and comes with SuperGrok plans from $30 a month or with Cursor plans, and that the weekly allowance is not published.",
+   "sources": [
+    {
+     "name": "X: @elonmusk",
+     "url": "https://x.com/elonmusk/status/2116992258520064397"
+    },
+    {
+     "name": "TeslaNorth",
+     "url": "https://teslanorth.com/2026/11/01/elon-musk-grok-bot-cost-usage-limits/"
+    },
+    {
+     "name": "Startup Fortune",
+     "url": "https://startupfortune.com/elon-musk-admits-grok-bot-costs-too-much-to-run-as-users-hit-weekly-caps/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-spacex-xai-and-cursor-2",
+   "edition": "2026-11-02",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Colossus 2 grows by two sites, \"Gun Range\" for training and \"Spam\" for inference",
+   "lead": "Musk wrote on X on 31 October that the Macroharder and Minihard sites each have 220,000 Nvidia GB300 chips for training and that \"Gun Range\" will have the same, while \"Spam,\" a building that once housed Hormel products, will have about 200,000 GB300s set up for inference (answering user requests). Gun Range was the local police department's gun range.",
+   "text": "Business Insider quotes Musk: \"Gun Range is tracking to be operational by end of November and Spam in December.\" No new Grok Bot changelog entry since 0.78.1 on 27 October.",
+   "sources": [
+    {
+     "name": "X: @elonmusk, the sites",
+     "url": "https://x.com/elonmusk/status/2116587474021691629"
+    },
+    {
+     "name": "X: @elonmusk, Spam",
+     "url": "https://x.com/elonmusk/status/2116595217138639087"
+    },
+    {
+     "name": "Business Insider",
+     "url": "https://www.businessinsider.com/elon-musk-colossus-2-campus-spam-gun-range-2026-11"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-cypherboria-1",
+   "edition": "2026-11-02",
+   "section": "cypherboria",
+   "headline": "Doomcrypt, the CCRU archivist, is interviewed on Nick Land in ŠUM; a Zoom symposium on \"the One is not\" is set for 7 November",
+   "lead": "The Slovenian journal ŠUM published \"Doomcrypt Decrypts Nick Land: An Interview with the Ccru archivist\" on its Substack on 1 November, by Christian McDonough (@CMhcrDiosntoiua, \"Mister Cunus\"), done by email. It introduces Doomcrypt as the creator of the CCRU archive and of the Subdecadence and Qwertypology apps. Doomcrypt wrote that the interview covers \"Nick Land's philosophy and Qabbalism\"; the writer Germán Sierra shared it. Only the opening of the page could be read.",
+   "text": "\"OFFSITE: The One Is Not Symposium\" will be held on Zoom on Saturday, 7 November, at 11 AM US Eastern time (6 PM Israel time), for one hour by the Eventbrite listing, with three papers on Alain Badiou's phrase \"the One is not\" in relation to Xenolutheranism, contemporary materialism and speculative theology, by @chithinksonline, @patallax and Max Wade. resonatingloop and Doomcrypt reposted the announcement.",
+   "sources": [
+    {
+     "name": "ŠUM: the interview",
+     "url": "https://sumjournal.substack.com/p/doomcrypt-decrypts-nick-land"
+    },
+    {
+     "name": "X: @doomcrypt",
+     "url": "https://x.com/doomcrypt/status/2116905447294914593"
+    },
+    {
+     "name": "Eventbrite: the symposium",
+     "url": "https://www.eventbrite.com/e/offsite-the-one-is-not-symposium-tickets-2004202988089"
+    },
+    {
+     "name": "X: the announcement",
+     "url": "https://x.com/i/status/2117062362838819225"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-cypherboria-2",
+   "edition": "2026-11-02",
+   "section": "cypherboria",
+   "headline": "Net Void reads the 1611 King James Genesis as encoded Gnostic lore; Canon: TCG's Kickstarter closes today",
+   "lead": "In a 1 November thread, Net Void read the opening of the 1611 King James Genesis in Gnostic terms, with \"Bereshit\" as a female principle (Sophia) and Elohim as the Demiurge and his Archons, and wrote of Genesis 1:27: \"Image of God equals to the Demiurge in archaic ordinal. The KJV is encoded in gnostic lore.\" She added that she has to find out whether \"sir francis (the cryptographer of the KJV)\" was into Gnostic lore (presumably Francis Bacon; unconfirmed), and posted on Sin as the Demiurge's wife in Paradise Lost. @AOElection answered with Milton quotes and offered to discuss it on his Gnosticism stream. Her posts may not open for everyone if her account is protected.",
+   "text": "Net Void also reposted @BiggeeSmols on getting five original CCRU Abstract Culture pamphlets, and Cyphers promoted a UK show on \"the night before Nov 5th\" (via @grimfelofficial). Canon: TCG posted \"22 hours to go!\" on the evening of 1 November, so its Kickstarter ends around late afternoon Israel time on 2 November (an estimate; earlier given here as about 3 November); Doomcrypt says the Land card has had \"rave reviews from the Lemurs of the AQ, EO, and QWERTY ciphers.\" resonatingloop fixed bugs on her gematria site and says a new site is coming \"in the next few weeks.\" Land himself posted on 1 November that \"the ethnic foundations of capitalism is the crucial political insight of our times,\" that \"Palestine is the South Africa of our time... It's the key to pretty much everything, geopolitically,\" followed by a crude, insulting post about Western supporters of the Palestinian flag, and joked that he might do something \"for Gnostic Calvinist reasons.\" NewsNation's Reality Check uploaded \"Jacques Vallée's Last Words on UFO Mystery\" (1 hour 50 minutes) on 1 November, labeled a \"Rewind,\" meaning a rerun; the original date is not given.",
+   "sources": [
+    {
+     "name": "X: Net Void on Genesis 1:27",
+     "url": "https://x.com/i/status/2116887780521312330"
+    },
+    {
+     "name": "X: Net Void on the KJV's cryptographer",
+     "url": "https://x.com/i/status/2116888411713773611"
+    },
+    {
+     "name": "Kickstarter: Canon: TCG",
+     "url": "https://www.kickstarter.com/projects/canontcg/canon-tcg"
+    },
+    {
+     "name": "X: Land on capitalism",
+     "url": "https://x.com/xenocosmography/status/2116812727658459178"
+    },
+    {
+     "name": "X: Land on Palestine",
+     "url": "https://x.com/xenocosmography/status/2116935255542382634"
+    },
+    {
+     "name": "YouTube: Reality Check Rewind",
+     "url": "https://www.youtube.com/watch?v=6wOo0FhmDws"
     }
    ]
   }

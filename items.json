@@ -5124,6 +5124,509 @@
      "note": "Approximate: Nominatim point near Susya; exact grove not named"
     }
    ]
+  },
+  {
+   "id": "2026-11-02-attacks-maale-tidhar-stoning-giti-jammain-galon",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "attacks",
+   "headline": "A day of stone attacks: a mass stoning at Ma'ale Tidhar, and cars hit at Giti junction, the Jamma'in quarries junction and on the Galon road",
+   "summary": "On Sunday, 1 Nov, JSR, the settlers' Judea and Samaria situation room, reported a run of stone attacks on Israeli drivers and residents. At 12:45 it reported a \"massive\" stoning at Ma'ale Tidhar in eastern Gush Etzion and later posted video credited to the volunteer group Rescue Without Borders (<a href=\"https://x.com/i/status/2116844019539988961\">JSR on X</a>, <a href=\"https://x.com/i/status/2116857364766765130\">video</a>). Elisha Yered, a settler activist from the hilltop community, wrote that men who came as olive \"harvesters\" from Beit Fajjar attacked hilltop residents on the access road; he said their faces are visible on video and that no one had been arrested yet (<a href=\"https://x.com/i/status/2116839143766421637\">Yered on X</a>). Earlier, at 10:38, JSR reported stones thrown at cars at Giti (Giti Avishar) junction on the Trans-Samaria road (<a href=\"https://x.com/i/status/2116812050076692834\">JSR</a>), and at 10:49 at the Jamma'in quarries junction, which Simcha Raz, a settlement-side reporter, places west of Tapuach junction (<a href=\"https://x.com/i/status/2116814795852689552\">JSR</a>, <a href=\"https://x.com/i/status/2116860624466522462\">Raz</a>). At 20:46 JSR said a car was hit on the Galon road in Gush Etzion, about 170 meters west of Taxi junction, and its windshield was damaged (<a href=\"https://x.com/i/status/2116964992398356521\">JSR</a>). No injuries were reported. The incidents also appear in the evening summary of @Israel8251, a settler-side incident tracker (<a href=\"https://x.com/i/status/2116994348894007415\">summary</a>). Police and army statements on these incidents were not found, so the details rest on these settlement-side sources.",
+   "source": "JSR (settlers' situation room) / Elisha Yered / Simcha Raz / @Israel8251",
+   "date": "2026-11-01",
+   "url": "https://x.com/i/status/2116844019539988961",
+   "places": [
+    {
+     "name": "Ma'ale Tidhar",
+     "lat": 31.6104,
+     "lon": 35.1851,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Giti (Giti Avishar) junction",
+     "lat": 32.1096,
+     "lon": 35.1403,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Jamma'in (quarries junction is nearby)",
+     "lat": 32.1317,
+     "lon": 35.2022,
+     "note": "Nominatim point for the village; the junction itself was not plotted (approximate)"
+    },
+    {
+     "name": "Galon road near Taxi junction, Gush Etzion",
+     "lat": 31.6467,
+     "lon": 35.1327,
+     "note": "Approximate: Nominatim point for Gush Etzion junction"
+    }
+   ],
+   "lead": true,
+   "highlight": true
+  },
+  {
+   "id": "2026-11-02-idf-yehuda-junction-probe-mag-fork-turkey",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "idf",
+   "headline": "Army inquiry into the Yehuda junction attack: a chamber safety insert caused jams in two soldiers' rifles, and the attack was directed by Hamas from Turkey",
+   "summary": "Channel 14's military reporter Hallel Bitton Rosen reported on Sunday evening the new findings of the army's inquiry into the 23 Oct shooting at Yehuda junction near Hebron, in which Staff Sgt. Ron Yonatan Roytman, 23, of Ashkelon and Sgt. Yuval Shai Svilem, 20, of Hod Hasharon were killed. According to the report, two soldiers' rifles jammed because a \"mak-poruk\" (a plastic insert that shows the chamber is empty) was still in the chamber. One of them cleared it and fired three rounds at the gunmen before he was hit. The army has since changed its instructions: soldiers on operations in the area must remove the insert. The report also says the attack was directed by Hamas operatives in Turkey. The IDF spokesperson said the inquiry has not yet been presented to the bereaved families (<a href=\"https://www.c14.co.il/article/1767747\">Channel 14</a>). Bitton Rosen also posted the same findings and, later, footage of a jam during the Kiryat Arba security officer's response (<a href=\"https://x.com/i/status/2116979563100041575\">X</a>, <a href=\"https://x.com/i/status/2116991999219728595\">footage</a>). The findings have not yet been confirmed by a second outlet.",
+   "source": "Channel 14 (Hallel Bitton Rosen)",
+   "date": "2026-11-01",
+   "url": "https://www.c14.co.il/article/1767747",
+   "places": [
+    {
+     "name": "Yehuda junction (attack site)",
+     "lat": 31.5648,
+     "lon": 35.1193,
+     "note": "Approximate: Nominatim point for the junction named צומת יהודה"
+    },
+    {
+     "name": "Kiryat Arba",
+     "lat": 31.5278,
+     "lon": 35.1192,
+     "note": "Nominatim"
+    }
+   ],
+   "highlight": true
+  },
+  {
+   "id": "2026-11-02-idf-katz-ends-roar-of-judah-hebron",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "idf",
+   "headline": "Katz approves ending Operation Roar of Judah in Hebron after nine days, with two conditions",
+   "summary": "Defense Minister Israel Katz on Sunday evening approved the army's request to end Operation \"Roar of Judah\" in Hebron, after a security meeting that began at 19:00 without Prime Minister Netanyahu, Channel 14 reported. Katz set two conditions: the army must keep the ability to evacuate city neighborhoods ready for future use, and the Palestinian Authority and other Palestinian bodies must be told that after another attack the evacuations will be used much more widely. The army had asked on Friday to end the operation after the attackers' homes were blown up, and the political leaders refused at that time (<a href=\"https://www.c14.co.il/article/1767769\">Channel 14</a>; also <a href=\"https://x.com/i/status/2116962725242806401\">Bitton Rosen on X</a>). On the Palestinian side, Srugim, a religious-Zionist news site, reported that Palestinians moved out of their homes in Hebron say they will protest every day at 14:00 until they can return (<a href=\"https://www.srugim.co.il/newsflash/142498\">Srugim</a>). Ayelet Lash, a settlement-side commentator, reported shooting in Hebron overnight into Sunday (<a href=\"https://x.com/i/status/2116807329018503245\">Lash on X</a>; unconfirmed).",
+   "source": "Channel 14 / Srugim",
+   "date": "2026-11-01",
+   "url": "https://www.c14.co.il/article/1767769",
+   "places": [
+    {
+     "name": "Hebron",
+     "lat": 31.5289,
+     "lon": 35.0945,
+     "note": "City center (Nominatim); the operation was in the western neighborhoods"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-land-beit-lid-qaddum-illegal-road-blocked",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "land",
+   "headline": "Residents of Beit Lid and Qaddum pave an unauthorized road linking Route 55 and Route 57; the army blocks it",
+   "summary": "Simcha Raz, a settlement-side reporter, wrote on Sunday that Palestinians from Beit Lid and Kafr Qaddum paved an unauthorized \"strategic\" road between Route 55 and Route 57 in Samaria. Residents of the Givat Shirat Zion hilltop warned about the work, the Kedumim local council turned to the army, and the army blocked the road on Saturday (<a href=\"https://x.com/i/status/2116937960197365994\">Raz on X</a>). The army has not confirmed this publicly, so the report is unconfirmed. Background on Palestinian building and planning: <a href=\"https://tomgassistant-png.github.io/desk/khamaisi/\">Khamaisi backgrounder on Palestinian planning</a>.",
+   "source": "Simcha Raz (X)",
+   "date": "2026-11-01",
+   "url": "https://x.com/i/status/2116937960197365994",
+   "places": [
+    {
+     "name": "Beit Lid",
+     "lat": 32.2611,
+     "lon": 35.1307,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Kafr Qaddum",
+     "lat": 32.2206,
+     "lon": 35.1429,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Kedumim",
+     "lat": 32.2177,
+     "lon": 35.1604,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-attacks-jackson-farm-shepherd-khirbet-tawil",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "attacks",
+   "headline": "A shepherd from Jackson's farm in the Jordan Valley is attacked near Khirbet Tawil; five goats reported missing",
+   "summary": "JSR reported at 14:35 on Sunday that \"anarchists\" (the settlers' term for left-wing activists) attacked a shepherd from Jackson's farm near Khirbet Tawil in the Jordan Valley area. One person was hurt, and about five goats were missing from the flock (<a href=\"https://x.com/i/status/2116871763728413171\">JSR on X</a>). No police statement was found; unconfirmed beyond JSR.",
+   "source": "JSR (settlers' situation room)",
+   "date": "2026-11-01",
+   "url": "https://x.com/i/status/2116871763728413171",
+   "places": [
+    {
+     "name": "Khirbet Tawil area (east of Aqraba)",
+     "lat": 32.127,
+     "lon": 35.3438,
+     "note": "Approximate: Nominatim point for Aqraba; Khirbet Tawil itself was not found in Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-pa-deif-documentary-incitement-nablus-news",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "pa",
+   "headline": "After Al Jazeera's film on Mohammed Deif, a large Nablus news page posts a Hamas poster; a settlement-side analyst warns of copycat attackers",
+   "summary": "JSR reported that after Al Jazeera aired its documentary on the late Hamas military chief Mohammed Deif (\"What Is Hidden Is Greater,\" broadcast on 30 Oct), the \"Nablus News\" page, with about 181,000 followers, posted a Hamas poster praising him (<a href=\"https://x.com/i/status/2116845550481846519\">JSR on X</a>). Yotam Deshe, a settlement-side security commentator, warned that such material can push lone attackers to act (<a href=\"https://x.com/i/status/2116848087784169512\">Deshe on X</a>). The follower count and poster are as JSR reported them.",
+   "source": "JSR / Yotam Deshe (X)",
+   "date": "2026-11-01",
+   "url": "https://x.com/i/status/2116845550481846519",
+   "places": [
+    {
+     "name": "Nablus",
+     "lat": 32.2205,
+     "lon": 35.2569,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-pa-fourteen-foreigners-deportation-lubban",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "pa",
+   "headline": "Police: 14 foreign nationals detained near a farm at Lubban al-Sharqiya are sent to the Population Authority for possible deportation",
+   "summary": "Police said 14 foreign nationals were detained over the weekend on suspicion of involvement in a clash near a farm in the Lubban al-Sharqiya area. They were questioned at the Modiin Illit station on suspicion of breaking a lawful order and being in a closed military zone, and their files were sent to the Population and Immigration Authority for a hearing on deportation (<a href=\"https://www.srugim.co.il/newsflash/142422\">Srugim</a>, <a href=\"https://www.c14.co.il/article/1766201\">Channel 14</a>). Simcha Raz called them \"anarchists\" who rioted at the farm (<a href=\"https://x.com/i/status/2116757498023534617\">Raz on X</a>). Makor Rishon's headline gave the number as 16; the police figure is 14.",
+   "source": "Srugim / Channel 14 / Simcha Raz",
+   "date": "2026-11-01",
+   "url": "https://www.srugim.co.il/newsflash/142422",
+   "places": [
+    {
+     "name": "Lubban al-Sharqiya",
+     "lat": 32.0713,
+     "lon": 35.2412,
+     "note": "Nominatim (village council point)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-pa-reform-progressive-groups-harvest-beitar",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "pa",
+   "headline": "Settlement-side outlets on the harvest: Rabbis for Human Rights at the Beitar Illit fence, and US Reform groups behind the activists",
+   "summary": "Olam Katan, a religious-Zionist weekly, described dozens of activists from Rabbis for Human Rights, most of them Reform rabbis, who came last weekend to \"help\" an Arab olive harvest right next to the Beitar Illit fence in Gush Etzion, mostly to be photographed, in the paper's account (<a href=\"https://x.com/i/status/2116947799438733556\">Olam Katan on X</a>). Elchanan Groner, a settlement-side journalist, wrote that delegations from US progressive and Reform groups, including the rabbis' group T'ruah, are behind the harvest \"provocations\" (<a href=\"https://x.com/i/status/2116928424367538309\">Groner on X</a>). Both are opinion reporting.",
+   "source": "Olam Katan / Elchanan Groner",
+   "date": "2026-11-01",
+   "url": "https://x.com/i/status/2116947799438733556",
+   "places": [
+    {
+     "name": "Beitar Illit",
+     "lat": 31.6992,
+     "lon": 35.1039,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-land-friedman-visits-esh-kodesh",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "land",
+   "headline": "Former US ambassador David Friedman visits Esh Kodesh: \"Those living here deserve to live in peace\"",
+   "summary": "David Friedman, the former US ambassador to Israel, posted on Sunday that he visited Esh Kodesh in Binyamin, \"a quiet village very close to all the noise we've been hearing lately,\" and wrote that its residents \"deserve to live in peace\" (<a href=\"https://x.com/i/status/2116955811385913684\">Friedman on X</a>).",
+   "source": "David Friedman (X)",
+   "date": "2026-11-01",
+   "url": "https://x.com/i/status/2116955811385913684",
+   "places": [
+    {
+     "name": "Esh Kodesh",
+     "lat": 32.0654,
+     "lon": 35.3359,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-negev-maayan-bribery-claim-raam-suspects-court",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "negev",
+   "headline": "Arad's mayor describes an alleged vote-buying system in the Negev; the court rules on the Ra'am cash-envelope suspects",
+   "summary": "In an interview with Olam Katan, Arad mayor Yair Maayan, a former director-general of the Bedouin Authority, described what he calls the bribery system behind the jump in Negev Arab turnout: suitcases of cash, fuel cards, and education budgets that he says flowed to Gaza (<a href=\"https://x.com/i/status/2116930216975016424\">Olam Katan on X</a>; his claims are unconfirmed). In court on Sunday, one of the three suspects in the Ra'am cash-envelope case had his custody extended by three days, a second was released under conditions, and the third was sent to house arrest, though police asked to delay that (<a href=\"https://www.srugim.co.il/newsflash/142525\">Srugim</a>). Separately, Srugim reported a suspicion that a Joint List MK received hundreds of thousands of shekels in cash, with no evidence so far that the money reached voters (<a href=\"https://www.srugim.co.il/newsflash/142458\">Srugim</a>).",
+   "source": "Olam Katan / Srugim",
+   "date": "2026-11-01",
+   "url": "https://www.srugim.co.il/newsflash/142525",
+   "places": [
+    {
+     "name": "Arad",
+     "lat": 31.2612,
+     "lon": 35.2146,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-negev-new-arab-mks-turkey-groups",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "negev",
+   "headline": "Two reports link new Arab MKs to groups in Turkey: Ta'al's Ahmad Darawshe and Ra'am's Abd al-Karim Masri",
+   "summary": "Channel 14 reported that Ahmad Darawshe of Ta'al, the former aide to Ahmad Tibi who was elected eighth on the Joint List, met in 2021 in southern Turkey with officials of a Palestinian charity whose people have praised terrorists, including a man presented as a Fatah representative (<a href=\"https://www.c14.co.il/article/1767706\">Channel 14</a>). Elchanan Groner, citing an investigation by the right-wing site HaKol HaYehudi, wrote that new Ra'am MK Sheikh Abd al-Karim Masri headed the \"Humanitarian Deeds\" association, which was dissolved and had its bank account frozen over suspected terror financing, and that he signed a cooperation deal with the Turkish group Hayat Yolu (<a href=\"https://x.com/i/status/2116903183976948216\">Groner on X</a>). Groner gives Masri's list place as 6th on X and 8th on Telegram, so it is unconfirmed; the claims about Masri are unconfirmed by a second outlet.",
+   "source": "Channel 14 / Elchanan Groner (HaKol HaYehudi)",
+   "date": "2026-11-01",
+   "url": "https://www.c14.co.il/article/1767706",
+   "places": [
+    {
+     "name": "Knesset, Jerusalem",
+     "lat": 31.7765,
+     "lon": 35.2054,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-negev-bedouin-raids-m16-camel-race",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "negev",
+   "headline": "Police raids in Negev Bedouin towns turn up three M-16 rifles, pistols and hashish; an illegal camel race in a firing zone is stopped",
+   "summary": "Be'er Sheva Net, a local news site, reported a broad police operation in recent days in the Negev's Bedouin communities, with the national guard of the Border Police and the Yoav unit. In Rahat police found three M-16 assault rifles, two Glock pistols, hundreds of rounds and about 25 kg of hashish; in Tel Sheva a police drone led to the arrest of a 15-year-old who fled after attacking his family and was found with ammunition and an improvised gun (<a href=\"https://www.b7net.co.il/%d7%97%d7%93%d7%a9%d7%95%d7%aa/%d7%9e%d7%a6%d7%95%d7%93-%d7%9e%d7%94%d7%90%d7%95%d7%95%d7%99%d7%a8-%d7%95%d7%a8%d7%95%d7%91%d7%99-m-16-%d7%94%d7%99%d7%a9%d7%92%d7%99-%d7%9e%d7%91%d7%a6%d7%a2-%d7%94%d7%90%d7%9b%d7%99%d7%a4%d7%94-%d7%94%d7%a0%d7%a8%d7%97%d7%91-%d7%91%d7%99%d7%99%d7%a9%d7%95%d7%91%d7%99-%d7%94%d7%91%d7%93%d7%95%d7%90%d7%99%d7%9d-%d7%91%d7%a0%d7%92%d7%91-810004\">Be'er Sheva Net</a>, <a href=\"https://www.srugim.co.il/newsflash/142435\">Srugim</a>). Srugim adds that suspects were also arrested in Arara, Rahat and Tarabin with stolen army ammunition. Police also stopped an illegal camel race planned in a firing zone near Route 222 at Bir Hadaj and held a man and a minor from Rahat (<a href=\"https://www.srugim.co.il/newsflash/142468\">Srugim</a>, <a href=\"https://www.c14.co.il/article/1766754\">Channel 14</a>).",
+   "source": "Be'er Sheva Net / Srugim",
+   "date": "2026-11-01",
+   "url": "https://www.b7net.co.il/%d7%97%d7%93%d7%a9%d7%95%d7%aa/%d7%9e%d7%a6%d7%95%d7%93-%d7%9e%d7%94%d7%90%d7%95%d7%95%d7%99%d7%a8-%d7%95%d7%a8%d7%95%d7%91%d7%99-m-16-%d7%94%d7%99%d7%a9%d7%92%d7%99-%d7%9e%d7%91%d7%a6%d7%a2-%d7%94%d7%90%d7%9b%d7%99%d7%a4%d7%94-%d7%94%d7%a0%d7%a8%d7%97%d7%91-%d7%91%d7%99%d7%99%d7%a9%d7%95%d7%91%d7%99-%d7%94%d7%91%d7%93%d7%95%d7%90%d7%99%d7%9d-%d7%91%d7%a0%d7%92%d7%91-810004",
+   "places": [
+    {
+     "name": "Rahat",
+     "lat": 31.3934,
+     "lon": 34.7547,
+     "note": "OpenStreetMap city point"
+    },
+    {
+     "name": "Tel Sheva",
+     "lat": 31.2456,
+     "lon": 34.8578,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Bir Hadaj",
+     "lat": 31.0263,
+     "lon": 34.7031,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-negev-illegal-residents-kafr-qasim-tarqumiya-barkai",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "negev",
+   "headline": "74 Palestinians without permits found in one building in Kafr Qasim; 18 caught crossing south of Tarqumiya; smuggling convoys still pass Carmel",
+   "summary": "Border Police detectives raided a residential building in Kafr Qasim with a court search warrant and found 74 Palestinians staying in Israel without permits; all were sent back to Judea and Samaria (<a href=\"https://www.srugim.co.il/newsflash/142506\">Srugim</a>). On Saturday night Border Police, soldiers and Kiryat Gat police caught 18 people who crossed the seam line south of the Tarqumiya crossing, 15 of them found by drone hiding on a wooded hill (<a href=\"https://www.srugim.co.il/newsflash/142480\">Srugim</a>). Elchanan Groner wrote that smuggling convoys from the Hebron Hills to the Negev keep passing the edge of the Barkai neighborhood of Carmel and that the security services are \"waiting for a disaster\" (<a href=\"https://x.com/i/status/2116819918012154011\">Groner on X</a>; his account).",
+   "source": "Srugim / Elchanan Groner",
+   "date": "2026-11-01",
+   "url": "https://www.srugim.co.il/newsflash/142506",
+   "places": [
+    {
+     "name": "Kafr Qasim",
+     "lat": 32.1152,
+     "lon": 34.9753,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Tarqumiya crossing",
+     "lat": 31.5548,
+     "lon": 35.0013,
+     "note": "Nominatim point labeled Suba - Tarqumiya (approximate)"
+    },
+    {
+     "name": "Carmel (Barkai neighborhood)",
+     "lat": 31.4309,
+     "lon": 35.1833,
+     "note": "Community point; the neighborhood was not plotted"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-negev-afula-synagogue-indictment",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "negev",
+   "headline": "Arab teen, 15, charged with vandalizing holy books and setting a fire in an Afula synagogue out of hostility to Jews",
+   "summary": "The Northern District prosecutor charged a 15-year-old Arab boy with breaking into a synagogue in Afula on 19 Oct, throwing holy books on the floor, pouring liquids on them, setting toilet paper alight and stealing the charity box. According to the investigation he acted out of hostility toward Jews, shortly after an argument with his family. The charges include damaging property with a racist motive (<a href=\"https://www.c14.co.il/article/1766590\">Channel 14</a>). Makor Rishon's headline reports the same case.",
+   "source": "Channel 14",
+   "date": "2026-11-01",
+   "url": "https://www.c14.co.il/article/1766590",
+   "places": [
+    {
+     "name": "Afula",
+     "lat": 32.6076,
+     "lon": 35.2891,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-attacks-a-tur-minors-firebombs",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "attacks",
+   "headline": "Four Arab minors from a-Tur are arrested for throwing firebombs at Jewish homes in East Jerusalem",
+   "summary": "Police arrested four minors from the a-Tur neighborhood on Saturday on suspicion of throwing firebombs at Jewish homes in East Jerusalem. The acts were recorded as they happened, and the court extended their custody to Wednesday, 4 Nov (<a href=\"https://www.c14.co.il/article/1766300\">Channel 14</a>). No second outlet was found; the details are as Channel 14 reported them from police.",
+   "source": "Channel 14",
+   "date": "2026-11-01",
+   "url": "https://www.c14.co.il/article/1766300",
+   "places": [
+    {
+     "name": "A-Tur, Jerusalem",
+     "lat": 31.7813,
+     "lon": 35.2493,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-negev-isfiya-killing",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "negev",
+   "headline": "A young man is shot dead in Isfiya, adding to the year's record of killings in Arab communities",
+   "summary": "A man was killed early Sunday (06:25) in Isfiya on Mount Carmel; Magen David Adom found him with penetrating wounds (<a href=\"https://www.srugim.co.il/newsflash/142432\">Srugim</a>). Haaretz named him as Amir Abu Hamda, 23, of Yarka, with a criminal background, and counted 228 people killed this year, 188 of them Arab citizens (<a href=\"https://www.haaretz.co.il/news/law/2026-11-01/ty-article/.premium/000001a1-9579-db9a-a1b3-9d7b4c5e0000\">Haaretz</a>). Srugim gave his age as about 25; Haaretz says 23.",
+   "source": "Srugim / Haaretz",
+   "date": "2026-11-01",
+   "url": "https://www.srugim.co.il/newsflash/142432",
+   "places": [
+    {
+     "name": "Isfiya",
+     "lat": 32.7152,
+     "lon": 35.0671,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-negev-nahariya-christian-prayer-house",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "negev",
+   "headline": "A Christian prayer house in Nahariya is vandalized; police are investigating",
+   "summary": "Nahariya police opened an investigation after damage was done to a city building used as a Christian house of prayer; police said all lines of inquiry are being checked (<a href=\"https://www.maariv.co.il/breaking-news/article-1383730\">Maariv</a>). Ynet's feed says the building serves the Christian community of former South Lebanon Army soldiers, and religious images were smashed; Kan's headline reports the same.",
+   "source": "Maariv / Ynet / Kan",
+   "date": "2026-11-01",
+   "url": "https://www.maariv.co.il/breaking-news/article-1383730",
+   "places": [
+    {
+     "name": "Nahariya",
+     "lat": 33.0066,
+     "lon": 35.0984,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-attacks-tel-menashe-burglary-weapons",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "attacks",
+   "headline": "Burglars at Tel Menashe break a safe and take only the weapon",
+   "summary": "Elchanan Groner reported a first summary of a burglary at Tel Menashe in northern Samaria: the burglars lifted a shutter, broke open a safe with a hammer and screwdriver, and took only the gun. New instructions tell residents not to show their weapons to workers and tradesmen (<a href=\"https://t.me/realelchangr/7150\">Groner on Telegram</a>). Unconfirmed by a second source.",
+   "source": "Elchanan Groner (Telegram)",
+   "date": "2026-11-01",
+   "url": "https://t.me/realelchangr/7150",
+   "places": [
+    {
+     "name": "Tel Menashe",
+     "lat": 32.4834,
+     "lon": 35.1604,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-pa-israeli-arabs-enter-area-a",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "pa",
+   "headline": "Settlement-side voices: Israeli Arabs move freely into Area A while Jews are barred, and Israelis still take cars there for repair",
+   "summary": "Eliav Libi, a settlement-side writer, called it \"a surreal reality\" that Jews may not enter Area A while Israeli Arabs come and go freely, and said this is also dangerous (<a href=\"https://x.com/i/status/2116923773211333108\">Libi on X</a>). Ayelet Lash wrote that Israelis keep taking cars for repair in Judea and Samaria despite the ban (<a href=\"https://x.com/i/status/2116959620296004083\">Lash on X</a>). Opinion.",
+   "source": "Eliav Libi / Ayelet Lash (X)",
+   "date": "2026-11-01",
+   "url": "https://x.com/i/status/2116923773211333108",
+   "places": [
+    {
+     "name": "Nablus (Area A)",
+     "lat": 32.2205,
+     "lon": 35.2569,
+     "note": "Approximate: no place named; marker at Nablus"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-idf-nablus-old-city-market",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "idf",
+   "headline": "Palestinian reports: large army forces enter the old city market in Nablus",
+   "summary": "Citing Palestinian reports, Srugim said large army forces entered the market in Nablus's old city on Sunday morning (<a href=\"https://www.srugim.co.il/newsflash/142452\">Srugim</a>). Ultra Palestine, a Palestinian news site, also reported the raid on X. The army did not comment.",
+   "source": "Srugim / Ultra Palestine",
+   "date": "2026-11-01",
+   "url": "https://www.srugim.co.il/newsflash/142452",
+   "places": [
+    {
+     "name": "Nablus (old city)",
+     "lat": 32.2205,
+     "lon": 35.2569,
+     "note": "City point (Nominatim)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-land-shirat-zion-border-police-complaint",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "land",
+   "headline": "Complaint: Border Police raided Givat Shirat Zion and beat a sleeping teenager (Makor Rishon headline)",
+   "summary": "Makor Rishon's headline and summary say Border Police raided a building on the Givat Shirat Zion hilltop before dawn, woke a minor with violence, arrested him and then accused him of attacking the officers; Honenu, a legal aid group for Jewish suspects, asked the police internal affairs unit to investigate (<a href=\"https://www.makorrishon.co.il/news/settlement/article/387731\">Makor Rishon</a>). Not confirmed elsewhere.",
+   "source": "Makor Rishon (headline)",
+   "date": "2026-11-01",
+   "url": "https://www.makorrishon.co.il/news/settlement/article/387731",
+   "places": [
+    {
+     "name": "Givat Shirat Zion (near Kedumim)",
+     "lat": 32.2177,
+     "lon": 35.1604,
+     "note": "Approximate: the hilltop is not in Nominatim; marker at Kedumim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-02-pa-palestinian-claims-harvest-attacks",
+   "edition": "2026-11-02",
+   "published": "2026-11-02T04:45:00+02:00",
+   "letter": "PA security: 2 Nov 2026",
+   "section": "pa",
+   "headline": "Palestinian and left-wing claims: 19 attacks on olive pickers on Saturday; Haaretz urges Israelis to side with the harvesters",
+   "summary": "The PA's Colonization and Wall Resistance Commission, as reported by Ultra Palestine, claimed 19 attacks by settlers on olive pickers and their land in seven governorates on Saturday, 31 Oct (<a href=\"https://ultrapal.ultrasawt.com/%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D8%B1-19-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D9%8B-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%B7%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%88%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1\">Ultra Palestine</a>; PA figures, unconfirmed). A Haaretz editorial said Israelis must take the Palestinians' side in the harvest (<a href=\"https://www.haaretz.com/opinion/editorial/2026-11-01/ty-article/in-the-war-against-the-olive-harvest-israelis-must-take-the-palestinians-side/000001a1-98cb-dc07-a3f5-dadbaf390000\">Haaretz</a>).",
+   "source": "Ultra Palestine (citing the PA commission) / Haaretz",
+   "date": "2026-10-31",
+   "url": "https://ultrapal.ultrasawt.com/%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D8%B1-19-%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D9%8B-%D8%B9%D9%84%D9%89-%D9%82%D8%A7%D8%B7%D9%81%D9%8A-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%88%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+   "places": [
+    {
+     "name": "West Bank (no single place)",
+     "lat": 32.0,
+     "lon": 35.25,
+     "note": "Approximate: claims cover seven governorates"
+    }
+   ]
   }
  ],
  "highlight_count": 9,
