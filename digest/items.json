@@ -941,6 +941,10 @@
   "2026-11-02": {
    "intro": "Israel: the election chief says the vote stands despite the foreign-funding probe, Bennett's faction backs Eisenkot, UTJ may back no one, Polymarket now favors Eisenkot, and Fitch sees a likely repeat election in April; still no new official results before Wednesday. Also: Israel's reported plans if Hezbollah joins a new Iran war, clashes in Sweida, new details of Flávio Bolsonaro's escape and a rate-cap debate in Brazil, Philippe's refusal of a primary in France, the Quebec premier's answer to Carney, Musk on the cost of Grok Bot and two new Colossus 2 sites, and in Cypherboria a Doomcrypt interview on Land, a Badiou symposium and Net Void's Gnostic reading of the King James Bible.",
    "quiet": "Nothing material on the Carney case, UK breakup politics (opinion pieces only), Greenland, Trump and Xi, Colombia and Israel, Belle Burden, Trenton (only a nonprofit food grant, civic events and high-school sports), Israeli data centers, non-Latin script digitization, HaShiloach (no new essay), or Marc Andreessen."
+  },
+  "2026-11-03": {
+   "intro": "Israel: the election chief turns down Likud's request for probe details before Wednesday's results, Netanyahu wants a broad government he would lead, and Herzog's consultations are set for Wednesday and Thursday. Also: Israel's demand for Lebanese army checkpoints and a reported dispute over who verifies the truce, a Druze adviser for Syria's foreign minister, Flávio Bolsonaro's passport appeal and an expected rate pause in Brazil, Attal's push for a primary in France, Carney's meeting dates for Quebec's premier, Xi's coolness to a Ukraine summit, SpaceX's talks over Boost Mobile, a fake extension in Cursor's marketplace, and in Cypherboria a million decodes at Cyphers, Land on \"the great work\" and Vallée on Mystery Wire.",
+   "quiet": "Nothing material on the Carney case, UK breakup politics (opinion pieces only), Greenland (only repeats of earlier claims and airport stories), Colombia and Israel, Belle Burden, Trenton (only a smoke-alarm drive, obituaries and county ballot listings), Israeli data centers, non-Latin script digitization, HaShiloach (no new essay), or Marc Andreessen (only a16z deal news)."
   }
  },
  "items": [
@@ -8776,6 +8780,392 @@
     {
      "name": "YouTube: Reality Check Rewind",
      "url": "https://www.youtube.com/watch?v=6wOo0FhmDws"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-israel-election-1",
+   "edition": "2026-11-03",
+   "section": "israel-election",
+   "headline": "Sohlberg turns down Likud's request for probe details before results are approved Wednesday: \"Elections have results\"",
+   "lead": "Likud's legal adviser, Ilan Bombach, asked Central Elections Committee chairman Noam Sohlberg on Monday, 2 November, to convene the committee's presidium so Likud could get information on the suspected foreign interference before the official results are approved on Wednesday. Sohlberg refused. He wrote that \"elections have results,\" that under the election regulations the presidium and the full committee only count votes, and that handing over the information would harm the investigation (Ynet; The Times of Israel; Haaretz).",
+   "text": "Otzma Yehudit says it will vote against approving the results in the committee (Ynet; Maariv). Gadi Eisenkot called Likud's move \"a holding battle\" and a direct attack on democracy, and Yair Lapid called it an attempt to cancel Israeli democracy (Ynet; Maariv). A Kan headline says the results will go to the President even without the committee's approval; the article itself was not opened. On the investigation itself: Ynet reports the Shin Bet is racing to finish by Wednesday a probe of money transfers to a political figure, on suspicion of election bribery, amid tension between Shin Bet chief David Zini and the agency's legal adviser. JNS, citing Channel 14, says Zini complained of obstruction by legal advisers during a six-hour meeting with Sohlberg, and Haaretz reports Zini had sought to delay the results until Sunday. A Kan headline says the evidence of Qatari involvement is thin (headline only). Srugim reports the Attorney General now requires her own approval before Joint List aides are questioned; Likud calls this selective enforcement. Separately, a police complaint was filed over a threat against Eisenkot's wife, Hana (Times of Israel feed headline; Kan and Israel Hayom headlines).",
+   "sources": [
+    {
+     "name": "Ynet: Likud asked for information; Sohlberg: results on time",
+     "url": "https://www.ynet.co.il/news/article/h1zgavi6gx"
+    },
+    {
+     "name": "The Times of Israel: Likud seeks to delay certification and is rebuffed",
+     "url": "https://www.timesofisrael.com/likud-seeks-delay-in-certification-of-election-results-citing-interference-probe/"
+    },
+    {
+     "name": "Haaretz: Likud doubles down on demand for probe",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-02/ty-article/.premium/after-election-chief-says-vote-valid-likud-seeks-probe-briefing-before-results/000001a1-9cbe-df63-ade5-feff1a010000"
+    },
+    {
+     "name": "Ynet: Otzma Yehudit will vote against approval",
+     "url": "https://www.ynet.co.il/news/article/s1mflriaze"
+    },
+    {
+     "name": "Maariv (flash)",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384106"
+    },
+    {
+     "name": "Maariv (flash): Lapid",
+     "url": "https://www.maariv.co.il/breaking-news/article-1384117"
+    },
+    {
+     "name": "Ynet: Shin Bet races to finish the probe",
+     "url": "https://www.ynet.co.il/news/article/b1g7v7l6fx"
+    },
+    {
+     "name": "JNS: Shin Bet chief accuses legal advisers of obstruction",
+     "url": "https://www.jns.org/news/israel-news/shin-bet-chief-accuses-legal-advisers-of-obstructing-probe-into-election-bribery-scandal"
+    },
+    {
+     "name": "Haaretz: Shin Bet chief sought to delay results",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-02/ty-article/.premium/sources-shin-bet-head-sought-results-delay-over-alleged-foreign-influence/000001a1-9c26-d216-a5af-ffb78dd20000"
+    },
+    {
+     "name": "Srugim: AG approval needed to question Joint List aides",
+     "url": "https://www.srugim.co.il/101015123"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-israel-election-2",
+   "edition": "2026-11-03",
+   "section": "israel-election",
+   "headline": "Netanyahu's first statement since election night: a broad government led by him, not one that depends on Arab parties; Golan: \"Netanyahu lost the election\"",
+   "lead": "On the evening of 2 November, Benjamin Netanyahu said he is open to talks on a broad government made up of his bloc's partners and others, with himself at its head, and rejected any government that relies on Ra'am or the Joint List (Ynet; Haaretz). Yair Golan of the Democrats answered: \"Netanyahu lost the election\" (Ynet).",
+   "text": "Avigdor Lieberman will recommend Eisenkot to President Herzog but criticized him sharply, calling 48 seats for the bloc's lead party \"a searing failure\" and Eisenkot's campaign \"egoistic,\" and backed Yair Lapid over Amir Ohana for Knesset speaker; senior figures in Eisenkot's Yashar! party replied that \"Lapid will not be speaker\" (Srugim). The Democrats will also recommend Eisenkot. On Polymarket's next-prime-minister market at about 4:25 AM Israel time on 3 November: Eisenkot 42.9 percent (43.55 a day earlier), Netanyahu 33.0, Bennett 4.4, Lieberman 4.2 and Yossi Cohen 0.9.",
+   "sources": [
+    {
+     "name": "Ynet: Netanyahu open to a broad government that he would lead",
+     "url": "https://www.ynet.co.il/news/article/skegvi8tzl"
+    },
+    {
+     "name": "Haaretz: Netanyahu says Israelis do not want a government with Arab parties",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-02/ty-article/.premium/netanyahu-israelis-dont-want-govt-with-arab-parties-that-support-terror/000001a1-9d8b-d02e-abe7-dd8f38fe0000"
+    },
+    {
+     "name": "Srugim: Lieberman on Eisenkot and the speakership",
+     "url": "https://www.srugim.co.il/101015112"
+    },
+    {
+     "name": "Polymarket: Israel next prime minister",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-israel-election-3",
+   "edition": "2026-11-03",
+   "section": "israel-election",
+   "headline": "Herzog's schedule set: consultations Wednesday and Thursday, Likud last; change-bloc leaders meet today on a plan to take over the Knesset",
+   "lead": "President Herzog will meet the parties on Wednesday, 4 November (Religious Zionism–Zehut at 5:00 PM, Shas at 6:15 PM, Yisrael Beiteinu at 7:15 PM) and on Thursday, 5 November (UTJ 8:30 AM, Otzma Yehudit 9:45 AM, the Democrats 11:00 AM, Ra'am 12:15 PM, the Joint List 4:45 PM, B'Yachad 6:00 PM, Yashar! 7:15 PM and Likud 8:30 PM), all Israel time; Eisenkot is expected to get the first mandate (Ynet).",
+   "text": "The leaders of the change bloc meet today, 3 November, Ynet reports, to plan \"taking over the Knesset\": the speaker's post, the Arrangements Committee, which sets up the Knesset's committees, and the repeal of laws. They still disagree on how to build a government: Eisenkot favors a minority government with the Haredi parties, Golan wants Ra'am in it, and Bennett and Lieberman oppose relying on Arab parties. Several Yashar! lawmakers told Srugim, \"Don't count us\" on any government that relies on the Joint List. There are still no new official results; they are due Wednesday. The Central Elections Committee's results sites could not be opened (votes26.bechirot.gov.il and bechirot.gov.il return 404; the gov.il committee page returns 403).",
+   "sources": [
+    {
+     "name": "Ynet: the President's consultation schedule",
+     "url": "https://www.ynet.co.il/news/article/b1dpvy86zg"
+    },
+    {
+     "name": "Ynet: change-bloc leaders meet",
+     "url": "https://www.ynet.co.il/news/article/sj9xm8upml"
+    },
+    {
+     "name": "Srugim: Yashar! lawmakers on the Joint List",
+     "url": "https://www.srugim.co.il/101015129"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-lebanon-1",
+   "edition": "2026-11-03",
+   "section": "lebanon",
+   "headline": "Israel asks, through the US, that the Lebanese army set up checkpoints where Hezbollah members live; Naharnet: Israel wants an NGO, not European or African states, to verify the truce",
+   "lead": "Kan reports that Israel, through US mediators, demanded that the Lebanese army redeploy and set up checkpoints in areas where Hezbollah operatives live, and warned that fighting in Lebanon will resume if Hezbollah joins a renewed campaign against Iran. The air force has stepped up strikes in Lebanon over the last three weeks, and Kan says Israel believes President Trump may order a renewed Iran campaign within days (Kan; Israel National News, which also cites Asharq al-Awsat on fear in Beirut's southern suburbs).",
+   "text": "Naharnet, citing the Lebanese paper Nidaa al-Watan on Monday, 2 November, reports that at the talks in Tampa Israel proposed that a non-governmental organization monitor the truce and the proposed pilot zones, and rejected the European or African countries Lebanon had suggested; Beirut called this an infringement on its sovereignty, and talks are on hold until Israel's political situation settles (single source, unconfirmed). There was no new Israeli reaction to the planned European security mission and no news on which countries will contribute to it.",
+   "sources": [
+    {
+     "name": "Kan News",
+     "url": "https://www.kan.org.il/content/kan-news/defense/1115365/"
+    },
+    {
+     "name": "Israel National News",
+     "url": "https://www.inn.co.il/news/709913"
+    },
+    {
+     "name": "Naharnet: Israel proposes NGO for verification",
+     "url": "https://www.naharnet.com/stories/en/323488-israel-proposes-ngo-for-verification-rejects-nations-proposed-by-lebanon"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-lebanon-2",
+   "edition": "2026-11-03",
+   "section": "lebanon",
+   "headline": "Syria names Sweida-born Druze activist and TV figure Muzna al-Atrash as the foreign minister's adviser for peace affairs",
+   "lead": "Syrian Foreign Minister Asaad al-Shaibani appointed Muzna al-Atrash as his adviser for peace affairs on Monday, 2 November, as announced by the state news agency SANA (The National; Al-Monitor). She was born in Sweida in 1987, is a relative of the Druze revolt leader Sultan Pasha al-Atrash, and sits on the UN's Syrian Women's Advisory Board; her duties were not specified.",
+   "text": "She had criticized the government as recently as last December (Al-Monitor). In Sweida itself, seen only as headlines through Google News: the Syrian Observatory reports a shell hit the house of a National Guard leader, and Al-Quds al-Arabi reports explosions in Daraa and Sweida as Israeli aircraft flew overhead.",
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/news/mena/2026/11/02/syria-appoints-druze-tv-personality-and-activist-as-peace-adviser/"
+    },
+    {
+     "name": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/meet-muzna-al-atrash-syrias-new-druze-adviser-peace-affairs"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-brazil-1",
+   "edition": "2026-11-03",
+   "section": "brazil",
+   "headline": "Flávio Bolsonaro appeals the seizure of his passports and asks that Moraes be declared barred from the case",
+   "lead": "Flávio Bolsonaro's lawyers asked the Supreme Court on Monday, 2 November, to revoke Justice Alexandre de Moraes's 25 October order that seized and canceled all his Brazilian passports, including his diplomatic one, and barred contact with lawyer Willer Tomaz, and asked that Moraes be declared barred or suspect in the money-laundering inquiry (G1; R7).",
+   "text": "The defense argues that Moraes cannot judge a case involving Fraction 024, the company that owned a jet Moraes used, because of ties between the company and the law firm of his wife, Viviane Barci de Moraes; that Banco Santander told the court Flávio was not a partner, holder or user of the Alcazar companies' accounts; and that the flight-risk finding rested on acts of others, such as Eduardo Bolsonaro's statements (R7). It wants the case moved to Justice André Mendonça, who oversees the INSS pension-fraud inquiry (G1). Flávio left Brazil in defiance of the order and arrived in Miami on 28 October.",
+   "sources": [
+    {
+     "name": "G1",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-recorre-contra-apreensao-de-passaportes-defesa-pede-tambem-que-moraes-seja-declarado-impedido-em-investigacao.ghtml"
+    },
+    {
+     "name": "R7",
+     "url": "https://noticias.r7.com/brasilia/flavio-bolsonaro-recorre-pede-de-volta-passaportes-e-alega-impedimento-de-moraes-02112026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-brazil-2",
+   "edition": "2026-11-03",
+   "section": "brazil",
+   "headline": "Markets now expect the central bank to stop cutting rates on Wednesday and hold the Selic at 13.75 percent",
+   "lead": "Ahead of the rate committee's (Copom) decision on Wednesday, 4 November, banks and brokers have moved from expecting a 0.25-point cut to expecting the Selic to stay at 13.75 percent, citing Lula's reelection, fiscal risk and rising inflation expectations (CNN Brasil; a Reuters poll, seen as a headline).",
+   "text": "CNN Brasil says options traded on the B3 exchange imply a 68.8 percent chance of no change, against more than 70 percent odds of a cut before the runoff. Itaú expects a unanimous pause, and HSBC expects the rate to stay at 13.75 percent until March 2027 and has cut its growth forecast to 1.6 percent for 2026 and 0.6 percent for 2027. These bank forecasts come from CNN Brasil alone.",
+   "sources": [
+    {
+     "name": "CNN Brasil",
+     "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/mercado-chega-a-semana-do-copom-com-expectativa-por-fim-do-corte-de-juros/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-france-election-1",
+   "edition": "2026-11-03",
+   "section": "france-election",
+   "headline": "Attal says a primary of the center and right is \"inevitable\" despite Philippe's refusal; a giant \"XXL\" poll is floated as an alternative",
+   "lead": "Gabriel Attal said on TF1 on Monday, 2 November, that \"in the end, this primary will take place\" and is \"inevitable\" to avoid a Le Pen–Mélenchon runoff, answering Édouard Philippe, who again rejected a \"primary of division\" on Sunday (France 24, from AFP). \"Division is arriving five strong in the first round,\" Attal said.",
+   "text": "François Bayrou and David Lisnard also want a primary, and Bruno Retailleau is open to one with conditions; a Renaissance official told AFP it could happen in early 2027. Le Parisien reports that some are proposing instead a single very large poll, with rules agreed by the candidates, to pick one candidate at a key moment. Polymarket at about 4:27 AM Israel time on 3 November: Le Pen 40.25 percent (unchanged), Lisnard 15.75 (16.05), Philippe 11.5 (unchanged), Mélenchon 11.5 (13.5), Lagarde 8.3 (7.65), Glucksmann 2.9, Bardella 2.3, Hollande 2.05 and Attal 1.1.",
+   "sources": [
+    {
+     "name": "France 24 (AFP)",
+     "url": "https://www.france24.com/fr/info-en-continu/20261102-pr%C3%A9sidentielle-malgr%C3%A9-le-refus-de-philippe-attal-pense-la-primaire-in%C3%A9luctable"
+    },
+    {
+     "name": "Le Parisien: the XXL poll option",
+     "url": "https://www.leparisien.fr/elections/presidentielle/il-faut-des-regles-du-jeu-claires-loption-dun-sondage-xxl-pour-departager-les-candidats-du-centre-et-de-la-droite-02-11-2026-RRGETA6LV5CVLBL554O2RYTUV4.php"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-quebec-1",
+   "edition": "2026-11-03",
+   "section": "quebec",
+   "headline": "Carney offers three dates to meet St-Pierre Plamondon, none in Quebec City; a meeting there could wait until December or the New Year",
+   "lead": "A federal source told Radio-Canada that Prime Minister Carney's office sent the premier's office three dates on Monday, 2 November: 9 November in the Ottawa–Gatineau area, 10 November in Montreal, or 20 November in Ottawa–Gatineau. If none suits, Carney is open to meeting in Quebec City, possibly in December or over the New Year.",
+   "text": "Paul St-Pierre Plamondon had accepted on condition that the meeting be held in Quebec City, as he says Quebec's capital-city law requires. Conservative Quebec lieutenant Pierre Paul-Hus and Quebec City mayor Bruno Marchand both said the first meeting should be in Quebec City (Radio-Canada; Le Soleil and the Journal de Montréal report the same offer in their headlines).",
+   "sources": [
+    {
+     "name": "Radio-Canada",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-trump-and-xi-1",
+   "edition": "2026-11-03",
+   "section": "trump-and-xi",
+   "headline": "Steinmeier: Xi showed no interest in a US–Russia–China summit on Ukraine, calling it a European conflict",
+   "lead": "German President Frank-Walter Steinmeier told the broadcaster ARD that when he raised a Ukraine summit with Xi Jinping in Beijing on 30 October, Xi seemed surprised and said that \"from his perspective, there is absolutely no preparation under way\" for one, and that Europeans would have to be at the table (Kyiv Post; The Kyiv Independent).",
+   "text": "Trump, Putin and Xi are all expected at the APEC summit in Shenzhen on 18–19 November, where the Kremlin has proposed a three-way meeting on nuclear arms control; Steinmeier's account suggests Ukraine would not be on its agenda.",
+   "sources": [
+    {
+     "name": "Kyiv Post",
+     "url": "https://www.kyivpost.com/post/88863"
+    },
+    {
+     "name": "The Kyiv Independent",
+     "url": "https://kyivindependent.com/china-not-interested-in-us-russia-summit-on-ukraine-german-president-claims/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-spacex-xai-and-cursor-1",
+   "edition": "2026-11-03",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Washington Post: SpaceX is in talks to buy Boost Mobile or use its network for its own phone service",
+   "lead": "SpaceX is in talks with EchoStar to buy Boost Mobile or get access to its network, as part of a plan for a SpaceX phone service that combines satellites and ground networks, The Washington Post reported on 2 November. Musk had asked the heads of Verizon and other carriers for access to their networks (The Washington Post; The Next Web).",
+   "text": "No deal, price or timetable has been announced.",
+   "sources": [
+    {
+     "name": "The Washington Post",
+     "url": "https://www.washingtonpost.com/technology/2026/11/02/inside-elon-musks-plan-upend-wireless-phone-industry/"
+    },
+    {
+     "name": "The Next Web",
+     "url": "https://thenextweb.com/news/spacex-boost-mobile-echostar-talks"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-spacex-xai-and-cursor-2",
+   "edition": "2026-11-03",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Up to 5,000 Cursor users may have received a fake Claude Code extension that tried to plant a backdoor",
+   "lead": "On 29 October, for about 11 hours, maliciously modified versions (2.1.312 and 2.1.313) of the Claude Code extension, which Anthropic did not make, were offered in Cursor's extension marketplace for macOS and Windows. The code tried to add the attacker's SSH key, open a hidden connection to an outside server and stay installed (Cursor's security notice; Sophos).",
+   "text": "Sophos says Cursor estimates up to 5,000 users were affected, and that coding errors made the backdoor fail on most machines. Cursor says the attacker's server no longer works and published cleanup scripts; affected users should run them and change any passwords or keys the machine could reach. The incident was not reported here earlier; it drew new coverage on 3 November. The official Grok Bot changelog is unchanged (latest entry 0.78.1, 27 October).",
+   "sources": [
+    {
+     "name": "Cursor: security notice",
+     "url": "https://cursor.com/blog/claude-code-extension-security-notice"
+    },
+    {
+     "name": "Sophos",
+     "url": "https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace"
+    },
+    {
+     "name": "Grok Bot changelog",
+     "url": "https://x.ai/changelog/bot"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-cypherboria-1",
+   "edition": "2026-11-03",
+   "section": "cypherboria",
+   "headline": "Cyphers says it passed one million decodes and shows off a members' social site; \"SOMETHING BIG IS COMING\"",
+   "lead": "On 2 November @CyphersNews posted totals of \"6.5K+ total decoders, 2K+ new this year, 100+ member sign-ups, 102K+ site actions, 1,000,000 decodes\" and \"SOMETHING BIG IS COMING.\" Other posts listed free date numerology, astrology charts, the CCRU Numogram and a decoder game, with members able to save settings and history, rank decodes, chat in groups and use a new \"Cyphers Social\" area with forums, direct messages and voting phrases into the database; a tutorial showed the custom cipher editor.",
+   "text": "A leaderboard post ranked Bobby Woodrock first with 1,812 points and @Qephatziel second with 555, with @Net__Void at 33 and @patallax at 14. The database was taken down for maintenance at midnight UK time while @resonatingloop leads work on a faster version, and the move was reported done at about 3:00 AM Israel time on 3 November. Net Void called it the \"Most delulu cryptography site lol\" and proposed a stream with @patallax on cryptography in Shakespeare, after his Hamlet counts in the AQ cipher, where 666 had 13 hits. @AOElection explained that the \"Based Atlantean\" cipher measures the difference between the AOE and CCRU ciphers. Net Void's posts may not open for everyone if her account is protected.",
+   "sources": [
+    {
+     "name": "@CyphersNews: totals",
+     "url": "https://x.com/CyphersNews/status/2117329287028293852"
+    },
+    {
+     "name": "Features post",
+     "url": "https://x.com/i/status/2117298750561382630"
+    },
+    {
+     "name": "Cyphers Social",
+     "url": "https://x.com/i/status/2117363679318720856"
+    },
+    {
+     "name": "Cipher editor tutorial",
+     "url": "https://x.com/i/status/2117347629436993621"
+    },
+    {
+     "name": "Leaderboard",
+     "url": "https://x.com/i/status/2117349517284544818"
+    },
+    {
+     "name": "Maintenance notice",
+     "url": "https://x.com/i/status/2117379798469320987"
+    },
+    {
+     "name": "resonatingloop on the update",
+     "url": "https://x.com/i/status/2117359174640148862"
+    },
+    {
+     "name": "Migration done",
+     "url": "https://x.com/i/status/2117421324922712362"
+    },
+    {
+     "name": "Net Void: \"Most delulu cryptography site\"",
+     "url": "https://x.com/i/status/2117368782398124394"
+    },
+    {
+     "name": "Net Void: Shakespeare stream",
+     "url": "https://x.com/i/status/2117388579307765888"
+    },
+    {
+     "name": "@AOElection on the Based Atlantean cipher",
+     "url": "https://x.com/i/status/2117373466538111341"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-cypherboria-2",
+   "edition": "2026-11-03",
+   "section": "cypherboria",
+   "headline": "Land: rethinking the transcendental outside \"the dogma of unity\" is \"the whole of the great work\"; \"The Universe is a psy-op\"",
+   "lead": "On the morning of 2 November (Israel time) Nick Land (@xenocosmography) wrote that \"Rethinking the transcendental outside the dogma of unity (and universality) is the whole of the great work… (We have a map.)\" and added that he would not rename the Numogram as an explainer of why universality is fake. He also posted that elohim is grammatically feminine and that \"The Universe is a psy-op. Multiverses all the way.\"",
+   "text": "He quoted a post that attributed a \"Western Survival Pact\" statement on the Anglosphere to President Trump; the quote is unconfirmed, a reply said the audio did not match the text, and Land answered \"Nevertheless.\" That evening he wrote, \"Leftists aren't always dumb, but they're never honest.\" @acadianlemur explained the reshuffle between the AQ and NQ ciphers. Mikey Downs (JutlandGhost) said the first session of his Xenosystems course was held on 1 November, and that he wrote an epilogue for the Spanish edition of Todd McGowan's book on self-sabotage. Talk of a Tucker Carlson interview with Land is speculation by small accounts and unconfirmed.",
+   "sources": [
+    {
+     "name": "Land: the great work",
+     "url": "https://x.com/i/status/2117093438617518155"
+    },
+    {
+     "name": "Land: the Numogram",
+     "url": "https://x.com/i/status/2117110820715081775"
+    },
+    {
+     "name": "Land: Western Survival Pact quote",
+     "url": "https://x.com/i/status/2117113916790825127"
+    },
+    {
+     "name": "Land: \"Nevertheless.\"",
+     "url": "https://x.com/i/status/2117125895580479572"
+    },
+    {
+     "name": "Land: elohim",
+     "url": "https://x.com/i/status/2117118013560520728"
+    },
+    {
+     "name": "Land: \"The Universe is a psy-op\"",
+     "url": "https://x.com/i/status/2117119025193054532"
+    },
+    {
+     "name": "Land: leftists",
+     "url": "https://x.com/i/status/2117299224018841965"
+    },
+    {
+     "name": "@acadianlemur on AQ and NQ",
+     "url": "https://x.com/i/status/2117284207428841847"
+    },
+    {
+     "name": "JutlandGhost: first course session",
+     "url": "https://x.com/i/status/2117288813810905552"
+    },
+    {
+     "name": "JutlandGhost: McGowan epilogue",
+     "url": "https://x.com/i/status/2117332873735276450"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-cypherboria-3",
+   "edition": "2026-11-03",
+   "section": "cypherboria",
+   "headline": "Jacques Vallée on Mystery Wire with George Knapp: \"They have been here all along\"",
+   "lead": "A 25-minute Mystery Wire episode with Jacques Vallée, \"They have been here all along,\" was posted to Apple Podcasts on 2 November. A YouTube upload of 1 November from Ron Futrell's channel, \"George and Ron talk UFO history with Jacques Vallee - Oct 29, 2026\" (24 minutes 51 seconds), appears to be the same conversation; its description points to 8NewsNow.",
+   "text": "Whether the two are exactly the same recording was not confirmed. Nothing new appeared from Retrochronic, the Cyphers, Net Void, Truth is Christ, Methexis or Ryan Haecker YouTube channels, PHYTHAGRAM, Pasulka, or Vallée's own site.",
+   "sources": [
+    {
+     "name": "Apple Podcasts: Mystery Wire",
+     "url": "https://podcasts.apple.com/us/podcast/mystery-wire-with-george-knapp-they-have-been-here-all/id1896762574?i=1000799415168"
+    },
+    {
+     "name": "YouTube: George and Ron talk UFO history with Jacques Vallee",
+     "url": "https://www.youtube.com/watch?v=b_msqbGPRcQ"
     }
    ]
   }

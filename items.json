@@ -5627,6 +5627,422 @@
      "note": "Approximate: claims cover seven governorates"
     }
    ]
+  },
+  {
+   "id": "2026-11-03-land-ganim-power-grid",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "land",
+   "headline": "Ganim is connected to the national power grid, the last of the four northern Samaria settlements uprooted in 2005",
+   "summary": "On Monday, 2 Nov, Samaria Regional Council head Yossi Dagan, Israel Electric Corporation staff and Ganim's local committee switched on the regular power supply to Ganim. Arutz 7 reports that this completes the reconnection to the national grid of all four northern Samaria settlements evacuated in the 2005 disengagement: Homesh, Sa-Nur, Kadim and now Ganim (<a href=\"https://www.inn.co.il/news/709875\">Arutz 7</a>, <a href=\"https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/75439/\">Olam Katan</a>). Dagan recited the Shehecheyanu blessing (said on a first-time occasion) and said 11 communities have been set up in northern Samaria in place of the four that were uprooted. Energy Minister Eli Cohen said: \"We are correcting the disengagement, erasing the Green Line and continuing to advance sovereignty in practice,\" adding that this is a step \"on the way to a million residents in Judea and Samaria.\" Settler-side accounts also posted the news (<a href=\"https://x.com/i/status/2117247226091028763\">@Israel8251</a>, <a href=\"https://x.com/i/status/2117241979109335056\">Simcha Raz</a>).",
+   "source": "Arutz 7 / Olam Katan / @Israel8251 / Simcha Raz",
+   "date": "2026-11-02",
+   "url": "https://www.inn.co.il/news/709875",
+   "places": [
+    {
+     "name": "Ganim",
+     "lat": 32.4502,
+     "lon": 35.3415,
+     "note": "Nominatim"
+    }
+   ],
+   "lead": true,
+   "highlight": true
+  },
+  {
+   "id": "2026-11-03-land-givat-ora-yisrael-demolition",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "land",
+   "headline": "Givat Ora Yisrael: a bulldozer brings down a roof with youths on it; Honenu demands a criminal probe; the army says 18 were arrested for attacking forces",
+   "summary": "On Monday morning, 2 Nov, more than 100 Border Police officers and Civil Administration staff came to demolish the homes of two families living on the Givat Ora Yisrael hilltop near Rehelim, Olam Katan reports (<a href=\"https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/75507/\">Olam Katan</a>). Video posted by Elchanan Groner, a settlement-side reporter, shows the bulldozer bringing down a roof while residents stand on it, and they fall with it (<a href=\"https://t.me/s/realelchangr/7167\">Groner on Telegram</a>, <a href=\"https://x.com/i/status/2117230594866266544\">video on X</a>). Honenu, a legal aid group for Jewish suspects, wrote to the police internal investigations unit asking for a criminal probe, and to the regional commander asking him to freeze all demolitions in the area and suspend the force commander; its lawyer Eladi Weisel called it a \"shocking\" event in which minors fell from a height (<a href=\"https://t.me/s/realelchangr/7171\">Honenu via Groner</a>). Residents of nearby communities blocked roads with burning tires on the Emanuel–Yakir road and at Ariel junction, and the organizers apologized to stuck drivers (<a href=\"https://x.com/i/status/2117123558556012674\">Simcha Raz</a>, <a href=\"https://x.com/i/status/2117133136765071718\">Elisha Yered</a>). A Central Command source told Raz that officers begged the youths to come down and that the shovel tilted the low roof so they would slide down safely (<a href=\"https://x.com/i/status/2117306063535968343\">Raz</a>). The army said rioters burned tires and attacked forces; 18 were arrested, and one seized car held flammable materials, attack tools and pepper spray. Kan, which places the outpost near Salfit, says it has been removed 15 times (<a href=\"https://www.kan.org.il/content/kan-news/defense/1115322/\">Kan</a>, <a href=\"https://x.com/i/status/2117259980029960313\">army statement via @Israel8251</a>, <a href=\"https://x.com/i/status/2117279272230355179\">Emanuel Fabian</a>).",
+   "source": "Olam Katan / Elchanan Groner / Honenu / Simcha Raz / Elisha Yered / Kan / IDF",
+   "date": "2026-11-02",
+   "url": "https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/75507/",
+   "places": [
+    {
+     "name": "Givat Ora Yisrael (near Rehelim)",
+     "lat": 32.0979,
+     "lon": 35.2433,
+     "note": "Approximate: hilltop not in Nominatim; marker at Rehelim"
+    },
+    {
+     "name": "Ariel junction",
+     "lat": 32.1095,
+     "lon": 35.165,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Yakir",
+     "lat": 32.1494,
+     "lon": 35.1145,
+     "note": "Nominatim"
+    }
+   ],
+   "highlight": true
+  },
+  {
+   "id": "2026-11-03-land-agreed-reserve-high-court",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "land",
+   "headline": "High Court hears petition against demolishing PA-built homes in the Judean Desert \"agreed reserve\"; Gush Etzion head: \"It endangers residents\"",
+   "summary": "The High Court held another hearing on Monday on the Palestinian petition against demolishing homes built without permits in the \"agreed reserve,\" an area of the Judean Desert handed to the Palestinians in the late 1990s under the Oslo accords on condition it stay an open nature reserve (<a href=\"https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/75380/\">Olam Katan</a>). In August 2024 the security cabinet took planning powers in the area back from the PA; the court then issued an interim order that has frozen demolitions for two years. Gush Etzion Regional Council head Yaron Rosenthal said Bethlehem-area residents built thousands of homes there in the past seven years, that this is \"a dramatic security threat\" to eastern Gush Etzion and could cut Tekoa, Nokdim and Kfar Eldad off from the desert, and that the court should not intervene in a policy decision. The state's position is that only buildings put up after the cabinet decision should be demolished (<a href=\"https://x.com/i/status/2117217379000242477\">Simcha Raz</a>). See also the <a href=\"https://tomgassistant-png.github.io/desk/khamaisi/\">Khamaisi backgrounder on Palestinian planning</a>.",
+   "source": "Olam Katan / Gush Etzion Regional Council / Simcha Raz",
+   "date": "2026-11-02",
+   "url": "https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/75380/",
+   "places": [
+    {
+     "name": "Agreed reserve, Judean Desert (east of Gush Etzion)",
+     "lat": 31.645,
+     "lon": 35.2441,
+     "note": "Approximate: marker at Nokdim; the reserve lies to the east"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-land-ariel-558-units",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "land",
+   "headline": "Ariel: developer chosen for urban renewal project of 558 apartments",
+   "summary": "Israel Hayom reports that residents of 10 buildings (90 apartments) on Derech HaTzionut 55–73 in Ariel chose the B.S.R. group to tear them down and build 7 new buildings with 558 housing units, less than a year after they organized; the final size still needs approval from the authorities (<a href=\"https://www.israelhayom.co.il/business/real-estate/article/21759376\">Israel Hayom</a>).",
+   "source": "Israel Hayom",
+   "date": "2026-11-02",
+   "url": "https://www.israelhayom.co.il/business/real-estate/article/21759376",
+   "places": [
+    {
+     "name": "Ariel",
+     "lat": 32.1061,
+     "lon": 35.1851,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-attacks-jsr-shepherds-stones-arson",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "attacks",
+   "headline": "Settlers' situation room: shepherds attacked at four farms, stones at a bus and a car, and arson near Zibda",
+   "summary": "JSR, the settlers' Judea and Samaria situation room, reported a string of incidents on 2 Nov: Arabs attacked a Jewish shepherd with clubs in the grazing land of the Kela David farm in Binyamin; stones were thrown at a shepherd from the Bakar Amichai farm in the Jordan Valley; 15 Arabs attacked a shepherd west of Kafr Malik; about 30 Arabs threw stones at a shepherd south of the Armonot HaHashmonaim farm in Binyamin, damaging a Ranger vehicle; stones hit a car's windshield on Route 60 between the two schools of Lubban al-Sharqiya; stones were thrown at a bus in al-Auja; and several fires were set near Zibda in Binyamin and put out. No one was hurt in these (<a href=\"https://t.me/s/JSR_HEB/446\">JSR on Telegram</a>, <a href=\"https://x.com/i/status/2117232705469305014\">JSR on X</a>). Elisha Yered said a youth from the Tzur Levavi farm was hit in the hand by a stone thrown by Arab olive pickers (<a href=\"https://x.com/i/status/2117295125701312817\">Yered</a>). @Israel8251 counted 8 incidents for the day (<a href=\"https://x.com/i/status/2117356276132786578\">summary</a>). No army or police statements were found, so the details rest on settlement-side sources.",
+   "source": "JSR (settlers' situation room) / Elisha Yered / @Israel8251",
+   "date": "2026-11-02",
+   "url": "https://t.me/s/JSR_HEB/446",
+   "places": [
+    {
+     "name": "Kafr Malik",
+     "lat": 31.9894,
+     "lon": 35.3091,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Lubban al-Sharqiya (Route 60)",
+     "lat": 32.0713,
+     "lon": 35.2412,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Al-Auja",
+     "lat": 31.949,
+     "lon": 35.4655,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Kela David, Armonot HaHashmonaim and Zibda (Binyamin)",
+     "lat": 31.9535,
+     "lon": 35.2605,
+     "note": "Approximate: farms not in Nominatim; marker at Ofra in Binyamin"
+    }
+   ],
+   "highlight": true
+  },
+  {
+   "id": "2026-11-03-attacks-funduq-driver-hurt",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "attacks",
+   "headline": "Stone through a car window near Funduq injures an Israeli driver",
+   "summary": "JSR reported that at about 3:30 a.m. on 2 Nov, Arabs at the edge of the village of Funduq, on Route 55 in Samaria, threw a stone that broke the window of an Israeli car and hurt the driver (<a href=\"https://t.me/s/JSR_HEB/437\">JSR on Telegram</a>, <a href=\"https://x.com/i/status/2117155756298354926\">JSR on X</a>). The driver's condition was not reported.",
+   "source": "JSR (settlers' situation room)",
+   "date": "2026-11-02",
+   "url": "https://t.me/s/JSR_HEB/437",
+   "places": [
+    {
+     "name": "Funduq",
+     "lat": 32.1902,
+     "lon": 35.1361,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-attacks-tamra-delivery-man-minor",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "attacks",
+   "headline": "Delivery man from Tamra arrested after harming a girl in a South Hebron Hills settlement",
+   "summary": "Elchanan Groner reports that a delivery man of about 50 from Tamra, an Arab town in the Galilee, harmed a minor girl while delivering an order in a South Hebron Hills settlement; after a report to the local security coordinator he was held and arrested by police, and an indictment is expected (<a href=\"https://t.me/s/realelchangr/7166\">Groner on Telegram</a>, <a href=\"https://x.com/i/status/2117275796683260130\">HaKol HaYehudi</a>). The settlement was not named, and no police statement was found.",
+   "source": "Elchanan Groner / HaKol HaYehudi",
+   "date": "2026-11-02",
+   "url": "https://t.me/s/realelchangr/7166",
+   "places": [
+    {
+     "name": "South Hebron Hills",
+     "lat": 31.3833,
+     "lon": 35.1348,
+     "note": "Approximate: settlement not named; marker at Mitzpe Yair"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-idf-hebron-operation-ends",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "idf",
+   "headline": "The army ends its Hebron operation after about 10 days: four weapons found, a tunnel sealed, 25 vehicles seized; the Hebron municipality celebrates",
+   "summary": "The army spokesman said the operation in Hebron's Hamas-linked al-Hamoula neighborhood, launched after the Yehuda junction attack that killed two soldiers, is complete (<a href=\"https://www.makorrishon.co.il/news/defence/article/387967\">Makor Rishon</a>). Forces from Duvdevan, Maglan, the Paratroopers and other units searched hundreds of buildings, detained and questioned dozens of suspects, sealed an underground cavity near the home of a terrorist involved in the gunfight, and seized 25 illegal unregistered cars of the type the attackers used. Only four weapons were found; army sources said warning in advance of the entry may have given people time to hide weapons. The Hebron municipality, through the group Adalah, had petitioned the High Court to return evacuated residents and stop the demolitions. HaKol HaYehudi's headline says the municipality celebrated the end of the operation with Palestinian flags and armed PA security men (<a href=\"https://www.hakolhayehudi.co.il/item/security/%D7%A2%D7%9D_%D7%93%D7%92%D7%9C%D7%99_%D7%A4%D7%9C%D7%A1%D7%98%D7%99%D7%9F_%D7%95%D7%A9%D7%95_%D7%A4%D7%99%D7%9D_%D7%97%D7%9E%D7%95%D7%A9%D7%99%D7%9D__%D7%A2%D7%99%D7%A8%D7%99%D7%99%D7%AA_%D7%97%D7%91%D7%A8%D7%95%D7%9F_%D7%97%D7%92%D7%92%D7%94_%D7%90%D7%AA_%D7%A1%D7%99%D7%95%D7%9D_%D7%94%D7%9E%D7%91%D7%A6%D7%A2\">HaKol HaYehudi</a>). See also <a href=\"https://x.com/i/status/2117167319331836051\">Simcha Raz</a> and <a href=\"https://x.com/i/status/2117158939116679374\">Emanuel Fabian</a>.",
+   "source": "Makor Rishon / HaKol HaYehudi / Simcha Raz / Emanuel Fabian",
+   "date": "2026-11-02",
+   "url": "https://www.makorrishon.co.il/news/defence/article/387967",
+   "places": [
+    {
+     "name": "Hebron",
+     "lat": 31.5289,
+     "lon": 35.0945,
+     "note": "Nominatim"
+    }
+   ],
+   "highlight": true
+  },
+  {
+   "id": "2026-11-03-idf-honenu-beard-compensation",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "idf",
+   "headline": "Police to pay 10,000 shekels to a settler whose beard an officer tore out at a 2023 protest near Ateret",
+   "summary": "Honenu reports that under a settlement given the force of a court ruling, police will pay 10,000 shekels to Dvir Ilan; at a 2023 protest near Ateret an officer was filmed pulling out half of Ilan's beard. The officer faced a disciplinary trial and was acquitted on grounds of doubt (<a href=\"https://t.me/s/realelchangr/7160\">Honenu via Groner</a>).",
+   "source": "Honenu (via Elchanan Groner)",
+   "date": "2026-11-02",
+   "url": "https://t.me/s/realelchangr/7160",
+   "places": [
+    {
+     "name": "Ateret",
+     "lat": 32.0005,
+     "lon": 35.1766,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-pa-liberman-pa-foreign-entity",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "pa",
+   "headline": "Liberman: the PA is the \"foreign entity\" that meddled in the Arab-sector vote; Shin Bet reportedly probing PA money to the Joint List",
+   "summary": "Yisrael Beytenu leader Avigdor Liberman said on 2 Nov that the foreign entity suspected of passing money to the Joint List is the Palestinian Authority, which he said guided both the Joint List and Ra'am in the election (<a href=\"https://www.inn.co.il/news/709878\">Arutz 7</a>). Israel Hayom reports that the Shin Bet probe is examining suspected transfers of money from the PA to the Joint List to encourage Arab turnout, with the money said to come from Qatar. Liberman added that the election was not stolen. A source familiar with the probe told Israel Hayom that even the worst suspicions would not change the results (<a href=\"https://www.israelhayom.co.il/news/politics/article/21761105\">Israel Hayom</a>, <a href=\"https://x.com/i/status/2117237595415396598\">@Israel8251</a>).",
+   "source": "Arutz 7 / Israel Hayom",
+   "date": "2026-11-02",
+   "url": "https://www.israelhayom.co.il/news/politics/article/21761105",
+   "places": [
+    {
+     "name": "Ramallah",
+     "lat": 31.8978,
+     "lon": 35.1924,
+     "note": "PA seat of government (Nominatim)"
+    }
+   ],
+   "highlight": true
+  },
+  {
+   "id": "2026-11-03-pa-sheikh-french-envoy",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "pa",
+   "headline": "Hussein al-Sheikh asks France's envoy to help stop \"Israeli actions\"; Ramallah governor who meets freed terrorists attends",
+   "summary": "JSR reports that Hussein al-Sheikh met André Parant, France's special envoy for \"strengthening the State of Palestine,\" and urged France to act to stop \"Israeli actions\" and back a state on the 1967 lines with East Jerusalem as its capital. Ramallah and al-Bireh governor Laila Ghannam, a Fatah central committee member who JSR says meets weekly with freed terrorists and families of convicted terrorists, also took part (<a href=\"https://t.me/s/JSR_HEB/447\">JSR on Telegram</a>, <a href=\"https://x.com/i/status/2117309304331960661\">JSR on X</a>).",
+   "source": "JSR (settlers' situation room)",
+   "date": "2026-11-02",
+   "url": "https://t.me/s/JSR_HEB/447",
+   "places": [
+    {
+     "name": "Ramallah",
+     "lat": 31.8978,
+     "lon": 35.1924,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-pa-nablus-governor-balfour",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "pa",
+   "headline": "Nablus governor at Balfour anniversary event: \"We do not give up the right of return\"",
+   "summary": "JSR reports that Nablus governor Ghassan Daghlas, speaking at a PA event marking the Balfour Declaration anniversary, called it a turning point in Palestinian suffering and stressed the \"right of return\" and a state with Jerusalem as its capital (<a href=\"https://t.me/s/JSR_HEB/441\">JSR on Telegram</a>, <a href=\"https://x.com/i/status/2117219774174310676\">JSR on X</a>).",
+   "source": "JSR (settlers' situation room)",
+   "date": "2026-11-02",
+   "url": "https://t.me/s/JSR_HEB/441",
+   "places": [
+    {
+     "name": "Nablus",
+     "lat": 32.2205,
+     "lon": 35.2569,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-negev-shfaram-isis-indictment",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "negev",
+   "headline": "Galilee: Shfar'am man, 21, indicted for swearing loyalty to ISIS",
+   "summary": "An indictment was filed on 2 Nov in Haifa against Mohammed Suwaitat, 21, of Shfar'am, Kan reports. Investigators say he swore loyalty to ISIS, posted its material online, corresponded with its supporters and tried to persuade friends to join (<a href=\"https://www.kan.org.il/content/kan-news/defense/live-1115068/liveid-1115158/\">Kan</a>, <a href=\"https://www.ynet.co.il/news/article/r1ao8astze\">Ynet</a>, <a href=\"https://www.jns.org/news/israel-news/galilee-resident-faces-indictment-over-alleged-isis-membership\">JNS</a>, <a href=\"https://x.com/i/status/2117195552664551527\">Groner</a>).",
+   "source": "Kan / Ynet / JNS / Elchanan Groner",
+   "date": "2026-11-02",
+   "url": "https://www.kan.org.il/content/kan-news/defense/live-1115068/liveid-1115158/",
+   "places": [
+    {
+     "name": "Shfar'am",
+     "lat": 32.8046,
+     "lon": 35.1724,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-negev-rahat-shooting",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "negev",
+   "headline": "Rahat: man shot dead, two hurt, after hours of gunfire; police mission headquarters seizes weapons",
+   "summary": "A man was shot dead and two were hurt in Rahat on 2 Nov; Haaretz counts 230 people killed in the Arab community since the start of the year, and residents reported gunfire for hours (<a href=\"https://www.haaretz.co.il/news/law/2026-11-02/ty-article/000001a1-9d18-d125-a3b1-fdde80b70000\">Haaretz</a>). Be'er Sheva Net's headline says the police mission headquarters set up to answer the shootings seized weapons and arrested suspects in Rahat (<a href=\"https://www.b7net.co.il/mobile/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%94%D7%9E%D7%A2%D7%A0%D7%94-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99-%D7%94%D7%99%D7%A8%D7%99-%D7%9E%D7%A4%D7%A7%D7%93%D7%94-%D7%9E%D7%A9%D7%99%D7%9E%D7%AA%D7%99%D7%AA-%D7%AA%D7%A4%D7%A1%D7%94-%D7%9B%D7%9C%D7%99-%D7%A0%D7%A9%D7%A7-%D7%95%D7%A2%D7%A6%D7%A8%D7%94-%D7%97%D7%A9%D7%95%D7%93%D7%99%D7%9D-%D7%91%D7%91%D7%99%D7%A8%D7%AA-%D7%94%D7%9E%D7%92%D7%96%D7%A8-810067\">Be'er Sheva Net</a>).",
+   "source": "Haaretz / Be'er Sheva Net",
+   "date": "2026-11-02",
+   "url": "https://www.haaretz.co.il/news/law/2026-11-02/ty-article/000001a1-9d18-d125-a3b1-fdde80b70000",
+   "places": [
+    {
+     "name": "Rahat",
+     "lat": 31.3934,
+     "lon": 34.7547,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-negev-regavim-firing-zones-sovereignty",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "negev",
+   "headline": "Regavim on Bedouin building in Negev firing zones; Ben-Gurion conference panel: \"More sovereignty in Judea and Samaria than in the Negev\"",
+   "summary": "Regavim, a group that campaigns against illegal building, posted an i24 report on Bedouin homes inside Negev army firing zones and warned that Arab parties' first condition for backing any government is to stop enforcement in the Negev (<a href=\"https://www.regavim.org.il/%d7%94%d7%a4%d7%9c%d7%99%d7%a9%d7%94-%d7%9c%d7%a9%d7%98%d7%97%d7%99-%d7%94%d7%90%d7%a9-%d7%91%d7%a0%d7%92%d7%91/\">Regavim</a>). At Makor Rishon's Ben-Gurion conference, Uri Safir of HaShomer HaChadash said there are \"at least tens of thousands\" of illegal homes in the Negev and that \"there is more sovereignty in Judea and Samaria than in the Negev,\" because the government carries out its will there but not in the Negev (<a href=\"https://www.makorrishon.co.il/news/settlement/article/388144\">Makor Rishon</a>).",
+   "source": "Regavim / Makor Rishon",
+   "date": "2026-11-02",
+   "url": "https://www.regavim.org.il/%d7%94%d7%a4%d7%9c%d7%99%d7%a9%d7%94-%d7%9c%d7%a9%d7%98%d7%97%d7%99-%d7%94%d7%90%d7%a9-%d7%91%d7%a0%d7%92%d7%91/",
+   "places": [
+    {
+     "name": "Beersheba (Negev)",
+     "lat": 31.2457,
+     "lon": 34.7925,
+     "note": "Approximate: regional marker"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-negev-jerusalem-arms-market",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "negev",
+   "headline": "Jerusalem: undercover agent exposes weapons and drug market; 18 charged",
+   "summary": "Ynet reports that 18 people were charged with weapons and drug dealing after a police undercover agent operation in Jerusalem (<a href=\"https://www.ynet.co.il/news/article/hjo8mwlpzx\">Ynet</a>). HaKol HaYehudi says one suspect offered the agent 40 pistols (<a href=\"https://x.com/i/status/2117303691023630604\">HaKol HaYehudi</a>). Separately, Jerusalem deputy mayor Aryeh King said work began on a police station between French Hill and Issawiya (<a href=\"https://x.com/i/status/2117206656341717328\">King on X</a>).",
+   "source": "Ynet / HaKol HaYehudi / Aryeh King",
+   "date": "2026-11-02",
+   "url": "https://www.ynet.co.il/news/article/hjo8mwlpzx",
+   "places": [
+    {
+     "name": "Issawiya / French Hill",
+     "lat": 31.7991,
+     "lon": 35.2497,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-negev-nivin-amrani-remains",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "negev",
+   "headline": "Bones found in the Negev identified as Nivin al-Amrani, murdered by her brother in 2020",
+   "summary": "Ynet reports that bones found in the Negev were identified as the remains of Nivin al-Amrani, who was murdered by her brother in 2020 (<a href=\"https://www.ynet.co.il/news/article/bjheyui6me\">Ynet</a>).",
+   "source": "Ynet (headline)",
+   "date": "2026-11-02",
+   "url": "https://www.ynet.co.il/news/article/bjheyui6me",
+   "places": [
+    {
+     "name": "Negev",
+     "lat": 31.2457,
+     "lon": 34.7925,
+     "note": "Approximate: find site not given; marker at Beersheba"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-pa-shuafat-bank-accounts",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "pa",
+   "headline": "Palestinian claim: about 120 Shuafat camp families' bank accounts seized over property tax",
+   "summary": "Ultra Palestine, a Palestinian news site, says about 120 families in the Shuafat refugee camp had bank accounts seized over unpaid Jerusalem property tax (<a href=\"https://x.com/i/status/2117338856483860515\">Ultra Palestine on X</a>). Unconfirmed.",
+   "source": "Ultra Palestine",
+   "date": "2026-11-02",
+   "url": "https://x.com/i/status/2117338856483860515",
+   "places": [
+    {
+     "name": "Shuafat refugee camp",
+     "lat": 31.8117,
+     "lon": 35.2471,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-03-land-972-west-bank-transformed",
+   "edition": "2026-11-03",
+   "published": "2026-11-03T05:00:00+02:00",
+   "letter": "PA security: 3 Nov 2026",
+   "section": "land",
+   "headline": "Left-wing +972 Magazine launches \"The West Bank transformed\" project",
+   "summary": "+972 Magazine, a left-wing outlet, launched a project it calls \"The West Bank transformed\" on changes under the current government (<a href=\"https://x.com/i/status/2117185759597981967\">+972 on X</a>). Advocacy.",
+   "source": "+972 Magazine",
+   "date": "2026-11-02",
+   "url": "https://x.com/i/status/2117185759597981967",
+   "places": [
+    {
+     "name": "West Bank (no single place)",
+     "lat": 32.0,
+     "lon": 35.25,
+     "note": "Approximate"
+    }
+   ]
   }
  ],
  "highlight_count": 9,
