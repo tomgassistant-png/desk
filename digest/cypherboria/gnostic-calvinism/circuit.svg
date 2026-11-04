@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" font-family="Helvetica,Arial,sans-serif">
+<rect width="760" height="400" fill="#f7f5ef"/>
+<text x="380" y="30" text-anchor="middle" font-size="19" font-weight="bold" fill="#222">The "circuit," as Valenčič reads Land</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8b0000"/></marker></defs>
+<rect x="40" y="70" width="230" height="110" rx="10" fill="#fff" stroke="#8b0000" stroke-width="2"/>
+<text x="155" y="100" text-anchor="middle" font-size="16" font-weight="bold">Free will</text>
+<text x="155" y="125" text-anchor="middle" font-size="13">Your actions are real.</text>
+<text x="155" y="145" text-anchor="middle" font-size="13">So act fully.</text>
+<text x="155" y="165" text-anchor="middle" font-size="13">(the "gas pedal")</text>
+<rect x="490" y="70" width="230" height="110" rx="10" fill="#fff" stroke="#8b0000" stroke-width="2"/>
+<text x="605" y="100" text-anchor="middle" font-size="16" font-weight="bold">Predestination</text>
+<text x="605" y="125" text-anchor="middle" font-size="13">It was all decided already.</text>
+<text x="605" y="145" text-anchor="middle" font-size="13">No one outside can stop it.</text>
+<text x="605" y="165" text-anchor="middle" font-size="13">(the "brakes" removed)</text>
+<path d="M275,105 C380,60 390,60 485,105" fill="none" stroke="#8b0000" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M485,150 C390,200 380,200 275,150" fill="none" stroke="#8b0000" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="380" y="132" text-anchor="middle" font-size="14" font-style="italic" fill="#8b0000">kept unresolved</text>
+<text x="380" y="150" text-anchor="middle" font-size="14" font-style="italic" fill="#8b0000">= positive feedback</text>
+<rect x="40" y="250" width="200" height="100" rx="8" fill="#e9e6dc" stroke="#999"/>
+<text x="140" y="278" text-anchor="middle" font-size="14" font-weight="bold">Lean to free will</text>
+<text x="140" y="300" text-anchor="middle" font-size="12">(Arminianism)</text>
+<text x="140" y="322" text-anchor="middle" font-size="12">Brakes come back:</text>
+<text x="140" y="338" text-anchor="middle" font-size="12">the process slows</text>
+<rect x="280" y="250" width="200" height="100" rx="8" fill="#8b0000"/>
+<text x="380" y="278" text-anchor="middle" font-size="14" font-weight="bold" fill="#fff">Keep both, unresolved</text>
+<text x="380" y="300" text-anchor="middle" font-size="12" fill="#fff">("Gnostic Calvinism")</text>
+<text x="380" y="322" text-anchor="middle" font-size="12" fill="#fff">The loop runs and</text>
+<text x="380" y="338" text-anchor="middle" font-size="12" fill="#fff">speeds up</text>
+<rect x="520" y="250" width="200" height="100" rx="8" fill="#e9e6dc" stroke="#999"/>
+<text x="620" y="278" text-anchor="middle" font-size="14" font-weight="bold">Lean to decree</text>
+<text x="620" y="300" text-anchor="middle" font-size="12">(hyper-Calvinism)</text>
+<text x="620" y="322" text-anchor="middle" font-size="12">Why act at all?</text>
+<text x="620" y="338" text-anchor="middle" font-size="12">The process freezes</text>
+<text x="380" y="385" text-anchor="middle" font-size="11" fill="#555">Diagram by the Desk, summarizing Valenčič (11 Apr 2026). Not Land's own drawing.</text>
+</svg>

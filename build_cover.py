@@ -419,9 +419,17 @@ q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()
             o.append(f'<h2 class="edn">{e(part["h"])}</h2>' + "".join(f'<p class="summary">{e(x)}</p>' for x in part["p"]))
             for im in part.get("images", []): o.append(fig(im))
             for lk in part.get("links", []): o.append(f'<p class="srcs">{e(lk.get("prefix",""))}<a href="{e(lk["url"])}" target="_blank" rel="noopener">{e(lk["label"])}</a></p>')
+            for q in part.get("quotes", []):
+                o.append(f'<blockquote style="margin:8px 0 8px 12px;padding-left:10px;border-left:3px solid #8b0000"><p class="summary" style="margin:0">&ldquo;{e(q["quote"])}&rdquo;</p>'
+                         f'<p class="srcs" style="margin:2px 0">{e(q["who"])} · <a href="{e(q["url"])}" target="_blank" rel="noopener">{e(q["where"])}</a>' + (f' · <i>{e(q["note"])}</i>' if q.get("note") else "") + '</p></blockquote>')
             if part.get("note"): o.append(f'<p class="srcs"><i>{e(part["note"])}</i></p>')
             if part.get("sources"):
                 o.append('<p class="srcs">Sources: ' + " · ".join(f'<a href="{e(l["url"])}" target="_blank" rel="noopener">{e(l["label"])}</a>' for l in part["sources"]) + '</p>')
+        if b.get("glossary"):
+            o.append(f'<h2 class="edn" id="glossary">{e(b.get("glossary_title", "Glossary"))}</h2><table class="srcs" style="border-collapse:collapse">' + "".join(
+                f'<tr><td style="vertical-align:top;padding:3px 12px 3px 0"><b>{e(x["k"])}</b></td><td style="padding:3px 0">{e(x["v"])}</td></tr>' for x in b["glossary"]) + '</table>')
+        if b.get("checks"):
+            o.append(f'<h2 class="edn" id="checks">{e(b.get("checks_title", "Unconfirmed and claims to check"))}</h2><ul>' + "".join(f'<li class="summary">{e(x)}</li>' for x in b["checks"]) + '</ul>')
         o.append('</div></body></html>')
         write(os.path.join(ROOT, f"digest/{secid}/{slug}/index.html"), "".join(o))
     print(f"cover + {len(d['sections'])} sections built; edition {newest}, {len(items)} items")
