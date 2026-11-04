@@ -62,8 +62,8 @@
   {
    "id": "carney-case",
    "name": "The Carney case",
-   "baseline": "Jamey Carney, a 43-year-old American citizen from New York (Westchester County, according to one report; unconfirmed), had lived in Killarney, County Kerry, since about 2021 with her teenage daughter. She was killed in her home on the Muckross Road on the night of 6 July 2026, and her daughter found her body the next afternoon. The police believe that her boyfriend, Ahmad Al-Saqar, a 28-year-old Jordanian, left Killarney by bus early on 7 July and flew from Dublin to Istanbul before the body was found. He went on to Jordan, where the Public Security Directorate arrested him within days, and a Jordanian court ordered his detention. In August, according to the Irish Times, the Director of Public Prosecutions directed that he be charged with her murder; other reports say only that the DPP supported an arrest warrant. Ireland and Jordan have no extradition treaty, so his return would require a special arrangement between the two governments. Jordan could also try him itself (one report; unconfirmed). As of 23 September, he remained in custody in Jordan, talks between the two countries were continuing, and no extradition hearing had been set. No later development has been reported.",
-   "baseline_updated": "15 October 2026",
+   "baseline": "Jamey Carney, a 43-year-old American citizen from New York (Westchester County, according to one report; unconfirmed), had lived in Killarney, County Kerry, since about 2021 with her teenage daughter. She was killed in her home on the Muckross Road on the night of 6 July 2026, and her daughter found her body the next afternoon. The police believe that her boyfriend, Ahmad Al-Saqar, a 28-year-old Jordanian, left Killarney by bus early on 7 July and flew from Dublin to Istanbul before the body was found. He went on to Jordan, where the Public Security Directorate arrested him within days, and a Jordanian court ordered his detention. In August, according to the Irish Times, the Director of Public Prosecutions directed that he be charged with her murder; other reports say only that the DPP supported an arrest warrant. Ireland and Jordan have no extradition treaty, so his return would require a special arrangement between the two governments. Jordan could also try him itself (one report; unconfirmed). As of 23 September, he remained in custody in Jordan, talks between the two countries were continuing, and no extradition hearing had been set. On 3 November Radio Kerry reported, citing a Kerryman journalist, that Jordan would prefer to try him in Jordan (unconfirmed; no government statement).",
+   "baseline_updated": "4 November 2026",
    "baseline_sources": [
     {
      "label": "Irish Times, 24 Aug",
@@ -88,6 +88,10 @@
     {
      "label": "JOE.ie, 23 Sep",
      "url": "https://www.joe.ie/crime/suspect-in-jamey-carney-murder-to-remain-in-detention-in-jordan-883600"
+    },
+    {
+     "label": "Radio Kerry, 3 Nov",
+     "url": "https://www.radiokerry.ie/news/jordan-reportedly-would-prefer-to-try-person-of-interest-in-jamey-carney-murder-investigation-there-505349"
     }
    ]
   },
@@ -945,6 +949,10 @@
   "2026-11-03": {
    "intro": "Israel: the election chief turns down Likud's request for probe details before Wednesday's results, Netanyahu wants a broad government he would lead, and Herzog's consultations are set for Wednesday and Thursday. Also: Israel's demand for Lebanese army checkpoints and a reported dispute over who verifies the truce, a Druze adviser for Syria's foreign minister, Flávio Bolsonaro's passport appeal and an expected rate pause in Brazil, Attal's push for a primary in France, Carney's meeting dates for Quebec's premier, Xi's coolness to a Ukraine summit, SpaceX's talks over Boost Mobile, a fake extension in Cursor's marketplace, and in Cypherboria a million decodes at Cyphers, Land on \"the great work\" and Vallée on Mystery Wire.",
    "quiet": "Nothing material on the Carney case, UK breakup politics (opinion pieces only), Greenland (only repeats of earlier claims and airport stories), Colombia and Israel, Belle Burden, Trenton (only a smoke-alarm drive, obituaries and county ballot listings), Israeli data centers, non-Latin script digitization, HaShiloach (no new essay), or Marc Andreessen (only a16z deal news)."
+  },
+  "2026-11-04": {
+   "intro": "Israel: official results go to Herzog at noon and consultations start at 5:00 PM, the Shin Bet chief asks to question four Arab party leaders, Shas, Otzma and Religious Zionism back Netanyahu while Eisenkot claims 48 against 46, and Trump says US aid ends this year. Also: a French inquiry into a 2024 strike in Beirut, the 7th Brigade's eight months in Lebanon and a Sweida control map, Brazil's Senate passing the public security amendment, an Ifop poll and Retailleau's call for a primary in France, Quebec's \"house in disorder\" and Hydro-Québec's warning of shortfalls, a possible Putin–Trump–Xi meeting, Greenland's parliament approving the security deal, a report that Jordan wants to try the Carney suspect itself, xAI's jet-engine turbines and Musk's pay in a SpaceX–Tesla merger, Enlight's Ashalim data-center timeline, and in Cypherboria a Land clip, a numerology dating app and a planned Land interview.",
+   "quiet": "Nothing material on Colombia and Israel, Belle Burden, UK breakup politics, Trenton (local stories only), non-Latin script digitization, HaShiloach (no new essay), or Marc Andreessen."
   }
  },
  "items": [
@@ -9166,6 +9174,430 @@
     {
      "name": "YouTube: George and Ron talk UFO history with Jacques Vallee",
      "url": "https://www.youtube.com/watch?v=b_msqbGPRcQ"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-israel-election-1",
+   "edition": "2026-11-04",
+   "section": "israel-election",
+   "headline": "Official results go to Herzog at noon today and consultations start at 5:00 PM; the Shin Bet chief asks to question four Arab party leaders, and the Attorney General pushes back",
+   "lead": "The Central Elections Committee is due to hand the official results to President Herzog at noon on Wednesday, 4 November, and Herzog's consultations with the Knesset factions begin at 5:00 PM Israel time (JNS; Ynet). No official results had been published as of about 4:30 AM Israel time.",
+   "text": "Shin Bet chief David Zini has asked to question four senior figures in the Arab parties under caution, among them MKs Mansour Abbas, Sami Abu Shehadeh and Ahmad Tibi (Ynet; Kan; The Times of Israel says this was without providing evidence). Attorney General Gali Baharav-Miara pushed back, and committee chairman Noam Sohlberg said the committee has no authority over investigations and that the results will be published as planned (Ynet; Haaretz headline). The Joint List said Zini had \"gone off the rails\" (Maariv and Haaretz headlines). According to The Times of Israel, 16 coalition members of the committee asked for information and seek to block the official publication of results (feed headline and summary); Ynet reports that Likud will abstain and Otzma Yehudit will vote against. In the final count, 968 votes for Arab parties were struck out, with no change in seats; Likud claims a gap of 4,612 votes (Arutz Sheva). Separately, the High Court ruled that Knesset Speaker Amir Ohana violated its earlier ruling and \"harmed the order of government,\" and ordered him to pay 10,000 shekels in costs (Kan; Makor Rishon headline).",
+   "sources": [
+    {
+     "name": "JNS: Herzog to receive official results",
+     "url": "https://www.jns.org/news/israel-news/herzog-to-receive-official-results-start-consultations-with-knesset-factions"
+    },
+    {
+     "name": "Ynet: Zini asks to question Arab MKs",
+     "url": "https://www.ynet.co.il/news/article/bkrzcod6zx"
+    },
+    {
+     "name": "Ynet: Attorney General and Sohlberg",
+     "url": "https://www.ynet.co.il/news/article/h1wy9pp6fe"
+    },
+    {
+     "name": "Kan: Zini seeks to question Arab party leaders",
+     "url": "https://www.kan.org.il/content/kan-news/local/1115791/"
+    },
+    {
+     "name": "The Times of Israel: coalition members seek to block publication",
+     "url": "https://www.timesofisrael.com/coalition-members-of-election-panel-seek-to-block-official-publication-of-results/"
+    },
+    {
+     "name": "The Times of Israel: Shin Bet chief and 4 Arab politicians",
+     "url": "https://www.timesofisrael.com/shin-bet-chief-said-to-seek-questioning-of-4-arab-politicians-without-providing-evidence/"
+    },
+    {
+     "name": "Arutz Sheva: 968 votes struck out",
+     "url": "https://www.inn.co.il/news/709952"
+    },
+    {
+     "name": "Kan: High Court on Ohana",
+     "url": "https://www.kan.org.il/content/kan-news/local/1115752/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-israel-election-2",
+   "edition": "2026-11-04",
+   "section": "israel-election",
+   "headline": "Who recommends whom: Shas, Otzma Yehudit and Religious Zionism back Netanyahu, UTJ is expected to name no one, and Eisenkot claims 48 against 46",
+   "lead": "Shas, Otzma Yehudit and Religious Zionism will recommend Netanyahu to the President, while United Torah Judaism will probably recommend no one (Ynet; Haaretz). Gadi Eisenkot's camp counts 48 recommendations for him against 46 for Netanyahu, and the opposition leaders plan to replace the Knesset speaker at once (Ynet; Makor Rishon headline).",
+   "text": "Feiglin's Zehut and Smotrich's Religious Zionism are expected to come to the consultations separately, although they ran on a joint list (0404 headline). The mandate to form a government is expected to be given between Friday and Tuesday (Ynet). A new i24NEWS seat poll for a possible repeat election, reported by Srugim: Likud 28, Yashar 20, B'Yachad 12, the Joint List 11, the Democrats 8, Yisrael Beytenu 8, Shas 7, UTJ 7, Ra'am 7, Otzma Yehudit 6 and Religious Zionism with Zehut 6, giving blocs of 54, 48 and 18 (one poll; not checked against a second source). Polymarket on the next prime minister, at about 4:30 AM Israel time on 4 November: Eisenkot 47.3 percent (42.9 a day earlier), Netanyahu 32.05 (33.0), Bennett 4.65 (4.4), Lieberman 4.25 (4.2) and Cohen 0.75 (0.9).",
+   "sources": [
+    {
+     "name": "Ynet: recommendations",
+     "url": "https://www.ynet.co.il/news/article/s1qrevwpfl"
+    },
+    {
+     "name": "Ynet: Eisenkot's count and the speaker",
+     "url": "https://www.ynet.co.il/news/article/sym5shyp6fl"
+    },
+    {
+     "name": "Haaretz: Zini, Joint List and Sohlberg",
+     "url": "https://www.haaretz.co.il/news/elections/2026-11-03/ty-article/000001a1-a32e-dd7a-a3ed-e36e41be0000"
+    },
+    {
+     "name": "0404: Feiglin and Smotrich to come separately (headline)",
+     "url": "https://0404.co.il/article/1184735"
+    },
+    {
+     "name": "Srugim: i24NEWS poll",
+     "url": "https://www.srugim.co.il/101015238-סקר-מנדטים-כך-יסתיימו-הבחירות-החוזרות"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-israel-election-3",
+   "edition": "2026-11-04",
+   "section": "israel-election",
+   "headline": "Trump says US military aid to Israel, about $4 billion a year, will end at the end of this year, and that Netanyahu raised it",
+   "lead": "President Trump said in a Fox interview on 3 November that \"by the end of this year, we won't be paying Israel,\" ending about $4 billion a year in military aid, and that he had agreed this with Netanyahu (JNS; Ynet; Haaretz). The current US-Israel aid agreement runs until 2028.",
+   "text": "Eisenkot, Yair Golan and Avigdor Lieberman criticized the move; Lieberman called it \"the price of Trump's support for Netanyahu\" (Ynet; Srugim). The Times of Israel says the aid would end by the end of 2026. Srugim reports that the IDF was surprised by the announcement (headline). Haaretz analysts disagree about whether the move hurts Netanyahu or suits him (opinion pieces, headlines only).",
+   "sources": [
+    {
+     "name": "JNS: 'By the end of this year, we won't be paying Israel'",
+     "url": "https://www.jns.org/news/u-s-news/by-the-end-of-this-year-we-wont-be-paying-israel-trump-says"
+    },
+    {
+     "name": "Ynet: Trump on aid",
+     "url": "https://www.ynet.co.il/news/article/rkctlwvpzl"
+    },
+    {
+     "name": "Ynet: reactions",
+     "url": "https://www.ynet.co.il/news/article/h1o00xovafg"
+    },
+    {
+     "name": "Haaretz: Trump says US will end annual aid",
+     "url": "https://www.haaretz.com/us-news/2026-11-03/ty-article/.premium/trump-says-u-s-will-end-annual-aid-to-israel-by-years-end/000001a1-a193-d279-a3ad-ebd3d"
+    },
+    {
+     "name": "The Times of Israel: $4 billion by end of 2026",
+     "url": "https://www.timesofisrael.com/trump-says-us-to-end-4-billion-in-annual-military-aid-to-israel-by-end-of-2026/"
+    },
+    {
+     "name": "Srugim: Lieberman",
+     "url": "https://www.srugim.co.il/101015229-ליברמן-חושף-זה-מחיר-התמיכה-של-טראמפ"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-lebanon-1",
+   "edition": "2026-11-04",
+   "section": "lebanon",
+   "headline": "France opens a judicial inquiry into the 2024 Israeli strike in Beirut that killed the parents of artist Ali Cherri",
+   "lead": "French judges have opened a judicial inquiry into the Israeli strike of 26 November 2024 on an apartment in Beirut's Noueiri area, which killed the parents of the French-Lebanese artist Ali Cherri, on suspicion of war crimes (FIDH; AFP via 20 Minuten).",
+   "text": "The inquiry follows a complaint by Cherri, supported by the International Federation for Human Rights (FIDH). Cherri said he is fighting so that the strike \"does not go unpunished\" (L'Humanité headline). No Israeli response was found.",
+   "sources": [
+    {
+     "name": "FIDH",
+     "url": "https://www.fidh.org/fr/regions/maghreb-moyen-orient/liban/affaire-ali-cherri-ouverture-d-une-information-judiciaire-en-france"
+    },
+    {
+     "name": "20 Minuten (AFP)",
+     "url": "https://www.20min.ch/fr/story/crime-de-guerre-un-francais-attaque-israel-pour-le-meurtre-de-ses-parents-103661227"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-lebanon-2",
+   "edition": "2026-11-04",
+   "section": "lebanon",
+   "headline": "IDF's 7th Brigade ends eight months in southern Lebanon: about 400 Hezbollah operatives killed and about 3,500 sites destroyed, the army says",
+   "lead": "The IDF says its 7th Armored Brigade completed eight months of operations in southern Lebanon, in which about 400 Hezbollah operatives were killed and about 3,500 \"terror infrastructure\" sites were destroyed (Maariv; IDF Spokesperson and Arutz Sheva headlines).",
+   "text": "The figures come from the army and have not been independently checked.",
+   "sources": [
+    {
+     "name": "Maariv",
+     "url": "https://www.maariv.co.il/news/military/article-1384487"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-lebanon-3",
+   "edition": "2026-11-04",
+   "section": "lebanon",
+   "headline": "Al-Quds Al-Arabi maps who controls Sweida: two Druze factions compete for influence",
+   "lead": "The London-based daily Al-Quds Al-Arabi published a map of military control in Sweida province in southern Syria, describing two factions competing for influence; it reports that the Bayraq al-Hudud group has joined the \"National Guard\" force linked to Sheikh Hikmat al-Hijri.",
+   "text": "The paper reports monthly salaries of between $200 and $800 for fighters; this is unconfirmed. Separately, Asharq Al-Awsat reports that armed men loyal to al-Hijri kept most Sweida students from sitting national exams, and the WHO describes the health situation in Sweida as grim (headlines only).",
+   "sources": [
+    {
+     "name": "Al-Quds Al-Arabi",
+     "url": "https://www.alquds.co.uk/%D8%A7%D9%84%D9%82%D8%AF%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%AA%D9%83%D8%B4%D9%81-%D8%AE%D8%B1%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-brazil-1",
+   "edition": "2026-11-04",
+   "section": "brazil",
+   "headline": "Senate passes the public security constitutional amendment 73–0 and 75–0, without lowering the age of criminal responsibility",
+   "lead": "Brazil's Senate approved the public security constitutional amendment (PEC) in two rounds on 3 November, by 73–0 and 75–0, and left out the opposition's proposal to lower the age of criminal responsibility; the text now goes to promulgation (Agência Brasil; g1).",
+   "text": "g1 calls it a win for the government and Lula's first test in Congress since his reelection; Lula celebrated and repeated his plan for a new public security ministry (g1). Flávio Bolsonaro, who is in the United States, registered his attendance at the session remotely (g1); reports that he voted yes were seen only in headlines.",
+   "sources": [
+    {
+     "name": "Agência Brasil",
+     "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal"
+    },
+    {
+     "name": "g1: Senate approves PEC",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/03/senado-aprova-pec-da-seguranca-publica.ghtml"
+    },
+    {
+     "name": "g1: Flávio Bolsonaro registers attendance from the US",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/03/nos-eua-flavio-bolsonaro-registra-presenca-em-sessao-do-senado.ghtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-brazil-2",
+   "edition": "2026-11-04",
+   "section": "brazil",
+   "headline": "The dollar rises to R$5.486 and the Ibovespa falls for a sixth day, ahead of today's central bank rate decision",
+   "lead": "The dollar rose 0.74 percent to R$5.486 on 3 November, a day of fiscal worry, and the Ibovespa stock index fell 1.42 percent to 165,528.92 points, its sixth fall in a row (Agência Brasil).",
+   "text": "The central bank's Copom committee announces its interest rate decision on Wednesday, 4 November (Agência Brasil; a pause was expected, reported here on 3 November). Finance Minister Dario Durigan promised to improve the public accounts without an \"easy narrative\" (g1).",
+   "sources": [
+    {
+     "name": "Agência Brasil: dollar and Ibovespa",
+     "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-074-e-aproxima-se-de-r-550-em-dia-de-cautela-fiscal"
+    },
+    {
+     "name": "g1: Durigan",
+     "url": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-france-election-1",
+   "edition": "2026-11-04",
+   "section": "france-election",
+   "headline": "Ifop poll for LCI: Le Pen at 35 to 37 percent and Mélenchon at 17.5 to 18 percent in every first-round scenario",
+   "lead": "A new Ifop poll for LCI, taken online from 27 to 29 October among 1,501 registered voters, puts Marine Le Pen first in every scenario tested, with 35 to 37 percent, and Jean-Luc Mélenchon second in all of them, with 17.5 to 18 percent (TF1 Info).",
+   "text": "Among the center and right, Édouard Philippe does best: 15 percent if he faces only Bruno Retailleau (7 percent) or only David Lisnard (9 percent). With Gabriel Attal as the center's candidate against Retailleau and Lisnard, Attal gets 9 percent, against 5 and 7.5. With all four in the race, they fall to 9.5 (Philippe), 7 (Lisnard), 5 (Attal) and 4 (Retailleau). Raphaël Glucksmann stays between 10 and 13 percent. Ifop's Frédéric Dabi said Mélenchon's lead over the others is beyond the margin of error. Le Parisien and Le Figaro reported the same poll (headlines only). Polymarket at about 4:30 AM Israel time on 4 November: Le Pen 40.15 percent (40.25 a day earlier), Lisnard 15.35 (15.75), Mélenchon 12.5 (11.5), Philippe 11.5 (unchanged), Lagarde 7.85 (8.3) and Hollande 2.2.",
+   "sources": [
+    {
+     "name": "TF1 Info: Ifop poll for LCI",
+     "url": "https://www.tf1info.fr/politique/elections/presidentielle/sondage-lci-a-six-mois-de-la-presidentielle-2027-marine-le-pen-et-jean-luc-melenchon-sans-adversaires-au-premier-tour-philippe-attal-retailleau-lisnard-2473663.html"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-france-election-2",
+   "edition": "2026-11-04",
+   "section": "france-election",
+   "headline": "Retailleau says a primary of the right and center will \"no doubt\" be held early next year, and that Philippe will be forced to accept it",
+   "lead": "Bruno Retailleau said on BFMTV on 4 November that a primary will be needed, \"no doubt at the start of the year,\" and proposed three debates on three TV channels. He said Édouard Philippe \"will be forced\" to accept it: \"Either we are decided between by a democratic vote, or I will go all the way\" (20 Minutes).",
+   "text": "He would limit the primary to the four declared candidates (Philippe, Attal, Retailleau and Lisnard) and rules out Raphaël Glucksmann. Philippe refused a primary again on 2 November (reported here then). Only one source was opened for this interview.",
+   "sources": [
+    {
+     "name": "20 Minutes",
+     "url": "https://www.20minutes.fr/politique/4260190-20261104-presidentielle-2027-retailleau-estime-faudra-primaire-doute-debut-annee"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-quebec-1",
+   "edition": "2026-11-04",
+   "section": "quebec",
+   "headline": "St-Pierre Plamondon says the CAQ left \"the house in disorder,\" with a large deficit; the CAQ disputes it",
+   "lead": "After meeting his Finance Minister, Nicolas Marceau, Premier Paul St-Pierre Plamondon said the previous government left \"the house in disorder,\" with a significant deficit, but gave no figure (La Presse; Le Devoir).",
+   "text": "Former CAQ finance minister Eric Girard disputes the claim. The pre-election report projected a deficit of $5.2 billion, or 0.8 percent of GDP, for 2026-27 (La Presse).",
+   "sources": [
+    {
+     "name": "La Presse",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "name": "Le Devoir",
+     "url": "https://www.ledevoir.com/politique/quebec/1022123/plamondon-accuse-caq-avoir-laisse-maison-desordre"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-quebec-2",
+   "edition": "2026-11-04",
+   "section": "quebec",
+   "headline": "Hydro-Québec warns of possible power shortfalls from 2029 and possible imports; data-center peak demand could grow to close to 2,000 MW",
+   "lead": "Hydro-Québec's supply plan for 2027–2041 says shortfalls are possible from 2029 and that the utility may need to import power. Demand is expected to grow by 60 TWh by 2041, requiring 24,000 MW of new capacity (CBC).",
+   "text": "The utility cut its 2035 sales forecast from 227.5 to 212.2 TWh. Winter peak load from data centers is expected to grow from about 350 MW to close to 2,000 MW. CBC quotes Dave Rhéaume of Hydro-Québec. Only one source was opened.",
+   "sources": [
+    {
+     "name": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-future-deficits-energy-imports-9.7407375"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-trump-and-xi-1",
+   "edition": "2026-11-04",
+   "section": "trump-and-xi",
+   "headline": "Kremlin says talks are underway on a Putin–Trump–Xi meeting in China this month; Beijing mentions only a Xi–Putin meeting",
+   "lead": "Kremlin spokesman Dmitry Peskov said work is underway to arrange a three-way meeting of Putin, Trump and Xi in China later in November (The Moscow Times; Anadolu). The APEC summit is in Shenzhen on 18–19 November.",
+   "text": "China's foreign ministry mentioned only a meeting between Xi and Putin (The Moscow Times). The White House was not quoted. Xi's coolness toward a Ukraine summit was reported here on 3 November.",
+   "sources": [
+    {
+     "name": "The Moscow Times",
+     "url": "https://www.themoscowtimes.com/2026/11/03/russia-china-and-us-summit-under-discussion-kremlin-says-a94163"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://aa.com.tr/en/world/work-underway-to-organize-trilateral-talks-between-putin-trump-xi-in-china-kremlin/4109707"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-greenland-1",
+   "edition": "2026-11-04",
+   "section": "greenland",
+   "headline": "Greenland's parliament approves the security deal with the US and Denmark, 16–0 with 7 abstentions; Trump: \"We just got Greenland\"",
+   "lead": "Greenland's parliament, the Inatsisartut, approved the security agreement with the United States and Denmark on 3 November by 16 votes to none, with 7 abstentions (Al Jazeera; DW). The Danish parliament is due to vote on 19 November.",
+   "text": "Trump reacted: \"We just got Greenland\" (Politico Europe).",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark"
+    },
+    {
+     "name": "DW",
+     "url": "https://www.dw.com/en/greenlands-parliament-ratifies-trumps-us-security-agreement/a-79847399"
+    },
+    {
+     "name": "Politico Europe",
+     "url": "https://www.politico.eu/article/greenland-greatest-gift-ever-donald-trump-us-europe/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-carney-case-1",
+   "edition": "2026-11-04",
+   "section": "carney-case",
+   "headline": "Jordan would reportedly prefer to try the suspect in Jamey Carney's killing itself",
+   "lead": "Jordan would prefer to put Ahmad Al-Saqar on trial in Jordan rather than send him to Ireland, Radio Kerry reported on 3 November, citing Sinead Kelleher, a journalist with The Kerryman.",
+   "text": "Al-Saqar has been held in Jordan since July, and the Director of Public Prosecutions has ruled that an arrest warrant is supported. The Irish Independent carries the same report (headline only; the page was blocked). No statement from the Irish or Jordanian governments was found, so this remains unconfirmed.",
+   "sources": [
+    {
+     "name": "Radio Kerry",
+     "url": "https://www.radiokerry.ie/news/jordan-reportedly-would-prefer-to-try-person-of-interest-in-jamey-carney-murder-investigation-there-505349"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-spacex-xai-and-cursor-1",
+   "edition": "2026-11-04",
+   "section": "spacex-xai-and-cursor",
+   "headline": "xAI installs eight converted jet-engine turbines at its Mississippi data center; permits allow 25 percent more of some pollutants",
+   "lead": "xAI has installed eight turbines made from converted GE jet engines by ProEnergy, of up to 50 MW each, to power its Mississippi data center, Tom's Hardware reports. The permits allow a 25 percent higher limit on volatile organic compounds, and concerns have been raised about carbon monoxide.",
+   "text": "The Southern Environmental Law Center has challenged the approval, according to Tom's Hardware, citing The New York Times (the Times article was not opened). Only one source was opened.",
+   "sources": [
+    {
+     "name": "Tom's Hardware",
+     "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-xai-installs-eight-converted-jet-engines-to-power-mississippi-data-center-permits-allow-25-percent-higher-limit-for-pollutants-concerns-raised-over-carbon-monoxide"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-spacex-xai-and-cursor-2",
+   "edition": "2026-11-04",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Reuters: in a SpaceX–Tesla merger, Musk would gain voting control but probably not a $1 trillion payday",
+   "lead": "A Reuters analysis says that if SpaceX acquired Tesla, Elon Musk would own about 37 percent of the combined company but hold 56 percent of the votes, because of SpaceX's 10-vote shares, according to Barclays (Reuters via CNA, 3 November).",
+   "text": "Under Tesla's pay plan, a change of control would pay out the market-value goals without the operating goals; Tesla is worth about $1.6 trillion and would need to reach $2 trillion for any award (about $20 billion in shares at that level). Under SpaceX's plan, Musk already votes all the award shares and has 85 percent control, and the board could change the plan; Equilar values its top tier at $719 billion. \"This package is a distraction from the real story, which is complete control,\" said governance expert Charles Elson; compensation expert Kevin Murphy said, \"He wants the whole bag.\" Musk, Tesla and SpaceX did not respond. Nothing new in the Grok Bot changelog since 27 October.",
+   "sources": [
+    {
+     "name": "CNA (Reuters)",
+     "url": "https://www.channelnewsasia.com/business/musks-pay-under-spacex-tesla-merger-voting-control-no-1-trillion-payday-6516641"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-israeli-data-centers-1",
+   "edition": "2026-11-04",
+   "section": "israeli-data-centers",
+   "headline": "Enlight expects the freeze on connecting large power users to end on 7 December and says its Ashalim data-center project is \"in a very good place in the line\"",
+   "lead": "Enlight CEO Adi Levitan told investors on 3 November that the company plans to build and operate data centers, and that the Electricity Authority's temporary freeze on connecting large power consumers is expected to end on 7 December (Bizportal).",
+   "text": "Levitan said the hearings point to financial guarantees per megawatt of connection, which favor financially strong companies, and that projects filed before the freeze keep their place in the queue: \"our projects, and Ashalim is only one of them, are in very good places in the line.\" He expects construction spending at Ashalim in 2027 and grid connection in 2028 or early 2029. Enlight's third-quarter revenue rose 40 percent to $231 million, and it raised its 2026 revenue guidance to $810–830 million. TheMarker calls the outlook positive for Enlight and the Ashalim project (lead only; paywalled). The exact project site was not given; the map link shows the moshav of Ashalim in the Negev (approximate, coordinates from OpenStreetMap): https://www.google.com/maps/search/?api=1&query=30.96389,34.70027.",
+   "sources": [
+    {
+     "name": "Bizportal",
+     "url": "https://www.bizportal.co.il/capitalmarket/news/article/20047157"
+    },
+    {
+     "name": "TheMarker (lead only)",
+     "url": "https://www.themarker.com/news/energy/2026-11-03/ty-article/.premium/000001a1-a029-db9a-a1b3-b83b419a0000"
+    },
+    {
+     "name": "Map: Ashalim (approximate)",
+     "url": "https://www.google.com/maps/search/?api=1&query=30.96389,34.70027"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-cypherboria-1",
+   "edition": "2026-11-04",
+   "section": "cypherboria",
+   "headline": "Cyphers posts a Land clip on its calculator, floats an \"esoteric dating app,\" and co-sponsors a VR concert tonight",
+   "lead": "At about 9:20 PM Israel time on 3 November, Cyphers (@CyphersNews) posted a clip of Nick Land saying \"You find truth by coming back to\" the Cyphers calculator; Net Void quoted it: \"Favourite clip of all time tysm for supporting our calculator Xeno!\"",
+   "text": "The same day Cyphers floated an \"esoteric dating app\" that would match people by birthday numerology and name ciphers (\"If your names sum to 666, we can't help you\"), crediting @patallax and pointing to a Discord; Net Void wrote that she had the idea five years ago with the site's original coder, Gematro. Cyphers is a co-sponsor of Grimfel's virtual reality concert \"Citizen № 1000\" at 23:00 GMT on 4 November (1:00 AM Israel time on 5 November), with free tickets. Cyphers also wrote \"Expect a huge psy-op November 7th,\" and Net Void added \"Literally watch out for Nov. 7th\"; neither said what they meant. 7 November is the date of the \"One is not\" symposium reported here earlier. All quotes are from the posts.",
+   "sources": [
+    {
+     "name": "Cyphers: Land clip",
+     "url": "https://x.com/CyphersNews/status/2117698364007404012"
+    },
+    {
+     "name": "Net Void quote post",
+     "url": "https://x.com/i/status/2117698830678560959"
+    },
+    {
+     "name": "Cyphers: dating app",
+     "url": "https://x.com/CyphersNews/status/2117664496953196811"
+    },
+    {
+     "name": "Cyphers: dating app follow-up",
+     "url": "https://x.com/CyphersNews/status/2117750806711591421"
+    },
+    {
+     "name": "Cyphers: Grimfel concert",
+     "url": "https://x.com/CyphersNews/status/2117717069764370860"
+    },
+    {
+     "name": "Grimfel: concert announcement",
+     "url": "https://x.com/GrimfelOfficial/status/2117716134720090184"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-04-cypherboria-2",
+   "edition": "2026-11-04",
+   "section": "cypherboria",
+   "headline": "resonatingloop says she spent months building a framework from which to interview Land",
+   "lead": "At about 3:23 AM Israel time on 4 November, @resonatingloop wrote that she had spent months \"developing a framework and perspective of my own from which to interview nick land.\" No date for the interview was given.",
+   "text": "Land's own posts since 3 November were UK immigration and political commentary, off the section's themes; in one reply he asked, \"Did you miss the 'Ccru does not, has not, and will never exist' memo?\" Talk of a Tucker Carlson interview with Land, now claimed by one small account to take place in Shanghai this month, is still unconfirmed. Reality Check with Ross Coulthart (NewsNation) reposted an older Jacques Vallée interview on YouTube on 1 November as a \"Rewind\" episode titled \"Vallée's Last Words on UFO Mystery\"; it is a rerun, not new. Nothing new from Retrochronic (v1.0.176, 199 sources), ReynoldsRetro, PHYTHAGRAM, Doomcrypt, @Mortal_Series, D.W. Pasulka, Ryan Haecker, Methexis, Truth is Christ, the Cyphers and Net Void YouTube channels, or jacquesvallee.net.",
+   "sources": [
+    {
+     "name": "resonatingloop",
+     "url": "https://x.com/resonatingloop/status/2117789813692829889"
+    },
+    {
+     "name": "Land: Ccru memo reply",
+     "url": "https://x.com/xenocosmography/status/2117665438595535121"
+    },
+    {
+     "name": "Unconfirmed Tucker claim",
+     "url": "https://x.com/oceanofreason/status/2117574569330708975"
+    },
+    {
+     "name": "Reality Check Rewind (YouTube)",
+     "url": "https://www.youtube.com/watch?v=6wOo0FhmDws"
     }
    ]
   }
