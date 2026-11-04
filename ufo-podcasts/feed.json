@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T04:08+02:00",
+ "updated": "2026-11-04T04:07+02:00",
  "podcasts": [
   {
    "title": "Mark Solms: Consciousness Isn't in the Cortex",
@@ -169,6 +169,15 @@
  ],
  "web": [
   {
+   "title": "The Future That Makes Us: Nick Land and Hyperstition",
+   "url": "https://www.youtube.com/watch?v=Bnb-ATKPfuc",
+   "source": "The Observing I Podcast · YouTube",
+   "date": "2026-11-03",
+   "note": "A 42-minute solo episode on Nick Land, accelerationism and hyperstition, the idea that stories about the future can help bring that future about, applied to AI and technological change and then to the labels people accept about themselves. Judged from the video description.",
+   "interest": "Control mechanisms (CCRU, Nick Land, hyperstition)",
+   "type": "video"
+  },
+  {
    "title": "UAPCon 3 - The Intersection of UAP & Consciousness",
    "url": "https://www.youtube.com/watch?v=FJK-nsf5ihw",
    "source": "UAPCon · YouTube",
@@ -320,36 +329,42 @@
    "note": "A seminar session with Michael Downs on Xenosystems, Nick Land's blog-era writing after the CCRU, offered as part of a course on theory-fiction and politics. Judged from the title and course listing; the description gives no outline.",
    "interest": "Control mechanisms (CCRU, Nick Land)",
    "type": "video"
-  },
-  {
-   "title": "The Fourth State: Are We Entering an Era of Attacking Plasma Orbs?",
-   "url": "https://rebeccahardcastlewright.substack.com/p/the-fourth-state-are-we-entering",
-   "source": "Rebecca Hardcastle Wright, PhD · Substack",
-   "date": "2026-10-27",
-   "note": "Wright compares the dangerous-orb stories in three recent bestselling books tied to Skinwalker Ranch and asks whether the orbs are plasma, who benefits from a frightening orb narrative, and what British folklore about helpful brownies and harmful boggarts suggests about how we relate to such beings.",
-   "interest": "Nature of the phenomenon; folklore",
-   "type": "article"
-  },
-  {
-   "title": "Is Our Government Being Influenced by Nonhuman Intelligence?",
-   "url": "https://bialikbreakdown.substack.com/p/is-our-government-being-influenced",
-   "source": "Mayim Bialik's Breakdown · Substack",
-   "date": "2026-10-27",
-   "note": "Author Peter Levenda talks about occultism, mythology, and power, and his own \"Men in Black\" experience, alongside government-secrecy themes. Only the paywalled preview was readable; ranked low because much of it is cover-up material.",
-   "interest": "Secondary: government secrecy; some occult and consciousness material",
-   "type": "article"
-  },
-  {
-   "title": "The Fairy Lie That Killed: The Dark Truth About Changelings",
-   "url": "https://www.youtube.com/watch?v=XZauBcSJ8E4",
-   "source": "Iron & Rowan · YouTube",
-   "date": "2026-10-27",
-   "note": "A 43-minute folklore history of the belief that fairies swapped sick babies and adults for impostors, from 13th-century accounts to the 1895 killing of Bridget Cleary, arguing the belief explained illness and disability before modern medicine. Judged from the video description.",
-   "interest": "UFO and folklore overlaps (changelings)",
-   "type": "video"
   }
  ],
  "items": [
+  {
+   "type": "x-post",
+   "tag": "X post",
+   "source": "X",
+   "author": "@PostDisclosure",
+   "id": "2117757261590442448",
+   "date": "2026-11-03T23:14:11Z",
+   "title": "Why I want Open Contact with non-human intelligences",
+   "url": "https://x.com/PostDisclosure/status/2117757261590442448",
+   "note": "The Post Disclosure World account shares a link laying out why it wants open contact with non-human intelligences; only the post itself was reviewed, not the linked piece.",
+   "interest": "AI and non-human intelligence"
+  },
+  {
+   "type": "x-post",
+   "tag": "X post",
+   "source": "X",
+   "author": "@StephenGeoRae",
+   "id": "2117606768951890327",
+   "date": "2026-11-03T13:16:11Z",
+   "title": "#FairytaleTuesday The Wild Hunt is a folklore motif typically involving a chase, led by a mythological figure escorted by a supernatural",
+   "url": "https://x.com/StephenGeoRae/status/2117606768951890327",
+   "note": "The Folklore of Scotland account describes the Wild Hunt, the old European tale of a ghostly troop of riders sweeping across the sky, often led by Odin, one of the sky-borne processions of otherworldly beings that writers on fairies and UFOs often compare.",
+   "interest": "UFO and folklore overlaps"
+  },
+  {
+   "type": "video",
+   "title": "The Future That Makes Us: Nick Land and Hyperstition",
+   "url": "https://www.youtube.com/watch?v=Bnb-ATKPfuc",
+   "source": "The Observing I Podcast · YouTube",
+   "date": "2026-11-03",
+   "note": "A 42-minute solo episode on Nick Land, accelerationism and hyperstition, the idea that stories about the future can help bring that future about, applied to AI and technological change and then to the labels people accept about themselves. Judged from the video description.",
+   "interest": "Control mechanisms (CCRU, Nick Land, hyperstition)"
+  },
   {
    "type": "x-post",
    "tag": "X post",
@@ -758,33 +773,6 @@
    "interest": "Control mechanism (mind control, control system); nature of the phenomenon",
    "youtube": "https://www.youtube.com/watch?v=QjU7FfTcACE",
    "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740"
-  },
-  {
-   "title": "The Fourth State: Are We Entering an Era of Attacking Plasma Orbs?",
-   "url": "https://rebeccahardcastlewright.substack.com/p/the-fourth-state-are-we-entering",
-   "source": "Rebecca Hardcastle Wright, PhD · Substack",
-   "date": "2026-10-27",
-   "note": "Wright compares the dangerous-orb stories in three recent bestselling books tied to Skinwalker Ranch and asks whether the orbs are plasma, who benefits from a frightening orb narrative, and what British folklore about helpful brownies and harmful boggarts suggests about how we relate to such beings.",
-   "interest": "Nature of the phenomenon; folklore",
-   "type": "article"
-  },
-  {
-   "title": "Is Our Government Being Influenced by Nonhuman Intelligence?",
-   "url": "https://bialikbreakdown.substack.com/p/is-our-government-being-influenced",
-   "source": "Mayim Bialik's Breakdown · Substack",
-   "date": "2026-10-27",
-   "note": "Author Peter Levenda talks about occultism, mythology, and power, and his own \"Men in Black\" experience, alongside government-secrecy themes. Only the paywalled preview was readable; ranked low because much of it is cover-up material.",
-   "interest": "Secondary: government secrecy; some occult and consciousness material",
-   "type": "article"
-  },
-  {
-   "type": "video",
-   "title": "The Fairy Lie That Killed: The Dark Truth About Changelings",
-   "url": "https://www.youtube.com/watch?v=XZauBcSJ8E4",
-   "source": "Iron & Rowan · YouTube",
-   "date": "2026-10-27",
-   "note": "A 43-minute folklore history of the belief that fairies swapped sick babies and adults for impostors, from 13th-century accounts to the 1895 killing of Bridget Cleary, arguing the belief explained illness and disability before modern medicine. Judged from the video description.",
-   "interest": "UFO and folklore overlaps (changelings)"
   },
   {
    "title": "Jacques Vallée: AI Could Contact UFOs Before We Do!",
