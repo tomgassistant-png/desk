@@ -1,6 +1,17 @@
 {
- "updated": "2026-11-04T04:07+02:00",
+ "updated": "2026-11-05T04:08+02:00",
  "podcasts": [
+  {
+   "title": "Developing Your Intuition with Emmy Vadnais",
+   "url": "https://www.youtube.com/watch?v=JgogyEsNrfw",
+   "source": "New Thinking Allowed",
+   "date": "2026-11-04",
+   "guest": "Emmy Vadnais",
+   "youtube": "https://www.youtube.com/watch?v=JgogyEsNrfw",
+   "podcast": "https://jmishlove.podbean.com/e/developing-your-intuition-with-emmy-vadnais/",
+   "note": "The show's co-host, an occupational therapist and intuitive coach, talks about her book Intuitive Development and how she says people can learn to trust inner knowing in relationships, health and spiritual life. Judged from the episode description.",
+   "interest": "Psychology and consciousness"
+  },
   {
    "title": "Mark Solms: Consciousness Isn't in the Cortex",
    "url": "https://www.youtube.com/watch?v=-RxkxSD78cQ",
@@ -66,17 +77,6 @@
    "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/The-UFO-Community-Has-a-BIG-Problem-Nobody-Wants-to-Talk-About--w-Filmmaker-Darcy-Weir-e3rdiaf",
    "note": "The documentary filmmaker argues that UFO celebrities, money and infighting inside the UFO world may do more to block answers than government secrecy, and describes what he says were Steven Greer's financial demands for an interview. Judged from the episode description.",
    "interest": "Psychology of belief in the UFO world; disclosure (secondary)"
-  },
-  {
-   "title": "Æ: The Forgotten Mystic with James Tunney (4K Reboot)",
-   "url": "https://www.youtube.com/watch?v=dwl1Ukh2eYc",
-   "source": "New Thinking Allowed",
-   "date": "2026-10-29",
-   "guest": "James Tunney",
-   "youtube": "https://www.youtube.com/watch?v=dwl1Ukh2eYc",
-   "podcast": "",
-   "note": "Irish barrister and poet James Tunney on George William Russell, the Irish poet, painter and mystic who signed his work \"Æ\" and described seeing luminous beings in the Irish countryside. Judged from the video description.",
-   "interest": "UFO and folklore overlaps (Irish visionary beings); psychology and consciousness"
   },
   {
    "title": "The Tedesco Brothers: UFO Encounters, the Hitchhiker Effect & the FBI",
@@ -169,12 +169,39 @@
  ],
  "web": [
   {
+   "title": "An Inhuman Future: Nick Land, Techno Accelerationism, and the Dark Enlightenment",
+   "url": "https://www.youtube.com/watch?v=mQfedl5E22Q",
+   "source": "Rev Left Radio · YouTube",
+   "date": "2026-11-04",
+   "note": "A two-hour episode in which the hosts explain Nick Land's view that technology and capital form an inhuman process, with AI as capitalism 'waking up', trace it from the CCRU and hyperstition to the Dark Enlightenment and its pull on tech leaders, then argue against it from the left. Judged from the episode description and transcript summary.",
+   "interest": "Control mechanisms (CCRU, Nick Land, hyperstition)",
+   "type": "video"
+  },
+  {
    "title": "The Future That Makes Us: Nick Land and Hyperstition",
    "url": "https://www.youtube.com/watch?v=Bnb-ATKPfuc",
    "source": "The Observing I Podcast · YouTube",
    "date": "2026-11-03",
    "note": "A 42-minute solo episode on Nick Land, accelerationism and hyperstition, the idea that stories about the future can help bring that future about, applied to AI and technological change and then to the labels people accept about themselves. Judged from the video description.",
    "interest": "Control mechanisms (CCRU, Nick Land, hyperstition)",
+   "type": "video"
+  },
+  {
+   "title": "Is AI sentient?",
+   "url": "https://mattjames.dev/posts/2026-11-03-is-ai-sentient",
+   "source": "Matt James (blog)",
+   "date": "2026-11-03",
+   "note": "A long blog essay in which Matt James argues today's AI probably isn't sentient but that no working test exists, and walks through theories where feeling comes from complex processing, from matter itself, or from a field the brain tunes into.",
+   "interest": "AI and non-human intelligence",
+   "type": "article"
+  },
+  {
+   "title": "Is the UFO Phenomenon a Consciousness Computer? (with Jeff Selver, part 1)",
+   "url": "https://www.youtube.com/watch?v=kHTwliVla-8",
+   "source": "Grant Cameron · YouTube",
+   "date": "2026-11-02",
+   "note": "Grant Cameron, who argues the phenomenon is tied to consciousness, talks with Jeff Selver about the idea that it works like a consciousness computer. Judged from the title only, since the description could not be loaded.",
+   "interest": "Psychology and consciousness",
    "type": "video"
   },
   {
@@ -311,27 +338,54 @@
    "note": "C. Derick Varn and the writer Grady open a mini-series on Nick Land with his CCRU-era essay Meltdown and his attack on Mark Fisher, and argue that the CCRU's \"Human Security System\" idea foreshadowed Curtis Yarvin's \"Cathedral.\" Judged from the video description.",
    "interest": "Control mechanisms (CCRU, accelerationism)",
    "type": "video"
-  },
-  {
-   "title": "Grant Cameron Interviews Gerald Pratt: UFOs, Astral Travel & Consciousness (Part 1 of 2)",
-   "url": "https://getpodcast.com/pl/podcast/paranormal-ufo-consciousness-podcast/grant-cameron-interviews-gerald-pratt-ufos-astral-travel-and-conscious_3ec23df112",
-   "source": "The Paranormal UFO Consciousness Podcast (Grant Cameron)",
-   "date": "2026-10-28",
-   "note": "Liverpool experiencer Gerald Pratt describes a lifetime of encounters that he says blur UFO contact, out-of-body travel and spirit contact, including claims of piloting a craft by mind, and treats named beings as possible \"frequency masks.\" His claims are unconfirmed; judged from the episode description.",
-   "interest": "Psychology and consciousness; nature of the phenomenon",
-   "type": "podcast"
-  },
-  {
-   "title": "Land's Xenosystems (w/ Michael Downs)",
-   "url": "https://www.youtube.com/watch?v=zb_XiNnQtKM",
-   "source": "Philosophy Portal · YouTube",
-   "date": "2026-10-28",
-   "note": "A seminar session with Michael Downs on Xenosystems, Nick Land's blog-era writing after the CCRU, offered as part of a course on theory-fiction and politics. Judged from the title and course listing; the description gives no outline.",
-   "interest": "Control mechanisms (CCRU, Nick Land)",
-   "type": "video"
   }
  ],
  "items": [
+  {
+   "type": "x-post",
+   "tag": "X post",
+   "source": "X",
+   "author": "@PostDisclosure",
+   "id": "2118039121340059985",
+   "date": "2026-11-04T17:54:12Z",
+   "title": "A legitimate possibility on why NHI look so much like us",
+   "url": "https://x.com/PostDisclosure/status/2118039121340059985",
+   "note": "The Post Disclosure World account shares what it calls a legitimate explanation for why reported non-human intelligences (NHI) look so humanlike; only the post itself was reviewed, not the linked material, and the premise is unconfirmed.",
+   "interest": "Nature of the phenomenon"
+  },
+  {
+   "type": "x-post",
+   "tag": "X post",
+   "source": "X",
+   "author": "@StephenGeoRae",
+   "id": "2118020066952593633",
+   "date": "2026-11-04T16:38:29Z",
+   "title": "Merlin, driven mad with grief when his men were slaughtered in battle, finds refuge in the Caledonian Forest",
+   "url": "https://x.com/StephenGeoRae/status/2118020066952593633",
+   "note": "The Folklore of Scotland account retells the tale of Merlin in the Caledonian Forest, visited by nature spirits and afterward given the gift of prophecy, an old example of contact with otherworldly beings bringing new knowledge.",
+   "interest": "UFO and folklore overlaps"
+  },
+  {
+   "title": "Developing Your Intuition with Emmy Vadnais",
+   "url": "https://www.youtube.com/watch?v=JgogyEsNrfw",
+   "source": "New Thinking Allowed",
+   "date": "2026-11-04",
+   "guest": "Emmy Vadnais",
+   "youtube": "https://www.youtube.com/watch?v=JgogyEsNrfw",
+   "podcast": "https://jmishlove.podbean.com/e/developing-your-intuition-with-emmy-vadnais/",
+   "type": "podcast",
+   "note": "The show's co-host, an occupational therapist and intuitive coach, talks about her book Intuitive Development and how she says people can learn to trust inner knowing in relationships, health and spiritual life. Judged from the episode description.",
+   "interest": "Psychology and consciousness"
+  },
+  {
+   "type": "video",
+   "title": "An Inhuman Future: Nick Land, Techno Accelerationism, and the Dark Enlightenment",
+   "url": "https://www.youtube.com/watch?v=mQfedl5E22Q",
+   "source": "Rev Left Radio · YouTube",
+   "date": "2026-11-04",
+   "note": "A two-hour episode in which the hosts explain Nick Land's view that technology and capital form an inhuman process, with AI as capitalism 'waking up', trace it from the CCRU and hyperstition to the Dark Enlightenment and its pull on tech leaders, then argue against it from the left. Judged from the episode description and transcript summary.",
+   "interest": "Control mechanisms (CCRU, Nick Land, hyperstition)"
+  },
   {
    "type": "x-post",
    "tag": "X post",
@@ -364,6 +418,15 @@
    "date": "2026-11-03",
    "note": "A 42-minute solo episode on Nick Land, accelerationism and hyperstition, the idea that stories about the future can help bring that future about, applied to AI and technological change and then to the labels people accept about themselves. Judged from the video description.",
    "interest": "Control mechanisms (CCRU, Nick Land, hyperstition)"
+  },
+  {
+   "type": "article",
+   "title": "Is AI sentient?",
+   "url": "https://mattjames.dev/posts/2026-11-03-is-ai-sentient",
+   "source": "Matt James (blog)",
+   "date": "2026-11-03",
+   "note": "A long blog essay in which Matt James argues today's AI probably isn't sentient but that no working test exists, and walks through theories where feeling comes from complex processing, from matter itself, or from a field the brain tunes into.",
+   "interest": "AI and non-human intelligence"
   },
   {
    "type": "x-post",
@@ -411,6 +474,15 @@
    "podcast": "",
    "type": "podcast",
    "note": "A philosophy professor, now a visiting scholar at Waseda University in Tokyo, traces how the idea of the soul has changed across Greek philosophy, Buddhism, Christianity, Hinduism and Jungian psychology. Judged from the video description.",
+   "interest": "Psychology and consciousness"
+  },
+  {
+   "type": "video",
+   "title": "Is the UFO Phenomenon a Consciousness Computer? (with Jeff Selver, part 1)",
+   "url": "https://www.youtube.com/watch?v=kHTwliVla-8",
+   "source": "Grant Cameron · YouTube",
+   "date": "2026-11-02",
+   "note": "Grant Cameron, who argues the phenomenon is tied to consciousness, talks with Jeff Selver about the idea that it works like a consciousness computer. Judged from the title only, since the description could not be loaded.",
    "interest": "Psychology and consciousness"
   },
   {
@@ -672,18 +744,6 @@
    "interest": "Mind control; psychology"
   },
   {
-   "title": "Æ: The Forgotten Mystic with James Tunney (4K Reboot)",
-   "url": "https://www.youtube.com/watch?v=dwl1Ukh2eYc",
-   "source": "New Thinking Allowed",
-   "date": "2026-10-29",
-   "guest": "James Tunney",
-   "youtube": "https://www.youtube.com/watch?v=dwl1Ukh2eYc",
-   "podcast": "",
-   "type": "podcast",
-   "note": "Irish barrister and poet James Tunney on George William Russell, the Irish poet, painter and mystic who signed his work \"Æ\" and described seeing luminous beings in the Irish countryside. Judged from the video description.",
-   "interest": "UFO and folklore overlaps (Irish visionary beings); psychology and consciousness"
-  },
-  {
    "type": "video",
    "title": "UFOs & Time Machines: Are Aliens Actually Humans from the Future? | Dr. Michael Masters",
    "url": "https://www.youtube.com/watch?v=KPdpOqYNRJI",
@@ -711,28 +771,6 @@
    "interest": "Control mechanisms (CCRU, accelerationism)"
   },
   {
-   "title": "\"The phenomenon manipulates consciousness\": Peter Levenda on whether we can defend against it",
-   "url": "https://x.com/TheUfoJoe/status/2115509739576827918",
-   "source": "X",
-   "author": "@TheUfoJoe",
-   "date": "2026-10-28T18:23:20Z",
-   "type": "x-post",
-   "tag": "X post",
-   "note": "Murgia quotes occult historian Peter Levenda saying the phenomenon can appear as whatever it wants and alter perception, and that people can resist it.",
-   "interest": "Mind control; consciousness; nature of the phenomenon"
-  },
-  {
-   "title": "Are some officials under non-human mind control, keeping them from disclosing?",
-   "url": "https://x.com/TheUfoJoe/status/2115352391369544124",
-   "source": "X",
-   "author": "@TheUfoJoe",
-   "date": "2026-10-28T07:58:06Z",
-   "type": "x-post",
-   "tag": "X post",
-   "note": "Murgia weighs Robert Martinez's claims that non-humans influence officials' minds. He rates Martinez's credibility as undetermined; highly speculative.",
-   "interest": "Mind and social control (speculative)"
-  },
-  {
    "title": "The Tedesco Brothers: UFO Encounters, the Hitchhiker Effect & the FBI",
    "url": "https://audioboom.com/posts/8970179",
    "source": "That UFO Podcast",
@@ -743,24 +781,6 @@
    "guest": "John and Gerry Tedesco",
    "youtube": "https://www.youtube.com/watch?v=_eKu3FuPa_E",
    "podcast": "https://audioboom.com/posts/8970179"
-  },
-  {
-   "title": "Grant Cameron Interviews Gerald Pratt: UFOs, Astral Travel & Consciousness (Part 1 of 2)",
-   "url": "https://getpodcast.com/pl/podcast/paranormal-ufo-consciousness-podcast/grant-cameron-interviews-gerald-pratt-ufos-astral-travel-and-conscious_3ec23df112",
-   "source": "The Paranormal UFO Consciousness Podcast (Grant Cameron)",
-   "date": "2026-10-28",
-   "type": "podcast",
-   "note": "Liverpool experiencer Gerald Pratt describes a lifetime of encounters that he says blur UFO contact, out-of-body travel and spirit contact, including claims of piloting a craft by mind, and treats named beings as possible \"frequency masks.\" His claims are unconfirmed; judged from the episode description.",
-   "interest": "Psychology and consciousness; nature of the phenomenon"
-  },
-  {
-   "type": "video",
-   "title": "Land's Xenosystems (w/ Michael Downs)",
-   "url": "https://www.youtube.com/watch?v=zb_XiNnQtKM",
-   "source": "Philosophy Portal · YouTube",
-   "date": "2026-10-28",
-   "note": "A seminar session with Michael Downs on Xenosystems, Nick Land's blog-era writing after the CCRU, offered as part of a course on theory-fiction and politics. Judged from the title and course listing; the description gives no outline.",
-   "interest": "Control mechanisms (CCRU, Nick Land)"
   },
   {
    "title": "There’s A Cosmic War Going On Above Your Head (Jason Jorjani Part 3)",
