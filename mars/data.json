@@ -1,14 +1,127 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-11-04 04:30",
- "checked": "4 Nov 2026",
+ "updated": "2026-11-05 04:45",
+ "checked": "5 Nov 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 4 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters fly close past Earth and fire their engines toward Mars on 7 and 9 November; NASA confirmed the dates on 2 November (its own mission blog), and arrival is 7 and 9 September 2027; Rocket Lab, which built the two spacecraft, repeated the dates on X on 3 November. ESA marked ten years of its Trace Gas Orbiter (TGO) at Mars on 19 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known.",
-  "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October.",
+  "Where things stand on 5 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which the team says may be among the oldest rocks exposed on Mars. Curiosity is getting ready to drill a new hole at a rock called \"Nazca\". Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters fly close past Earth and fire their engines toward Mars on 7 and 9 November; NASA confirmed the dates on 2 November (its own mission blog), and arrival is 7 and 9 September 2027; Rocket Lab, which built the two spacecraft, repeated the dates on X on 3 November. ESA marked ten years of its Trace Gas Orbiter (TGO) at Mars on 19 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known. New on 4 November: ESA's Trace Gas Orbiter has found hydrogen chloride gas coming from fresh cracks on the Alba Mons volcano, a possible sign that Mars still has warm magma underground (not proof of eruptions). NASA's review board report on the lost MAVEN orbiter blames a computer reboot followed by a faulty gyroscope.",
+  "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October. Democrats won both the House and the Senate in the 3 November elections and take over on 3 January 2027; the current Republican-led Congress still has to finish the 2027 budget. A White House proclamation on 3 November speaks of Americans on Mars but sets no date or money.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "feed": [
+  {
+   "when": "2026-11-05 04:45",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JPL, JAXA, ESA, CNES, CNSA, Xinhua, UAE, ISRO, SpaceX, Blue Origin, Rocket Lab, GAO, SpacePolicyOnline, Planetary Society, SpaceNews, Space.com, NASASpaceFlight, NASA Watch, AMSAT-DL, Estévez, plus X",
+   "text": "Nothing new today on these, so only their checked dates change: NASA news releases (four new stories on 4 and 5 November, on the Artemis Moon schedule, a landing-navigation test on a drone, Ka-band radio relay contracts and the X-70 aircraft; Mars appears only in passing, so no item) and JPL news (read through JPL's news feed; newest still 29 October), the Perseverance team blog (newest still \"Tinga's Tale\", 26 October), NASA's Perseverance raw-image feed (newest still sol 2024, 30 October) and traverse file (still ends at sol 2022, so the distance is unchanged), the Curiosity team blog (newest still sols 5043-5049, 28 October; no Nazca drill hole reported yet), NASA's Mars Future Plan page (last updated 23 June; no low-cost Mars mission solicitation seen [unconfirmed]), NASA's ESCAPADE blog (newest still 2 November) and Berkeley's mission-design page (still \"November 2026\" for the burn and September 2027 for arrival), ESA's top-news feed (no new Mars story; ESA's Mars Express and ExoMars pages showed no dated story lists to my reader), JAXA's English press list (newest still 21 October) and the MMX blog (newest still 30 October), CNSA's English site (nothing new on Mars), the UAE Space Agency on X (one post on 4 November about a two-day visit by an ESA delegation to discuss cooperation; nothing on Hope), ISRO, SpaceX, Blue Origin and Elon Musk on X (no Mars posts since the last check), NASA Mars on X (one general ESCAPADE post on 4 November), the two GAO protest dockets (both still open, decisions due 21 December 2026 and 1 February 2027; no third docket exists), the Planetary Society (an advocacy group; newest Mars item still Singita, 28 October), SpaceNews (feed and web search; its 2 November MAVEN story was missed earlier and is added below), AMSAT-DL (amateur radio group; newest 24 October) and Daniel Estévez's blog (newest still 26 October, not about Mars). A Chinese trade news site, SpaceNews China (spacenews.com.cn, 4 November; not linked), repeats that about 3.5 terabytes of Tianwen-1 data are open to scientists worldwide, but gives no release date, so it gets no item [unconfirmed]. New today: the TGO volcanic gas study, ESCAPADE flyby viewing details, the U.S. election result, the White House space proclamation, the MAVEN failure report and a Chinese study of dust at Zhurong's landing site (below).",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://www.gao.gov/docket/b-424825.1",
+   "link_text": "open GAO docket B-424825.1",
+   "other": "",
+   "links": [
+    [
+     "GAO docket B-424825.2",
+     "https://www.gao.gov/docket/b-424825.2"
+    ],
+    [
+     "JAXA press releases",
+     "https://global.jaxa.jp/press/"
+    ],
+    [
+     "CNSA (English)",
+     "https://www.cnsa.gov.cn/english/"
+    ],
+    [
+     "UAE Space Agency on X, 4 Nov",
+     "https://x.com/uaespaceagency/status/2117974864221114471"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-05 01:21",
+   "who": "Elections and Congress: SpacePolicyOnline (Marcia Smith), \"'Blue Tsunami' Puts Democrats in Control of House and Senate Next Year\"; NASA Watch, \"NASA's new bosses\"; CBS News (Kaia Hubbard)",
+   "kind": "news reports (a space policy news site, a space news blog and a national TV network)",
+   "where": "spacepolicyonline.com (4 November, written at 8 AM U.S. Eastern); nasawatch.com (posted 01:21 Israel time on 5 November); cbsnews.com (4 November)",
+   "text": "Democrats won control of both the House and the Senate in the 3 November U.S. midterm elections. AP's projection, as quoted by SpacePolicyOnline, gives Democrats at least 54 Senate seats and 228 House seats, with races still being counted; CBS News also projects a Democratic Senate. Republicans keep control until the new Congress starts on 3 January 2027, and they still have to finish the 2027 spending bills, including NASA's: none of the 12 has passed, and the stopgap law runs out on 11 December. For NASA, SpacePolicyOnline says the agency has support from both parties and Congress has already pushed back on the White House's proposed cuts. NASA Watch lists who is likely to lead the committees that oversee and fund NASA: Rep. Zoe Lofgren (D-CA), now the committee's top Democrat, who has said she wants to chair the House Science Committee; Sen. Maria Cantwell (D-WA) at Senate Commerce; and Sen. Chris Van Hollen (D-MD) at the Senate spending subcommittee that writes NASA's budget. NASA Watch's view is that the total for NASA may not change much, but what the money is spent on, especially science, may.",
+   "evidence": "The Democratic majority is confirmed by SpacePolicyOnline (citing AP) and CBS News (its own projection). Seat counts were still changing; NASA Watch, citing CBS, says the House majority could pass 250 seats. Committee posts are expected, not decided [unconfirmed until party votes in the coming weeks]. What this means for Mars missions is not yet known; nobody I read named a Mars program.",
+   "url": "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2/",
+   "link_text": "open SpacePolicyOnline, 4 Nov",
+   "other": "",
+   "links": [
+    [
+     "NASA Watch, 4 Nov",
+     "https://nasawatch.com/2026/11/04/midterm-elections-nasa-congress/"
+    ],
+    [
+     "CBS News, Senate control",
+     "https://www.cbsnews.com/news/senate-control-democrats-republicans-2026-midterm-elections/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-05 00:55",
+   "who": "Advanced Space on X (@AdvancedSpace), the Colorado company that designs ESCAPADE's path, engine burns and navigation for UC Berkeley",
+   "kind": "interested source (a mission contractor, promoting its own work)",
+   "where": "x.com (posted 00:55 Israel time on 5 November)",
+   "text": "Advanced Space says ESCAPADE's first orbiter, Blue, passes Earth \"on the night of November 6\" (U.S. time) and fires its engine near its closest point; Gold follows about 49 hours later with its own flyby and departure burn. The paths go through Earth's shadow and over Australia, with the key burns west of the continent. The company says the orbiters will be moving at about 33 to 34 times the speed of sound, and that a good telescope may show them in the days before, with binoculars possibly enough around 1 AM on Saturday 7 November and on Monday morning 9 November, depending on where you are [U.S. local times, not stated].",
+   "evidence": "The timing fits NASA's ESCAPADE blog (burns at 4:51 AM U.S. Eastern on 7 November and 5:51 AM Eastern on 9 November, which is 48 hours apart; Advanced Space says about 49 hours between flybys [unconfirmed]). NASA's Solar System account (3 Nov) also says the flybys are on 6-7 and 8-9 November and posted U.S. star charts. The viewing advice is the company's.",
+   "url": "https://x.com/AdvancedSpace/status/2118114989626085477",
+   "link_text": "open Advanced Space's post",
+   "other": "",
+   "links": [
+    [
+     "NASA ESCAPADE blog, 2 Nov",
+     "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/"
+    ],
+    [
+     "NASA Mars on X, 4 Nov",
+     "https://x.com/NASAMars/status/2118046827044110460"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-05 00:00",
+   "who": "The White House, \"The American Declaration of Freedom in Space\" (a presidential proclamation)",
+   "kind": "official (the White House; a political statement, not a plan or budget)",
+   "where": "whitehouse.gov (signed 3 November, election day); reported by Space.com (Josh Dinner) and SpacePolicyOnline (Marcia Smith) late on 4 November U.S. time",
+   "text": "President Trump proclaimed that the solar system and outer space \"are the province of all humans\" and open to exploration, use and a permanent American presence, in line with U.S. law and treaties. On Mars, it says the country will \"hasten the day when an American becomes the first human to set foot on the red dunes of Mars\". It repeats the goals of a Moon landing by 2028 and a permanent Moon presence. NASA did not issue a release, but told SpacePolicyOnline it would turn the \"vision into reality\", calling the Moon base \"a path to sending the first astronauts – Americans – to Mars\".",
+   "evidence": "Primary text read on whitehouse.gov. SpacePolicyOnline notes the proclamation \"doesn't provide direction or funding\". It sets no date for Mars [aspirational]. Scott Pace (George Washington University, a former National Space Council official in Trump's first term) told SpacePolicyOnline that \"province of all humans\" is consistent with the 1967 Outer Space Treaty.",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
+   "link_text": "open the proclamation",
+   "other": "",
+   "links": [
+    [
+     "SpacePolicyOnline, 4 Nov",
+     "https://spacepolicyonline.com/news/trump-issues-american-declaration-of-freedom-in-space/"
+    ],
+    [
+     "Space.com, Josh Dinner",
+     "https://www.space.com/space-exploration/trump-declares-american-space-superiority-for-all-eternity-in-new-white-house-proclamation"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-04 21:00",
+   "who": "ESA \"To Mars and back\" blog, \"Geological intuition for Mars\" (interview with Daniel Mège), and a study in Science Advances led by Alexander Trokhimovskiy",
+   "kind": "official (ESA) and a peer-reviewed study; news reports by NASASpaceFlight (Haygen Warren) and Space.com (Robert Lea)",
+   "where": "blogs.esa.int (4 November); nasaspaceflight.com and space.com (both about 21:00 Israel time on 4 November)",
+   "text": "ESA's Trace Gas Orbiter (TGO) has found what ESA's blog calls \"signs of young volcanism on present-day Mars\". Its Atmospheric Chemistry Suite (ACS) instrument keeps detecting hydrogen chloride (HCl), a gas that comes out of volcanic vents on Earth, at about two parts per billion. The study traces it to the northern flanks of Alba Mons, a huge, low volcano, where TGO's CaSSIS camera saw fresh cracks and white spots that may be deposits around vents (an area about 20 by 20 km near 64.6°N, 274.4°E, imaged 3 February 2023). The gas shows up mostly in early northern summer; the team thinks ice and frozen ground hold it in during winter. The finding suggests magma may still be warm under Mars, but it is not proof of an eruption: no lava flow or eruption has ever been seen on Mars. Mège says hot-water systems underground could exist but would not have to host life. TGO's project scientist Colin Wilson told NASASpaceFlight the findings \"may prove to be TGO's greatest success yet\".",
+   "evidence": "The paper is \"Enigmatic HCl detections as a potential signature of igneous activity on Mars\" (Science Advances, volume 12, issue 45; authors include Trokhimovskiy, Mège, Oleg Korablev and Kevin Olsen), checked in the journal's Crossref record; the journal's own page refused my reader (403). Dates differ: NASASpaceFlight and ESA's blog put publication on 4 November, while the journal's record gives 6 November (likely the issue date). NASASpaceFlight says HCl was first detected by TGO in 2021, matching ESA's 19 October TGO story. Alba Mons's height of about 6.8 km is from news coverage [unconfirmed]. National Geographic, Live Science and Reuters also covered it (seen in search and on X only, not opened).",
+   "url": "https://blogs.esa.int/to-mars-and-back/2026/11/04/geological-intuition-for-mars/",
+   "link_text": "open ESA's blog post",
+   "other": "",
+   "links": [
+    [
+     "NASASpaceFlight, Haygen Warren",
+     "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
+    ],
+    [
+     "Space.com, Robert Lea",
+     "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping"
+    ]
+   ]
+  },
   {
    "when": "2026-11-04 04:30",
    "who": "Grok Bot daily check (our own check)",
@@ -93,6 +206,23 @@
    ]
   },
   {
+   "when": "2026-11-03",
+   "who": "The Astronomical Journal, \"Seasonal Variations over the Zhurong Plume-disturbed Zone Indicate Modern Dust Transport in Utopia Planitia, Mars\", Zhibin Li, Jianjun Liu and others (National Astronomical Observatories, Chinese Academy of Sciences)",
+   "kind": "peer-reviewed study (Chinese government research institute)",
+   "where": "iopscience.iop.org (published 3 November; first seen in our 5 November check via an X post)",
+   "text": "Chinese scientists compared pictures from China's Tianwen-1 orbiter camera and NASA's HiRISE camera on the Mars Reconnaissance Orbiter, over two Mars years (a Mars year is about 687 Earth days), of the patch of ground that the Zhurong landing blasted clean in 2021. The scar faded back to its pre-landing brightness within the first Mars year as dust settled; then a moderate cleaning came the next spring. The authors conclude dust builds up there from late northern summer and is swept away in spring by dust devils (whirlwinds), a pattern that differs from earlier landing sites. Zhurong itself has been asleep since May 2022; the study does not change that.",
+   "evidence": "Read on the journal's page (volume 172, number 6, article 297; published 3 November 2026), which matches the Crossref record. Plain-language summary is our own.",
+   "url": "https://iopscience.iop.org/article/10.3847/1538-3881/aeb125",
+   "link_text": "open the study",
+   "other": "",
+   "links": [
+    [
+     "X thread that pointed to it (Science Cat summary account)",
+     "https://x.com/i/status/2117820708675887548"
+    ]
+   ]
+  },
+  {
    "when": "2026-11-02 21:11",
    "who": "NASA, ESCAPADE mission blog, \"NASA's Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars\", by Vanessa Thomas (NASA Goddard)",
    "kind": "official (NASA)",
@@ -110,6 +240,23 @@
     [
      "Berkeley ESCAPADE mission design",
      "https://escapade.ssl.berkeley.edu/mission-design/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-02 19:12",
+   "who": "NASA's MAVEN Anomaly Review Board report (dated 17 July 2026), reported by SpaceNews (Jeff Foust)",
+   "kind": "official (NASA/JPL report) and a news report",
+   "where": "assets.science.nasa.gov (PDF); spacenews.com (2 November, 19:12 Israel time; first seen in our 5 November check)",
+   "text": "NASA's review board says the MAVEN orbiter, lost on 6 December 2025, most likely died from an unrequested reboot of its flight computer, caused either by a radiation hit (a \"single-event upset\") or a software problem. The reboot switched on its worn-out gyroscope unit (the sensor that tracks rotation), which gave false readings, so the spacecraft spun itself up to about 2.3 to 2.7 turns per minute and could not recover; its last signal came about 4 hours 20 minutes after the problem began. The board could not prove a single cause because little data came back. It says MAVEN is probably intact in a stable orbit and is no debris risk to other Mars orbiters. It recommends that all Mars orbiters have a robust way to fly without gyroscopes and better fault protection. MAVEN had worked at Mars for over 11 years, 8 beyond its design.",
+   "evidence": "Read in the board's report itself (36 pages, chaired by Hoppy Price of JPL). SpaceNews's summary (\"a computer glitch and a faulty gyro\") matches; the rest of its story is behind a sign-up wall. The report is dated 17 July; when NASA posted it is not stated [unconfirmed].",
+   "url": "https://assets.science.nasa.gov/content/dam/science/psd/mars/maven/MAVEN%20ARB%20Final%20Reprt%20-%20cleared%20by%20URS.pdf",
+   "link_text": "open the report (PDF)",
+   "other": "",
+   "links": [
+    [
+     "SpaceNews, Jeff Foust, 2 Nov",
+     "https://spacenews.com/computer-and-gyro-problems-likely-caused-loss-of-maven/"
     ]
    ]
   },
@@ -944,8 +1091,8 @@
    [
     {
      "m": "Curiosity (NASA)",
-     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5063 (3 Nov).",
-     "d": "4 Nov 2026 (raw images to sol 5063); blog 28 Oct",
+     "s": "Working. Finished drilling at Basque Lakes (42nd drill hole) and is preparing to drill at \"Nazca\", a block with possible crystal shapes (NASA blog, 28 Oct). Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed shows new pictures through sol 5064 (4 Nov; only four hazard-camera frames that sol, no sign of a drive).",
+     "d": "5 Nov 2026 (raw images to sol 5064); blog 28 Oct",
      "links": [
       [
        "blog, 28 Oct",
@@ -960,7 +1107,7 @@
     {
      "m": "Perseverance (NASA)",
      "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct); NASA's traverse file shows 45.25 km by sol 2022 (28 Oct). Exploring Lac de Charmes, outside Jezero's western rim, near the Idubi outcrop. Drilled a new sample, \"Singita\", on 24 Oct, its first in more than a year (Planetary Society, from the project scientist's talk; no NASA story yet). NASA counted 29 rock and regolith samples before that, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
-     "d": "4 Nov 2026 (raw images to sol 2024; traverse file sol 2022; blog 26 Oct)",
+     "d": "5 Nov 2026 (raw images to sol 2024; traverse file sol 2022; blog 26 Oct)",
      "links": [
       [
        "Singita, Planetary Society",
@@ -987,9 +1134,13 @@
      "image_caption": "China's Tianwen-1 lander (upper dot, with its blast pattern) and the Zhurong rover (lower dot), seen from orbit on 6 June 2021 by NASA's HiRISE camera",
      "image_credit": "NASA/JPL-Caltech/University of Arizona, NASA image (generally not copyrighted), via Wikimedia Commons",
      "image_url": "https://commons.wikimedia.org/wiki/File:Tianwen-1_Lander_and_Zhurong_Rover_in_Southern_Utopia_Planitia.jpg",
-     "s": "Asleep since May 2022; it did not wake up. China has not said the mission is over. Zhang Rongqiao, the mission's chief designer, has said dust was the most likely cause (per the Planetary Society and marsprogress.com).",
-     "d": "Not re-checked at CNSA today; secondary source 6 Oct 2026 [unconfirmed]",
+     "s": "Asleep since May 2022; it did not wake up. China has not said the mission is over. Zhang Rongqiao, the mission's chief designer, has said dust was the most likely cause (per the Planetary Society and marsprogress.com). New on 3 Nov: a Chinese study (The Astronomical Journal) tracked dust coming and going over the landing site for two Mars years.",
+     "d": "5 Nov 2026 (study of 3 Nov); status from secondary source 6 Oct 2026 [unconfirmed]",
      "links": [
+      [
+       "Astronomical Journal study, 3 Nov",
+       "https://iopscience.iop.org/article/10.3847/1538-3881/aeb125"
+      ],
       [
        "Planetary Society",
        "https://www.planetary.org/space-missions/tianwen-1"
@@ -1033,9 +1184,17 @@
     },
     {
      "m": "ExoMars Trace Gas Orbiter, TGO (ESA/Roscosmos program, run by ESA)",
-     "s": "Operating, and the main relay for ESA's Rosalind Franklin rover (The Register, 22 Oct). FY2027 request continues U.S. support at $2.0M (AAS). ESA's \"facts and figures\" page (15 Oct) says TGO entered Mars orbit on 19 Oct 2016; it gives no end date. ESA's ten-year story (19 Oct) says TGO now stores surface data during solar conjunctions and that 2024 software limits gyroscope use to save them for Rosalind Franklin; it also gives no end date.",
-     "d": "4 Nov 2026 (ESA story of 19 Oct)",
+     "s": "Operating, and the main relay for ESA's Rosalind Franklin rover (The Register, 22 Oct). FY2027 request continues U.S. support at $2.0M (AAS). ESA's \"facts and figures\" page (15 Oct) says TGO entered Mars orbit on 19 Oct 2016; it gives no end date. ESA's ten-year story (19 Oct) says TGO now stores surface data during solar conjunctions and that 2024 software limits gyroscope use to save them for Rosalind Franklin; it also gives no end date. New on 4 Nov: a study using TGO data traces hydrogen chloride gas to fresh cracks on the Alba Mons volcano, a possible sign of warm magma below (ESA blog; Science Advances).",
+     "d": "5 Nov 2026 (ESA blog of 4 Nov)",
      "links": [
+      [
+       "ESA blog: volcanic gas, 4 Nov",
+       "https://blogs.esa.int/to-mars-and-back/2026/11/04/geological-intuition-for-mars/"
+      ],
+      [
+       "NASASpaceFlight, 4 Nov",
+       "https://www.nasaspaceflight.com/2026/11/tgo-volcanic-activity/"
+      ],
       [
        "ESA: ten years of TGO, 19 Oct",
        "https://www.esa.int/Enabling_Support/Operations/A_Mars-velous_decade_Celebrating_ten_years_of_TGO"
@@ -1150,8 +1309,8 @@
      "image_caption": "Blue Origin's New Glenn rocket launching ESCAPADE from Cape Canaveral on 13 November 2025",
      "image_credit": "U.S. Space Force photo by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
      "image_url": "https://commons.wikimedia.org/wiki/File:Blue_Origin_New_Glenn_flight_2.jpg",
-     "s": "Launched 13 Nov 2025 on Blue Origin's New Glenn. The Mars departure burn is in November 2026 and arrival is September 2027 per the Berkeley mission-design page. NASA's ESCAPADE blog (2 Nov) confirms the powered Earth flybys and engine burns on 7 November (first orbiter, burn at 4:51 AM U.S. Eastern) and 9 November (second, 5:51 AM Eastern), matching Eos (27 Oct, Blue then Gold), and arrival on 7 and 9 September 2027. Rocket Lab, the builder, gave the same burn dates on X (3 Nov). Each orbiter weighs 535 kg fueled, 209 kg dry (NASA mission page). FY2027 request: $4.5M.",
-     "d": "4 Nov 2026",
+     "s": "Launched 13 Nov 2025 on Blue Origin's New Glenn. The Mars departure burn is in November 2026 and arrival is September 2027 per the Berkeley mission-design page. NASA's ESCAPADE blog (2 Nov) confirms the powered Earth flybys and engine burns on 7 November (first orbiter, burn at 4:51 AM U.S. Eastern) and 9 November (second, 5:51 AM Eastern), matching Eos (27 Oct, Blue then Gold), and arrival on 7 and 9 September 2027. Rocket Lab, the builder, gave the same burn dates on X (3 Nov). Advanced Space, which designs the path, says Blue passes Earth on the night of 6 Nov (U.S. time) and Gold about 49 hours later, and that binoculars may show them (X, 5 Nov). Each orbiter weighs 535 kg fueled, 209 kg dry (NASA mission page). FY2027 request: $4.5M.",
+     "d": "5 Nov 2026",
      "links": [
       [
        "NASA ESCAPADE blog, 2 Nov",
@@ -1172,6 +1331,10 @@
       [
        "Eos, 27 Oct",
        "https://eos.org/articles/twin-spacecraft-ready-to-head-for-a-martian-escapade"
+      ],
+      [
+       "Advanced Space on X, 5 Nov",
+       "https://x.com/AdvancedSpace/status/2118114989626085477"
       ]
      ]
     }
@@ -1187,9 +1350,17 @@
      "image_caption": "NASA artist's concept of MAVEN, made before its 2013 launch (a drawing, not a photo from Mars)",
      "image_credit": "NASA, public domain, via Wikimedia Commons",
      "image_url": "https://commons.wikimedia.org/wiki/File:Maven_spacecraft_full.jpg",
-     "s": "Ended. Last heard 6 Dec 2025; NASA declared the mission ended 3 June 2026. An anomaly review board found it unrecoverable. The root cause is still being investigated, with a final report expected later this year (per Scholar's course; not re-read today).",
-     "d": "3 Jun 2026",
+     "s": "Ended. Last heard 6 Dec 2025; NASA declared the mission ended 3 June 2026. The anomaly review board's report (dated 17 July 2026, reported by SpaceNews on 2 Nov) says the likely cause was an unrequested flight-computer reboot (radiation hit or software) that switched on a worn-out gyroscope unit, whose false readings spun the craft up to about 2.7 turns per minute; no single cause could be proven. It is probably intact in a stable orbit, no debris risk.",
+     "d": "5 Nov 2026 (report of 17 Jul)",
      "links": [
+      [
+       "review board report (PDF)",
+       "https://assets.science.nasa.gov/content/dam/science/psd/mars/maven/MAVEN%20ARB%20Final%20Reprt%20-%20cleared%20by%20URS.pdf"
+      ],
+      [
+       "SpaceNews, 2 Nov",
+       "https://spacenews.com/computer-and-gyro-problems-likely-caused-loss-of-maven/"
+      ],
       [
        "NASA release 26-047",
        "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/"
@@ -1230,8 +1401,8 @@
   "lat": 18.4356,
   "lon": 77.2332,
   "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October and plans to try for two more (Planetary Society).",
-  "est_sol": "about 2029",
-  "est_note": "NASA's raw-image feed still lists sol 2024 (30 October 2026) as its newest when checked on 4 November (the feed shows no new drive since sol 2022); 4 November is about five sols later, about sol 2029 (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "est_sol": "about 2030",
+  "est_note": "NASA's raw-image feed still lists sol 2024 (30 October 2026) as its newest when checked on 5 November (the traverse file shows no new drive since sol 2022); 5 November is about six sols later, about sol 2030 (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "The distance comes from NASA's public traverse file (a list of the rover's stopping points), because no NASA blog gives a newer figure. That file lags and does not update every day. Its newest point is sol 2022 (28 Oct): 45,245.7 meters in total (45.25 km, 28.11 miles), after a 22-meter drive. The record figure NASA announced was 45.22 km for sol 2006 (11 Oct). If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -4814,8 +4985,12 @@
    ]
   },
   {
-   "t": "NASA's raw-image feed has pictures through sol 5063, taken on 3 November 2026 (110 pictures that sol: 108 from the right Navcam and 2 from the ChemCam close-up camera), so 4 November is about sol 5064 (our own arithmetic). The picture above is still the sol 5062 Navcam view (2 November): this run could not add a new picture file. On sol 5062 there were 76 pictures; sol 5061 (1 November) ended with evening Navcam pictures of the twilight sky, in the cloud season the team planned for. NASA's pages that I opened give no odometer for 2 November, so none is shown here.",
+   "t": "NASA's raw-image feed has pictures through sol 5064, taken on 4 November 2026 (only four hazard-camera frames that sol, front and rear; the location code is unchanged, so no sign of a drive), so 5 November is about sol 5065 (our own arithmetic). Sol 5063 (3 November) now shows 119 pictures: 108 from the right Navcam, 9 from the right Mastcam and 2 from the ChemCam close-up camera. The picture above is still the sol 5062 Navcam view (2 November): this run could not add a new picture file. NASA's pages that I opened give no odometer for these sols, so none is shown here.",
    "links": [
+    [
+     "raw image, sol 5064 (front hazard camera)",
+     "https://mars.nasa.gov/msl/multimedia/raw-images/FLB_847058065EDR_F1251326FHAZ00337M_"
+    ],
     [
      "raw image, sol 5062",
      "https://mars.nasa.gov/msl/multimedia/raw-images/NRB_846865201EDR_S1251326NCAM00592M_"
@@ -4930,12 +5105,16 @@
   },
   {
    "who": "Crewed Mars missions (any agency)",
-   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 4 November 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
+   "t": "No agency has an approved, funded, dated crewed mission to Mars as of 5 November 2026 that I could find. NASA calls Mars a \"horizon goal\" after the Moon (course, citing NASA release 26-025, which I did not open). A White House proclamation of 3 November promises to \"hasten the day\" an American walks on Mars, with no date or money attached. Treat any crewed-Mars date, from SpaceX or anyone, as a goal.",
    "label": "aspirational",
    "links": [
     [
      "Scholar's course",
      "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html"
+    ],
+    [
+     "White House proclamation, 3 Nov",
+     "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/"
     ]
    ]
   },
@@ -4959,7 +5138,7 @@
   ],
   [
    "3 Nov 2026 (done)",
-   "U.S. midterm elections; Congress made little progress before this (SpacePolicyOnline).",
+   "U.S. midterm elections: Democrats won both the House and the Senate (AP projection via SpacePolicyOnline; CBS News). Congress made little progress on the budget before this (SpacePolicyOnline).",
    ""
   ],
   [
@@ -4969,7 +5148,17 @@
   ],
   [
    "7 and 9 Nov 2026",
-   "ESCAPADE's two orbiters fly close past Earth and fire their engines for about 9 minutes toward Mars: the first at 4:51 AM U.S. Eastern on 7 November (11:51 AM Israel time), the second at 5:51 AM Eastern on 9 November (12:51 PM Israel time), per NASA's ESCAPADE blog (2 Nov) and Eos (27 Oct); Rocket Lab, the spacecraft builder, gives the same dates (X, 3 Nov).",
+   "ESCAPADE's two orbiters fly close past Earth and fire their engines for about 9 minutes toward Mars: the first at 4:51 AM U.S. Eastern on 7 November (11:51 AM Israel time), the second at 5:51 AM Eastern on 9 November (12:51 PM Israel time), per NASA's ESCAPADE blog (2 Nov) and Eos (27 Oct); Rocket Lab, the spacecraft builder, gives the same dates (X, 3 Nov). Advanced Space, which designs the path, says binoculars may show the craft around 1 AM on 7 November and on the morning of 9 November, U.S. time (X, 5 Nov).",
+   ""
+  ],
+  [
+   "9-11 Nov 2026",
+   "The National Academies' Committee on Planetary Protection (rules for not carrying Earth germs to Mars or bringing Mars material back unsafely) meets in Irvine, California (SpacePolicyOnline calendar).",
+   ""
+  ],
+  [
+   "10 Nov 2026",
+   "Senate Commerce Committee hearing that includes NASA nominations (SpacePolicyOnline calendar; names not given there).",
    ""
   ],
   [
@@ -4983,8 +5172,18 @@
    ""
   ],
   [
+   "15 Dec 2026",
+   "ESA's ministers meet in Rome (an \"intermediate\" ministerial meeting) to consider exploration options, including Mars goals (ESA, 22 Sep).",
+   "aspirational"
+  ],
+  [
    "21 Dec 2026",
    "GAO decision due on the first MTN protest (B-424825.1).",
+   ""
+  ],
+  [
+   "3 Jan 2027",
+   "The new Congress begins, with Democrats in control of both chambers (SpacePolicyOnline; NASA Watch).",
    ""
   ],
   [
@@ -5067,6 +5266,14 @@
   [
    "Fiscal year (Japan)",
    "Japan's government year runs from April to March, so \"fiscal year 2027\" means April 2027 to March 2028."
+  ],
+  [
+   "HCl",
+   "hydrogen chloride, a sharp-smelling gas; on Earth it comes out of volcanic vents. Measured on Mars in parts per billion (ppb), billionths of the air."
+  ],
+  [
+   "Anomaly Review Board",
+   "a NASA panel that investigates why a spacecraft failed and recommends fixes for future missions."
   ],
   [
    "Mars window",
@@ -5238,6 +5445,22 @@
     [
      "SpaceX: Mars page",
      "https://www.spacex.com/humanspaceflight/mars"
+    ],
+    [
+     "ESA blog: volcanic gas at Alba Mons, 4 Nov",
+     "https://blogs.esa.int/to-mars-and-back/2026/11/04/geological-intuition-for-mars/"
+    ],
+    [
+     "NASA: MAVEN review board report (PDF)",
+     "https://assets.science.nasa.gov/content/dam/science/psd/mars/maven/MAVEN%20ARB%20Final%20Reprt%20-%20cleared%20by%20URS.pdf"
+    ],
+    [
+     "ESA: call to boost European exploration (ministers, 15 Dec)",
+     "https://new.esa.int/articles/news-media/news/a-call-to-boost-european-space-exploration"
+    ],
+    [
+     "Astronomical Journal: Zhurong dust study",
+     "https://iopscience.iop.org/article/10.3847/1538-3881/aeb125"
     ]
    ]
   ],
@@ -5263,6 +5486,18 @@
     [
      "AAS: FY27 request details",
      "https://aas.org/posts/news/2026/04/fy27-presidents-budget-request-nasa-nsf-and-doe-details"
+    ],
+    [
+     "SpacePolicyOnline: election result, 4 Nov",
+     "https://spacepolicyonline.com/news/blue-tsunami-puts-democrats-in-control-of-house-and-senate-next-year-2/"
+    ],
+    [
+     "NASA Watch: NASA's new bosses, 4 Nov",
+     "https://nasawatch.com/2026/11/04/midterm-elections-nasa-congress/"
+    ],
+    [
+     "White House: Declaration of Freedom in Space, 3 Nov",
+     "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/"
     ]
    ]
   ],
@@ -5361,6 +5596,7 @@
   ]
  ],
  "not_read": [
+  "5 Nov: pictures were not refreshed: this run was told to write only the two data files, so the Curiosity picture stays the sol 5062 view (the feed now has sol 5064, only hazard-camera frames) and the Perseverance picture stays sol 2024 (nothing newer). Blue Origin's news page answered 429 (too many requests); its X account and a web search were used instead (nothing new; the Mars relay award is still under GAO protest). The UAE Space Agency site refused my plain reader (403); its X account was checked instead (one post on an ESA visit, nothing on Hope). ISRO's press-release page gave 404 (not found); ISRO was checked on X (no post since the last check). CNSA's site timed out for my plain reader and was read through a second reader. SpaceX's updates page returned only a short page that needs a full browser, so SpaceX and Elon Musk were checked on X (nothing on Mars). SpaceNews: its feed showed no Mars item, but a web search found its 2 November MAVEN story (behind a sign-up wall; the NASA report it cites was read instead). GAO's dockets refused my plain reader (403) and were read through a second reader. JAXA's press list gave my plain reader only a short stub and was read through a second reader. ESA's per-section news feeds gave 404 (not found); ESA's top-news feed and its Mars blog were read instead, and its Mars Express and ExoMars pages showed no dated story list. Science Advances' own page refused my reader (403); the paper was checked in its Crossref record. AP's election story refused my reader (403); CBS News was read instead. Not opened, so not cited: Reuters, National Geographic and Live Science on the Alba Mons gas, and the Planetary Society's election analysis (not found on its site).",
   "4 Nov: pictures were not refreshed: this run was told to write only the two data files, so the Curiosity picture stays the sol 5062 view (the feed now has sol 5063) and the Perseverance picture stays sol 2024 (nothing newer). GAO's dockets refused my plain reader (403) and were read through a second reader. Xinhua's English science page gave a server error (500), so China was checked through CNSA's Chinese news list and X. The Emirates Mars Mission site refused my plain reader (403) and the Mohammed bin Rashid Space Centre's news page gave 404 (not found), so the UAE was checked on X. ISRO's press page and SpaceX's updates page need a full browser, so both were checked on X. CGTN's science feed and the Spanish blog of Daniel Marín came back empty. An X search combining all agency and company accounts again returned nothing, so each account was read one by one instead. ESA's operations news feed was read for the first time and turned up a 19 October TGO story that earlier checks had missed. The FAA planning slide for Starship Flight 15 was again seen only in news sites, not on an FAA page.",
   "3 Nov: the user's computer was offline, so all reading went over Grok Bot's own network. Blue Origin's news page again answered 429 (too many requests); a web search was used instead (nothing new on Mars). The UAE Space Agency site refused my plain reader (403); a web search was used instead (nothing new on Hope). GAO's dockets refused my plain reader (403) and were read through a second reader. ISRO's press-release page gave 404 (not found); a web search was used instead. Xinhua's and CGTN's English science pages showed no Mars headlines to my plain reader, so China was checked through CNSA's English site and a web search. Space.com's feed moved (301) and the new address showed no Mars item. An X search for posts from the main agency and company accounts returned nothing at all, which may be a search fault rather than silence; SpaceX and Elon Musk were also searched on their own (no Mars or Starship post). The Perseverance picture was not changed because the raw-image feed has nothing newer than sol 2024. The FAA planning slide for Starship Flight 15 was again seen only in X posts and a fan news site, not on an FAA page.",
   "2 Nov: pictures were not refreshed today: this run was told to write only the two data files, so the Perseverance and Curiosity pictures stay the sol 2024 and sol 5060 views, and their captions say so. Blue Origin's news page again answered 429 (too many requests); its X account and a web search were used instead (nothing new). The UAE Space Agency site refused my plain reader (403); its X account and a web search were used instead (nothing new on Hope). GAO's dockets refused my plain reader (403) and were read through a second reader. SpaceX's updates page returned only a short page that needs a full browser, so SpaceX was checked on X. Xinhua's English science list is an empty page template, so Xinhua was checked through a web search. JAXA's press list returned only a stub to my plain reader and was read through a second reader. NASA's science blog feed gave an error; the blog index and NASA's search were used instead. SpacePolicyOnline's news feed came back without items, so its home page and week-ahead page were read directly. The FAA planning slide for Starship Flight 15 was seen only through The Space Road and an X post, not on an FAA page.",

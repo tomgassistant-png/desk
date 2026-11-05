@@ -959,6 +959,10 @@
   "2026-11-04": {
    "intro": "Israel: official results go to Herzog at noon and consultations start at 5:00 PM, the Shin Bet chief asks to question four Arab party leaders, Shas, Otzma and Religious Zionism back Netanyahu while Eisenkot claims 48 against 46, and Trump says US aid ends this year. Also: a French inquiry into a 2024 strike in Beirut, the 7th Brigade's eight months in Lebanon and a Sweida control map, Brazil's Senate passing the public security amendment, an Ifop poll and Retailleau's call for a primary in France, Quebec's \"house in disorder\" and Hydro-Québec's warning of shortfalls, a possible Putin–Trump–Xi meeting, Greenland's parliament approving the security deal, a report that Jordan wants to try the Carney suspect itself, xAI's jet-engine turbines and Musk's pay in a SpaceX–Tesla merger, Enlight's Ashalim data-center timeline, and in Cypherboria a Land clip, a numerology dating app and a planned Land interview.",
    "quiet": "Nothing material on Colombia and Israel, Belle Burden, UK breakup politics, Trenton (local stories only), non-Latin script digitization, HaShiloach (no new essay), or Marc Andreessen."
+  },
+  "2026-11-05": {
+   "intro": "Israel: the elections committee certifies the results 15–2 and hands them to Herzog, the first day of consultations points to 56 recommendations for Eisenkot against 48 for Netanyahu, and the Shin Bet chief and the Attorney General agree to lower tensions. Also: Hezbollah's return to a Lebanese army pilot village and a UN warning about the end of UNIFIL, Brazil's central bank pausing rate cuts and a challenge to Flávio Bolsonaro's remote vote, France's Assembly rejecting the 2027 budget, Quebec's session delayed to 1 December and a planned US \"diplomatic offensive,\" Beijing confirming talks on a three-leader meeting, SpaceX's Qualcomm 5G deal and its $40 billion chip financing, and in Cypherboria two new Land clips from Cyphers.",
+   "quiet": "Nothing material on Colombia and Israel, Belle Burden, the Carney case, Greenland, UK breakup politics, Trenton (a mayoral runoff only), Israeli data centers, non-Latin script digitization, HaShiloach (no new essay since 24 September), or Marc Andreessen."
   }
  },
  "items": [
@@ -9604,6 +9608,288 @@
     {
      "name": "Reality Check Rewind (YouTube)",
      "url": "https://www.youtube.com/watch?v=6wOo0FhmDws"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-israel-election-1",
+   "edition": "2026-11-05",
+   "section": "israel-election",
+   "headline": "Elections committee approves the official results 15–2 and hands them to Herzog: Likud 27, Yashar 21, B'Yachad 12",
+   "lead": "On Wednesday, 4 November, the Central Elections Committee approved the official results by 15 votes to 2 with 14 abstentions, and chairman Noam Sohlberg presented them to President Herzog. Sohlberg said the \"election results, as lawfully determined, are binding on us all\" (JNS; Al Jazeera).",
+   "text": "Final seats: Likud 27, Yashar 21, B'Yachad 12, Joint List 11, Democrats 8, Ra'am 8, Yisrael Beytenu 7, Otzma Yehudit 7, United Torah Judaism 7, Shas 6 and Religious Zionism 6. By the reports' bloc count that is 53 for the current coalition parties, 48 for the opposition parties and 19 for Arab parties (Arutz Sheva; Al Jazeera). According to JNS, 5,717,397 people voted, and records from 9,069 polling stations, about 75% of regular stations, were reviewed after the fraud claims; the committee rejected those claims (Al Jazeera). A turnout figure of 77.9% appears only in a government search result that could not be opened, so it is unconfirmed. In the committee's presidium, the Likud and Shas members abstained and Sohlberg cast the deciding vote; Likud MK Amit Halevy resigned from the committee in protest, and Itamar Ben-Gvir said \"The elections were stolen\" (Arutz Sheva; JNS). Herzog said the suspicions of foreign interference must be investigated, but that \"an entire community must not be smeared\" (JNS). The new Knesset is sworn in on 10 November. The person Herzog chooses gets 28 days to form a government, with a possible 14-day extension (Arutz Sheva).",
+   "sources": [
+    {
+     "name": "JNS",
+     "url": "https://www.jns.org/news/israel-news/elections-chief-presents-official-results-to-herzog-amid-foreign-interference-probe"
+    },
+    {
+     "name": "Arutz Sheva (Israel National News)",
+     "url": "https://www.israelnationalnews.com/news/435646"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-israel-election-2",
+   "edition": "2026-11-05",
+   "section": "israel-election",
+   "headline": "Consultations, day one: Religious Zionism, Shas and Zehut back Netanyahu, Yisrael Beytenu backs Eisenkot; Ynet expects 56 for Eisenkot and 48 for Netanyahu",
+   "lead": "Herzog's consultations opened on Wednesday evening. Religious Zionism, Shas and Zehut recommended Benjamin Netanyahu; Yisrael Beytenu (Oded Forer) recommended Gadi Eisenkot, and Ra'am says it will do the same (Ynet).",
+   "text": "Within United Torah Judaism, the Degel HaTorah and Agudat Yisrael factions recommended no one, while Meir Porush and Yaakov Stark are expected to back Netanyahu. Zehut's Moshe Feiglin backed Netanyahu but also called for a repeat election. Ynet's count of expected recommendations is Eisenkot 56 and Netanyahu 48, with the Joint List still undecided. Herzog asked Strock, \"how do you distinguish your words from racism?\" Yashar held talks with B'Yachad, the Democrats and Yisrael Beytenu on what it calls \"a national emergency government.\" An EFE journalist, Magda Gibelli, was briefly held at the entrance and then cleared (all Ynet). Thursday's schedule, Israel time: United Torah Judaism 8:30 AM, Otzma Yehudit 9:45 AM, Democrats 11:00 AM, Ra'am 12:15 PM, Joint List 4:45 PM, B'Yachad 6:00 PM, Yashar 7:15 PM and Likud 8:30 PM (Ynet).",
+   "sources": [
+    {
+     "name": "Ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/news/article/s1cyl6damg"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-israel-election-3",
+   "edition": "2026-11-05",
+   "section": "israel-election",
+   "headline": "After Herzog steps in, the Shin Bet chief and the Attorney General agree to lower tensions; police say they have no Shin Bet material on foreign funding",
+   "lead": "After President Herzog intervened, Shin Bet chief David Zini and Attorney General Gali Baharav-Miara met and agreed to calm the dispute over Zini's request to question Arab party leaders (Ynet).",
+   "text": "The Shin Bet speaks of \"extensive\" foreign funding involving \"more than thousands of people,\" but police say they have received no material from it, that no joint team exists, and that Ayman Odeh has not been summoned (he is abroad) (Ynet). i24NEWS reported a suspicion that Odeh received Palestinian Authority funds; Odeh calls this \"political persecution\" (headlines only, unconfirmed). Netanyahu warned against a coalition built on Arab and Jewish parties together (headline only). On Polymarket at about 4:21 AM Israel time on 5 November, the market on the next prime minister gave Eisenkot 56.65% (47.3% on 4 November), Netanyahu 30.2% (32.05%), Lieberman 4.45%, Bennett 3.55% and Cohen 0.7%. Ynet also reports that US Vice President JD Vance blamed the Republicans' midterm losses, in which Democrats won both houses of Congress, on the Iran war.",
+   "sources": [
+    {
+     "name": "Ynet: Zini and Baharav-Miara (Hebrew)",
+     "url": "https://www.ynet.co.il/news/article/hkycut006ml"
+    },
+    {
+     "name": "Ynet: police and the Shin Bet (Hebrew)",
+     "url": "https://www.ynet.co.il/news/article/sjcolc00tgg"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-lebanon-1",
+   "edition": "2026-11-05",
+   "section": "lebanon",
+   "headline": "Ynet: Hezbollah's civilian bodies return to Zawtar al-Gharbiyeh, a village handed to the Lebanese army as a pilot",
+   "lead": "More than 100 days after the IDF handed three villages to the Lebanese army as a pilot, Hezbollah is returning, Ynet's Elisha Ben Kimon reports (5 November).",
+   "text": "According to the Alma research center, quoted by Ynet, Hezbollah-linked civilian bodies, the Islamic Health Organization and \"Wa Ta'awanu,\" are active again in Zawtar al-Gharbiyeh; Alma documented the same in Frun, the second pilot village, in October. The IDF struck two suspects on a motorcycle in Qarbiha, killing one, Nasser Mohammed Younes, whom Ynet describes as a medic with Amal's Risala Scouts. Ynet says talks on the monitoring mechanism have been stuck for months. No new Israeli reaction to the EU training mission (EUSM) and no new contributor countries were found today.",
+   "sources": [
+    {
+     "name": "Ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/news/article/yokra14948635"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-lebanon-2",
+   "edition": "2026-11-05",
+   "section": "lebanon",
+   "headline": "UN peacekeeping chief warns that Lebanese and Israeli forces could be left \"facing one another\" with no third party once UNIFIL leaves",
+   "lead": "On 4 November, UN peacekeeping chief Jean-Pierre Lacroix asked: \"Do we really believe that the Lebanese army and the Israel Defense Forces can be just left facing one another without any third party?\" (Arab News; UN News).",
+   "text": "UNIFIL's mandate ends on 31 December 2026, after which the force has a year to withdraw; about 7,500 peacekeepers remain, and about 10,000 people live between the yellow line and the Blue Line. Lacroix welcomed the EU training mission and said talks on a multinational force are still going on, but would not speculate on US opposition to any follow-on UN presence. In June, Secretary-General Guterres put forward options that included a force of 2,000 to 5,500 personnel (Arab News; UN News). Druze and Sweida: nothing new could be confirmed today; reports of a protest by families of missing Sweida residents and of a mine blast in western rural Sweida were seen only in search results and are unconfirmed.",
+   "sources": [
+    {
+     "name": "Arab News",
+     "url": "https://www.arabnews.com/middle-east/lebanese-and-israeli-forces-could-be-left-face-to-face-with-no-third-party-buffer-un-peace-chief-warns-3009872"
+    },
+    {
+     "name": "UN News",
+     "url": "https://news.un.org/en/story/2026/11/1168741"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-brazil-1",
+   "edition": "2026-11-05",
+   "section": "brazil",
+   "headline": "Central bank holds the Selic at 13.75%, ending five cuts, citing a \"significant increase in uncertainty\" after Lula's reelection",
+   "lead": "On 4 November the Copom held the Selic rate at 13.75% by a unanimous vote, ending a run of five 0.25-point cuts that began in March (InfoMoney; Estadão).",
+   "text": "The rate had been 15% from June 2025 to March 2026. This was the first meeting since Lula's reelection, which unsettled markets, and the statement cites a \"significant increase in uncertainty.\" The Copom raised its own inflation projections: 5.6% for 2026 (from 5.2%), 4.7% for 2027 (from 3.9%) and 3.5% for the second quarter of 2028 (from 3.1%). The market's Focus survey expects 5.2% for 2026 and 4.8% for 2027. The board is led by central bank governor Gabriel Galípolo (InfoMoney; Estadão).",
+   "sources": [
+    {
+     "name": "InfoMoney",
+     "url": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-04112026/"
+    },
+    {
+     "name": "Estadão",
+     "url": "https://www.estadao.com.br/amp/economia/copom-selic-novembro-2026/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-brazil-2",
+   "edition": "2026-11-05",
+   "section": "brazil",
+   "headline": "Senate president will review a request to annul Flávio Bolsonaro's remote vote on the security amendment; he has been in the US since 28 October",
+   "lead": "Senator Randolfe Rodrigues (PT-AP) asked that Flávio Bolsonaro's remote vote on the public security amendment, passed unanimously on 3 November in a hybrid session, be annulled because Flávio did not notify the Senate of his trip, as article 39 of the Senate rules requires (Valor; Agência Senado).",
+   "text": "Randolfe said Flávio \"asks for exile claiming he lives in a dictatorship, but wants... to take part in the debates of this 'dictatorship.'\" Senate president Davi Alcolumbre will review the request with the Senate's governing board (Agência Senado; Valor). The annulment would not change the result, since the vote was unanimous.",
+   "sources": [
+    {
+     "name": "Agência Senado",
+     "url": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-vai-analisar-questoes-de-randolfe-sobre-situacao-de-flavio-bolsonaro"
+    },
+    {
+     "name": "Valor",
+     "url": "https://valor.globo.com/politica/noticia/2026/11/04/randolfe-rodrigues-pede-anulacao-de-voto-de-flavio-bolsonaro-na-pec-da-seguranca.ghtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-france-election-1",
+   "edition": "2026-11-05",
+   "section": "france-election",
+   "headline": "National Assembly rejects the revenue half of the 2027 budget 458 to 0, killing the bill in first reading; Le Pen gains on Polymarket",
+   "lead": "On 4 November the deputies rejected the \"revenue\" part of the 2027 state budget in first reading, with 458 votes against and 2 abstentions, which throws out the whole bill; the Senate now takes up the government's original version (France 24).",
+   "text": "The prime minister's office pushed hopes of a compromise to \"December.\" Budget minister David Amiel said the amendments the deputies had voted would have raised the deficit to 5.9% of GDP, against a 5% target (5.4% is expected this year; the plan sought about €43 billion in savings). The government could still use article 49.3 or pass the budget by ordinance (France 24). A Senate start date of 20 November comes only from a search snippet and is unconfirmed. No new poll was published since the Ifop/LCI poll reported here on 4 November. Polymarket (winner of the next French presidential election) at about 4:23 AM Israel time on 5 November: Le Pen 41.45% (up 1.3 points in 24 hours), Lisnard 15.85% (up 0.5), Mélenchon 13.5% (up 1.0), Philippe 11.5%, Lagarde 6.75% (down 1.1), Glucksmann 2.65%, Hollande 2.45% and Bardella 2.25%.",
+   "sources": [
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/fr/france/20261104-assemblee-nationale-rejette-unanimite-en-premiere-lecture-budget-etat-2027-pib-finances"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-quebec-1",
+   "edition": "2026-11-05",
+   "section": "quebec",
+   "headline": "Quebec's National Assembly return is delayed again, to 1 December; the opposition calls it \"unthinkable\"",
+   "lead": "The return of the National Assembly, first set for 17 November and then 24 November, has been moved to 1 December (CBC).",
+   "text": "Liberal André Fortin called the delay \"unthinkable,\" and Québec solidaire's Ruba Ghazal also objected. The Parti Québécois minority government was elected on 5 October (CBC).",
+   "sources": [
+    {
+     "name": "CBC",
+     "url": "https://www.cbc.ca/news/canada/montreal/national-assembly-9.7409644"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-quebec-2",
+   "edition": "2026-11-05",
+   "section": "quebec",
+   "headline": "St-Pierre Plamondon plans a \"diplomatic offensive\" in the US after the midterms and insists on meeting Carney in Quebec City",
+   "lead": "Premier Paul St-Pierre Plamondon said he will prepare a \"diplomatic offensive\" of talks with Americans after the US midterms, though no direct trade talks are planned for now (Global News / The Canadian Press).",
+   "text": "He insists that his meeting with Prime Minister Mark Carney take place in Quebec City, and the two may meet at the Francophonie summit in Cambodia later this month. The federal budget is due on Thursday (Global News / The Canadian Press).",
+   "sources": [
+    {
+     "name": "Global News / The Canadian Press",
+     "url": "https://globalnews.ca/news/12136398/quebec-us-midterms/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-trump-and-xi-1",
+   "edition": "2026-11-05",
+   "section": "trump-and-xi",
+   "headline": "Beijing now confirms it is \"in communication with relevant parties\" about a meeting of the three heads of state",
+   "lead": "Asked on 4 November about a Financial Times report of a Putin–Trump–Xi meeting at the APEC summit in Shenzhen, foreign ministry spokesperson Mao Ning said: \"China is in communication with relevant parties regarding a meeting between the three heads of state\" (Chinese foreign ministry transcript; Global Times).",
+   "text": "This goes further than Beijing's comment reported here on 4 November, which mentioned only a Xi–Putin meeting. On the US midterms, Mao called them \"a domestic affair\" and said China is ready to \"build a constructive relationship of strategic stability\" with the United States. APEC leaders' dates of 18–19 November come from a search snippet only and are unconfirmed.",
+   "sources": [
+    {
+     "name": "Chinese foreign ministry, 4 Nov briefing",
+     "url": "https://www.mfa.gov.cn/eng./xw/fyrbt/lxjzh/202611/t20261104_12053240.html"
+    },
+    {
+     "name": "Global Times",
+     "url": "https://www.globaltimes.cn/page/202611/1373623.shtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-spacex-xai-and-cursor-1",
+   "edition": "2026-11-05",
+   "section": "spacex-xai-and-cursor",
+   "headline": "SpaceX picks Qualcomm for Starlink Mobile's US ground-based 5G network: \"tens of thousands\" of sites from 2027",
+   "lead": "SpaceX signed a multiyear deal for Qualcomm's Dragonwing base-station chips and software for Starlink Mobile's nationwide terrestrial 5G network; financial terms were not disclosed (CNBC; Fierce Network).",
+   "text": "Qualcomm says it is its largest 5G infrastructure deal to date. It will supply QRU100 and QDU100 platforms and the lowest software layer; SpaceX builds the equipment and the rest of the software. Deployment starts in 2027 and will cover \"tens of thousands\" of large cell sites, using massive MIMO antennas in the 2 GHz band (Fierce Network). CNBC notes that Starlink made 36% of SpaceX's revenue and 85% of its operating profit in the third quarter, and that SpaceX last month agreed to buy 800 MHz spectrum and is reported to be in talks over Boost Mobile.",
+   "sources": [
+    {
+     "name": "CNBC",
+     "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html"
+    },
+    {
+     "name": "Fierce Network",
+     "url": "https://www.fierce-network.com/wireless/spacexs-nationwide-terrestrial-5g-plans-get-real-qualcomm-signs"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-spacex-xai-and-cursor-2",
+   "edition": "2026-11-05",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Bloomberg: Goldman and Apollo are selling slices of SpaceX's $40 billion AI-chip lease financing",
+   "lead": "Goldman Sachs and Apollo are approaching investors to buy parts of the roughly $40 billion deal that finances SpaceX's AI chips, some in stakes of up to $500 million ahead of formal syndication, Bloomberg reported on 4 November (via Reuters/CNA; Reuters could not verify it).",
+   "text": "Under the deal SpaceX announced in October, an Apollo affiliate buys the chips and servers and leases them to SpaceX for a little over five years, keeping the debt off SpaceX's balance sheet; delivery is expected in the first half of 2027. Bloomberg calls it the largest GPU financing on record. The official Grok Bot changelog has no entry newer than 27 October, and the Cursor changelog none newer than 20 October.",
+   "sources": [
+    {
+     "name": "CNA (Reuters)",
+     "url": "https://www.channelnewsasia.com/business/goldman-apollo-seek-buyers-40-billion-spacex-ai-chip-deal-bloomberg-news-reports-6525526"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-cypherboria-1",
+   "edition": "2026-11-05",
+   "section": "cypherboria",
+   "headline": "Cyphers posts two more clips from its Land interview, on becoming a \"KJV Bible Fundamentalist\" and on the CCRU name and 666; Grimfel's concert runs",
+   "lead": "At 11:48 AM Israel time on 4 November, Cyphers (@CyphersNews) posted a clip titled \"Nick Land on becoming a KJV Bible Fundamentalist,\" and at 9:38 PM a second, \"Nick Land explains the CCRU name and 666 synchronicity,\" both cut from its \"Nick Land x Cyphers\" interview. Doomcrypt and Net Void reposted them.",
+   "text": "Net Void quoted the CCRU clip (\"Shocked by this revelation\") and at 7:32 PM posted a line in quotation marks, \"The KJV is just pure signal out of the singularity - the inerrant word of God,\" with a video; the post does not name the speaker. In a follow-up she wrote \"Singularity = 155 EO = Christianity = Cyphers News = Immortality.\" Cyphers also noted that it reached 666 followers \"same moment\" Land reached 66.6 thousand. Grimfel's virtual reality concert, which Cyphers co-sponsored, went ahead at about 1:00 AM Israel time on 5 November; Grimfel thanked the sponsors, said he spent a week building the virtual venue, and said the connection dropped during the closing song. Cyphers posted a track called \"Everything A Psy-Op\" with Grimfel; there is still no explanation of the \"November 7th\" hint. All quotes are from the posts.",
+   "sources": [
+    {
+     "name": "Cyphers: KJV clip",
+     "url": "https://x.com/CyphersNews/status/2117916870061810140"
+    },
+    {
+     "name": "Cyphers: CCRU and 666 clip",
+     "url": "https://x.com/CyphersNews/status/2118065338759958582"
+    },
+    {
+     "name": "Net Void: KJV quote",
+     "url": "https://x.com/Net__Void/status/2118033612872319362"
+    },
+    {
+     "name": "Net Void: gematria follow-up",
+     "url": "https://x.com/Net__Void/status/2118034322108149940"
+    },
+    {
+     "name": "Grimfel: thanks to sponsors",
+     "url": "https://x.com/GrimfelOfficial/status/2118153132832170413"
+    },
+    {
+     "name": "Grimfel: lost connection",
+     "url": "https://x.com/GrimfelOfficial/status/2118138274829267312"
+    },
+    {
+     "name": "Full interview (YouTube)",
+     "url": "https://www.youtube.com/watch?v=6FTUsXTedSM"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-05-cypherboria-2",
+   "edition": "2026-11-05",
+   "section": "cypherboria",
+   "headline": "Land on the midterms: \"Moving the entire remnant of Anglo civilization into space is looking pretty appealing\"; Rev Left Radio releases an episode about him",
+   "lead": "Land's own posts since the last edition were reactions to the US midterms, off the section's themes; the most viewed, a reply to Elon Musk at 8:48 AM Israel time on 4 November, read: \"Moving the entire remnant of Anglo civilization into space is looking pretty appealing right now.\"",
+   "text": "Rev Left Radio, a left-wing podcast, posted \"An Inhuman Future: Nick Land, Techno Accelerationism, and the Dark Enlightenment\" on YouTube in the past day; it is about Land, not with him. The Observing I Podcast also released an episode about him on 3 November (\"The Future That Makes Us: Nick Land and Hyperstition\"; seen on Apple Podcasts). Ryan Haecker posted \"The 1319 Project: The Legacy of Nominalism\" with an image and no further detail. Nothing new from Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro, PHYTHAGRAM (site unchanged; its YouTube feed returned an error), @Mortal_Series, D.W. Pasulka (no posts since 4 November), Methexis, Truth is Christ (site and channel), resonatingloop beyond AI-chat posts, Doomcrypt beyond reposts, or jacquesvallee.net.",
+   "sources": [
+    {
+     "name": "Land: Anglo civilization into space",
+     "url": "https://x.com/xenocosmography/status/2117871639744610391"
+    },
+    {
+     "name": "Rev Left Radio (YouTube)",
+     "url": "https://www.youtube.com/watch?v=mQfedl5E22Q"
+    },
+    {
+     "name": "Ryan Haecker",
+     "url": "https://x.com/RyanHaecker/status/2118105906999108031"
     }
    ]
   }
