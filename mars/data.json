@@ -8,6 +8,27 @@
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October. Democrats won both the House and the Senate in the 3 November elections and take over on 3 January 2027; the current Republican-led Congress still has to finish the 2027 budget. A White House proclamation on 3 November speaks of Americans on Mars but sets no date or money.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
+ "whats_new": [
+  {
+   "edition": "2026-11-07",
+   "text": "SpaceX is targeting Friday, 13 November for Starship Flight 15, the first date to come from a SpaceX executive rather than from FAA planning slides. Kiko Dontchev, SpaceX vice president of launch, spoke at the UP.Summit on 5 November; Teslarati cites Ars Technica's Eric Berger, who was there. The flight is an Earth-orbit test that would try to catch both the Super Heavy booster and the ship with the launch tower. SpaceX has not posted a mission page or a launch time, and the FAA (the U.S. agency that licenses launches) still shows no Flight 15 license [unconfirmed until SpaceX or the FAA publishes it].",
+   "detail_url": "https://www.teslarati.com/spacex-starship-catch-nov-13/",
+   "links": [
+    [
+     "Teslarati, 5 Nov",
+     "https://www.teslarati.com/spacex-starship-catch-nov-13/"
+    ],
+    [
+     "The Space Road",
+     "https://thespaceroad.com/articles/when-is-starship-flight-15/"
+    ],
+    [
+     "Elon Musk on X, 6 Nov",
+     "https://x.com/elonmusk/status/2118732082843435305"
+    ]
+   ]
+  }
+ ],
  "feed": [
   {
    "when": "2026-11-07 04:45",

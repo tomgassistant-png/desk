@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Build mars/index.html from mars/data.json. Usage: python3 build_mars.py  (data in mars/data.json; see mars/README.md)"""
+"""Build mars/index.html from mars/data.json. Usage: python3 build_mars.py  (data in mars/data.json; see mars/README.md).
+A What's new block is drawn only from data['whats_new'] lines whose edition matches updated. An empty list omits the block."""
 import os, json, math
 from datetime import datetime
 from build import CSS, TZ, e
@@ -14,7 +15,8 @@ EXTRA = ('.mz{max-width:1100px;margin:0 auto}.mz h1{font-size:34px;margin:14px 0
  '.mz .kind{font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#444;border:1px solid #999;padding:0 4px;margin-left:4px}'
  '.mz .counter{display:flex;flex-wrap:wrap;gap:10px;margin:8px 0}.mz .counter div.n{border:1px solid #1a1a1a;padding:8px 12px;min-width:150px}.mz .counter b{display:block;font-family:Helvetica,Arial,sans-serif;font-size:26px}.mz .counter span{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555}'
  '.mz svg{max-width:100%;height:auto;border:1px solid #bbb;background:#faf7f0}'
- '.mz figure{margin:8px 0 10px;max-width:100%}.mz figure img{display:block;max-width:100%;height:auto;max-height:340px;border:1px solid #bbb}.mz figcaption{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555;margin-top:3px;overflow-wrap:anywhere}.mz .srcs{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555;margin:6px 0}')
+ '.mz figure{margin:8px 0 10px;max-width:100%}.mz figure img{display:block;max-width:100%;height:auto;max-height:340px;border:1px solid #bbb}.mz figcaption{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555;margin-top:3px;overflow-wrap:anywhere}.mz .srcs{font-family:Helvetica,Arial,sans-serif;font-size:12px;color:#555;margin:6px 0}'
+ '.mz .whatsnew{border:2px solid #7a1f1f;padding:10px 14px;margin:12px 0;background:#f6f3ea}.mz .whatsnew ul{margin:4px 0 0 18px}.mz .whatsnew li{margin-bottom:8px}')
 def a(u, t): return f'<a href="{e(u)}" target="_blank" rel="noopener">{e(t)}</a>'
 def lk(links): return "".join(" · " + a(u, t) for t, u in links)
 def fig(x):
@@ -45,15 +47,65 @@ def svg_map(p):
             f'<circle cx="{ex:.1f}" cy="{ey:.1f}" r="5" fill="#c62828"/><text x="{ex-6:.1f}" y="{ey-9:.1f}" font-size="11" text-anchor="end" font-family="Helvetica,Arial">latest waypoint in file (sol {pts[-1][2]})</text>'
             f'<line x1="{pad}" y1="{H-10}" x2="{pad+bar:.1f}" y2="{H-10}" stroke="#1a1a1a" stroke-width="2"/><text x="{pad+bar+6:.1f}" y="{H-6}" font-size="11" font-family="Helvetica,Arial">2 km</text>'
             f'<text x="{W-pad}" y="14" font-size="11" text-anchor="end" font-family="Helvetica,Arial">north is up</text></svg>')
-def build(now):
-    d = json.load(open(os.path.join(D, "mars/data.json"), encoding="utf-8"))
+def edition_of(updated):
+    """Calendar date at the start of UPDATED ('YYYY-MM-DD HH:MM' -> 'YYYY-MM-DD')."""
+    return str(updated or "").strip().split(" ")[0]
+
+def select_whats_new(d):
+    """Highlights whose edition date matches updated. Empty, blank, or leftover lines yield no section."""
+    ed = edition_of(d.get("updated"))
+    if not ed:
+        return []
+    out = []
+    for item in d.get("whats_new") or []:
+        if not isinstance(item, dict):
+            continue
+        if str(item.get("edition") or "").strip() != ed:
+            continue
+        if not str(item.get("text") or "").strip():
+            continue
+        out.append(item)
+    return out
+
+def _edition_label(ed):
+    try:
+        dt = datetime.strptime(ed, "%Y-%m-%d")
+    except ValueError:
+        return ed
+    return f"{dt.day} {dt.strftime('%B %Y')}"
+
+def render_whats_new(d):
+    """Short block for this edition. Returns '' when there is nothing substantive to show."""
+    items = select_whats_new(d)
+    if not items:
+        return ""
+    shown = _edition_label(edition_of(d.get("updated")))
+    by_url = {}
+    for i, fitem in enumerate(d.get("feed") or []):
+        u = fitem.get("url")
+        if u and u not in by_url:
+            by_url[u] = i
+    lis = []
+    for x in items:
+        detail = ""
+        du = x.get("detail_url")
+        if du and du in by_url:
+            detail = f' · <a href="#feed-{by_url[du]}">Full note in the feed</a>'
+        lis.append(f'<li>{e(x["text"])}{lk(x.get("links") or [])}{detail}</li>')
+    return (f'<h2 id="whats-new">What\'s new</h2><div class="whatsnew"><p class="meta">New in the {e(shown)} edition.</p><ul>'
+            + "".join(lis) + "</ul></div>")
+
+def render_page(d, now):
     P = d["perseverance"]; h = []
     h.append(f'<h1>{e(d["title"])}</h1><p class="meta">Updated {e(d["updated"])} Israel time. Facts checked {e(d["checked"])}. Each item says who said it, when, what, and links to the page. Plans and company claims marked [aspirational] are goals, not funded schedules. [unconfirmed] means I could not match it to a second source.</p>')
     h.append(f'<div class="course"><b>Background:</b> <a href="{e(d["course_url"])}">Background: Scholar\'s Mars course</a> &mdash; how Mars has been explored, a map set, and where each mission stands.</div>')
+    wn = render_whats_new(d)
+    if wn:
+        h.append(wn)
     h.append('<h2>Summary</h2>' + ''.join(f'<p>{e(t)}</p>' for t in d["narrative"]))
     h.append('<h2>Today and recent, newest first</h2>')
-    for x in d["feed"]:
-        h.append(f'<div class="it"><div class="when">{e(x["when"])}</div><div><span class="who">{e(x["who"])}</span> · {e(x["where"])} <span class="kind">{e(x["kind"])}</span></div><p>{e(x["text"])}</p>{fig(x)}'
+    for i, x in enumerate(d["feed"]):
+        h.append(f'<div class="it" id="feed-{i}"><div class="when">{e(x["when"])}</div><div><span class="who">{e(x["who"])}</span> · {e(x["where"])} <span class="kind">{e(x["kind"])}</span></div><p>{e(x["text"])}</p>{fig(x)}'
                  f'<div class="meta">Evidence: {e(x["evidence"])} · {a(x["url"], x["link_text"])}</div>'
                  + (f'<div class="oth"><b>Also:</b> {e(x["other"])}' + lk(x.get("links", [])) + '</div>' if x.get("other") else '') + '</div>')
     h.append('<h2>Mission status board</h2><p class="meta">Last checked ' + e(d["checked"]) + '. The date in the last column is the newest source date for that row.</p>')
@@ -77,5 +129,10 @@ def build(now):
             f'<meta name="viewport" content="width=device-width, initial-scale=1"><title>{e(d["title"])}</title><style>{CSS}{NAV_CSS}{EXTRA}</style></head><body><div class="page">{nav}'
             f'<div class="topline"><span>{e(d["title"])}</span><span>Page built {now:%d %B %Y, %H:%M} Israel time</span></div><main class="mz"><div class="layout"><main class="main">{"".join(h)}</main>{rail}</div></main>'
             '<footer>Updated each morning from primary sources; see mars/README.md for the daily checks</footer></div></body></html>')
+
+def build(now):
+    d = json.load(open(os.path.join(D, "mars/data.json"), encoding="utf-8"))
+    return render_page(d, now)
+
 if __name__ == "__main__":
     open(os.path.join(D, "mars/index.html"), "w", encoding="utf-8").write(build(datetime.now(TZ))); print("wrote mars/index.html")

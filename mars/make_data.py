@@ -18,6 +18,19 @@ narrative = [
  "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes.",
 ]
 
+# ---------------------------------------------------------------- What's new (this edition only)
+# Replace this whole list every morning. Do not append, and do not keep yesterday's lines.
+# Leave whats_new = [] when this edition has no substantive news. See mars/README.md, "What's new".
+# edition must be the calendar date in UPDATED (YYYY-MM-DD). The builder hides a line whose edition does not match,
+# and it draws no What's new heading when nothing remains. Text must restate a fact already in the feed, narrative,
+# status board, or upcoming list, with links copied from those entries. A daily-check "nothing new" note is not an entry.
+whats_new = [
+ dict(edition="2026-11-07",
+  text="SpaceX is targeting Friday, 13 November for Starship Flight 15, the first date to come from a SpaceX executive rather than from FAA planning slides. Kiko Dontchev, SpaceX vice president of launch, spoke at the UP.Summit on 5 November; Teslarati cites Ars Technica's Eric Berger, who was there. The flight is an Earth-orbit test that would try to catch both the Super Heavy booster and the ship with the launch tower. SpaceX has not posted a mission page or a launch time, and the FAA (the U.S. agency that licenses launches) still shows no Flight 15 license [unconfirmed until SpaceX or the FAA publishes it].",
+  detail_url="https://www.teslarati.com/spacex-starship-catch-nov-13/",
+  links=[L("Teslarati, 5 Nov","https://www.teslarati.com/spacex-starship-catch-nov-13/"), L("The Space Road","https://thespaceroad.com/articles/when-is-starship-flight-15/"), L("Elon Musk on X, 6 Nov","https://x.com/elonmusk/status/2118732082843435305")]),
+]
+
 # ---------------------------------------------------------------- Today feed, newest first
 feed = [
  dict(when="2026-11-07 04:45", who="Grok Bot daily check (our own check)", kind="our own check", where="NASA, JPL, JAXA, ESA, CNSA, UAE, ISRO, SpaceX, Blue Origin, Rocket Lab, GAO, SpacePolicyOnline, Planetary Society, SpaceNews, Space.com, The Space Road, Teslarati, AMSAT-DL, Estévez, plus X",
@@ -331,6 +344,6 @@ not_read = [
  "CNSA and Zhurong status come from secondary sources (Planetary Society, marsprogress.com); no Chinese agency page was opened for Zhurong.",
 ]
 
-d = dict(title=title, updated=UPDATED, checked=CHECKED, course_url=course_url, narrative=narrative, feed=feed, board=board, perseverance=perseverance, curiosity=curiosity, curiosity_image=curiosity_image, plans=plans, upcoming=upcoming, glossary=glossary, links=links, not_read=not_read)
+d = dict(title=title, updated=UPDATED, checked=CHECKED, course_url=course_url, narrative=narrative, whats_new=whats_new, feed=feed, board=board, perseverance=perseverance, curiosity=curiosity, curiosity_image=curiosity_image, plans=plans, upcoming=upcoming, glossary=glossary, links=links, not_read=not_read)
 json.dump(d, open(os.path.join(D, "data.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("wrote mars/data.json", len(feed), "feed items")
