@@ -1,6 +1,75 @@
 {
-  "updated": "2026-11-06T04:09+02:00",
+  "updated": "2026-11-07T04:15+02:00",
   "items": [
+    {
+      "type": "podcast",
+      "title": "Australia's Hidden UFO History: Woomera, Westall & the Psychic Truth",
+      "url": "https://www.youtube.com/watch?v=HizQA9PfQS4",
+      "source": "That UFO Podcast",
+      "date": "2026-11-06",
+      "guest": "Rhys Dalton-Morgan",
+      "youtube": "https://www.youtube.com/watch?v=HizQA9PfQS4",
+      "podcast": "https://audioboom.com/posts/8974165",
+      "note": "Australian researcher Rhys Dalton-Morgan talks through his country's UFO history, including a claim that his grandfather, an RAF fighter ace, saw a craft at the classified Woomera rocket range, plus Westall and a 1971 intelligence document, and the stranger psychic side of the cases. Judged from the episode description.",
+      "interest": "Nature of the phenomenon; psychology and consciousness (psychic angle)"
+    },
+    {
+      "type": "podcast",
+      "title": "Japan’s Defense Minister: “We Can’t Rule Out ALIENS!”",
+      "url": "https://www.youtube.com/watch?v=U3bNSUiCvPg",
+      "source": "American Alchemy",
+      "date": "2026-11-06",
+      "guest": "Yasukazu Hamada and Japanese UAP caucus members",
+      "youtube": "https://www.youtube.com/watch?v=U3bNSUiCvPg",
+      "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740",
+      "note": "Jesse Michels interviews current and former Japanese lawmakers, including former Defense Minister Yasukazu Hamada, who chairs Japan's parliamentary UAP group and says non-human visitation should be treated as a serious hypothesis for sightings near nuclear sites. One former lawmaker's abduction claim is unconfirmed. Judged from the episode description.",
+      "interest": "Nature of the phenomenon (NHI hypothesis); disclosure (secondary)"
+    },
+    {
+      "type": "article",
+      "title": "Damaged Interstellar Spacecraft",
+      "url": "https://avi-loeb.medium.com/damaged-interstellar-spacecraft-f077c5ba03b8",
+      "source": "Avi Loeb · Medium",
+      "date": "2026-11-06",
+      "note": "The Harvard astronomer calculates how Voyager 1 would slowly erode over a billion years, then argues we are far more likely to meet guided visitors powered by alien AI or superintelligence than dead space junk, and that we may miss their signals because we are not tuned to look for them. Judged from the full post.",
+      "interest": "AI and non-human intelligence"
+    },
+    {
+      "type": "x-post",
+      "tag": "X post",
+      "source": "X",
+      "author": "@StephenGeoRae",
+      "id": "2118632357099888753",
+      "date": "2026-11-06T09:11:30Z",
+      "title": "Ghillie Dhu is a male Fairie and Forest Guardian, often disguised as foliage and living amongst birch trees",
+      "url": "https://x.com/StephenGeoRae/status/2118632357099888753",
+      "note": "The Folklore of Scotland account describes Ghillie Dhu, a fairy forest guardian said to hide as foliage among birch trees and to demand respectful passage through the woods, another of the old \"other people\" of the landscape often compared to UFO contact lore.",
+      "interest": "UFO and folklore overlaps (fairies)"
+    },
+    {
+      "type": "x-post",
+      "tag": "X post",
+      "source": "X",
+      "author": "@MiddleOfMayhem",
+      "id": "2118825475267293499",
+      "date": "2026-11-06T21:58:53Z",
+      "title": "Here's the guy Congressman Eric Burlison just hired to help him hunt UFOs. He claims the spirit of a female alien entered his body",
+      "url": "https://x.com/MiddleOfMayhem/status/2118825475267293499",
+      "note": "Journalist Steven Greenstreet flags that Rep. Eric Burlison hired Jake Barber, who claims (unconfirmed) that a female alien spirit entered his body and that he can psychically summon UFOs, an example of how psychic-control claims now sit inside official disclosure politics.",
+      "interest": "Control mechanisms (mind/psychic claims); disclosure (secondary)"
+    },
+    {
+      "type": "podcast",
+      "title": "The Re-Enchanted Ghost with Karen Frances McCarthy",
+      "url": "https://www.youtube.com/watch?v=_4T1SkK4r5g",
+      "source": "New Thinking Allowed",
+      "date": "2026-11-06",
+      "guest": "Karen Frances McCarthy",
+      "youtube": "https://www.youtube.com/watch?v=_4T1SkK4r5g",
+      "podcast": "https://jmishlove.podbean.com/e/the-re-enchanted-ghost-with-karen-frances-mccarthy/",
+      "note": "The Irish scholar and Spiritualist medium discusses her book The Re-Enchanted Ghost, on how contemporary American fiction makes ghosts into agents with their own afterlife space rather than simple hauntings. Judged from the episode description.",
+      "interest": "Psychology and consciousness; folklore overlaps (ghosts as otherworld agents)"
+    },
     {
       "type": "podcast",
       "title": "Precognitive Applications: Historical Perspectives with Marty Rosenblatt (4K Reboot)",
@@ -47,6 +116,7 @@
       "interest": "UFO and folklore overlaps"
     },
     {
+      "type": "podcast",
       "title": "Developing Your Intuition with Emmy Vadnais",
       "url": "https://www.youtube.com/watch?v=JgogyEsNrfw",
       "source": "New Thinking Allowed",
@@ -54,7 +124,6 @@
       "guest": "Emmy Vadnais",
       "youtube": "https://www.youtube.com/watch?v=JgogyEsNrfw",
       "podcast": "https://jmishlove.podbean.com/e/developing-your-intuition-with-emmy-vadnais/",
-      "type": "podcast",
       "note": "The show's co-host, an occupational therapist and intuitive coach, talks about her book Intuitive Development and how she says people can learn to trust inner knowing in relationships, health and spiritual life. Judged from the episode description.",
       "interest": "Psychology and consciousness"
     },
@@ -87,6 +156,15 @@
       "url": "https://x.com/GarryPNolan/status/2117902997246427399",
       "note": "Stanford's Garry Nolan agrees that many separate two-armed, two-legged alien species would be odd, and suggests (unconfirmed) that advanced visitors might reshape themselves using local genetics so they can live here and not terrify the natives.",
       "interest": "Nature of the phenomenon; Vallée circle (Nolan)"
+    },
+    {
+      "type": "article",
+      "title": "Will Mathematics in the Age of Superintelligence Follow the History of Astronomy in the Age of Instrumentation?",
+      "url": "https://avi-loeb.medium.com/will-mathematics-in-the-age-of-superintelligence-follow-the-history-of-astronomy-in-the-age-of-44529f21cbb3",
+      "source": "Avi Loeb · Medium",
+      "date": "2026-11-03",
+      "note": "Loeb compares today's AI proving math theorems to the shift from naked-eye astronomy to telescopes, and argues that superintelligence may open mathematical territories human brains never imagined, just as instruments revealed a cosmos humans could not see. Judged from the full post.",
+      "interest": "AI and non-human intelligence"
     },
     {
       "type": "x-post",
@@ -143,6 +221,7 @@
       "interest": "Control mechanisms (psychological warfare as an idea)"
     },
     {
+      "type": "podcast",
       "title": "Mark Solms: Consciousness Isn't in the Cortex",
       "url": "https://www.youtube.com/watch?v=-RxkxSD78cQ",
       "source": "Theories of Everything",
@@ -150,20 +229,7 @@
       "guest": "Mark Solms",
       "youtube": "https://www.youtube.com/watch?v=-RxkxSD78cQ",
       "podcast": "https://podcasts.apple.com/us/podcast/theories-of-everything-with-curt-jaimungal/id1521758802",
-      "type": "podcast",
       "note": "The University of Cape Town neuropsychologist and psychoanalyst argues that consciousness starts not in the brain's outer layer (the cortex) but in raw feeling generated in the upper brainstem, pointing to children born without a cortex who still laugh and startle. Judged from the episode description.",
-      "interest": "Psychology and consciousness"
-    },
-    {
-      "title": "The Soul with Emile Alexandrov",
-      "url": "https://www.youtube.com/watch?v=7NjWIXHr7uY",
-      "source": "New Thinking Allowed",
-      "date": "2026-11-02",
-      "guest": "Emile Alexandrov",
-      "youtube": "https://www.youtube.com/watch?v=7NjWIXHr7uY",
-      "podcast": "",
-      "type": "podcast",
-      "note": "A philosophy professor, now a visiting scholar at Waseda University in Tokyo, traces how the idea of the soul has changed across Greek philosophy, Buddhism, Christianity, Hinduism and Jungian psychology. Judged from the video description.",
       "interest": "Psychology and consciousness"
     },
     {
@@ -197,6 +263,7 @@
       "interest": "UFO and folklore overlaps (changelings)"
     },
     {
+      "type": "podcast",
       "title": "Parapsychology and the Media with Joe McMoneagle (4K Reboot)",
       "url": "https://www.youtube.com/watch?v=CWTXZ06H17Y",
       "source": "New Thinking Allowed",
@@ -204,7 +271,6 @@
       "guest": "Joe McMoneagle",
       "youtube": "https://www.youtube.com/watch?v=CWTXZ06H17Y",
       "podcast": "",
-      "type": "podcast",
       "note": "The former Army remote viewer (someone trained to describe distant places using only the mind) talks with Jeffrey Mishlove about working with honest skeptics versus scoffers, and about his televised remote-viewing demonstrations. This is a remastered older interview, judged from the video description.",
       "interest": "Psychology and consciousness (remote viewing); government psychic-spy programs as background"
     },
@@ -230,6 +296,7 @@
       "interest": "Nature of the phenomenon (high strangeness)"
     },
     {
+      "type": "podcast",
       "title": "The Most Controversial Biologist Alive Breaks Down Telepathy",
       "url": "https://www.youtube.com/watch?v=uvRzhb2Pef4",
       "source": "American Alchemy",
@@ -237,11 +304,11 @@
       "guest": "Rupert Sheldrake",
       "youtube": "https://www.youtube.com/watch?v=uvRzhb2Pef4",
       "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740",
-      "type": "podcast",
       "note": "The biologist Rupert Sheldrake on telepathy and his theory of morphic fields (the idea that nature has a kind of collective memory), plus his speculation that plasma could be a form of life and that the sun may be conscious.",
       "interest": "Psychology and consciousness; nature of the phenomenon (the idea of intelligent plasma)"
     },
     {
+      "type": "podcast",
       "title": "The UFO Community Has a BIG Problem Nobody Wants to Talk About | w/ Filmmaker Darcy Weir",
       "url": "https://www.youtube.com/watch?v=DTeqmNx6hj0",
       "source": "UAP Files Podcast",
@@ -249,7 +316,6 @@
       "guest": "Darcy Weir",
       "youtube": "https://www.youtube.com/watch?v=DTeqmNx6hj0",
       "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/The-UFO-Community-Has-a-BIG-Problem-Nobody-Wants-to-Talk-About--w-Filmmaker-Darcy-Weir-e3rdiaf",
-      "type": "podcast",
       "note": "The documentary filmmaker argues that UFO celebrities, money and infighting inside the UFO world may do more to block answers than government secrecy, and describes what he says were Steven Greer's financial demands for an interview. Judged from the episode description.",
       "interest": "Psychology of belief in the UFO world; disclosure (secondary)"
     },
@@ -290,186 +356,52 @@
       "interest": "Control mechanisms (mind control); AI and contact"
     },
     {
-      "title": "The Sol Foundation names the 2026 O'Bryant Prize winners for research on UAP and consciousness",
-      "url": "https://x.com/_SolFoundation/status/2116288135311270244",
-      "source": "X",
-      "author": "@_SolFoundation",
-      "date": "2026-10-30T21:56:24Z",
-      "type": "x-post",
-      "tag": "X post",
-      "note": "The Nolan- and Pasulka-linked think tank says anthropologist Peter Skafish, neuroscientist Brian Lord and systems engineer David Hooper won its noetic-sciences prize for work on UAP and consciousness.",
-      "interest": "Vallée circle (Sol Foundation); psychology and consciousness"
-    },
-    {
-      "type": "x-post",
-      "tag": "X post",
-      "source": "X",
-      "author": "@TomMontalk",
-      "id": "2116219436843569561",
-      "date": "2026-10-30T17:23:25Z",
-      "title": "Civilization will probably split into tiers: über-tech (grey-like), mindful-tech (pleiadean-like), low-tech (hobbit-like)",
-      "url": "https://x.com/TomMontalk/status/2116219436843569561",
-      "note": "Montalk maps alien archetypes onto humanity's possible tech futures and claims AI companies posing as humanist are really on the transhumanist track. Opinion, not evidence.",
-      "interest": "AI and control; alien archetypes"
-    },
-    {
-      "title": "Jacques Vallee UFO Control System: Mythology as Social Technology",
-      "url": "https://thinkaboutit-ufos.com/jacques-vallee-discusses-ufo-control-system/",
-      "source": "Think About It UFOs (Bret Walters)",
-      "date": "2026-10-30",
-      "type": "article",
-      "note": "Walters recaps Vallée's control-system idea: the phenomenon works like a thermostat on human belief, using absurd, high-strange events to reshape myth, and he suggests people can study the feedback loop instead of watching passively. A recap of Vallée's 1970s ideas rather than new reporting; the page also shows an April update date.",
-      "interest": "Control mechanism (Vallée's control system); Vallée"
-    },
-    {
-      "title": "AI or alien tech?",
-      "url": "https://www.thenews.pk/print/1445766-ai-or-alien-tech",
-      "source": "The News International (Javaid Laghari, opinion)",
-      "date": "2026-10-30",
-      "type": "article",
-      "note": "Laghari argues that we may be building an alien intelligence here on Earth, since AI now reasons at speeds, scales and along paths no biological brain can follow, so the real question is whether people keep enough understanding and control of it.",
-      "interest": "AI and non-human intelligence; AI as a control question"
-    },
-    {
-      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
-      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
-      "source": "NVIDIA Blog (Chris Porter)",
-      "date": "2026-10-30",
-      "type": "article",
-      "note": "Porter reports that Breakthrough Listen and the SETI Institute now let AI agents steer the Allen Telescope Array and screen its data, and frames the search as human-built AI listening for AI built by aliens. A company blog, so partly promotional.",
-      "interest": "AI and non-human intelligence"
-    },
-    {
-      "type": "article",
-      "title": "Is UAP Storytelling Akin to Religious Myths?",
-      "url": "https://avi-loeb.medium.com/is-uap-storytelling-akin-to-religious-myths-d5e72f26ff86",
-      "source": "Avi Loeb · Medium",
-      "date": "2026-10-30",
-      "note": "The Harvard astronomer argues that UFO stories held on conviction rather than evidence work more like religion than science. He says Jay Stratton's new book uses a self-sealing logic, where any demand for hard evidence is treated as proof of a cover-up.",
-      "interest": "Psychology of belief and myth; disclosure (secondary)"
-    },
-    {
-      "type": "video",
-      "title": "What If UFOs Are Revealing the True Nature of Reality? | Tom Campbell Meets Chris Bledsoe's Children",
-      "url": "https://www.youtube.com/watch?v=3r1S8A0t474",
-      "source": "Tom Campbell · YouTube",
-      "date": "2026-10-30",
-      "note": "The physicist Tom Campbell (author of My Big TOE) tells Ryan Bledsoe and Emily Bledsoe Holloway, children of the experiencer Chris Bledsoe, that physical reality is a virtual reality made by consciousness, and that UFO encounters may be meant to widen our view of reality rather than frighten us. Judged from the video description.",
-      "interest": "Nature of the phenomenon; psychology and consciousness"
-    },
-    {
-      "type": "video",
-      "title": "He Had a Near-Death Experience and Realized What UFOs Actually Are | Keith Thompson",
-      "url": "https://www.youtube.com/watch?v=9knGycwnmlA",
-      "source": "Third Eye Drops · YouTube",
-      "date": "2026-10-30",
-      "note": "The author of Angels and Aliens describes his own near-death experience and argues that UFOs, near-death experiences and myth are different masks of one underlying reality, drawing on Vallée and John Mack. Judged from the video description.",
-      "interest": "Vallée's circle; UFO and folklore overlaps; psychology and consciousness"
-    },
-    {
-      "type": "video",
-      "title": "AI Might Be Why We Haven't Found Aliens",
-      "url": "https://www.youtube.com/watch?v=I8baiXx1yaE",
-      "source": "Epic Programmer · YouTube",
-      "date": "2026-10-30",
-      "note": "A documentary-style video that walks through the rise of today's AI and asks whether every civilization builds a superintelligence, and whether that is why we hear no one out there (the Fermi paradox). Judged from the video description.",
-      "interest": "AI and non-human intelligence"
-    },
-    {
+      "type": "podcast",
       "title": "The Tedesco Brothers: UFO Encounters, the Hitchhiker Effect & the FBI",
       "url": "https://audioboom.com/posts/8970179",
       "source": "That UFO Podcast",
       "date": "2026-10-28",
-      "note": "The Nightcrawler field researchers on their recent observations and on experiences they say follow researchers home, including bedroom orbs.",
-      "interest": "Nature of the phenomenon (the \"hitchhiker effect\")",
-      "type": "podcast",
       "guest": "John and Gerry Tedesco",
       "youtube": "https://www.youtube.com/watch?v=_eKu3FuPa_E",
-      "podcast": "https://audioboom.com/posts/8970179"
+      "podcast": "https://audioboom.com/posts/8970179",
+      "note": "The Nightcrawler field researchers on their recent observations and on experiences they say follow researchers home, including bedroom orbs.",
+      "interest": "Nature of the phenomenon (the \"hitchhiker effect\")"
     },
     {
+      "type": "podcast",
       "title": "There’s A Cosmic War Going On Above Your Head (Jason Jorjani Part 3)",
       "url": "https://www.youtube.com/watch?v=QjU7FfTcACE",
       "source": "American Alchemy",
       "date": "2026-10-27",
-      "type": "podcast",
       "guest": "Jason Jorjani",
-      "note": "Part 3 of Jesse Michels' talks with philosopher Jason Jorjani, framed around a hidden \"control system\" and non-human intelligence. Title confirmed from YouTube; the content summary is unconfirmed and the views are speculative.",
-      "interest": "Control mechanism (mind control, control system); nature of the phenomenon",
       "youtube": "https://www.youtube.com/watch?v=QjU7FfTcACE",
-      "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740"
+      "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740",
+      "note": "Part 3 of Jesse Michels' talks with philosopher Jason Jorjani, framed around a hidden \"control system\" and non-human intelligence. Title confirmed from YouTube; the content summary is unconfirmed and the views are speculative.",
+      "interest": "Control mechanism (mind control, control system); nature of the phenomenon"
     },
     {
+      "type": "podcast",
       "title": "Jacques Vallée: AI Could Contact UFOs Before We Do!",
       "url": "https://www.youtube.com/watch?v=vSeDQpYAKOY",
       "source": "UAP Files Podcast",
       "date": "2026-10-24",
-      "note": "Vallée on whether AI might make contact with the UFO phenomenon before humans do.",
-      "interest": "Vallée; AI and UFOs",
-      "type": "podcast",
       "guest": "Jacques Vallée",
       "youtube": "https://www.youtube.com/watch?v=vSeDQpYAKOY",
-      "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/Jacques-Valle-AI-Could-Contact-UFOs-Before-We-Do-e3r09cs"
+      "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/Jacques-Valle-AI-Could-Contact-UFOs-Before-We-Do-e3r09cs",
+      "note": "Vallée on whether AI might make contact with the UFO phenomenon before humans do.",
+      "interest": "Vallée; AI and UFOs"
     },
     {
+      "type": "podcast",
       "title": "Top Religious Scholar: “Aliens Aren’t What You Think!”",
       "url": "https://www.youtube.com/watch?v=X6eyX0cFTDg",
       "source": "American Alchemy",
       "date": "2026-10-21",
-      "note": "Rice University religion scholar, Pasulka's frequent co-author, argues aliens are not what we assume.",
-      "interest": "Vallée circle (Kripal co-wrote with Vallée); consciousness",
-      "type": "podcast",
       "guest": "Jeffrey Kripal",
       "youtube": "https://www.youtube.com/watch?v=X6eyX0cFTDg",
-      "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740"
-    },
-    {
-      "title": "“AI Is ALIEN Technology!” -Whistleblower Reveals TRUTH",
-      "url": "https://www.youtube.com/watch?v=h6zMVkncTsE",
-      "source": "American Alchemy",
-      "date": "2026-10-14",
-      "note": "Quantum-computing founder and UAP experiencer on the idea that AI is tied to alien technology.",
-      "interest": "AI and UFOs",
-      "type": "podcast",
-      "guest": "Deep Prasad",
-      "youtube": "https://www.youtube.com/watch?v=h6zMVkncTsE",
-      "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740"
-    },
-    {
-      "title": "U.S. Navy Scientist UNLEASHED: AI, UFOs, Sentient Plasma & TIME TRAVEL",
-      "url": "https://www.youtube.com/watch?v=KhrR4C-WgC8",
-      "source": "UAP Files Podcast",
-      "date": "2026-10-04",
-      "note": "Navy scientist on AI, UFOs, possibly sentient plasma, and time travel.",
-      "interest": "AI and non-human intelligence",
-      "type": "podcast",
-      "guest": "Salvatore Pais",
-      "youtube": "https://www.youtube.com/watch?v=KhrR4C-WgC8",
-      "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/U-S--Navy-Scientist-UNLEASHED-AI--UFOs--Sentient-Plasma--TIME-TRAVEL-e3pqutq"
-    },
-    {
-      "title": "A Priest on UFOs: “The Church Needs to Start Paying Attention”",
-      "url": "https://www.youtube.com/watch?v=BDcsBKP4kxE",
-      "source": "UAP Files Podcast",
-      "date": "2026-09-21",
-      "note": "A Welsh priest on non-human intelligence, the Bible, and why the church should pay attention.",
-      "interest": "Religion and NHI (Pasulka's theme)",
-      "type": "podcast",
-      "guest": "Fr. Lee Taylor",
-      "youtube": "https://www.youtube.com/watch?v=BDcsBKP4kxE",
-      "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/A-Priest-on-UFOs-The-Church-Needs-to-Start-Paying-Attention-e3ohnbt"
-    },
-    {
-      "title": "Karin Austin: John Mack, Experiencers & the Disclosure Problem | Part 2",
-      "url": "https://www.youtube.com/watch?v=3td6qe_1RlM",
-      "source": "That UFO Podcast",
-      "date": "2026-09-15",
-      "note": "An experiencer on working with Harvard psychiatrist John Mack and what her encounters meant.",
-      "interest": "Experiencers and consciousness",
-      "type": "podcast",
-      "guest": "Karin Austin",
-      "youtube": "https://www.youtube.com/watch?v=3td6qe_1RlM",
-      "podcast": "https://audioboom.com/posts/8952299"
+      "podcast": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740",
+      "note": "Rice University religion scholar, Pasulka's frequent co-author, argues aliens are not what we assume.",
+      "interest": "Vallée circle (Kripal co-wrote with Vallée); consciousness"
     }
   ]
 }
