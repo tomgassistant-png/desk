@@ -4,6 +4,247 @@
   "latest_count": 17,
   "items": [
     {
+      "id": "2026-11-07-pa-idf-stops-pa-notify",
+      "section": "pa",
+      "lead": true,
+      "highlight": true,
+      "headline": "Central Command stops tipping the PA before raids; weapons seizures rise",
+      "summary": "Central Command Maj. Gen. Avi Blot ordered the IDF to stop giving the Palestinian Authority security services advance notice before arrest, weapons and village search raids in Judea and Samaria, Makor Rishon's Yishai Elmakyes reported. The old \"fold the PA forces\" practice (קיפול שו\"פים) had become a tip-off channel: PA officers were passing the planned routes to local Arabs, who then hid weapons and fled. Since Blot tightened the order, the army says the volume of weapons seized on operations has gone up. Senior Central Command officers told Makor Rishon the trigger was a report by settler activist Elisha Yered: while driving Route 60 near Deir Dibwan he saw IDF vehicles staging for a village patrol, then minutes later saw a local Arabic Telegram channel publish the exact planned route about ten minutes before the troops entered. Yered had first published the leak pattern about a month earlier; he wrote that Central Command admitted his report was the background to the change, and that weapons seizures rose afterward (<a href=\"https://www.makorrishon.co.il/news/defence/article/389943\">Makor Rishon</a>; <a href=\"https://x.com/ElishaYered/status/2118602220954362255\">Elisha Yered</a>; tip relayed by <a href=\"https://x.com/no_itsmyturn/status/2118774131780903175\">Aleph</a>). Former prime minister Ehud Olmert separately attacked Blot as \"aiding Jewish terror,\" a political charge Kan headlined the same day.",
+      "source": "Makor Rishon",
+      "date": "2026-11-06",
+      "url": "https://www.makorrishon.co.il/news/defence/article/389943",
+      "places": [
+        {
+          "name": "Deir Dibwan",
+          "lat": 31.9113407,
+          "lon": 35.2689056,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-land-pa-freeze-israeli-arab-registry",
+      "section": "land",
+      "highlight": true,
+      "headline": "PA freezes land registration for Israeli Arabs after Jericho house sales to Jews",
+      "summary": "In response to the sale of houses in Jericho to Jews, the Palestinian Authority Land Authority ordered a freeze on land-registration transactions for Palestinians who hold Israeli citizenship or an Israeli Jerusalem identity card, including Arab Israelis and East Jerusalem residents, until further notice. Olam Katan's Simcha Raz reported the official PA notice; the Hebrew outlet Emess published the same order, quoting the Arabic circular that tells registration and land-settlement offices to stop processing those deals. The freeze follows the Jewish families' entry into eight houses in Jericho covered in earlier editions. Raz also noted a separate security incident at the new Jewish site in Jericho in which, according to Eliya Aviv, an Israeli in a security role arrived dressed as an anarchist, drew a pistol and pointed it at settlers — a claim labeled as Aviv's report and not independently confirmed here (<a href=\"https://www.okn.co.il/security/77143/\">Olam Katan</a>; <a href=\"https://www.emess.co.il/radio/1957183\">Emess</a>; <a href=\"https://x.com/simkha0404/status/2118618221653991670\">Simcha Raz</a>).",
+      "source": "Olam Katan",
+      "date": "2026-11-06",
+      "url": "https://www.okn.co.il/security/77143/",
+      "places": [
+        {
+          "name": "Jericho",
+          "lat": 31.8560483,
+          "lon": 35.4598241,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-attacks-duvdevan-binyamin-three",
+      "section": "attacks",
+      "highlight": true,
+      "headline": "Duvdevan and Shin Bet grab three suspects planning attacks near Ramallah",
+      "summary": "In a joint IDF–Shin Bet announcement, Duvdevan commandos arrested three Arabs this week in al-Am'ari, a-Ram and al-Bireh in the Binyamin brigade sector who, the military said, planned terror attacks and military activity against Israeli civilians and IDF troops. The three were handed to the Shin Bet for questioning. Times of Israel military correspondent Emanuel Fabian and Channel 14 both carried the IDF/Shin Bet statement; Israel Hayom and Maariv reported the same raids (<a href=\"https://www.c14.co.il/article/1776150\">Channel 14</a>; <a href=\"https://x.com/manniefabian/status/2118649418446455163\">Emanuel Fabian</a>; <a href=\"https://www.israelhayom.co.il/israelnow/article/21793627\">Israel Hayom</a>; <a href=\"https://www.maariv.co.il/breaking-news/article-1385607\">Maariv</a>).",
+      "source": "Channel 14",
+      "date": "2026-11-06",
+      "url": "https://www.c14.co.il/article/1776150",
+      "places": [
+        {
+          "name": "a-Ram",
+          "lat": 31.8512,
+          "lon": 35.2359,
+          "note": "Prior desk Nominatim"
+        },
+        {
+          "name": "al-Bireh",
+          "lat": 31.9007401,
+          "lon": 35.2117585,
+          "note": "Nominatim"
+        },
+        {
+          "name": "al-Am'ari",
+          "lat": 31.8897,
+          "lon": 35.1985,
+          "note": "Approximate (Nominatim street point near Beitunia / Amari area)"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-attacks-zaim-haredi-disguise",
+      "section": "attacks",
+      "highlight": true,
+      "headline": "Hebron man dressed as a Haredi, with six illegal entrants, stopped at a-Za'im",
+      "summary": "Border Police stopped a car that raised suspicion at the a-Za'im crossing. Behind the wheel was a Palestinian from Hebron who, police say, had grown sidelocks, put on a kippah and dressed as an ultra-Orthodox Jew, apparently to slip the check. Six other illegal entrants were in the vehicle; the car had already been taken off the road and its plates swapped. All seven were arrested. Israel Hayom settlements correspondent Yotam Deshe and Arutz 7 both reported the case (<a href=\"https://x.com/Yotamdeshe97/status/2118691490746814556\">Yotam Deshe</a>; <a href=\"https://www.inn.co.il/flashes/1139802\">Arutz 7</a>).",
+      "source": "Israel Hayom / Arutz 7",
+      "date": "2026-11-06",
+      "url": "https://www.inn.co.il/flashes/1139802",
+      "places": [
+        {
+          "name": "a-Za'im",
+          "lat": 31.7872871,
+          "lon": 35.2662973,
+          "note": "Nominatim (az-Za'ayyem village / crossing area)"
+        },
+        {
+          "name": "Hebron",
+          "lat": 31.528902,
+          "lon": 35.0944873,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-attacks-jsr-sde-efraim-pofer",
+      "section": "attacks",
+      "headline": "Foreign activists stage unauthorized olive harvest at Sde Efraim; 58th shepherd attack of the month",
+      "summary": "JSR reported that dozens of foreign far-left activists arrived for an unauthorized olive harvest near Sde Efraim Farm in Binyamin, aiming to provoke; only three Arab pickers were actually at the grove (<a href=\"https://t.me/s/JSR_HEB/468\">JSR</a>; <a href=\"https://x.com/JSR_HEB/status/2118620360253808672\">JSR on X</a>). Separately, JSR and Olam Katan's Simcha Raz counted the 58th attack this month on Jewish shepherds in Judea and Samaria: about 15 Arabs who arrived under the cover of the olive harvest threw stones at a shepherd from Nahal Avraham Farm (Avraham and Orit Pofer) in Gush Etzion; no injuries reported (<a href=\"https://x.com/JSR_HEB/status/2118647195184287774\">JSR</a>; <a href=\"https://x.com/simkha0404/status/2118649349638902105\">Simcha Raz</a>).",
+      "source": "JSR",
+      "date": "2026-11-06",
+      "url": "https://t.me/s/JSR_HEB",
+      "places": [
+        {
+          "name": "Sde Efraim",
+          "lat": 31.9398249,
+          "lon": 35.09195,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Nahal Avraham / Pofer Farm",
+          "lat": 31.6104,
+          "lon": 35.1851,
+          "note": "Approximate (Gush Etzion; nearest Nominatim point Ma'ale Tidhar used as sector anchor)"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-attacks-sair-maale-tidhar",
+      "section": "attacks",
+      "headline": "Stone attack from Sa'ir wounds shepherds at Ma'ale Tidhar; father of a prior attacker among those held",
+      "summary": "Arabs from Sa'ir threw stones at Jewish shepherds from Ma'ale Tidhar, east of Gush Etzion near Metzad. Elisha Yered reported one shepherd wounded in the hand; Simcha Raz wrote that two shepherds were lightly hurt and did not need treatment. IDF troops called to the scene arrested several suspects. Among them, Yered named Sand Shalaldeh, father of a terrorist killed after taking part in a lynching attempt on a group of Haredi hikers in the area months earlier. Ayelet Lash also flagged the attack and asked whether Rabbi Benny Lau — who had praised Beit Ummar's leadership the day of the Gefen Ami arson — would condemn it (<a href=\"https://x.com/ElishaYered/status/2118614831246795099\">Elisha Yered</a>; <a href=\"https://x.com/simkha0404/status/2118615144263753848\">Simcha Raz</a>; <a href=\"https://x.com/ayeletlash9/status/2118609493122564542\">Ayelet Lash</a>).",
+      "source": "Elisha Yered",
+      "date": "2026-11-06",
+      "url": "https://x.com/ElishaYered/status/2118614831246795099",
+      "places": [
+        {
+          "name": "Ma'ale Tidhar",
+          "lat": 31.6104207,
+          "lon": 35.1850793,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Sa'ir",
+          "lat": 31.5829285,
+          "lon": 35.1452192,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-attacks-ramatayim-deir-ammar",
+      "section": "attacks",
+      "headline": "Arab \"olive pickers\" from Deir Ammar attack residents of Ramatayim Tzofim farm",
+      "summary": "Elisha Yered reported that on 5 Nov, Arab \"olive pickers\" from Deir Ammar attacked residents of Ramatayim Tzofim Farm in Gush Talmonim who had gone out looking for a lost cow. He warned that the olive-harvest terror wave would last at least another two weeks and that the security establishment should not treat it as fate (<a href=\"https://x.com/ElishaYered/status/2118620923926294906\">Elisha Yered</a>). Details beyond his report are unconfirmed here.",
+      "source": "Elisha Yered",
+      "date": "2026-11-06",
+      "url": "https://x.com/ElishaYered/status/2118620923926294906",
+      "places": [
+        {
+          "name": "Talmon (Gush Talmonim)",
+          "lat": 31.9393963,
+          "lon": 35.1323035,
+          "note": "Nominatim (farm itself not found; sector point)"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-negev-lachish-ag-theft",
+      "section": "negev",
+      "headline": "Four Judea and Samaria suspects caught after night ambush over farm-tool thefts near Lachish",
+      "summary": "Detectives from Magav South's central unit, with Magav fighters and Yoav volunteers, arrested four Judea and Samaria residents overnight Wednesday–Thursday on suspicion of a string of break-ins and thefts of farm tools and property in the Lachish area. The raid was part of case \"Night Club.\" Intelligence put the cell entering Israel that evening; forces found them riding two farm machines without lights, arrested two on the spot as they tried to start a machine left in the field, and caught the other two after a chase. Police say the four are known to the unit. Walla and Israel Hayom both carried the police account (<a href=\"https://www.walla.co.il/news/israel/383960329\">Walla</a>; <a href=\"https://www.israelhayom.co.il/israelnow/article/21793500\">Israel Hayom</a>).",
+      "source": "Walla",
+      "date": "2026-11-06",
+      "url": "https://www.walla.co.il/news/israel/383960329",
+      "places": [
+        {
+          "name": "Lachish area",
+          "lat": 31.565,
+          "lon": 34.849,
+          "note": "Approximate (Lachish region / southern coastal plain)"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-negev-rahat-m16-seizures",
+      "section": "negev",
+      "headline": "Five M-16s, a fragmentation grenade and stolen IDF ammo seized in Rahat",
+      "summary": "In two separate police and Magav operations in Rahat, officers seized five M-16 assault rifles, a fragmentation grenade, stolen IDF ammunition (including MAG 7.62 belt rounds), magazines and, according to the police headline, two pistols; five suspects were arrested. In the first raid, Yoav unit fighters with police air support found two M-16s, magazines, a grenade wrapped in cling film and ammo hidden in a toilet shaft, plus two matching license plates suspected forged. In the second, Rahat station officers with Sahar and Magav South found three more M-16s and dozens of rounds. Police also released video of a Rahat suspect shooting toward family members, after which minors collected casings to spoil the scene; a prosecutor's statement was filed ahead of a serious indictment. HaKol HaYehudi tied the seizures to remarks days earlier by Dr. Awad Abu Freih, head of Rahat's popular committee, who told Radio a-Shams that \"there is no family in the Negev without weapons\" and that Negev Arabs are \"all armed\" with heavy automatic weapons and grenades (<a href=\"https://www.hakolhayehudi.co.il/item/security/_אין_משפחה_בלי_נשק___5_רובי_m-16_ורימון_נתפסו_ברהט\">HaKol HaYehudi</a>).",
+      "source": "HaKol HaYehudi",
+      "date": "2026-11-06",
+      "url": "https://www.hakolhayehudi.co.il/item/security/_אין_משפחה_בלי_נשק___5_רובי_m-16_ורימון_נתפסו_ברהט",
+      "places": [
+        {
+          "name": "Rahat",
+          "lat": 31.3933637,
+          "lon": 34.7546784,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
+      "id": "2026-11-07-land-beit-anat-chayei-sarah",
+      "section": "land",
+      "headline": "Beit Anat greets Chayei Sarah crowds on Route 60 with hill wine; foreign Jews join the flock",
+      "summary": "Elisha Yered reported that residents of Beit Anat, on Route 60 between Jerusalem and Kiryat Arba, welcomed the throngs heading to Hebron for Shabbat Chayei Sarah with grape juice and wine from the hill. A year ago, he wrote, the bypass junction was crowded with hostile Arab stalls; now any resident can stop there safely. Separately he posted that a group of Jews from abroad visiting Judea chose Beit Anat, joined the sheep pasture and drew water from the cistern to water the flock. He also photographed a rainbow over Joshua's altar on Mount Ebal from Mitzpe Yehoshua Farm, founded months ago to guard the altar from further Arab attacks (<a href=\"https://x.com/ElishaYered/status/2118665465463517656\">Yered on Beit Anat</a>; <a href=\"https://x.com/ElishaYered/status/2118638415738548446\">foreign visitors</a>; <a href=\"https://x.com/ElishaYered/status/2118675304835092972\">Mount Ebal</a>). Hebron itself saw a heavy police deployment for the Shabbat visitors (<a href=\"https://www.inn.co.il/flashes/1139801\">Arutz 7</a>). Yishai Fleisher posted from Hebron for Chayei Sarah (<a href=\"https://x.com/YishaiFleisher/status/2118701538025910325\">Yishai Fleisher</a>).",
+      "source": "Elisha Yered",
+      "date": "2026-11-06",
+      "url": "https://x.com/ElishaYered/status/2118665465463517656",
+      "places": [
+        {
+          "name": "Hebron",
+          "lat": 31.528902,
+          "lon": 35.0944873,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Beit Anat",
+          "lat": 31.55,
+          "lon": 35.12,
+          "note": "Approximate (Route 60 hill between Jerusalem and Kiryat Arba; exact point not in Nominatim)"
+        }
+      ],
+      "edition": "2026-11-07",
+      "published": "2026-11-07T05:00:00+02:00",
+      "letter": "PA security: 7 Nov 2026"
+    },
+    {
       "id": "2026-11-06-land-ganim-kadim-daycares",
       "edition": "2026-11-06",
       "published": "2026-11-06T05:00:00+02:00",
@@ -7054,7 +7295,7 @@
       ]
     }
   ],
-  "highlight_count": 9,
+  "highlight_count": 4,
   "weather_location": {
     "name": "Herzliya",
     "lat": 32.1663,

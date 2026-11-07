@@ -972,6 +972,10 @@
   "2026-11-06": {
    "intro": "Israel: Herzog closes consultations with Eisenkot on 67 recommendations to Netanyahu's 46 and puts the mandate decision off to Sunday, while N12 reports Liberman dropping his Haredi veto and Yisrael Beytenu denies it. Also: Elabe's November barometer with Macron at a record-low 13% trust and Le Pen still first, Brazil's fiscal package waiting until Lula returns on 15 November, and Grok Bot's official account saying it can now make phone calls.",
    "quiet": "Nothing material on Lebanon beyond yesterday's UNIFIL warning, Quebec, Trump and Xi, Colombia and Israel, Belle Burden, the Carney case, Greenland, UK breakup politics, Trenton, Israeli data centers, non-Latin script digitization, HaShiloach (no new essay since 24 September), Cypherboria (X post reads returned 503; YouTube and podcasts showed no new Land guest appearance), or Marc Andreessen."
+  },
+  "2026-11-07": {
+   "intro": "Israel: Liberman himself confirms he will compromise on the Haredi draft, UTJ welcomes the opening, and Eisenkot presses a minority emergency government ahead of Herzog's Sunday mandate decision. Also: Lebanon charges two Hezbollah members in the Dahr al-Baidar explosives case as UNIFIL confirms its post-mandate drawdown; Cursor launches Voice Chat with agents on Grok Voice; Cyphers posts a new Land clip on the KJV and 1611; and Belle Burden is booked at Intelligence Squared in London on 16 November.",
+   "quiet": "Nothing material on Brazil (fiscal package still waits for Lula's 15 November return), Quebec, Trump and Xi beyond earlier APEC talk, Colombia and Israel, the Carney case, Greenland, UK breakup politics, Trenton (Eagle Tavern restoration is a state-grant project), Israeli data centers, non-Latin script digitization, HaShiloach (no new essay), France (Polymarket Le Pen about 45.2% vs 44.3% yesterday; no new poll or 49.3 decision), or Marc Andreessen. Official CEC final results are unchanged. No new Israeli reaction to EUSM Lebanon found."
   }
  },
  "items": [
@@ -10009,6 +10013,124 @@
     {
      "name": "Grok Bot changelog (no new phone entry yet)",
      "url": "https://x.ai/changelog/bot"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-israel-election-1",
+   "edition": "2026-11-07",
+   "section": "israel-election",
+   "headline": "Liberman confirms he will compromise on the Haredi draft; UTJ welcomes it; Eisenkot presses a minority emergency government",
+   "lead": "A day after Channel 12 reported that Avigdor Liberman had dropped his veto on Haredi parties — a report Yisrael Beytenu denied — Liberman himself wrote on Friday that he is ready for \"painful compromises\" on the conscription law to end Benjamin Netanyahu's tenure and avoid another election, while still ruling out any government that depends on Joint List or Ra'am abstentions (Ynetnews; JNS; Jerusalem Post).",
+   "text": "United Torah Judaism chairman Yaakov Asher welcomed the \"flexibility,\" saying no concrete proposal had yet arrived; a UTJ source told Walla the party would join whoever offers a satisfactory conscription law (Jerusalem Post; Israel National News). Liberman also rejected reports of a premiership rotation with Gadi Eisenkot. MK Dan Illouz gave up his Yisrael Beytenu list spot over the draft compromise, and reservists' leader Yoaz Hendel denounced it (Jerusalem Post). Eisenkot, hoping for the presidential mandate early next week, outlined a plan to swear in a national emergency government based on the four Zionist change parties first, open to any faction that accepts four principles including mandatory military, national or civilian service for all, and warned against sabotaging talks for personal reasons (Ynetnews; i24NEWS). President Isaac Herzog still plans to assign the mandate on Sunday, 8 November; the Central Elections Committee's official final results page is unchanged (turnout 77.98%; Likud 27, Yashar! 21, B'Yachad 12) (votes26.bechirot.gov.il).",
+   "sources": [
+    {
+     "name": "Ynetnews (Liberman)",
+     "url": "https://www.ynetnews.com/article/b1fdnmspze"
+    },
+    {
+     "name": "Ynetnews (Eisenkot)",
+     "url": "https://www.ynetnews.com/article/s1rqpujazx"
+    },
+    {
+     "name": "JNS",
+     "url": "https://www.jns.org/news/israel-news/liberman-signals-compromise-on-haredi-draft-to-help-form-anti-netanyahu-government"
+    },
+    {
+     "name": "Jerusalem Post",
+     "url": "https://www.jpost.com/israel-election-2026/article-914045"
+    },
+    {
+     "name": "Israel National News",
+     "url": "https://www.israelnationalnews.com/news/435766"
+    },
+    {
+     "name": "i24NEWS",
+     "url": "https://www.i24news.tv/en/news/israel/politics/artc-eisenkot-reaffirms-draft-demand-after-liberman-opens-door-to-utj-coalition"
+    },
+    {
+     "name": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-11-07/ty-article/.premium/united-torah-judaism-celebrates-liebermans-climbdown-but-not-a-government/000001a1-b233-dfe0-aba3-f37fa8ef0000"
+    },
+    {
+     "name": "Central Elections Committee, official final results",
+     "url": "https://votes26.bechirot.gov.il/nationalresults?lang=en"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-lebanon-1",
+   "edition": "2026-11-07",
+   "section": "lebanon",
+   "headline": "Lebanon charges two Hezbollah members over the Dahr al-Baidar explosives truck as UNIFIL confirms its post-mandate drawdown",
+   "lead": "A Lebanese military judge on Thursday issued formal charges against Ali al-Kurdi and Haitham Amhaz, already in custody, over a Hezbollah truck carrying nearly 800 kilograms of explosives seized on 5 October on the Dahr al-Baidar road between Beirut and Damascus; a hearing for six other suspects was put off to 17 November (Al-Monitor).",
+   "text": "The case is part of a wider Lebanese crackdown on Hezbollah weapons routes after Assad's fall. On Thursday the embassies of the United States, the United Kingdom, Australia, Canada and Japan jointly backed Lebanon's monopoly on arms and urged a swift judicial process in the Dahr al-Baidar case; Hezbollah MP Ali Ammar condemned the statement as interference (Al-Monitor). The same day UNIFIL confirmed it will begin a gradual withdrawal from south Lebanon after its mandate expires on 31 December 2026, while continuing daily operations until then (Al-Monitor). On Friday Parliament Speaker Nabih Berri told the EU ambassador that Resolution 1701 and UNIFIL remain the framework for reclaiming Lebanon's territory (Xinhua / NNA). No new Israeli official reaction to EUSM Lebanon was found in this run.",
+   "sources": [
+    {
+     "name": "Al-Monitor",
+     "url": "https://www.al-monitor.com/originals/2026/11/lebanon-files-charges-against-2-hezbollah-members-unifil-prepares-withdraw"
+    },
+    {
+     "name": "Xinhua",
+     "url": "https://english.news.cn/20261107/3566ae58500748479b7af0b1f859d6d0/c.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-spacex-xai-and-cursor-1",
+   "edition": "2026-11-07",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Cursor launches realtime Voice Chat with agents, powered by Grok Voice",
+   "lead": "Cursor's 6 November changelog adds Voice Chat with Agents: a two-way voice call in the Agents Window, the IDE, on the web and in Cursor for iOS, separate from the older dictation mode (Cursor changelog).",
+   "text": "Users can describe a change out loud, ask what an agent is working on and hear short progress notes while coding continues; on iOS, \"Hey Siri, call Cursor\" starts a call, with mute and hang-up from the Lock Screen Live Activity. The voice layer runs on Grok Voice, with voices including Ara, Eve, Leo, Rex and Sal, and Privacy Mode keeps voice chat on zero data retention (Cursor changelog). This follows yesterday's Grok Bot phone-call launch; xAI's API text watermarking, already reported on 1 November, takes effect today by default for seven Grok models (xAI docs).",
+   "sources": [
+    {
+     "name": "Cursor changelog: Voice Chat with Agents",
+     "url": "https://cursor.com/changelog/voice-chat"
+    },
+    {
+     "name": "xAI docs: Output Watermarking",
+     "url": "https://docs.x.ai/developers/advanced-api-usage/watermarking"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-cypherboria-1",
+   "edition": "2026-11-07",
+   "section": "cypherboria",
+   "headline": "Cyphers posts a new Land clip on why the KJV is special and the number 1611",
+   "lead": "Cyphers uploaded a 1-minute-37-second YouTube short, \"Nick Land on why the KJV is special and the number 1611,\" dated 6 November, and posted the same clip on X with a link back to the full Nick Land x Fans interview (YouTube; X @CyphersNews).",
+   "text": "Since yesterday's edition Cyphers has also posted further cuts from that interview, including Land on the Simulation (6 November), on Curtis Yarvin (5 November evening) and on Bitcoin (6 November), all pointing to the same full session (X @CyphersNews). Net Void, whose account is now readable publicly, mostly replied and reposted around a joking \"Cyphers house party\" flyer; Doomcrypt posted gematria lines (\"Divine Concurrence = 777\"); PHYTHAGRAM and @Mortal_Series had no notable new product or draft posts. No new Nick Land guest appearance showed up on YouTube or Apple Podcasts beyond clips of earlier sessions; Retrochronic remains at v1.0.176 with 199 sources; ReynoldsRetro's newest post is still the 11 October CCRU profile; Jacques Vallée's site showed no new Media or Research items.",
+   "sources": [
+    {
+     "name": "YouTube: Cyphers — Nick Land on why the KJV is special and the number 1611",
+     "url": "https://www.youtube.com/watch?v=EKz8v6g5wZ8"
+    },
+    {
+     "name": "X @CyphersNews (KJV / 1611 clip)",
+     "url": "https://x.com/CyphersNews/status/2118765361113801118"
+    },
+    {
+     "name": "X @CyphersNews (Simulation clip)",
+     "url": "https://x.com/CyphersNews/status/2118546419204124716"
+    },
+    {
+     "name": "Retrochronic",
+     "url": "https://retrochronic.com/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-07-belle-burden-1",
+   "edition": "2026-11-07",
+   "section": "belle-burden",
+   "headline": "Belle Burden to speak at Intelligence Squared in London on 16 November; Netflix has the rights, with Gwyneth Paltrow attached",
+   "lead": "Intelligence Squared lists an exclusive evening with Belle Burden, author of the memoir Strangers, at Cadogan Hall in London on Monday 16 November 2026 at 7:30 PM GMT, with an audience Q&A hosted with Pandora Sykes (Intelligence Squared).",
+   "text": "The page says Netflix has acquired the rights to adapt the book, with Gwyneth Paltrow attached to executive produce and star as Burden; that claim is taken from the event listing and is not independently confirmed here. The evening is framed around rebuilding a life after betrayal and the structures that shape modern marriage. This is the first Belle Burden item since the Barnes & Noble 2026 Book of the Year finalist note on 27 October.",
+   "sources": [
+    {
+     "name": "Intelligence Squared",
+     "url": "https://www.intelligencesquared.com/events/an-exclusive-evening-with-strangers-author-belle-burden"
     }
    ]
   }
