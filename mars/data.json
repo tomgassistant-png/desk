@@ -5656,6 +5656,14 @@
    "Other agencies",
    [
     [
+     "CNSA (Chinese-language site)",
+     "https://www.cnsa.gov.cn/"
+    ],
+    [
+     "ISAS/JAXA on X (Japanese)",
+     "https://x.com/ISAS_JAXA"
+    ],
+    [
      "JAXA: MMX launch release",
      "https://global.jaxa.jp/press/2026/10/20261020-1_e.html"
     ],
@@ -5790,6 +5798,10 @@
   [
    "News, advocates and amateurs (each labeled in the text)",
    [
+    [
+     "Andrew Jones (SpaceNews, China space reporter) on X",
+     "https://x.com/AJ_FI"
+    ],
     [
      "Planetary Society (advocacy group): House bill",
      "https://www.planetary.org/articles/house-appropriators-advance-key-nasa-funding-bill"
