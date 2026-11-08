@@ -978,7 +978,7 @@
    "quiet": "Nothing material on Brazil (fiscal package still waits for Lula's 15 November return), Quebec, Trump and Xi beyond earlier APEC talk, Colombia and Israel, the Carney case, Greenland, UK breakup politics, Trenton (Eagle Tavern restoration is a state-grant project), Israeli data centers, non-Latin script digitization, HaShiloach (no new essay), France (Polymarket Le Pen about 45.2% vs 44.3% yesterday; no new poll or 49.3 decision), or Marc Andreessen. Official CEC final results are unchanged. No new Israeli reaction to EUSM Lebanon found."
   },
   "2026-11-08": {
-   "intro": "Israel: Herzog picks Gadi Eisenkot to form the next government, with the mandate ceremony at 5 PM today, as Netanyahu shifts to a call for a unity government. Also: Mélenchon's Le Bourget rally; Flávio Bolsonaro tells the Washington Post the electoral court chief is wrong; Quebec cuts off Nemaska Lithium; Israel's defense ministry plans a delegation to Colombia; Starship Flight 15 set for 13 November with a double catch; satellite images of Israeli military roads in south Lebanon; new Land clips from Cyphers; and India's AI manuscript platform.",
+   "intro": "Israel: Herzog picks Gadi Eisenkot to form the next government, with the mandate ceremony at 5 PM today, as Netanyahu shifts to a call for a unity government. A separate note tracks election-interference allegations from all sides; a filed appeal has not been verified, and no effect on the results was shown. Also: Mélenchon's Le Bourget rally; Flávio Bolsonaro tells the Washington Post the electoral court chief is wrong; Quebec cuts off Nemaska Lithium; Israel's defense ministry plans a delegation to Colombia; Starship Flight 15 set for 13 November with a double catch; satellite images of Israeli military roads in south Lebanon; new Land clips from Cyphers; and India's AI manuscript platform.",
    "quiet": "Nothing material on the Carney case, Trenton, Trump and Xi (beyond earlier confirmation that a three-way meeting is under discussion), Greenland, UK breakup politics (a Times feature on the 31 October Glasgow deal only), Israeli data centers, HaShiloach (no new essay), Belle Burden or Marc Andreessen. No new Israeli reaction to EUSM Lebanon and no new Sweida or Israeli Druze development found."
   }
  },
@@ -10144,7 +10144,7 @@
    "section": "israel-election",
    "headline": "Herzog picks Eisenkot to form the next government; mandate ceremony today at 5 PM; Netanyahu now calls for a \"unity government\"",
    "lead": "President Isaac Herzog announced on Saturday evening, after meeting separately with Gadi Eisenkot and Benjamin Netanyahu, that he will task the Yashar! chairman with forming Israel's next government; the formal ceremony is set for Sunday, 8 November, at 5 PM Israel time at the President's Residence in Jerusalem ([map](https://www.google.com/maps/search/?api=1&query=31.7698,35.2142)) (Ynetnews; Jerusalem Post).",
-   "text": "Eisenkot, recommended by 67 Knesset members against 46 for Netanyahu, will have 28 days, with a possible extension of up to 14 days; if he fails, Herzog has three days to decide whether to try a second candidate (Jerusalem Post; Ynetnews). Shortly before the announcement, Netanyahu used the word \"unity\" for the first time since the election, calling for a national unity government of \"all the parties of the national camp and all the Zionist parties\" while keeping his allies, and warning that a government relying on Arab parties would \"dismantle the State of Israel from within\" (Ynetnews; JNS; Jerusalem Post). Yashar! called it a \"hysterical speech\" and said Likud could join only if it broke with \"the extremists,\" accepted Eisenkot's four principles and served under him (JNS; Ynetnews). The coalition math is still unsettled: Avigdor Liberman rejects a minority government supported by Arab parties and is negotiating with the Haredi parties on his own; Shas called reports that it would join an Eisenkot government \"fake news\" after an N12 report that it would not block a coalition backed by United Torah Judaism (Ynetnews; Jerusalem Post). Arutz 7 reports that the change bloc and the Arab parties have filed more than 61 signatures to replace Knesset Speaker Amir Ohana when the new Knesset is sworn in on Tuesday. The Times of Israel reports that Likud plans to appeal the election results over alleged illegal voter tracking by Arab-party activists (a lawyer for the party cites 700 complaints); only the headline and summary could be read, so this is unconfirmed here. The Central Elections Committee's official final results page is unchanged (turnout 77.98%; Likud 27, Yashar! 21, B'Yachad 12). Polymarket now gives Eisenkot about 66% and Netanyahu about 18% to be the next prime minister.",
+   "text": "Eisenkot, recommended by 67 Knesset members against 46 for Netanyahu, will have 28 days, with a possible extension of up to 14 days; if he fails, Herzog has three days to decide whether to try a second candidate (Jerusalem Post; Ynetnews). Shortly before the announcement, Netanyahu used the word \"unity\" for the first time since the election, calling for a national unity government of \"all the parties of the national camp and all the Zionist parties\" while keeping his allies, and warning that a government relying on Arab parties would \"dismantle the State of Israel from within\" (Ynetnews; JNS; Jerusalem Post). Yashar! called it a \"hysterical speech\" and said Likud could join only if it broke with \"the extremists,\" accepted Eisenkot's four principles and served under him (JNS; Ynetnews). The coalition math is still unsettled: Avigdor Liberman rejects a minority government supported by Arab parties and is negotiating with the Haredi parties on his own; Shas called reports that it would join an Eisenkot government \"fake news\" after an N12 report that it would not block a coalition backed by United Torah Judaism (Ynetnews; Jerusalem Post). Arutz 7 reports that the change bloc and the Arab parties have filed more than 61 signatures to replace Knesset Speaker Amir Ohana when the new Knesset is sworn in on Tuesday. Update: see the separate election interference allegations note below for the broader evidence and responses watch; a filed appeal has not been verified. The Central Elections Committee's official final results page is unchanged (turnout 77.98%; Likud 27, Yashar! 21, B'Yachad 12). Polymarket now gives Eisenkot about 66% and Netanyahu about 18% to be the next prime minister.",
    "sources": [
     {
      "name": "Ynetnews: Herzog to task Eisenkot",
@@ -10337,6 +10337,50 @@
     {
      "name": "New Indian Express",
      "url": "https://www.newindianexpress.com/india/2026/Nov/07/centre-to-use-ai-to-digitise-and-preserve-over-one-crore-ancient-manuscripts"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-israel-election-interference-watch",
+   "edition": "2026-11-08",
+   "section": "israel-election",
+   "headline": "Election interference allegations: competing claims, official responses and evidence still to establish",
+   "lead": "This watch covers election-interference allegations from any side, not only Likud's planned appeal. Reports of voter tracking and foreign financing are allegations. They are not proven violations, and no effect on the results has been shown.",
+   "text": "Likud lawyer Ilan Bombach says party observers filed 700 election-day complaints about alleged voter tracking by Arab-party activists (Times of Israel, 7 November). That is his allegation, not a court finding. Hebrew reporting by Walla on 4 November and Arabic reporting by Arab48 on 7 November describe preparation for an appeal, not a confirmed filing. No filed appeal and no case number were verified for this update. The Times of Israel gives 17 November as an appeal deadline and Walla gives 18 November. The dates conflict, and neither is treated as verified.",
+   "body": [
+    "Official response, already on the record and limited to its date. In a separate, earlier response quoted by Israel Hayom on 30 October, the Central Elections Committee said Likud had submitted about 1,000 complaints concerning 463 polling stations, that it had found no significant finding on matters within its remit up to that point, and that app-related complaints would be referred to the Privacy Protection Authority and the police. A referral is not a finding that a violation occurred. That 30 October response does not resolve allegations made later. The 700 figure and the 1,000 figure describe different complaint sets and must not be added together.",
+    "Allegations about other parties. The Times of Israel and Arab48 also report observer allegations that Likud and other parties used an app. The original observer report was not obtained, so its counts, its party breakdown, and any percentage that depends on its denominator remain unconfirmed. Those reports are allegations. They do not show a proven violation or a change in the count.",
+    "A separate financing investigation, and the responses to it. Arab48's 5 November report, citing Haaretz, describes prosecutorial restrictions on questioning in the foreign-financing investigation. The underlying permissions and records were not obtained. Ayman Odeh rejected the allegations as political persecution, and the Joint List condemned what it called an attempt to delegitimize Arab voting (statements reproduced by Arab48, 4 November). Those responses address the financing investigation. This check found no verified direct response by Arab parties to the newer app accusation.",
+    "Results, and what this check could not read. The official Hebrew results page still lists Likud with 27 seats, Yashar! with 21, the Joint List with 11 and Ra'am with eight. This check found no change in those seat totals and no demonstrated effect on turnout, votes, counting, results or seats. No primary inquiry, order or case file was obtained, and no final investigative finding of result-changing interference was established. The committee home page returned an error (HTTP 500), and the gov.il committee landing page timed out, so those two pages were not read. The Hebrew final-results page did open."
+   ],
+   "sources": [
+    {
+     "name": "Hebrew: Israel Hayom, 30 October (CEC response quoted in full)",
+     "url": "https://www.israelhayom.co.il/news/politics/article/21741822"
+    },
+    {
+     "name": "Hebrew: Walla, 4 November (appeal preparation)",
+     "url": "https://www.walla.co.il/news/politics/383960030"
+    },
+    {
+     "name": "Arabic: Arab48, 4 November (Odeh and Joint List responses)",
+     "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/04/أيمن-عودة-هو-القيادي-الرابع-في-إطار-مزاعم-الشاباك-والتشكيك-بالانتخابات"
+    },
+    {
+     "name": "Arabic: Arab48, 5 November (investigation restrictions, citing Haaretz)",
+     "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/05/قيود-قضائية-على-تحقيقات-الشاباك-بشأن-انتخابات-الكنيست"
+    },
+    {
+     "name": "Arabic: Arab48, 7 November (voter-tracking allegations)",
+     "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/07/الليكود-يعتزم-التوجه-إلى-القضاء-ضد-نتائج-الانتخابات-والمطالبة-بإعادتها"
+    },
+    {
+     "name": "Times of Israel: 7 November, lawyer interview and observer allegations",
+     "url": "https://www.timesofisrael.com/liveblog_entry/likud-readying-to-appeal-against-election-results-over-alleged-illegal-voter-tracking-by-arab-parties/"
+    },
+    {
+     "name": "Primary: Central Elections Committee, Hebrew final results",
+     "url": "https://votes26.bechirot.gov.il/nationalresults?lang=he"
     }
    ]
   }

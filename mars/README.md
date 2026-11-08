@@ -68,3 +68,6 @@ If a check finds nothing, do not pad. Add no feed item for it. Update CHECKED to
 - Low-cost Mars mission solicitation: not seen released.
 - Senate CJS bill for FY2027: status not confirmed (SpacePolicyOnline, 1 Sep, said none reported).
 - The course says the Xinhua interview with Hou Zengqian was 4 Sep; the Xinhua page is dated 3 Sep. This page uses 3 Sep.
+
+## Local-language and local-source priority (the user, 8 November 2026)
+For all Desk research, prioritize local-language reporting, local media and primary sources. Search and read the relevant languages before relying on English summaries: Hebrew and Arabic for Israel/JSD; Arabic for Yemen/Taiz; Haitian Creole and French for Haiti, plus Spanish and Salvadoran primary sources for the Salvadoran contingent; the originating agency’s language for Mars (including Japanese, Chinese and Arabic). Apply the same principle to every digest section and backgrounder. English reporting remains useful for independent checks and context, but is not the default when local sources are available. Label interested parties and distinguish their claims from verified facts. Keep all reader-facing output in plain American English. When a local source cannot be read, record that gap rather than imply it was checked.

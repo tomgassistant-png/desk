@@ -97,3 +97,9 @@ The morning digest should revise the paragraph and the date whenever there is a 
 
 ## Worker prompts (prompts/)
 The morning desk run reads its standing research instructions from /workspace/frontpage/prompts/ (digest.md, pa.md, yemen.md), because a routine run cannot read other routines' saved prompts. The user's new sources and rules go into these files. They are not published (publish.sh copies only named files).
+
+## Local-language and local-source priority (the user, 8 November 2026)
+For all Desk research, prioritize local-language reporting, local media and primary sources. Search and read the relevant languages before relying on English summaries: Hebrew and Arabic for Israel/JSD; Arabic for Yemen/Taiz; Haitian Creole and French for Haiti, plus Spanish and Salvadoran primary sources for the Salvadoran contingent; the originating agency’s language for Mars (including Japanese, Chinese and Arabic). Apply the same principle to every digest section and backgrounder. English reporting remains useful for independent checks and context, but is not the default when local sources are available. Label interested parties and distinguish their claims from verified facts. Keep all reader-facing output in plain American English. When a local source cannot be read, record that gap rather than imply it was checked.
+
+### Source scouting: all sections
+Apply the local-language/local-media/primary-source priority above to the existing weekly all-sections source scouting and to everyday discovery. Look for new local reporters, specialist outlets and primary feeds in each section’s languages; check ownership, expertise, original reporting, access and corroboration. Record why a source is useful and its limits. This is guidance for the existing work, not authorization for another routine.
