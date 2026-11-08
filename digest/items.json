@@ -976,6 +976,10 @@
   "2026-11-07": {
    "intro": "Israel: Liberman himself confirms he will compromise on the Haredi draft, UTJ welcomes the opening, and Eisenkot presses a minority emergency government ahead of Herzog's Sunday mandate decision. Also: Lebanon charges two Hezbollah members in the Dahr al-Baidar explosives case as UNIFIL confirms its post-mandate drawdown; Cursor launches Voice Chat with agents on Grok Voice; Cyphers posts a new Land clip on the KJV and 1611; and Belle Burden is booked at Intelligence Squared in London on 16 November.",
    "quiet": "Nothing material on Brazil (fiscal package still waits for Lula's 15 November return), Quebec, Trump and Xi beyond earlier APEC talk, Colombia and Israel, the Carney case, Greenland, UK breakup politics, Trenton (Eagle Tavern restoration is a state-grant project), Israeli data centers, non-Latin script digitization, HaShiloach (no new essay), France (Polymarket Le Pen about 45.2% vs 44.3% yesterday; no new poll or 49.3 decision), or Marc Andreessen. Official CEC final results are unchanged. No new Israeli reaction to EUSM Lebanon found."
+  },
+  "2026-11-08": {
+   "intro": "Israel: Herzog picks Gadi Eisenkot to form the next government, with the mandate ceremony at 5 PM today, as Netanyahu shifts to a call for a unity government. Also: Mélenchon's Le Bourget rally; Flávio Bolsonaro tells the Washington Post the electoral court chief is wrong; Quebec cuts off Nemaska Lithium; Israel's defense ministry plans a delegation to Colombia; Starship Flight 15 set for 13 November with a double catch; satellite images of Israeli military roads in south Lebanon; new Land clips from Cyphers; and India's AI manuscript platform.",
+   "quiet": "Nothing material on the Carney case, Trenton, Trump and Xi (beyond earlier confirmation that a three-way meeting is under discussion), Greenland, UK breakup politics (a Times feature on the 31 October Glasgow deal only), Israeli data centers, HaShiloach (no new essay), Belle Burden or Marc Andreessen. No new Israeli reaction to EUSM Lebanon and no new Sweida or Israeli Druze development found."
   }
  },
  "items": [
@@ -10131,6 +10135,208 @@
     {
      "name": "Intelligence Squared",
      "url": "https://www.intelligencesquared.com/events/an-exclusive-evening-with-strangers-author-belle-burden"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-israel-election-1",
+   "edition": "2026-11-08",
+   "section": "israel-election",
+   "headline": "Herzog picks Eisenkot to form the next government; mandate ceremony today at 5 PM; Netanyahu now calls for a \"unity government\"",
+   "lead": "President Isaac Herzog announced on Saturday evening, after meeting separately with Gadi Eisenkot and Benjamin Netanyahu, that he will task the Yashar! chairman with forming Israel's next government; the formal ceremony is set for Sunday, 8 November, at 5 PM Israel time at the President's Residence in Jerusalem ([map](https://www.google.com/maps/search/?api=1&query=31.7698,35.2142)) (Ynetnews; Jerusalem Post).",
+   "text": "Eisenkot, recommended by 67 Knesset members against 46 for Netanyahu, will have 28 days, with a possible extension of up to 14 days; if he fails, Herzog has three days to decide whether to try a second candidate (Jerusalem Post; Ynetnews). Shortly before the announcement, Netanyahu used the word \"unity\" for the first time since the election, calling for a national unity government of \"all the parties of the national camp and all the Zionist parties\" while keeping his allies, and warning that a government relying on Arab parties would \"dismantle the State of Israel from within\" (Ynetnews; JNS; Jerusalem Post). Yashar! called it a \"hysterical speech\" and said Likud could join only if it broke with \"the extremists,\" accepted Eisenkot's four principles and served under him (JNS; Ynetnews). The coalition math is still unsettled: Avigdor Liberman rejects a minority government supported by Arab parties and is negotiating with the Haredi parties on his own; Shas called reports that it would join an Eisenkot government \"fake news\" after an N12 report that it would not block a coalition backed by United Torah Judaism (Ynetnews; Jerusalem Post). Arutz 7 reports that the change bloc and the Arab parties have filed more than 61 signatures to replace Knesset Speaker Amir Ohana when the new Knesset is sworn in on Tuesday. The Times of Israel reports that Likud plans to appeal the election results over alleged illegal voter tracking by Arab-party activists (a lawyer for the party cites 700 complaints); only the headline and summary could be read, so this is unconfirmed here. The Central Elections Committee's official final results page is unchanged (turnout 77.98%; Likud 27, Yashar! 21, B'Yachad 12). Polymarket now gives Eisenkot about 66% and Netanyahu about 18% to be the next prime minister.",
+   "sources": [
+    {
+     "name": "Ynetnews: Herzog to task Eisenkot",
+     "url": "https://www.ynetnews.com/article/rkcsjwpage"
+    },
+    {
+     "name": "Jerusalem Post: mandate and what happens next",
+     "url": "https://www.jpost.com/israel-election-2026/article-914151"
+    },
+    {
+     "name": "Jerusalem Post: Netanyahu calls for unity government",
+     "url": "https://www.jpost.com/israel-election-2026/article-914144"
+    },
+    {
+     "name": "JNS",
+     "url": "https://www.jns.org/news/israel-news/netanyahu-says-time-for-unity-warns-against-government-backed-by-islamists"
+    },
+    {
+     "name": "Ynetnews: Liberman and the Haredi parties",
+     "url": "https://www.ynetnews.com/article/sjcm3v6agl"
+    },
+    {
+     "name": "Jerusalem Post: Shas denial",
+     "url": "https://www.jpost.com/israel-election-2026/article-914154"
+    },
+    {
+     "name": "Arutz 7 (Hebrew): Knesset Speaker",
+     "url": "https://www.inn.co.il/flashes/1139882"
+    },
+    {
+     "name": "Central Elections Committee, official final results",
+     "url": "https://votes26.bechirot.gov.il/nationalresults?lang=en"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/who-will-be-the-next-prime-minister-of-israel-after-the-next-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-lebanon-1",
+   "edition": "2026-11-08",
+   "section": "lebanon",
+   "headline": "Al Jazeera: satellite images show Israel building a network of military roads nearly 90 kilometers long across southern Lebanon",
+   "lead": "Al Jazeera reported on Saturday that Israel is building roads and military outposts across southern Lebanon, with satellite imagery showing a network of nearly 90 kilometers, which it says raises concerns about a long Israeli military presence; correspondent Zeina Khodr reported from Baraachit (Al Jazeera).",
+   "text": "The length of the network comes from Al Jazeera's own analysis and is not independently confirmed here; the Arab fact-checking site Misbar separately published a headline on tracking the construction of a new Israeli military road in southern Lebanon on the same day, but its article was not opened. No new official or unofficial Israeli reaction to the EU Support Mission in Lebanon (EUSM Lebanon), and no news on which countries will contribute forces, was found in this run. No new Sweida (Syria) or Israeli Druze development was found either.",
+   "sources": [
+    {
+     "name": "Al Jazeera (video report)",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-france-election-1",
+   "edition": "2026-11-08",
+   "section": "france-election",
+   "headline": "Mélenchon presents his program at Le Bourget before more than 20,000 people and refuses to soften it; the Communist Party says its deputies who back him have left the party",
+   "lead": "At a rally at Le Bourget (Seine-Saint-Denis) on Saturday, 7 November, Jean-Luc Mélenchon presented La France insoumise's 2027 program, \"l'Avenir en commun,\" in a speech of more than an hour before more than 20,000 people, saying \"il faut tout changer\" and that he would not \"put water in his wine\" to seem less divisive (franceinfo).",
+   "text": "He named about thirty headline measures, including a price freeze, a higher minimum wage, wages indexed to inflation, a Sixth Republic and non-alignment abroad, and for the first time set out a position on artificial intelligence (more national control without rejecting it); he said he is sure he can beat Marine Le Pen (franceinfo). The same day the national council of the Communist Party (PCF) said any member who backs a candidate other than its leader Fabien Roussel puts himself \"outside the party\"; the statement targets deputies Stéphane Peu, Elsa Faucillon and Soumya Bourouaha, who announced on Friday that they support Mélenchon (franceinfo). Le Monde reports that Le Pen and Édouard Philippe attacked the LFI program before the rally, and that Saturday's social protests drew 146,000 people by the Interior Ministry's count and 250,000 by the youth union coalition's count, ahead of Monday's social conference at the prime minister's office (Le Monde headlines; articles blocked to automated readers). No new national poll was published. Polymarket: Le Pen about 45.0% (45.2% yesterday), Lisnard 14.9%, Mélenchon 13.5% (up from about 12.5%), Philippe 9.5%.",
+   "sources": [
+    {
+     "name": "franceinfo: Mélenchon at Le Bourget",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/reportage-nous-allons-gagner-au-bourget-jean-luc-melenchon-devoile-son-programme-pour-2027-et-poursuit-sa-demonstration-de-force_8272679.html"
+    },
+    {
+     "name": "franceinfo: PCF and the deputies who back LFI",
+     "url": "https://www.franceinfo.fr/politique/les-deputes-communistes-qui-soutiennent-la-france-insoumise-se-sont-mis-en-dehors-du-parti-estime-le-pcf_8272592.html"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-brazil-1",
+   "edition": "2026-11-08",
+   "section": "brazil",
+   "headline": "Flávio Bolsonaro tells the Washington Post that the electoral court chief \"does not know what he is talking about\" and that Trump no longer sees Brazil as a full democracy",
+   "lead": "In an interview with the Washington Post at a coworking space in Aventura, north of Miami, Senator Flávio Bolsonaro again claimed, without evidence, that the election was rigged and said that Superior Electoral Court (TSE) president Kassio Nunes Marques \"does not know what he is talking about\" when he calls the vote fair (Folha de S.Paulo).",
+   "text": "Flávio, who lost the 25 October runoff to Lula by 4.4 million votes, said Donald Trump \"is convinced that Brazil is no longer a full democracy,\" that he now needs to \"regularize\" his immigration status in the United States, and that he will \"never\" say how he left Brazil (Folha, citing the Post). The Post cited an unnamed Brazilian security official who said police are investigating whether a network of American, Argentine and Israeli agents helped him leave; that claim is single-source. Nunes Marques was appointed to the Supreme Court by Jair Bolsonaro. Estadão, O Globo and Gazeta do Povo carried the same quotes in their headlines.",
+   "sources": [
+    {
+     "name": "Folha de S.Paulo",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/flavio-bolsonaro-diz-que-nunes-marques-nao-sabe-do-que-esta-falando-sobre-a-eleicao.shtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-quebec-1",
+   "edition": "2026-11-08",
+   "section": "quebec",
+   "headline": "St-Pierre Plamondon: \"not one more cent\" for Nemaska Lithium's Bécancour plant; Legault asks whether the PQ wants Quebec's lithium in foreign hands",
+   "lead": "Premier Paul St-Pierre Plamondon said on X on Friday that his government will not put \"one more cent\" into the Nemaska Lithium battery-materials plant in Bécancour, which he said had taken 1.2 billion dollars of public money over ten years, and that Economy and Energy Minister Stéphane Paquet had announced Quebec would \"no longer play in this bad movie\" (La Presse Canadienne via La Nouvelle Union and CityNews).",
+   "text": "The Journal de Montréal's investigative bureau had reported that the plant could run short of money to finish construction. St-Pierre Plamondon tied the decision to his campaign promise to end the \"open bar\" of business subsidies and use the money for a large tax cut for small and medium-sized businesses. Former premier François Legault, who launched the project, answered under the post that Nemaska owns the Whabouchi lithium mine and asked whether the PQ wants all of Quebec's lithium mines owned by foreigners and all processing done abroad (La Presse Canadienne).",
+   "sources": [
+    {
+     "name": "La Nouvelle Union (La Presse Canadienne)",
+     "url": "https://www.lanouvelle.net/nouvelles-nationales/pas-une-cenne-de-plus-dans-le-projet-nemaska-lithium-dit-pspp/"
+    },
+    {
+     "name": "CityNews Montreal (translation)",
+     "url": "https://montreal.citynews.ca/2026/11/07/nemaska-lithium-project-quebec-premier/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-colombia-and-israel-1",
+   "edition": "2026-11-08",
+   "section": "colombia-and-israel",
+   "headline": "Israel's ambassador in Bogotá: an Israeli defense industry delegation came this month, and Israel's Defense Ministry director general will lead a larger one at the end of November",
+   "lead": "In an interview with El Colombiano, Israel's ambassador to Colombia, Vivian Aisen, said an Israeli military-industry delegation met Colombia's Defense Ministry in Bogotá this month and that a larger delegation led by the director general of Israel's Defense Ministry will come at the end of November (El Colombiano).",
+   "text": "Aisen, in Colombia for two months, listed the steps taken since President Abelardo de la Espriella restored relations broken off by Gustavo Petro: the mission was raised from consulate to embassy, Colombia's ambassador has opened her embassy in Jerusalem, the ban on coal exports to Israel was lifted, visas between the two countries were dropped, and the free trade agreement, which Petro's government had tried to cancel, was reactivated by an exchange of notes. She said 2027 will mark 70 years of relations, with an Israeli film festival planned, and chose Medellín as her first trip outside the capital to seek farm and business ties. The delegation dates come only from this interview and are not confirmed elsewhere.",
+   "sources": [
+    {
+     "name": "El Colombiano",
+     "url": "https://www.elcolombiano.com/colombia/politica/embajadora-de-israel-colombia-perdimos-tiempo-pero-lo-vamos-a-recuperar-PE43302159"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-spacex-xai-and-cursor-1",
+   "edition": "2026-11-08",
+   "section": "spacex-xai-and-cursor",
+   "headline": "SpaceX sets Starship Flight 15 for 13 November, pending approval, with the first attempt to catch both the booster and the ship",
+   "lead": "SpaceX said on Saturday that Starship Flight 15 is targeting launch as early as Friday, 13 November, pending regulatory approval (X @SpaceX); KRGV, citing a SpaceX release, reports a 75-minute window opening at 4:45 PM Texas time (12:45 AM on 14 November, Israel time) (KRGV).",
+   "text": "Super Heavy may try to return to the Starbase tower for a catch six to eight minutes after liftoff, and SpaceX plans to bring the Starship upper stage back to the launch site for a catch about 22 hours after launch, both only if strict conditions are met; if both work it would be the first full recovery of an orbital launch system, and nearby Cameron County residents may hear sonic booms (KRGV). Elon Musk called the double catch \"the critical breakthrough needed to make life multiplanetary\" (X @elonmusk), and SpaceX describes the mission as the first orbital Starship launch carrying advanced Starlink satellites (X @SpaceX). The earlier FAA planning date was 8 November. No new entries appeared in the Grok Bot changelog or the Cursor changelog since yesterday.",
+   "sources": [
+    {
+     "name": "X @SpaceX: Flight 15 date",
+     "url": "https://x.com/SpaceX/status/2119093662957060389"
+    },
+    {
+     "name": "KRGV",
+     "url": "https://www.krgv.com/news/spacex-sets-target-date-for-15th-starship-launch-at-starbase"
+    },
+    {
+     "name": "X @elonmusk",
+     "url": "https://x.com/elonmusk/status/2118732082843435305"
+    },
+    {
+     "name": "X @SpaceX: first orbital launch with Starlink satellites",
+     "url": "https://x.com/SpaceX/status/2118719281038770389"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-cypherboria-1",
+   "edition": "2026-11-08",
+   "section": "cypherboria",
+   "headline": "Cyphers posts new Land clips on Pythagoras and metempsychosis and on John Michael Greer's decoding methods; chi hosts \"The One Is Not\" symposium",
+   "lead": "Cyphers posted two more cuts from the Nick Land x Fans interview on 7 November: Land on Pythagoras and Plato's theory of metempsychosis and the immortality of the soul, and Land praising John Michael Greer's decoding methods, both linking to the full session on YouTube (X @CyphersNews).",
+   "text": "Net Void quoted the metempsychosis clip: \"For years this was something I've been curious about. Thank you!\" (X @Net__Void). On the same day chi (@chithinksonline) hosted \"The One Is Not Symposium\" over Zoom, three paper presentations on Badiou's claim that \"the One is not\" in the context of Xenolutheranism, contemporary materialism and speculative theology; the Zoom links are not reposted here (X @chithinksonline). Land's own posts were mostly on US politics after the midterms, with one Synx gematria line (\"It's time to unleash the Kraken\" = 2027). Doomcrypt posted \"Occasionalism = 777 (Synx)\"; @resonatingloop posted mostly about coordinating AI agents and created a public GitHub repository, \"swarmachines\" (7 November), described as tools for observing how collectives of AI agents \"form, coordinate, fracture, and repair\" (GitHub). No new posts from @PHYTHAGRAM, @Mortal_Series or D.W. Pasulka; no new Nick Land guest appearance on YouTube or Apple Podcasts; Retrochronic remains at v1.0.176 with 199 sources; ReynoldsRetro, truthischrist.com, phythagram.com, resonatrix.tech and jacquesvallee.net showed no new items.",
+   "sources": [
+    {
+     "name": "X @CyphersNews (Pythagoras and metempsychosis clip)",
+     "url": "https://x.com/CyphersNews/status/2119200475161509959"
+    },
+    {
+     "name": "X @CyphersNews (Greer clip)",
+     "url": "https://x.com/CyphersNews/status/2119068347945906220"
+    },
+    {
+     "name": "YouTube: Cyphers, Nick Land x Fans (full interview)",
+     "url": "https://www.youtube.com/watch?v=fSMdsn8FLts"
+    },
+    {
+     "name": "X @Net__Void",
+     "url": "https://x.com/Net__Void/status/2119201809374052357"
+    },
+    {
+     "name": "X @chithinksonline (symposium)",
+     "url": "https://x.com/chithinksonline/status/2119082450249003309"
+    },
+    {
+     "name": "GitHub: resonatingloop/swarmachines",
+     "url": "https://github.com/resonatingloop/swarmachines"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-08-non-latin-script-digitization-1",
+   "edition": "2026-11-08",
+   "section": "non-latin-script-digitization",
+   "headline": "India's Culture Ministry plans an AI platform to transcribe, translate and search more than 10 million manuscripts under Gyan Bharatam",
+   "lead": "India's Ministry of Culture will use AI, optical character recognition and handwritten text recognition to turn more than one crore (10 million) manuscripts into searchable text in a National Digital Repository, with a \"Talk-to-Manuscript\" feature for questions by text or voice (New Indian Express).",
+   "text": "Officials say a technology firm is being hired; the system is meant to transcribe, translate, identify authors, reconstruct faded text and link manuscripts across collections, with every AI answer backed by page-level citations. More than 1.25 crore manuscripts in many languages have been reported on the Gyan Bharatam portal, of which 11.53 lakh (1.153 million) are published, and the program has 491.66 crore rupees sanctioned for 2025 to 2031 (New Indian Express). These figures come from one report and are not independently confirmed here.",
+   "sources": [
+    {
+     "name": "New Indian Express",
+     "url": "https://www.newindianexpress.com/india/2026/Nov/07/centre-to-use-ai-to-digitise-and-preserve-over-one-crore-ancient-manuscripts"
     }
    ]
   }
