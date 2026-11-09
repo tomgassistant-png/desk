@@ -980,6 +980,10 @@
   "2026-11-08": {
    "intro": "Israel: Herzog picks Gadi Eisenkot to form the next government, with the mandate ceremony at 5 PM today, as Netanyahu shifts to a call for a unity government. A separate note tracks election-interference allegations from all sides; a filed appeal has not been verified, and no effect on the results was shown. Also: Mélenchon's Le Bourget rally; Flávio Bolsonaro tells the Washington Post the electoral court chief is wrong; Quebec cuts off Nemaska Lithium; Israel's defense ministry plans a delegation to Colombia; Starship Flight 15 set for 13 November with a double catch; satellite images of Israeli military roads in south Lebanon; new Land clips from Cyphers; and India's AI manuscript platform.",
    "quiet": "Nothing material on the Carney case, Trenton, Trump and Xi (beyond earlier confirmation that a three-way meeting is under discussion), Greenland, UK breakup politics (a Times feature on the 31 October Glasgow deal only), Israeli data centers, HaShiloach (no new essay), Belle Burden or Marc Andreessen. No new Israeli reaction to EUSM Lebanon and no new Sweida or Israeli Druze development found."
+  },
+  "2026-11-09": {
+   "intro": "Israel: Eisenkot takes the mandate and calls for a national emergency government; Deri leaves the Shas list; the Knesset is sworn in Tuesday. On interference claims, the attorney general says she knows of no evidence that would affect the result, while reports describe a Shin Bet push for a wider investigation; no effect on the results has been shown. Also: Finland prepares to join EUSM Lebanon; Wauquiez seeks one right-wing candidate by Christmas; a Quaest poll on Lula and Flávio Bolsonaro; Trump expects to meet Xi and Putin in Shenzhen; Fine Gael's unity costings; NASA lunar awards for SpaceX; a Bezeq–Adgar data center; and new Land clips from Cyphers.",
+   "quiet": "Nothing material on the Carney case, Trenton, Greenland, Quebec, Colombia and Israel, HaShiloach (no new essay), Belle Burden, Marc Andreessen or non-Latin script digitization. No new Israeli reaction to EUSM Lebanon and no verified Likud appeal filing."
   }
  },
  "items": [
@@ -10381,6 +10385,336 @@
     {
      "name": "Primary: Central Elections Committee, Hebrew final results",
      "url": "https://votes26.bechirot.gov.il/nationalresults?lang=he"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-israel-election-1",
+   "edition": "2026-11-09",
+   "section": "israel-election",
+   "headline": "Eisenkot takes the mandate and calls for a \"national emergency government\"; Deri leaves the Shas Knesset list; Knesset sworn in Tuesday",
+   "lead": "Gadi Eisenkot received the mandate to form a government from President Isaac Herzog on Sunday evening, 8 November, at the President's Residence in Jerusalem ([map](https://www.google.com/maps/search/?api=1&query=31.7698,35.2142)). He has 28 days, with a possible 14-day extension. He spoke of a \"national emergency government\" and of \"creative and unconventional political moves\", said \"we will all need compromises\", and invited Likud and Religious Zionism to back his government if they believe in unity (ynet, Hebrew). ynet reports he does not plan to swear in a government this week.",
+   "text": "Shas chairman Aryeh Deri left the party's Knesset list along with Moshe Abutbul and Dror Amos, and remains party chair; Uriel Busso and Yossi Taieb enter the Knesset in their place (ynet; Hezki Baruch, Arutz 7, on X). Channel 13's Yoeli Brim reported a secret deal between Avigdor Liberman and United Torah Judaism: Housing (for Yaakov Asher) and Interior for UTJ, and an immediate halt to arrests of yeshiva students who do not report for the draft. That is a single-outlet report. Liberman called it \"all lies and fabrications\" (Srugim, citing Channel 13). Asked about Eisenkot on CBS's 60 Minutes, Donald Trump said he and Netanyahu are \"very similar\" (ynet). Itamar Eitam was named faction chair for Religious Zionism (Hezki Baruch on X). The 26th Knesset is sworn in on Tuesday, 10 November ([map](https://www.google.com/maps/search/?api=1&query=31.7765,35.2054)). Arab48, citing Maariv, reports a letter from a forum of 168 former security officials warning that up to 1,500 right-wing activists, some possibly armed, may try to disrupt the ceremony, and that police and the Shin Bet have prepared a special plan. That warning comes from an interested group and has not been confirmed by police. The Central Elections Committee's official results page is unchanged: turnout 77.98%; Likud 27 seats, Yashar! 21, B'Yachad 12, Joint List 11, Democrats 8, Ra'am 8, Yisrael Beytenu 7, Otzma Yehudit 7, UTJ 7, Shas 6, Religious Zionism 6.",
+   "sources": [
+    {
+     "name": "Hebrew: ynet, Eisenkot receives the mandate",
+     "url": "https://www.ynet.co.il/news/article/byagzwrtfg"
+    },
+    {
+     "name": "X: Hezki Baruch (Arutz 7) on the mandate ceremony",
+     "url": "https://x.com/HezkeiB/status/2119446483300712481"
+    },
+    {
+     "name": "Hebrew: ynet, Deri leaves the Shas list",
+     "url": "https://www.ynet.co.il/news/article/b1czfzapgx"
+    },
+    {
+     "name": "X: Hezki Baruch on Shas list changes",
+     "url": "https://x.com/HezkeiB/status/2119438498185023838"
+    },
+    {
+     "name": "Hebrew: Srugim, Channel 13 report on Liberman–UTJ deal",
+     "url": "https://www.srugim.co.il/101015629-כולל-חלוקת-תיקים-ההסכם-החשאי-בין-ליברמן"
+    },
+    {
+     "name": "Hebrew: Srugim, Liberman's denial",
+     "url": "https://www.srugim.co.il/101015635-ליברמן-בתגובה-ראשונה-לדיווחים-נגדו-הכל"
+    },
+    {
+     "name": "Hebrew: ynet, Trump on 60 Minutes",
+     "url": "https://www.ynet.co.il/news/article/hjom7kc6fe"
+    },
+    {
+     "name": "X: Hezki Baruch on Religious Zionism faction chair",
+     "url": "https://x.com/HezkeiB/status/2119509620670505379"
+    },
+    {
+     "name": "Arabic: Arab48, citing Maariv, on the swearing-in warning",
+     "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/08/استنساخ-أحداث-الكابيتول-تحذيرات-من-محاولة-يمينية-لتعطيل-تنصيب-الكنيست"
+    },
+    {
+     "name": "Primary: Central Elections Committee, Hebrew final results",
+     "url": "https://votes26.bechirot.gov.il/nationalresults?lang=he"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-israel-election-interference-watch",
+   "edition": "2026-11-09",
+   "section": "israel-election",
+   "headline": "Interference watch: attorney general says she knows of no evidence that would affect the result; Shin Bet and her office reportedly split on a broad investigation",
+   "lead": "Attorney General Gali Baharav-Miara said on Sunday at a Justice Ministry conference in Eilat ([map](https://www.google.com/maps/search/?api=1&query=29.5569,34.9498)): \"I know of no evidentiary basis that would, even approximately, affect the election result.\" She said only preliminary evidence about \"isolated and limited incidents\" had been presented to her so far, that significant investigative steps had already been approved, and that anyone who should be investigated will be (ynet, Hebrew). This is a statement, not a final finding. No effect on the results has been shown.",
+   "text": "Walla reported on Sunday evening, without naming sources, that the Mossad finished its check and passed its findings to the Shin Bet; that the Shin Bet says there is enough material for a broad investigation and wants it treated as a security case, while the attorney general's office disagrees; that so far there have been only debriefings, with one person questioned and released; and that in a closed forum it was said the information is not enough to cancel the elections or force a repeat vote. The joint Shin Bet and police team is to meet within days and report to the Central Elections Committee chair, Justice Noam Solberg. This is one outlet's report and is unconfirmed. Separately, i24NEWS (Avishai Grinzaig), carried by Srugim and ynet, reported that Shin Bet chief Zini asked to question Joint List chair Yousef Jabareen, as well as Ahmad Tibi, Sami Abu Shehadeh, Mansour Abbas and Ayman Odeh, under caution; that the attorney general agreed there is reasonable suspicion only against Odeh; and that the Shin Bet now estimates the money transferred at \"several million shekels\", down from about 100 million. The Shin Bet did not comment. That is also an unconfirmed report. A request to question someone is not permission, and permission is not an opened case or a finding.",
+   "body": [
+    "Arrest and release. Abed Abu Shehadeh, a journalist and Balad activist from Jaffa ([map](https://www.google.com/maps/search/?api=1&query=32.0443,34.751)), was released on Sunday without significant conditions, before a hearing on extending his detention. The court had allowed four days, not the eight police requested. The suspicion is \"contact with a foreign agent\", linked to his interview with Azmi Bishara; Kan reported he was questioned about turnout and the Arab vote. He called it a \"political arrest\" and a \"witch hunt by the Shin Bet in the service of the prime minister\" (ynet; Arab48). No charge has been filed.",
+    "Claims from the right. National Security Minister Itamar Ben Gvir told Kan Reshet Bet on Sunday that \"they stole elections here\" and that the elections \"were skewed\", called for repeat elections and said Justice Solberg \"was wrong\" (Arutz 7). He presented no findings. No Likud appeal filing was verified for this update; reports still describe preparation. Channel 14 ran a headline quoting Likud's legal adviser as saying \"we see foot-dragging\"; that article was not opened.",
+    "Claims from the left. Haaretz reporter Bar Peleg wrote on X that part of a network of 1,653 fake Twitter accounts posing as Iranians posted \"vote Bibi\" messages on election day; who runs the network is not known. The Haaretz article itself was not opened. FakeReporter, a left-leaning watchdog and an interested party, says it petitioned the Elections Committee with the group Brandeis against those involved; the petition was not seen and no response from the accused was found. FakeReporter also flagged a profile it links to a \"foreign interference network\" posting an AI-made poster in pro-Netanyahu and pro-Ben Gvir Facebook groups (over 200,000 members combined) promoting Tuesday's protest at the Knesset with a hint of violence. These are allegations.",
+    "Results. The official results page is unchanged (Likud 27, Yashar! 21, Joint List 11, Ra'am 8). No change in seats and no demonstrated effect on votes, counting or results has been established."
+   ],
+   "sources": [
+    {
+     "name": "Hebrew: ynet, attorney general in Eilat and Abu Shehadeh release",
+     "url": "https://www.ynet.co.il/news/article/skmo9xc6mg"
+    },
+    {
+     "name": "Hebrew: Walla, Mossad findings and Shin Bet dispute (single source)",
+     "url": "https://www.walla.co.il/news/military/383960587"
+    },
+    {
+     "name": "Hebrew: Srugim, citing i24NEWS, on requests to question MKs",
+     "url": "https://www.srugim.co.il/101015628-דיווח-זיני-ביקש-לחקור-חכ-נוסף-מהמפלגות"
+    },
+    {
+     "name": "Hebrew: ynet, i24NEWS report",
+     "url": "https://www.ynet.co.il/news/article/rk0jbbaafx"
+    },
+    {
+     "name": "Arabic: Arab48, Abu Shehadeh detention",
+     "url": "https://www.arab48.com/محليات/أخبار-محلية/2026/11/08/دعوات-للتظاهر-أمام-محكمة-الصلح-في-تل-أبيب-للمطالبة-بالإفراج-عن-عبد-أبو-شحادة"
+    },
+    {
+     "name": "Hebrew: Arutz 7, Ben Gvir on Kan Reshet Bet",
+     "url": "https://www.inn.co.il/news/710270"
+    },
+    {
+     "name": "X: Bar Peleg (Haaretz) on fake-account network",
+     "url": "https://x.com/i/status/2119326753487298648"
+    },
+    {
+     "name": "X: FakeReporter on its petition (interested party)",
+     "url": "https://x.com/FakeReporter/status/2119352727419383941"
+    },
+    {
+     "name": "X: FakeReporter on the protest poster (interested party)",
+     "url": "https://x.com/FakeReporter/status/2119394538028413115"
+    },
+    {
+     "name": "Ynetnews, 5 November background on the financing allegations",
+     "url": "https://www.ynetnews.com/article/bjjjvttpgg"
+    },
+    {
+     "name": "Primary: Central Elections Committee, Hebrew final results",
+     "url": "https://votes26.bechirot.gov.il/nationalresults?lang=he"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-lebanon-1",
+   "edition": "2026-11-09",
+   "section": "lebanon",
+   "headline": "Finland prepares to join the EU security mission in Lebanon; FakeReporter counts a sharp rise in online attacks on Druze after the election",
+   "lead": "Finland's President and the government's ministerial committee on foreign and security policy said on 6 November that \"Finland is preparing to participate\" in the EU security mission in Lebanon (EUSM) (Finnish government release; Daily Finland). No size or date for a Finnish contribution was given. No new Israeli reaction to the mission was found.",
+   "text": "FakeReporter, a left-leaning watchdog and an interested party, reported on Sunday that negative posts on X about the Druze rose 106% since election day, 27 October, peaking on 30 October with nearly 1,000 hate posts, after reports that the Druze vote for Likud rose from 11% to 16%. The same report counts a 428% rise in posts against Arab society in the two days after the election (Arab48; FakeReporter on X). Its method was not independently checked. Panet reported that the US group Eagles' Wings, led by Robert Stearns, met Druze leaders at the home of MK Afif Abed, including Sheikh Muwaffaq Tarif, Majalli Wahabi, and the heads of the Yarka ([map](https://www.google.com/maps/search/?api=1&query=32.9549,35.2088)) and Abu Snan ([map](https://www.google.com/maps/search/?api=1&query=32.9586,35.1717)) local councils, about humanitarian aid to Sweida in Syria; the delegation said it would raise the issue with US officials and media. From Sweida, Suwayda 24 reported people extorting families of detained National Guard members.",
+   "sources": [
+    {
+     "name": "Finnish government release (via officially.news)",
+     "url": "https://officially.news/p/01a1b06a-a21a-737b-aa0b-9849a9696a25"
+    },
+    {
+     "name": "Daily Finland",
+     "url": "https://www.dailyfinland.fi/national/52153/Finland-prepares-to-join-EUSM-Lebanon"
+    },
+    {
+     "name": "Arabic: Arab48 on the FakeReporter report",
+     "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/08/ارتفاع-كبير-بالتحريض-ضد-المجتمع-العربي-والطائفة-الدرزية-بعد-الانتخابات"
+    },
+    {
+     "name": "X: FakeReporter thread (interested party)",
+     "url": "https://x.com/FakeReporter/status/2119359283444043986"
+    },
+    {
+     "name": "Arabic: Panet on Eagles' Wings meeting",
+     "url": "https://www.panet.com/story/4311229"
+    },
+    {
+     "name": "X: Suwayda 24",
+     "url": "https://x.com/suwayda24/status/2119373103465677308"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-france-election-1",
+   "edition": "2026-11-09",
+   "section": "france-election",
+   "headline": "Wauquiez asks the right's candidates to meet within 15 days and settle on one name before Christmas",
+   "lead": "Laurent Wauquiez said on France Inter and France 2 on Sunday that the right's presidential candidates should meet within 15 days and agree on a single candidate with one program before Christmas, 25 December, preferably through a primary; he excluded Sarah Knafo and Reconquête from that group and rejected an Attal-led program stretching \"from Glucksmann to Retailleau\" (franceinfo; Le JDD, a right-leaning paper).",
+   "text": "La France insoumise deputy Farida Amrani was lightly injured when a firework mortar was fired into a hair salon in Évry-Courcouronnes on Saturday, 7 November; she filed a police complaint (franceinfo). No new national poll was found. On Polymarket on 9 November, Marine Le Pen stood at 45.6% (45.0% a day earlier), David Lisnard 14.8%, Jean-Luc Mélenchon 13.5%, Édouard Philippe 8.5% (down from 9.5%), Christine Lagarde 7.0% and Raphaël Glucksmann 2.5%. Betting prices are not polls.",
+   "sources": [
+    {
+     "name": "French: franceinfo on Wauquiez",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/que-ce-jeu-de-massacre-cesse-laurent-wauquiez-veut-une-rencontre-des-candidats-de-droite-a-la-presidentielle-dans-les-15-jours-pour-aboutir-a-un-seul-nom_8273387.html"
+    },
+    {
+     "name": "French: Le JDD on Wauquiez (right-leaning)",
+     "url": "https://www.lejdd.fr/politique/cela-a-trop-dure-laurent-wauquiez-souhaite-un-candidat-unique-de-la-droite-avant-noel-188157"
+    },
+    {
+     "name": "French: franceinfo on Farida Amrani",
+     "url": "https://www.franceinfo.fr/faits-divers/la-deputee-de-la-france-insoumise-farida-amrani-legerement-blessee-par-un-tir-de-mortier-dans-un-salon-de-coiffure_8273474.html"
+    },
+    {
+     "name": "Polymarket, France presidential election",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-brazil-1",
+   "edition": "2026-11-09",
+   "section": "brazil",
+   "headline": "First Quaest poll after the vote: 48% approve of Lula's government; 56% think Flávio Bolsonaro left Brazil to escape justice",
+   "lead": "A Quaest poll released Sunday (2,004 interviews, 30 October to 2 November, margin of error 2 points) found 48% approve and 44% disapprove of President Lula's government; respondents' top priorities were ending the six-day work week, the tax exemption on basic food items and the minimum wage (G1).",
+   "text": "On Senator Flávio Bolsonaro, 62% disapprove of his move to the United States; 56% think he left to escape justice and 35% say he fled political persecution; 60% reject his self-proclamation; 89% had heard about it (G1). Folha's headline on the same poll says 61% consider the election clean and fair and 30% think it was rigged; the Folha article body could not be read (paywall).",
+   "sources": [
+    {
+     "name": "Portuguese: G1, Lula approval",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-48percent-aprovam-e-44percent-desaprovam-governo-lula-na-primeira-pesquisa-apos-a-eleicao.ghtml"
+    },
+    {
+     "name": "Portuguese: G1, Flávio Bolsonaro",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-56percent-acham-que-flavio-bolsonaro-deixou-o-brasil-apos-as-eleicoes-para-fugir-da-justica.ghtml"
+    },
+    {
+     "name": "Portuguese: Folha (headline only)",
+     "url": "https://www1.folha.uol.com.br/poder/2026/11/quaest-61-dizem-que-eleicoes-foram-limpas-e-justas-30-fraudadas.shtml"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-trump-and-xi-1",
+   "edition": "2026-11-09",
+   "section": "trump-and-xi",
+   "headline": "Trump says he thinks he will meet Xi and Putin at the APEC summit in Shenzhen on 18–19 November",
+   "lead": "Speaking in Florida on Sunday, Trump said he thinks he will meet Xi Jinping and Vladimir Putin at the APEC summit in Shenzhen, China, on 18–19 November, to discuss \"denuclearization\" and ending the war in Iran (Reuters via the Straits Times; Hindustan Times).",
+   "text": "Trump also told CBS's 60 Minutes he is \"very close\" to a Russia–Ukraine deal. Neither Beijing nor Moscow had confirmed a three-way meeting in the reports read; no Chinese-language source was checked for this update.",
+   "sources": [
+    {
+     "name": "Straits Times (Reuters)",
+     "url": "https://www.straitstimes.com/world/united-states/trump-thinks-he-will-meet-xi-and-putin-at-china-apec-summit"
+    },
+    {
+     "name": "Hindustan Times",
+     "url": "https://www.hindustantimes.com/world-news/trump-says-he-thinks-he-will-meet-with-xi-putin-at-apec-summit-in-china-101794185002081.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-uk-breakup-politics-1",
+   "edition": "2026-11-09",
+   "section": "uk-breakup-politics",
+   "headline": "Fine Gael publishes an Irish unity plan: first-year cost between €3.2 billion and €25 billion",
+   "lead": "At its party conference in Cork, Fine Gael published a plan for Irish unity estimating a first-year cost of €3.2 billion to €25 billion, depending on how unification is designed and whether the UK keeps pension and debt obligations, rising to €41.2 billion in year 25 under the worst case (BBC; Irish News/PA).",
+   "text": "The plan, based on research by economist Stephen Kinsella modeling four options, proposes a junior minister for North–South relations and a sovereign wealth fund. Tánaiste Simon Harris said not planning \"isn't a sustainable policy\". Taoiseach Micheál Martin separately proposed a \"Future Studies Initiative\" looking at three constitutional models (BBC). The Fine Gael document itself could not be opened (HTTP 403).",
+   "sources": [
+    {
+     "name": "BBC",
+     "url": "https://www.bbc.com/news/articles/cw8rz73md08vo"
+    },
+    {
+     "name": "Irish News (PA)",
+     "url": "https://www.irishnews.com/news/northern-ireland/unity-could-cost-up-to-25-billion-in-year-one-fine-gael-blueprint-says-NWGF7YZLLBBZDFSO5GHQUOHB2A/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-spacex-xai-and-cursor-1",
+   "edition": "2026-11-09",
+   "section": "spacex-xai-and-cursor",
+   "headline": "NASA picks SpaceX among eight companies for a $10 billion Moon delivery contract and to launch lunar communications satellites on Starship",
+   "lead": "NASA announced on 7 November at Kennedy Space Center that eight companies, including SpaceX, were selected for the second Commercial Lunar Payload Services contract (CLPS 2), with a combined maximum of $10 billion over 10 years; that is a ceiling, not money paid. SpaceX was also chosen to launch lunar communications satellites on Starship in 2028 (NASA; Payload).",
+   "text": "NASA raised the first CLPS contract's ceiling from $2.6 billion to $4.2 billion, awarded about $1.3 billion in lunar rover task orders to Arrow, Blue Origin and Impulse, and gave Blue Origin $94 million (with a $140 million option) to deliver a nuclear-powered rover, PROMISE, launching in late 2028. No new entries appeared on the Grok Bot changelog (latest 27 October) or the Cursor changelog (latest 6 November, Voice Chat).",
+   "sources": [
+    {
+     "name": "NASA news release",
+     "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+    },
+    {
+     "name": "Payload",
+     "url": "https://payloadspace.com/nasa-unveils-moon-base-awards-at-max-power/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-israeli-data-centers-1",
+   "edition": "2026-11-09",
+   "section": "israeli-data-centers",
+   "headline": "Bezeq and Adgar plan a 450 million shekel underground data center in Petah Tikva",
+   "lead": "Bezeq, Bezeq International and the real-estate firm Adgar signed a nonbinding memorandum on 5 November to build an underground data center of about 14,000 square meters with 16 megawatts of initial power in the Kiryat Arye industrial zone of Petah Tikva ([map](https://www.google.com/maps/search/?api=1&query=32.0968,34.8557)) (map point is the industrial zone, not the exact site), with commercial operation planned for 2028 (Globes; Bizportal; People & Computers).",
+   "text": "Each side is to invest 200 to 250 million shekels and share revenue equally; Adgar provides the land, building and a firm 16-megawatt grid connection, and Bezeq buys equipment and runs operations. The parties have 90 days of exclusivity to sign a detailed deal. Bezeq expects 50 to 80 million shekels a year in revenue once the site fills (Globes). The site is planned to Tier 3 standard, with a term of 24 years and 11 months (People & Computers).",
+   "sources": [
+    {
+     "name": "Hebrew: Globes",
+     "url": "https://www.globes.co.il/news/article.aspx?did=1001562175"
+    },
+    {
+     "name": "Hebrew: Bizportal",
+     "url": "https://www.bizportal.co.il/energy/news/article/20047435"
+    },
+    {
+     "name": "Hebrew: People & Computers",
+     "url": "https://www.pc.co.il/news/datacenter/460933/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-09-cypherboria-1",
+   "edition": "2026-11-09",
+   "section": "cypherboria",
+   "headline": "Cyphers posts Land clips on Gnostic Calvinism and English Qabbala and lays out 2027 plans; Net Void sets a Lovecraft stream",
+   "lead": "Cyphers posted two more cuts from its Nick Land interview on 8 November: Land on the \"Techno Political Conspiracy,\" Gnostic Calvinism and AI, and Land on why he focuses on English Qabbala, both linking to the full session on YouTube (X @CyphersNews).",
+   "text": "Cyphers also listed its plans for 2027: rebuilding its site as a social network, streetwear merchandise, a textbook-style numbers almanac, a documentary on gematria, online and in-person events, and AI film adaptations, tagging Net Void, Phythagram and resonatingloop; resonatingloop replied that Phythagram is doing the designs for the first merchandise release. Net Void announced her next stream on H.P. Lovecraft, the Necronomicon and CCRU lore; her account is protected, so her links may not open for others. @patallax posted a nine-minute video it describes as a Land presentation from about 2015; the event is not identified and is unconfirmed. Doomcrypt posted a passage it attributes to Land's Crypto-Current. resonatingloop is building an AI agent swarm for an Apart Research sprint and began posting analyses of her AI conversations. Ryan Haecker announced a Methexis Institute seminar, \"Contra Strauss: Theological Political Problem\", online and in Austin on 9–10 January. Land and Aleksandr Dugin traded jabs on X over the Catturd account. Nothing new from Phythagram's own account, Mortal Series, D.W. Pasulka, Jacques Vallée, Truth Is Christ or Retrochronic (still 199 sources).",
+   "sources": [
+    {
+     "name": "X: Cyphers, Land on Gnostic Calvinism and AI",
+     "url": "https://x.com/CyphersNews/status/2119406209979777252"
+    },
+    {
+     "name": "X: Cyphers, Land on English Qabbala",
+     "url": "https://x.com/CyphersNews/status/2119528958777544714"
+    },
+    {
+     "name": "YouTube: full Nick Land x Fans interview",
+     "url": "https://www.youtube.com/watch?v=fSMdsn8FLts"
+    },
+    {
+     "name": "X: Cyphers 2027 plans",
+     "url": "https://x.com/CyphersNews/status/2119602204835487807"
+    },
+    {
+     "name": "X: resonatingloop on the merchandise designs",
+     "url": "https://x.com/resonatingloop/status/2119609761255784519"
+    },
+    {
+     "name": "X: Net Void stream announcement (protected account)",
+     "url": "https://x.com/Net__Void/status/2119484381769109891"
+    },
+    {
+     "name": "X: patallax, Land presentation video (unconfirmed date)",
+     "url": "https://x.com/i/status/2119363583397986396"
+    },
+    {
+     "name": "X: Doomcrypt",
+     "url": "https://x.com/doomcrypt/status/2119494816337908159"
+    },
+    {
+     "name": "X: resonatingloop swarm sprint",
+     "url": "https://x.com/resonatingloop/status/2119461348501569785"
+    },
+    {
+     "name": "X: resonatingloop conversation analyses",
+     "url": "https://x.com/resonatingloop/status/2119611670314287511"
+    },
+    {
+     "name": "X: Ryan Haecker on the Methexis seminar",
+     "url": "https://x.com/RyanHaecker/status/2119466073225670835"
+    },
+    {
+     "name": "Eventbrite: Contra Strauss seminar",
+     "url": "https://www.eventbrite.com/e/contra-strauss-theological-political-problem-methexis-institute-seminar-tickets-2002753157607"
+    },
+    {
+     "name": "X: Land's reply to Dugin",
+     "url": "https://x.com/xenocosmography/status/2119030312500146644"
     }
    ]
   }

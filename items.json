@@ -4,6 +4,340 @@
   "latest_count": 17,
   "items": [
     {
+      "id": "2026-11-09-attacks-jsr-five-incidents-104-stonings",
+      "section": "attacks",
+      "lead": true,
+      "highlight": true,
+      "headline": "Five attacks on Israelis in one day, by the Situation Room's count: stones at Karnei Shomron, Barta'a junction twice and Allenby Bridge, and a truck runs over a farm's flock",
+      "summary": "The Yesha Council's Judea and Samaria Situation Room (JSR) logged five incidents on Sunday, 8 Nov. At about 9:40 AM stones hit a car near the Karnei Shomron roundabout, cracking the windshield. Minutes later a car was stoned at Barta'a junction on the seam line in northern Samaria, again with windshield damage and no one hurt. JSR called these the 103rd and 104th stone attacks in Judea and Samaria in the past 30 days. At about 11:15 AM JSR reported that an Arab truck ran over sheep and a dog belonging to HaMakoch farm in Binyamin, and later posted a photo of the dog. In the evening, stones were thrown from a passing car at an Israeli car at the Allenby Bridge junction in the Jordan Valley (windshield damaged; JSR's 22nd stoning in seven days), and at an Israeli motorcyclist between Harish and Barta'a junction (no injuries or damage) (<a href=\"https://x.com/JSR_HEB/status/2119334380606722095\">JSR, Karnei Shomron</a>; <a href=\"https://x.com/JSR_HEB/status/2119335693717582162\">JSR, Barta'a</a>; <a href=\"https://x.com/JSR_HEB/status/2119357896093737255\">JSR, HaMakoch farm</a>; <a href=\"https://x.com/JSR_HEB/status/2119506734129541545\">JSR, Allenby</a>; <a href=\"https://x.com/JSR_HEB/status/2119511202699042980\">JSR, motorcyclist</a>). JNS Hebrew reporter Netanel Frankel republished the day's list and noted that none of the morning stonings were reported by the news media; Olam Katan's Simcha Raz carried the Barta'a report (<a href=\"https://x.com/Netanelfr/status/2119526592997429594\">Netanel Frankel</a>; <a href=\"https://x.com/simkha0404/status/2119342054689943906\">Simcha Raz</a>). These are JSR's own reports. No police or IDF statement on them was found, and the 30-day count is JSR's figure (unconfirmed). The farm incident gives no details on whether the truck hit the animals on purpose.",
+      "source": "JSR Situation Room / Netanel Frankel (JNS Hebrew)",
+      "date": "2026-11-08",
+      "url": "https://x.com/Netanelfr/status/2119526592997429594",
+      "places": [
+        {
+          "name": "Karnei Shomron",
+          "lat": 32.171,
+          "lon": 35.0892,
+          "note": "Nominatim (town point; the roundabout itself is not plotted)"
+        },
+        {
+          "name": "Barta'a junction",
+          "lat": 32.492393,
+          "lon": 35.078143,
+          "note": "OSM point named Barta'a junction; OSM has several, so approximate"
+        },
+        {
+          "name": "Harish",
+          "lat": 32.45964,
+          "lon": 35.0510843,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Allenby Bridge",
+          "lat": 31.8744698,
+          "lon": 35.5407286,
+          "note": "Nominatim (bridge point; the junction is nearby, approximate)"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-attacks-abu-falah-shepherd",
+      "section": "attacks",
+      "headline": "Elisha Yered: men from Abu Falah beat a Jewish shepherd with clubs; a resident's finger likely broken by stones",
+      "summary": "Settlement activist Elisha Yered reported that on Sunday afternoon men from the village of Abu Falah, northeast of Ramallah, drove up in a Ford pickup, hit a Jewish shepherd from a nearby hilltop community with clubs and tried to grab his phone. Residents who ran down from the hill drove them back to the edge of the village. He says the attackers then called others and threw stones, likely breaking one resident's finger, and fled into the village when the army arrived. No arrests were reported (<a href=\"https://x.com/ElishaYered/status/2119412702766395779\">Elisha Yered, with video</a>). The Hadashot Israel news channel relayed the same account (<a href=\"https://newsrael.co.il/a/xa1000291/\">Newsrael</a>), but that is not an independent source. No IDF or police statement was found, so the details are Yered's account (unconfirmed).",
+      "source": "Elisha Yered",
+      "date": "2026-11-08",
+      "url": "https://x.com/ElishaYered/status/2119412702766395779",
+      "places": [
+        {
+          "name": "Abu Falah",
+          "lat": 32.0166595,
+          "lon": 35.2998308,
+          "note": "Nominatim (village point; the hilltop community is not named)"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-pa-nablus-governor-zubeidi",
+      "section": "pa",
+      "highlight": true,
+      "headline": "PA's Nablus governor joins a campus event for Zakaria Zubeidi and, per JSR, calls him \"the national leader\"",
+      "summary": "On Sunday, Fatah's student wing hosted Zakaria Zubeidi at An-Najah National University in Nablus for a talk titled \"A nation's story, told by the memory of the struggle.\" Zubeidi, the former head of the al-Aqsa Martyrs' Brigades in Jenin, was freed in the January 2025 prisoner exchange and now sits on Fatah's Central Committee. Fatah's own commission confirms that the PA governor of Nablus attended, along with former PA prime minister Rami Hamdallah (vice chairman of the university's board of trustees) and the university president. The event opened with a short film on Zubeidi's \"struggle\" (<a href=\"https://www.fatehwatan.ps/page-198121.html\">Fatah National Relations Commission, Arabic</a>). JSR reports that governor Ghassan Daghlas then posted that Zubeidi is \"the national leader,\" praising his \"path of struggle full of sacrifice\" and saying such meetings pass \"national memory\" to the young. JSR describes Zubeidi as convicted of murdering five Israelis (<a href=\"https://x.com/JSR_HEB/status/2119440609979015567\">JSR</a>). Daghlas's post itself was not found, so the quotes are JSR's account (unconfirmed). The Fatah page gives the governor's first name as Bassam; the governor appointed in 2024 is Ghassan Daghlas.",
+      "source": "JSR Situation Room / Fatah commission",
+      "date": "2026-11-08",
+      "url": "https://www.fatehwatan.ps/page-198121.html",
+      "places": [
+        {
+          "name": "An-Najah National University (new campus), Nablus",
+          "lat": 32.2280769,
+          "lon": 35.2222528,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-pa-bethlehem-family-returned",
+      "section": "pa",
+      "headline": "Jerusalem couple and their baby enter Bethlehem by mistake; PA police find them and hand them over",
+      "summary": "On Thursday evening a father from Jerusalem called the police emergency line to say he had entered Area A by mistake with his wife and their one-year-old son. Through coordination between Israeli forces and the Palestinian police, Palestinian officers found the three near a hotel in Bethlehem and handed them, unharmed, to Israeli forces, Israel Hayom's Yotam Deshe reported. They were taken to the Etzion police station. The parents, 41 and 34, were questioned for entering a closed area (Israeli law bars Israelis from Area A) and released under restrictions (<a href=\"https://x.com/Yotamdeshe97/status/2119408549390389581\">Yotam Deshe, Israel Hayom</a>). Olam Katan's Simcha Raz, citing the police spokesman, adds that they entered together with tourists (<a href=\"https://x.com/simkha0404/status/2119407999772987412\">Simcha Raz</a>).",
+      "source": "Israel Hayom (Yotam Deshe) / Olam Katan",
+      "date": "2026-11-05",
+      "url": "https://x.com/Yotamdeshe97/status/2119408549390389581",
+      "places": [
+        {
+          "name": "Bethlehem",
+          "lat": 31.7071194,
+          "lon": 35.2066104,
+          "note": "Nominatim (city point; the hotel is not named)"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-pa-yered-notice-followup",
+      "section": "pa",
+      "headline": "Yered: PA forces will still be told of routine patrols, which he calls a danger to troops; IDF says weapons seizures are up since the change",
+      "summary": "Following up on Central Command's order to stop warning PA security forces before raids, Elisha Yered says the IDF is now claiming there was never a formal procedure, only units on the ground who over the years began telling the PA even about sensitive operations, and that orders were merely \"sharpened.\" He calls that \"a gross lie.\" Central Command says there will be no advance notice before arrests and weapons searches, but the PA will still be told about patrols in villages that are not based on precise intelligence. Yered says this rules out stumbling on terror activity by chance and exposes troops to ambushes by crowds (<a href=\"https://x.com/ElishaYered/status/2119482562510787004\">Elisha Yered</a>). In an interview with HaKol HaYehudi, Yered says the PA forces used to pass the warnings straight to terrorists, who spread them on Arab Telegram channels. HaKol HaYehudi reports that the IDF says the amount of weapons seized has risen since the decision (<a href=\"https://x.com/hakolhayehudi/status/2119530180586684659\">HaKol HaYehudi</a>). The IDF figure was not published elsewhere (unconfirmed). Background: the IDF's account to Olam Katan was in the 8 Nov edition.",
+      "source": "Elisha Yered / HaKol HaYehudi",
+      "date": "2026-11-08",
+      "url": "https://x.com/ElishaYered/status/2119482562510787004",
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-idf-98th-division-leaves",
+      "section": "idf",
+      "highlight": true,
+      "headline": "98th Division hands Judea and Etzion brigades back after six weeks: 1,500 operations, more than 140 arrests, about 35 weapons",
+      "summary": "The headquarters of the 98th Division finished its command of the Judea and Etzion regional brigades on Sunday and returns to General Staff reserve. It took over on 25 Sept to strengthen command in the southern part of Judea and Samaria, without bringing its own combat units. The IDF says the brigades under it carried out more than 1,500 counterterror operations, arrested more than 140 suspects and found about 35 weapons. During this period Staff Sgt. Ron Yonatan Roitman and Sgt. Yuval Shai Soilam were killed in a shootout with terrorists; the IDF says they prevented a serious attack. The division also secured the hundreds of thousands who visited the Cave of the Patriarchs over Sukkot and the Chayei Sarah weekend (<a href=\"https://www.okn.co.il/security/77745/\">Olam Katan</a>; <a href=\"https://www.maariv.co.il/breaking-news/article-1386315\">Maariv</a>; <a href=\"https://x.com/manniefabian/status/2119450399115444623\">Emanuel Fabian, Times of Israel</a>). For contrast, a 7 Nov Haaretz English headline said the Hebron raid forced 3,300 Palestinians from their homes and found four guns; the IDF's 35 weapons cover the whole six-week period across both brigades (the Haaretz article itself was not read).",
+      "source": "IDF via Olam Katan / Maariv / Times of Israel",
+      "date": "2026-11-08",
+      "url": "https://www.okn.co.il/security/77745/",
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-attacks-zababdeh-qalqilya-nablus-arms",
+      "section": "attacks",
+      "headline": "Troops shoot a man about to throw a firebomb at Zababdeh; stone-throwers shot in Qalqilya; M16 and stun grenade seized in Nablus",
+      "summary": "On Sunday evening, troops of the Menashe Brigade working in Zababdeh, near Jenin, spotted a man holding a firebomb who was about to throw it at them. They opened fire and the IDF reported a hit; no soldiers were hurt (<a href=\"https://www.ynet.co.il/news/article/r12g0oc6zg\">Ynet</a>; <a href=\"https://www.inn.co.il/flashes/1140067\">Arutz 7</a>). On Saturday night, troops in Qalqilya fired at several Palestinians who threw stones at them, also reporting a hit (<a href=\"https://www.jns.org/news/israel-news/idf-troops-fire-at-palestinian-terrorists-in-western-samaria\">JNS</a>). Over the weekend the Israel Prison Service's Yamar unit, with Samaria Brigade troops and the Shin Bet, acted on intelligence about arms trading and smuggling in Nablus. With a sniffer dog they found an M16 rifle, a pistol, an IDF stun grenade, weapon parts and about 9,000 shekels, and arrested two suspects (<a href=\"https://www.okn.co.il/security/77567/\">Olam Katan</a>). The Nablus seizure has one source so far.",
+      "source": "Ynet / Arutz 7 / JNS / Olam Katan",
+      "date": "2026-11-08",
+      "url": "https://www.ynet.co.il/news/article/r12g0oc6zg",
+      "places": [
+        {
+          "name": "Zababdeh",
+          "lat": 32.3861015,
+          "lon": 35.3248381,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Qalqilya",
+          "lat": 32.1881,
+          "lon": 34.9679
+        },
+        {
+          "name": "Nablus",
+          "lat": 32.2205,
+          "lon": 35.2569,
+          "note": "Nominatim (city point; the site is not named)"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-attacks-a-tur-car-at-police",
+      "section": "attacks",
+      "headline": "Driver speeds at Ma'ale Adumim detectives at an East Jerusalem roadblock; police fire in the air and arrest him",
+      "summary": "On Sunday evening, detectives from the Ma'ale Adumim police station set up a roadblock in a-Tur in East Jerusalem and signaled a suspicious car to stop. Police say the driver ignored them and sped toward them. Feeling their lives were in danger, they fired in the air. No one was hurt, and the driver was arrested and taken for questioning (<a href=\"https://www.srugim.co.il/101015639-חשוד-האיץ-לעבר-שוטרים-במזרח-ירושלים\">Srugim</a>; <a href=\"https://www.maariv.co.il/breaking-news/article-1386399\">Maariv</a>). An early report by Channel 14's Hallel Bitton Rosen said police hit several suspects, and a follow-up said the car carried illegal entrants from Issawiya and the driver probably got away (<a href=\"https://x.com/BittonRosen/status/2119508194762322176\">Bitton Rosen</a>; <a href=\"https://x.com/BittonRosen/status/2119510098045280420\">follow-up</a>). The police statement, issued later, says there were no injuries and the driver was caught.",
+      "source": "Israel Police via Srugim / Maariv",
+      "date": "2026-11-08",
+      "url": "https://www.maariv.co.il/breaking-news/article-1386399",
+      "places": [
+        {
+          "name": "A-Tur, Jerusalem",
+          "lat": 31.7813,
+          "lon": 35.2493,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-land-dagan-czechia",
+      "section": "land",
+      "headline": "Samaria council head Yossi Dagan recruits Czech allies against new EU sanctions; a ruling-party leader backs sovereignty",
+      "summary": "Samaria Regional Council head Yossi Dagan finished several days of meetings in Prague with Czech government and parliament figures, aimed at blocking further EU sanctions on Judea and Samaria, Israel Hayom's Yotam Deshe reported first. EU foreign-policy sanctions need a unanimous vote, so one government's objection can stop a new decision (<a href=\"https://x.com/Yotamdeshe97/status/2119397568631156974\">Yotam Deshe, Israel Hayom</a>). Dagan met Health and Sports Minister Boris Šťastný and Ondřej Knotek, head of the Czech ruling party's delegation in the European Parliament. Both voiced support for Israeli sovereignty in the area, according to the Samaria council. Knotek said in a joint video that \"Europe needs to support and strengthen Judea and Samaria.\" Dagan told them the country is about 70 km wide from the sea to the Jordan, about 55 km of it in Samaria. The trip follows his three visits to Slovenia in the past half year, after Prime Minister Janez Janša's government dropped its ban on goods from Judea and Samaria (<a href=\"https://www.okn.co.il/politics/77652/\">Olam Katan</a>). The officials' support comes from the council's account and the joint video; no Czech government statement was found.",
+      "source": "Israel Hayom (Yotam Deshe) / Olam Katan",
+      "date": "2026-11-08",
+      "url": "https://www.okn.co.il/politics/77652/",
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-land-binyamin-amia-memorial",
+      "section": "land",
+      "headline": "Binyamin to build a memorial to the 85 killed in the 1994 AMIA bombing in Buenos Aires",
+      "summary": "Binyamin Regional Council head and Yesha Council chairman Israel Ganz visited the AMIA Jewish community center in Buenos Aires and agreed with its president, Osvaldo Armoza, to build a memorial in Binyamin to the 85 people killed in the 18 July 1994 bombing, which is blamed on Hezbollah and Iran. Two stones from the original building are kept at the new center, and planners are looking at working an element linked to them into the memorial. \"Iran, Hezbollah and Israel's enemies keep trying to harm Jews... our answer has not changed: we will keep building and settling,\" Ganz said. The trip also included a meeting with President Javier Milei (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/77641/\">Olam Katan</a>). Single source so far; no site or date for the memorial was given.",
+      "source": "Olam Katan",
+      "date": "2026-11-08",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/77641/",
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-idf-foreign-activists-deported",
+      "section": "idf",
+      "headline": "14 foreign activists held at Ras Karkar face deportation; police say they came to provoke clashes",
+      "summary": "Police said on Sunday that 14 foreigners arrested with three Palestinians near Ras Karkar, west of Ramallah, during an olive-harvest confrontation on Friday were handed to the Population and Immigration Authority for deportation hearings. Police say the questioning raised suspicion that they came to stir up provocations and clashes for anti-Israel media campaigns, and that some support the BDS boycott movement. The three Palestinians are still under investigation (<a href=\"https://www.jns.org/news/israel-news/14-foreign-nationals-face-deportation-after-arrests-in-samaria\">JNS, citing Israel Police</a>; <a href=\"https://x.com/ElishaYered/status/2119307240364519778\">Elisha Yered</a>). Ultra Palestine says the group holds Italian, German, Canadian and U.S. passports and includes two journalists, and counts 28 foreign activists deported in a week, after 14 picked up at al-Lubban al-Gharbiya (<a href=\"https://ultrapal.ultrasawt.com/%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%AA%D8%B1%D8%AD%D9%8A%D9%84-28-%D9%85%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%8B%D8%A7-%D8%A3%D8%AC%D9%86%D8%A8%D9%8A%D9%8B%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9/%D8%A7%D9%84%D8%AA%D8%B1%D8%A7-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1\">Ultra Palestine, Arabic</a>). The nationalities and the 28 figure are Palestinian-side details (unconfirmed).",
+      "source": "Israel Police via JNS / Ultra Palestine",
+      "date": "2026-11-08",
+      "url": "https://www.jns.org/news/israel-news/14-foreign-nationals-face-deportation-after-arrests-in-samaria",
+      "places": [
+        {
+          "name": "Ras Karkar",
+          "lat": 31.9423436,
+          "lon": 35.1043549,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-idf-beita-homes-rebuilt",
+      "section": "idf",
+      "headline": "Abu Ali Express: Beita terrorists' homes back up a week and a half after the IDF blew them up",
+      "summary": "The Abu Ali Express Telegram channel reported on Sunday that in Beita, near Nablus, the homes of terrorists Ibrahim and Zakaria Daoud have been rebuilt since the IDF blew them up about a week and a half ago, and said this undercuts the point of the demolitions (<a href=\"https://t.me/s/abualiexpress\">Abu Ali Express</a>). Al Jazeera's Arabic site reported on 5 Nov that about 1,000 people from Beita and nearby villages, bringing sand, cement and steel, finished repairing four neighboring homes damaged in the 28 Oct demolition \"within a few days.\" One resident told it, \"In Beita, building is faster than demolition\" (<a href=\"https://www.aljazeera.net/politics/2026/11/5/%d9%81%d8%b2%d8%b9%d8%a9-%d8%a3%d9%87%d8%a7%d9%84%d9%8a-%d8%a8%d9%8a%d8%aa%d8%a7-%d8%aa%d8%b1%d9%85%d9%8a%d9%85-%d9%85%d9%86%d8%a7%d8%b2%d9%84-%d9%87%d8%af%d9%85-%d9%86%d8%a7%d8%a8%d9%84%d8%b3\">Al Jazeera, Arabic</a>). The two accounts differ: Al Jazeera speaks of the neighbors' homes, and says Israel bars rebuilding the demolished homes themselves. No IDF response was found.",
+      "source": "Abu Ali Express / Al Jazeera",
+      "date": "2026-11-08",
+      "url": "https://www.aljazeera.net/politics/2026/11/5/%d9%81%d8%b2%d8%b9%d8%a9-%d8%a3%d9%87%d8%a7%d9%84%d9%8a-%d8%a8%d9%8a%d8%aa%d8%a7-%d8%aa%d8%b1%d9%85%d9%8a%d9%85-%d9%85%d9%86%d8%a7%d8%b2%d9%84-%d9%87%d8%af%d9%85-%d9%86%d8%a7%d8%a8%d9%84%d8%b3",
+      "places": [
+        {
+          "name": "Beita",
+          "lat": 32.1423,
+          "lon": 35.2857
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-negev-lod-brawl",
+      "section": "negev",
+      "headline": "Brawl between Jewish and Arab residents in Lod after a right-wing \"governance tour\"; 11 arrested, police deny a stabbing",
+      "summary": "On Sunday evening right-wing activist Mordechai David, who campaigned for Itamar Ben-Gvir, brought a group to Arab neighborhoods of Lod, saying in an Instagram video that \"after the Arabs regularly attack Jews in Lod, we came to do a governance tour.\" Mayor Yair Revivo says the outside group drew about 20 local teens. After police broke it up, the teens shouted insults outside Arab homes, Arab residents came out, and a brawl left several hurt. Police arrested 11 people, Jews and Arabs, including minors and a woman, and said that, contrary to rumors, no stabbing took place (<a href=\"https://www.ynet.co.il/news/article/sy786wcpfl\">Ynet</a>; <a href=\"https://www.israelhayom.co.il/israelnow/article/21809422\">Israel Hayom</a>; <a href=\"https://www.ynetnews.com/article/rk00sicc6fg\">Ynetnews</a>). Revivo, who has kept the city relatively calm since the May 2021 riots, said he had asked the Shin Bet chief to prepare for possible escalation, and condemned provocation, threats with knives and taking the law into one's own hands \"not by Jews and not by Arabs.\" The claim of regular attacks on Jews in Lod is David's; the reports give no figures.",
+      "source": "Ynet / Israel Hayom",
+      "date": "2026-11-08",
+      "url": "https://www.ynet.co.il/news/article/sy786wcpfl",
+      "places": [
+        {
+          "name": "Lod",
+          "lat": 31.9489,
+          "lon": 34.8885,
+          "note": "Nominatim (city center)"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-negev-ad-kan-vote-buying",
+      "section": "negev",
+      "headline": "Ad Kan report: cash envelopes, fuel cards and ballot tracking at Arab and Bedouin polling stations; Attorney General sees no effect on the result",
+      "summary": "The anti-racket group Ad Kan published a 32-page preliminary report based on 488 statements from observers and polling-station staff and 20 interviews in Arab and Bedouin society and the Islamic Movement. It describes cash envelopes, fuel cards, demands that voters photograph their ballots, threats against staff, and unauthorized desks recording voters' ID numbers. Among its examples: at al-Hikma school in Rahat a committee member says he was offered 400 shekels in fuel cards, then 600 in cash, to vote for the Joint List. Others are from al-Atawna school in Hura, Kafr Qara, Tamra and Abu Ghosh. The report cites the Shin Bet telling the Central Elections Committee of a phenomenon \"exceeding thousands of people\" (<a href=\"https://www.okn.co.il/news/77614/\">Olam Katan</a>). Attorney General Gali Baharav-Miara said on Sunday she knows of no evidence that comes \"even close\" to affecting the election result (<a href=\"https://www.srugim.co.il/101015603-לפני-סיום-החקירה-היועמשית-קובעת-שלא-היה\">Srugim</a>). Ad Kan's findings are its own claims; the Shin Bet quote comes through its report.",
+      "source": "Olam Katan (Ad Kan report) / Srugim",
+      "date": "2026-11-08",
+      "url": "https://www.okn.co.il/news/77614/",
+      "places": [
+        {
+          "name": "Rahat",
+          "lat": 31.3933637,
+          "lon": 34.7546784,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Hura",
+          "lat": 31.2985667,
+          "lon": 34.926782,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Kafr Qara",
+          "lat": 32.5029914,
+          "lon": 35.0504995,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Tamra",
+          "lat": 32.8534876,
+          "lon": 35.1978748,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-negev-abu-shehadeh-released",
+      "section": "negev",
+      "headline": "Balad activist Abd Abu Shehadeh freed after five days; Shin Bet chief sought to question all Arab party heads",
+      "summary": "Media figure and Balad activist Abd Abu Shehadeh, a relative of Balad chairman Sami Abu Shehadeh, was released Sunday without restrictions after five days in custody, since police and the Shin Bet did not ask to extend it. He was held on suspicion of contact with a foreign agent and of involvement in the election-bribery affair; the background is an interview he did in Qatar with former MK Azmi Bishara for Al Jazeera (<a href=\"https://www.okn.co.il/news/77560/\">Olam Katan</a>). Kan and Haaretz report, citing a source, that his questioning focused on his political views (headlines only; articles not read). i24News reports that Shin Bet chief David Zini also asked to question Joint List chairman Yousef Jabareen, so that he has sought warning-status questioning of all Arab party heads. The Attorney General agreed there is reasonable suspicion only against Ayman Odeh (<a href=\"https://www.srugim.co.il/101015628-דיווח-זיני-ביקש-לחקור-חכ-נוסף-מהמפלגות\">Srugim</a>). Writer Meir Ettinger mocked reporters who cover the \"Qatargate\" affair all day and then present the Qatar trip as just a press interview with Bishara (<a href=\"https://x.com/meiretingr/status/2119550944027333075\">Meir Ettinger</a>).",
+      "source": "Olam Katan / Srugim (i24News)",
+      "date": "2026-11-08",
+      "url": "https://www.okn.co.il/news/77560/",
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-negev-arab-party-statements",
+      "section": "negev",
+      "headline": "Joint List's number 3 on Hamas: \"international law allows resistance\"; Abbas cites Darwish as his model",
+      "summary": "Channel 14 aired Fatan Ratas, number 3 on the Joint List and, it says, a member of a Health Ministry council, saying \"there was never an occupation in the world without resistance; international law allows an occupied people to resist the occupier.\" Channel 14's Arab-affairs head Omri Haim asked whether Gadi Eisenkot would form a government with help from such a figure (<a href=\"https://x.com/HaimOmri/status/2119503592201564349\">Omri Haim, Channel 14</a>). Ra'am chairman Mansour Abbas told Al-Arabiya that his list holds both \"our Israeli citizenship and our Palestinian nationalism\" and presented his \"Bridges of Reconciliation and Peace\" plan for two states based on the Arab Peace Initiative (<a href=\"https://www.okn.co.il/news/77607/\">Olam Katan</a>). Researcher Moran Tal points out that Abbas told President Herzog he follows Islamic Movement founder Abdullah Nimr Darwish, and posts material from Darwish's last movement conference (<a href=\"https://x.com/MoranT555/status/2119328461906993190\">Moran Tal</a>). Activist Ayelet Lash argues that since about 99 percent of Arab voters chose lists that will not call Hamas a terror group, Jews should not be expected to trust Arab medical staff the state will not draft into the army (<a href=\"https://x.com/ayeletlash9/status/2119513413592187305\">Ayelet Lash</a>). These are statements and opinions; the Ratas quote is from Channel 14's clip, and the 99 percent figure is hers.",
+      "source": "Channel 14 (Omri Haim) / Olam Katan / Moran Tal / Ayelet Lash",
+      "date": "2026-11-08",
+      "url": "https://x.com/HaimOmri/status/2119503592201564349",
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
+      "id": "2026-11-09-land-friedman-channel18-series",
+      "section": "land",
+      "headline": "David Friedman launches a Channel 18 series challenging \"settler violence\" claims",
+      "summary": "Former U.S. ambassador David Friedman says his Channel 18 Israel will put out a lot of content over the coming weeks \"exploring, and ultimately exposing the myth, of 'settler violence,'\" starting with his own introduction and what he took away from reporting in Judea and Samaria. He calls it \"something that almost never gets reported accurately or fairly\" (<a href=\"https://x.com/DavidM_Friedman/status/2119438765097705606\">David Friedman</a>). Friedman founded Channel 18; this is his own framing of the series.",
+      "source": "David Friedman",
+      "date": "2026-11-08",
+      "url": "https://x.com/DavidM_Friedman/status/2119438765097705606",
+      "edition": "2026-11-09",
+      "published": "2026-11-09T05:00:00+02:00",
+      "letter": "PA security: 9 Nov 2026"
+    },
+    {
       "id": "2026-11-08-land-jericho-convoys-blot-denial",
       "section": "land",
       "lead": true,
