@@ -1008,6 +1008,10 @@
   "2026-11-09": {
    "intro": "Israel: Eisenkot takes the mandate and calls for a national emergency government; Deri leaves the Shas list; the Knesset is sworn in Tuesday. On interference claims, the attorney general says she knows of no evidence that would affect the result, while reports describe a Shin Bet push for a wider investigation; no effect on the results has been shown. Also: Finland prepares to join EUSM Lebanon; Wauquiez seeks one right-wing candidate by Christmas; a Quaest poll on Lula and Flávio Bolsonaro; Trump expects to meet Xi and Putin in Shenzhen; Fine Gael's unity costings; NASA lunar awards for SpaceX; a Bezeq–Adgar data center; and new Land clips from Cyphers.",
    "quiet": "Nothing material on the Carney case, Trenton, Greenland, Quebec, Colombia and Israel, HaShiloach (no new essay), Belle Burden, Marc Andreessen or non-Latin script digitization. No new Israeli reaction to EUSM Lebanon and no verified Likud appeal filing."
+  },
+  "2026-11-10": {
+   "intro": "Israel: the 26th Knesset is sworn in today with no government; Eisenkot and Liberman agree the speaker will come from Yashar!. On interference claims, the High Court rejects a petition against the attorney general and reports say the Shin Bet and police have found little evidence so far; no effect on the results has been shown. Also: Druze from Syria seek treatment in Israel almost daily; judoka Teddy Riner runs for French president; Meta answers Brazil's electoral court; SpaceX plans a $24 billion power plant and computing site at Starbase; and a Tucker Carlson interview request for Land surfaces in a Dangerous Maybe talk.",
+   "quiet": "Nothing material on the Carney case, Trenton, Greenland, Quebec, Colombia and Israel, Israeli data centers, HaShiloach (no new essay), Belle Burden, Trump and Xi, Marc Andreessen or non-Latin script digitization. No new Israeli reaction to EUSM Lebanon and no verified election appeal filing."
   }
  },
  "items": [
@@ -10757,6 +10761,287 @@
     {
      "name": "The Observing I (Substack essay and episode)",
      "url": "https://theobservingi.com/p/the-future-that-makes-us-nick-land-and-hyperstition"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-israel-election-1",
+   "edition": "2026-11-10",
+   "section": "israel-election",
+   "headline": "Eisenkot and Liberman agree the next Knesset speaker will come from Yashar!, reportedly Eisenkot himself; Eisenkot drops a fast minority government; the Knesset is sworn in today",
+   "lead": "Gadi Eisenkot (Yashar!) and Avigdor Liberman (Yisrael Beytenu) agreed on Monday, 9 November, on who should be the next Knesset speaker, and ynet reported that under their understanding Eisenkot himself would serve as temporary speaker, with Naftali Bennett (B'Yachad) and Yair Golan (Democrats) apparently agreeing unless there is a last-minute change.",
+   "text": "After meeting, the two said they are fully confident they can form a stable government for four years (Hezki Baruch, Arutz 7, on X). United Torah Judaism turned down a request from Yashar!'s faction chair-designate Roy Folkman that it and Shas join a move to replace Speaker Amir Ohana at the Knesset's opening session (Hezki Baruch on X). Srugim, citing Maariv's Anna Breskin, reported that Eisenkot does not plan a fast swearing-in of a minority government backed by the Arab parties because people in his bloc say it has no real chance and too little support even inside the bloc; signals of progress in talks with the Haredi parties were not confirmed by Haredi sources. ynet, citing Channel 12, reported that Netanyahu's close associate Natan Eshel repeatedly asked Ra'am chair Mansour Abbas, before and after the election, whether Ra'am would help Eisenkot in the Knesset; Ra'am did not answer. Likud said it did not know of the exchanges and that they were not approved by the prime minister. Eshel first denied the contacts, then said he had only asked \"some Arabs\" whether they had \"a drop of self-respect\". The same day Netanyahu released a video again calling for a \"unity government\" led by him with the Haredi parties. The 26th Knesset's 120 members are sworn in today, Tuesday, 10 November ([map](https://www.google.com/maps/search/?api=1&query=31.7765,35.2054)), with no government yet (ynet). The Central Elections Committee's official results page was unchanged when checked on 10 November (turnout 77.98%).",
+   "sources": [
+    {
+     "name": "Hebrew: ynet, Eisenkot and Liberman agree on the speaker",
+     "url": "https://www.ynet.co.il/news/article/skucu001czg"
+    },
+    {
+     "name": "Hebrew: ynet, Eisenkot as temporary speaker",
+     "url": "https://www.ynet.co.il/news/article/hknytdk0mx"
+    },
+    {
+     "name": "X: Hezki Baruch on the Eisenkot–Liberman meeting",
+     "url": "https://x.com/HezkeiB/status/2119797944291569999"
+    },
+    {
+     "name": "X: Hezki Baruch, UTJ refuses to join the move against Ohana",
+     "url": "https://x.com/HezkeiB/status/2119773964369358909"
+    },
+    {
+     "name": "X: Hezki Baruch, Folkman's request to Shas and UTJ",
+     "url": "https://x.com/HezkeiB/status/2119742213802582525"
+    },
+    {
+     "name": "Hebrew: Srugim, citing Maariv, no fast minority government",
+     "url": "https://www.srugim.co.il/101015731-התכנית-של-איזנקוט-מסתבכת-אין-לזה-היתכנות"
+    },
+    {
+     "name": "Hebrew: ynet, Natan Eshel's contacts with Mansour Abbas",
+     "url": "https://www.ynet.co.il/news/article/bjw00oqjage"
+    },
+    {
+     "name": "Hebrew: ynet, the Knesset is sworn in",
+     "url": "https://www.ynet.co.il/news/article/r168aiyczx"
+    },
+    {
+     "name": "Central Elections Committee: official national results",
+     "url": "https://votes26.bechirot.gov.il/nationalresults"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-israel-election-interference-watch",
+   "edition": "2026-11-10",
+   "section": "israel-election",
+   "headline": "Interference watch: High Court rejects a petition against the attorney general; reports say the Shin Bet and police have found little evidence so far, but disagree on the sums",
+   "lead": "On Monday, 9 November, Justices Ruth Ronen, Yael Willner and Alex Stein of the High Court of Justice rejected a petition by the group Lavi that asked the court to order Attorney General Gali Baharav-Miara to explain decisions it said she had made on investigating Knesset members and their parliamentary aides; the court said Lavi had given her only three days to answer before going to court and had relied only on media reports, and it left Lavi free to petition again (Maariv, Hebrew).",
+   "text": "The ruling decides nothing about whether interference took place. No effect on turnout, votes, counting or seats has been shown, and the Central Elections Committee's official results were unchanged on 10 November.",
+   "body": [
+    "Appeal deadline. As quoted by Maariv, Justice Ronen wrote that the Knesset Elections Law allows 14 days from publication of the results to file an election appeal, and that the deadline can be extended in suitable cases for reasons put in writing. The court gave no calendar date, so the 17 versus 18 November question is still not settled from an official record. No appeal filing was found.",
+    "State of the investigation (anonymous-source reports, not findings). Haaretz (Josh Breiner), citing senior law-enforcement officials who saw the findings, reported that the Shin Bet has not produced any evidence for its chief David Zini's suspicion of foreign influence on the election; that the case is \"certainly not a security matter\" and very doubtful as a criminal one; that a Shin Bet-led team is looking at several hundred thousand shekels that intelligence says came from the Palestinian Authority, not from Qatar or another Arab state; that dozens of people were questioned but nothing yet ties the money to vote-buying or to fuel vouchers; and that police and the Shin Bet are expected to send separate reports to the attorney general within days (Haaretz; Arab48, Arabic). Channel 13 (Aviad Glickman), as summarized by Behadrei Haredim, reported that the joint Shin Bet and police team was surprised by how thin the material was and doubts it supports security offenses. i24NEWS (Avishai Grinzaig) gave a different emphasis: the Shin Bet now focuses on a suspicion that several million shekels came from a foreign, hostile state; it no longer deals with fuel cards or bribes to individual voters; one person was questioned under caution and released; Zini's figures moved within weeks from hundreds of thousands of shekels to about 8 million to as much as 100 million; and Zini, the attorney general and Central Elections Committee chair Justice Noam Solberg are expected to speak this week.",
+    "New claim with no suspect. Channel 14 (Hillel Biton Rosen), as summarized by Behadrei Haredim, reported that material received by the security services raises a suspicion that an unnamed senior Knesset member from an Arab party received tens of thousands of shekels a month from the Palestinian Authority over a long period. The report itself says he is not defined as a suspect and that no link to the election case has been established. Behadrei Haredim also reports that police are still checking suspected irregularities in Arab communities, partly based on information about several clan (hamula) heads. Both are unconfirmed.",
+    "Transparency request. The Movement for Freedom of Information wrote to the Central Elections Committee on 9 November asking it to publish details of fake accounts that, according to media reports, were removed from social networks with the State Attorney's cyber department and the committee; the reports did not say how many accounts or on which networks. The group notes that Justice Solberg, ruling on its earlier petition against Netanyahu and Likud, held that disclosure rules also apply to campaign material spread by bots and fake-name accounts; he rejected that petition for lack of evidence but sent the material to the attorney general and the cyber department to consider an investigation.",
+    "Claims from the right. Hanamel Dorfman, until recently National Security Minister Itamar Ben Gvir's chief of staff and sworn in today as an Otzma Yehudit Knesset member, told Arutz 7 that the results were \"to a large extent, forged\" (Hezki Baruch on X); he presented no evidence. Ben Gvir told Channel 13 that the attorney general \"holds files against politicians\" and had tried to start investigations against him (Srugim). Srugim also reported that a network of left-wing groups with foreign funding is campaigning publicly for a Jewish-Arab government; the report does not describe an election offense."
+   ],
+   "sources": [
+    {
+     "name": "Hebrew: Maariv, High Court rejects Lavi petition",
+     "url": "https://www.maariv.co.il/news/law/article-1386606"
+    },
+    {
+     "name": "Hebrew: Haaretz, Shin Bet has not found evidence (partly paywalled)",
+     "url": "https://www.haaretz.co.il/news/elections/2026-11-09/ty-article/.premium/000001a1-bdfb-d146-ada9-fdff0f5f0000"
+    },
+    {
+     "name": "Arabic: Arab48 on the Haaretz report",
+     "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/09/الشاباك-لم-يقدم-أي-دليل-على-مزاعم-زيني-بتأثير-أجنبي-على-الانتخابات"
+    },
+    {
+     "name": "Hebrew: i24NEWS, new details on the Shin Bet investigation",
+     "url": "https://www.i24news.tv/he/news/israel-elections-2026/artc-f2906342"
+    },
+    {
+     "name": "Hebrew: Behadrei Haredim, Channel 14 and Channel 13 reports",
+     "url": "https://www.bhol.co.il/news/1744118"
+    },
+    {
+     "name": "Hebrew: Movement for Freedom of Information letter",
+     "url": "https://www.meida.org.il/18496"
+    },
+    {
+     "name": "X: Hezki Baruch, Dorfman interview",
+     "url": "https://x.com/HezkeiB/status/2119814919071699204"
+    },
+    {
+     "name": "Hebrew: Srugim, Ben Gvir on the attorney general",
+     "url": "https://www.srugim.co.il/101015739-השר-בהאשמה-חמורה-היא-מחזיקה-תיקים-נגד"
+    },
+    {
+     "name": "Hebrew: Srugim, foreign-funded groups campaign (right-leaning)",
+     "url": "https://www.srugim.co.il/101015698-גופי-שמאל-במימון-זר-מקדמים-הקמת-ממשלה"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-lebanon-1",
+   "edition": "2026-11-10",
+   "section": "lebanon",
+   "headline": "Druze from Syria ask almost daily to enter Israel for medical treatment, Israel's population authority head says; UN proposes a follow-on mission for Lebanon after UNIFIL",
+   "lead": "Boaz Yosef, head of Israel's Population and Immigration Authority, told Kan on Monday, 9 November, that sick and wounded Druze from Syria are seeking to enter Israel for treatment almost every day and that he approves requests almost daily, adding that \"the Druze communities in the Golan are already integrating with us\" (Jerusalem Post, citing Kan).",
+   "text": "He did not give numbers. UN peacekeeping chief Jean-Pierre Lacroix said the UN has given the Security Council proposals, prepared with the Lebanese authorities, for a new mission after UNIFIL's mandate ends on 31 December: monitoring and reporting, humanitarian aid, and keeping some capacity to support the Lebanese army. The Council has not decided (Arab48, Arabic). No new Israeli reaction to the EU security mission in Lebanon (EUSM) and no new contributing country were found.",
+   "sources": [
+    {
+     "name": "Jerusalem Post, citing Kan",
+     "url": "https://www.jpost.com/israel-news/article-914352"
+    },
+    {
+     "name": "Arabic: Arab48, UN proposes a new mission",
+     "url": "https://www.arab48.com/أخبار-عربية-ودولية/أخبار--الوطن-العربي/2026/11/09/الأمم-المتحدة-تقترح-بعثة-جديدة-في-لبنان-بعد-انتهاء-ولاية-يونيفيل-"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-france-election-1",
+   "edition": "2026-11-10",
+   "section": "france-election",
+   "headline": "Judo champion Teddy Riner declares for president; Toluna Harris Interactive for RTL and M6: Le Pen 34–36%, Mélenchon 18–19%, Philippe slips again",
+   "lead": "Teddy Riner, five-time Olympic and 11-time world judo champion, announced on X on Monday, 9 November, that he is a candidate in the 2027 presidential election: \"Resignation is not an option ... I am a candidate\" (franceinfo).",
+   "text": "In a video he said France needs \"common sense, firmness, justice\" rather than \"a professional politician\", and in an interview with Le Parisien he said he plans to keep competing, even at the 2028 Los Angeles Olympics \"if the office allows\" (franceinfo). The ninth wave of the Toluna Harris Interactive poll for RTL and M6, taken online 3 to 5 November among 2,101 registered voters (before the 7 November cost-of-living protests, and before Riner's entry), puts Marine Le Pen at 34% to 36% depending on the scenario, up 1 to 2 points, and Jean-Luc Mélenchon at 18% to 19%. Édouard Philippe falls to 14% as the only center candidate (down 2) and 11% if Gabriel Attal also runs, level with Raphaël Glucksmann; David Lisnard reaches 9% in some scenarios and Bruno Retailleau is at 7% to 10%. 66% favor a broad primary of the center and right, and 48% expect Le Pen to win (RTL). On Polymarket, checked about 4 AM Israel time on 10 November, Le Pen is at 45%, Lisnard 14%, Mélenchon 13.5%, Philippe 9.5% (up from about 7.5% on 9 November) and Riner 2.4%.",
+   "sources": [
+    {
+     "name": "French: franceinfo, Riner announces",
+     "url": "https://www.franceinfo.fr/elections/presidentielle/la-resignation-n-est-pas-une-option-teddy-riner-annonce-sa-candidature-a-l-election-presidentielle-2027_8274359.html"
+    },
+    {
+     "name": "French: RTL, Toluna Harris Interactive poll",
+     "url": "https://www.rtl.fr/actu/politique/sondage-rtl-presidentielle-2027-le-pen-et-melenchon-creusent-l-ecart-avec-philippe-la-percee-de-lisnard-se-confirme-7900693811"
+    },
+    {
+     "name": "Polymarket: next French presidential election",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-brazil-1",
+   "edition": "2026-11-10",
+   "section": "brazil",
+   "headline": "Meta tells the electoral court it did not favor Flávio Bolsonaro's side; it says Lula's posts reached about 1.5 times as many people",
+   "lead": "Meta told Brazil's Superior Electoral Court (TSE) in a filing on Friday, 6 November, that it did not tilt the distribution of posts toward Flávio Bolsonaro's side or Lula's, and published a post titled \"Meta is not interfering in the Brazilian elections. These are the facts\" (Estadão, via Terra).",
+   "text": "Meta says Lula's posts reached about 1.5 times as many people, and drew about 1.5 times as many interactions within 24 hours, as Flávio Bolsonaro's (organic reach, not ads); Flávio posted less often but reached more people per post; and government and opposition accounts reached similar audiences from 16 to 25 October, the runoff date. It says most candidates' reach came from their own followers, as TSE rules require, and that deputy Nikolas Ferreira's very high view counts reflect people rewatching his videos. In late October the court's inspector general, Ricardo Cueva, at the request of Lula's coalition, ordered Meta not to boost posts from two Flávio Bolsonaro accounts and one Nikolas Ferreira account through the end of the runoff, on pain of a R$500,000 fine. This is the company's own account; the court has not ruled on it.",
+   "sources": [
+    {
+     "name": "Portuguese: Terra (Estadão), Meta tells the TSE",
+     "url": "https://www.terra.com.br/noticias/brasil/politica/meta-diz-ao-tse-que-nao-interferiu-nas-eleicoes-brasileiras-e-nega-vies-no-algoritmo,09063cd3c3263074485d89527417ca1depk25cjx.html"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-spacex-xai-and-cursor-1",
+   "edition": "2026-11-10",
+   "section": "spacex-xai-and-cursor",
+   "headline": "SpaceX seeks a tax break for a $24 billion gas power plant and \"super-compute facility\" at Starbase, Texas; public hearing on 9 December",
+   "lead": "A City of Starbase notice says SpaceX \"proposes to construct, own, and operate a gas-fired power plant and super-compute facility\", with an \"estimated capital investment for initial phases\" of about $24 billion, on about 444 acres just east of Brownsville between Boca Chica Boulevard and the Port of Brownsville (City of Starbase notice).",
+   "text": "The city commission will consider a property tax abatement under Chapter 312 of the Texas Tax Code and a related economic development agreement under Chapter 380 of the Local Government Code at 7 p.m. on Wednesday, 9 December. Nothing has been approved. The notice gives no other detail. The 956 Report, a Rio Grande Valley news site, says the notice was posted on 6 November and was first reported by Gateway to Mars, and that a pending state air-permit filing for SpaceX's \"Boca Chica Facility\" lists 35 temporary gas turbines of about 748 megawatts in a first phase, later to be replaced by eight larger turbines of about 708 megawatts; that filing was not checked here. Neither the notice nor SpaceX says what the computing would be used for. Reuters and Bloomberg reported the plan on 9 November.",
+   "sources": [
+    {
+     "name": "City of Starbase: public hearing notice (PDF)",
+     "url": "https://cdn.prod.website-files.com/67fcab04e05680343de9ea4e/6aee00848f7bbe0cdee604da_6aee005cf2854ef8fc7713ed_Public_Hearing_Notice_Tax_Abatement_Dec9_2026.pdf"
+    },
+    {
+     "name": "The 956 Report",
+     "url": "https://www.the956report.com/post/spacex-wants-a-tax-break-for-a-24-billion-gas-plant-and-super-compute-facility-in-starbase"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-spacex-xai-and-cursor-2",
+   "edition": "2026-11-10",
+   "section": "spacex-xai-and-cursor",
+   "headline": "Grok Bot changelog: releases from 3 to 6 November add refund requests, gift shopping, airline booking steps and a warning when a web page hides instructions for AI agents",
+   "lead": "The official Grok Bot changelog lists versions 0.78.4 (3 November), 0.78.5 (4 November), 0.79.2 (5 November) and 0.79.3 (6 November), which had not been reported here.",
+   "text": "Version 0.78.4 lets the Bot ask for a refund on a subscription charge, listing each way to ask before it sends anything, and makes the Bot pay on its own once you have approved a flight, stay or grocery cart and its total. Version 0.78.5 adds scheduled reorders of a usual shopping list, with one approval per order showing the total. Version 0.79.2 (which includes 0.79.0 and 0.79.1) adds gift shopping that asks for recipient, budget, occasion and deliver-by date; booking steps for Delta, American, Alaska, JetBlue and Frontier; attachments on Gmail and Outlook draft cards; a notice when a web page hides instructions aimed at AI agents and the Bot did not follow them; Slovenian; and a new flat app icon. It also says commands that open or unlock a Tesla, or let someone drive it, always ask for approval. Version 0.79.3 adds a light or dark theme switch on shared Pages and clearer phone-call cards, such as \"No answer\" for a busy line. Cursor's changelog has nothing newer than the 6 November Voice Chat entry already reported.",
+   "sources": [
+    {
+     "name": "Grok Bot changelog (official)",
+     "url": "https://x.ai/changelog/bot"
+    },
+    {
+     "name": "Cursor changelog",
+     "url": "https://cursor.com/changelog"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-uk-breakup-politics-1",
+   "edition": "2026-11-10",
+   "section": "uk-breakup-politics",
+   "headline": "The National: a freedom-of-information reply shows the Cabinet Office has polled on Scottish independence under Burnham without publishing results; the SNP wants them released",
+   "lead": "The Sunday National, a pro-independence Scottish paper, reported on 8 November that a freedom-of-information request forced the Cabinet Office to admit it has carried out polling on Scottish independence since Andy Burnham became prime minister, while refusing to publish the results or the costs.",
+   "text": "The SNP is demanding the release of what it calls \"secret independence documents\". The paper sets this against Burnham's statement at Prime Minister's Questions in September that there is no majority for another referendum and that the conditions should be \"exactly the same\" as for Irish unity. Former SNP MP Tommy Sheppard said the government should release the details and that not doing so would be \"corruption\". This is one outlet's report; the FOI reply itself was not published with the article, and no UK government response was found.",
+   "sources": [
+    {
+     "name": "The National (pro-independence)",
+     "url": "https://www.thenational.scot/news/26705795.revealed-burnhams-huge-secret-scottish-independence-polling-operation/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-cypherboria-1",
+   "edition": "2026-11-10",
+   "section": "cypherboria",
+   "headline": "Land and Conrad Flynn talk for three hours on The Dangerous Maybe; in the talk, Flynn says Tucker Carlson's team wants to interview Land in Shanghai this month",
+   "lead": "The Dangerous Maybe, with Three Billion Nances, posted \"Nick Land and Conrad Flynn in Conversation\" on YouTube on 31 October: a 3-hour-17-minute talk with Land and Flynn, who had discussed Land's work on Tucker Carlson's podcast; it was missed here when it went up.",
+   "text": "A 91-second clip from the talk, posted on X late on 9 November by @JutlandGhost with a link to the full video, spread widely and was reposted by Cyphers and Net Void. In it, Flynn says one of Carlson's producers texted him that \"Tucker would like to interview Nick Land\", asked for his email, and told him the team was planning a trip to Shanghai in November and would \"go out there to talk to Nick regardless\"; a second voice answers that this is \"doing the seismic shock thing\" and asks, \"Should I talk to Tucker?\" (quotes from an automatic transcript of the clip made here). Carlson and his team have said nothing public, and no interview is confirmed. Earlier talk of a Shanghai interview came from one small account; this is the first time a named person describes the request. The video description also promotes a November course on Land's Xenosystems at Philosophy Portal.",
+   "sources": [
+    {
+     "name": "YouTube: Nick Land and Conrad Flynn in Conversation (The Dangerous Maybe, 31 Oct)",
+     "url": "https://www.youtube.com/watch?v=mkA9NS09ktA"
+    },
+    {
+     "name": "X: @JutlandGhost clip",
+     "url": "https://x.com/JutlandGhost/status/2119918293863862553"
+    },
+    {
+     "name": "X: Lomez on the clip",
+     "url": "https://x.com/L0m3z/status/2119953411072491597"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-cypherboria-2",
+   "edition": "2026-11-10",
+   "section": "cypherboria",
+   "headline": "Land sketches three outcomes for \"MAGA/Acc\" and superintelligence; resonatingloop starts a series of \"agentic field notes\"",
+   "lead": "In a three-part X thread on 9 November, Land listed three outcomes: \"Victory\", in which \"MAGA/Acc\" takes Anglo civilization, \"lovingly married to SI\" (superintelligence), into the solar system; \"Pyrrhic victory\", in which superintelligence \"goes dark Skynet\" with \"probable human extinction\"; and \"Defeat\", in which the left wins and the West degrades.",
+   "text": "Early on 10 November he also posted: \"'It's all about the machines' is Scripture.\" @cold_cyber_ reposted the first part of the thread; nothing else from @cold_cyber_ or @AmurakaHidden touched the section's themes. resonatingloop published \"agentic field note 001: the examination nobody set\" on her Substack on 9 November and says her agents are studying a dialect, which she calls \"Swarmlect\", that grew up in her AI-agent swarm experiment. @patallax wrote that \"soon Land will debate Yarvin\"; no date or host was found, so that is unconfirmed. Net Void wrote that discovering H.P. Lovecraft's work in 2019 inspired her Mortal Series (her account is protected, so the link may not open for others). Cyphers re-uploaded its Jimi Hendrix documentary on 8 November after a photographer's copyright request. Nothing notable from Phythagram, Mortal Series, Doomcrypt (reposts only), Ryan Haecker on Land, D.W. Pasulka, Jacques Vallée (no new interview found), Truth Is Christ (newest site post June 2026), ReynoldsRetro (nothing since 13 October) or Retrochronic (still v1.0.176, 199 sources).",
+   "sources": [
+    {
+     "name": "X: Land, outcome 1",
+     "url": "https://x.com/xenocosmography/status/2119728029744427297"
+    },
+    {
+     "name": "X: Land, outcome 2",
+     "url": "https://x.com/xenocosmography/status/2119728902247784831"
+    },
+    {
+     "name": "X: Land, outcome 3",
+     "url": "https://x.com/xenocosmography/status/2119729822448734594"
+    },
+    {
+     "name": "X: Land on Scripture",
+     "url": "https://x.com/xenocosmography/status/2119971278983725452"
+    },
+    {
+     "name": "Substack: resonatingloop, agentic field note 001",
+     "url": "https://resonatingloop.substack.com/p/agentic-field-note-001-the-examination"
+    },
+    {
+     "name": "X: patallax on a Land–Yarvin debate (unconfirmed)",
+     "url": "https://x.com/patallax/status/2119788655091089514"
+    },
+    {
+     "name": "X: Net Void on Lovecraft (protected account)",
+     "url": "https://x.com/Net__Void/status/2119702774770475242"
+    },
+    {
+     "name": "YouTube: Cyphers, Jimi Hendrix documentary (re-upload)",
+     "url": "https://www.youtube.com/watch?v=Qyhxr_Q230o"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-10-cypherboria-3",
+   "edition": "2026-11-10",
+   "section": "cypherboria",
+   "headline": "Fritinancy: \"Word of the week: Hyperstition\"",
+   "lead": "Nancy Friedman's word-blog newsletter Fritinancy made \"hyperstition\" its word of the week on 2 November, explaining that Land coined it in the mid-1990s while with the Cybernetic Culture Research Unit (CCRU), as \"the experimental (techno-)science of self-fulfilling prophecies\".",
+   "text": "She came to the word through Gil Durán's new book on Peter Thiel and Silicon Valley, which uses hyperstition to explain how tech investors turn predictions into money and power, and she cites Land's description of hyperstition as \"a coincidence intensifier\". It is a short explainer about the term, not an interview with Land.",
+   "sources": [
+    {
+     "name": "Fritinancy (Substack)",
+     "url": "https://fritinancy.substack.com/p/word-of-the-week-hyperstition"
     }
    ]
   }

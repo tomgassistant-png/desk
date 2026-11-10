@@ -1,8 +1,479 @@
 {
   "title": "Judea & Samaria Desk",
   "subtitle": "The Palestinian Authority, security, settlement and land in Judea and Samaria",
-  "latest_count": 17,
+  "latest_count": 21,
   "items": [
+    {
+      "id": "2026-11-10-attacks-arraba-children-jsr-day",
+      "section": "attacks",
+      "lead": true,
+      "highlight": true,
+      "headline": "Stones hit Jewish children playing in a garden near Arraba, and Arabs set Israeli cars on fire at Mevaser Shalom, on a day of more than ten attacks logged by the Situation Room",
+      "summary": "The Yesha Council's Judea and Samaria Situation Room (JSR) reported that on Monday evening, 9 Nov (about 7:50 PM Israel time), stones were thrown at Jewish children playing in a garden near the Arab village of Arraba in the Dotan Valley, northern Samaria, and that several people were hurt (<a href=\"https://x.com/JSR_HEB/status/2119850392771010950\">JSR</a>). Earlier in the afternoon JSR reported that Arabs set Israeli vehicles on fire at Mevaser Shalom in Samaria, with no injuries (<a href=\"https://x.com/JSR_HEB/status/2119813625250734367\">JSR, with photo</a>); Olam Katan's Simcha Raz and activist Ayelet Lash said the arsonists came from the village of Awsarin and that the site is near Evyatar (<a href=\"https://x.com/simkha0404/status/2119796206914433404\">Simcha Raz</a>; <a href=\"https://x.com/ayeletlash9/status/2119791948948971828\">Ayelet Lash</a>). The rest of JSR's day: at about 9:30 AM stones hit a car on Route 60 about 100 meters south of Sha'ar Binyamin junction, damaging the windshield; the rescue group Hatzalah Judea and Samaria told JNS one person was lightly hurt and drove on to get treatment (<a href=\"https://x.com/JSR_HEB/status/2119694152581501161\">JSR</a>; <a href=\"https://www.jns.org/news/israel-news/one-lightly-wounded-in-stone-throwing-attack-in-samaria\">JNS</a>). At about 10:40 AM some 20 Arabs got out of a garbage truck and attacked a Jewish shepherd with stones and clubs in pasture near Kfar Tapuach; no one was hurt (Ayelet Lash says they came from Yasuf) (<a href=\"https://x.com/JSR_HEB/status/2119712192081568169\">JSR</a>). Stones were also thrown at the gas station of Burqa in Samaria (<a href=\"https://x.com/JSR_HEB/status/2119743135748067460\">JSR</a>), at a shepherd of the Hesed LeAvraham farm northwest of Deir Jarir in Binyamin (<a href=\"https://x.com/JSR_HEB/status/2119765095567806782\">JSR</a>), by two Arab children at an Israeli car near Deir Samit in the Hebron Hills (<a href=\"https://x.com/JSR_HEB/status/2119766426206576715\">JSR</a>), at a car on the Lamaked (Doran) road in the southern Hebron Hills (<a href=\"https://x.com/olam_katan/status/2119763206361006232\">Olam Katan</a>), at an Israeli woman's car at western Marda junction, cracking the windshield (<a href=\"https://x.com/JSR_HEB/status/2119808584007704890\">JSR</a>), and at an Israeli car on Route 60 near Ofra (<a href=\"https://x.com/JSR_HEB/status/2119823435350085689\">JSR</a>). JSR also said eight Arabs attacked two Israeli residents on what JSR calls the Ga'ava road in Binyamin, with no injuries reported (<a href=\"https://x.com/JSR_HEB/status/2119822329224081613\">JSR</a>), and that in the morning an Arab who tried to throw a firebomb at soldiers near Zababdeh was shot by them (<a href=\"https://x.com/JSR_HEB/status/2119690824506057095\">JSR</a>). JNS Hebrew reporter Netanel Frankel summed up the day as stones at children near Arraba, an attempted firebomb, cars set on fire and stone attacks in ten other places (<a href=\"https://x.com/Netanelfr/status/2119909959584600508\">Netanel Frankel</a>). These are JSR's own reports. Apart from the Sha'ar Binyamin stoning (JNS, Hatzalah) and the Zababdeh shooting, no police or army statement was found, so the number and condition of the hurt children, and the details of the other incidents, are unconfirmed.",
+      "source": "JSR Situation Room / JNS / Olam Katan / Netanel Frankel",
+      "date": "2026-11-09",
+      "url": "https://x.com/JSR_HEB/status/2119850392771010950",
+      "places": [
+        {
+          "name": "Arraba (Jenin), Dotan Valley",
+          "lat": 32.4047004,
+          "lon": 35.2033539,
+          "note": "Nominatim (village point; the garden is not plotted, approximate)"
+        },
+        {
+          "name": "Evyatar (near Mevaser Shalom)",
+          "lat": 32.11967,
+          "lon": 35.27471,
+          "note": "Nominatim point for Evyatar; Mevaser Shalom itself is not mapped, approximate"
+        },
+        {
+          "name": "Sha'ar Binyamin junction (Route 60)",
+          "lat": 31.86446,
+          "lon": 35.26454,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Kfar Tapuach",
+          "lat": 32.11907,
+          "lon": 35.25009,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Burqa (Nablus)",
+          "lat": 32.29893,
+          "lon": 35.19494,
+          "note": "Nominatim (village point)"
+        },
+        {
+          "name": "Deir Jarir (Hesed LeAvraham farm is northwest of it)",
+          "lat": 31.96507,
+          "lon": 35.29388,
+          "note": "Nominatim village point; farm not mapped, approximate"
+        },
+        {
+          "name": "Deir Samit",
+          "lat": 31.52445,
+          "lon": 34.9686,
+          "note": "Nominatim (road point named As Simia - Deir Samit, approximate)"
+        },
+        {
+          "name": "Marda",
+          "lat": 32.11167,
+          "lon": 35.193,
+          "note": "Nominatim village point; junction not plotted, approximate"
+        },
+        {
+          "name": "Ofra (Route 60)",
+          "lat": 31.9535,
+          "lon": 35.2605,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Zababdeh",
+          "lat": 32.3861015,
+          "lon": 35.3248381,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-idf-arraba-pij-cell",
+      "section": "idf",
+      "highlight": true,
+      "headline": "Ten Islamic Jihad suspects arrested in Arraba over a planned attack on Israelis in northern Samaria, the third such operation there in two months",
+      "summary": "The army said soldiers of the Paratroopers reconnaissance unit and the Duvdevan unit, with Border Police and on Shin Bet intelligence, raided several sites in Arraba, southwest of Jenin, early Monday, 9 Nov, and arrested ten men who were organizing a terror network to carry out an attack on Israeli civilians in northern Samaria (<a href=\"https://www.okn.co.il/security/78109/\">Olam Katan, IDF statement</a>; <a href=\"https://www.jns.org/news/israel-news/idf-arrests-10-suspected-terrorists-over-attack-plot-in-samaria\">JNS</a>). Ynet reports that the forces hit ten buildings at once and found all ten wanted men within about half an hour, that the suspects are linked to Islamic Jihad, and that this is the third major operation in two months under the Menashe Brigade: an earlier ten-man cell, a cell from Qabatiya (five arrested) and a Hamas network in Aqaba, where a rocket without a launcher and an M-16 rifle were seized (<a href=\"https://www.ynet.co.il/news/article/r1uo751rze\">Ynet</a>). Times of Israel military reporter Emanuel Fabian and Israel Hayom's Yotam Deshe carried the same army account (<a href=\"https://x.com/manniefabian/status/2119785607475921273\">Emanuel Fabian</a>; <a href=\"https://x.com/Yotamdeshe97/status/2119786872520188260\">Yotam Deshe</a>). A Makor Rishon headline names Mevo Dotan as the suspected target (headline only; unconfirmed).",
+      "source": "IDF via Olam Katan / JNS / Ynet",
+      "date": "2026-11-09",
+      "url": "https://www.ynet.co.il/news/article/r1uo751rze",
+      "places": [
+        {
+          "name": "Arraba (Jenin)",
+          "lat": 32.4047004,
+          "lon": 35.2033539,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-land-noa-symbol",
+      "section": "land",
+      "highlight": true,
+      "headline": "Noa in northern Samaria receives its official community code, the 40th new community recognized this way in under a year",
+      "summary": "The Interior Ministry on Monday, 9 Nov, gave Noa in northern Samaria an official community code (semel yishuv), the last step in making it a full community in the state's records. The code lets it get a security coordinator post, Israel Post service and a direct water hookup from Mekorot. Noa was approved as a new community by the security cabinet in March 2026, and Central Command head Avi Bluth signed its jurisdiction area; it sits in a bloc with Ganim and Kadim (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78213/\">Olam Katan</a>). Finance Minister Bezalel Smotrich said 40 community codes have been issued in less than a year for the new communities and for regularizing young settlements: \"Against those who want to set up a government with terror supporters, destroy the settlements and set up a Palestinian state, we are building, regularizing and strengthening our hold.\" JNS Hebrew reporter Netanel Frankel gave the same figure, and Olam Katan's X account posted the Samaria Council's photo (<a href=\"https://x.com/Netanelfr/status/2119853341492568344\">Netanel Frankel</a>; <a href=\"https://x.com/olam_katan/status/2119858631424565636\">Olam Katan on X</a>). The figure of 40 comes from Smotrich's office (not independently counted).",
+      "source": "Olam Katan / Netanel Frankel (JNS Hebrew)",
+      "date": "2026-11-09",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78213/",
+      "places": [
+        {
+          "name": "Noa",
+          "lat": 32.4118,
+          "lon": 35.31612,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-land-mevoot-lachish-industrial-zone",
+      "section": "land",
+      "highlight": true,
+      "headline": "Central Command signs the jurisdiction for \"Mevo'ot Lachish,\" a 3,039-dunam Gush Etzion industrial zone north of the Tarqumiya crossing",
+      "summary": "Israel Hayom's Yotam Deshe first reported that the head of Central Command signed the jurisdiction area for Mevo'ot Lachish, a planned industrial zone of 3,039 dunams (about 750 acres) just north of the Tarqumiya crossing. The Settlement Administration and the Civil Administration are leading the plan with the Gush Etzion Regional Council; Deshe notes a Palestinian industrial zone had earlier been promoted for the same area (<a href=\"https://x.com/Yotamdeshe97/status/2119804786694324314\">Yotam Deshe</a>). Council head Yaron Rosenthal told Olam Katan the zone will lie between the villages of Tarqumiya, Beit Ula and Nuba and the Adullam area, is meant to strengthen Israel's hold on the seam line and the Route 6 and Kiryat Gat area, and should bring the council more than 100 million shekels a year; he thanked Smotrich for \"stopping Arab building.\" Smotrich linked it to more than 60,000 homes being advanced across Judea and Samaria and said: \"We are building, regularizing and developing, not in words but in deeds\" (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78169/\">Olam Katan</a>; <a href=\"https://x.com/simkha0404/status/2119817390955368941\">Simcha Raz</a>; <a href=\"https://x.com/Netanelfr/status/2119817726059237617\">Netanel Frankel</a>). Signing the jurisdiction is a procedural step; planning and building approvals are still ahead. The revenue figure is the council head's estimate.",
+      "source": "Israel Hayom (Yotam Deshe) / Olam Katan",
+      "date": "2026-11-09",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78169/",
+      "places": [
+        {
+          "name": "Tarqumiya crossing",
+          "lat": 31.5548,
+          "lon": 35.0013,
+          "note": "Nominatim point labeled Suba - Tarqumiya (approximate)"
+        },
+        {
+          "name": "Beit Ula",
+          "lat": 31.59679,
+          "lon": 35.02849,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Nuba",
+          "lat": 31.60656,
+          "lon": 35.03647,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-land-givaot-oranit-tenders",
+      "section": "land",
+      "headline": "Tenders published for 732 homes in Givaot and 91 in Oranit",
+      "summary": "The Housing Ministry and the Civil Administration's custodian of government property published a tender for 732 housing units in Givaot, west of Bethlehem in Gush Etzion, on Sunday, 8 Nov, and tenders for 91 units in Oranit two days earlier, according to Peace Now, which opposes them. It says Givaot now has about 60 families and the tender would turn it into a town of thousands, that tenders were also issued for commercial and employment areas in Givaot and Modi'in Illit, and that between the Knesset's dissolution on 18 Jul 2026 and the election the government issued tenders for 2,944 units, including 1,234 in E1, for a 2026 total of 5,225 units in Judea and Samaria (<a href=\"https://peacenow.org.il/tenders-after-election\">Peace Now</a>; <a href=\"https://x.com/PeaceNowIL/status/2119756845589917870\">Peace Now on X</a>). The PA's Colonization and Wall Resistance Commission also reported the Givaot tender (<a href=\"https://x.com/palestineultra/status/2119781694278603082\">Ultra Palestine, citing the commission</a>). Peace Now notes the tender text does not warn bidders about European sanctions threats. The counts are Peace Now's; the tenders themselves were not opened on the Israel Land Authority site.",
+      "source": "Peace Now / PA Colonization Commission via Ultra Palestine",
+      "date": "2026-11-08",
+      "url": "https://peacenow.org.il/tenders-after-election",
+      "places": [
+        {
+          "name": "Givaot (Gvaot)",
+          "lat": 31.67896,
+          "lon": 35.10115,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Oranit",
+          "lat": 32.13092,
+          "lon": 34.99196,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-land-grazing-licenses-tubas-abud",
+      "section": "land",
+      "headline": "Grazing licenses on about 5,500 dunams of state land in the Tubas area and near Abud and al-Lubban al-Gharbi, according to the PA commission",
+      "summary": "The PA's Colonization and Wall Resistance Commission said it found two notices from the Civil Administration's custodian of government and abandoned property announcing the intent to grant temporary grazing licenses on land Israel classes as state land: license 203033143 for about 4,037.6 dunams in the Tubas district, and license 203037588 for about 1,460.14 dunams of the lands of Abud and al-Lubban al-Gharbi, northwest of Ramallah, for a total of 5,497.74 dunams (about 1,360 acres). The notices are dated 9 Sep 2026 and allowed 30 days for objections. The commission says this is a step before allocation, not proof that final licenses were issued, and calls grazing allocations a tool for taking control of open land (<a href=\"https://www.wafa.ps/news/2026/11/9/%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D9%84%D9%86-%D9%86%D9%8A%D8%AA%D9%87-%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5\">WAFA</a>). Grazing licenses of this kind are usually granted to Israeli farms. This is the PA body's account; no Israeli report or the notices themselves were found, so the figures are unconfirmed.",
+      "source": "PA Colonization and Wall Resistance Commission via WAFA",
+      "date": "2026-11-09",
+      "url": "https://www.wafa.ps/news/2026/11/9/%D9%87%D9%8A%D8%A6%D8%A9-%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%B9%D9%84%D9%86-%D9%86%D9%8A%D8%AA%D9%87-%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5",
+      "places": [
+        {
+          "name": "Tubas (district, area not mapped)",
+          "lat": 32.32451,
+          "lon": 35.37185,
+          "note": "Nominatim city point; licensed land not mapped, approximate"
+        },
+        {
+          "name": "Abud",
+          "lat": 32.01555,
+          "lon": 35.06906,
+          "note": "Nominatim village point; licensed land not mapped, approximate"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-idf-firing-zone-918",
+      "section": "idf",
+      "headline": "Artillery trains again in Firing Zone 918 in the southern Hebron Hills, for the first time in years, Regavim says",
+      "summary": "Regavim said that over the weekend the army trained in Firing Zone 918 (the Masafer Yatta area) for the first time in years, with guns of the 405th Battalion firing there. Regavim says Palestinians had moved into the zone and built illegally, which kept the army from using it, and recalls that the High Court ruled in 2022 that the building was illegal and could be removed; it says the work is not done until all illegal structures are cleared (<a href=\"https://x.com/Regavim_IL/status/2119738872074486108\">Regavim</a>). Activist Ayelet Lash also cited the May 2022 ruling, which found no permanent residence there before 1980 (<a href=\"https://x.com/ayeletlash9/status/2119799653256343834\">Ayelet Lash</a>). From the Palestinian side, WAFA reported that troops trained with tracked vehicles and armored personnel carriers at Khirbet al-Fakhit in Masafer Yatta on Monday, declared the area a closed military zone and kept residents out (<a href=\"https://www.wafa.ps/news/2026/11/9/%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D8%B1%D9%88%D9%86-%D9%8A%D8%B3%D8%B1%D9%82%D9%88%D9%86-%D8%AB%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%81%D9%8A-%D9%8A%D8%B7%D8%A7\">WAFA</a>). No army statement on the training was found.",
+      "source": "Regavim / WAFA",
+      "date": "2026-11-09",
+      "url": "https://x.com/Regavim_IL/status/2119738872074486108",
+      "places": [
+        {
+          "name": "Yatta (Firing Zone 918 lies to the south)",
+          "lat": 31.44525,
+          "lon": 35.09005,
+          "note": "Nominatim town point; the firing zone is not mapped, approximate"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-attacks-shuyukh-arrests-maale-tidhar",
+      "section": "attacks",
+      "headline": "Two men from al-Shuyukh arrested over last week's attack that hurt two Ma'ale Tidhar shepherds",
+      "summary": "Etzion police detectives and Border Police arrested two residents of al-Shuyukh, aged 28 and 45, overnight into Monday, 9 Nov, about a week after an attack that hurt two shepherds from the Ma'ale Tidhar hilltop. Police said a search of their homes found the distinctive clothing they wore during the attack, and that they were taken for questioning (<a href=\"https://x.com/ElishaYered/status/2119817716240396466\">Elisha Yered, quoting the police</a>; <a href=\"https://x.com/Yotamdeshe97/status/2119766651520598404\">Yotam Deshe</a>; <a href=\"https://x.com/simkha0404/status/2119756259846934850\">Simcha Raz, with police photo</a>).",
+      "source": "Israel Police via Elisha Yered / Israel Hayom (Yotam Deshe) / Olam Katan",
+      "date": "2026-11-09",
+      "url": "https://x.com/Yotamdeshe97/status/2119766651520598404",
+      "places": [
+        {
+          "name": "Ash-Shuyukh",
+          "lat": 31.57694,
+          "lon": 35.15067,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Ma'ale Tidhar",
+          "lat": 31.6104207,
+          "lon": 35.1850793,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-idf-burqa-stone-throwers-shot",
+      "section": "idf",
+      "headline": "Army fires at stone throwers it says were about to target a highway near Burqa; Palestinian health ministry says a 14-year-old was killed",
+      "summary": "The army said forces on an operation on the edge of Burqa, northwest of Nablus, on Monday night spotted several terrorists who meant to throw stones at a highway used by Israeli cars, in an area of recent stone attacks, and fired at them to remove the threat; hits were identified (<a href=\"https://www.inn.co.il/flashes/1140244\">Arutz 7</a>; <a href=\"https://www.okn.co.il/security/78274/\">Olam Katan</a>). The Palestinian health ministry said Israel told it through the PA's civil affairs authority that Mu'taz Iyad Daghlas, 14, was killed and that Israel is holding the body. WAFA and Arab48 also report that a 17-year-old was shot in the abdomen and a 19-year-old in the hand earlier that evening, that three Red Crescent volunteers were detained, and that the boy's father was arrested (<a href=\"https://www.wafa.ps/news/2026/11/9/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B1%D9%82%D8%A9-%D8%B4%D9%85%D8%A7%D9%84\">WAFA</a>; <a href=\"https://www.arab48.com/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2026/11/09/%D8%A7%D8%B3%D8%AA%D8%B4%D9%87%D8%A7%D8%AF-%D8%B7%D9%81%D9%84-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%88%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2-%D8%AC%D8%AB%D9%85%D8%A7%D9%86%D9%87-%D9%81%D9%8A-%D8%A8%D8%B1%D9%82%D8%A9-%D8%B4%D9%85%D8%A7%D9%84-%D8%BA%D8%B1%D8%A8-%D9%86%D8%A7%D8%A8%D9%84%D8%B3\">Arab48</a>). Stones were thrown at the Burqa gas station earlier the same day, and Olam Katan reported stones between Homesh and Shavei Shomron near Burqa (<a href=\"https://x.com/olam_katan/status/2119743917294051540\">Olam Katan</a>). The army has not said whether the boy was among those it fired at; the Palestinian details are unconfirmed.",
+      "source": "IDF via Arutz 7 / Olam Katan; WAFA / Arab48",
+      "date": "2026-11-09",
+      "url": "https://www.inn.co.il/flashes/1140244",
+      "places": [
+        {
+          "name": "Burqa (Nablus)",
+          "lat": 32.29893,
+          "lon": 35.19494,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-pa-jericho-arrests-land-authority",
+      "section": "pa",
+      "headline": "PA security says more than ten people are held over the sale of the Jericho homes to Jews, some with Israeli citizenship; the PA land authority resumes deals for Israeli Arabs under tighter checks",
+      "summary": "PA security forces spokesman Maj. Gen. Anwar Rajab told Raya radio that more than ten people have been arrested over what he called the \"leak\" of about eight homes in al-Duyuk al-Tahta, west of Jericho, to settlers, that they come from several districts, and that some hold Israeli citizenship or are from Jerusalem. He called it an organized network tied to other land and organized-crime cases, said the sales were \"illegal, unofficial and unpatriotic,\" and said those involved should be treated as traitors (<a href=\"https://www.raya.ps/news/1228419.html\">Raya, 8 Nov</a>). Euronews Arabic reports that the PA land authority has now resumed land purchases and registrations for Arab citizens of Israel and Jerusalem residents, after suspending them last week, with stricter document checks; the PA land authority denies there were any valid sale papers and says one of the two plots is state land (<a href=\"https://arabic.euronews.com/2026/11/09/palestinian-authority-land-transactions-arab-israelis-amid-jericho-property-controversy\">Euronews Arabic</a>). HaKol HaYehudi notes that about 20 Jewish families moved into the eight homes last week in an operation led by the Nachala movement, that they say the homes were bought in full with ownership papers, and that PA law treats land sales to Jews as treason, punishable since 2014 by life with hard labor (<a href=\"https://x.com/hakolhayehudi/status/2119831545523384806\">HaKol HaYehudi</a>). The Times of Israel also reported the arrests (its page was blocked to this desk).",
+      "source": "PA security spokesman via Raya / Euronews Arabic / HaKol HaYehudi",
+      "date": "2026-11-09",
+      "url": "https://www.raya.ps/news/1228419.html",
+      "places": [
+        {
+          "name": "Ein ad-Duyuk at-Tahta, Jericho",
+          "lat": 31.8674392,
+          "lon": 35.4380861,
+          "note": "Nominatim (neighborhood point; the exact homes are not plotted)"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-pa-mk-pa-money-suspicion",
+      "section": "pa",
+      "headline": "Channel 14: intelligence material suggests a senior Arab-party MK received tens of thousands of shekels from the PA over a long period",
+      "summary": "Channel 14 military and security reporter Hallel Bitton Rosen reported on Monday, 9 Nov, that material received by the security establishment raises the suspicion that a senior MK from an Arab party received tens of thousands of shekels from the Palestinian Authority every month for a long period. The material is with investigators and security bodies, who are checking it quietly, including why he got the money and what he provided in return (<a href=\"https://x.com/BittonRosen/status/2119851996115096035\">Hallel Bitton Rosen</a>). Olam Katan carried the report and stressed that these are unproven suspicions; the MK was not named (<a href=\"https://www.okn.co.il/news/78225/\">Olam Katan</a>). Single-outlet report; unconfirmed.",
+      "source": "Channel 14 (Hallel Bitton Rosen) / Olam Katan",
+      "date": "2026-11-09",
+      "url": "https://x.com/BittonRosen/status/2119851996115096035",
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-pa-pay-for-slay-jcfa",
+      "section": "pa",
+      "headline": "JCFA study: the PA still pays more than 20 million shekels a month to prisoners, and Israel has seized only about 15 percent of the money it ordered taken",
+      "summary": "A study by Lt. Col. (res.) Maurice Hirsch, a former chief military prosecutor in Judea and Samaria, at the Jerusalem Center for Foreign Affairs and Security (JCFA), finds the PA and PLO still pay more than 20 million shekels a month to terrorists held in Israel and their families, despite Israeli law and Mahmoud Abbas's pledge to Washington to stop. Payments rise with time served, from 1,400 shekels a month in the first three years to 12,000 shekels after 30 years. Since 2019 defense ministers have issued seizure orders worth 50 million shekels, but Hirsch estimates no more than 15 percent was actually seized. After banks were warned in 2020, about 35,000 accounts were closed and the PA moved to cash at post offices and then to special ATMs outside the banking system, which he says Israel should map and target (<a href=\"https://www.ynet.co.il/news/article/sjnyjwk0fe\">Ynet</a>). The figures are the study's.",
+      "source": "Ynet (JCFA study by Maurice Hirsch)",
+      "date": "2026-11-09",
+      "url": "https://www.ynet.co.il/news/article/sjnyjwk0fe",
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-pa-hebron-channel-marwan-issa",
+      "section": "pa",
+      "headline": "Hebron news channel posts a memorial poster for Hamas commander Marwan Issa, JSR says",
+      "summary": "JSR said the Hebron Telegram channel \"Hebron News Network\" published a memorial poster for Marwan Issa, deputy to Hamas military chief Mohammed Deif and one of the planners of the 7 October massacre, who was killed in an Israeli strike in Gaza in March 2024. The poster calls him \"the great martyred commander\" next to a eulogy from the Hamas military wing's website (<a href=\"https://x.com/JSR_HEB/status/2119820834910912967\">JSR</a>). JSR's report; the channel itself was not checked.",
+      "source": "JSR Situation Room",
+      "date": "2026-11-09",
+      "url": "https://x.com/JSR_HEB/status/2119820834910912967",
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-idf-seized-property-18m",
+      "section": "idf",
+      "headline": "Property seized in Judea and Samaria reached almost 18 million shekels in 2025, up from 1.9 million in 2019, army data show",
+      "summary": "Israel Hayom's Yotam Deshe reports, from army data released under a freedom-of-information request, that property worth almost 18 million shekels was seized in Judea and Samaria in 2025, against about 1.9 million in 2019. The jump began in 2024, when about 10.8 million shekels' worth was seized, more than in the five years before combined (<a href=\"https://x.com/Yotamdeshe97/status/2119853263218704503\">Yotam Deshe</a>). The post does not say what kinds of property or whose; single source.",
+      "source": "Israel Hayom (Yotam Deshe), army FOI data",
+      "date": "2026-11-09",
+      "url": "https://x.com/Yotamdeshe97/status/2119853263218704503",
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-negev-al-battuf-protection-sweep",
+      "section": "negev",
+      "headline": "Al-Battuf council head Ahed Rahal among about 50 arrested in a nationwide protection-racket sweep; his son is charged in a case involving a Mekorot water site",
+      "summary": "About 500 police and Border Police officers arrested some 50 suspects on Monday, 9 Nov, in 15 separate protection-racket cases, at the end of a 10-month covert investigation named \"Shadow Guardians.\" Among them is Ahed Rahal, 55, head of the al-Battuf council in the Lower Galilee, whose detention was extended to 15 Nov (<a href=\"https://www.ynet.co.il/news/article/sy6vivyrfx\">Ynet</a>). HaKol HaYehudi reports that his son, Rida Rahal, is charged with extorting protection money for a guard company he ran with Odai Idrib, a criminal from Tamra, after a contractor running a Mekorot (national water company) facility stopped paying (<a href=\"https://x.com/hakolhayehudi/status/2119882991451189261\">HaKol HaYehudi, via Meir Ettinger</a>). Activist Meir Ettinger says Rahal met Gadi Eisenkot to ask that Ra'am be in the government (<a href=\"https://x.com/meiretingr/status/2119885864478372124\">Meir Ettinger</a>); that meeting is his claim and was not confirmed elsewhere.",
+      "source": "Ynet / HaKol HaYehudi / Meir Ettinger",
+      "date": "2026-11-09",
+      "url": "https://www.ynet.co.il/news/article/sy6vivyrfx",
+      "places": [
+        {
+          "name": "Al-Battuf Regional Council",
+          "lat": 32.78339,
+          "lon": 35.30336,
+          "note": "Nominatim (council area point)"
+        },
+        {
+          "name": "Tamra",
+          "lat": 32.85349,
+          "lon": 35.19787,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-negev-arab-leaders-statements",
+      "section": "negev",
+      "headline": "Mansour Abbas praises Khaled Meshaal's \"positive\" speech to the Fatah conference; Balad MK Nasasra hopes \"all the prisoners\" go free; Tibi wants Eisenkot to be \"like Rabin\"",
+      "summary": "Moran Tal posted video of Ra'am leader Mansour Abbas, in an interview she says was conducted by actor Hisham Suliman, saying Hamas's participation in the Fatah conference and the speech by its political bureau head Khaled Meshaal was \"detailed and positive and gave a new spirit\" to Palestinian national action and unity, that Fatah and Hamas are the two most important Palestinian factions, and that a Palestinian state \"will be a reality\" despite \"racist, fascist Israeli obstacles\" (<a href=\"https://x.com/MoranT555/status/2119919702449463598\">Moran Tal, with video</a>). She also posted video from Jaffa, at the release of Balad activist Abed Abu Shehadeh on Sunday, in which incoming Balad MK Hassan al-Nasasra expressed hope that \"all the prisoners\" would be freed; Ayelet Lash quoted him as greeting \"all the prisoners inside the jails\" (<a href=\"https://x.com/MoranT555/status/2119890222179602475\">Moran Tal</a>; <a href=\"https://x.com/ayeletlash9/status/2119891059459387745\">Ayelet Lash</a>). Channel 14's Arab-affairs editor Omri Haim quoted Ahmad Tibi saying overnight: \"We want Eisenkot to be like Rabin... Rabin in the 1990s relied for four years in a minority government on two Arab parties,\" and linked it to a senior PA official hoping the next Israeli government has the \"courage\" to overcome obstacles with them (<a href=\"https://x.com/HaimOmri/status/2119715025036128450\">Omri Haim</a>; <a href=\"https://x.com/HaimOmri/status/2119861342232338530\">Omri Haim</a>). The quotes come from the videos these accounts posted; the full interviews were not checked.",
+      "source": "Moran Tal / Ayelet Lash / Channel 14 (Omri Haim)",
+      "date": "2026-11-09",
+      "url": "https://x.com/MoranT555/status/2119919702449463598",
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-negev-dan-bus-anthem",
+      "section": "negev",
+      "headline": "A Dan bus driver in Tel Aviv played \"Fida'i,\" the PA anthem, over the bus speaker, a passenger told Elchanan Groner",
+      "summary": "Elchanan Groner of HaKol HaYehudi posted a passenger's video and account from Monday morning, 9 Nov: \"Bus in Tel Aviv this morning. The driver played 'Fida'i', the anthem of the Palestinian Authority, on the bus speaker\" (<a href=\"https://x.com/elchanangr/status/2119678796332724507\">Elchanan Groner</a>). Channel 14 and Olam Katan carried it; Olam Katan noted it rests on one passenger's account, the line and driver are not known, and Dan had not responded (<a href=\"https://x.com/C14_news/status/2119695853333918097\">Channel 14</a>; <a href=\"https://www.okn.co.il/israel/77950/\">Olam Katan</a>). Unconfirmed beyond the video.",
+      "source": "Elchanan Groner / Channel 14 / Olam Katan",
+      "date": "2026-11-09",
+      "url": "https://x.com/elchanangr/status/2119678796332724507",
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-idf-quneitra-shepherd",
+      "section": "idf",
+      "headline": "Southern Syria: Syrian media say an Israeli patrol shot a shepherd near Bir Ajam in Quneitra",
+      "summary": "Syria's SANA and the Quneitra media office said an Israeli army patrol entered the Bir Ajam woods in southern Quneitra on Monday, 9 Nov, and shot a shepherd, who was taken to Golan National Hospital, and that a SANA reporter and local media crew in the village came under fire without injury. Arab48, which carried the report, also cites Anadolu interviews with farmers in Daraa and Quneitra who say Israeli posts and checkpoints have kept them from their land since 2024 (<a href=\"https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/2026/11/09/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B1%D8%A7%D8%B9-%D8%A8%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%AA%D8%B7%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86\">Arab48</a>). Syrian official media's account; no IDF statement found. Halutzei HaBashan posted nothing new on Quneitra this run.",
+      "source": "SANA via Arab48",
+      "date": "2026-11-09",
+      "url": "https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/2026/11/09/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B1%D8%A7%D8%B9-%D8%A8%D9%86%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-%D9%88%D8%B3%D8%B7-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83%D8%A7%D8%AA-%D8%AA%D8%B7%D8%A7%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A%D9%86",
+      "places": [
+        {
+          "name": "Bir Ajam, Quneitra (Syria)",
+          "lat": 33.05314,
+          "lon": 35.86736,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-land-binyamin-culture-program",
+      "section": "land",
+      "headline": "Binyamin Council puts one million shekels into \"HaZe'evim,\" a program for 11 local nightlife and culture businesses",
+      "summary": "The Binyamin Regional Council, through its community center arm Binyamin Plus, launched \"HaZe'evim\" (\"the wolves\"), a one-million-shekel program to develop nightlife, culture and food venues. Eleven entrepreneurs were picked for two months of mentoring by five local business heads, including the Psagot winery owner, with grants at the end; only after the selection did the council learn the 11 had served 3,160 reserve days in the war. Council head and Yesha Council chairman Israel Ganz said: \"We are making Binyamin the best place to live\" (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78010/\">Olam Katan</a>; <a href=\"https://x.com/simkha0404/status/2119731774443913724\">Simcha Raz</a>).",
+      "source": "Olam Katan (Simcha Raz)",
+      "date": "2026-11-09",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78010/",
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-idf-lubban-olive-clearing",
+      "section": "idf",
+      "headline": "Army clears olive trees beside Route 60 near the Lubban schools after repeated stonings, Ayelet Lash says",
+      "summary": "Activist Ayelet Lash posted a photo and wrote that, after many stone attacks on Route 60, soldiers began clearing the ground near the schools of Lubban (al-Sharqiya) and cutting olive trees close to the road. She argues the army should act against the places the stones are thrown from rather than the trees, and predicts the stoning will go on (<a href=\"https://x.com/ayeletlash9/status/2119752751219417373\">Ayelet Lash</a>). Her report; no army statement or second source was found.",
+      "source": "Ayelet Lash",
+      "date": "2026-11-09",
+      "url": "https://x.com/ayeletlash9/status/2119752751219417373",
+      "places": [
+        {
+          "name": "Lubban al-Sharqiya (Route 60)",
+          "lat": 32.0713,
+          "lon": 35.2412,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
+    {
+      "id": "2026-11-10-attacks-palestinian-reports-beita-yatta",
+      "section": "attacks",
+      "headline": "Palestinian reports: equipment burned at the Beita stone works; olives taken in Yatta; a new road near Asael",
+      "summary": "WAFA, citing Palestinian security sources, and Arab48 say dozens of settlers burned three excavators and other vehicles and equipment at stone-cutting works in the Beita industrial area south of Nablus on Monday evening, 9 Nov (<a href=\"https://www.arab48.com/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2026/11/09/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D8%AD%D8%B1%D9%82%D9%88%D9%86-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA%D8%A7-%D8%AC%D9%86%D9%88%D8%A8-%D9%86%D8%A7%D8%A8%D9%84%D8%B3\">Arab48</a>). WAFA also says settlers took olives from a grove at Khallet al-Hummus in Yatta (<a href=\"https://www.wafa.ps/news/2026/11/9/%D9%85%D8%B3%D8%AA%D8%B9%D9%85%D8%B1%D9%88%D9%86-%D9%8A%D8%B3%D8%B1%D9%82%D9%88%D9%86-%D8%AB%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B2%D9%8A%D8%AA%D9%88%D9%86-%D9%81%D9%8A-%D9%8A%D8%B7%D8%A7\">WAFA</a>). Kerem Navot's Dror Etkes posted a photo of work on a road north of Asael in the southern Hebron Hills that he says will link it to a new outpost south of Samu' (<a href=\"https://x.com/dror_etkes/status/2119891440075755843\">Dror Etkes</a>). Beita has long been a flashpoint near Evyatar, where Israelis were attacked the same day (see the lead item). These are Palestinian and activist claims; no police, army or Israeli-side account was found.",
+      "source": "WAFA / Arab48 / Dror Etkes",
+      "date": "2026-11-09",
+      "url": "https://www.arab48.com/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2026/11/09/%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D9%88%D9%86-%D9%8A%D8%AD%D8%B1%D9%82%D9%88%D9%86-%D8%A2%D9%84%D9%8A%D8%A7%D8%AA-%D9%88%D9%85%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D9%8A%D8%AA%D8%A7-%D8%AC%D9%86%D9%88%D8%A8-%D9%86%D8%A7%D8%A8%D9%84%D8%B3",
+      "places": [
+        {
+          "name": "Beita",
+          "lat": 32.1423,
+          "lon": 35.2857,
+          "note": "earlier desk point"
+        },
+        {
+          "name": "Yatta",
+          "lat": 31.44525,
+          "lon": 35.09005,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Asael",
+          "lat": 31.37345,
+          "lon": 35.04376,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-10",
+      "published": "2026-11-10T05:00:00+02:00",
+      "letter": "PA security: 10 Nov 2026"
+    },
     {
       "id": "2026-11-09-attacks-jsr-five-incidents-104-stonings",
       "section": "attacks",
