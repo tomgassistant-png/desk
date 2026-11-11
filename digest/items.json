@@ -1012,6 +1012,10 @@
   "2026-11-10": {
    "intro": "Israel: the 26th Knesset is sworn in today with no government; Eisenkot and Liberman agree the speaker will come from Yashar!. On interference claims, the High Court rejects a petition against the attorney general and reports say the Shin Bet and police have found little evidence so far; no effect on the results has been shown. Also: Druze from Syria seek treatment in Israel almost daily; judoka Teddy Riner runs for French president; Meta answers Brazil's electoral court; SpaceX plans a $24 billion power plant and computing site at Starbase; and a Tucker Carlson interview request for Land surfaces in a Dangerous Maybe talk.",
    "quiet": "Nothing material on the Carney case, Trenton, Greenland, Quebec, Colombia and Israel, Israeli data centers, HaShiloach (no new essay), Belle Burden, Trump and Xi, Marc Andreessen or non-Latin script digitization. No new Israeli reaction to EUSM Lebanon and no verified election appeal filing."
+  },
+  "2026-11-11": {
+   "intro": "Israel: police tell the attorney general the Shin Bet's material on foreign election interference does not support election-finance or security offenses, and Liberman will call the Shin Bet chief and police commissioner to explain the gap; the Knesset is sworn in amid a clash over Netanyahu's speech, and the vote on replacing Speaker Ohana is set for 17 November, with Matan Kahana as the bloc's pick. Also: Zemmour declares in France; Brazil's electoral court fines Meta; Wales sets up a commission that will weigh independence; Israel's AI plan targets 300,000 GPUs; and a Spanish-language essay maps Land's reception in China.",
+   "quiet": "Nothing material on the Carney case, Trenton, Greenland, Colombia and Israel, HaShiloach (no new essay), Belle Burden, Marc Andreessen, non-Latin script digitization, or SpaceX, xAI and Cursor (no new Grok Bot or Cursor changelog entries since 6 November). No new Israeli reaction to EUSM Lebanon and no verified election appeal filing."
   }
  },
  "items": [
@@ -11042,6 +11046,299 @@
     {
      "name": "Fritinancy (Substack)",
      "url": "https://fritinancy.substack.com/p/word-of-the-week-hyperstition"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-israel-election-1",
+   "edition": "2026-11-11",
+   "section": "israel-election",
+   "headline": "Knesset sworn in: Netanyahu attacks the Arab parties in his speech and Eisenkot cancels a planned meeting with Likud; Ohana sets the vote on replacing him for 17 November; Matan Kahana, not Eisenkot, is the bloc's choice for speaker",
+   "lead": "The 26th Knesset was sworn in on Tuesday, 10 November ([map](https://www.google.com/maps/search/?api=1&query=31.7765,35.2054)), and Speaker Amir Ohana announced that evening that, after a request signed by 67 members, the plenum will debate and vote on electing a new speaker on Tuesday, 17 November, at 4 PM Israel time (ynet; Ohana's statement as posted by Hezki Baruch of Arutz 7).",
+   "text": "Correction to yesterday's item: ynet and Tal Schneider now report that the bloc's speaker-designate is Matan Kahana of Yashar!, not Gadi Eisenkot himself; ynet says Eisenkot first wanted the post but decided Kahana would hold it at least during coalition talks. Ohana said he opposes the move because, citing media reports, it aims to pass laws giving more power to the attorney general, but that he will respect the majority. At the traditional faction-leaders' photo event, Prime Minister Benjamin Netanyahu called again for a \"national unity government\" led by him, attacked the change bloc's contacts with Ra'am, and told the Haredi parties that even a narrow government without him must not be formed; when Netanyahu said the influence of foreign actors on the results must be investigated \"to the end\", Naftali Bennett (B'Yachad) shouted back, asking about a state inquiry into 7 October and \"your Qatari advisers\", Yair Golan (Democrats) walked out, and Gilad Kariv was removed (ynet; Hezki Baruch on X). Members of the Joint List left the plenum during the national anthem; Ra'am's members stayed (ynet). Eisenkot then canceled a negotiating meeting with Likud planned for Wednesday, 11 November, citing what Yashar! called Netanyahu's \"divisive speech\"; ynet reports the meeting was to be between Ronen Manelis for Yashar! and Netanyahu associate Michael Rabilo. Likud said Netanyahu \"will turn every stone\" for unity and will not cooperate with \"supporters of terror\" (ynet; Hezki Baruch on X); Likud also pointed to the Joint List's walkout. Avigdor Liberman (Yisrael Beytenu) said he will not sit in any government that includes Netanyahu, though he has \"no problem\" with Likud without him (N12). On the first day, Yashar! filed bills to set up a state commission of inquiry into 7 October, to limit a prime minister's time in office, and to repeal several of the outgoing government's judicial and legal changes; Yair Lapid (B'Yachad) filed bills for a Basic Law on the Declaration of Independence, civil partnerships and an eight-year term limit (ynet). Ra'am chair Mansour Abbas told ynet that Netanyahu told him at a 2021 meeting at the prime minister's residence that he and Yahya Sinwar \"understand each other\"; Likud called this \"a total lie\". This is his claim only. No government has been formed.",
+   "sources": [
+    {
+     "name": "Hebrew: ynet, Ohana sets the speaker vote; Kahana named",
+     "url": "https://www.ynet.co.il/news/article/r1hqcplrfg"
+    },
+    {
+     "name": "X: Hezki Baruch, Ohana's statement (67 members, 17.11 at 16:00)",
+     "url": "https://x.com/HezkeiB/status/2120200448623718638"
+    },
+    {
+     "name": "X: Tal Schneider, speaker-designate Matan Kahana",
+     "url": "https://x.com/talschneider/status/2120155555683823896"
+    },
+    {
+     "name": "Hebrew: ynet, Netanyahu's speech and Bennett's interruption",
+     "url": "https://www.ynet.co.il/news/article/h1jgohxcmx"
+    },
+    {
+     "name": "X: Hezki Baruch, Bennett's interruption",
+     "url": "https://x.com/HezkeiB/status/2120181944717844753"
+    },
+    {
+     "name": "Hebrew: ynet, Eisenkot cancels the Likud meeting",
+     "url": "https://www.ynet.co.il/news/article/ry0voalaze"
+    },
+    {
+     "name": "X: Hezki Baruch, Yashar! cancels the meeting",
+     "url": "https://x.com/HezkeiB/status/2120211121131192630"
+    },
+    {
+     "name": "Hebrew: ynet, Rabilo was to represent Likud",
+     "url": "https://www.ynet.co.il/news/article/hy64djwazx"
+    },
+    {
+     "name": "Hebrew: N12, Liberman: \"I will not be there\"",
+     "url": "https://www.mako.co.il/news-politics/2026_q4/Article-c58dc5c9265c1a1027.htm"
+    },
+    {
+     "name": "Hebrew: ynet, first-day bills",
+     "url": "https://www.ynet.co.il/news/article/skg5qhgrzg"
+    },
+    {
+     "name": "Hebrew: ynet, Mansour Abbas on Netanyahu and Sinwar",
+     "url": "https://www.ynet.co.il/news/article/h16f11aerfx"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-israel-election-interference-watch",
+   "edition": "2026-11-11",
+   "section": "israel-election",
+   "headline": "Interference watch: police tell the attorney general the Shin Bet material does not support election-finance or security offenses; Liberman will summon the Shin Bet chief and police commissioner; Solberg orders a Ramat Gan mayor's WhatsApp groups closed",
+   "lead": "The Israel Police sent Attorney General Gali Baharav-Miara a professional opinion on Tuesday, 10 November, after reviewing the intelligence material the Shin Bet handed over, finding that it does not support a suspicion of election-finance offenses or security offenses; a police source told ynet there are \"no dramas\" about foreign influence on the election (ynet, Hebrew).",
+   "text": "This is a police assessment sent to the attorney general, not a final decision: no one has been charged or cleared, and the attorney general has not announced a decision on it. No effect on turnout, votes, counting or seats has been shown, and no election appeal filing was found.",
+   "body": [
+    "How the police opinion is described. Reports differ in detail. ynet's headline quotes police as saying there is \"no election-finance offense\". Arab48, citing Channel 12, says police doubt the investigation can progress and that the matter may come down to \"a minor error\" by former MK Ayman Odeh, without saying what it is; citing i24NEWS, it says the material raises at most suspicions about party financing, not vote-buying or foreign interference (Arab48, Arabic; Panet, Arabic, carries the same police line). Haaretz reports that police consider the Shin Bet's evidence on Odeh, who is suspected of receiving money from the Palestinian Authority, \"thin\" and not enough to question him under caution. An Israel Hayom headline says the Shin Bet answers that it has more material (headline only; the article could not be read here). The Shin Bet's original claims, presented to the Central Elections Committee last week, spoke of large sums from Qatar, Turkey and the Palestinian Authority to people linked to the Arab parties (ynet).",
+    "Likud's response. Sagi Keizler, who runs Likud's \"election integrity\" headquarters and its work in the Arab community, said Likud gave the police commissioner's office 1,281 detailed complaints more than a week ago, including dozens it says raise strong suspicion of vote-buying in the Arab community, and that not one has been examined; he said more than 1,200 polling-station committee members are ready to give statements. This is Likud's claim; no police reply to it was found. ynet notes that in 2019 Keizler's advertising firm boasted of its role in placing hidden cameras at polling stations in Arab towns, after which filming inside polling stations was banned (ynet).",
+    "Knesset oversight. Liberman, due to chair the Foreign Affairs and Defense Committee, said the first thing he will do there is invite Shin Bet chief David Zini and Police Commissioner Danny Levi to ask about the foreign-interference claims, because there is \"an unreasonable gap\" between them (ynet). In his Knesset speech, Netanyahu said the influence of foreign actors on the election results must be investigated \"to the end\" (ynet).",
+    "Meeting with the Elections Committee chair (one reporter's account). Channel 14's Matti Tuchfeld reports that Central Elections Committee chair Justice Noam Solberg has summoned Zini, the attorney general and police investigations chief Boaz Blatt to his office on Thursday, 12 November, to review the investigation, and that he promised this to right-wing parties' representatives on the committee in return for their not objecting to the results; it also says that if he finds gaps he may intervene. Channel 14 is right-leaning, and 0404 repeats the same report. The committee has not confirmed it, so this is unconfirmed.",
+    "A separate ruling on misuse of an official position. On 10 November Solberg accepted an appeal by Ramat Gan council member Liad Ilani ([map, approximate: Ramat Gan](https://www.google.com/maps/search/?api=1&query=32.0687,34.8247)) and ordered Mayor Carmel Shama-Hacohen to close private WhatsApp groups, opened during the missile fire from Iran under names such as \"Ramat Gan emergency updates\", in which he mixed emergency alerts with election propaganda. Solberg wrote that the mayor \"exploited security information\" he had access to through his office to gather members, noted it was not his first violation, and ordered him to pay Ilani 18,000 shekels in costs personally (Israel Hayom; Kan). The mayor had argued the information came from contacts built over years, not from his office (Channel 14 summary)."
+   ],
+   "sources": [
+    {
+     "name": "Hebrew: ynet, police opinion to the attorney general",
+     "url": "https://www.ynet.co.il/news/article/sjtdaaxcfg"
+    },
+    {
+     "name": "Arabic: Arab48, the case \"is falling apart\"",
+     "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/10/ملف-التدخل-الأجنبي-بالانتخابات-يتداعى--شبهات-محدودة-بشأن-تمويل-الأحزاب-"
+    },
+    {
+     "name": "Arabic: Panet, police opinion",
+     "url": "https://panet.com/story/4311778"
+    },
+    {
+     "name": "Hebrew: Haaretz, police see evidence on Odeh as thin (paywalled)",
+     "url": "https://www.haaretz.co.il/news/elections/2026-11-10/ty-article/000001a1-c6df-dba2-a9f9-d7fffa300000"
+    },
+    {
+     "name": "Hebrew: ynet, Liberman will summon Zini and Levi",
+     "url": "https://www.ynet.co.il/news/article/bjm2cfxczx"
+    },
+    {
+     "name": "Hebrew: Channel 14 (right-leaning), Solberg summons the investigators",
+     "url": "https://www.c14.co.il/article/1782105"
+    },
+    {
+     "name": "Hebrew: 0404, same report",
+     "url": "https://0404.co.il/article/1187501"
+    },
+    {
+     "name": "Hebrew: Israel Hayom, ruling against Ramat Gan's mayor",
+     "url": "https://www.israelhayom.co.il/news/law/article/21822726"
+    },
+    {
+     "name": "Hebrew: Kan, WhatsApp groups to be closed",
+     "url": "https://www.kan.org.il/content/kan-news/local/1117924/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-lebanon-1",
+   "edition": "2026-11-11",
+   "section": "lebanon",
+   "headline": "Sweida (Syria): the Druze National Guard closes three offices linked to the Kurdish-led women's units and sends their staff to its military court",
+   "lead": "The National Guard, the armed force in Sweida that answers to Druze cleric Sheikh Hikmat al-Hijri and not to the Syrian government, closed and sealed three offices in Sweida city on Monday, 9 November: the military office of the Women's Protection Units (YPJ, a Kurdish-led force tied to the Syrian Democratic Forces), a women's office and a women's league office (Verify-Sy, Arabic).",
+   "text": "Verify-Sy, a Syrian fact-checking platform, says local sources told it the closure process began about a month ago and ended with the offices sealed and their staff referred for investigation to the National Guard's military judiciary. An unnamed source in the YPJ military office blamed a change of policy by the SDF-run areas east of the Euphrates as they merge with the government in Damascus, and accused officials there of trying to recruit people in Sweida, promote the merger and collect daily intelligence reports; a source close to the women's office said it had in fact closed on 25 September under pressure to promote the merger. Verify-Sy says it could not confirm these accusations and the YPJ did not respond. Suwayda 24, a local activist network, reported on 10 November that local sources tied the closures to the end of SDF support for the National Guard, while other local reports spoke of recruitment, information-gathering and promotion of the merger. No new Israeli reaction to the EU Support Mission in Lebanon (EUSM) and no new contributing country were found.",
+   "sources": [
+    {
+     "name": "Arabic: Verify-Sy (تأكد)",
+     "url": "https://www.verify-sy.com/ar/factcheck/national-guard-closes-ypj-linked-offices-suwayda"
+    },
+    {
+     "name": "X: Suwayda 24 (local network)",
+     "url": "https://x.com/suwayda24/status/2120220272058081676"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-france-election-1",
+   "edition": "2026-11-11",
+   "section": "france-election",
+   "headline": "Éric Zemmour officially declares for president; first Ifop poll on Teddy Riner: 22% \"ready\" to vote for him",
+   "lead": "Éric Zemmour, 68, head of Reconquête!, announced on the TF1 evening news on Tuesday, 10 November, that he is a candidate in the 2027 presidential election: \"I am running to keep France French and so that our future is French\" (RTL).",
+   "text": "Zemmour, who won 7.07% in the first round in 2022, promised a referendum on immigration policy and said he would send home foreigners unemployed for more than six months (RTL; La Nouvelle République). La Nouvelle République, citing a franceinfo count, says 37 people have now declared. An Ifop poll for LCI and Sud Radio, taken online on 9 and 10 November among 1,003 adults, found 22% would be ready to vote for judo champion Teddy Riner, who declared on 9 November, and 70% have a good opinion of him; 20 Minutes notes this measures willingness, not voting intention. On Polymarket, checked about 4:20 AM Israel time on 11 November, Marine Le Pen is at about 46%, Jean-Luc Mélenchon 13.5%, David Lisnard 13% (down from 14%), Édouard Philippe 8.5% (down from 9.5%) and Riner 2.6%.",
+   "sources": [
+    {
+     "name": "French: RTL, Zemmour declares",
+     "url": "https://www.rtl.fr/actu/politique/je-me-presente-pour-conserver-une-france-francaise-eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027-7900694983"
+    },
+    {
+     "name": "French: La Nouvelle République",
+     "url": "https://www.lanouvellerepublique.fr/a-la-une/presidentielle-2027-eric-zemmour-officiellement-candidat-pour-conserver-une-france-francaise-1794340919"
+    },
+    {
+     "name": "French: 20 Minutes, Ifop poll on Riner",
+     "url": "https://www.20minutes.fr/politique/4262076-20261110-presidentielle-2027-22-francais-prets-voter-teddy-riner-selon-premier-sondage"
+    },
+    {
+     "name": "Polymarket",
+     "url": "https://polymarket.com/event/next-french-presidential-election"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-brazil-1",
+   "edition": "2026-11-11",
+   "section": "brazil",
+   "headline": "Electoral court fines Meta R$7.5 million for not obeying its orders on equal treatment of Lula and Flávio; Federal Police open an inquiry into suspected foreign money in Flávio Bolsonaro's campaign",
+   "lead": "Brazil's Superior Electoral Court (TSE) voted unanimously on Tuesday, 10 November, to fine Meta R$7.5 million for not fully obeying court orders meant to ensure equal treatment of the presidential campaigns, following rapporteur Justice Marco Aurélio Bellizze (G1).",
+   "text": "The case was brought by President Lula's campaign, which said Meta treated the two sides unequally in the reach of political content and ads in the runoff. According to G1, the court found that Meta replaced the court's deadlines with its own, gave information piecemeal and in technical foreign-language terms, and lacked transparency; the fine is for not complying, and Bellizze said this case cannot show that Meta acted deliberately to tilt the election, which would need strong evidence. Meta's lawyer said all orders were obeyed and that only brief technical failures occurred (G1). Separately, the Federal Police opened a formal inquiry, ordered in October by Supreme Court Justice Flávio Dino, into suspected money from the United States for Flávio Bolsonaro's campaign through Meta and the US conservative group Rockbridge Network; in his October order Dino cited \"intensifying signs of foreign interference\" and asked about a possible link between electoral support and foreign economic interest in Brazil's rare earths and critical minerals (CNN Brasil). No findings have been published.",
+   "sources": [
+    {
+     "name": "Portuguese: G1, TSE fines Meta",
+     "url": "https://g1.globo.com/politica/noticia/2026/11/10/tse-meta-descumprir-decisao-sobre-eleicoes.ghtml"
+    },
+    {
+     "name": "Portuguese: CNN Brasil, Federal Police inquiry",
+     "url": "https://www.cnnbrasil.com.br/politica/pf-instaura-inquerito-sobre-uso-de-verba-estrangeira-na-campanha-de-flavio/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-quebec-1",
+   "edition": "2026-11-11",
+   "section": "quebec",
+   "headline": "First Pallas Data poll since the election: low satisfaction with the new PQ government, and the CAQ keeps falling",
+   "lead": "A Pallas Data poll for Qc125 and 338Canada, taken on 7 November among 1,094 Quebec respondents, finds the new Parti Québécois government starting with \"a particularly low\" satisfaction rate, though many voters seem willing to give it a chance, Philippe J. Fournier wrote on 10 November (Qc125).",
+   "text": "Fournier says the CAQ continues to sink and that only the PQ and the Quebec Liberals appear to benefit. The figures themselves are behind the newsletter's paywall and were not seen here, so no numbers are given. The poll comes three weeks before the National Assembly session opens.",
+   "sources": [
+    {
+     "name": "French: Qc125 (Philippe J. Fournier)",
+     "url": "https://www.qc125.ca/p/sondage-pallas-pas-de-lune-de-miel"
+    },
+    {
+     "name": "338Canada (English version)",
+     "url": "https://www.338canada.ca/p/pallas-data-no-honeymoon-for-quebecs"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-uk-breakup-politics-1",
+   "edition": "2026-11-11",
+   "section": "uk-breakup-politics",
+   "headline": "Wales's Plaid Cymru government sets up a standing National Commission that will weigh independence, a federal UK and more devolution",
+   "lead": "The Welsh government announced on Tuesday, 10 November, a National Commission for Wales, an independent standing advisory body on the country's constitutional future, co-chaired by former ambassador to France Dame Menna Rawlings and constitutional law professor Emyr Lewis (Welsh government; BBC).",
+   "text": "Constitution Minister Dafydd Trystan Davies said it will cost \"in the ballpark\" of £500,000 a year. It will advise on devolving powers over the Crown Estate, rail, justice and policing, and on moving responsibilities to regional and local levels; independence is one of three options it will consider, with enhanced devolution and a federal UK (Welsh government; BBC). Plaid Cymru has ruled out an independence referendum this Senedd term, which runs to 2030. Rob Hughes, chair of the pro-independence group YesCymru, called it a step toward independence and said the group is looking at a referendum in 2032; Reform said the commission is a waste of time and money (BBC). It is not clear when the commission will report. A 2024 commission concluded that independence was a viable option (BBC).",
+   "sources": [
+    {
+     "name": "Welsh government announcement",
+     "url": "https://www.gov.wales/constitutional-future-of-wales-to-be-considered-by-new-national-commission"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://www.bbc.com/news/articles/cjg474pw274do"
+    },
+    {
+     "name": "Welsh: BBC Cymru Fyw",
+     "url": "https://www.bbc.com/cymrufyw/erthyglau/cwdr8rvrrm2zo"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-trump-and-xi-1",
+   "edition": "2026-11-11",
+   "section": "trump-and-xi",
+   "headline": "WSJ: the US resists China's wish for a tightly scripted Trump–Xi–Putin meeting; Musk is expected in Trump's APEC delegation",
+   "lead": "Beijing wants any three-way meeting of the US, Chinese and Russian leaders at APEC in Shenzhen to be highly scripted, with each reading a prepared statement and little room for discussion, and Washington is balking, according to people familiar with the planning (The Wall Street Journal, via Mint, 10 November).",
+   "text": "Separately, the South China Morning Post reported, as summarized by Lianhe Zaobao, that Elon Musk and Mastercard's Michael Miebach are expected to join Trump at the summit in Shenzhen on 18 and 19 November. Nvidia's Jensen Huang, who traveled with Trump to Beijing in May, is unlikely to go: Nvidia announced an investigation of him on Monday after reports that he was targeted by a Chinese intelligence operation, and the House has asked him to a closed briefing on 18 November. China's Foreign Ministry spokesman Guo Jiakun called the spying claims \"completely groundless\" (Lianhe Zaobao, Chinese). Trump is expected to meet Xi there for the third time this year.",
+   "sources": [
+    {
+     "name": "Mint, carrying The Wall Street Journal",
+     "url": "https://www.livemint.com/global/us-balks-at-china-s-demand-for-tightly-scripted-trump-xi-putin-summit-11794272348963.html"
+    },
+    {
+     "name": "Chinese: Lianhe Zaobao, citing SCMP",
+     "url": "https://www.zaobao.com.sg/news/world/story20261110-9976172"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-israeli-data-centers-1",
+   "edition": "2026-11-11",
+   "section": "israeli-data-centers",
+   "headline": "National AI strategy sets a goal of about 300,000 GPUs in Israel, 200,000 of them to draw data centers, needing about 2 gigawatts of power; Azrieli says Norway's freeze on new data-center grid links will not hurt current projects",
+   "lead": "Brig. Gen. (res.) Erez Askal, head of the National AI Directorate in the Prime Minister's Office, told AI & Cyber Week at Tel Aviv University on Monday, 9 November, that Israel aims to run about 300,000 GPUs: about 100,000 for defense, academia, government and start-ups and about 200,000 to attract and grow local data centers (Gadgety, Hebrew; Ctech).",
+   "text": "He said this would need about 2 gigawatts of power for server farms, computing and chip plants, and that Israel also wants its own advanced foundation model; no budget or timetable was published (Gadgety; Ctech). Gadgety notes that in July the Electricity Authority froze, for 140 days, new grid-connection requests from server farms of 8 megavolt-amperes or more, after the queue reached about 27 gigawatts. Separately, Azrieli Group, which owns Green Mountain (four data centers in Norway, about 174 megawatts installed), reported on Tuesday that Norway's grid operator has temporarily frozen new capacity allocations for data centers while rules are drawn up by August 2027. Azrieli expects no material effect on its operating projects; Globes notes the freeze could delay an 80-megawatt campus Green Mountain agreed to build for an international tech company, which Azrieli denied. Azrieli shares are down about 7% since the start of the week (Globes).",
+   "sources": [
+    {
+     "name": "Hebrew: Gadgety",
+     "url": "https://www.gadgety.co.il/372338/israel-ai-plan-2026/"
+    },
+    {
+     "name": "Ctech (Calcalist)",
+     "url": "https://www.calcalistech.com/ctechnews/article/rj6zywyrgx"
+    },
+    {
+     "name": "Hebrew: Globes, Azrieli and Norway",
+     "url": "https://www.globes.co.il/news/article.aspx?did=1001562714"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-cypherboria-1",
+   "edition": "2026-11-11",
+   "section": "cypherboria",
+   "headline": "El Diplo: \"Nick Land en China\", an essay on how Chinese scholars read Land",
+   "lead": "El Diplo (eldiplo.info) published a Spanish-language essay, \"Nick Land en China\", dated 3 November and updated 10 November, that maps Chinese academic readings of Land, credited at the end to Iván Darío Ávila Gaitán (the page byline shows Sofía Ceballos).",
+   "text": "It cites a 2024 Chinese translation of Land's 1990s essay \"Circuitries\" by Chen Meng, published by Nanjing University's center for Marxist social theory; a 2024 study by Peng Yumei and Lei Yu (Nankai and Central China Normal universities) tracing accelerationism from Marx and Deleuze and Guattari to Land; an August 2026 article by Zhang Sheng of Tongji University on Land's reading of Shanghai; a July 2026 Chinese reprint in The Paper of an Aeon essay on Land; and a 2026 study by Ji Weidong of Shanghai Jiao Tong University on technological accelerationism and AI governance. The author argues that this reception shows real academic debate about Land in China, while saying he is not defending China's political system. These details come from the essay itself and were not checked against the Chinese sources. It is an essay about Land, not an interview.",
+   "sources": [
+    {
+     "name": "Spanish: El Diplo, \"Nick Land en China\"",
+     "url": "https://www.eldiplo.info/nick-land-en-china/"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-11-cypherboria-2",
+   "edition": "2026-11-11",
+   "section": "cypherboria",
+   "headline": "Cyphers posts a six-minute recap of the Tucker Carlson–numogram saga; still no word from Carlson on the reported Land interview",
+   "lead": "Cyphers (@CyphersNews) posted on X late on 10 November a six-minute video, \"the whole saga in 6 minutes\": Carlson on the CCRU numogram, Land's reply (\"world historic, honestly\", said on JutlandGhost's stream), and \"the numogram vs Tree of Life\", with links to the full videos, including the Carlson–Conrad Flynn episode and an older Dangerous Maybe video, \"Nick Land Responds to Tucker Carlson\"; Net Void quoted it as a \"fun recap of the entire saga\".",
+   "text": "Carlson and his team have still said nothing public about the interview request Flynn described, and none is confirmed. Land posted mostly on US politics: \"Dig even a little into US election mechanics and it's immediately obvious the only reason to trust any of its outcomes is being invited to the right parties.\" resonatingloop wrote that while fixing a failing numogram test she felt cyphers.news \"could use a lil hyperstitional update\"; no change to the site could be confirmed. Ryan Haecker of the Methexis Institute announced his book \"Restoring Reason\" (Nomos), on Origen's theology of logic, which is not about Land. Nothing notable from Phythagram, Mortal Series, Doomcrypt, D.W. Pasulka, @AmurakaHidden or @cold_cyber_ (nothing on the section's themes), Jacques Vallée (no new interview found), Truth Is Christ (its site blocked automated reading; newest YouTube upload four months old), ReynoldsRetro (nothing since 11 October) or Retrochronic (still v1.0.176, 199 sources). No new YouTube or Apple Podcasts appearance by Land was found.",
+   "sources": [
+    {
+     "name": "X: Cyphers, six-minute recap",
+     "url": "https://x.com/CyphersNews/status/2120299119495246136"
+    },
+    {
+     "name": "X: Cyphers, list of full videos",
+     "url": "https://x.com/CyphersNews/status/2120299121580073244"
+    },
+    {
+     "name": "X: Net Void, \"fun recap\" (protected account)",
+     "url": "https://x.com/Net__Void/status/2120300205862256951"
+    },
+    {
+     "name": "X: Land on US election mechanics",
+     "url": "https://x.com/xenocosmography/status/2120198290931421407"
+    },
+    {
+     "name": "X: Ryan Haecker, \"Restoring Reason\"",
+     "url": "https://x.com/RyanHaecker/status/2120224132000305221"
     }
    ]
   }

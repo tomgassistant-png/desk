@@ -4,6 +4,360 @@
   "latest_count": 21,
   "items": [
     {
+      "id": "2026-11-11-land-eastern-border-plan-40-points",
+      "section": "land",
+      "lead": true,
+      "highlight": true,
+      "headline": "Defense Ministry plan for the eastern border: a 500-kilometer barrier along Jordan, about 40 new settlement and presence points, a wider Route 90 and a goal of doubling the population in ten years",
+      "summary": "Walla's military correspondent Amir Bohbot reported on Monday afternoon, 9 Nov, a Defense Ministry plan for the whole eastern border, and especially the Jordan Valley, that ties security to more civilian settlement. Its main element is a new barrier of about 500 kilometers along the Jordan border, at an estimated cost of 5.5 billion shekels; the first few dozen kilometers have already been built by the Seam Line Administration under Maj. Gen. Eran Ofir, and the ministry is examining moving the barrier's route east to the line of the Jordan River, at about 2 billion shekels more, which would free land to widen Route 90 and for new farming and infrastructure. On the civilian side, the ministry is advancing about 40 settlement and presence points along the eastern region, including pre-army academies, service-year programs and leadership groups, plus new communities such as the farming moshav Batron in the Jordan Valley; local standby squads are to be armed and trained and linked to the new 96th Division, which holds the eastern sector. The stated goal is to double the eastern region's population within a decade; the Transportation Ministry has set aside 35 million shekels to plan a multi-lane Route 90. The plan is run by the ministry's Eastern Region Directorate under Brig. Gen. (res.) Mordechai Benita(<a href=\"https://www.walla.co.il/news/military/383960678\">Walla</a>). Benita laid out the same plan to Arutz 7 in September, describing 40 new settlement points across seven regional councils plus Beit She'an (<a href=\"https://www.inn.co.il/news/706359\">Arutz 7, 15 Sep</a>). The two reports give different figures for the population on the Jordanian side of the border (about a quarter million in Walla, about four million in Benita's Arutz 7 interview). The PA-side outlet Ultra Palestine relayed the Walla report as a settlement plan (<a href=\"https://x.com/i/status/2120152220847219196\">Ultra Palestine</a>).",
+      "source": "Walla (Amir Bohbot) / Arutz 7",
+      "date": "2026-11-09",
+      "url": "https://www.walla.co.il/news/military/383960678",
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-attacks-jsr-four-stone-attacks-kornit-video",
+      "section": "attacks",
+      "highlight": true,
+      "headline": "Four stone attacks on Israelis in one day, and a Palestinian page posts video boasting that stone throwers \"drove away\" the residents of Kornit farm",
+      "summary": "The Yesha Council's Judea and Samaria Situation Room (JSR) logged these attacks on Tuesday, 10 Nov: overnight, stones hit an Israeli car on Route 60 about one kilometer north of the British Police junction in Binyamin, damaging the bodywork, with no injuries (<a href=\"https://x.com/i/status/2120062299469644032\">JSR</a>); in the morning, stones were thrown at an Israeli car at the old Bik'ot checkpoint in the Jordan Valley (near Hamra, according to Olam Katan's Simcha Raz), with no injuries (<a href=\"https://x.com/i/status/2120063294962561372\">JSR</a>); and at about 3:30 PM Israel time stones damaged an Israeli car on the road down from Ariel toward Marda junction, with no injuries (<a href=\"https://x.com/i/status/2120148397646590347\">JSR</a>). JSR also reported that Arab channels posted video of stone throwers attacking Israeli residents near Kornit farm in Binyamin, boasting that they had managed to \"drive away\" the residents; the footage came from the Facebook page \"Shabakat al-Irsal\" (<a href=\"https://x.com/i/status/2120126985288499394\">JSR</a>; <a href=\"https://x.com/i/status/2120128318846681301\">Simcha Raz, with the video</a>). JNS Hebrew's Netanel Frankel counted the same four incidents, no injuries, and called it \"a normal day in Judea and Samaria\" (<a href=\"https://x.com/i/status/2120257377408577723\">Netanel Frankel</a>). Simcha Raz said he is preparing a long Olam Katan report on stone attacks in Judea and Samaria (<a href=\"https://x.com/i/status/2120145222004854856\">Simcha Raz</a>). The attacks are JSR's reports; no other outlet reported the Route 60 and Bik'ot incidents in what we read.",
+      "source": "JSR Situation Room / Netanel Frankel / Olam Katan (Simcha Raz)",
+      "date": "2026-11-10",
+      "url": "https://x.com/i/status/2120126985288499394",
+      "places": [
+        {
+          "name": "British Police junction, Route 60",
+          "lat": 31.9962872,
+          "lon": 35.2505395,
+          "note": "Nominatim (OSM labels this point Gav Efraim junction); the attack was about 1 km north, approximate"
+        },
+        {
+          "name": "Old Bik'ot checkpoint (near Hamra)",
+          "lat": 32.1994662,
+          "lon": 35.4366934,
+          "note": "Marker at Hamra (Nominatim); checkpoint not mapped, approximate"
+        },
+        {
+          "name": "Kornit farm (near Kafr Malik)",
+          "lat": 31.9894,
+          "lon": 35.3091,
+          "note": "Approximate: marker at Kafr Malik, as in earlier Desk items"
+        },
+        {
+          "name": "Ariel",
+          "lat": 32.1061,
+          "lon": 35.1851,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Marda",
+          "lat": 32.11167,
+          "lon": 35.193,
+          "note": "Nominatim village point; junction not plotted, approximate"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-idf-four-outposts-evacuated",
+      "section": "idf",
+      "highlight": true,
+      "headline": "Army and Border Police tear down four hilltop sites near Burqa, Wadi Rahim and Jalud; three Israelis detained after clashes, and the settlers dispute the army's account",
+      "summary": "The IDF spokesman said that over two days soldiers and Border Police carried out enforcement against four illegal outposts near the villages of Burqa (Binyamin), Wadi Rahim (southern Hebron Hills) and Jalud, from which, the army says, \"violent and illegal acts\" were repeatedly carried out. Vehicles, tents and temporary structures \"without infrastructure and without adequate living conditions\" were removed. During the night operation near Burqa, the army says, forces met barricades of burning tires, rocks and spikes placed by \"Israeli rioters\"; two security vehicles were damaged, stones were thrown at the forces and fires were set in the village area; three Israeli civilians were detained and taken to the Binyamin police station (<a href=\"https://www.maariv.co.il/breaking-news/article-1387118\">Maariv</a>; <a href=\"https://x.com/i/status/2120194710077685910\">Emanuel Fabian, Times of Israel</a>). Simcha Raz added that at the site near Burqa the residents say no violence was used against the forces and no stones were thrown (<a href=\"https://x.com/i/status/2120194843469029768\">Simcha Raz</a>). Activist Elisha Yered called it a \"destruction spree\" overnight at two settlement points in Binyamin, carried out by more than 15 Border Police teams, and wrote that it was missed among the day's political headlines (<a href=\"https://x.com/i/status/2120169872994848807\">Elisha Yered</a>). The army did not name the four sites.",
+      "source": "IDF via Maariv / Times of Israel (Emanuel Fabian) / Olam Katan / Elisha Yered",
+      "date": "2026-11-10",
+      "url": "https://www.maariv.co.il/breaking-news/article-1387118",
+      "places": [
+        {
+          "name": "Burqa (Ramallah area, Binyamin)",
+          "lat": 31.8952589,
+          "lon": 35.2532469,
+          "note": "Nominatim village point; the outpost itself is not mapped, approximate"
+        },
+        {
+          "name": "Jalud",
+          "lat": 32.0677,
+          "lon": 35.3164,
+          "note": "Nominatim village point; outpost not mapped, approximate"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-idf-administrative-orders-honenu-letter",
+      "section": "idf",
+      "headline": "Fifteen settlers under administrative orders ask the Shin Bet chief to cancel them, citing a former police commander's claim that the agency forges intelligence",
+      "summary": "Fifteen people from Judea and Samaria who are under administrative orders (restrictions imposed without trial), represented by the legal aid group Honenu, wrote to Shin Bet head David Zini on Tuesday demanding that the orders be canceled. The letter followed an appearance on Channel 14's \"HaPatriotim\" by Ch. Supt. (ret.) Avishai Mualem, former head of the police central unit in the Judea and Samaria District, who said the Shin Bet's Jewish Division uses forged \"paraphrases\" (summaries of secret intelligence) and material against Jewish residents. The letter says that about two years ago Defense Minister Israel Katz ordered an end to administrative detention for settlers, but that Central Command keeps issuing administrative orders with severe restrictions \"without trial, without evidence\" and without a way to defend themselves. Honenu attorney Moshe Polsky is quoted in the reports (<a href=\"https://x.com/i/status/2120183353609478285\">Elchanan Groner, full letter text</a>; <a href=\"https://x.com/i/status/2120207969660879332\">Olam Katan</a>). Mualem's forgery claim is his own and has not been tested; we found no Shin Bet response.",
+      "source": "Honenu via Elchanan Groner / Olam Katan",
+      "date": "2026-11-10",
+      "url": "https://x.com/i/status/2120183353609478285",
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-land-havat-gilad-kfaror-neighborhood",
+      "section": "land",
+      "headline": "A new neighborhood, \"Kfaror,\" goes up at Havat Gilad in memory of Benayahu Melet, farmer Eliav Libi reports",
+      "summary": "Eliav Libi, a farmer and Farms Association board member, posted photos on Tuesday of \"the new Kfaror neighborhood of Havat Gilad,\" which he said was set up in memory of Benayahu Melet, near the place where he was killed (<a href=\"https://x.com/i/status/2120119465514070501\">Eliav Libi</a>). In a separate post Libi wrote that the Harashash farm he founded in memory of two friends became a community in the government's latest decision (<a href=\"https://x.com/i/status/2120111433241231627\">Eliav Libi</a>). The Kfaror neighborhood is single-source and unconfirmed; we found no council or press report on it.",
+      "source": "Eliav Libi",
+      "date": "2026-11-10",
+      "url": "https://x.com/i/status/2120119465514070501",
+      "places": [
+        {
+          "name": "Havat Gilad",
+          "lat": 32.1995,
+          "lon": 35.1816,
+          "note": "OpenStreetMap point; the new neighborhood is not mapped, approximate"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-land-us-attorneys-general-sanctions-jstreet-france",
+      "section": "land",
+      "headline": "Thirteen U.S. state attorneys general press Britain and the Netherlands to drop sanctions on Judea and Samaria communities, while J Street and a French bill push the other way",
+      "summary": "Thirteen U.S. state attorneys general, led by Iowa's Brenna Bird and including those of Florida, Georgia, Kansas, South Carolina and Ohio, wrote last week to the British and Dutch ambassadors in Washington asking them to rescind sanctions on Israeli communities in Judea and Samaria. They warned that state laws against boycotts of Israel could bar British and Dutch companies from state contracts or force states to divest from them (<a href=\"https://www.jns.org/news/u-s-news/thirteen-state-attorneys-general-call-on-uk-netherlands-to-rescind-sanctions-on-israeli-communities\">JNS</a>). On the other side, the lobby J Street published a policy plan presented by its policy chief Ilan Goldenberg, calling for targeted economic sanctions so that people must choose between the settlements and access to the financial system; it also calls for pausing offensive arms supplies and recognizing a Palestinian state (<a href=\"https://www.makorrishon.co.il/news/settlement/article/391129\">Makor Rishon</a>). Arab48 reported that a French parliamentary committee on Monday approved a bill by Socialist Party leader Olivier Faure to ban imports of settlement goods and services, including financial services and tourist rentals, with a plenary vote set for 19 Nov; it says President Macron's party and the National Rally oppose it (<a href=\"https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D9%8A%D8%A9/2026/11/10/%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D8%AA%D8%AF%D8%B1%D8%B3-%D8%AD%D8%B8%D8%B1-%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%88%D8%B7%D9%86%D8%A7%D8%AA-%D9%88%D8%AA%D8%B5%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%83%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D9%84%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%AA%D9%87%D8%A7\">Arab48</a>). The French bill details are single-source (unconfirmed).",
+      "source": "JNS / Makor Rishon / Arab48",
+      "date": "2026-11-10",
+      "url": "https://www.jns.org/news/u-s-news/thirteen-state-attorneys-general-call-on-uk-netherlands-to-rescind-sanctions-on-israeli-communities",
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-land-shooting-ranges-31-sites-pa-claim",
+      "section": "land",
+      "headline": "PA commission says Israel approved a plan allowing shooting ranges at 31 settlement sites",
+      "summary": "The PA's Colonization and Wall Resistance Commission said on Tuesday that Israeli authorities approved a plan that adds shooting ranges, for firearms training and qualifying gun holders, to the permitted uses of land set aside for public buildings, commerce, industry and sport at 31 sites: 29 communities and neighborhoods and two industrial zones, among them Sha'ar Binyamin, from south of Nablus to the Jerusalem area and east toward Jericho and the Jordan Valley. The commission cites a 2022 list of nine licensed ranges in communities including Ariel, Karnei Shomron, Ma'on and Alon Shvut, and a 2024 Mateh Binyamin economic company plan for a range in Psagot (<a href=\"https://edgs.co/l4c7p\">Ultra Palestine</a>). These are the PA's claims; we found no Israeli report or Civil Administration notice confirming the plan.",
+      "source": "PA Colonization and Wall Resistance Commission via Ultra Palestine",
+      "date": "2026-11-10",
+      "url": "https://edgs.co/l4c7p",
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-pa-jericho-governor-atallah-hanna",
+      "section": "pa",
+      "headline": "Jericho's PA governor hosts Archbishop Atallah Hanna, who has called the intifada a \"legitimate right,\" JSR says",
+      "summary": "JSR reported that on Monday, 9 Nov, the PA governor of Jericho, Hussein Hamayel, met Archbishop Atallah Hanna. According to JSR, Hanna has repeatedly backed Palestinian terror: in a television interview he called the intifada a \"legitimate right,\" urged all Arabs to take part and praised \"the shahids for their various actions,\" and in 2016 he took part in a project to fund rebuilding the homes of terrorists demolished by the IDF (<a href=\"https://x.com/i/status/2120171457338597505\">JSR</a>; <a href=\"https://x.com/i/status/2120171099501535681\">JSR English</a>). This is JSR's account; we did not find the meeting in Palestinian media we read.",
+      "source": "JSR Situation Room",
+      "date": "2026-11-09",
+      "url": "https://x.com/i/status/2120171457338597505",
+      "places": [
+        {
+          "name": "Jericho",
+          "lat": 31.85604,
+          "lon": 35.45982,
+          "note": "Nominatim (city point)"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-pa-odeh-pa-money-police-doubt",
+      "section": "pa",
+      "headline": "Police tell the attorney general the Shin Bet's evidence that Ayman Odeh took PA money is too thin to question him; Channel 14's Yinon Magal says the Shin Bet has strong intelligence but is not allowed to investigate",
+      "summary": "Haaretz reported that police, in an official opinion, found the evidence the Shin Bet presented that former Joint List leader Ayman Odeh received money from the Palestinian Authority insufficient to question him under caution; a senior source said that once the material was shown it raised \"more question marks than exclamation marks\" (<a href=\"https://www.haaretz.co.il/news/elections/2026-11-10/ty-article/000001a1-c6df-dba2-a9f9-d7fffa300000\">Haaretz</a>). Ynet reported that the police opinion sent to the attorney general found no election-financing offense (<a href=\"https://www.ynet.co.il/news/article/sjtdaaxcfg\">Ynet</a>), and Olam Katan reported that police found no security offenses. Channel 14's Yinon Magal said that from what he understands from the Shin Bet \"there is very significant intelligence, but they are not being allowed to investigate\" (<a href=\"https://x.com/i/status/2120249407908024738\">Channel 14</a>). This follows Channel 14's report on Monday that intelligence material suggests a senior Arab-party MK received money from the PA over a long period.",
+      "source": "Haaretz / Ynet / Olam Katan / Channel 14",
+      "date": "2026-11-10",
+      "url": "https://www.haaretz.co.il/news/elections/2026-11-10/ty-article/000001a1-c6df-dba2-a9f9-d7fffa300000",
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-idf-warnings-drop-coalition-channel14",
+      "section": "idf",
+      "headline": "Channel 14: security officials link a sharp drop in terror warnings since the election to terror groups waiting to see whether an Arab-backed government forms",
+      "summary": "Channel 14's military correspondent Hallel Bitton Rosen reported Tuesday evening that senior security officials see a direct link between the talks on a government backed by Arab parties and the moves of terror groups in the region. A senior source told her that \"on the eve of the election the level of warnings was very high,\" and that its sharp drop, according to intelligence, is because \"the red side\" is waiting to see how Israeli politics develop (<a href=\"https://x.com/i/status/2120224753927573973\">Hallel Bitton Rosen</a>). This is a single-outlet report from an unnamed source.",
+      "source": "Channel 14 (Hallel Bitton Rosen)",
+      "date": "2026-11-10",
+      "url": "https://x.com/i/status/2120224753927573973",
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-negev-arab-mks-hatikvah-nasasra-tibi",
+      "section": "negev",
+      "headline": "Arab MKs walk out before \"Hatikvah\" at the swearing-in; a new Joint List MK had shared a post calling Israel's Arabs the vanguard ahead of Hamas rockets; Tibi tells a wedding crowd \"we are the owners of the land\"",
+      "summary": "Members of the Arab parties left the Knesset plenary before \"Hatikvah\" was sung at Tuesday's swearing-in of the 26th Knesset; Avigdor Liberman asked: \"With them you want to form a government?\" (<a href=\"https://www.srugim.co.il/101015831-ב-5-מילים-ליברמן-ממשיך-לתקוף-את-המפלגות\">Srugim</a>; <a href=\"https://x.com/i/status/2120192062524121583\">Hillel Fuld</a>). Gadi Taub pointed to a post shared by new MK Hassan al-Nasasra (No. 10 on the Joint List), written after the May 2021 riots by Rahat deputy mayor Amer al-Huzail (<a href=\"https://x.com/i/status/2120042398315090356\">Gadi Taub</a>). The Telegram channel Abu Ali Express posted video of MK Ahmad Tibi telling guests at a wedding in Umm al-Fahm, in Arabic, \"We are the owners of the land\" (<a href=\"https://t.me/s/abualiexpress\">Abu Ali Express</a>). Channel 14 reported that Mansour Abbas and the Democrats were negotiating over recognizing Hamas as a terror group; Omri Haim, head of Channel 14's Arab-affairs desk, quoted a report that Yair Golan confirmed Abbas would accept that wording in exchange for \"real partnership,\" and called it Muslim Brotherhood pragmatism (<a href=\"https://x.com/i/status/2120168671301824571\">Hallel Bitton Rosen</a>; <a href=\"https://x.com/i/status/2120127925068366228\">Omri Haim</a>). Researcher Moran Tal wrote that Abbas's own past words about one Islamic state under a caliphate were finally thrown back at him, by Netanyahu himself (<a href=\"https://x.com/i/status/2120205704116273617\">Moran Tal</a>). The Tibi video and the Golan quote are each single-source.",
+      "source": "Srugim / Gadi Taub / Abu Ali Express / Channel 14 / Moran Tal",
+      "date": "2026-11-10",
+      "url": "https://www.srugim.co.il/101015831-ב-5-מילים-ליברמן-ממשיך-לתקוף-את-המפלגות",
+      "places": [
+        {
+          "name": "Umm al-Fahm",
+          "lat": 32.5158385,
+          "lon": 35.152491,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-negev-kfar-manda-bakri-protection-indictment",
+      "section": "negev",
+      "headline": "Three young Nazareth men from the Bakri crime group charged with shooting at a Kafr Manda gas station owner's home after he refused to pay up to a million shekels",
+      "summary": "Israel Police said that a businessman in the north reported that a man was demanding 400,000 shekels in protection money from him under threats; soon after, a cell of the Samir Bakri crime organization shot at his home, police gave chase, and two suspects were hit by police fire (<a href=\"https://x.com/i/status/2120056293092155406\">Israel Police</a>). On Monday prosecutors indicted three Nazareth residents aged 17, 18 and 23 for shooting, extortion under threats, carrying weapons and other offenses; according to the reports the demand later rose to one million shekels and shots were also fired at the gas station he owns.(<a href=\"https://x.com/i/status/2120122359466049811\">Elchanan Groner</a>). Separately, Regavim welcomed the police \"Shadow Guardians\" operation against protection rackets (which led to the arrest of al-Battuf council head Ahed Rahal, reported here yesterday) and said its work in the Galilee shows governance gaps in some northern local authorities, including land, planning committees and the laundering of illegal building (<a href=\"https://x.com/i/status/2120140826684555729\">Regavim</a>).",
+      "source": "Israel Police / Elchanan Groner / Channel 14 / Regavim",
+      "date": "2026-11-10",
+      "url": "https://x.com/i/status/2120056293092155406",
+      "places": [
+        {
+          "name": "Kafr Manda",
+          "lat": 32.8114088,
+          "lon": 35.259756,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Nazareth",
+          "lat": 32.70662,
+          "lon": 35.30484,
+          "note": "Nominatim city point"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-negev-syria-weapons-smuggling-soldiers",
+      "section": "negev",
+      "headline": "At least ten arrested, including active-duty soldiers, on suspicion of smuggling weapons from Syria into Israel and selling them",
+      "summary": "A joint Shin Bet, police and IDF investigation exposed a network of at least ten suspects, among them soldiers in active service, suspected of using their operational access and closeness to the border to bring weapons from Syria into Israel on several occasions and then selling and distributing them inside Israel. How the weapons were moved, and who was meant to receive them, has not been published; the suspects were sent for further criminal and security questioning (<a href=\"https://www.jdn.co.il/news/2763317/\">JDN</a>; <a href=\"https://www.okn.co.il/news/78663/\">Olam Katan</a>). Where the weapons ended up (criminal or terror use) is not yet known.",
+      "source": "JDN / Olam Katan",
+      "date": "2026-11-10",
+      "url": "https://www.jdn.co.il/news/2763317/",
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-negev-nachala-halutzei-aza-sderot",
+      "section": "negev",
+      "headline": "Nachala sets up its temporary \"Halutzei Aza\" settlement site near Sderot, aiming for a new Sderot neighborhood on Beit Hanoun land",
+      "summary": "The Nachala settlement movement put up its temporary \"Halutzei Aza\" (Pioneers of Gaza) site near Sderot overnight Monday to Tuesday, after its families left the Simhoni forest at the Jewish National Fund's request. Their next goal is to move into Nisanit and to promote a new Sderot neighborhood on Beit Hanoun land, in line with the vision of Sderot mayor Alon Davidi. Nachala chair Daniella Weiss said: \"A true oath of allegiance means a practical return and settlement in the Gaza region\" (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78430/\">Olam Katan</a>). The report is based on Nachala's own announcement.",
+      "source": "Olam Katan (Nachala announcement)",
+      "date": "2026-11-10",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78430/",
+      "places": [
+        {
+          "name": "Sderot",
+          "lat": 31.526474,
+          "lon": 34.5969696,
+          "note": "Nominatim city point; the temporary site is nearby, approximate"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-idf-quneitra-checkpoints-bashan",
+      "section": "idf",
+      "headline": "Southern Syria: Syrian media report Israeli checkpoints at Jubata al-Khashab and Rasm al-Halabi; Halutzei HaBashan urges standing firm against pressure to withdraw",
+      "summary": "Syrian state TV (al-Ikhbariya), cited by Arab48, said Israeli forces set up a checkpoint at the entrance to Jubata al-Khashab in Quneitra province on Tuesday and searched passersby, a day after a similar checkpoint at the Rasm al-Halabi junction in central Quneitra; Syria's SANA news agency said Israeli troops fired toward journalists documenting in the Quneitra countryside on Monday (<a href=\"https://www.arab48.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D9%88%D9%84%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/2026/11/10/%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D9%8A%D9%85-%D8%AD%D8%A7%D8%AC%D8%B2%D8%A7-%D9%88%D9%8A%D9%81%D8%AA%D8%B4-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9\">Arab48</a>). The IDF has not commented in what we read. The Bashan settlement movement Halutzei HaBashan posted a video on Tuesday night saying Israel \"must stand like a fortified wall against all the pressure to withdraw from the Bashan and from all parts of our land\" (<a href=\"https://x.com/i/status/2120253306920448124\">Halutzei HaBashan</a>); it did not say what pressure it meant, and its Telegram channel had no new posts.",
+      "source": "Syrian media via Arab48 / Halutzei HaBashan",
+      "date": "2026-11-10",
+      "url": "https://x.com/i/status/2120253306920448124",
+      "places": [
+        {
+          "name": "Jubata al-Khashab, Quneitra (Syria)",
+          "lat": 33.2257594,
+          "lon": 35.8341343,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-attacks-beita-lubban-arson",
+      "section": "attacks",
+      "headline": "Beita industrial zone and a Lubban al-Sharqiya scrapyard set on fire; a JNS Hebrew reporter says the Beita fires came after Arabs burned Jewish cars at Mevaser Shalom",
+      "summary": "Beita mayor Mahmoud Barham told Ultra Palestine that about 70 masked men in matching black clothes attacked the village's industrial zone at about 4 PM on Monday, 9 Nov, burning bulldozers, trucks, cars and electrical equipment, with initial losses of about 5 million shekels and no workers hurt; Arab48, citing Anadolu, gave about 200 attackers and 10 million shekels (<a href=\"https://edgs.co/38slu\">Ultra Palestine</a>). The zone lies near Jabal Sabih, the site of Evyatar. Earlier the same afternoon, JSR reported that Arabs set Israeli vehicles on fire at nearby Mevaser Shalom (reported here yesterday). JNS Hebrew's Netanel Frankel wrote that \"yesterday they torched Jews' cars and Jews torched Arabs' cars in response\" (<a href=\"https://x.com/i/status/2120220636949676485\">Netanel Frankel</a>). Overnight Tuesday to Wednesday, the IDF said forces were rushed to Lubban al-Sharqiya after reports and footage of vehicles burning (<a href=\"https://www.inn.co.il/flashes/1140424\">Arutz 7</a>); Kan posted footage of cars burning in a scrapyard there (<a href=\"https://x.com/i/status/2120287366065643670\">Kan</a>), and Ultra Palestine blamed settlers. No arrests or official findings on who set either fire have been reported; the damage figures are Palestinian claims.",
+      "source": "Ultra Palestine / Arab48 / Netanel Frankel / IDF via Arutz 7 / Kan",
+      "date": "2026-11-10",
+      "url": "https://www.inn.co.il/flashes/1140424",
+      "places": [
+        {
+          "name": "Beita",
+          "lat": 32.1423,
+          "lon": 35.2857,
+          "note": "Earlier Desk point for the village; the industrial zone is on its south side, approximate"
+        },
+        {
+          "name": "Evyatar (near Mevaser Shalom)",
+          "lat": 32.11967,
+          "lon": 35.27471,
+          "note": "Nominatim point for Evyatar; Mevaser Shalom itself is not mapped, approximate"
+        },
+        {
+          "name": "Lubban al-Sharqiya",
+          "lat": 32.0713,
+          "lon": 35.2412,
+          "note": "Nominatim (village council point)"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-attacks-qusra-jalud-harvest-clash",
+      "section": "attacks",
+      "headline": "Harvest clash near Jalud and Qusra with activists and foreign photographers; army says dozens of Israelis threw stones, police report two lightly hurt",
+      "summary": "Olam Katan's Simcha Raz reported a clash near Jalud during an olive-harvest event with anarchists, foreign photographers and left-wing groups, with two people hurt (<a href=\"https://x.com/i/status/2120124073225412673\">Simcha Raz</a>); police said two people were lightly hurt and taken to the hospital (<a href=\"https://www.walla.co.il/news/military/383960881\">Walla</a>). The IDF said forces were called to Jalud over friction that began before they arrived, and then to Qusra, where dozens of \"Israeli rioters\" threw stones when the forces got there; troops used riot-control means, and the army said attempts to stir friction \"harm the security of the area.\" Rabbis for Human Rights says about 20 settlers attacked with clubs and stones and six people were hurt, including a journalist (<a href=\"https://www.walla.co.il/news/military/383960881\">Walla</a>). Separately, Haaretz reported (article blocked; feed summary only) that Palestinian professor Dirar Aliyan, a university president and British citizen, says troops beat him during a night raid while looking for a wanted nephew; this is his account.",
+      "source": "Olam Katan (Simcha Raz) / Walla / IDF / Haaretz",
+      "date": "2026-11-10",
+      "url": "https://www.walla.co.il/news/military/383960881",
+      "places": [
+        {
+          "name": "Jalud",
+          "lat": 32.0677,
+          "lon": 35.3164,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Qusra",
+          "lat": 32.0843,
+          "lon": 35.3304,
+          "note": "Village point (approximate)"
+        }
+      ],
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
+      "id": "2026-11-11-attacks-lash-car-thief-ramallah",
+      "section": "attacks",
+      "headline": "Activist Ayelet Lash posts photos of a Ramallah-area man she says shows off stolen Israeli luxury cars",
+      "summary": "Ayelet Lash posted images on Tuesday of a man she named as Bashir Jadir from the Ramallah area, who she says posts photos of many luxury cars, some of them stolen from Jews, (<a href=\"https://x.com/i/status/2120230622417375594\">Ayelet Lash</a>). This is her claim; we could not confirm the man's identity or that the cars are stolen.",
+      "source": "Ayelet Lash",
+      "date": "2026-11-10",
+      "url": "https://x.com/i/status/2120230622417375594",
+      "edition": "2026-11-11",
+      "published": "2026-11-11T05:00:00+02:00",
+      "letter": "PA security: 11 Nov 2026"
+    },
+    {
       "id": "2026-11-10-attacks-arraba-children-jsr-day",
       "section": "attacks",
       "lead": true,
