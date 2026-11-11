@@ -103,3 +103,12 @@ For all Desk research, prioritize local-language reporting, local media and prim
 
 ### Source scouting: all sections
 Apply the local-language/local-media/primary-source priority above to the existing weekly all-sections source scouting and to everyday discovery. Look for new local reporters, specialist outlets and primary feeds in each section’s languages; check ownership, expertise, original reporting, access and corroboration. Record why a source is useful and its limits. This is guidance for the existing work, not authorization for another routine.
+
+
+## MSM page (/desk/msm/)
+What the big mainstream newsrooms lead with and what their readers are reading (NYT, Washington Post, BBC, Guardian, The Times, Times of Israel, ynet), plus culture, food, books, movies, TV and sports. Short by design. Data: `msm/data.json` (one edition per date, newest first; older editions are written to `msm/archive/YYYY-MM-DD.html` and listed under "Earlier editions"). Builder: `build_msm.py` (imports CSS from `build.py`; nav tab "MSM" after UAP comes from `sitenav.py`, which reads `msm/data.json` → `updated`). The cover's right rail links to it under "Mainstream". Daily instructions, sources and tested feed URLs: `prompts/msm.md`. `publish.sh` copies `msm/` and `build_msm.py`.
+
+### Full publish chain
+```
+cd /workspace/frontpage && python3 build.py && python3 build_yemen.py && python3 build_taiz.py && python3 build_horses.py && python3 build_cover.py && python3 build_haiti.py && python3 build_mars.py && python3 build_uap.py && python3 build_msm.py && for i in 1 2 3; do ./publish.sh && break; sleep 10; done
+```
