@@ -13,9 +13,22 @@
   ],
   "link_groups": [],
   "backgrounders": [],
-  "updated": "2026-10-28"
+  "updated": "2026-11-11"
  },
  "items": [
+  {
+   "id": "scholar-israel-ai-plan",
+   "edition": "2026-11-11",
+   "section": "scholar",
+   "headline": "Israel’s 300,000-GPU AI Plan in Context (AI, electricity, Israel)",
+   "text": "A report on the national AI targets announced on 9 November 2026 (about 300,000 GPUs and 2 gigawatts), the Electricity Authority’s freeze on data-center connections, the budget, and how the numbers compare with Israel’s grid, the United States, the world, the largest company campuses and other countries, including per person. Every figure is linked and dated; claims are tagged confirmed, goal only, estimate, disputed or unsupported, and unchecked facts are marked unconfirmed.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/israel-ai-plan-in-context.html"
+    }
+   ]
+  },
   {
    "id": "scholar-ufo-uap-vallee",
    "edition": "2026-10-28",
