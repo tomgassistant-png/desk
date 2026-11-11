@@ -212,6 +212,15 @@ def prayer_box():
             '</section>')
 
 
+def msm_html():
+    """Cover paragraph on today's MSM page (written daily into msm/data.json as editions[0].cover)."""
+    ed = (load("msm/data.json", {}).get("editions") or [{}])[0]
+    txt = ed.get("cover") or ed.get("intro")
+    if not txt: return ""
+    return (f'<h2 class="edn">Mainstream today</h2><p class="sec">MSM · {e(long_date(ed.get("date", "")))}</p>'
+            f'<h2><a href="../msm/">What the big newsrooms lead with and what readers are reading</a></h2>'
+            f'<p class="summary">{e(txt)}</p><p class="srcs"><a href="../msm/">Open the MSM page</a></p>')
+
 def main():
     d = sitenav.load_digest()
     items = d["items"]
@@ -284,7 +293,7 @@ q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()
     cover = (head("Your Cover — " + long_date(newest)) + sitenav.nav("cover", "../") +
              f'<header class="masthead"><h1>Your Cover</h1><p class="dateline">{e(weekday_date(now.date()))} · Digest edition of {e(long_date(newest))}</p></header>'
              + srch + (f'<p class="summary"><i>{e(ed["intro"])}</i></p>' if ed.get("intro") else "") +
-             f'<div class="cov-grid"><main><h2 class="edn">Top stories</h2>{body}'
+             f'<div class="cov-grid"><main>{msm_html()}<h2 class="edn">Top stories</h2>{body}'
              + (f'<p class="srcs">{e(ed["quiet"])}</p>' if ed.get("quiet") else "") +
              f'</main><aside class="rail">{weather_html(d)}<h2 class="edn">Mainstream</h2><ul class="cov-list"><li><a href="../msm/">MSM: what the big newsrooms lead with today</a></li></ul><h2 class="edn">Latest by section</h2><ul class="cov-list">{"".join(lines)}</ul><h2 class="edn">UFOs and UAPs</h2><ul class="cov-list"><li><a href="../uap/">UAP Desk</a></li><li><a href="../ufo-podcasts/">UFO, AI &amp; Folklore Podcast Feed</a></li></ul></aside></div>'
              f'<p class="srcs">Built {e(now.strftime("%Y-%m-%d %H:%M"))} Israel time from the daily research digest.</p></div><script>{JS}</script></body></html>')

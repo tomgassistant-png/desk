@@ -1,0 +1,654 @@
+{
+ "editions": [
+  {
+   "date": "2026-11-11",
+   "read_at": "2026-11-11T08:35:00+02:00 to 08:50 Israel time",
+   "intro": "Two spy stories and a blocked impeachment lead the big newsrooms this morning: the Nvidia affair, the arrest of a US soldier in Britain, and the House vote that spared Pete Hegseth. British outlets are dominated by the David Walliams allegations.",
+   "leading": [
+    {
+     "headline": "The Woman in the Middle of Nvidia’s Spy Scandal",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+     "text": "US intelligence has concluded that Alice Huang, who had an affair with Nvidia chief Jensen Huang, is a Chinese asset; the Times also reports Trump had been reminded of the intelligence before his China trip.",
+     "ranks": "Leads: NYT. Most read No. 1: NYT, WaPo. High on: WaPo, ynet. Also on: BBC.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go"
+      },
+      {
+       "outlet": "ynet (Hebrew)",
+       "url": "https://www.ynet.co.il/economy/article/b1jmxywrgg"
+      }
+     ]
+    },
+    {
+     "headline": "Hegseth impeachment effort is blocked by House Republicans",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/national-security/2026/11/10/hegseth-defends-his-record-iran-war-impeachment-vote-looms/",
+     "text": "Republicans shelved impeachment articles against Defense Secretary Pete Hegseth that Rep. Thomas Massie, a fellow Republican, had forced to a vote; Democrats can try again next year.",
+     "ranks": "Leads: WaPo, Guardian (international). Top 5: NYT, BBC. Most read: WaPo No. 2, Guardian No. 2, BBC No. 5, NYT trending No. 5.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort"
+      }
+     ]
+    },
+    {
+     "headline": "David Walliams accused of using celebrity status to prey on young women for sex",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex",
+     "text": "The Guardian and ITV News published allegations against the British comedian and children’s author after he lost a court bid to stop them; he denies all of them.",
+     "ranks": "Leads: Guardian (UK), The Times. Most read No. 1: Guardian; three of BBC’s top 4. Also on the NYT homepage.",
+     "also": [
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/law/article/david-walliams-celebrity-high-court-sex-claims-vhcz3pqwh"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/10/world/europe/david-walliams-allegations-guardian-itv-uk.html"
+      }
+     ]
+    },
+    {
+     "headline": "US Army soldier suspected of spying for Russia arrested in UK",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo",
+     "text": "British counterterrorism police arrested a 41-year-old senior US soldier near Gloucester on suspicion of national security offenses linked to Russia.",
+     "ranks": "Top 3: BBC. Top of the news section: Guardian (UK). On the front: The Times, WaPo, Times of Israel.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/10/us-army-officer-arrested-uk-suspicion-trying-steal-secrets-russia/"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/crime/article/us-army-arrest-uk-espionage-gmrl0h32m"
+      }
+     ]
+    },
+    {
+     "headline": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo",
+     "text": "The US Justice Department charged three men it says are Iran-backed operatives behind a string of plots, including an incident near a British air base used by US forces; the Times of Israel notes alleged attacks on Jews in London and New York.",
+     "ranks": "Leads: BBC (international). On the front: Guardian (international), The Times, Times of Israel.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/defence/article/us-aircraft-removed-raf-mildenhall-iran-threat-jffkcwwlf"
+      }
+     ]
+    },
+    {
+     "headline": "Bernie Sanders Opposes Schumer as Majority Leader",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html",
+     "text": "With Democrats set to run both houses (the NYT tally is 54 Senate seats and 255 House seats), the fights are now over leadership, the Mississippi Senate count and Republicans’ choice of Jim Jordan as House minority leader.",
+     "ranks": "Several NYT homepage slots; NYT trending No. 3 (Mississippi). WaPo homepage Nos. 2–3 and most read Nos. 3–4. Also on BBC and Times of Israel.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/politics/2026/11/10/progressive-activists-aim-block-jeffries-schumer-leading-democrats/"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/politics/2026/11/10/house-republicans-elect-jim-jordan-serve-minority-leader-next-year/"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html"
+      }
+     ]
+    },
+    {
+     "headline": "In furious speech demanding ‘unity government,’ Netanyahu claims Arab MKs want Israel’s destruction",
+     "outlet": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/in-furious-speech-demanding-unity-government-netanyahu-claims-arab-mks-want-israels-destruction/",
+     "text": "Israel’s 26th Knesset was sworn in, Netanyahu is now caretaker prime minister, and Gadi Eisenkot’s bloc is moving to form a government.",
+     "ranks": "Leads: Times of Israel. High on: ynet. Most read No. 5: Guardian. On the front: WaPo, BBC world page.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/10/israels-newly-elected-parliament-is-already-moving-against-netanyahu/"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
+      }
+     ]
+    },
+    {
+     "headline": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+     "text": "A US judge ruled that Trump’s $10 billion defamation case against the BBC can go ahead.",
+     "ranks": "Most read No. 3: Guardian. On the front: Guardian (UK and international), BBC, The Times.",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/us/news-today/article/trump-bbc-lawsuit-go-ahead-judge-florida-h3bx3n9q8"
+      }
+     ]
+    }
+   ],
+   "most_read": [
+    {
+     "outlet": "The New York Times",
+     "list": "nytimes.com/trending",
+     "items": [
+      {
+       "headline": "The Woman in the Middle of Nvidia’s Spy Scandal",
+       "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html"
+      },
+      {
+       "headline": "Trump Trots Out His Chaotic Greatest Hits to a Weary Public",
+       "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-midterm-elections-chaos.html"
+      },
+      {
+       "headline": "After Considerable Struggles, Ballot Deadlines Pass in Mississippi",
+       "url": "https://www.nytimes.com/2026/11/10/us/elections/mississippi-ballots-election-laws.html"
+      },
+      {
+       "headline": "Alina Habba Mildon Loses $50 Million Contract That Enraged Trump",
+       "url": "https://www.nytimes.com/2026/11/10/us/politics/alina-habba-fired-pardon.html"
+      },
+      {
+       "headline": "Republicans Turn Back Effort to Impeach Hegseth",
+       "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+      }
+     ]
+    },
+    {
+     "outlet": "The Washington Post",
+     "list": "homepage “Most Read” box",
+     "items": [
+      {
+       "headline": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO",
+       "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/"
+      },
+      {
+       "headline": "Hegseth impeachment effort is blocked by House Republicans",
+       "url": "https://www.washingtonpost.com/national-security/2026/11/10/hegseth-defends-his-record-iran-war-impeachment-vote-looms/"
+      },
+      {
+       "headline": "Activists, some colleagues aim to block Schumer, Jeffries from leading Democrats",
+       "url": "https://www.washingtonpost.com/politics/2026/11/10/progressive-activists-aim-block-jeffries-schumer-leading-democrats/"
+      },
+      {
+       "headline": "Mississippi reaches deadline to count Senate ballots; Democrat still has lead",
+       "url": "https://www.washingtonpost.com/politics/2026/11/09/mississippi-senate-race-ballot-deadline-looms-scott-colom-lead-grows/"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC News",
+     "list": "bbc.co.uk/news “Most read”",
+     "items": [
+      {
+       "headline": "Jonathan Ross ‘horrified’ by Walliams allegations and Brand conviction",
+       "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o"
+      },
+      {
+       "headline": "Prince George’s artwork featured in Country Life magazine",
+       "url": "https://www.bbc.co.uk/news/articles/c6q8n8n835vqo"
+      },
+      {
+       "headline": "Why Walliams’ unprecedented legal battle to stay anonymous failed",
+       "url": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo"
+      },
+      {
+       "headline": "The Papers: ‘David Walliams accused’ and ‘Named & shamed’",
+       "url": "https://www.bbc.co.uk/news/articles/c6vg233enxjro"
+      },
+      {
+       "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+       "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "list": "“Most viewed across the Guardian”",
+     "items": [
+      {
+       "headline": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
+       "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women"
+      },
+      {
+       "headline": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+       "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort"
+      },
+      {
+       "headline": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+       "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed"
+      },
+      {
+       "headline": "Singapore seizes US-operated cruise ship that offered ‘permanent’ life at sea",
+       "url": "https://www.theguardian.com/world/2026/nov/10/singapore-seizes-us-operated-cruise-ship-mv-odyssey"
+      },
+      {
+       "headline": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+       "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in"
+      }
+     ]
+    }
+   ],
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "home": "https://www.nytimes.com/",
+     "para": "The Times gives its two top slots to the Nvidia spy affair, then the Iran war and the Hegseth vote, with the midterm aftermath filling much of the rest of the page. Order read from the signed-in homepage.",
+     "items": [
+      {
+       "headline": "The Woman in the Middle of Nvidia’s Spy Scandal",
+       "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html"
+      },
+      {
+       "headline": "Despite Denial, Trump Had Been Reminded of Spying on Nvidia",
+       "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html"
+      },
+      {
+       "headline": "No Good Choices on Iran (Iran war roundup)",
+       "url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html"
+      },
+      {
+       "headline": "Hegseth Impeachment Effort Is Derailed by House Republicans",
+       "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html"
+      },
+      {
+       "headline": "The Lights Go Out at Novaya Gazeta",
+       "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html"
+      }
+     ]
+    },
+    {
+     "name": "The Washington Post",
+     "home": "https://www.washingtonpost.com/",
+     "para": "The Post leads with Hegseth and gives the next two slots to party leadership fights in Congress, then two Nvidia stories. Further down: the Kennedy family’s suit against Trump’s planned arch and US planes leaving a second British base.",
+     "items": [
+      {
+       "headline": "Hegseth impeachment effort is blocked by House Republicans",
+       "url": "https://www.washingtonpost.com/national-security/2026/11/10/hegseth-defends-his-record-iran-war-impeachment-vote-looms/"
+      },
+      {
+       "headline": "House Republicans elect Jim Jordan to serve as minority leader next year",
+       "url": "https://www.washingtonpost.com/politics/2026/11/10/house-republicans-elect-jim-jordan-serve-minority-leader-next-year/"
+      },
+      {
+       "headline": "Activists, some colleagues aim to block Schumer, Jeffries from leading Democrats",
+       "url": "https://www.washingtonpost.com/politics/2026/11/10/progressive-activists-aim-block-jeffries-schumer-leading-democrats/"
+      },
+      {
+       "headline": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO",
+       "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/"
+      },
+      {
+       "headline": "Nvidia taps former federal prosecutor to probe CEO’s affair",
+       "url": "https://www.washingtonpost.com/technology/2026/11/10/nvidia-taps-former-federal-prosecutor-probe-ceos-affair/"
+      }
+     ]
+    },
+    {
+     "name": "BBC News",
+     "home": "https://www.bbc.com/news",
+     "para": "The international homepage leads with the Iran-backed plot charges and the US soldier’s arrest; the UK homepage puts the Walliams fallout first. Kenya’s El Niño flood fears is the one story in the top five from outside the US and UK.",
+     "items": [
+      {
+       "headline": "Three Iran-backed suspects plotted attacks including incident near UK air base, US says",
+       "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo"
+      },
+      {
+       "headline": "Jonathan Ross ‘horrified’ by Walliams allegations and Brand conviction",
+       "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o"
+      },
+      {
+       "headline": "US Army soldier suspected of spying for Russia arrested in UK",
+       "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo"
+      },
+      {
+       "headline": "‘It can kill us’: Kenyans fear impact of El Niño with floods predicted",
+       "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo"
+      },
+      {
+       "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+       "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo"
+      }
+     ]
+    },
+    {
+     "name": "The Guardian",
+     "home": "https://www.theguardian.com/uk",
+     "para": "The UK edition opens with its own Walliams investigation and gives it a whole block; the news block follows with the US soldier’s arrest. The international edition leads with Hegseth.",
+     "items": [
+      {
+       "headline": "David Walliams accused of using celebrity status to prey on young women for sex",
+       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex"
+      },
+      {
+       "headline": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
+      },
+      {
+       "headline": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations"
+      },
+      {
+       "headline": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+       "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed"
+      },
+      {
+       "headline": "House Republicans block effort to impeach Pentagon chief Pete Hegseth (international edition lead)",
+       "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort"
+      }
+     ]
+    },
+    {
+     "name": "The Times (London)",
+     "home": "https://www.thetimes.com/",
+     "para": "The Times leads with four pieces on Walliams, then a mansion tax story, Prince Harry on his father-in-law’s arrest, and new police inquiries into Russell Brand.",
+     "items": [
+      {
+       "headline": "David Walliams accused of preying on girls as young as 15",
+       "url": "https://www.thetimes.com/uk/law/article/david-walliams-celebrity-high-court-sex-claims-vhcz3pqwh"
+      },
+      {
+       "headline": "Mansion tax valuers to photograph homes without owners’ knowledge",
+       "url": "https://www.thetimes.com/uk/politics/article/mansion-tax-valuers-photograph-homes-j7mvrt26v"
+      },
+      {
+       "headline": "Prince Harry: All children deserve to feel safe",
+       "url": "https://www.thetimes.com/uk/royal-family/article/meghan-markle-father-arrest-w02s0vtw3"
+      },
+      {
+       "headline": "Brand investigated by police over new allegations",
+       "url": "https://www.thetimes.com/uk/crime/article/russell-brand-faces-fresh-allegations-rape-sexual-assault-v37vbddj9"
+      },
+      {
+       "headline": "Senior US soldier arrested in UK suspected of spying for Russia",
+       "url": "https://www.thetimes.com/uk/crime/article/us-army-arrest-uk-espionage-gmrl0h32m"
+      }
+     ]
+    },
+    {
+     "name": "The Times of Israel",
+     "home": "https://www.timesofisrael.com/",
+     "para": "The top line is a report that the US treasury secretary moved to a military base because of Iranian threats; the main package is the Knesset swearing-in and Netanyahu’s speech.",
+     "items": [
+      {
+       "headline": "In furious speech demanding ‘unity government,’ Netanyahu claims Arab MKs want Israel’s destruction",
+       "url": "https://www.timesofisrael.com/in-furious-speech-demanding-unity-government-netanyahu-claims-arab-mks-want-israels-destruction/"
+      },
+      {
+       "headline": "Netanyahu: The Arab parties seek to destroy the Jewish state. They must not be part of a government (full text)",
+       "url": "https://www.timesofisrael.com/netanyahu-the-arab-parties-seek-to-destroy-the-jewish-state-they-must-not-be-part-of-a-government/"
+      },
+      {
+       "headline": "Right-wing protesters warn of ‘civil war’ if government formed with Arab-party support",
+       "url": "https://www.timesofisrael.com/right-wing-protesters-warn-of-civil-war-if-government-formed-with-arab-party-support/"
+      },
+      {
+       "headline": "On 1st day of Knesset, Eisenkot bloc submits bills to form Oct. 7 state inquiry, nix judicial overhaul",
+       "url": "https://www.timesofisrael.com/on-1st-day-of-knesset-eisenkot-bloc-submits-bills-to-form-oct-7-state-inquiry-nix-judicial-overhaul/"
+      },
+      {
+       "headline": "Amid cheers and jeers, 26th Knesset convenes as 120 MKs sworn in at opening ceremony",
+       "url": "https://www.timesofisrael.com/amid-cheers-and-jeers-26th-knesset-convenes-as-120-mks-sworn-in-at-opening-ceremony/"
+      }
+     ]
+    },
+    {
+     "name": "ynet (Hebrew)",
+     "home": "https://www.ynet.co.il/",
+     "para": "ynet’s top slot this morning is a feature on women leaving shelters after abusive relationships; the news under it is a new Rafael cruise missile, Nvidia’s losses and coalition talks. Headlines translated from Hebrew.",
+     "items": [
+      {
+       "headline": "They fled violent relationships, and the struggle has only begun: “When the shelter door closes behind you, you are alone”",
+       "url": "https://www.ynet.co.il/news/article/yokra14954765"
+      },
+      {
+       "headline": "A warhead four times heavier: Rafael unveils a new cruise missile",
+       "url": "https://www.ynet.co.il/news/article/hkaoyhgcml"
+      },
+      {
+       "headline": "500,000,000,000 dollars: the CEO’s betrayal and Nvidia’s losses",
+       "url": "https://www.ynet.co.il/economy/article/b1jmxywrgg"
+      },
+      {
+       "headline": "The hope of blocking a government fades: Netanyahu aims for two years, Eisenkot is losing patience",
+       "url": "https://www.ynet.co.il/news/article/hjzutyzrge"
+      },
+      {
+       "headline": "“A shouting call from hell”: the Netanyahu–Trump clash over Iran, and the denial",
+       "url": "https://www.ynet.co.il/news/article/by2vanlrgl"
+      }
+     ]
+    }
+   ],
+   "israel": {
+    "para": "In Israel, both outlets lead the politics coverage with the new Knesset and the fight over who forms the next government. Abroad, the Guardian’s Knesset story is its fifth most viewed; the Post and the BBC carry it on their world pages; the NYT’s most-read Israel items are opinion pieces. The London Times homepage had no Israel story among the links read.",
+    "items": [
+     {
+      "headline": "US treasury secretary moved to a military base because of Iranian threats (in Hebrew)",
+      "outlet": "ynet; also the Times of Israel top line",
+      "url": "https://www.ynet.co.il/news/article/ryfvbdb0fe",
+      "text": "Both Israeli outlets put this NYT report high: Scott Bessent left his home after Iranian threats."
+     },
+     {
+      "headline": "The hope of blocking a government fades: Netanyahu aims for two years, Eisenkot is losing patience (in Hebrew)",
+      "outlet": "ynet",
+      "url": "https://www.ynet.co.il/news/article/hjzutyzrge",
+      "text": "Netanyahu met the head of United Torah Judaism to keep it out of the change bloc; Eisenkot canceled a negotiating meeting after the speech."
+     },
+     {
+      "headline": "On 1st day of Knesset, Eisenkot bloc submits bills to form Oct. 7 state inquiry, nix judicial overhaul",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/on-1st-day-of-knesset-eisenkot-bloc-submits-bills-to-form-oct-7-state-inquiry-nix-judicial-overhaul/",
+      "text": "Other bills include term limits for the prime minister."
+     },
+     {
+      "headline": "Israel’s newly elected parliament is already moving against Netanyahu",
+      "outlet": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/11/10/israels-newly-elected-parliament-is-already-moving-against-netanyahu/",
+      "text": "On the Post’s homepage, below the US and Nvidia stories."
+     },
+     {
+      "headline": "Israeli opposition hurries to seize control as new Knesset is sworn in",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/israeli-opposition-hurries-to-seize-control-as-new-knesset-is-sworn-in",
+      "text": "Fifth on the Guardian’s most-viewed list; the UK front also carries Gaza families without shelter after storms."
+     },
+     {
+      "headline": "Israel’s new parliament sworn in as leaders compete to form government",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o",
+      "text": "On the BBC world page; the international homepage also runs the Board of Peace calling Israel’s Gaza flood aid “insufficient.”"
+     },
+     {
+      "headline": "It’s Time for Israelis to Throw Out Their Trump",
+      "outlet": "The New York Times",
+      "opinion": true,
+      "url": "https://www.nytimes.com/2026/11/10/opinion/israel-elections-netanyahu-eisenkot-trump.html",
+      "text": "Thomas Friedman’s column is No. 8 on NYT trending; “JD Vance Trots Out an Old Scapegoat,” on Israel and the midterms, is also on the list."
+     }
+    ]
+   },
+   "culture": [
+    {
+     "headline": "M John Harrison becomes first science fiction author to win the Booker prize",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+     "text": "The 81-year-old won for The End of Everything, a post-apocalyptic novel, and is the oldest winner ever, the BBC notes.",
+     "section": "Books"
+    },
+    {
+     "headline": "The Rise of the Gen Z Cinephile",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/10/movies/movie-theaters-gen-z.html",
+     "text": "Teenagers and people in their 20s are filling US theaters for blockbusters, indie films and classics; it is on NYT trending.",
+     "section": "Movies"
+    },
+    {
+     "headline": "Stacy Keach, Actor Who Embodied Hamlet and Mike Hammer, Dies at 85",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/10/arts/stacy-keach-dead.html",
+     "text": "The stage and screen actor’s obituary is on the NYT homepage.",
+     "section": "TV and film"
+    },
+    {
+     "headline": "The Lord of the Rings: The Rings of Power season three review – this dull show’s revamp is too little, too late",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/11/the-lord-of-the-rings-the-rings-of-power-season-three-review",
+     "text": "The Guardian’s TV critic is unimpressed by the fantasy series’ return; it is on the UK front page.",
+     "section": "TV"
+    },
+    {
+     "headline": "Paul McCartney becomes a billionaire and world’s third richest musician",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/music/2026/nov/09/paul-mccartney-billionaire",
+     "text": "Forbes puts his net worth at $1.4 billion, behind Jay-Z and Taylor Swift.",
+     "section": "Music"
+    },
+    {
+     "headline": "One of America’s Most Brilliant New Restaurants Is in the Sonoran Desert",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/10/dining/restaurant-review-ursa-tucson-arizona.html",
+     "text": "A review of Ursa in Tucson, Arizona, where chef Aaron Lopez cooks food of the Southwest.",
+     "section": "Food"
+    },
+    {
+     "headline": "New Research Compares Long-Term Relief From 21 Antidepressants",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/10/well/mind/antidepressants-efficacy-work.html",
+     "text": "A large review found a few drugs worked better over time; the BBC’s version, in its UK top five, says three pills, led by escitalopram, beat Prozac at preventing relapse.",
+     "section": "Health"
+    },
+    {
+     "headline": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
+     "text": "A health story listed on the NYT trending page.",
+     "section": "Health"
+    }
+   ],
+   "sports": [
+    {
+     "headline": "The Monaco summit that will decide the future of Carrick and Man Utd",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c8wy9yzyzxnko",
+     "text": "Manchester United’s leaders meet in Monaco on Wednesday to decide whether coach Michael Carrick stays; it leads BBC Sport and Guardian Sport, and The Athletic revisits Jim Ratcliffe’s promises.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/10/manchester-united-jason-wilcox-omar-berrada-jim-ratcliffe-michael-carrick-should-be-sacked"
+      },
+      {
+       "outlet": "The Athletic",
+       "url": "https://www.nytimes.com/athletic/7770721/2026/11/11/manchester-united-ratcliffe-ineos-revisited/"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/10/mauricio-pochettino-interested-manchester-united-usmnt-release-clause"
+      }
+     ]
+    },
+    {
+     "headline": "Australia tampered with ball during Ashes, reveals Khawaja",
+     "outlet": "The Times",
+     "url": "https://www.thetimes.com/sport/cricket/article/david-warner-backs-usman-khawajas-sandpaper-revelations-s2bxjh0h8",
+     "text": "Usman Khawaja’s autobiography has reopened Australia’s ball-tampering scandal; it is on the Times homepage and also on BBC Sport and Guardian Sport.",
+     "also": [
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/cricket/articles/c6x2v277z89eo"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/sport/2026/nov/11/usman-khawaja-book-tour-adjusted-amid-ball-tampering-claims"
+      }
+     ]
+    },
+    {
+     "headline": "Formula 1 to finish season in Middle East",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/formula1/articles/c53989e97lxwo",
+     "text": "The Qatar and Abu Dhabi races will go ahead as planned, and Italy’s Imola circuit has been stood down as the backup; the Guardian notes safety concerns.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/sport/2026/nov/10/f1-season-finale-middle-east-conflict-formula-one-abu-dhabi-imola-qatar"
+      }
+     ]
+    },
+    {
+     "headline": "Brilliant Noskova dismantles Gauff to reach WTA Finals last four",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/cvglwllpxddro",
+     "text": "Wimbledon champion Linda Noskova is the first player into the semifinals."
+    },
+    {
+     "headline": "NFL trade deadline: Kirk Cousins returns to Vikings as Raiders hand starting job to Fernando Mendoza",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/sport/2026/nov/10/kirk-cousins-minnesota-vikings-las-vegas-raiders-trade-fernando-mendoza",
+     "text": "The NFL trade deadline story on Guardian Sport; the Post’s sports feed also has the College Football Playoff growing to 24 teams.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/sports/2026/11/09/college-football-playoff-will-expand-24-teams/"
+      }
+     ]
+    }
+   ],
+   "unread": [
+    {
+     "outlet": "The Telegraph",
+     "tried": "telegraph.co.uk homepage and /rss.xml and /news/rss.xml with curl (HTTP 402), WebFetch (timed out), r.jina.ai reader (401)."
+    },
+    {
+     "outlet": "Times of Israel most-read list and ynet most-read list",
+     "tried": "Neither homepage shows a most-read list in the page text that could be read; homepage order used instead."
+    },
+    {
+     "outlet": "The Times (London) most-read list",
+     "tried": "No most-read list in the homepage text read through r.jina.ai."
+    }
+   ],
+   "method": "Order is each outlet’s own homepage order and most-read lists, read 08:35–08:50 Israel time. NYT from the signed-in homepage and nytimes.com/trending; WaPo and The Times through the r.jina.ai reader; BBC, Guardian and ynet from their public homepages; Times of Israel from its homepage and RSS feed; sections from RSS feeds."
+  }
+ ],
+ "updated": "2026-11-11T08:55:00+02:00"
+}
