@@ -17,6 +17,12 @@ EXTRA = (".msm-sec{margin-top:26px}.msm-sec>h2{font-family:Helvetica,Arial,sans-
          ".mr-grid ol,.ob ol{margin:0;padding-left:20px}.mr-grid li,.ob li{font-size:15px;line-height:1.3;padding:3px 0}.mr-grid li a,.ob li a{font-weight:700}"
          ".mr-grid .lst{font-size:12px;font-style:italic;color:#555;margin:0 0 4px}.ob{margin:0 0 16px;padding-bottom:10px;border-bottom:1px dotted #9d968a}.ob p{margin:0 0 6px;font-size:15px}"
          ".msm-cols{columns:2;column-gap:28px;column-rule:1px solid #d3cdbf}@media(max-width:760px){.msm-cols{columns:1}.masthead h1{font-size:46px}}"
+         ".fp{margin:18px 0 0}.fp-row{display:flex;gap:12px;overflow-x:auto;padding-bottom:4px}.fp-i{flex:1 1 0;min-width:112px;max-width:200px;margin:0;text-align:center}"
+         ".fp-i button{display:block;width:100%;padding:0;border:1px solid #1a1a1a;background:#fff;cursor:zoom-in;box-shadow:0 1px 4px rgba(0,0,0,.2)}.fp-i img{display:block;width:100%;height:auto}"
+         ".fp-i figcaption{font-family:Helvetica,Arial,sans-serif;font-size:11px;line-height:1.3;margin-top:5px;color:#333}.fp-i figcaption b{display:block;letter-spacing:.8px;text-transform:uppercase;font-size:10.5px}"
+         "@media(max-width:600px){.fp-row{display:grid;grid-template-columns:1fr 1fr;gap:14px 12px}.fp-i{max-width:none}}.fp-i .old{color:#7a1f1f}.fp-credit{font-family:Helvetica,Arial,sans-serif;font-size:11px;color:#555;margin:6px 0 0}"
+         "#fp-box{position:fixed;inset:0;z-index:99;background:rgba(0,0,0,.88);display:none;overflow:auto;-webkit-overflow-scrolling:touch;cursor:zoom-out;text-align:center;padding:14px 10px 30px}#fp-box.on{display:block}"
+         "#fp-box img{max-width:min(100%,1000px);height:auto;background:#fff;box-shadow:0 2px 14px #000}#fp-box p{font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#eee;margin:10px 0 0}#fp-box a{color:#fff;text-decoration:underline}\n"
          ".msm-foot{font-size:13px;color:#444;margin-top:24px;border-top:1px solid #1a1a1a;padding-top:8px}.msm-foot li{margin:2px 0}")
 
 def long_date(s):
@@ -35,8 +41,32 @@ def item(i, ranks=True):
     return (f'<div class="msm-item"><h3>{op}{a(i["url"], i["headline"])}</h3>'
             f'<p><span class="src">{sec}{e(i.get("outlet",""))}</span>{e(i.get("text",""))}</p>{rk}{also}</div>')
 
-def edition_html(ed):
+def frontpages_html(ed):
+    """Row of print front pages (msm/frontpages/frontpages.json, written by msm/fetch_frontpages.py). Empty if the file is missing."""
+    try: fp = json.load(open(os.path.join(D, "msm/frontpages/frontpages.json"), encoding="utf-8"))
+    except Exception: return ""
+    figs = []
+    for p in fp.get("papers", []):
+        if not os.path.exists(os.path.join(D, "msm", p["thumb"])): continue
+        try: ds = f'{date.fromisoformat(p["edition"]):%b} {date.fromisoformat(p["edition"]).day}'
+        except Exception: ds = ""
+        old = p.get("edition") != ed["date"]
+        lab = f'<span class="old">{e(ds)} edition (latest posted)</span>' if old else f'{e(ds)} print edition'
+        figs.append(f'<figure class="fp-i"><button type="button" data-full="{e(p["file"])}" data-name="{e(p["name"])}" data-site="{e(p["site"])}" aria-label="Enlarge the front page of {e(p["name"])}">'
+                    f'<img src="{e(p["thumb"])}" alt="Front page of {e(p["name"])}, {e(ds)}" loading="lazy"></button>'
+                    f'<figcaption><b>{e(p["name"])}</b>{lab}</figcaption></figure>')
+    if not figs: return ""
+    js = ("<script>(function(){var b=document.getElementById('fp-box'),im=b.querySelector('img'),t=b.querySelector('span'),l=b.querySelector('a');"
+          "function c(){b.className='';im.removeAttribute('src');document.body.style.overflow=''}"
+          "document.querySelectorAll('.fp-i button').forEach(function(x){x.addEventListener('click',function(){im.src=x.dataset.full;im.alt=x.dataset.name;t.textContent=x.dataset.name+' · ';l.href=x.dataset.site;b.className='on';b.scrollTop=0;document.body.style.overflow='hidden'})});"
+          "b.addEventListener('click',function(ev){if(ev.target.tagName!=='A')c()});document.addEventListener('keydown',function(ev){if(ev.key==='Escape')c()})})()</script>")
+    return ('<section class="fp" aria-label="Front pages"><div class="fp-row">' + "".join(figs) + "</div>"
+            f'<p class="fp-credit">{e(fp.get("credit","Front pages via Freedom Forum"))}. Tap a page to enlarge it.</p></section>'
+            '<div id="fp-box" role="dialog" aria-modal="true" aria-label="Front page"><img alt=""><p><span></span><a href="#" target="_blank" rel="noopener">Open the outlet’s site</a> · Tap anywhere or press Esc to close</p></div>' + js)
+
+def edition_html(ed, front=False):
     out = []
+    if front: out.append(frontpages_html(ed))
     if ed.get("intro"): out.append(f'<p class="summary" style="font-size:18px;margin:14px 0 0"><i>{e(ed["intro"])}</i></p>')
     out.append('<section class="msm-sec"><h2>What’s leading</h2><p class="note">The stories the big newsrooms put at the top. Stories shared by several outlets come first.</p>'
                + "".join(item(i) for i in ed.get("leading", [])) + "</section>")
@@ -66,10 +96,19 @@ def page(ed, eds, root, now, here_date):
             f'<style>{CSS}{EXTRA}</style></head><body><div class="page">{sitenav.nav("msm", root)}'
             '<header class="masthead"><h1>MSM</h1><p class="sub">What the big newsrooms are leading with, and what their readers are reading</p>'
             f'<div class="dateline"><span>{e(long_date(ed["date"]))}</span><span>NYT · Washington Post · BBC · Guardian · The Times · Times of Israel · ynet</span></div></header>'
-            + back + edition_html(ed) + arch_html +
+            + back + edition_html(ed, here_date == eds[0]["date"]) + arch_html +
             f'<p class="srcs">Page built {now:%d %B %Y, %H:%M} Israel time.</p></div></body></html>')
 
+def fetch_frontpages():
+    """Refresh msm/frontpages/ first. Never blocks or breaks the build."""
+    try:
+        import subprocess, sys
+        subprocess.run([sys.executable, os.path.join(D, "msm/fetch_frontpages.py")], timeout=240, check=False)
+    except Exception as ex:
+        print("front page fetch skipped:", ex)
+
 def main():
+    fetch_frontpages()
     d = json.load(open(os.path.join(D, "msm/data.json"), encoding="utf-8"))
     eds = sorted(d["editions"], key=lambda x: x["date"], reverse=True)
     now = datetime.now(TZ)
