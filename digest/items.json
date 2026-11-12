@@ -535,6 +535,38 @@
               "url": "https://x.com/cold_cyber_"
             }
           ]
+        },
+        {
+          "name": "Fourth Dimension",
+          "handle": "@4dimensionapp",
+          "who": "Public X account for 4DIMENSION (4dimension.app), a free browser tool that turns ordinary videos into interactive 3D time sculptures. Added 12 Nov 2026 at your request, and watched only for posts on Land, the CCRU, hyperstition, accelerationism and the section's other themes.",
+          "confidence": "Account checked by its profile and 4dimension.app; about 1,250 followers",
+          "links": [
+            {
+              "label": "X: @4dimensionapp",
+              "url": "https://x.com/4dimensionapp"
+            },
+            {
+              "label": "4dimension.app",
+              "url": "https://4dimension.app/"
+            }
+          ]
+        },
+        {
+          "name": "Eric Wargo",
+          "handle": "@thenightshirt",
+          "who": "Author of Time Loops, Precognitive Dreamwork and the Long Self, From Nowhere, Becoming Timefaring and Where Was It Before the Dream?. He writes on precognition, retrocausation and time; his blog is The Nightshirt. Added 12 Nov 2026 at your request, and watched only for posts on Land, the CCRU, hyperstition, accelerationism and the section's other themes.",
+          "confidence": "Account checked by its profile and ericwargo.com; about 4,100 followers",
+          "links": [
+            {
+              "label": "X: @thenightshirt",
+              "url": "https://x.com/thenightshirt"
+            },
+            {
+              "label": "ericwargo.com",
+              "url": "https://ericwargo.com/"
+            }
+          ]
         }
       ],
       "baseline_position": "bottom",
@@ -11646,7 +11678,7 @@
       "section": "cypherboria",
       "headline": "New tools: resonatrix's numogram reaches v2.1, acadianlemur's \"Still Plex\" cipher, and Gematria Research's esoteric calendar",
       "lead": "Desert resonatrix (@resonatingloop) released version 2.0 of a numogram tool for Cyphers on 10 November (new colors, lore fixes, selectable gates and currents) and on 11 November a version 2.1 that \"returns the act of inference to the user,\" after @AOElection argued that highlighting a gate based on zone choice smuggles in an ontology the user did not choose.",
-      "text": "acadianlemur posted \"Still Plex,\" a cipher built on the cycle that links Alphanumeric Qabbala (AQ) and Numeric QWERTY: repeating the substitution returns to AQ after 210 steps, and in it \"Keyboard = Numogram = Machinic = Harmonic = 178.\" Luís Gonçalves (@GematResearch) released \"Sol Invictus,\" a web calendar he devised in 2006 with 13 months of 28 days and a year beginning 25 December, built with ChatGPT; Cyphers reposted it. Land posted a reply to the claim that the CCRU was mentioned before Remilia: \"I have absolutely no idea whatsoever what the hell is going on, and that's great actually.\" No new Land podcast or video appearance, no new Retrochronic material (still v1.0.176), and nothing new from Pasulka, Vallée, Methexis, the Truth is Christ channel or the filtered watch accounts.",
+      "text": "acadianlemur posted \"Still Plex,\" a cipher built on the cycle that links Alphanumeric Qabbala (AQ) and Numeric QWERTY: repeating the substitution returns to AQ after 210 steps, and in it \"Keyboard = Numogram = Machinic = Harmonic = 178.\" Luís Gonçalves (@GematResearch) released \"Sol Invictus,\" a web calendar he devised in 2006 with 13 months of 28 days and a year beginning 25 December, built with ChatGPT; Cyphers reposted it. Land posted a reply to the claim that the CCRU was mentioned before Remilia: \"I have absolutely no idea whatsoever what the hell is going on, and that's great actually.\" No new Land podcast or video appearance, no new Retrochronic material (still v1.0.176), and nothing new from Pasulka, Vallée, Methexis, the Truth is Christ channel or the filtered watch accounts. The two accounts added to the watch list today, @4dimensionapp and @thenightshirt, had no posts in the past week on Land, the CCRU, hyperstition, accelerationism or the section's other themes.",
       "sources": [
         {
           "name": "X: resonatrix, numogram v2.0",
