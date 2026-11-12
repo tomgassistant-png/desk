@@ -1,6 +1,615 @@
 {
  "editions": [
   {
+   "date": "2026-11-12",
+   "read_at": "2026-11-12T04:18:00+02:00 to 04:45 Israel time",
+   "intro": "Nvidia’s board weighing the future of chief executive Jensen Huang leads the NYT and the BBC this morning. The Washington Post leads with the Democratic Senate win in Mississippi, and readers in the US are also clicking on Pete Hegseth being scolded at the Tomb of the Unknown Soldier.",
+   "cover": "Nvidia leads the morning: the New York Times and both BBC homepages open with its board weighing the future of chief executive Jensen Huang, after reports of an affair with an alleged Chinese spy and a relationship with an executive who reports to him. The Washington Post leads with Democrat Scott Colom’s Senate win in Mississippi, which also tops the Guardian’s most-viewed list, while Pete Hegseth being scolded at the Tomb of the Unknown Soldier is No. 1 on the Post’s most-read list. The Guardian’s UK edition still leads with the David Walliams fallout, and the Times of Israel’s newest item is Hezbollah’s leader on the elections. Away from the news, Pochettino is set to take over Manchester United, Dua Lipa will headline Coachella, and Israeli outlets review the new season of “HaTabach.”",
+   "leading": [
+    {
+     "headline": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+     "text": "Nvidia’s board is meeting about its chief executive after reports of his affair with a woman US intelligence calls a Chinese spy and of a relationship with an executive who reports to him; the NYT says the stock fell more than 8 percent after hours.",
+     "ranks": "Leads: NYT, BBC (UK and international), Guardian (international), Sky News. Most read No. 1: NYT. On the front: WaPo, The Times (X).",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.com/news/live/c6zjry11v8w1t"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/technology/2026/11/11/nvidia-board-weighs-fate-jensen-huang-after-affair-with-alleged-spy/"
+      }
+     ]
+    },
+    {
+     "headline": "Democrat Scott Colom wins Senate race in Mississippi",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-race/",
+     "text": "Colom beat Republican Cindy Hyde-Smith by a very thin margin, with the race called eight days after election day; the Post says he will be the state’s first Black senator since the end of Reconstruction.",
+     "ranks": "Leads: WaPo. Top 5: BBC (international), Guardian (international), NYT. Most read: Guardian No. 1 and No. 3, WaPo No. 2. Also on Sky News.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html"
+      }
+     ]
+    },
+    {
+     "headline": "Hegseth and his entourage scolded by military sentinel at Tomb of the Unknowns",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/national-security/2026/11/11/hegseth-scolded-by-sentinel-tomb-unknown-soldier/",
+     "text": "A guard at Arlington National Cemetery told the defense secretary, his wife and aides to keep silent and show respect after they were seen laughing and talking on Veterans Day; separately, the NYT says 11 Democrats missed the vote that shelved his impeachment and now face criticism.",
+     "ranks": "Top 3: WaPo. Most read: WaPo No. 1, NYT trending No. 4 (No. 5 for the missed vote), Guardian No. 4. Also: BBC top-stories video, The Times (X).",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/us/american-politics/article/hegseth-reprimanded-tomb-unknown-soldier-veterans-day-5btlwh65s?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter"
+      }
+     ]
+    },
+    {
+     "headline": "Author says there were 'real concerns' about David Walliams within publishing industry",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o",
+     "text": "The fallout from the allegations against the British comedian goes on, and the Guardian reports ministers warning the TV industry to tackle abuse or face a crackdown; Walliams denies the allegations.",
+     "ranks": "Leads: Guardian (UK). Top 3: BBC (UK). Most read No. 1: BBC. Also on BBC international and ynet entertainment.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy"
+      },
+      {
+       "outlet": "ynet (Hebrew)",
+       "url": "https://www.ynet.co.il/entertainment/article/hyugealafg"
+      }
+     ]
+    },
+    {
+     "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo",
+     "text": "Tens of thousands joined a 24-hour strike called by Spain’s main unions over housing and the cost of living; the Guardian notes it comes weeks before an election.",
+     "ranks": "Top 3: BBC (international No. 2, UK No. 4). Most read No. 5: BBC. On the front: Guardian news section, ynet.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+      },
+      {
+       "outlet": "ynet (Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/rk5w2bf0gg"
+      }
+     ]
+    },
+    {
+     "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o",
+     "text": "Talks in Abu Dhabi on Europe’s security framework ended without a breakthrough, with US envoys due to meet Putin and Zelensky on Thursday; the Post says the two sides agreed to a prisoner swap.",
+     "ranks": "Top 3: BBC (international). On the front: Guardian (international), WaPo.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/11/russia-ukraine-agree-prisoner-swap-little-else-us-mediated-talks/"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/12/ukraine-war-briefing-zelenskyy-sees-window-of-opportunity-for-peace-as-us-envoys-to-meet-putin"
+      }
+     ]
+    },
+    {
+     "headline": "Some under-25s should get less benefits, Milburn review to say",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o",
+     "text": "A proposed overhaul of the British welfare system would move under-25s off the main sickness benefits.",
+     "ranks": "Top story: BBC (UK, after the Nvidia live page). Most read No. 2: BBC.",
+     "also": []
+    },
+    {
+     "headline": "Marco Rubio reportedly spent over $1.2m of taxpayer money traveling to son’s football games",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/11/marco-rubio-travel-costs-university-florida-football",
+     "text": "The secretary of state, who must travel by government plane, flies to University of Florida games to watch his son play; ethics watchdogs question the trips, and he has defended them, the Post says.",
+     "ranks": "Most read No. 2: Guardian. On the front: WaPo.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/politics/2026/11/11/flying-by-pricey-military-jet-marco-rubio-never-misses-florida-game/"
+      }
+     ]
+    }
+   ],
+   "most_read": [
+    {
+     "outlet": "The New York Times",
+     "list": "nytimes.com/trending",
+     "items": [
+      {
+       "headline": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+       "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+      },
+      {
+       "headline": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
+       "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html"
+      },
+      {
+       "headline": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+       "url": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html"
+      },
+      {
+       "headline": "Soldier Shouts at Hegseth’s Group to Show ‘Respect’ at Tomb of the Unknowns",
+       "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html"
+      },
+      {
+       "headline": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
+       "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html"
+      }
+     ]
+    },
+    {
+     "outlet": "The Washington Post",
+     "list": "homepage “Most Read” box",
+     "items": [
+      {
+       "headline": "Hegseth and his entourage scolded by military sentinel at Tomb of the Unknowns",
+       "url": "https://www.washingtonpost.com/national-security/2026/11/11/hegseth-scolded-by-sentinel-tomb-unknown-soldier/"
+      },
+      {
+       "headline": "Democrat Scott Colom wins Senate race in Mississippi",
+       "url": "https://www.washingtonpost.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-race/"
+      },
+      {
+       "headline": "He learned he has 35 siblings. Here’s how he aired his family secret.",
+       "url": "https://www.washingtonpost.com/lifestyle/2026/11/11/he-learned-he-has-35-siblings-heres-how-he-aired-his-family-secret/"
+      },
+      {
+       "headline": "Democratic lawmakers apologize after absences on Hegseth vote",
+       "url": "https://www.washingtonpost.com/politics/2026/11/11/democratic-lawmakers-apologize-after-absences-hegseth-vote/"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC News",
+     "list": "bbc.co.uk/news “Most read”",
+     "items": [
+      {
+       "headline": "Author says there were 'real concerns' about David Walliams within publishing industry",
+       "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o"
+      },
+      {
+       "headline": "Some under-25s should get less benefits, Milburn review to say",
+       "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o"
+      },
+      {
+       "headline": "Are max strength cold and flu pills worth the money?",
+       "url": "https://www.bbc.co.uk/news/articles/cjkgep4rgngro"
+      },
+      {
+       "headline": "'TV industry must tackle abuse' and Cameron tells PM 'Don't rejoin the EU'",
+       "url": "https://www.bbc.co.uk/news/articles/crgj3vz5x4p2o"
+      },
+      {
+       "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "list": "most viewed",
+     "items": [
+      {
+       "headline": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates"
+      },
+      {
+       "headline": "Marco Rubio reportedly spent over $1.2m of taxpayer money traveling to son’s football games",
+       "url": "https://www.theguardian.com/us-news/2026/nov/11/marco-rubio-travel-costs-university-florida-football"
+      },
+      {
+       "headline": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+       "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+      },
+      {
+       "headline": "Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier",
+       "url": "https://www.theguardian.com/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier"
+      },
+      {
+       "headline": "‘We were quite surprised’: Finland’s embassy in Australia goes viral with staff training day post on Instagram",
+       "url": "https://www.theguardian.com/media/2026/nov/11/we-were-quite-surprised-finlands-embassy-goes-viral-with-staff-training-day-post-on-instagram"
+      }
+     ]
+    }
+   ],
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "home": "https://www.nytimes.com/",
+     "para": "The Times gives its top three slots to Nvidia and Jensen Huang, then the Mississippi Senate result. Order read from the homepage RSS feed (close to, but not exactly, the homepage).",
+     "items": [
+      {
+       "headline": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+       "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html"
+      },
+      {
+       "headline": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+       "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+      },
+      {
+       "headline": "Nvidia Shares Plummet as Board Is Said to Consider C.E.O.’s Future",
+       "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html"
+      },
+      {
+       "headline": "Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?",
+       "url": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html"
+      },
+      {
+       "headline": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
+       "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html"
+      }
+     ]
+    },
+    {
+     "name": "The Washington Post",
+     "home": "https://www.washingtonpost.com/",
+     "para": "The Post leads with Colom’s win in Mississippi and North Carolina’s near-sweep for Democrats, then Hegseth at the Tomb of the Unknowns; Nvidia comes after Trump’s planned arch.",
+     "items": [
+      {
+       "headline": "Democrat Scott Colom wins Senate race in Mississippi",
+       "url": "https://www.washingtonpost.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-race/"
+      },
+      {
+       "headline": "North Carolina is on the brink of a total Democratic sweep of state government",
+       "url": "https://www.washingtonpost.com/politics/2026/11/11/north-carolina-is-brink-total-democratic-sweep-state-government/"
+      },
+      {
+       "headline": "Hegseth and his entourage scolded by military sentinel at Tomb of the Unknowns",
+       "url": "https://www.washingtonpost.com/national-security/2026/11/11/hegseth-scolded-by-sentinel-tomb-unknown-soldier/"
+      },
+      {
+       "headline": "Democratic lawmakers apologize after absences on Hegseth vote",
+       "url": "https://www.washingtonpost.com/politics/2026/11/11/democratic-lawmakers-apologize-after-absences-hegseth-vote/"
+      },
+      {
+       "headline": "How Trump maneuvered to the brink of building his 250-foot triumphal arch",
+       "url": "https://www.washingtonpost.com/politics/2026/11/11/trump-massive-proposed-arch-faces-scrutiny-congress-courts/"
+      }
+     ]
+    },
+    {
+     "name": "BBC News",
+     "home": "https://www.bbc.com/news",
+     "para": "Both BBC editions lead with a live page on Nvidia. The international page follows with the Spanish strike and the Russia-Ukraine talks; the UK page follows with the welfare review and Walliams.",
+     "items": [
+      {
+       "headline": "Nvidia's shares plunge as US tech giant's board reportedly weighs ousting CEO Jensen Huang (live)",
+       "url": "https://www.bbc.com/news/live/c6zjry11v8w1t"
+      },
+      {
+       "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+      },
+      {
+       "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+       "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
+      },
+      {
+       "headline": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+       "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o"
+      },
+      {
+       "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+      }
+     ]
+    },
+    {
+     "name": "The Guardian",
+     "home": "https://www.theguardian.com/uk",
+     "para": "The UK front still opens with a block on David Walliams, led by ministers’ warning to the TV industry, then climate talks at Cop31 and Nvidia. The international front leads with Nvidia, then US politics and Mississippi.",
+     "items": [
+      {
+       "headline": "TV industry must tackle abuse or face crackdown, ministers warn",
+       "url": "https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy"
+      },
+      {
+       "headline": "UK appoints world’s first special representative for climate security",
+       "url": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security"
+      },
+      {
+       "headline": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
+       "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31"
+      },
+      {
+       "headline": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+       "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+      },
+      {
+       "headline": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+       "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+      }
+     ]
+    },
+    {
+     "name": "The Times (London)",
+     "home": "https://www.thetimes.com/",
+     "para": "The homepage could not be read today, so these are the paper’s latest posts on X, newest first, not its homepage order. Hegseth and Huang are its newest news posts.",
+     "items": [
+      {
+       "headline": "Hegseth’s group shouted down by soldier for laughing at war memorial",
+       "url": "https://www.thetimes.com/us/american-politics/article/hegseth-reprimanded-tomb-unknown-soldier-veterans-day-5btlwh65s?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter"
+      },
+      {
+       "headline": "Jensen Huang ‘also had affair with Nvidia executive’",
+       "url": "https://www.thetimes.com/us/business-us/article/jensen-huang-affair-nvidia-executive-kimberly-powell-8rj5lfjrh?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter"
+      },
+      {
+       "headline": "Tommy Walsh obituary: UK’s ‘favourite handyman’ and Ground Force presenter",
+       "url": "https://www.thetimes.com/uk/obituaries/article/tommy-walsh-obituary-ground-force-mf877fxt5?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter"
+      },
+      {
+       "headline": "UK needs greater resilience to be ready for more hybrid attacks (The Times view)",
+       "url": "https://www.thetimes.com/comment/the-times-view/article/uk-needs-greater-resilience-to-be-ready-for-more-hybrid-attacks-32sgcx5nr?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter"
+      },
+      {
+       "headline": "PM accused of political opportunism over Russell Brand case",
+       "url": "https://www.thetimes.com/uk/law/article/pm-accused-of-political-opportunism-over-brand-case-c8v9gl275?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter"
+      }
+     ]
+    },
+    {
+     "name": "The Times of Israel",
+     "home": "https://www.timesofisrael.com/",
+     "para": "The homepage was blocked, so this is the RSS feed, newest first: Hezbollah’s leader on the US and Israeli elections, a report that Vance is weighing direct talks with Iran, and Netanyahu’s office on US military aid.",
+     "items": [
+      {
+       "headline": "Hezbollah leader: Trump and Netanyahu were defeated in elections, a positive development for us",
+       "url": "https://www.timesofisrael.com/hezbollah-leader-trump-and-netanyahu-were-defeated-in-elections-a-positive-development-for-us/"
+      },
+      {
+       "headline": "Report: Vance weighing direct talks with Iran, Trump sees June MOU as blunder",
+       "url": "https://www.timesofisrael.com/report-vance-weighing-direct-talks-with-iran-trump-sees-june-mou-as-blunder/"
+      },
+      {
+       "headline": "Contradicting Trump, Netanyahu’s office says Israel will ‘gradually’ move off US military aid",
+       "url": "https://www.timesofisrael.com/contradicting-trump-netanyahus-office-says-israel-will-gradually-move-off-us-military-aid/"
+      },
+      {
+       "headline": "Saudi Arabia says debris from intercepted Houthi missiles fell in the Mecca area (live blog)",
+       "url": "https://www.timesofisrael.com/liveblog-november-12-2026/"
+      },
+      {
+       "headline": "Eisenkot says Netanyahu refusing to give him security briefings, asks AG to intervene",
+       "url": "https://www.timesofisrael.com/eisenkot-says-netanyahu-refusing-to-give-him-security-briefings-asks-ag-to-intervene/"
+      }
+     ]
+    },
+    {
+     "name": "ynet (Hebrew)",
+     "home": "https://www.ynet.co.il/",
+     "para": "ynet leads with the security cabinet meeting and whether a caretaker prime minister may order action against Iran, then the Eisenkot-Netanyahu clash and US aid.",
+     "items": [
+      {
+       "headline": "The cabinet convenes, the American opposition: Is Netanyahu allowed to go to war in Iran? (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/bjdmvezcgl"
+      },
+      {
+       "headline": "“Do not betray the public’s trust”: the clash between Eisenkot and Netanyahu (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/h1t7z7zrzl"
+      },
+      {
+       "headline": "Netanyahu, after Trump’s statement: “The aid will be stopped gradually” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/rk2cqwgafe"
+      },
+      {
+       "headline": "“Pillar of fire” at sea; senior Iranian: “We want to build submarines” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/hjz346zazx"
+      },
+      {
+       "headline": "“The reservists trusted you – don’t betray us” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/sja6zmgrfl"
+      }
+     ]
+    }
+   ],
+   "israel": {
+    "para": "In Israel, ynet leads with the security cabinet meeting on Sunday and whether Netanyahu, as caretaker prime minister, may order military action against Iran; both ynet and the Times of Israel give high play to Eisenkot’s demand for security briefings and to Netanyahu’s office saying US military aid will end gradually. Abroad, Israel is not on the main fronts of the NYT, WaPo, BBC or Guardian this morning: the Guardian UK front carries Gaza storm shelter, the Post’s world feed has Palestinian Israeli turnout, and the NYT homepage feed has Lebanon’s economy. No Israel story was among The Times’s X posts read.",
+    "items": [
+     {
+      "headline": "The cabinet convenes, the American opposition: Is Netanyahu allowed to go to war in Iran? (in Hebrew)",
+      "outlet": "ynet",
+      "url": "https://www.ynet.co.il/news/article/bjdmvezcgl",
+      "text": "The security cabinet meets on Sunday for the first time since early October; ynet says the law leaves a caretaker government room to act on security, and Eisenkot warned in a letter."
+     },
+     {
+      "headline": "Eisenkot says Netanyahu refusing to give him security briefings, asks AG to intervene",
+      "outlet": "The Times of Israel; also ynet No. 2",
+      "url": "https://www.timesofisrael.com/eisenkot-says-netanyahu-refusing-to-give-him-security-briefings-asks-ag-to-intervene/",
+      "text": "Eisenkot warned against military action that is not urgent; Netanyahu accuses him of politicizing national security."
+     },
+     {
+      "headline": "Contradicting Trump, Netanyahu’s office says Israel will ‘gradually’ move off US military aid",
+      "outlet": "The Times of Israel; also ynet No. 3",
+      "url": "https://www.timesofisrael.com/contradicting-trump-netanyahus-office-says-israel-will-gradually-move-off-us-military-aid/",
+      "text": "Trump had said the aid will end by the end of this year."
+     },
+     {
+      "headline": "Hezbollah leader: Trump and Netanyahu were defeated in elections, a positive development for us",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/hezbollah-leader-trump-and-netanyahu-were-defeated-in-elections-a-positive-development-for-us/",
+      "text": "Newest item in the Times of Israel feed: Naim Qassem’s comments on the US and Israeli elections."
+     },
+     {
+      "headline": "Thousands without shelter face lethal conditions in storm-hit Gaza as they wait for 150,000 tents",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/nov/11/thousands-without-shelter-lethal-cold-storm-gaza-israel-tents-displaced-people-flood",
+      "text": "On the Guardian UK front; charities warn about more than 940,000 displaced people in flood-prone areas."
+     },
+     {
+      "headline": "‘It felt like an existential vote this time’: Why Palestinian Israeli turnout surged",
+      "outlet": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/11/11/surge-voter-turnout-by-palestinian-israelis-boosts-long-sidelined-minority/",
+      "text": "In the Post’s world feed, not on its homepage."
+     },
+     {
+      "headline": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
+      "outlet": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
+      "text": "Lower on the NYT homepage feed; it says Hezbollah’s conflict with Israel and the US-Israel war with Iran made Lebanon’s problems worse."
+     }
+    ]
+   },
+   "culture": [
+    {
+     "headline": "“HaTabach”: the men do not grow up, the plot does not move, but something still works (in Hebrew)",
+     "outlet": "ynet (Hebrew); also Haaretz Galeria and Israel Hayom",
+     "url": "https://www.ynet.co.il/entertainment/article/rylu8ng0fg",
+     "text": "The third season of the Israeli drama with Guri Alfi and Gal Toren brings the war into the kitchen; ynet, Haaretz Galeria and Israel Hayom all review it prominently.",
+     "section": "Israeli TV"
+    },
+    {
+     "headline": "Ayala Hasson announces she is leaving the public broadcaster: “I will not be part of a system that seeks to silence voices” (in Hebrew)",
+     "outlet": "ynet (Hebrew); also Haaretz Galeria",
+     "url": "https://www.ynet.co.il/entertainment/article/h1o11y111age",
+     "text": "The anchor is leaving Kan 11 after a dispute with management over a demand that she apologize on air; she has not said where she will work next.",
+     "section": "Israeli media"
+    },
+    {
+     "headline": "Channel 12 anchor Yonit Levi’s novel about antisemitism to become film",
+     "outlet": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/channel-12-anchor-yonit-levis-novel-about-antisemitism-to-become-film/",
+     "text": "Gal Gadot will executive produce the film of “Don’t Feed the Lion,” written by Levi and CNN anchor Bianna Golodryga.",
+     "section": "Israeli books and film"
+    },
+    {
+     "headline": "Dua Lipa to become first female British headliner at Coachella 2027",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o",
+     "text": "Tame Impala and SZA also top the bill at the US festival.",
+     "section": "Music"
+    },
+    {
+     "headline": "Writer Michel Houellebecq Investigated Over Anti-Muslim Remarks",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/11/arts/michel-houellebecq-investigated-anti-muslim-remarks.html",
+     "text": "The French novelist’s comments in a 2022 interview have drawn accusations of incitement, which his lawyers reject.",
+     "section": "Books"
+    },
+    {
+     "headline": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
+     "text": "Bakers are charging three figures for luxury pies this season; it is on NYT trending.",
+     "section": "Food"
+    },
+    {
+     "headline": "Subtle Changes in Speech May Help Predict Dementia Risk",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/11/well/speech-changes-speed-test-alzheimers-dementia.html",
+     "text": "Researchers are finding signals in the way people talk years before symptoms of decline; it is on NYT trending.",
+     "section": "Health"
+    }
+   ],
+   "sports": [
+    {
+     "headline": "Pochettino ready to accept Man Utd offer to replace Carrick",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo",
+     "text": "Mauricio Pochettino, now the US national coach, is set to become Manchester United’s head coach; the Guardian says United have a framework deal after deciding Michael Carrick should be sacked. It leads BBC Sport and Guardian Sport.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick"
+      },
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o"
+      }
+     ]
+    },
+    {
+     "headline": "‘I’ve had to prove people wrong’: Kane still striving before record England cap",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/football/2026/nov/11/harry-kane-england-most-capped-mens-player-peter-shilton-croatia-nations-league",
+     "text": "Harry Kane’s 126th cap, against Croatia, will pass Peter Shilton’s England record; BBC Sport also runs a long look at his career.",
+     "also": [
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o"
+      }
+     ]
+    },
+    {
+     "headline": "Andreeva wins 11 games in a row to thrash Sabalenka at WTA Finals",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/cq1md03gz0zvo",
+     "text": "Mirra Andreeva beat the world No. 2 to reach the last four."
+    },
+    {
+     "headline": "Jacob Misiorowski unanimously wins NL Cy Young Award to cap scorching season",
+     "outlet": "The Athletic",
+     "url": "https://www.nytimes.com/athletic/7773728/2026/11/11/jacob-misiorowski-brewers-nl-cy-young-award/",
+     "text": "The Milwaukee pitcher won after helping the Brewers to their first World Series title; the Yankees’ Cam Schlittler won the American League award.",
+     "also": [
+      {
+       "outlet": "The Athletic",
+       "url": "https://www.nytimes.com/athletic/7768587/2026/11/11/cam-schlittler-yankees-al-cy-young-award/"
+      }
+     ]
+    }
+   ],
+   "unread": [
+    {
+     "outlet": "The Times (London) homepage",
+     "tried": "r.jina.ai reader (HTTP 401: the reader now blocks anonymous requests from the box’s IP), plain curl (device-check page), WebFetch (403), news sitemaps (device-check page), Wayback Machine (latest copy is from 11 Nov, 10:54 Israel time, too old). Used the paper’s X account (@thetimes) and Sky News RSS instead; Times article pages could not be opened to confirm the links work without tracking parameters, so they are kept as given."
+    },
+    {
+     "outlet": "The Times of Israel homepage",
+     "tried": "curl (403), WebFetch (403), Wayback Machine (latest copy 4 Nov). Used the RSS feed, which is by time, not homepage order."
+    },
+    {
+     "outlet": "The Telegraph",
+     "tried": "telegraph.co.uk with curl (HTTP 402)."
+    },
+    {
+     "outlet": "NYT exact homepage order",
+     "tried": "No browser available; nytimes.com with curl returns 403 and the r.jina.ai reader returns 403. Used the homepage RSS feed."
+    },
+    {
+     "outlet": "Walla culture (e.walla.co.il)",
+     "tried": "Page loaded but no article links could be read from it; ynet, Haaretz Galeria, Israel Hayom and Mako were used."
+    },
+    {
+     "outlet": "Most-read lists for The Times, Times of Israel and ynet",
+     "tried": "None found in the pages read."
+    }
+   ],
+   "method": "Read 04:18–04:45 Israel time with curl. NYT from the homepage RSS feed (not the exact homepage) and nytimes.com/trending; WaPo homepage and Most Read box through the r.jina.ai reader (one successful read at about 04:20; later reader calls were refused); BBC UK and international homepages and Most read; Guardian UK and international fronts and the most-viewed feed; The Times from its X account, as its homepage was blocked; Times of Israel from RSS; ynet, ynet entertainment, Haaretz Galeria, Israel Hayom culture and Mako from their pages; sections from RSS feeds and BBC Sport, Guardian Sport and The Athletic."
+  },
+  {
    "date": "2026-11-11",
    "read_at": "2026-11-11T08:35:00+02:00 to 08:50 Israel time",
    "intro": "Two spy stories and a blocked impeachment lead the big newsrooms this morning: the Nvidia affair, the arrest of a US soldier in Britain, and the House vote that spared Pete Hegseth. British outlets are dominated by the David Walliams allegations.",
@@ -665,5 +1274,5 @@
    "cover": "The big newsrooms split on what matters most today. The New York Times leads with the woman at the center of the Nvidia spy scandal, which is also No. 1 on the Times and Washington Post most-read lists. The Post leads with House Republicans blocking the Hegseth impeachment. In Britain, The Guardian and The Times lead with the allegations against David Walliams, which he denies, and the BBC's top stories include the arrest of a US Army soldier near Gloucester on suspicion of spying for Russia. The Times of Israel leads with Netanyahu's Knesset speech. Away from the news pages, M John Harrison became the first science fiction author to win the Booker Prize, Stacy Keach died at 85, and Paul McCartney became a billionaire."
   }
  ],
- "updated": "2026-11-11T08:55:00+02:00"
+ "updated": "2026-11-12T04:50:00+02:00"
 }

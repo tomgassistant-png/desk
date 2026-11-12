@@ -1,8 +1,431 @@
 {
   "title": "Judea & Samaria Desk",
   "subtitle": "The Palestinian Authority, security, settlement and land in Judea and Samaria",
-  "latest_count": 21,
+  "latest_count": 23,
   "items": [
+    {
+      "id": "2026-11-12-land-france-bars-dagan",
+      "section": "land",
+      "lead": true,
+      "highlight": true,
+      "headline": "France bars Samaria council head Yossi Dagan from entering the country over his role in building communities; Israel calls it \"completely unacceptable\"",
+      "summary": "Samaria Regional Council head Yossi Dagan said on Wednesday, 11 Nov, that French border officials at Charles de Gaulle airport in Paris refused him entry last week, where he was due to meet elected officials before flying on to the Czech Republic. He said an officer showed him documents saying he was barred as head of the Samaria council, for building communities in Judea and Samaria and for working toward a return to Gush Katif; the officer spoke of 35 communities and Dagan says he corrected him to 50. He also said the officer told him the decision had been taken in May or June, and that he had been asked by the Foreign Ministry not to make the incident public (Ynet does not say which country's ministry). The French Foreign Ministry told Ynet that Dagan is under an administrative entry ban \"because of his active part in carrying out settlement policy in the West Bank.\" Israel's Foreign Ministry said it views the decision \"with gravity,\" called it a \"completely unacceptable\" step against a law-abiding elected official on clearly political grounds, and said Israel will demand an explanation from France and \"consider its steps\" (<a href=\"https://www.ynet.co.il/news/article/b1n00h11m0me\">Ynet</a>; <a href=\"https://x.com/olam_katan/status/2120589145391480906\">Olam Katan</a>). Dagan's reply, as he told it: \"I am proud to be a Jew and a Zionist and to build the historic homeland of the Jewish people\"; he went on to meetings with government ministers and lawmakers in Prague (<a href=\"https://x.com/Yotamdeshe97/status/2120536375812296923\">Israel Hayom's Yotam Deshe</a>). Reactions: former U.S. ambassador David Friedman wrote \"France is nuts\" (<a href=\"https://x.com/DavidM_Friedman/status/2120553112285204758\">Friedman</a>). Yotam Deshe argued that people who demand a diplomatic agreement should respect the one already signed: the Oslo accords left Area C under Israeli administration and made Israel responsible for the security of the Israeli communities there, so the Samaria council operates under that agreement (<a href=\"https://x.com/Yotamdeshe97/status/2120562752594853946\">Deshe</a>). On the other side, Kerem Navot's Dror Etkes said he hoped other countries would bar more council heads, officials and officers (<a href=\"https://x.com/dror_etkes/status/2120562288457384073\">Etkes</a>).",
+      "source": "Ynet / Samaria Regional Council / Foreign Ministry / Israel Hayom (Yotam Deshe)",
+      "date": "2026-11-11",
+      "url": "https://www.ynet.co.il/news/article/b1n00h11m0me",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-blut-farms-regularization",
+      "section": "land",
+      "highlight": true,
+      "headline": "Central Command chief Avi Bluth asks the attorney general to set rules for making Judea and Samaria's farms legal",
+      "summary": "Israel Hayom's settlements correspondent Yotam Deshe reported first on Wednesday, 11 Nov, that Maj. Gen. Avi Bluth, head of Central Command, has asked the government's legal adviser to advance the regularization of the agricultural farms in Judea and Samaria. Deshe's account: even farms that work in coordination with the security forces and the government have no legal status for their buildings, so anyone who sets up an unauthorized outpost can also call it a \"farm,\" and the public cannot tell the two apart. Most security officials, he wrote, back the coordinated farms and see them as part of the defense of open areas. Bluth wants rules for when a farm may operate lawfully, so the authorities can regularize the farms that meet them and enforce the law against outposts set up without approval (<a href=\"https://x.com/Yotamdeshe97/status/2120417366731284714\">Yotam Deshe</a>). Arab48 relayed the Israel Hayom report, describing it as an army move to make the farms an official security arm (<a href=\"https://www.arab48.com/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2026/11/11/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%8A%D8%B9%D9%85%D9%84-%D8%B9%D9%84%D9%89-%D8%B4%D8%B1%D8%B9%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D8%B7%D8%A7%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D8%AD%D9%88%D9%8A%D9%84%D9%87%D8%A7-%D8%A5%D9%84%D9%89-%D8%B0%D8%B1%D8%A7%D8%B9-%D8%A3%D9%85%D9%86%D9%8A\">Arab48</a>). The Israel Hayom article itself blocks automated readers, so this item rests on Deshe's post and the Arab48 relay.",
+      "source": "Israel Hayom (Yotam Deshe) / Arab48",
+      "date": "2026-11-11",
+      "url": "https://x.com/Yotamdeshe97/status/2120417366731284714",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-jericho-idf-decision",
+      "section": "land",
+      "highlight": true,
+      "headline": "Army decides not to remove the Israelis living in the eight homes on Jericho's edge, and reinforces the nearby post from a squad to a platoon",
+      "summary": "A week after a group of Israelis moved into eight homes on the outskirts of Jericho, in Area C, without coordinating with the army, Central Command under Maj. Gen. Avi Bluth finished a security review and found no real security reason, for now, to keep them out, Channel 13 reported. The army will not evict them right away, but it will not give them the protection it gives other Israeli communities in Judea and Samaria; instead the nearby army post will grow from a squad to a platoon. The Civil Administration is still examining the purchase of the land, and the army says the houses were built without permits and have demolition orders, like thousands of other structures, but no demolition is expected soon because a legal process has to be completed first (<a href=\"https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1236139-0/\">Kipa, citing Channel 13</a>). Walla's military correspondent Amir Bohbot wrote that Bluth should take a clear public position on settlement in Area C opposite Jericho rather than vague wording, and said the IDF spokesman had not answered his questions (<a href=\"https://x.com/amirbohbot/status/2120606263876649304\">Amir Bohbot</a>). Background: the families entered the homes, bought through the Nachala movement, last week (see the Desk's 5 Nov edition).",
+      "source": "Channel 13 via Kipa / Amir Bohbot",
+      "date": "2026-11-11",
+      "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1236139-0/",
+      "places": [
+        {
+          "name": "Jericho",
+          "lat": 31.85604,
+          "lon": 35.45982,
+          "note": "Nominatim (city point); the eight homes are not plotted, approximate"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-northern-samaria-school",
+      "section": "land",
+      "highlight": true,
+      "headline": "Education minister and Samaria council agree on the first school in the rebuilt northern Samaria communities, for children of Ganim, Kadim and Noa",
+      "summary": "Samaria Regional Council head Yossi Dagan told the community committee heads of Ganim, Kadim and Noa on Wednesday, 11 Nov, that a regional elementary school (grades 1 to 6) will be built for the new communities in northern Samaria, after a tour with Education Minister Yoav Kish more than a month ago. It is the first school to be built in the communities that were removed in the 2005 disengagement and have now been re-established. Kish called it \"a holiday for settlement and a historic step.\" According to the council, the school is part of a plan, run with government ministries, Amana and the Settlement Division, to build 19 new communities in northern Samaria in place of the four removed in 2005; it says 11 new communities were set up in the council in the past eight months, among them Eival, Rehavam, Rom Gilboa, Shalem, Emek Dotan, Noa and Geva Shomron, plus the four disengagement communities Homesh, Sa-Nur, Ganim and Kadim (<a href=\"https://www.srugim.co.il/101015916-%D7%94%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%A9%D7%9C-%D7%A7%D7%99%D7%A9-%D7%95%D7%93%D7%92%D7%9F-%D7%91%D7%99%D7%AA-%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%9F\">Srugim</a>; <a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78874/\">Olam Katan</a>). The list of 11 communities is the council's own count.",
+      "source": "Srugim / Olam Katan (Samaria Regional Council announcement)",
+      "date": "2026-11-11",
+      "url": "https://www.srugim.co.il/101015916-%D7%94%D7%91%D7%A9%D7%95%D7%A8%D7%94-%D7%A9%D7%9C-%D7%A7%D7%99%D7%A9-%D7%95%D7%93%D7%92%D7%9F-%D7%91%D7%99%D7%AA-%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%9F",
+      "places": [
+        {
+          "name": "Ganim",
+          "lat": 32.4502,
+          "lon": 35.3415,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Kadim",
+          "lat": 32.4504,
+          "lon": 35.3199,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-high-court-agreed-reserve",
+      "section": "land",
+      "headline": "High Court issues an order against the state over enforcement in the Judean Desert \"agreed reserve\"; Regavim says the timing raises hard questions",
+      "summary": "A High Court panel led by Court President Yitzhak Amit, with Justices Ofer Grosskopf and Daphne Barak-Erez, on Tuesday, 10 Nov, issued an order nisi (an order requiring the state to explain itself) on petitions by the Palestinian Authority against Israeli enforcement in the \"agreed reserve\" east of Gush Etzion. In June 2024 the security cabinet decided Israel would take over enforcement powers there, which the Oslo accords had given to the PA, citing large-scale PA takeover of the area and thousands of illegal structures; the PA petitioned in November 2024. The court merged four petitions, two on the principle and two on a school building in the reserve, and gave the state until 3 Jan 2027 to explain why it should not refrain from enforcement, and why the 2024 order limiting building there should not be canceled. It also asked the state to address whether it should avoid acting against people holding PA building permits, and whether to separate \"natural growth\" of existing villages from new building. Interim orders stay in force (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/79024/\">Olam Katan</a>). Regavim, which led the legal fight, said issuing the order on the day the new Knesset was sworn in \"raises hard questions\" and called it a \"cynical use of the political momentum\" (<a href=\"https://x.com/simkha0404/status/2120597029206602224\">Simcha Raz, quoting Regavim</a>).",
+      "source": "Olam Katan / Regavim",
+      "date": "2026-11-10",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/79024/",
+      "places": [
+        {
+          "name": "Agreed reserve, Judean Desert (east of Gush Etzion)",
+          "lat": 31.645,
+          "lon": 35.2441,
+          "note": "Approximate: marker at Nokdim; the reserve lies to the east"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-idf-standby-squad-training-halted",
+      "section": "idf",
+      "highlight": true,
+      "headline": "Central Command to stop army-supported training for community standby squads across Judea and Samaria next week, citing budget cuts",
+      "summary": "Central Command has decided to halt, from next week, all army-supported training of the standby squads (the armed resident teams that are the first line of defense in each community) across Judea and Samaria, Channel 14's Elya Aviv reported on Wednesday, 11 Nov. The reason given is cuts across IDF units' budgets and resources. A security source in Judea and Samaria told Channel 14 that \"the standby squads are the shield of the communities, and their readiness must not be touched even for one day.\" A senior Central Command officer said: \"This is something we don't like at all either. There are cuts in all IDF units and the wave has reached us too,\" adding that the army is working to restore the training as soon as possible and \"will not abandon the security of the residents\" (<a href=\"https://www.okn.co.il/security/78884/\">Olam Katan, citing Channel 14</a>; <a href=\"https://x.com/simkha0404/status/2120480557607813285\">Simcha Raz</a>). The decision comes a few days after the Defense Ministry's eastern-border plan called for arming and training local standby squads (see the 11 Nov lead).",
+      "source": "Channel 14 (Elya Aviv) via Olam Katan",
+      "date": "2026-11-11",
+      "url": "https://www.okn.co.il/security/78884/",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-attacks-jsr-shepherds-route60",
+      "section": "attacks",
+      "highlight": true,
+      "headline": "Shepherds attacked at three farms, one hurt in the leg at Yoyo farm; stones hit cars on Route 60 near Ma'ale Levona",
+      "summary": "The Yesha Council's Judea and Samaria Situation Room (JSR) logged, on Wednesday, 11 Nov: a Jewish shepherd attacked by two Arabs at Magen Yehuda in Samaria, with no injuries (<a href=\"https://x.com/JSR_HEB/status/2120454870134096073\">JSR</a>; Olam Katan's Simcha Raz placed it near the Sela army post, <a href=\"https://x.com/simkha0404/status/2120456020451614839\">Simcha Raz</a>); a shepherd from Yoyo farm (also called Sfat HaMidbar farm) in the Hebron Hills hurt in the leg in an attack (<a href=\"https://x.com/JSR_HEB/status/2120461720145526828\">JSR</a>; <a href=\"https://x.com/simkha0404/status/2120465279335416177\">Simcha Raz</a>); stones thrown at a shepherd from Tomer Liani farm in the Hebron Hills, no injuries (<a href=\"https://x.com/JSR_HEB/status/2120535381384859739\">JSR</a>); two Arab \"olive harvesters\" throwing stones at Israelis in the grazing land of Maoz Shaul farm in Samaria (<a href=\"https://x.com/JSR_HEB/status/2120534108338061680\">JSR</a>); and, at about 6:50 PM Israel time, stones at several Israeli cars on Route 60 south of the Ma'ale Levona South junction, with a windshield damaged and no injuries (<a href=\"https://x.com/JSR_HEB/status/2120559505352065226\">JSR</a>). Activist Ayelet Lash said the stone throwers came from the Sinjil area and also threw a bottle of paint at another car (<a href=\"https://x.com/ayeletlash9/status/2120537513819353359\">Ayelet Lash</a>). JSR's morning summary counted three attacks on shepherds and residents, one stone attack and two roadblocks set by Arabs between Tuesday afternoon and Wednesday morning (<a href=\"https://x.com/JSR_HEB/status/2120445252620152872\">JSR</a>), and JNS Hebrew reporter Netanel Frankel listed the day's incidents the same way (<a href=\"https://x.com/Netanelfr/status/2120619182395990392\">Netanel Frankel</a>). These are JSR's reports; no second outlet carried most of them.",
+      "source": "JSR Situation Room / Olam Katan (Simcha Raz) / Netanel Frankel / Ayelet Lash",
+      "date": "2026-11-11",
+      "url": "https://x.com/JSR_HEB/status/2120559505352065226",
+      "places": [
+        {
+          "name": "Route 60 south of Ma'ale Levona South junction",
+          "lat": 32.05496,
+          "lon": 35.24026,
+          "note": "Nominatim point for Ma'ale Levona; the junction is not plotted, approximate"
+        },
+        {
+          "name": "Sinjil",
+          "lat": 32.035,
+          "lon": 35.265,
+          "note": "Approximate"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-attacks-mikhmas-roadblock-ascherman",
+      "section": "attacks",
+      "headline": "Farm owner near Mikhmas films masked men from Mukhmas setting a stone roadblock at night, with activist Arik Ascherman filming beside them",
+      "summary": "Elisha Yered reported that shortly before midnight on Tuesday, 10 Nov, the owner of a farm near Mikhmas in Binyamin saw on a security camera Arabs from the village of Mukhmas setting up a roadblock of stones on one of the access roads. When he and a few residents reached the spot, he found left-wing activist Arik Ascherman there with a camera, standing in front of dozens of masked men; Yered posted video and said Ascherman had not been arrested (<a href=\"https://x.com/ElishaYered/status/2120424870173417512\">Elisha Yered, with video</a>; <a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78824/\">Olam Katan</a>). Background: Ascherman was recently indicted over an assault on a 16-year-old Jewish shepherd near Rimonim in June (<a href=\"https://be7.co.il/32220/\">Besheva</a>). The account of the roadblock is the farm owner's and Yered's; Ascherman's side was not published.",
+      "source": "Elisha Yered / Olam Katan / Besheva",
+      "date": "2026-11-10",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78824/",
+      "places": [
+        {
+          "name": "Mikhmas",
+          "lat": 31.8722291,
+          "lon": 35.2774879,
+          "note": "Nominatim (community point; the farm road is nearby, approximate)"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-beit-anot-water-theft",
+      "section": "land",
+      "headline": "Residents of Givat Beit Anot spot pirate taps on the main water line in the Hebron Hills; an army water-theft team cuts them",
+      "summary": "Residents of the Givat Beit Anot hilltop in the Hebron Hills noticed signs of water theft from the main water line during a routine patrol and called in the army's \"Nahshol\" team, a unit dedicated to water theft in Judea and Samaria. The soldiers found a network of long-standing illegal connections, hidden under soil and plants, carrying water to nearby Arab villages, and cut and destroyed them (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78764/\">Olam Katan</a>; <a href=\"https://x.com/JSR_HEB/status/2120459910265663629\">JSR</a>; <a href=\"https://x.com/elchanangr/status/2120408628418974158\">Elchanan Groner</a>). Damage figures differ: JSR and Olam Katan say hundreds of thousands of shekels so far; Elisha Yered put it at over a million (<a href=\"https://x.com/ElishaYered/status/2120399538716344359\">Yered</a>); resident Yedidya Amsali said an official told them the loss would have exceeded a million shekels a month had it not been found. Amsali: \"There is no substitute for daily Jewish presence on the ground\" (<a href=\"https://x.com/Netanelfr/status/2120441755002651068\">Netanel Frankel</a>). Olam Katan notes that the State Comptroller called water theft in Judea and Samaria a serious governance failure as early as 2013. No army statement was found.",
+      "source": "Olam Katan / JSR / Elchanan Groner / Netanel Frankel",
+      "date": "2026-11-11",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/78764/",
+      "places": [
+        {
+          "name": "Givat Beit Anot (near Beit Einun)",
+          "lat": 31.56922,
+          "lon": 35.13286,
+          "note": "Approximate: hilltop not mapped; marker at the Sa'ir–Beit Einun road (Nominatim), assuming Beit Anot is the Beit Einun area"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-idf-urif-qabalan-arrests",
+      "section": "idf",
+      "headline": "Undercover Border Police arrest three wanted men in Urif and Qabalan, two of them Hamas operatives",
+      "summary": "Undercover Border Police officers acting on Shin Bet intelligence raided three locations in the villages of Urif and Qabalan, south of Nablus, overnight into Wednesday, 11 Nov, surrounding the buildings and breaking in, and arrested three wanted men, two of them Hamas operatives. Police said they are suspected of advancing attacks and of activity against the security forces (<a href=\"https://x.com/IL_police/status/2120499996122304684\">Israel Police</a>; <a href=\"https://www.jns.org/news/israel-news/samaria-undercover-forces-arrest-three-terror-suspects\">JNS</a>; <a href=\"https://x.com/manniefabian/status/2120501838101327987\">Times of Israel's Emanuel Fabian</a>).",
+      "source": "Israel Police / JNS / Emanuel Fabian",
+      "date": "2026-11-11",
+      "url": "https://x.com/IL_police/status/2120499996122304684",
+      "places": [
+        {
+          "name": "Urif",
+          "lat": 32.1594,
+          "lon": 35.2253,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Qabalan",
+          "lat": 32.10215,
+          "lon": 35.28772,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-civil-admin-tools-returned",
+      "section": "land",
+      "headline": "Civil Administration orders tools returned to Palestinians caught paving a road through a firing zone, a reporter says; Elisha Yered calls it the third such release",
+      "summary": "Reporter Ayana Ben Aderet reported on Tuesday evening, 10 Nov, that the army seized work tools last Saturday from Palestinians paving a road illegally inside a firing zone, but the Civil Administration ordered them returned because enforcement in that case had low priority. She said the road was being built to get around routes the army closed for security reasons after an attack at a checkpoint about six weeks ago (<a href=\"https://x.com/Ayanabenaderet_/status/2120235137673601167\">Ayana Ben Aderet</a>). Elisha Yered said this follows the release of a tractor seized at an illegal dump in al-Mughayyir and another at a dump in Burqa, and accused the Civil Administration of a policy that helps the other side take over open land (<a href=\"https://x.com/ElishaYered/status/2120365061579432118\">Elisha Yered</a>). The location of the firing zone was not published, and the Civil Administration's response was not found.",
+      "source": "Ayana Ben Aderet / Elisha Yered",
+      "date": "2026-11-10",
+      "url": "https://x.com/Ayanabenaderet_/status/2120235137673601167",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-idf-mevaser-shalom-vehicles",
+      "section": "idf",
+      "headline": "Police correct their statement on vehicles taken from Mevaser Shalom: they were seized because the hill is a closed military zone, not because they were unsafe",
+      "summary": "HaKol HaYehudi reported that police had announced they seized \"mashtuvot\" (unsafe, unlicensed vehicles) at a hilltop in Samaria; residents said the vehicles were legal, and after the site asked, police said the statement was wrong and the vehicles were taken because they were inside a closed military zone. The hill is Mevaser Shalom, where several families have lived for more than a year and a half, on a stretch of the Allon Road between Evyatar and Migdalim; Central Command chief Avi Bluth recently declared it a closed military zone. HaKol says similar seizures of a buggy, a Ranger and other vehicles took place in recent days at Gefen Ami (<a href=\"https://x.com/hakolhayehudi/status/2120433635794796713\">HaKol HaYehudi</a>). Mevaser Shalom is the site where Israeli cars were set on fire on 9 Nov (see the 10 Nov lead). The police correction is as HaKol reports it.",
+      "source": "HaKol HaYehudi",
+      "date": "2026-11-11",
+      "url": "https://x.com/hakolhayehudi/status/2120433635794796713",
+      "places": [
+        {
+          "name": "Evyatar (near Mevaser Shalom)",
+          "lat": 32.11967,
+          "lon": 35.27471,
+          "note": "Nominatim point for Evyatar; Mevaser Shalom itself is not mapped, approximate"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-ofra-synagogue-dvir-sorek",
+      "section": "land",
+      "headline": "New prayer hall dedicated in Ofra in memory of Dvir Sorek, in the synagogue where his circumcision and funeral took place",
+      "summary": "A new prayer hall named for Dvir Sorek, murdered in a stabbing attack in Gush Etzion in August 2019 shortly before he turned 19, was dedicated this week in a new building of Ofra's old synagogue, where his circumcision was held and from where his funeral left. The new synagogue, \"Mizmor LeAsaf,\" is named for Asaf Hershkovitz, an Ofra resident killed in a shooting attack on Route 60 in May 2001. His father, Yoav Sorek: \"Dvir is probably the only person who closed the circle of his life inside the old synagogue building\" (<a href=\"https://x.com/Netanelfr/status/2120476596687511883\">Netanel Frankel, photos from the Binyamin council</a>). Makor Rishon carried the story under the headline \"From the circumcision to the funeral: a new synagogue in Ofra commemorates two murder victims\" (headline seen in a Google News feed; the article blocks automated readers).",
+      "source": "Netanel Frankel (JNS Hebrew) / Binyamin Regional Council / Makor Rishon",
+      "date": "2026-11-11",
+      "url": "https://x.com/Netanelfr/status/2120476596687511883",
+      "places": [
+        {
+          "name": "Ofra",
+          "lat": 31.9535,
+          "lon": 35.2605,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-idf-zamir-jordan-border",
+      "section": "idf",
+      "headline": "Chief of Staff Zamir at the Jordan border: the army must be ready for \"rapid change and surprise\" even without intelligence warning",
+      "summary": "IDF Chief of Staff Lt. Gen. Eyal Zamir toured the eastern border on Wednesday, 11 Nov, in the sector of the new 96th \"Gilad\" Division, and said: \"Alongside the demand for intelligence warning, the basic state of IDF forces must be readiness for rapid change and surprise.\" He presented the division, set up during Operation Rising Lion, as a lesson of 7 Oct put into practice, deployed in a forward line of posts in front of the communities, and called the eastern border \"of the highest strategic importance\"; he also told commanders to keep law and order and to ensure the safety of all populations in the sector (<a href=\"https://www.inn.co.il/news/710608\">Arutz 7</a>; <a href=\"https://x.com/manniefabian/status/2120574674664849912\">Emanuel Fabian</a>). The visit came two days after the Defense Ministry's eastern-border settlement plan was reported (see the 11 Nov lead).",
+      "source": "Arutz 7 / Emanuel Fabian (IDF statement)",
+      "date": "2026-11-11",
+      "url": "https://www.inn.co.il/news/710608",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-pa-arafat-anniversary-ghannam-marda",
+      "section": "pa",
+      "headline": "On the anniversary of Arafat's death, the PA's Ramallah governor writes that \"the dream is drawing closer\" of a Palestinian flag over Jerusalem's walls; Marda schools hold student rallies, JSR says",
+      "summary": "JSR reported that Laila Ghannam, the PA's governor of Ramallah and al-Bireh, marked 22 years since Yasser Arafat's death with a Facebook post hoping a child would one day raise \"the flag of Palestine above the walls of Jerusalem the capital, its minarets and its mosques,\" ending: \"The memory grows distant, the idea remains, and the dream is drawing closer\" (<a href=\"https://x.com/JSR_HEB/status/2120469011393556984\">JSR</a>). JSR also reported that schools in the village of Marda in Samaria held student rallies stressing Arafat's legacy of struggle against Israel (<a href=\"https://x.com/JSR_HEB/status/2120540729059529044\">JSR</a>). Ghannam's post was not checked directly; this is JSR's account.",
+      "source": "JSR Situation Room",
+      "date": "2026-11-11",
+      "url": "https://x.com/JSR_HEB/status/2120469011393556984",
+      "places": [
+        {
+          "name": "Marda",
+          "lat": 32.11167,
+          "lon": 35.193,
+          "note": "Nominatim village point"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-activist-pa-claims",
+      "section": "land",
+      "headline": "Activist and PA claims: groups ask the attorney general to keep the E1 tender sealed; a new road and a planned caravan site near Kharbatha; work on a road at al-Mughayyir",
+      "summary": "Peace Now, Bimkom and Ir Amim, through lawyer Michael Sfard, wrote to Attorney General Gali Baharav-Miara asking her to order that the bids for the 1,234-home E1 tender stay sealed until a new government is formed (<a href=\"https://x.com/peacenowisrael/status/2120482949065793566\">Peace Now</a>; <a href=\"https://peacenow.org.il/letter-to-ag-freeze-tender-in-e1\">Peace Now site</a>). Kerem Navot's Dror Etkes said Israelis are opening a road north of the villages of Kharbatha and Deir Qaddis, through a Bedouin community, that a new outpost is operating nearby and that preparations have begun for a new caravan community called \"Netof\"; this is his claim, with photos, and no settlement-side source has confirmed the name or plan (<a href=\"https://x.com/dror_etkes/status/2120411953793507406\">Dror Etkes</a>). The PA-side outlet Ultra Palestine reported bulldozing in the al-Rafid plain at al-Mughayyir to open a settler road (<a href=\"https://x.com/palestineultra/status/2120426847724859724\">Ultra Palestine</a>), and relayed the PA Colonization and Wall Resistance Commission's claim of 1,182 burnings by the army and settlers in the West Bank between 7 Oct 2023 and 30 Sep 2026, a PA figure that could not be checked (<a href=\"https://x.com/palestineultra/status/2120526479243296786\">Ultra Palestine</a>).",
+      "source": "Peace Now / Dror Etkes (Kerem Navot) / Ultra Palestine (PA commission)",
+      "date": "2026-11-11",
+      "url": "https://peacenow.org.il/letter-to-ag-freeze-tender-in-e1",
+      "places": [
+        {
+          "name": "Kharbatha Bani Harith",
+          "lat": 31.9465,
+          "lon": 35.07237,
+          "note": "Nominatim village point; the new road is north of it, approximate"
+        },
+        {
+          "name": "Deir Qaddis",
+          "lat": 31.9488,
+          "lon": 35.0457,
+          "note": "Nominatim"
+        },
+        {
+          "name": "al-Mughayyir",
+          "lat": 32.0198,
+          "lon": 35.3462,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-ambassador-netherlands-recalled",
+      "section": "land",
+      "headline": "Israel's ambassador to the Netherlands is called home after telling a Dutch paper there are \"thousands of extremists, thugs and Jewish terrorists\" among the settlers",
+      "summary": "Israel's ambassador to the Netherlands, Zvi Aviner Vapni, was summoned home by the Foreign Ministry on Wednesday, 11 Nov, for clarification after an interview with the Dutch daily Algemeen Dagblad. Asked about the ministers Bezalel Smotrich and Itamar Ben Gvir, he said they had said things he finds \"terrible and unacceptable\" and that he feels no need to defend them. Asked about settlers using violence, he said: \"Not all of them. 300,000 people live in the settlements, and among them a few thousand extremists. They are hooligans and Jewish terrorists, and they should all go to prison,\" adding that he thinks 80 percent of Israelis agree (<a href=\"https://www.ynet.co.il/news/article/skup0nfcgg\">Ynet</a>). His figure of \"a few thousand\" violent settlers was not sourced in the interview.",
+      "source": "Ynet",
+      "date": "2026-11-11",
+      "url": "https://www.ynet.co.il/news/article/skup0nfcgg",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-land-yered-channel18-interview",
+      "section": "land",
+      "headline": "Channel 18 launches on YouTube with a long interview with Elisha Yered on the \"settler violence\" campaign; David Friedman promotes it",
+      "summary": "Channel 18 Israel, founded by former U.S. ambassador David Friedman and run by Sam Schubert, launched on YouTube on Wednesday evening, 11 Nov, with a full interview of Elisha Yered, described as a leader of the Hilltop Youth, in Hebrew with English subtitles. Yered said he discussed Arab terror on the ground against the \"settler violence\" campaign, work on the ground to undo the Oslo accords, and growing up on a hilltop 350 meters from an Arab village with no fence (<a href=\"https://x.com/ElishaYered/status/2120552583735419069\">Elisha Yered</a>). In a clip, Yered calls the Palestinian state plan the \"Fayyad Plan\": \"They create Arab settlement sequences to control the open areas and establish a de facto Palestinian state. We do the opposite\" (<a href=\"https://x.com/channel18israel/status/2120617041799282771\">Channel 18</a>). Friedman wrote: \"Here's the other side of the 'settler violence' myth that you won't find anywhere else!\" (<a href=\"https://x.com/DavidM_Friedman/status/2120550048295510498\">David Friedman</a>).",
+      "source": "Channel 18 Israel / Elisha Yered / David Friedman",
+      "date": "2026-11-11",
+      "url": "https://x.com/channel18israel/status/2120547108004524267",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-attacks-neria-leiter-rehab",
+      "section": "attacks",
+      "headline": "Neria Leiter, gravely hurt in the Route 443 ramming attack, leaves Shaare Zedek for rehabilitation, still unconscious",
+      "summary": "Reserve soldier Neria Leiter, son of Israel's ambassador to the United States Yechiel Leiter, who was gravely hurt in a ramming attack on Route 443 more than a month ago, was discharged from Shaare Zedek hospital on Wednesday, 11 Nov, and moved to Sheba hospital for neurological rehabilitation. He is breathing on his own but still unconscious, and is out of danger to his life; the family asks for prayers and privacy (<a href=\"https://www.okn.co.il/israel/78795/\">Olam Katan</a>; <a href=\"https://x.com/Netanelfr/status/2120423080128594308\">Netanel Frankel</a>). Ynet's headline gave the transfer to Sheba.",
+      "source": "Olam Katan / Netanel Frankel / Ynet",
+      "date": "2026-11-11",
+      "url": "https://www.okn.co.il/israel/78795/",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-negev-galilee-drones-weapons",
+      "section": "negev",
+      "headline": "Galilee: 40 drones, some able to drop explosives, seized at a Daburiya home; police say 49 armed squads were caught in the act in the north this year",
+      "summary": "Police and the Tax Authority said a 30-year-old Daburiya man was arrested on suspicion of selling drones smuggled into Israel to criminals and of repairing and upgrading them in a home workshop; a raid on his house on Wednesday, 11 Nov, found about 40 drones of various kinds with tactical abilities, some with dual-use technology that allows dropping explosives from the air (<a href=\"https://x.com/hakolhayehudi/status/2120511899062108363\">HaKol HaYehudi, citing the police and Tax Authority statement</a>; <a href=\"https://x.com/ayeletlash9/status/2120502492450394151\">Ayelet Lash</a>). Northern District police data show that since the start of the year officers and Border Police caught at least 49 armed squads or gunmen \"red-handed,\" just before or during a crime, sometimes under fire. The same day: a pistol, a loaded magazine, loose ammunition and two working stun grenades found in a search in Jdeideh-Makr, with the suspect and four relatives arrested; an indictment in Tamra against a 25-year-old caught with a loaded FN pistol; and a remand hearing in Kabul for suspects caught with ready explosive charges (<a href=\"https://x.com/hakolhayehudi/status/2120474378420752577\">HaKol HaYehudi</a>; <a href=\"https://x.com/ayeletlash9/status/2120454292050006456\">Ayelet Lash</a>). The drone details are from the police statement as HaKol quotes it; the original statement was not found.",
+      "source": "Israel Police and Tax Authority via HaKol HaYehudi / Ayelet Lash",
+      "date": "2026-11-11",
+      "url": "https://x.com/hakolhayehudi/status/2120511899062108363",
+      "places": [
+        {
+          "name": "Daburiya",
+          "lat": 32.69278,
+          "lon": 35.3716,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Jdeideh-Makr",
+          "lat": 32.92953,
+          "lon": 35.14673,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-negev-arab-parties-tibi-segalovitz",
+      "section": "negev",
+      "headline": "Tibi tells an Umm al-Fahm wedding \"we are the owners of the land\"; Ra'am's Yoav Segalovitz joins the Foreign Affairs and Defense Committee and says Hamas's status is not a yes-or-no question",
+      "summary": "Activist Ayelet Lash posted video of MK Ahmad Tibi telling a wedding in Umm al-Fahm, \"We are the owners of the land\" (<a href=\"https://x.com/ayeletlash9/status/2120396257373901172\">Ayelet Lash, with video</a>). Islam researcher Moran Tal (Regavim) said the line comes from a Knesset speech Tibi gave in November 2025, which has been widely reused since the election in clips with Palestinian flags and maps of Israel \"from the river to the sea,\" and that at the wedding he joined that trend (<a href=\"https://x.com/MoranT555/status/2120500028691063212\">Moran Tal</a>). In the new Knesset, Ra'am's number two, former police major general and deputy minister Yoav Segalovitz, was named to the temporary Foreign Affairs and Defense Committee (<a href=\"https://x.com/olam_katan/status/2120527876739010719\">Olam Katan</a>); Minister Amichai Chikli posted a clip in which Segalovitz says whether Hamas is defined as a terror group \"is not a yes-or-no question,\" and Channel 14's Arab-affairs editor Omri Haim wrote that the former deputy minister is defending the head of the Islamic Movement's political arm, who will not call the terrorists who killed his fellow police officers a terror group (<a href=\"https://x.com/HaimOmri/status/2120614546239091157\">Omri Haim</a>). Moran Tal also posted video of Mansour Abbas in Tiberias, with Yousef Jabareen beside him, warning that if Israel turns an abandoned mosque into a museum the conflict could reach \"Jewish places of worship around the world\"; the date of that event was not given (<a href=\"https://x.com/MoranT555/status/2120488488919249240\">Moran Tal</a>). The claims and readings here are those of the people quoted.",
+      "source": "Ayelet Lash / Moran Tal / Olam Katan / Omri Haim (Channel 14)",
+      "date": "2026-11-11",
+      "url": "https://x.com/MoranT555/status/2120500028691063212",
+      "places": [
+        {
+          "name": "Umm al-Fahm",
+          "lat": 32.5158385,
+          "lon": 35.152491,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-negev-ziadna-homes",
+      "section": "negev",
+      "headline": "Negev: Times of Israel reports the state demolished the family homes of Youssef Ziadna, the Bedouin driver who rescued about 30 people on 7 Oct",
+      "summary": "The Times of Israel reported that Israel demolished the homes of the family of Youssef Ziadna, the Bedouin minibus driver credited with saving about 30 people on 7 Oct and whose cousins were kidnapped. It quotes him saying he had hoped his community's efforts would change its status, but \"in the end, you're still an Arab\" (<a href=\"https://www.timesofisrael.com/feed/\">Times of Israel, headline and summary from its feed</a>). The article itself was blocked to automated readers, so the location, the legal status of the homes and the authorities' response could not be checked; the Khamaisi Plan backgrounder covers the Negev planning dispute (<a href=\"https://tomgassistant-png.github.io/desk/khamaisi/\">Desk backgrounder</a>).",
+      "source": "Times of Israel (feed summary)",
+      "date": "2026-11-11",
+      "url": "https://www.timesofisrael.com/feed/",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
+    {
+      "id": "2026-11-12-idf-southern-syria-quneitra",
+      "section": "idf",
+      "headline": "Southern Syria: Syrian media report an Israeli incursion into Samdaniya al-Sharqiya, a man detained at Mazraat al-Fityan and shelling in Quneitra's countryside",
+      "summary": "Syrian state TV Al-Ikhbariya reported on Wednesday evening, 11 Nov, that Israeli forces entered the village of Samdaniya al-Sharqiya in central Quneitra countryside with military vehicles (<a href=\"https://x.com/AlekhbariahSY/status/2120608713257984389\">Al-Ikhbariya</a>), and Syrian outlets reported that Israeli troops detained a man from Mazraat al-Fityan in southern Quneitra (<a href=\"https://x.com/AJSyriaNowN/status/2120638180781388239\">Syrian news account</a>). The Syrian Observatory for Human Rights reported Israeli artillery fire on central Quneitra countryside and a shepherd held on a farm in the south (<a href=\"https://x.com/syriahr/status/2120598840176980262\">SOHR</a>), and another outlet reported an incursion at Sariyat Jamla in the Yarmouk basin of western Daraa (<a href=\"https://x.com/Alkhbaralalma/status/2120635382744461610\">local report</a>). These are Syrian-side reports; no IDF statement was found. Haaretz reported that, according to the Syrian government and the UN, Israel has detained 49 Syrian civilians since taking over the buffer zone at the end of 2024, most still held, with released detainees alleging abuse (Haaretz headline and summary from its feed; the article is behind a paywall). Halutzei HaBashan posted nothing new on X or Telegram since the last run.",
+      "source": "Al-Ikhbariya / Syrian outlets / SOHR / Haaretz",
+      "date": "2026-11-11",
+      "url": "https://x.com/AlekhbariahSY/status/2120608713257984389",
+      "edition": "2026-11-12",
+      "published": "2026-11-12T05:00:00+02:00",
+      "letter": "PA security: 12 Nov 2026"
+    },
     {
       "id": "2026-11-11-land-eastern-border-plan-40-points",
       "section": "land",

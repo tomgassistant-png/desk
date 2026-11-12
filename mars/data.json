@@ -1,42 +1,93 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-11-11 04:30",
- "checked": "11 Nov 2026",
+ "updated": "2026-11-12 04:25",
+ "checked": "12 Nov 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 11 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which NASA's team blog (posted 9 November) says may be among the oldest rocks in the rover's collection. Curiosity drilled a new hole at a block called \"Nazca\" on 20 October, its 49th by the team blog's count (NASA blog, posted 9 November; NASA's mission page still shows 42 holes). Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy, and on 10 November Japan's public broadcaster NHK reported that JAXA's MMX development lead told a Japanese space conference the probe is about 6 million km from Earth and flying smoothly; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters are now on their way to Mars: each flew close past Earth and fired its engine for about 9 minutes, the first on 7 November and the second on 9 November, and NASA says both maneuvers went flawlessly (NASA, 9 November; UC Berkeley, which runs the mission, agrees). They reach Mars on 7 and 9 September 2027. On 9 November a space reporter, Irene Klotz of Aviation Week, reported from a meeting of Mars scientists that NASA will start a one-year study in January 2027 of how to bring Perseverance's samples to Earth; on 10 November a second space reporter, Leonard David, gave the study's name, Perseverance Sample Retrieval Architecture (PSRA), and said its final report is due in winter 2027-2028 [both from NASA's 9 November talk; no NASA page yet, so unconfirmed]. SpaceX itself now says Starship Flight 15, an Earth-orbit test that would try to catch both the booster and the ship, could launch as early as 13 November, pending regulatory approval (SpaceX mission page, 7 November); no FAA license is shown yet [aspirational until flown]. On 7 November NASA said JPL will build a nuclear-powered Moon rover, PROMISE, from spare parts and test models of the Curiosity and Perseverance Mars rovers, for launch in late 2028 [aspirational]. ESA marked ten years of its Trace Gas Orbiter (TGO) at Mars on 19 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known. New on 4 November: ESA's Trace Gas Orbiter has found hydrogen chloride gas coming from fresh cracks on the Alba Mons volcano, a possible sign that Mars still has warm magma underground (not proof of eruptions). NASA's review board report on the lost MAVEN orbiter blames a computer reboot followed by a faulty gyroscope.",
+  "Where things stand on 12 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which NASA's team blog (posted 9 November) says may be among the oldest rocks in the rover's collection. Curiosity drilled a new hole at a block called \"Nazca\" on 20 October, its 49th by the team blog's count (NASA blog, posted 9 November; NASA's mission page still shows 42 holes); a newer blog (posted 11 November) says the team finished its work at Nazca and planned, on 6 November, to drive away and rejoin its route south. Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy, and on 10 November Japan's public broadcaster NHK reported that JAXA's MMX development lead told a Japanese space conference the probe is about 6 million km from Earth and flying smoothly; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters are now on their way to Mars: each flew close past Earth and fired its engine for about 9 minutes, the first on 7 November and the second on 9 November, and NASA says both maneuvers went flawlessly (NASA, 9 November; UC Berkeley, which runs the mission, agrees). They reach Mars on 7 and 9 September 2027. On 9 November a space reporter, Irene Klotz of Aviation Week, reported from a meeting of Mars scientists that NASA will start a one-year study in January 2027 of how to bring Perseverance's samples to Earth; on 10 November a second space reporter, Leonard David, gave the study's name, Perseverance Sample Retrieval Architecture (PSRA), and said its final report is due in winter 2027-2028; he repeated this on Space.com on 11 November [all from NASA's 9 November talk; no NASA page yet, so unconfirmed]. SpaceX itself now says Starship Flight 15, an Earth-orbit test that would try to catch both the booster and the ship, could launch as early as 13 November, pending regulatory approval (SpaceX mission page, 7 November); no FAA license is shown yet [aspirational until flown]. On 7 November NASA said JPL will build a nuclear-powered Moon rover, PROMISE, from spare parts and test models of the Curiosity and Perseverance Mars rovers, for launch in late 2028 [aspirational]. ESA marked ten years of its Trace Gas Orbiter (TGO) at Mars on 19 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known. New on 4 November: ESA's Trace Gas Orbiter has found hydrogen chloride gas coming from fresh cracks on the Alba Mons volcano, a possible sign that Mars still has warm magma underground (not proof of eruptions). NASA's review board report on the lost MAVEN orbiter blames a computer reboot followed by a faulty gyroscope.",
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan; on 9 November Aviation Week's Irene Klotz reported that NASA will begin a one-year study of new ways to return the samples in January 2027, and on 10 November Leonard David reported the same plan, with a final report due in winter 2027-2028 (a study, not a funded mission) [unconfirmed; no NASA page yet]. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October. Democrats won both the House and the Senate in the 3 November elections and take over on 3 January 2027; the current Republican-led Congress, back at work on 9 November, still has to pass the 2027 spending bills or extend the stopgap past 11 December; the House plans to stop for the year on 17 December and the Senate on 18 December, dates that could change (SpacePolicyOnline, 8 November). A White House proclamation on 3 November speaks of Americans on Mars but sets no date or money.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "whats_new": [
   {
-   "edition": "2026-11-11",
-   "text": "A second space reporter, Leonard David, confirms that NASA is starting a new look at bringing Perseverance's rock samples to Earth: a team called Perseverance Sample Retrieval Architecture (PSRA) starts in January 2027 and is due to report in winter 2027-2028. It is a study, not a funded mission, and NASA has posted nothing on it yet [unconfirmed].",
+   "edition": "2026-11-12",
+   "text": "Curiosity has wrapped up its drilling work at \"Nazca\", a rock block with chip-shaped crystal forms: samples went to its SAM chemistry lab, and the 6 November plan sent the rover driving away to rejoin its route south (NASA team blog, posted 11 November).",
    "links": [
     [
-     "Leonard David, 10 Nov",
-     "https://www.leonarddavid.com/nasas-new-mars-sample-return-effort-detailed/"
-    ],
-    [
-     "Irene Klotz on X, 9 Nov",
-     "https://x.com/Free_Space/status/2119840243641975006"
+     "NASA blog, sols 5063-5069",
+     "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
     ]
    ],
-   "detail_url": "https://www.leonarddavid.com/nasas-new-mars-sample-return-effort-detailed/"
-  },
-  {
-   "edition": "2026-11-11",
-   "text": "Japan's MMX probe, on its way to Mars's moons, is about 6 million km from Earth and flying smoothly, JAXA's development lead told a Japanese space conference on 10 November, according to the public broadcaster NHK. It is the first word on the cruise since JAXA's 21 October release.",
-   "links": [
-    [
-     "NHK, 10 Nov (Japanese)",
-     "https://news.web.nhk/newsweb/na/nd-20261110de73663"
-    ]
-   ],
-   "detail_url": "https://news.web.nhk/newsweb/na/nd-20261110de73663"
+   "detail_url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
   }
  ],
  "feed": [
+  {
+   "when": "2026-11-12 04:25",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JPL, JAXA (English and Japanese), ESA, CNSA (Chinese site), UAE, ISRO, SpaceX, Blue Origin, UC Berkeley, GAO, FAA, SpacePolicyOnline, Planetary Society, SpaceNews, Space.com, AMSAT-DL, Estévez, plus X",
+   "text": "Nothing new today on these, so only their checked dates change: NASA's news list and Mars pages (the only new Mars item is the Curiosity blog in the next item; no new Perseverance blog since the two 9 November posts), JPL news (newest Mars item still 29 October), NASA's Mars Future Plan page (still last updated 23 June; no low-cost Mars mission solicitation seen [unconfirmed]), NASA's ESCAPADE blog (newest still 2 November) and Berkeley's mission-design page (unchanged), JAXA's English and Japanese 2026 press lists (newest MMX release still 21 October) and the MMX blog (newest still the 11 November post), CNSA's Chinese-language news list (newest still the 9 November item; no Mars item), ESA's top-news feed (no new Mars story; the 5 November Alba Mons release was re-dated again to 10 November) and ESA's Mars blog (newest still 4 November), ISRO's home page (no Mars item), Blue Origin's news page (one new post, 10 November, on New Glenn ground tests; nothing on Mars), the two GAO protest dockets (both still open; decisions due 21 December 2026 and 1 February 2027), SpaceX's Starship Flight 15 page (still as soon as 13 November, pending regulatory approval) and the FAA's Starship page (still last updated 10 November, no Flight 15 license shown), SpacePolicyOnline (newest still the 10 November Moon Base story), the Planetary Society (advocacy group; no new Mars article), AMSAT-DL and Daniel Estévez's blog (amateur tracker; newest still 26 October). Small items: JAXA's MMX team account on X (11 November, 10:00 Israel time) says more than 120 people came to the MMX session at the Japanese space conference, where project manager Kawakatsu gave the latest status; it repeats no distance figure, so NHK's 6 million km stays NHK's [unconfirmed]. Leonard David wrote up NASA's PSRA sample-return study again, on Space.com (11 November), adding that the scientist Bruce Jakosky told MEPAG (NASA's Mars science forum) samples should come back before astronauts go, to check for dust and soil chemicals that could harm crews; no new NASA fact. SpaceNews (Jeff Foust, 12 November) reports the Senate Commerce Committee hearing of 10 November on NASA's chief financial officer and inspector general nominees, with few questions; nothing on Mars. Elon Musk on X (11 November, 21:05 Israel time) wrote, in a reply, that SpaceX is \"aiming for 1TW/year from Earth, rising to over 1PW/year from the Moon\" (TW is a terawatt and PW a petawatt, a thousand times more; the post does not say of what, or when) [aspirational]. X: no Mars posts since the last run from NASA Mars, JPL, ESA, ISRO, SpaceX, Blue Origin, @ISAS_JAXA or Andrew Jones (@AJ_FI); the UAE Space Agency posted only about the Arab Satellite 813 Earth-observation satellite. Counters: Curiosity raw images now go to sol 5071 (11 November), whose Navcam frames carry another new drive number; Perseverance raw images still end at sol 2031 and the traverse file at sol 2022, so its distance is unchanged.",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://www.gao.gov/docket/b-424825.1",
+   "link_text": "open GAO docket B-424825.1",
+   "other": "",
+   "links": [
+    [
+     "GAO docket B-424825.2",
+     "https://www.gao.gov/docket/b-424825.2"
+    ],
+    [
+     "JAXA MMX team on X, 11 Nov (Japanese)",
+     "https://x.com/mmx_jaxa_jp/status/2120426309008736329"
+    ],
+    [
+     "Space.com, Leonard David, 11 Nov",
+     "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home"
+    ],
+    [
+     "SpaceNews, Jeff Foust, 12 Nov",
+     "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
+    ],
+    [
+     "Elon Musk on X, 11 Nov",
+     "https://x.com/elonmusk/status/2120593710107029687"
+    ],
+    [
+     "SpaceX: Starship Flight 15",
+     "https://www.spacex.com/launches/starship-flight-15"
+    ],
+    [
+     "FAA: Starship page",
+     "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-12 02:41",
+   "who": "NASA, Curiosity team blog: \"Sols 5063-5069: Rocks and Chips\" (William Farrand, senior research scientist, Space Science Institute)",
+   "kind": "primary source (mission team blog)",
+   "where": "science.nasa.gov (posted 7:41 PM U.S. Eastern on 11 November, 02:41 Israel time on 12 November; written for the plans of the week ending Friday 6 November)",
+   "text": "Curiosity finished its drilling campaign at \"Nazca\", a rock block full of disc- or chip-shaped crystal forms that the team wants to understand. Drill powder went to SAM (Sample Analysis at Mars, the rover's chemistry lab). While SAM worked, the rover zapped crystal forms called \"Ahi Veremos\" and \"Colca\" and a target called \"Bermejo\" with ChemCam's laser (it vaporizes a speck of rock to read its chemistry), added to a Mastcam picture mosaic of the site, took long-distance close-ups of rocks below the \"Cordillera\" and \"Mishe Mokwa\" ridges, and watched for dust devils. The three-sol plan of Friday 6 November (a sol is one Martian day, about 24 hours 39 minutes) added a MAHLI (hand-lens camera) mosaic of the side of the Nazca block, night pictures of the crystal forms under MAHLI's white and ultraviolet lights, pictures of Phobos passing in front of the Sun, and a drive away from the drill site, back toward the rover's route south. The blog's picture is a MAHLI close-up of the chip-shaped crystals taken on sol 5067 (7 November).",
+   "evidence": "NASA team blog. It gives no distance for the drive. NASA's raw-image file names carry new drive numbers on sols 5069, 5070 and 5071 (9 to 11 November), which fits a drive [our own reading of the file names, unconfirmed]. The blog does not give a drill-hole count; the 49 versus 42 disagreement between NASA's pages (item of 9 November) is still open.",
+   "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
+   "link_text": "open the blog",
+   "other": "",
+   "links": [
+    [
+     "earlier blog, sols 5056-5062",
+     "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/"
+    ],
+    [
+     "raw image, sol 5071 (Navcam)",
+     "https://mars.nasa.gov/msl/multimedia/raw-images/NRB_847663986EDR_S1252274NCAM00594M_"
+    ],
+    [
+     "Curiosity mission page",
+     "https://science.nasa.gov/mission/msl-curiosity/"
+    ]
+   ]
+  },
   {
    "when": "2026-11-11 04:30",
    "who": "Grok Bot daily check (our own check)",
@@ -1597,9 +1648,13 @@
    [
     {
      "m": "Curiosity (NASA)",
-     "s": "Working. Drilled \"Nazca\", a block with possible crystal shapes, on sol 5050 (20 Oct); the team blog calls it the 49th drill hole, while NASA's mission page still shows 42 [the two NASA counts disagree; unconfirmed]. Powder went to the CheMin and SAM labs; the rover then rested to recharge (NASA blogs, posted 9 Nov). Before that it finished drilling at Basque Lakes. Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed now shows pictures through sol 5069 (9 Nov) and sol 5070 (10 Nov), with Navcam frames carrying new drive numbers on both sols, a hint that it is moving [our own reading]. On 7 Nov NASA said spare parts and test models from Curiosity and Perseverance will be used to build PROMISE, a Moon rover.",
-     "d": "11 Nov 2026 (raw images to sol 5070; blogs posted 9 Nov)",
+     "s": "Working. Drilled \"Nazca\", a block with possible crystal shapes, on sol 5050 (20 Oct); the team blog calls it the 49th drill hole, while NASA's mission page still shows 42 [the two NASA counts disagree; unconfirmed]. Powder went to the CheMin and SAM labs; the rover then rested to recharge (NASA blogs, posted 9 Nov). The drilling campaign is now done: more powder went to SAM, and the 6 Nov plan drove the rover away from Nazca toward its route south (NASA blog, posted 11 Nov). Before that it finished drilling at Basque Lakes. Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed now shows pictures through sol 5071 (11 Nov), with Navcam frames carrying new drive numbers on sols 5069 to 5071, a hint that it is moving [our own reading]. On 7 Nov NASA said spare parts and test models from Curiosity and Perseverance will be used to build PROMISE, a Moon rover.",
+     "d": "12 Nov 2026 (raw images to sol 5071; newest blog posted 11 Nov)",
      "links": [
+      [
+       "blog, sols 5063-5069",
+       "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+      ],
       [
        "blog: Nazca, 49th hole",
        "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/"
@@ -1621,7 +1676,7 @@
     {
      "m": "Perseverance (NASA)",
      "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct); NASA's traverse file shows 45.25 km by sol 2022 (28 Oct). Exploring Lac de Charmes, outside Jezero's western rim, near the Idubi outcrop. Drilled a new sample, \"Singita\", on sol 2018 (24 Oct), its first in more than a year, about 3.1 cm into a gabbro that may be among its oldest rocks; now confirmed by NASA's team blog (posted 9 Nov), first reported by the Planetary Society. 66 abrasions so far; SuperCam finds tiny corundum (ruby-mineral) grains, likely from impact heating. NASA counted 29 rock and regolith samples before that, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
-     "d": "11 Nov 2026 (NASA blogs posted 9 Nov; raw images still to sol 2031; traverse file sol 2022)",
+     "d": "12 Nov 2026 (NASA blogs posted 9 Nov; raw images still to sol 2031; traverse file sol 2022)",
      "links": [
       [
        "NASA blog: Newest Sample, Oldest Rock?",
@@ -1768,7 +1823,7 @@
     {
      "m": "Tianwen-1 orbiter (China, CNSA)",
      "s": "Operating. CNSA said in April 2026 it had kept surveying Mars (reported via Xinhua on marsprogress.com). Amateur tracker Daniel Estévez saw a radio gap in Dec 2025, the signal return, and a safe-mode event on 2 Aug 2026 [amateur sourced; China has said little].",
-     "d": "7 Aug 2026 (amateur); 6 Oct 2026 (secondary); 11 Nov 2026: CNSA's Chinese news list has no Mars item (newest items still 6 and 9 Nov satellite launches)",
+     "d": "7 Aug 2026 (amateur); 6 Oct 2026 (secondary); 12 Nov 2026: CNSA's Chinese news list has no Mars item (newest item still 9 Nov)",
      "links": [
       [
        "Estévez blog",
@@ -1791,9 +1846,13 @@
    [
     {
      "m": "MMX, Martian Moons eXploration (JAXA, Japan)",
-     "s": "Launched 20 Oct 2026 (04:41 Japan time). Healthy; first critical operations done (solar panels out, steady pointing, antenna released), JAXA 21 Oct; now checking its systems before the cruise. On 10 Nov NHK (Japan's public broadcaster) reported JAXA's development lead telling a Japanese space conference that MMX is about 6 million km from Earth and flying smoothly (no JAXA page yet). CNES woke the Idefix rover on board for a test on 30 Oct, which went well; next wake-up in a month (CNES on X). Reaches Mars: August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit says fiscal year 2027. Phobos sample: no earlier than December 2028 per NASA and NASASpaceFlight, 2030 per ESA [unconfirmed]. Leaves Mars FY2030; samples back on Earth in 2031 (JAXA press kit, NASA, ESA).",
-     "d": "11 Nov 2026: NHK report of 10 Nov; JAXA's own newest status is still 21 Oct (JAXA Japanese and English press lists, MMX blog, @ISAS_JAXA, @JAXA_jp and @mmx_jaxa_jp checked)",
+     "s": "Launched 20 Oct 2026 (04:41 Japan time). Healthy; first critical operations done (solar panels out, steady pointing, antenna released), JAXA 21 Oct; now checking its systems before the cruise. On 10 Nov NHK (Japan's public broadcaster) reported JAXA's development lead telling a Japanese space conference that MMX is about 6 million km from Earth and flying smoothly (no JAXA page yet). JAXA's MMX team account on X (11 Nov) confirms that project manager Kawakatsu gave the latest MMX status there, without repeating the distance. CNES woke the Idefix rover on board for a test on 30 Oct, which went well; next wake-up in a month (CNES on X). Reaches Mars: August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit says fiscal year 2027. Phobos sample: no earlier than December 2028 per NASA and NASASpaceFlight, 2030 per ESA [unconfirmed]. Leaves Mars FY2030; samples back on Earth in 2031 (JAXA press kit, NASA, ESA).",
+     "d": "12 Nov 2026: NHK report of 10 Nov; @mmx_jaxa_jp post of 11 Nov; JAXA's newest press release is still 21 Oct (JAXA Japanese and English press lists, MMX blog, @ISAS_JAXA and @mmx_jaxa_jp checked)",
      "links": [
+      [
+       "JAXA MMX team on X, 11 Nov (Japanese)",
+       "https://x.com/mmx_jaxa_jp/status/2120426309008736329"
+      ],
       [
        "NHK, 10 Nov (Japanese)",
        "https://news.web.nhk/newsweb/na/nd-20261110de73663"
@@ -1955,8 +2014,8 @@
   "lat": 18.4356,
   "lon": 77.2332,
   "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, in the \"South Idubi\" area near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October (NASA blog) and plans to try for two more (Planetary Society). On sol 2023 (29 October) it studied a pitted light-toned loose rock, \"Nhlanguleni\", at a spot called \"Kapama Karula\" (NASA blog, 4 November).",
-  "est_sol": "about 2036",
-  "est_note": "NASA's raw-image feed still lists sol 2031 (6 November 2026) as its newest when checked on 11 November, all SuperCam close-ups (no Mastcam-Z or Navcam landscape frame, so the on-page picture stays sol 2024); the traverse file still ends at sol 2022; 11 November is about five sols after 2031, about sol 2036 (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "est_sol": "about 2037",
+  "est_note": "NASA's raw-image feed still lists sol 2031 (6 November 2026) as its newest when checked on 12 November, all SuperCam close-ups (no Mastcam-Z or Navcam landscape frame, so the on-page picture stays sol 2024); the traverse file still ends at sol 2022; 12 November is about six sols after 2031, about sol 2037 (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "The distance comes from NASA's public traverse file (a list of the rover's stopping points), because no NASA blog gives a newer figure. That file lags and does not update every day. Its newest point is sol 2022 (28 Oct): 45,245.7 meters in total (45.25 km, 28.11 miles), after a 22-meter drive. The record figure NASA announced was 45.22 km for sol 2006 (11 Oct). If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -5521,7 +5580,16 @@
  },
  "curiosity": [
   {
-   "t": "Latest NASA blogs, both posted 9 November 2026: sols 5050 to 5055 (Susanne P. Schwenzer, The Open University, plan of 23 October) says the rover \"successfully drilled our 49th drill hole, called 'Nazca'\"; a Mastcam picture of the hole is dated sol 5050 (20 October). Powder went to the CheMin lab, and the rover also zapped dark pebbles with ChemCam's laser. Sols 5056 to 5062 (Remington Free, NASA JPL, plan of 30 October): samples dropped to SAM and CheMin, a few sols of rest to recharge, and a first test of running two power-hungry jobs at once to save energy. NASA's mission page still shows 42 drill holes, so the count is unsettled [unconfirmed].",
+   "t": "Latest NASA blog: sols 5063 to 5069, posted 11 November 2026 (U.S. time) by William Farrand (Space Science Institute), for the plans of the week ending 6 November. The drilling campaign at \"Nazca\" is done: powder went to SAM, ChemCam's laser read the chemistry of several crystal forms (\"Ahi Veremos\", \"Colca\") and a target called \"Bermejo\", and Mastcam filled out a mosaic of the site. The 6 November plan added a MAHLI mosaic of the side of the Nazca block, night pictures of the crystal forms under MAHLI's white and ultraviolet lights, pictures of Phobos passing in front of the Sun, and a drive away from Nazca back toward the rover's route south. No drive distance is given.",
+   "links": [
+    [
+     "blog, sols 5063-5069",
+     "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+    ]
+   ]
+  },
+  {
+   "t": "Earlier NASA blogs, both posted 9 November 2026: sols 5050 to 5055 (Susanne P. Schwenzer, The Open University, plan of 23 October) says the rover \"successfully drilled our 49th drill hole, called 'Nazca'\"; a Mastcam picture of the hole is dated sol 5050 (20 October). Powder went to the CheMin lab, and the rover also zapped dark pebbles with ChemCam's laser. Sols 5056 to 5062 (Remington Free, NASA JPL, plan of 30 October): samples dropped to SAM and CheMin, a few sols of rest to recharge, and a first test of running two power-hungry jobs at once to save energy. NASA's mission page still shows 42 drill holes, so the count is unsettled [unconfirmed].",
    "links": [
     [
      "blog, sols 5050-5055",
@@ -5552,15 +5620,24 @@
    ]
   },
   {
-   "t": "New on 11 November: NASA's raw-image feed now has sol 5070, taken on 10 November 2026: MAHLI close-ups, ChemCam, a front hazard camera and 19 Navcam frames, the last ones with another new drive number (1252256, up from 1252082), a hint that the rover moved again [our own reading of the file names, unconfirmed]. So 11 November is about sol 5071 (our own arithmetic). The picture above stays the sol 5062 view (this run could not add picture files); the sol 5070 Navcam view is linked.",
+   "t": "New on 12 November: NASA's raw-image feed now has sol 5071, taken on 11 November 2026: two ChemCam frames and 24 right Navcam frames, with another new drive number in their file names (1252274, up from 1252256), a hint that the rover moved again [our own reading of the file names, unconfirmed]. So 12 November is about sol 5072 (our own arithmetic). The picture above stays the sol 5062 view (this run could not add picture files); the sol 5071 Navcam view is linked.",
+   "links": [
+    [
+     "raw image, sol 5071 (Navcam)",
+     "https://mars.nasa.gov/msl/multimedia/raw-images/NRB_847663986EDR_S1252274NCAM00594M_"
+    ],
+    [
+     "NASA latest raw-image summary (sol 5071)",
+     "https://mars.nasa.gov/api/v1/raw_image_items/msl/latest/"
+    ]
+   ]
+  },
+  {
+   "t": "Earlier: NASA's raw-image feed had sol 5070, taken on 10 November 2026: MAHLI close-ups, ChemCam, a front hazard camera and 19 Navcam frames, the last ones with another new drive number (1252256, up from 1252082), a hint that the rover moved again [our own reading of the file names, unconfirmed]. So 11 November was about sol 5071 (our own arithmetic).",
    "links": [
     [
      "raw image, sol 5070 (Navcam)",
      "https://mars.nasa.gov/msl/multimedia/raw-images/NLB_847592644EDR_F1252256NCAM00385M_"
-    ],
-    [
-     "NASA latest raw-image summary (sol 5070)",
-     "https://mars.nasa.gov/api/v1/raw_image_items/msl/latest/"
     ]
    ]
   },
@@ -5586,7 +5663,7 @@
    ]
   },
   {
-   "t": "Climbing Mount Sharp, the mound in Gale crater: 1 kilometer of elevation gain reached on 26 August 2026, per NASA's mission page, which still counts 42 drill holes (checked 11 November; the 9 November blog says 49).",
+   "t": "Climbing Mount Sharp, the mound in Gale crater: 1 kilometer of elevation gain reached on 26 August 2026, per NASA's mission page, which still counts 42 drill holes (checked 12 November; the 9 November blog says 49).",
    "links": [
     [
      "mission page",
@@ -5667,9 +5744,13 @@
   },
   {
    "who": "NASA: a new look at returning Perseverance's samples",
-   "t": "Mars Sample Return was cancelled. Aviation Week's Irene Klotz reported on 9 Nov that NASA's Mars program head, Tiffany Morgan, told MEPAG (NASA's Mars science forum) that a one-year study of how to return the samples begins in January 2027 [unconfirmed; no NASA page]. A LinkedIn post by Douglas Isbell from about a month earlier describes an internal \"Perseverance Sample Retrieval Architecture\" team running through 2027. On 10 Nov the space reporter Leonard David reported the same team (PSRA), starting January 2027 with a final report due in winter 2027-2028 [unconfirmed; no NASA page]. No money or mission is approved.",
+   "t": "Mars Sample Return was cancelled. Aviation Week's Irene Klotz reported on 9 Nov that NASA's Mars program head, Tiffany Morgan, told MEPAG (NASA's Mars science forum) that a one-year study of how to return the samples begins in January 2027 [unconfirmed; no NASA page]. A LinkedIn post by Douglas Isbell from about a month earlier describes an internal \"Perseverance Sample Retrieval Architecture\" team running through 2027. On 10 Nov the space reporter Leonard David reported the same team (PSRA), starting January 2027 with a final report due in winter 2027-2028 [unconfirmed; no NASA page]. He repeated it on Space.com on 11 Nov, adding that the scientist Bruce Jakosky urged at the same meeting that samples come back before astronauts go, to check risks from dust and soil chemicals. No money or mission is approved.",
    "label": "aspirational",
    "links": [
+    [
+     "Space.com, Leonard David, 11 Nov",
+     "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home"
+    ],
     [
      "Leonard David, 10 Nov",
      "https://www.leonarddavid.com/nasas-new-mars-sample-return-effort-detailed/"
@@ -5777,8 +5858,8 @@
    ""
   ],
   [
-   "10 Nov 2026",
-   "Senate Commerce Committee hearing on nominations, 10:30 AM U.S. Eastern (5:30 PM Israel time): Joshua Shoemaker to be NASA's Chief Financial Officer and Robert Steinau to be NASA's Inspector General (SpacePolicyOnline, 8 Nov).",
+   "10 Nov 2026 (done)",
+   "Senate Commerce Committee hearing on nominations: Joshua Shoemaker to be NASA's Chief Financial Officer and Robert Steinau to be NASA's Inspector General (SpacePolicyOnline, 8 Nov). SpaceNews (Jeff Foust, 12 Nov) says the hearing was held, neither nominee got many questions, and the committee is set to advance both.",
    ""
   ],
   [
@@ -5948,6 +6029,10 @@
     [
      "Mars Exploration Program (NASA Mars)",
      "https://science.nasa.gov/mars/"
+    ],
+    [
+     "Curiosity blog, sols 5063-5069, 11 Nov",
+     "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
     ],
     [
      "Mars Future Plan",
@@ -6214,6 +6299,10 @@
    "News, advocates and amateurs (each labeled in the text)",
    [
     [
+     "Space.com, Leonard David: NASA's fresh push to bring Mars samples home, 11 Nov",
+     "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home"
+    ],
+    [
      "Leonard David: NASA's new sample return effort, 10 Nov",
      "https://www.leonarddavid.com/nasas-new-mars-sample-return-effort-detailed/"
     ],
@@ -6357,6 +6446,7 @@
   ]
  ],
  "not_read": [
+  "12 Nov: GAO's dockets refused my plain reader (403) and were read through a second reader; GAO's site search for new \"Mars Telecommunications\" protests returned nothing readable. Blue Origin's news page answered 429 (too many requests) and was read through the second reader. The UAE Space Agency site refused my plain reader (403) and the second reader returned nothing, and the Mohammed bin Rashid Space Centre news page gave 404, so the UAE was checked on X and by Arabic web search; an Al Khaleej (UAE newspaper) piece of 7 November on Hope seeing a rare aurora could not be opened (security check page), so it is not reported. SpaceX's Flight 15 page needs a full browser and was read through a web reader. Pictures were not refreshed: this run was told to write only the two data files, so the Curiosity picture stays the sol 5062 view and the Perseverance picture stays sol 2024 (nothing newer with a landscape frame).",
   "11 Nov: NHK's MMX story could be read only up to its first paragraph; the rest sits behind NHK's sign-in and consent screen (tried a plain reader and a second reader; a Japanese web search found no other full report), so the speaker's name comes from the conference program, not NHK. The sample-return study still has no NASA source: MEPAG's website did not answer at all this time, and no MEPAG meeting page was found on the Lunar and Planetary Institute site; two reporters (Klotz, David) now describe the same NASA talk. GAO's dockets refused my plain reader (403) and were read through a second reader (both still open). Blue Origin's news page answered 429 (too many requests); its X account was checked instead (no posts since the last run). SpaceX's Flight 15 page needs a full browser and was read through a second reader. SpacePolicyOnline showed a \"one moment, please\" screen to the plain reader and was read through a second reader. Rocket Lab's 10 November X post came back cut off after \"fired their main engine for 9.5\", so its burn length is not used here. Pictures were not refreshed: this run was told to write only make_data.py and data.json, so the Curiosity picture stays sol 5062 (sol 5070 Navcam linked instead) and Perseverance still has nothing newer than sol 2031 SuperCam close-ups. The x-api-mcp-guide skill could not be loaded (no Skill tool in this run); X was read with the documented search tools.",
   "10 Nov: the ESCAPADE result is now official (NASA and UC Berkeley, 9 Nov). The Mars Sample Return study rests on one reporter's X post: MEPAG's website refused my reader (403), no MEPAG meeting page turned up on the Lunar and Planetary Institute site, and Aviation Week's own story was not found. NASA's two Curiosity counts disagree (blog: 49th hole; mission page: 42 holes). Pictures were not refreshed: this run was told to write only make_data.py and data.json, so no image files could be added, even though Curiosity now has a sol 5069 Navcam view (linked in the Curiosity section); Perseverance still has nothing newer than sol 2031 SuperCam close-ups. The new ESCAPADE item has no picture for the same reason, and NASA's new ESCAPADE images are credited to Advanced Space and UC Berkeley rather than NASA. GAO's dockets refused my plain reader and were read through a second reader. Blue Origin's news page answered 429 (too many requests); its X account was read instead (no posts since the last run). SpaceX's page needs a full browser and was read through a second reader. SpaceNews's feed carried only sponsored items. The Planetary Society's article list needs a browser; no new Mars article was found through search. The combined X search across all agency accounts returned nothing, so each account was read one by one. Douglas Isbell's role is not stated on the LinkedIn page, so none is given here.",
   "9 Nov: no official word yet on the 7 November ESCAPADE burn: NASA's ESCAPADE blog and news list, NASA Solar System, Rocket Lab and Advanced Space on X, and Berkeley's mission-design page were checked; only Starlust reports success [unconfirmed]. Pictures were not refreshed: this run was told to write only make_data.py and data.json, and there was nothing to refresh with anyway (Perseverance raw feed still ends at sol 2031, SuperCam only; Curiosity sol 5068 is ChemCam only), so the pictures stay sol 2024 and sol 5062. The UAE Space Agency site returned 403 and the Mohammed bin Rashid Space Centre home page 404; UAE accounts on X were checked instead (no posts since the last check). Blue Origin's news page answered 429; its X account was read instead. Xinhua English opened but showed no Mars headline; Xinhua's Chinese search page refused the reader (405), so Chinese news was checked through CNSA's Chinese site and a Chinese-language web search. ESA's top-news feed returned 500 and the old Space Science section URL 404; ESA's Mars Express and ExoMars pages and the Mars blog were read instead. Space.com's Mars section URL returned 404 (no new Mars story found by web search). The X search tool rate-limited the first calls (429) and worked a minute later. The x-api-mcp-guide skill could not be loaded (no Skill tool in this run).",
