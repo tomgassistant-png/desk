@@ -4,14 +4,14 @@
    "date": "2026-11-12",
    "read_at": "2026-11-12T04:18:00+02:00 to 04:45 Israel time",
    "intro": "Nvidia’s board weighing the future of chief executive Jensen Huang leads the NYT and the BBC this morning. The Washington Post leads with the Democratic Senate win in Mississippi, and readers in the US are also clicking on Pete Hegseth being scolded at the Tomb of the Unknown Soldier.",
-   "cover": "Nvidia leads the morning: the New York Times and both BBC homepages open with its board weighing the future of chief executive Jensen Huang, after reports of an affair with an alleged Chinese spy and a relationship with an executive who reports to him. The Washington Post leads with Democrat Scott Colom’s Senate win in Mississippi, which also tops the Guardian’s most-viewed list, while Pete Hegseth being scolded at the Tomb of the Unknown Soldier is No. 1 on the Post’s most-read list. The Guardian’s UK edition still leads with the David Walliams fallout, and the Times of Israel’s newest item is Hezbollah’s leader on the elections. Away from the news, Pochettino is set to take over Manchester United, Dua Lipa will headline Coachella, and Israeli outlets review the new season of “HaTabach.”",
+   "cover": "Nvidia leads the morning: the New York Times and both BBC homepages open with its board weighing the future of chief executive Jensen Huang, after reports of an affair with an alleged Chinese spy and a relationship with an executive who reports to him. A live page on a deadly Brooklyn building collapse sits at the top of the NYT homepage and is No. 1 on its trending list. The Washington Post leads with Democrat Scott Colom’s Senate win in Mississippi, which also tops the Guardian’s most-viewed list, while Pete Hegseth being scolded at the Tomb of the Unknown Soldier is No. 1 on the Post’s most-read list. The Guardian’s UK edition still leads with the David Walliams fallout, and the Times of Israel’s newest item is Hezbollah’s leader on the elections. Away from the news, Pochettino is set to take over Manchester United, Dua Lipa will headline Coachella, and Israeli outlets review the new season of “HaTabach.”",
    "leading": [
     {
      "headline": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
      "outlet": "The New York Times",
      "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
      "text": "Nvidia’s board is meeting about its chief executive after reports of his affair with a woman US intelligence calls a Chinese spy and of a relationship with an executive who reports to him; the NYT says the stock fell more than 8 percent after hours.",
-     "ranks": "Leads: NYT, BBC (UK and international), Guardian (international), Sky News. Most read No. 1: NYT. On the front: WaPo, The Times (X).",
+     "ranks": "Leads: NYT, BBC (UK and international), Guardian (international), Sky News. Largest story on the NYT homepage; NYT trending No. 3. On the front: WaPo, The Times (X).",
      "also": [
       {
        "outlet": "BBC",
@@ -32,7 +32,7 @@
      "outlet": "The Washington Post",
      "url": "https://www.washingtonpost.com/politics/2026/11/11/democrat-scott-colom-wins-mississippi-senate-race/",
      "text": "Colom beat Republican Cindy Hyde-Smith by a very thin margin, with the race called eight days after election day; the Post says he will be the state’s first Black senator since the end of Reconstruction.",
-     "ranks": "Leads: WaPo. Top 5: BBC (international), Guardian (international), NYT. Most read: Guardian No. 1 and No. 3, WaPo No. 2. Also on Sky News.",
+     "ranks": "Leads: WaPo. Top 5: BBC (international), Guardian (international), NYT (live banner at the very top). Most read: Guardian No. 1 and No. 3, WaPo No. 2, NYT trending No. 2. Also on Sky News.",
      "also": [
       {
        "outlet": "The Guardian",
@@ -49,11 +49,19 @@
      ]
     },
     {
+     "headline": "At least two dead in Brooklyn building collapse",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/live/2026/11/11/nyregion/building-collapse-nyc-brooklyn",
+     "text": "A building collapsed in Brooklyn, New York; the Times’ live page reports at least two people dead.",
+     "ranks": "Live banner at the top of the NYT homepage; NYT trending No. 1. Not checked at the other outlets.",
+     "also": []
+    },
+    {
      "headline": "Hegseth and his entourage scolded by military sentinel at Tomb of the Unknowns",
      "outlet": "The Washington Post",
      "url": "https://www.washingtonpost.com/national-security/2026/11/11/hegseth-scolded-by-sentinel-tomb-unknown-soldier/",
      "text": "A guard at Arlington National Cemetery told the defense secretary, his wife and aides to keep silent and show respect after they were seen laughing and talking on Veterans Day; separately, the NYT says 11 Democrats missed the vote that shelved his impeachment and now face criticism.",
-     "ranks": "Top 3: WaPo. Most read: WaPo No. 1, NYT trending No. 4 (No. 5 for the missed vote), Guardian No. 4. Also: BBC top-stories video, The Times (X).",
+     "ranks": "Top 3: WaPo. Most read: WaPo No. 1, NYT trending No. 4 (No. 6 for the missed vote), Guardian No. 4. Also: BBC top-stories video, The Times (X).",
      "also": [
       {
        "outlet": "The New York Times",
@@ -148,24 +156,24 @@
      "list": "nytimes.com/trending",
      "items": [
       {
+       "headline": "Live Updates: At Least 2 Dead in Brooklyn Building Collapse",
+       "url": "https://www.nytimes.com/live/2026/11/11/nyregion/building-collapse-nyc-brooklyn"
+      },
+      {
+       "headline": "Midterm Election Live Updates: Streets Erupt in Celebration After Colom’s Historic Win in Mississippi",
+       "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms"
+      },
+      {
        "headline": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
        "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
-      },
-      {
-       "headline": "Kenyan Domestic Worker Sentenced to 100 Lashes in Saudi Arabia",
-       "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html"
-      },
-      {
-       "headline": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
-       "url": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html"
       },
       {
        "headline": "Soldier Shouts at Hegseth’s Group to Show ‘Respect’ at Tomb of the Unknowns",
        "url": "https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-solider-shout.html"
       },
       {
-       "headline": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
-       "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html"
+       "headline": "Judge Richard A. Posner Has Died. His Influence in Law Was Beyond Compare.",
+       "url": "https://www.nytimes.com/2026/11/11/us/richard-posner-dead.html"
       }
      ]
     },
@@ -248,14 +256,18 @@
     {
      "name": "The New York Times",
      "home": "https://www.nytimes.com/",
-     "para": "The Times gives its top three slots to Nvidia and Jensen Huang, then the Mississippi Senate result. Order read from the homepage RSS feed (close to, but not exactly, the homepage).",
+     "para": "Read in the signed-in browser. Two live pages sit in the banner at the very top, the midterm elections and a Brooklyn building collapse; the largest story below them is Nvidia’s board weighing Jensen Huang’s future, with three Nvidia pieces, then Scott Colom’s Mississippi Senate win.",
      "items": [
       {
-       "headline": "Nvidia’s Board Is Meeting to Discuss Jensen Huang’s Future",
+       "headline": "Live: Brooklyn Building Collapse",
+       "url": "https://www.nytimes.com/live/2026/11/11/nyregion/building-collapse-nyc-brooklyn"
+      },
+      {
+       "headline": "Nvidia’s Board Is Weighing Jensen Huang’s Future",
        "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html"
       },
       {
-       "headline": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+       "headline": "Huang Is Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
        "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
       },
       {
@@ -263,12 +275,8 @@
        "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html"
       },
       {
-       "headline": "Scott Colom Will Be Mississippi’s Third Black Senator. Who Were the First Two?",
-       "url": "https://www.nytimes.com/2026/11/11/us/elections/scott-colom-mississippi-black-senators.html"
-      },
-      {
-       "headline": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
-       "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html"
+       "headline": "Live: Democrat Wins Mississippi Senate Seat in Major Upset",
+       "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms"
       }
      ]
     },
@@ -607,7 +615,7 @@
      "tried": "None found in the pages read."
     }
    ],
-   "method": "Read 04:18–04:45 Israel time with curl. NYT from the homepage RSS feed (not the exact homepage) and nytimes.com/trending; WaPo homepage and Most Read box through the r.jina.ai reader (one successful read at about 04:20; later reader calls were refused); BBC UK and international homepages and Most read; Guardian UK and international fronts and the most-viewed feed; The Times from its X account, as its homepage was blocked; Times of Israel from RSS; ynet, ynet entertainment, Haaretz Galeria, Israel Hayom culture and Mako from their pages; sections from RSS feeds and BBC Sport, Guardian Sport and The Athletic."
+   "method": "Read 04:18–04:45 Israel time with curl. NYT homepage order and nytimes.com/trending read at about 5:40 AM Israel time in the browser signed in to the user’s subscription (the 4:18 read had used the homepage RSS feed); WaPo homepage and Most Read box through the r.jina.ai reader (one successful read at about 04:20; later reader calls were refused); BBC UK and international homepages and Most read; Guardian UK and international fronts and the most-viewed feed; The Times from its X account, as its homepage was blocked; Times of Israel from RSS; ynet, ynet entertainment, Haaretz Galeria, Israel Hayom culture and Mako from their pages; sections from RSS feeds and BBC Sport, Guardian Sport and The Athletic."
   },
   {
    "date": "2026-11-11",
