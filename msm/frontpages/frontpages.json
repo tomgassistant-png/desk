@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-13T04:24:26+02:00",
- "credit": "Front pages via Freedom Forum (frontpages.freedomforum.org)",
+ "updated": "2026-11-13T07:44:29+02:00",
+ "credit": "Front pages via Freedom Forum (frontpages.freedomforum.org) and Paperboy (thepaperboy.com)",
  "papers": [
   {
    "key": "nyt",
    "name": "The New York Times",
    "site": "https://www.nytimes.com/",
-   "edition": "2026-11-12",
+   "edition": "2026-11-13",
    "source": "Freedom Forum",
-   "source_url": "https://cdn.freedomforum.org/dfp/pdf12/NY_NYT.pdf",
-   "last_modified": "Thu, 12 Nov 2026 05:06:09 GMT",
-   "fetched": "2026-11-12T08:38:02+02:00",
+   "source_url": "https://cdn.freedomforum.org/dfp/pdf13/NY_NYT.pdf",
+   "last_modified": "Fri, 13 Nov 2026 05:06:07 GMT",
+   "fetched": "2026-11-13T07:44:11+02:00",
    "file": "frontpages/nyt.jpg",
    "thumb": "frontpages/nyt-thumb.jpg"
   },
@@ -27,28 +27,28 @@
    "thumb": "frontpages/wsj-thumb.jpg"
   },
   {
-   "key": "yedioth",
-   "name": "Yedioth Ahronoth (Hebrew)",
-   "site": "https://www.ynet.co.il/",
+   "key": "guardian",
+   "name": "The Guardian",
+   "site": "https://www.theguardian.com/",
    "edition": "2026-11-13",
-   "source": "Freedom Forum",
-   "source_url": "https://cdn.freedomforum.org/dfp/pdf13/ISR_YA.pdf",
-   "last_modified": "Fri, 13 Nov 2026 00:06:05 GMT",
-   "fetched": "2026-11-13T04:14:13+02:00",
-   "file": "frontpages/yedioth.jpg",
-   "thumb": "frontpages/yedioth-thumb.jpg"
+   "source": "Paperboy",
+   "source_url": "https://cdn.thepaperboy.com/frontpages/uk/20261113/the_guardian_lg.jpg",
+   "last_modified": "Fri, 13 Nov 2026 05:00:03 GMT",
+   "fetched": "2026-11-13T07:44:12+02:00",
+   "file": "frontpages/guardian.jpg",
+   "thumb": "frontpages/guardian-thumb.jpg"
   },
   {
-   "key": "haaretz",
-   "name": "Haaretz (Hebrew)",
-   "site": "https://www.haaretz.co.il/",
+   "key": "ft",
+   "name": "Financial Times",
+   "site": "https://www.ft.com/",
    "edition": "2026-11-13",
-   "source": "Freedom Forum",
-   "source_url": "https://cdn.freedomforum.org/dfp/pdf13/ISR_HAHE.pdf",
-   "last_modified": "Thu, 12 Nov 2026 23:36:06 GMT",
-   "fetched": "2026-11-13T04:14:14+02:00",
-   "file": "frontpages/haaretz.jpg",
-   "thumb": "frontpages/haaretz-thumb.jpg"
+   "source": "Paperboy",
+   "source_url": "https://cdn.thepaperboy.com/frontpages/uk/20261113/financial_times_lg.jpg",
+   "last_modified": "Fri, 13 Nov 2026 05:00:03 GMT",
+   "fetched": "2026-11-13T07:44:12+02:00",
+   "file": "frontpages/ft.jpg",
+   "thumb": "frontpages/ft-thumb.jpg"
   }
  ]
 }

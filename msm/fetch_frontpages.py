@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Download today's print front pages for the MSM page into msm/frontpages/ and write msm/frontpages/frontpages.json.
-Sources: Freedom Forum's daily front pages (cdn.freedomforum.org PDF per day-of-month; frontpages.freedomforum.org cloud copy for WSJ).
+Sources: Freedom Forum (cdn.freedomforum.org PDF per day-of-month for the NYT; CloudFront copy for the WSJ) and Paperboy (cdn.thepaperboy.com dated JPEGs for the Guardian and the Financial Times).
 Never fails the build: on any error it keeps the images already on disk (the page then labels them with their older date). Always exits 0."""
 import os, sys, io, json, subprocess, tempfile, urllib.request
 from datetime import datetime, date, timedelta, timezone
@@ -15,14 +15,16 @@ D = os.path.dirname(os.path.abspath(__file__)); OUT = os.path.join(D, "frontpage
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"}
 FF = "https://cdn.freedomforum.org/dfp"
 CF = "https://d2dr22b2lm4tvw.cloudfront.net"
-# No British outlets. Washington Post and Israel Hayom are not carried by Freedom Forum; see README note in prompts/msm.md.
+PB = "https://cdn.thepaperboy.com/frontpages"
+# Freedom Forum does not carry the Guardian or the Financial Times (checked 13 Nov 2026; no UK titles in its public list).
 PAPERS = [
     dict(key="nyt", name="The New York Times", site="https://www.nytimes.com/", kind="ff", code="NY_NYT"),
     dict(key="wsj", name="The Wall Street Journal", site="https://www.wsj.com/", kind="cf", code="wsj"),
-    dict(key="yedioth", name="Yedioth Ahronoth (Hebrew)", site="https://www.ynet.co.il/", kind="ff", code="ISR_YA"),
-    dict(key="haaretz", name="Haaretz (Hebrew)", site="https://www.haaretz.co.il/", kind="ff", code="ISR_HAHE"),
+    dict(key="guardian", name="The Guardian", site="https://www.theguardian.com/", kind="pb", code="the_guardian"),
+    dict(key="ft", name="Financial Times", site="https://www.ft.com/", kind="pb", code="financial_times"),
 ]
 FULL_W, THUMB_W = 1100, 360
+CREDIT = "Front pages via Freedom Forum (frontpages.freedomforum.org) and Paperboy (thepaperboy.com)"
 
 def get(url, timeout=40):
     req = urllib.request.Request(url, headers=UA)
@@ -64,6 +66,20 @@ def try_cf(p, d):
     except Exception as ex:
         print(f"  {p['key']} {d}: {ex}"); return None
 
+def try_pb(p, d):
+    """Paperboy paths include the edition date, so a 200 response is that day's page. Prefer the large file."""
+    for suffix in (f"{p['code']}_lg.jpg", f"{p['code']}.jpg"):
+        url = f"{PB}/uk/{d.strftime('%Y%m%d')}/{suffix}"
+        try:
+            data, h = get(url)
+            return Image.open(io.BytesIO(data)), url, h.get("Last-Modified", "")
+        except Exception as ex:
+            print(f"  {p['key']} {suffix} {d}: {ex}")
+    return None
+
+FETCH = {"ff": try_ff, "cf": try_cf, "pb": try_pb}
+SOURCE = {"ff": "Freedom Forum", "cf": "Freedom Forum", "pb": "Paperboy"}
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     try: old = {x["key"]: x for x in json.load(open(META))["papers"]}
@@ -78,17 +94,17 @@ def main():
                 for off in (0, 1, 2):
                     d = today - timedelta(days=off)
                     if have and d.isoformat() <= have: break  # nothing newer to look for
-                    r = (try_ff if p["kind"] == "ff" else try_cf)(p, d)
+                    r = FETCH[p["kind"]](p, d)
                     if r:
                         img, url, lm = r; save(img, p["key"])
-                        rec.update(edition=d.isoformat(), source="Freedom Forum", source_url=url, last_modified=lm, fetched=datetime.now(TZ).isoformat(timespec="seconds"),
+                        rec.update(edition=d.isoformat(), source=SOURCE[p["kind"]], source_url=url, last_modified=lm, fetched=datetime.now(TZ).isoformat(timespec="seconds"),
                                    file=f"frontpages/{p['key']}.jpg", thumb=f"frontpages/{p['key']}-thumb.jpg")
                         print(f"{p['key']}: edition {d} OK"); got = True; break
             if not got: print(f"{p['key']}: nothing new, keeping {rec.get('edition')}")
         except Exception as ex:
             print(f"{p['key']}: error {ex}, keeping {rec.get('edition')}")
         if rec.get("file") and os.path.exists(os.path.join(OUT, p["key"] + ".jpg")): papers.append(rec)
-    json.dump(dict(updated=datetime.now(TZ).isoformat(timespec="seconds"), credit="Front pages via Freedom Forum (frontpages.freedomforum.org)", papers=papers), open(META, "w"), indent=1, ensure_ascii=False)
+    json.dump(dict(updated=datetime.now(TZ).isoformat(timespec="seconds"), credit=CREDIT, papers=papers), open(META, "w"), indent=1, ensure_ascii=False)
     print("wrote", META, [x["key"] + ":" + x.get("edition", "?") for x in papers])
 
 if __name__ == "__main__":

@@ -1,0 +1,54 @@
+{
+ "updated": "2026-11-13T04:24:26+02:00",
+ "credit": "Front pages via Freedom Forum (frontpages.freedomforum.org)",
+ "papers": [
+  {
+   "key": "nyt",
+   "name": "The New York Times",
+   "site": "https://www.nytimes.com/",
+   "edition": "2026-11-12",
+   "source": "Freedom Forum",
+   "source_url": "https://cdn.freedomforum.org/dfp/pdf12/NY_NYT.pdf",
+   "last_modified": "Thu, 12 Nov 2026 05:06:09 GMT",
+   "fetched": "2026-11-12T08:38:02+02:00",
+   "file": "frontpages/nyt.jpg",
+   "thumb": "frontpages/nyt-thumb.jpg"
+  },
+  {
+   "key": "wsj",
+   "name": "The Wall Street Journal",
+   "site": "https://www.wsj.com/",
+   "edition": "2026-11-12",
+   "source": "Freedom Forum",
+   "source_url": "https://d2dr22b2lm4tvw.cloudfront.net/wsj/2026-11-12/front-page-large.jpg",
+   "last_modified": "Thu, 12 Nov 2026 11:00:15 GMT",
+   "fetched": "2026-11-13T04:14:12+02:00",
+   "file": "frontpages/wsj.jpg",
+   "thumb": "frontpages/wsj-thumb.jpg"
+  },
+  {
+   "key": "yedioth",
+   "name": "Yedioth Ahronoth (Hebrew)",
+   "site": "https://www.ynet.co.il/",
+   "edition": "2026-11-13",
+   "source": "Freedom Forum",
+   "source_url": "https://cdn.freedomforum.org/dfp/pdf13/ISR_YA.pdf",
+   "last_modified": "Fri, 13 Nov 2026 00:06:05 GMT",
+   "fetched": "2026-11-13T04:14:13+02:00",
+   "file": "frontpages/yedioth.jpg",
+   "thumb": "frontpages/yedioth-thumb.jpg"
+  },
+  {
+   "key": "haaretz",
+   "name": "Haaretz (Hebrew)",
+   "site": "https://www.haaretz.co.il/",
+   "edition": "2026-11-13",
+   "source": "Freedom Forum",
+   "source_url": "https://cdn.freedomforum.org/dfp/pdf13/ISR_HAHE.pdf",
+   "last_modified": "Thu, 12 Nov 2026 23:36:06 GMT",
+   "fetched": "2026-11-13T04:14:14+02:00",
+   "file": "frontpages/haaretz.jpg",
+   "thumb": "frontpages/haaretz-thumb.jpg"
+  }
+ ]
+}
