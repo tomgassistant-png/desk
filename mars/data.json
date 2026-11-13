@@ -1,27 +1,93 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-11-12 04:25",
- "checked": "12 Nov 2026",
+ "updated": "2026-11-13 04:50",
+ "checked": "13 Nov 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 12 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which NASA's team blog (posted 9 November) says may be among the oldest rocks in the rover's collection. Curiosity drilled a new hole at a block called \"Nazca\" on 20 October, its 49th by the team blog's count (NASA blog, posted 9 November; NASA's mission page still shows 42 holes); a newer blog (posted 11 November) says the team finished its work at Nazca and planned, on 6 November, to drive away and rejoin its route south. Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy, and on 10 November Japan's public broadcaster NHK reported that JAXA's MMX development lead told a Japanese space conference the probe is about 6 million km from Earth and flying smoothly; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters are now on their way to Mars: each flew close past Earth and fired its engine for about 9 minutes, the first on 7 November and the second on 9 November, and NASA says both maneuvers went flawlessly (NASA, 9 November; UC Berkeley, which runs the mission, agrees). They reach Mars on 7 and 9 September 2027. On 9 November a space reporter, Irene Klotz of Aviation Week, reported from a meeting of Mars scientists that NASA will start a one-year study in January 2027 of how to bring Perseverance's samples to Earth; on 10 November a second space reporter, Leonard David, gave the study's name, Perseverance Sample Retrieval Architecture (PSRA), and said its final report is due in winter 2027-2028; he repeated this on Space.com on 11 November [all from NASA's 9 November talk; no NASA page yet, so unconfirmed]. SpaceX itself now says Starship Flight 15, an Earth-orbit test that would try to catch both the booster and the ship, could launch as early as 13 November, pending regulatory approval (SpaceX mission page, 7 November); no FAA license is shown yet [aspirational until flown]. On 7 November NASA said JPL will build a nuclear-powered Moon rover, PROMISE, from spare parts and test models of the Curiosity and Perseverance Mars rovers, for launch in late 2028 [aspirational]. ESA marked ten years of its Trace Gas Orbiter (TGO) at Mars on 19 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known. New on 4 November: ESA's Trace Gas Orbiter has found hydrogen chloride gas coming from fresh cracks on the Alba Mons volcano, a possible sign that Mars still has warm magma underground (not proof of eruptions). NASA's review board report on the lost MAVEN orbiter blames a computer reboot followed by a faulty gyroscope.",
+  "Where things stand on 13 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which NASA's team blog (posted 9 November) says may be among the oldest rocks in the rover's collection. Curiosity drilled a new hole at a block called \"Nazca\" on 20 October, its 49th by the team blog's count (NASA blog, posted 9 November; NASA's mission page still shows 42 holes); a newer blog (posted 11 November) says the team finished its work at Nazca and planned, on 6 November, to drive away and rejoin its route south. Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy, and on 10 November Japan's public broadcaster NHK reported that JAXA's MMX development lead told a Japanese space conference the probe is about 6 million km from Earth and flying smoothly; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters are now on their way to Mars: each flew close past Earth and fired its engine for about 9 minutes, the first on 7 November and the second on 9 November, and NASA says both maneuvers went flawlessly (NASA, 9 November; UC Berkeley, which runs the mission, agrees). They reach Mars on 7 and 9 September 2027. On 9 November a space reporter, Irene Klotz of Aviation Week, reported from a meeting of Mars scientists that NASA will start a one-year study in January 2027 of how to bring Perseverance's samples to Earth; on 10 November a second space reporter, Leonard David, gave the study's name, Perseverance Sample Retrieval Architecture (PSRA), and said its final report is due in winter 2027-2028; he repeated this on Space.com on 11 November [all from NASA's 9 November talk; no NASA page yet, so unconfirmed]. SpaceX itself now says Starship Flight 15, an Earth-orbit test that would try to catch both the booster and the ship, could launch as early as 13 November, pending regulatory approval (SpaceX mission page, 7 November); no FAA license is shown yet [aspirational until flown]. New on 13 November: SpaceNews reported (12 November) that a privately funded Mars orbiter from the rocket company Relativity Space, planned for launch in 2028 and carrying NASA's Aeolus instruments for Martian weather, will offer powerful onboard computing and communications for its instruments; Relativity's own page adds a radar to map shallow underground ice and a radio relay for rovers [aspirational]. On 7 November NASA said JPL will build a nuclear-powered Moon rover, PROMISE, from spare parts and test models of the Curiosity and Perseverance Mars rovers, for launch in late 2028 [aspirational]. ESA marked ten years of its Trace Gas Orbiter (TGO) at Mars on 19 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known. New on 4 November: ESA's Trace Gas Orbiter has found hydrogen chloride gas coming from fresh cracks on the Alba Mons volcano, a possible sign that Mars still has warm magma underground (not proof of eruptions). NASA's review board report on the lost MAVEN orbiter blames a computer reboot followed by a faulty gyroscope.",
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan; on 9 November Aviation Week's Irene Klotz reported that NASA will begin a one-year study of new ways to return the samples in January 2027, and on 10 November Leonard David reported the same plan, with a final report due in winter 2027-2028 (a study, not a funded mission) [unconfirmed; no NASA page yet]. Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October. Democrats won both the House and the Senate in the 3 November elections and take over on 3 January 2027; the current Republican-led Congress, back at work on 9 November, still has to pass the 2027 spending bills or extend the stopgap past 11 December; the House plans to stop for the year on 17 December and the Senate on 18 December, dates that could change (SpacePolicyOnline, 8 November). A White House proclamation on 3 November speaks of Americans on Mars but sets no date or money.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
  "whats_new": [
   {
-   "edition": "2026-11-12",
-   "text": "Curiosity has wrapped up its drilling work at \"Nazca\", a rock block with chip-shaped crystal forms: samples went to its SAM chemistry lab, and the 6 November plan sent the rover driving away to rejoin its route south (NASA team blog, posted 11 November).",
+   "edition": "2026-11-13",
+   "text": "A private Mars orbiter from the rocket company Relativity Space, planned for launch in 2028 and carrying NASA's Aeolus instruments for Martian weather, will also carry powerful onboard computers and communications gear for its instruments, SpaceNews reports (12 November); the company's page adds a radar to map shallow underground ice and a radio relay for rovers on the surface [aspirational].",
    "links": [
     [
-     "NASA blog, sols 5063-5069",
-     "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+     "SpaceNews, Jeff Foust, 12 Nov",
+     "https://spacenews.com/relativity-space-mars-orbiter-mission-to-feature-advanced-computing-and-communications-technologies/"
+    ],
+    [
+     "Relativity Space: Interplanetary Sciences Program",
+     "https://www.relativityspace.com/interplanetary"
     ]
    ],
-   "detail_url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
+   "detail_url": "https://spacenews.com/relativity-space-mars-orbiter-mission-to-feature-advanced-computing-and-communications-technologies/"
   }
  ],
  "feed": [
+  {
+   "when": "2026-11-13 04:50",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JPL, JAXA (English and Japanese), ESA, CNSA (Chinese site), UAE, ISRO, SpaceX, Blue Origin, UC Berkeley, GAO, FAA, SpacePolicyOnline, Planetary Society, SpaceNews, Space.com, NASASpaceFlight, AMSAT-DL, Estévez, plus X",
+   "text": "Nothing new today on these, so only their checked dates change: NASA's news lists and Mars pages (newest Mars item still the 11 November Curiosity blog; no new Perseverance blog since the two 9 November posts), JPL news (newest Mars item still 29 October), NASA's Mars Future Plan page (no low-cost Mars mission solicitation seen [unconfirmed]), NASA's ESCAPADE blog (newest still 2 November) and Berkeley's mission-design page (unchanged), JAXA's English and Japanese 2026 press lists (newest MMX release still 21 October; the only November item is a 9 November briefing on the Epsilon rocket) and the MMX blog (newest still the 11 November post, which JAXA's MMX account on X promoted on 12 November at 10:00 Israel time), CNSA's Chinese-language news list (newest still the 9 November launch item; no Mars item), ESA's top-news feed (no new Mars story) and ESA's \"To Mars and back\" blog (newest still 4 November), ISRO's home page (no Mars item; its newest is a ground test of the PSLV rocket's third stage), Blue Origin's news page (newest still the 10 November post; nothing on Mars), the two GAO protest dockets (both still open; decisions due 21 December 2026 and 1 February 2027), SpaceX's Starship Flight 15 page (still as soon as Friday 13 November, pending regulatory approval; window opens 4:45 PM U.S. Central time, 00:45 Israel time on 14 November) and the FAA's Starship page (still last updated 10 November, no Flight 15 license shown), SpacePolicyOnline (newest still the 9 November Moon Base story), AMSAT-DL and Daniel Estévez's blog (amateur tracker; newest still 26 October). Small item: the Planetary Society (an advocacy group) published a study on 12 November of 143 NASA science missions; it finds that missions under $150 million failed far more often (30 percent, against 8 percent for costlier ones) and that mid-cost missions gave the most science per dollar. It names the SkyFall helicopters and the Aeolus instruments, both bound for Mars, among NASA's newer missions picked without competition; this bears on NASA's planned low-cost Mars mission but changes no plan. X: no Mars posts since the last run from NASA Mars, JPL, ESA, JAXA, @ISAS_JAXA, ISRO, SpaceX, Elon Musk, Blue Origin or Andrew Jones (@AJ_FI); the UAE Space Agency and the Mohammed bin Rashid Space Centre posted only about the Arab Satellite 813 and a visit by NASA astronaut Don Pettit. Counters: Curiosity's raw images still end at sol 5071 (11 November) and Perseverance's at sol 2031 (6 November); the Perseverance traverse file still ends at sol 2022, so its distance is unchanged.",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://www.gao.gov/docket/b-424825.1",
+   "link_text": "open GAO docket B-424825.1",
+   "other": "",
+   "links": [
+    [
+     "GAO docket B-424825.2",
+     "https://www.gao.gov/docket/b-424825.2"
+    ],
+    [
+     "Planetary Society: Science Mission Impact study, 12 Nov",
+     "https://www.planetary.org/articles/science-mission-impact-study"
+    ],
+    [
+     "SpaceX: Starship Flight 15",
+     "https://www.spacex.com/launches/starship-flight-15"
+    ],
+    [
+     "FAA: Starship page",
+     "https://www.faa.gov/space/stakeholder_engagement/spacex_starship"
+    ],
+    [
+     "JAXA MMX team on X, 12 Nov (Japanese)",
+     "https://x.com/mmx_jaxa_jp/status/2120788699017552383"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-13 00:17",
+   "who": "SpaceNews (Jeff Foust), \"Relativity Space Mars orbiter mission to feature advanced computing and communications technologies\", with Relativity Space's own program page and NASA's 17 June 2026 release",
+   "kind": "named reporter (secondary); the company's page is an interested party; NASA describing its own partnership",
+   "where": "spacenews.com (posted 22:17 UTC on 12 November, 00:17 Israel time on 13 November), relativityspace.com and nasa.gov",
+   "text": "A privately funded Mars orbiter planned for launch in 2028 \"will offer unprecedented computing and communications resources for instruments from NASA and other partners\", SpaceNews reports. Only that opening sentence could be read. The orbiter is being built by Relativity Space, a California rocket company. Its own page says the mission will map shallow underground ice and rock layers with a radar sounder, measure Martian winds, temperatures, clouds and dust with a NASA Ames instrument suite, and fly what it calls a \"Relay Data Center\": server-class computers and large data storage on board, high-bandwidth laser and radio links between Mars and Earth, and a radio relay for rovers on the surface. Background, new to this tracker: NASA announced the partnership on 17 June 2026. NASA supplies Aeolus, four NASA-built instruments meant to give the first daily, global view of Mars's winds, temperatures, dust and clouds, to make future landings safer, and supports their operations for at least one Martian year (about 687 Earth days). Relativity supplies the spacecraft, the rocket and the trip to Mars, under what NASA calls its first six-year reimbursable Space Act Agreement (a formal partnership agreement, not a purchase contract).",
+   "evidence": "The SpaceNews story is behind a sign-up wall, so its details (which partners, how much computing, any change of date) could not be read [unconfirmed]. The radar, the relay and the computing come from the company's own page (an interested party); the instruments and the one-Martian-year commitment come from NASA's release. The 2028 launch is a company and NASA goal, not a flown schedule [aspirational]; Relativity posted on X on 13 November (03:58 Israel time) about a test firing of its rocket's second stage, a sign the rocket is still in testing [our reading].",
+   "url": "https://spacenews.com/relativity-space-mars-orbiter-mission-to-feature-advanced-computing-and-communications-technologies/",
+   "link_text": "open SpaceNews (sign-up wall after the first sentence)",
+   "other": "",
+   "links": [
+    [
+     "Relativity Space: Interplanetary Sciences Program",
+     "https://www.relativityspace.com/interplanetary"
+    ],
+    [
+     "NASA release, 17 Jun 2026",
+     "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/"
+    ],
+    [
+     "SpaceNews on X, 12 Nov",
+     "https://x.com/SpaceNews_Inc/status/2121004579592491282"
+    ],
+    [
+     "Relativity Space on X, 13 Nov (stage 2 test)",
+     "https://x.com/relativityspace/status/2121060041780548018"
+    ]
+   ]
+  },
   {
    "when": "2026-11-12 04:25",
    "who": "Grok Bot daily check (our own check)",
@@ -2014,8 +2080,8 @@
   "lat": 18.4356,
   "lon": 77.2332,
   "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, in the \"South Idubi\" area near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October (NASA blog) and plans to try for two more (Planetary Society). On sol 2023 (29 October) it studied a pitted light-toned loose rock, \"Nhlanguleni\", at a spot called \"Kapama Karula\" (NASA blog, 4 November).",
-  "est_sol": "about 2037",
-  "est_note": "NASA's raw-image feed still lists sol 2031 (6 November 2026) as its newest when checked on 12 November, all SuperCam close-ups (no Mastcam-Z or Navcam landscape frame, so the on-page picture stays sol 2024); the traverse file still ends at sol 2022; 12 November is about six sols after 2031, about sol 2037 (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "est_sol": "about 2038",
+  "est_note": "NASA's raw-image feed still lists sol 2031 (6 November 2026) as its newest when checked on 13 November, all SuperCam close-ups (no Mastcam-Z or Navcam landscape frame, so the on-page picture stays sol 2024); the traverse file still ends at sol 2022; 13 November is about seven sols after 2031, about sol 2038 (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "The distance comes from NASA's public traverse file (a list of the rover's stopping points), because no NASA blog gives a newer figure. That file lags and does not update every day. Its newest point is sol 2022 (28 Oct): 45,245.7 meters in total (45.25 km, 28.11 miles), after a 22-meter drive. The record figure NASA announced was 45.22 km for sol 2006 (11 Oct). If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -5620,7 +5686,7 @@
    ]
   },
   {
-   "t": "New on 12 November: NASA's raw-image feed now has sol 5071, taken on 11 November 2026: two ChemCam frames and 24 right Navcam frames, with another new drive number in their file names (1252274, up from 1252256), a hint that the rover moved again [our own reading of the file names, unconfirmed]. So 12 November is about sol 5072 (our own arithmetic). The picture above stays the sol 5062 view (this run could not add picture files); the sol 5071 Navcam view is linked.",
+   "t": "New on 12 November: NASA's raw-image feed now has sol 5071, taken on 11 November 2026: two ChemCam frames and 24 right Navcam frames, with another new drive number in their file names (1252274, up from 1252256), a hint that the rover moved again [our own reading of the file names, unconfirmed]. So 12 November is about sol 5072 (our own arithmetic). Checked again on 13 November: sol 5071 is still the newest in the feed, and 13 November is about sol 5073 (our own arithmetic). The picture above stays the sol 5062 view (these runs could not add picture files); the sol 5071 Navcam view is linked.",
    "links": [
     [
      "raw image, sol 5071 (Navcam)",
@@ -5815,6 +5881,25 @@
    ]
   },
   {
+   "who": "Relativity Space with NASA: a private Mars orbiter carrying Aeolus",
+   "t": "Relativity Space, a private rocket company, plans to launch its own Mars science orbiter in 2028; SpaceNews (12 Nov) calls it privately funded. It carries NASA's Aeolus suite of four weather instruments built at NASA Ames (winds, temperatures, dust and clouds) and, per the company, a radar to map shallow underground ice, onboard computers, and laser and radio links that could also relay data for rovers. NASA announced the partnership on 17 June 2026 and supports the instruments' operations for at least one Martian year; Relativity supplies the spacecraft, rocket and cruise. The company's rocket is still in testing [our reading of its 13 Nov post].",
+   "label": "aspirational",
+   "links": [
+    [
+     "NASA release, 17 Jun 2026",
+     "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/"
+    ],
+    [
+     "Relativity Space: Interplanetary Sciences Program",
+     "https://www.relativityspace.com/interplanetary"
+    ],
+    [
+     "SpaceNews, Jeff Foust, 12 Nov",
+     "https://spacenews.com/relativity-space-mars-orbiter-mission-to-feature-advanced-computing-and-communications-technologies/"
+    ]
+   ]
+  },
+  {
    "who": "NASA: Mars Future Missions and the low-cost mission",
    "t": "A $110 million technology and low-cost-mission line, a planned solicitation aimed at a 2030 launch, and a payload program. See the 3 April item in the news feed.",
    "label": "aspirational",
@@ -5869,7 +5954,7 @@
   ],
   [
    "13 Nov 2026 (target)",
-   "Starship Flight 15: SpaceX's own mission page (7 Nov) says as soon as Friday 13 November, pending regulatory approval; 75-minute window opens 4:45 PM U.S. Central time (00:45 Israel time on 14 November). First try at catching both the booster and the ship with the tower. The FAA's Starship page (updated 10 Nov) shows no Flight 15 license yet. SpaceX said on X on 10 Nov that the booster for Flight 15 has moved to the launch pad. Earth-orbit test, not a Mars flight. Flight 16 has no date.",
+   "Starship Flight 15: SpaceX's own mission page (7 Nov) says as soon as Friday 13 November, pending regulatory approval; 75-minute window opens 4:45 PM U.S. Central time (00:45 Israel time on 14 November). First try at catching both the booster and the ship with the tower. The FAA's Starship page (updated 10 Nov) shows no Flight 15 license yet (still so when checked on 13 Nov, 04:50 Israel time). SpaceX said on X on 10 Nov that the booster for Flight 15 has moved to the launch pad. Earth-orbit test, not a Mars flight. Flight 16 has no date.",
    "aspirational"
   ],
   [
@@ -5934,7 +6019,7 @@
   ],
   [
    "2028",
-   "Rosalind Franklin launch (NASA's April slides say 2028; the course says no earlier than late 2028); Tianwen-3 launch about 2028; SR-1 Freedom before end of 2028; SpaceX Starship Mars cargo \"no earlier than 2028\"; Hope extended through 2028. Next Mars launch window: late 2028 to early 2029.",
+   "Rosalind Franklin launch (NASA's April slides say 2028; the course says no earlier than late 2028); Tianwen-3 launch about 2028; SR-1 Freedom before end of 2028; SpaceX Starship Mars cargo \"no earlier than 2028\"; Relativity Space's private Mars orbiter with NASA's Aeolus instruments (NASA, 17 June; Relativity; SpaceNews, 12 Nov); Hope extended through 2028. Next Mars launch window: late 2028 to early 2029.",
    "aspirational"
   ],
   [
@@ -6241,6 +6326,14 @@
    "Companies (interested sources)",
    [
     [
+     "Relativity Space: Interplanetary Sciences Program (Mars orbiter)",
+     "https://www.relativityspace.com/interplanetary"
+    ],
+    [
+     "NASA: Aeolus partnership with Relativity, 17 Jun 2026",
+     "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/"
+    ],
+    [
      "SpaceX: Starship Flight 15",
      "https://www.spacex.com/launches/starship-flight-15"
     ],
@@ -6298,6 +6391,14 @@
   [
    "News, advocates and amateurs (each labeled in the text)",
    [
+    [
+     "SpaceNews, Jeff Foust: Relativity Mars orbiter, 12 Nov",
+     "https://spacenews.com/relativity-space-mars-orbiter-mission-to-feature-advanced-computing-and-communications-technologies/"
+    ],
+    [
+     "Planetary Society (advocacy group): Science Mission Impact study, 12 Nov",
+     "https://www.planetary.org/articles/science-mission-impact-study"
+    ],
     [
      "Space.com, Leonard David: NASA's fresh push to bring Mars samples home, 11 Nov",
      "https://www.space.com/astronomy/mars/nasa-kick-starts-a-fresh-push-to-bring-mars-samples-home"
@@ -6446,6 +6547,7 @@
   ]
  ],
  "not_read": [
+  "13 Nov: the SpaceNews story on the Relativity Mars orbiter could be read only to its first sentence (sign-up wall; tried a plain reader and a second web reader), so its details are not reported; the company's page and NASA's June release were used instead. GAO's dockets refused my plain reader (403); B-424825.2 was read through one web reader and B-424825.1 through another (the first answered 401). Blue Origin's news page answered 429 (too many requests) and was read through a web reader. The UAE Space Agency site refused my plain reader (403), so the UAE was checked on X. Xinhua's English science page showed only an empty page template, so China was checked on CNSA's Chinese site and on X. Space.com's Flight 15 live blog could not be read past its page frame; SpaceX's own page and the FAA page were used. Pictures were not refreshed: this run was told to write only the two data files, so the Curiosity picture stays the sol 5062 view and the Perseverance picture stays sol 2024 (nothing newer with a landscape frame), and the new Relativity item has no picture (the company's pictures are not freely licensed).",
   "12 Nov: GAO's dockets refused my plain reader (403) and were read through a second reader; GAO's site search for new \"Mars Telecommunications\" protests returned nothing readable. Blue Origin's news page answered 429 (too many requests) and was read through the second reader. The UAE Space Agency site refused my plain reader (403) and the second reader returned nothing, and the Mohammed bin Rashid Space Centre news page gave 404, so the UAE was checked on X and by Arabic web search; an Al Khaleej (UAE newspaper) piece of 7 November on Hope seeing a rare aurora could not be opened (security check page), so it is not reported. SpaceX's Flight 15 page needs a full browser and was read through a web reader. Pictures were not refreshed: this run was told to write only the two data files, so the Curiosity picture stays the sol 5062 view and the Perseverance picture stays sol 2024 (nothing newer with a landscape frame).",
   "11 Nov: NHK's MMX story could be read only up to its first paragraph; the rest sits behind NHK's sign-in and consent screen (tried a plain reader and a second reader; a Japanese web search found no other full report), so the speaker's name comes from the conference program, not NHK. The sample-return study still has no NASA source: MEPAG's website did not answer at all this time, and no MEPAG meeting page was found on the Lunar and Planetary Institute site; two reporters (Klotz, David) now describe the same NASA talk. GAO's dockets refused my plain reader (403) and were read through a second reader (both still open). Blue Origin's news page answered 429 (too many requests); its X account was checked instead (no posts since the last run). SpaceX's Flight 15 page needs a full browser and was read through a second reader. SpacePolicyOnline showed a \"one moment, please\" screen to the plain reader and was read through a second reader. Rocket Lab's 10 November X post came back cut off after \"fired their main engine for 9.5\", so its burn length is not used here. Pictures were not refreshed: this run was told to write only make_data.py and data.json, so the Curiosity picture stays sol 5062 (sol 5070 Navcam linked instead) and Perseverance still has nothing newer than sol 2031 SuperCam close-ups. The x-api-mcp-guide skill could not be loaded (no Skill tool in this run); X was read with the documented search tools.",
   "10 Nov: the ESCAPADE result is now official (NASA and UC Berkeley, 9 Nov). The Mars Sample Return study rests on one reporter's X post: MEPAG's website refused my reader (403), no MEPAG meeting page turned up on the Lunar and Planetary Institute site, and Aviation Week's own story was not found. NASA's two Curiosity counts disagree (blog: 49th hole; mission page: 42 holes). Pictures were not refreshed: this run was told to write only make_data.py and data.json, so no image files could be added, even though Curiosity now has a sol 5069 Navcam view (linked in the Curiosity section); Perseverance still has nothing newer than sol 2031 SuperCam close-ups. The new ESCAPADE item has no picture for the same reason, and NASA's new ESCAPADE images are credited to Advanced Space and UC Berkeley rather than NASA. GAO's dockets refused my plain reader and were read through a second reader. Blue Origin's news page answered 429 (too many requests); its X account was read instead (no posts since the last run). SpaceX's page needs a full browser and was read through a second reader. SpaceNews's feed carried only sponsored items. The Planetary Society's article list needs a browser; no new Mars article was found through search. The combined X search across all agency accounts returned nothing, so each account was read one by one. Douglas Isbell's role is not stated on the LinkedIn page, so none is given here.",

@@ -1052,6 +1052,10 @@
     "2026-11-12": {
       "intro": "Israel: the election committee chair lets Likud inspect materials from about 190 polling stations in Arab towns ahead of a possible appeal that Likud says it will file next week, and parts of the Shin Bet's foreign-influence letter are published; the new Knesset sets up committees, with Liberman chairing Foreign Affairs and Defense, and Eisenkot demands restraint on security moves. Also: Hezbollah's Qassem rejects disarmament; a first poll tests Lagarde in France; Brazil's Senate weighs a fiscal package; most public Grok-built apps were found open without sign-in; and an essay reads The Terminator through Land's hyperstition.",
       "quiet": "Nothing material on the Carney case, Trenton, Greenland (the budget deadline moved to 16 November), Colombia and Israel, HaShiloach (no new essay), Belle Burden, Marc Andreessen, UK breakup politics, or non-Latin script digitization. No new Israeli reaction to EUSM Lebanon, nothing material on Sweida, no change to official election results, and no election appeal filing found."
+    },
+    "2026-11-13": {
+      "intro": "Israel: the election committee chair says the Shin Bet's classified information has not yet become real evidence and may never do so, and condemns leaks; Netanyahu briefs Eisenkot for two hours, and the change bloc weighs a draft-enforcement freeze to court United Torah Judaism. Also: Israel bars Mélenchon after France barred Yossi Dagan; Brazil's Senate passes the fiscal package's base text; Carney and Quebec's premier will meet in Phnom Penh; Denmark's parliament backs the Greenland defense deal; SpaceX prices its Arizona supercomputer campus at about $50 billion; and Land reads Musk's \"sentient sun.\"",
+      "quiet": "Nothing material on the Carney case, Trenton, HaShiloach (no new essay), Marc Andreessen, UK breakup politics, non-Latin script digitization or Trump and Xi. Israeli data centers: Jensen Huang resigned as Nvidia's chief executive on 12 November (Globes); nothing yet on what it means for Nvidia's Israel projects. No new Israeli reaction to EUSM Lebanon and no new contributing country, no change to official election results, and no election appeal filing found."
     }
   },
   "items": [
@@ -11703,6 +11707,296 @@
         {
           "name": "X: Land's reply",
           "url": "https://x.com/xenocosmography/status/2120563419334218180"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-israel-election-interference-watch",
+      "edition": "2026-11-13",
+      "section": "israel-election",
+      "headline": "Election committee chair: Shin Bet's classified information \"has not yet matured into real evidence, and may not\"; he condemns leaks; a Joint List lawmaker asks for a criminal probe of a rabbi's ruling against working with Arab parties",
+      "lead": "Central Elections Committee chair Justice Noam Sohlberg wrote to committee members on Thursday, 12 November, after meeting that morning with the special investigation team of the Shin Bet, the police and the prosecution, that the investigation is still under way and that the classified information shown to him \"has not yet matured into real evidence, and may not mature; time will tell\" (ynet, Srugim, Maariv, Hezki Baruch on X).",
+      "text": "Sohlberg wrote that the evidentiary picture is similar to the one on the eve of the committee's statement last week, but that the material still requires a vigorous investigation until it is exhausted. He condemned leaks, calling them \"a grievous evil\" that harms the security side of the probe, and said a classified police opinion had been published before it reached the committee, which received it only at noon on 11 November; he added that media reports are far from how the investigation is actually being run. He thanked the Shin Bet and its chief, called cooperation among the Shin Bet, the police and the attorney general good, and said he found no case in which the attorney general refused a Shin Bet request in this investigation. That partly conflicts with a report the same day in Arab48, citing Israel Hayom, that the attorney general has not approved Shin Bet requests to summon more people, that the Shin Bet has not yet given police additional material it promised, that Shin Bet chief David Zini still holds that the suspicions are serious and could lead to disqualifying votes, and that police see possible party-financing violations at most. This letter is an assessment of where the probe stands, not a finding. Separately, MK Ofer Cassif (Joint List, an interested party) asked State Attorney Amit Aisman to open a criminal investigation of Rabbi Gedalia Axelrod of Haifa, a former head of the Haifa rabbinical court, over a ruling aimed at leaders who cooperate with Arab parties that Cassif calls incitement to violence (Arab48); this is a complaint, not an investigation. Likud: no appeal filing was found; Maariv reported on 11 November that Likud plans to file on 18 November. Dated history: 11 November, Sohlberg lets Likud inspect materials from about 190 polling stations (access, not a finding); 12 November, Sohlberg's letter on the Shin Bet probe (assessment, not a finding); no court filing so far. No change to the official results was found.",
+      "sources": [
+        {
+          "name": "Hebrew: ynet, Sohlberg's letter",
+          "url": "https://www.ynet.co.il/news/article/bk1111fpq0ge"
+        },
+        {
+          "name": "Hebrew: Srugim, \"has not yet matured\"",
+          "url": "https://www.srugim.co.il/101016060-סולברג-על-החשדות-בבחירות-טרם-הבשיל"
+        },
+        {
+          "name": "Hebrew: Maariv, Sohlberg's letter",
+          "url": "https://www.maariv.co.il/breaking-news/article-1387867"
+        },
+        {
+          "name": "X: Hezki Baruch, text of the letter",
+          "url": "https://x.com/HezkeiB/status/2120909430480842991"
+        },
+        {
+          "name": "Arabic: Arab48, citing Israel Hayom on the Shin Bet and police",
+          "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/12/التشكيك-بالانتخابات-زيني-يتمسك-بـ-خطورة-الشبهات-والشاباك-يؤخر-تسليم-الأدلة"
+        },
+        {
+          "name": "Arabic: Arab48, Cassif's request on the rabbi",
+          "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/12/كسيف-يطالب-بالتحقيق-مع-حاخام-حرض-على-التعاون-مع-الأحزاب-العربية"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-israel-election-1",
+      "edition": "2026-11-13",
+      "section": "israel-election",
+      "headline": "Netanyahu briefs Eisenkot for two hours on security; change bloc weighs offering United Torah Judaism a one-year freeze on draft enforcement; Lapid: \"a government will be formed\"",
+      "lead": "Prime Minister Benjamin Netanyahu briefed Gadi Eisenkot, who holds the mandate to form a government, for about two hours on Thursday, 12 November, with his military secretary Maj. Gen. Guy Markizano; a joint statement said Eisenkot was updated on security and diplomatic challenges and that they agreed to keep updating each other (ynet).",
+      "text": "Defense Minister Israel Katz said he, the prime minister and the chief of staff see \"eye to eye\" on Iran, and wrote that no approval from the opposition or legal officials is needed for military operations, including keeping a \"security zone\" in Syria; the security cabinet is expected to meet on Sunday. ynet reported that the change bloc is weighing an offer to United Torah Judaism: a freeze of up to one year on enforcing the draft and arresting deserters while a draft law is written; a legal obstacle is the High Court ruling against the previous freeze. At Yesh Atid's conference that evening, Yair Lapid said \"a government will be formed\" and that it \"would be madness\" if not, adding that no coalition deal is perfect (Hezki Baruch on X).",
+      "sources": [
+        {
+          "name": "Hebrew: ynet, the Netanyahu–Eisenkot briefing",
+          "url": "https://www.ynet.co.il/news/article/sywoliqaml"
+        },
+        {
+          "name": "Hebrew: ynet, the offer to United Torah Judaism",
+          "url": "https://www.ynet.co.il/news/article/byaws7xage"
+        },
+        {
+          "name": "X: Hezki Baruch, Lapid's speech",
+          "url": "https://x.com/HezkeiB/status/2120953940863062263"
+        },
+        {
+          "name": "X: Hezki Baruch, Lapid's speech (continued)",
+          "url": "https://x.com/HezkeiB/status/2120954109029151200"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-lebanon-1",
+      "edition": "2026-11-13",
+      "section": "lebanon",
+      "headline": "Sweida: Syrian Interior Security and the Druze National Guard exchange fire west of Tal Hadid; a quote blaming Sweida's sheikhs attributed to US envoy Barrack is fabricated",
+      "lead": "Syria's Interior Security forces and the National Guard, the armed force of the Druze leadership in Sweida, exchanged fire on the evening of Wednesday, 11 November, west of Tal Hadid in rural Sweida, and a Guard member was shot in the thigh, according to a local source cited by Enab Baladi (single source, unconfirmed).",
+      "text": "A Sweida government media official, Qutaiba Azzam, blamed the Guard; a blast, probably a mine, was also heard. Separately, An-Nahar's fact-check desk found on 12 November that a statement circulating online in which US envoy Tom Barrack supposedly called some Sweida sheikhs \"disconnected from reality\" is fabricated; it found no credible source for it, and said Barrack's last documented comment on Sweida, on 23 October, criticized one Druze sheikh, not sheikhs in general.",
+      "sources": [
+        {
+          "name": "Arabic: Enab Baladi, clash west of Tal Hadid",
+          "url": "https://www.enabbaladi.net/833082/"
+        },
+        {
+          "name": "Arabic: An-Nahar fact-check on the Barrack quote",
+          "url": "https://www.annahar.com/factcheck/365833/%D8%A7%D9%84%D9%85%D8%A8%D8%B9%D9%88%D8%AB-%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A-%D9%8A%D8%B5%D9%81-%D8%B4%D9%8A%D9%88%D8%AE%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7-%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%B5%D8%A7%D9%84-%D8%B9%D9%86-%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1-%D8%AA%D8%AA%D8%AD%D9%82%D9%82-factcheck"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-lebanon-2",
+      "edition": "2026-11-13",
+      "section": "lebanon",
+      "headline": "Israel expected to oppose Macron's plan for a European force to replace UNIFIL, Jerusalem Post reports",
+      "lead": "Israel is expected to oppose French President Emmanuel Macron's plan for a European force to replace the UN peacekeeping force in Lebanon (UNIFIL) when its mandate ends on 31 December, the Jerusalem Post reported, citing a diplomatic source (unconfirmed).",
+      "text": "The paper also cited Secretary of State Marco Rubio saying a replacement \"doesn't have to be a military mission\" and US ambassador to the UN Mike Waltz saying UNIFIL in its current form \"will not continue,\" and a Fox News report that Italy is resisting the French plan. This concerns the proposed French-led force, not the separate EU security mission (EUSM) for Lebanon; no new Israeli reaction to EUSM and no new contributing country was found.",
+      "sources": [
+        {
+          "name": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/article-914510"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-france-election-1",
+      "edition": "2026-11-13",
+      "section": "france-election",
+      "headline": "Israel bars Mélenchon and Mathilde Panot from entering, a day after France barred settler leader Yossi Dagan",
+      "lead": "Israel's Foreign Ministry on Thursday, 12 November, barred La France Insoumise leader Jean-Luc Mélenchon and the party's parliamentary leader Mathilde Panot from entering Israel, citing the party's \"virulent anti-Israeli positions\" (franceinfo).",
+      "text": "Mélenchon said: \"I regret that Israel's government pursues me this way.\" Panot wrote on X that she was still looking for the bad news. French Foreign Minister Jean-Noël Barrot called it a \"demagogic decision\" by a government that has \"multiplied violations of international law,\" which plays into the hands of those, like La France Insoumise, who exploit the Israeli-Palestinian conflict. The ministry statement also accused both of spreading \"blood libels\" against Israel and said Mélenchon called for French ships to escort flotillas to Gaza. The ban came a day after France barred Samaria council head Yossi Dagan, reported on the desk's settlements page on 12 November.",
+      "sources": [
+        {
+          "name": "French: franceinfo",
+          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/israel-interdit-a-jean-luc-melenchon-et-mathilde-panot-l-entree-sur-son-territoire-denoncant-la-position-extremement-anti-israelienne-de-la-france-insoumise_8279801.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-france-election-2",
+      "edition": "2026-11-13",
+      "section": "france-election",
+      "headline": "Philippe again rejects a primary; Le Maire presents a program without declaring; a barometer gives Le Pen the strongest presidential stature",
+      "lead": "Édouard Philippe again refused on Thursday, 12 November, to join a primary of the right and center, while the teams of Bruno Retailleau, Gabriel Attal and David Lisnard agreed to talk about one; franceinfo counts 37 declared candidates, and Éric Zemmour, not Sarah Knafo, is his party's candidate (franceinfo).",
+      "text": "Former finance minister Bruno Le Maire presented a program without declaring a run (franceinfo). A Figaro Magazine barometer reported by Le JDD, whose pollster is not named in the piece (unconfirmed), gives Marine Le Pen the strongest presidential stature, up 9 points on competence and 4 on decisiveness; Lisnard, tested for the first time, is roughly level with Retailleau. On Polymarket this morning, Le Pen is at 46%, Lisnard 16.5%, Mélenchon 13.5%, Christine Lagarde 7.4%, Philippe 5.5% (down from 7.5%) and Raphaël Glucksmann 2%; Polymarket prices are bets, not polls.",
+      "sources": [
+        {
+          "name": "French: franceinfo, the race on 12 November",
+          "url": "https://www.franceinfo.fr/elections/primaire-a-droite-et-au-centre-les-verts-courtises-a-gauche-le-point-sur-la-bataille-de-l-elysee-ce-12-novembre_8280032.html"
+        },
+        {
+          "name": "French: franceinfo, Le Maire's program",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/j-arrive-avec-un-projet-bruno-le-maire-presente-un-programme-pour-une-autre-france-mais-reste-flou-sur-une-candidature-a-la-presidentielle_8279576.html"
+        },
+        {
+          "name": "French: Le JDD, the barometer",
+          "url": "https://www.lejdd.fr/politique/2027-marine-le-pen-candidate-a-la-plus-forte-stature-presidentielle-selon-un-nouveau-sondage-188508"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-brazil-1",
+      "edition": "2026-11-13",
+      "section": "brazil",
+      "headline": "Senate approves the base text of the fiscal package, 45–31, with a 10% cut in tax breaks and a 2% spending cap; prosecutor general opposes reopening Bolsonaro's conviction",
+      "lead": "Brazil's Senate approved the base text of the government's fiscal adjustment, worth up to R$60 billion, by 45 votes to 31 on Thursday, 12 November; amendments are due to be voted on Tuesday, 17 November, before the bill goes to the Chamber of Deputies (g1, Agência Brasil).",
+      "text": "The text cuts tax benefits by a flat 10%, caps real spending growth at 2%, leaves oil revenue out of the health-spending floor until 2030, gives Congress 120 days to regulate pay above the legal ceiling of R$46,300 (\"supersalaries\"), and takes up to R$10.5 billion in diesel subsidies out of the 2026 fiscal target. Separately, Prosecutor General Paulo Gonet told the Supreme Court he opposes Jair Bolsonaro's request to review his criminal conviction; Justice Nunes Marques is the rapporteur (Agência Brasil).",
+      "sources": [
+        {
+          "name": "Portuguese: g1",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/12/senado-federal-aprova-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml"
+        },
+        {
+          "name": "Portuguese: Agência Brasil, Senate vote",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-aprova-texto-base-de-pacote-que-preve-economia-de-ate-r-60-bi"
+        },
+        {
+          "name": "Portuguese: Agência Brasil, Gonet on Bolsonaro",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-e-contra-revisar-condenacao-de-jair-bolsonaro"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-quebec-1",
+      "edition": "2026-11-13",
+      "section": "quebec",
+      "headline": "Carney and St-Pierre Plamondon to meet one-on-one on Sunday in Phnom Penh; Santé Québec drops its private-clinic orthopedic surgery pilot",
+      "lead": "Prime Minister Mark Carney and Quebec Premier Paul St-Pierre Plamondon will meet one-on-one for about 30 minutes on Sunday, 15 November, at 6 p.m. local time (6 a.m. in Montreal) in Phnom Penh, Cambodia, on the sidelines of the 20th Francophonie Summit (Radio-Canada).",
+      "text": "It is the premier's first trip abroad in office; the return of Quebec's legislature has been moved to 1 December. Separately, Santé Québec canceled its pilot project to have private clinics perform orthopedic surgery because not enough clinics signed up; about 30,000 patients are waiting for orthopedic surgery, more than 1,000 of them for over a year (Radio-Canada).",
+      "sources": [
+        {
+          "name": "French: Radio-Canada, the meeting",
+          "url": "https://ici.radio-canada.ca/article/info/2300111/carney-pspp-rencontre-sommet-francophonie"
+        },
+        {
+          "name": "French: Radio-Canada, the surgery pilot",
+          "url": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-colombia-and-israel-1",
+      "edition": "2026-11-13",
+      "section": "colombia-and-israel",
+      "headline": "Israel's ambassador Vivian Aisen formally presents her credentials in Bogotá",
+      "lead": "Israel's ambassador to Colombia, Vivian Aisen, formally presented her credentials to Foreign Minister Omar Bula on Wednesday, 11 November, along with 11 other new ambassadors (El Tiempo, Infobae).",
+      "text": "She had presented copies of her credentials in August.",
+      "sources": [
+        {
+          "name": "Spanish: El Tiempo",
+          "url": "https://www.eltiempo.com/politica/gobierno/peru-israel-chile-y-reino-unido-entre-los-paises-de-los-12-nuevos-embajadores-que-presentaron-credenciales-al-gobierno-de-la-espriella-3600441"
+        },
+        {
+          "name": "Spanish: Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/12/colombia-recibio-las-credenciales-de-embajadores-de-12-paises-estas-son-las-naciones-que-acreditaron-nuevos-representantes/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-greenland-1",
+      "edition": "2026-11-13",
+      "section": "greenland",
+      "headline": "Danish parliament gives the US–Greenland–Denmark defense agreement clear support at first reading; final vote set for 19 November",
+      "lead": "Denmark's parliament, the Folketing, held the first reading on Thursday, 12 November, of bill B 36 on the defense agreement signed by the United States, Greenland and Denmark on 22 September, and the parties gave it clear support; Foreign Minister Lars Løkke Rasmussen presented it (Sermitsiaq, Folketingstidende).",
+      "text": "The second reading and final vote are set for 19 November, according to Sermitsiaq. Greenland's parliament adopted the agreement on 4 November.",
+      "sources": [
+        {
+          "name": "Danish: Sermitsiaq",
+          "url": "https://www.sermitsiaq.ag/samfund/klar-opbakning-til-forsvarsaftale-fra-folketingets-partier/2446956"
+        },
+        {
+          "name": "Danish: Folketingstidende, B 36",
+          "url": "https://www.folketingstidende.dk/samling/20261/beslutningsforslag/B36/index.htm"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-belle-burden-1",
+      "edition": "2026-11-13",
+      "section": "belle-burden",
+      "headline": "\"Strangers\" does not win Barnes & Noble's Book of the Year",
+      "lead": "Barnes & Noble named Mary Beth Keane's novel \"Whale Harbor\" its 2026 Book of the Year on Thursday, 12 November, and Craig Fehrman's \"This Vast Enterprise\" its Nonfiction Book of the Year; Belle Burden's \"Strangers\" did not win (Barnes & Noble, Publishers Weekly).",
+      "text": "Burden is still scheduled to speak at Intelligence Squared on 16 November.",
+      "sources": [
+        {
+          "name": "Barnes & Noble announcement",
+          "url": "https://www.barnesandnoble.com/blog/announcing-our-2026-book-of-the-year"
+        },
+        {
+          "name": "Publishers Weekly",
+          "url": "https://www.publishersweekly.com/pw/newsbrief/index.html?record=6099"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-spacex-xai-and-cursor-1",
+      "edition": "2026-11-13",
+      "section": "spacex-xai-and-cursor",
+      "headline": "SpaceX puts its planned Arizona supercomputer campus at about $50 billion; Singulus to supply a solar-cell line for Starmind satellites",
+      "lead": "SpaceX priced its planned supercomputing campus in Cochise County, Arizona, at about $50 billion on Thursday, 12 November: 747 acres near the Willcox Playa, up to nine buildings and about 6 gigawatts of power; the application (SU26-22) was filed by Tombstone Resources LLC, and the county hearing is set for 9 December (Teslarati, Data Center Feed).",
+      "text": "With Starbase projects, the planned total is more than $74 billion, Teslarati reported. Separately, German equipment maker Singulus signed a contract on 10 November, worth more than €60 million, to deliver a complete heterojunction (HJT) solar-cell production line to SpaceX, with the first line due in the first half of 2027; SpaceX said the deal can support more than 100 GW of equipment for its Starmind satellites in Bastrop, Texas, and Elon Musk wrote that it is \"for Starmind to create a sentient sun.\" No new entry in the Grok Bot changelog (latest 1.0.1, 11 November) or the Cursor changelog (latest 6 November).",
+      "sources": [
+        {
+          "name": "Teslarati",
+          "url": "https://www.teslarati.com/spacex-arizona-supercomputer-tombstone/"
+        },
+        {
+          "name": "Data Center Feed",
+          "url": "https://datacenterfeed.com/article/cochise-county-spacexai-6-gw-data-center-dec-9-hearing-november-2026"
+        },
+        {
+          "name": "Singulus announcement",
+          "url": "https://www.singulus.com/2026/11/10/singulus-spacex-supply-contract/"
+        },
+        {
+          "name": "pv magazine",
+          "url": "https://www.pv-magazine.com/2026/11/11/singulus-signs-spacex-deal-for-heterojunction-solar-cell-line/"
+        },
+        {
+          "name": "X: Elon Musk",
+          "url": "https://x.com/elonmusk/status/2120302471210033426"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-cypherboria-1",
+      "edition": "2026-11-13",
+      "section": "cypherboria",
+      "headline": "Land on Musk's \"sentient sun\": \"Everything happening in the solar system is downstream of this\"; a Colombian essay maps how Chinese scholars read Land",
+      "lead": "Nick Land (@xenocosmography) quoted Elon Musk's post that SpaceX's Singulus solar-cell order is \"for Starmind to create a sentient sun\" and wrote on 12 November: \"Everything happening in the solar system is downstream of this,\" adding that \"'What can the sun think?' envelops all other questions at this stage of the Kardashev scale ascent\" (the Kardashev scale ranks civilizations by the energy they use).",
+      "text": "The Bogotá outlet Desde Abajo published \"Nick Land en China\" by Iván Darío Ávila Gaitán on 11 November, a first attempt to map how Chinese academics receive and interpret Land, who has lived in Shanghai for more than two decades. acadianlemur posted \"Nullinnix Gnostic Calvinism,\" a list of word values in his Still Plex and Still Cycle ciphers addressed to Land (for example \"Elect = Monad = 111\" and \"John Calvin = 222\"). Net Void said an astrologer told her to leave YouTube for TikTok and that her first TikTok drew about 1,000 views; she is weighing posting Cyphers clips there. Ryan Haecker's Methexis Institute calls itself a \"frontier philosophy lab\"; its next Forbidden Books session reads Henri Bergson's \"The Creative Mind\" on Sunday, 15 November, at 11 a.m. Central time (7 p.m. Israel time).",
+      "sources": [
+        {
+          "name": "X: Land, \"downstream of this\"",
+          "url": "https://x.com/xenocosmography/status/2120750456670658883"
+        },
+        {
+          "name": "X: Land, \"What can the sun think?\"",
+          "url": "https://x.com/xenocosmography/status/2120752068357181578"
+        },
+        {
+          "name": "Spanish: Desde Abajo, \"Nick Land en China\"",
+          "url": "https://www.desdeabajo.info/rotador-incio/item/nick-land-en-china.html"
+        },
+        {
+          "name": "X: acadianlemur, Nullinnix Gnostic Calvinism",
+          "url": "https://x.com/acadianlemur/status/2120908826148847797"
+        },
+        {
+          "name": "X: Net Void on TikTok",
+          "url": "https://x.com/Net__Void/status/2120968418266616164"
+        },
+        {
+          "name": "X: Ryan Haecker on Methexis",
+          "url": "https://x.com/RyanHaecker/status/2120901103713751069"
+        },
+        {
+          "name": "X: Methexis Institute, Bergson session",
+          "url": "https://x.com/MethexisATX/status/2121055240724058170"
         }
       ]
     }

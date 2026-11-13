@@ -1,6 +1,635 @@
 {
  "editions": [
   {
+   "date": "2026-11-13",
+   "read_at": "2026-11-13T04:10:00+02:00 to 04:35 Israel time",
+   "intro": "Jensen Huang’s resignation as Nvidia’s chief executive leads the BBC, the Guardian, ynet and the New York Times this morning. The Washington Post leads with Chris Van Hollen’s challenge to Chuck Schumer, and readers are clicking on a global Microsoft outage and Trump ending Vance’s Iran talks.",
+   "cover": "Jensen Huang’s resignation as Nvidia’s chief executive leads the morning: both BBC homepages, both Guardian editions and ynet open with it, and the New York Times opens with Trump having urged Huang to fight for his job, while a Huang biographer’s column tops its trending list. The Washington Post leads with Senator Chris Van Hollen’s challenge to Chuck Schumer. The Times of London leads with six more women accusing Russell Brand, whose prison term tops the BBC most-read list, and the Times of Israel with Netanyahu’s media machine. A global Microsoft outage tops the Guardian’s most-viewed list; Trump ending Vance’s Iran talks tops the Post’s. Away from the news, Johnny Depp’s “Ebenezer” is widely reviewed, Duran Duran’s drummer quits, and Harry Kane scores on his record 126th England cap.",
+   "leading": [
+    {
+     "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o",
+     "text": "Huang resigned after admitting an affair with a woman alleged to be a Chinese spy and reported relationships with two employees, the Guardian says; the NYT reports that Senator Tim Scott wants him and Commerce Secretary Howard Lutnick to testify before the Senate Banking Committee.",
+     "ranks": "Leads: BBC (UK and international), Guardian (UK and international), ynet, NYT. Top 3: The Times. On the front: WaPo, Times of Israel. Most read: NYT trending No. 1, 2, 5 and 7, BBC No. 4, Guardian No. 4.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/technology/2026/11/12/nvidia-board-weighs-jensen-huangs-future-after-affair-with-allege-chinese-spy/"
+      }
+     ]
+    },
+    {
+     "headline": "Van Hollen announces challenge to Schumer to lead the Senate",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/politics/2026/11/12/van-hollen-announces-challenge-schumer-lead-senate/",
+     "text": "The Maryland Democrat says the election called for change but admits he is the underdog; the NYT says Schumer says he has the votes to win.",
+     "ranks": "Leads: WaPo (breaking). Also in the Times of Israel feed. Not among the NYT homepage stories or its trending top 10.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+      }
+     ]
+    },
+    {
+     "headline": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+     "text": "Nearly 130,000 users worldwide reported problems, the Guardian says; Microsoft says some servers became unexpectedly unavailable, straining the rest of its systems.",
+     "ranks": "Top 5: BBC (international), Guardian (UK and international, after the Nvidia package). Most read: Guardian No. 1 and No. 2, BBC No. 2, NYT trending No. 9.",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html"
+      }
+     ]
+    },
+    {
+     "headline": "Rescue Ends in Brooklyn After 8 Die in Building Collapse",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html",
+     "text": "Two construction workers and two children were among the eight killed when a building in Flatbush fell into a construction site next door, the BBC says; the NYT says city investigators are looking at the excavation there.",
+     "ranks": "Top 3: NYT (No. 2), BBC (international). On the front: WaPo. Most read: NYT trending No. 8.",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/nation/2026/11/12/brooklyn-building-collapse-kills-two-injures-17-new-york-city-officials-say/"
+      }
+     ]
+    },
+    {
+     "headline": "Trump says no deal needed with Iran, closes down Vance negotiations",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/",
+     "text": "The president said he is dialing back diplomatic efforts to end the conflict with Iran and pulling the vice president off the talks; the Guardian says Vance will focus on what Trump calls corruption in Democratic-run cities.",
+     "ranks": "Top 5: NYT (No. 4). Most read: WaPo No. 1, Guardian No. 3, NYT trending No. 10. On the front: WaPo, Guardian (international), ynet.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
+      }
+     ]
+    },
+    {
+     "headline": "D.C. gunman attributed attack to frustrations with building maintenance",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/dc-md-va/2026/11/12/logan-circle-shooter-matt-lambert-appeared-frustrated-over-metropole-maintenance/",
+     "text": "The NYT says the gunman, upset about repair work at his condo in Washington, D.C., shot and killed the building manager and wounded four people before killing himself.",
+     "ranks": "Top 5: WaPo (No. 2 to 4), The Times (No. 5). Most read: WaPo No. 2 and 3, NYT trending No. 6.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/us/news-today/article/washington-dc-shooting-what-happened-logan-circle-matt-lambert-zcgnspddr"
+      }
+     ]
+    },
+    {
+     "headline": "Six more women accuse Russell Brand of sexual misconduct",
+     "outlet": "The Times",
+     "url": "https://www.thetimes.com/uk/crime/article/russell-brand-new-sexual-misconduc-allegations-9qbkw8r7v",
+     "text": "The new accusations come as Brand begins a sentence of 10 years and six months for rape and sexual assault, the BBC says.",
+     "ranks": "Leads: The Times. On the front: Guardian (UK and international), BBC. Most read: BBC No. 1.",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report"
+      }
+     ]
+    },
+    {
+     "headline": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo",
+     "text": "Steve Witkoff says Putin agreed that European negotiators can join the next round of Ukraine talks; the Guardian says Putin took a hard line and would target any foreign troops sent to Ukraine.",
+     "ranks": "Top 5: BBC (UK and international), ynet (No. 3). On the front: WaPo, Guardian (international), NYT. Separately, a Ukrainian drone hit on a Russian warship is BBC UK No. 2 and BBC most read No. 3.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/12/after-meeting-putin-us-envoys-say-europe-join-talks-ending-ukraine-war/"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+      }
+     ]
+    }
+   ],
+   "most_read": [
+    {
+     "outlet": "The New York Times",
+     "list": "nytimes.com trending list (signed-in homepage, browser read about 04:10)",
+     "items": [
+      {
+       "headline": "I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.",
+       "url": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html"
+      },
+      {
+       "headline": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
+       "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
+      },
+      {
+       "headline": "What Are Those Strange Noises Trump Makes?",
+       "url": "https://www.nytimes.com/2026/11/12/opinion/trump-speech-midterms.html"
+      },
+      {
+       "headline": "A Warrior Secretary and a Lesson at the Tomb of the Unknowns",
+       "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html"
+      },
+      {
+       "headline": "Jensen Huang’s Affair Puts His Wife in the Spotlight",
+       "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html"
+      }
+     ]
+    },
+    {
+     "outlet": "The Washington Post",
+     "list": "homepage “Most Read” box",
+     "items": [
+      {
+       "headline": "Trump says no deal needed with Iran, closes down Vance negotiations",
+       "url": "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/"
+      },
+      {
+       "headline": "Gunman fatally shot a D.C. condo building manager then barricaded himself inside his unit",
+       "url": "https://www.washingtonpost.com/dc-md-va/2026/11/12/multiple-victims-shooting-dcs-logan-circle/"
+      },
+      {
+       "headline": "D.C. gunman attributed attack to frustrations with building maintenance",
+       "url": "https://www.washingtonpost.com/dc-md-va/2026/11/12/logan-circle-shooter-matt-lambert-appeared-frustrated-over-metropole-maintenance/"
+      },
+      {
+       "headline": "Welcome to ‘The Vow,’ the dating show for budding tradwives",
+       "url": "https://www.washingtonpost.com/style/2026/11/12/vow-is-bachelor-tradwives-its-really-something/"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC",
+     "list": "bbc.co.uk/news “Most read”",
+     "items": [
+      {
+       "headline": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
+       "url": "https://www.bbc.co.uk/news/articles/ck7v25pp19m8o"
+      },
+      {
+       "headline": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+       "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+      },
+      {
+       "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+       "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+      },
+      {
+       "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+      },
+      {
+       "headline": "The school where white working-class pupils defy the odds",
+       "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "list": "most viewed",
+     "items": [
+      {
+       "headline": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+      },
+      {
+       "headline": "Microsoft outage live: Outlook and Teams failures hit government agencies, schools and businesses",
+       "url": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news"
+      },
+      {
+       "headline": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+       "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war"
+      },
+      {
+       "headline": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+       "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+      },
+      {
+       "headline": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
+       "url": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand"
+      }
+     ]
+    }
+   ],
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "home": "https://www.nytimes.com/",
+     "para": "The Times opens with Trump having urged Huang to fight for his job, plus five related pieces, then the Brooklyn collapse that killed eight, Hegseth’s warrior image, Trump pulling Vance off the Iran talks and a magazine piece on why shop staff now say “Welcome in.”",
+     "items": [
+      {
+       "headline": "Trump Had Urged Nvidia’s C.E.O. to Fight for His Job",
+       "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-jensen-huang-nvidia.html"
+      },
+      {
+       "headline": "Rescue Ends After 8 Die, Including 2 Children, in Brooklyn Building Collapse",
+       "url": "https://www.nytimes.com/2026/11/12/us/brooklyn-building-collapse-deaths.html"
+      },
+      {
+       "headline": "A Warrior Secretary and a Lesson at the Tomb of the Unknowns",
+       "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html"
+      },
+      {
+       "headline": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+       "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
+      },
+      {
+       "headline": "Why Are Retail and Hospitality Employees Saying ‘Welcome In’ Now?",
+       "url": "https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html"
+      }
+     ]
+    },
+    {
+     "name": "The Washington Post",
+     "home": "https://www.washingtonpost.com/",
+     "para": "The Post leads with a breaking banner on Van Hollen’s challenge to Schumer, then three pieces on the Washington, D.C., shooting and Kansas’s new Democratic governor; Huang’s resignation comes after the midterm analysis.",
+     "items": [
+      {
+       "headline": "Sen. Chris Van Hollen challenges Sen. Chuck Schumer to lead Democratic majority in next Congress",
+       "url": "https://www.washingtonpost.com/politics/2026/11/12/van-hollen-announces-challenge-schumer-lead-senate/"
+      },
+      {
+       "headline": "D.C. gunman attributed attack to frustrations with building maintenance",
+       "url": "https://www.washingtonpost.com/dc-md-va/2026/11/12/logan-circle-shooter-matt-lambert-appeared-frustrated-over-metropole-maintenance/"
+      },
+      {
+       "headline": "Calm followed by chaos as doctor shoots five during rampage in Logan Circle",
+       "url": "https://www.washingtonpost.com/dc-md-va/2026/11/12/calm-followed-by-chaos-doctor-shoots-five-during-rampage-logan-circle/"
+      },
+      {
+       "headline": "Democrat Cindy Holscher wins Kansas governor’s race, defeating Trump-backed Ty Masterson",
+       "url": "https://www.washingtonpost.com/elections/results/2026/11/03/kansas-governor-holscher-masterson-live-updates/"
+      },
+      {
+       "headline": "Jensen Huang resigns as Nvidia CEO after affair with alleged spy",
+       "url": "https://www.washingtonpost.com/technology/2026/11/12/nvidia-board-weighs-jensen-huangs-future-after-affair-with-allege-chinese-spy/"
+      }
+     ]
+    },
+    {
+     "name": "BBC",
+     "home": "https://www.bbc.com/news",
+     "para": "Both BBC homepages lead with Huang quitting Nvidia. The UK page follows with the Ukrainian drone hit on a Russian warship and junior doctor burnout; the international page with Tigray, the Brooklyn collapse and the Microsoft outage.",
+     "items": [
+      {
+       "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+       "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+      },
+      {
+       "headline": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+       "url": "https://www.bbc.com/news/articles/cm3egjgvp794o"
+      },
+      {
+       "headline": "What we know about Brooklyn building collapse that killed eight people",
+       "url": "https://www.bbc.co.uk/news/articles/cm20v66jq611o"
+      },
+      {
+       "headline": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+       "url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo"
+      },
+      {
+       "headline": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+       "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+      }
+     ]
+    },
+    {
+     "name": "The Guardian",
+     "home": "https://www.theguardian.com/international",
+     "para": "Both editions open with a five-piece Nvidia package led by Huang’s resignation, then the Microsoft outage. The UK edition goes on to Russell Brand and the David Walliams fallout; the international edition to Trump and Iran, and Ukraine.",
+     "items": [
+      {
+       "headline": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+       "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+      },
+      {
+       "headline": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+      },
+      {
+       "headline": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+       "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war"
+      },
+      {
+       "headline": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+       "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+      },
+      {
+       "headline": "Russell Brand accused of misconduct by six more women, according to report",
+       "url": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report"
+      }
+     ]
+    },
+    {
+     "name": "The Times",
+     "home": "https://www.thetimes.com/",
+     "para": "The Times leads with six more women accusing Russell Brand, then Huang’s resignation and a profile of the Nvidia executive in the scandal; the Washington, D.C., shooting and an asylum center pushed through by Angela Rayner follow.",
+     "items": [
+      {
+       "headline": "Six more women accuse Russell Brand of sexual misconduct",
+       "url": "https://www.thetimes.com/uk/crime/article/russell-brand-new-sexual-misconduc-allegations-9qbkw8r7v"
+      },
+      {
+       "headline": "Jensen Huang resigns as boss of chip giant Nvidia over affairs",
+       "url": "https://www.thetimes.com/business/companies-markets/article/jensen-huang-resigns-nvidia-boss-affairs-0qmwbch9x"
+      },
+      {
+       "headline": "Who is Kimberly Powell? The executive in Jensen Huang scandal",
+       "url": "https://www.thetimes.com/business/companies-markets/article/who-is-kimberly-powell-alice-huang-nvidia-scandal-affairs-33kfdbz6b"
+      },
+      {
+       "headline": "How the Washington DC shooting unfolded",
+       "url": "https://www.thetimes.com/us/news-today/article/washington-dc-shooting-what-happened-logan-circle-matt-lambert-zcgnspddr"
+      },
+      {
+       "headline": "Rayner uses emergency powers to push through asylum centre",
+       "url": "https://www.thetimes.com/uk/politics/article/angela-rayner-piddington-asylum-6qstzxn5q"
+      }
+     ]
+    },
+    {
+     "name": "The Times of Israel",
+     "home": "https://www.timesofisrael.com/",
+     "para": "Under a live-blog top line on Haredi leaders fielding coalition offers, the Times of Israel leads with a look at Netanyahu’s media machine, then the IDF reportedly telling Eisenkot there is no urgent need to strike Iran.",
+     "items": [
+      {
+       "headline": "Inside Netanyahu’s sprawling media machine — and how it might impact the election’s chaotic aftermath",
+       "url": "https://www.timesofisrael.com/inside-netanyahus-sprawling-media-machine-and-how-it-might-impact-the-elections-chaotic-aftermath/"
+      },
+      {
+       "headline": "Netanyahu-Eisenkot briefing reportedly told IDF sees no urgent need to strike Iran",
+       "url": "https://www.timesofisrael.com/in-netanyahu-eisenkot-briefing-idf-reportedly-says-no-urgent-need-to-strike-iran/"
+      },
+      {
+       "headline": "Eisenkot receives security briefing after accusing Netanyahu of refusing to grant one",
+       "url": "https://www.timesofisrael.com/eisenkot-to-receive-security-briefing-after-accusing-netanyahu-of-refusing-to-grant-one/"
+      },
+      {
+       "headline": "Zamir said to again warn against Netanyahu advancing ill-advised action against Iran",
+       "url": "https://www.timesofisrael.com/zamir-said-to-again-warn-that-netanyahu-advancing-ill-advised-action-against-iran/"
+      },
+      {
+       "headline": "Democrats MK Kariv says Eisenkot-led bloc will move rapidly to repeal judicial overhaul laws",
+       "url": "https://www.timesofisrael.com/democrats-mk-kariv-says-eisenkot-led-bloc-will-move-rapidly-to-repeal-judicial-overhaul-laws/"
+      }
+     ]
+    },
+    {
+     "name": "ynet (Hebrew)",
+     "home": "https://www.ynet.co.il/",
+     "para": "ynet’s top slot is the Nvidia scandal, then Nvidia’s share fall and Putin’s threat to US envoys; Israeli coalition stories come further down.",
+     "items": [
+      {
+       "headline": "Nvidia chief’s third affair revealed, and the Chinese shares the “spy” held (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/rjzv7qqcml"
+      },
+      {
+       "headline": "Nvidia shares dropped after the chief executive resigned (in Hebrew)",
+       "url": "https://www.ynet.co.il/economy/article/bjjky6mame"
+      },
+      {
+       "headline": "“The war will resume immediately”: Putin’s threat to Trump’s envoys (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/r13kay7cgg"
+      },
+      {
+       "headline": "Who holds the steering wheel of government? The balance of power and what each side can do (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/rjpnr11xrgl"
+      },
+      {
+       "headline": "Lapid: “A government will be formed with painful compromises. It would be madness if not” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/rjnp0tmame"
+      }
+     ]
+    }
+   ],
+   "israel": {
+    "para": "In Israel, the Times of Israel leads with coalition building and Netanyahu’s media machine, while ynet puts the Nvidia scandal on top and its coalition stories (the change bloc’s offer to the Haredi parties, Lapid on compromises) lower down. Abroad, no Israel story is on the main fronts of the BBC, the Guardian or The Times this morning. The NYT has an opinion column on the Israeli election among its most-emailed pieces and a Gaza hospital strike among its most shared on Facebook; the Post’s homepage carries Gaza storm flooding far down the page, and the Guardian runs an editorial on Gaza’s winter.",
+    "items": [
+     {
+      "headline": "Inside Netanyahu’s sprawling media machine — and how it might impact the election’s chaotic aftermath",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/inside-netanyahus-sprawling-media-machine-and-how-it-might-impact-the-elections-chaotic-aftermath/",
+      "text": "The paper says Channel 14 and its allies on social media are amplifying Netanyahu’s lines of attack as he fights to hold on to power."
+     },
+     {
+      "headline": "Netanyahu-Eisenkot briefing reportedly told IDF sees no urgent need to strike Iran",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/in-netanyahu-eisenkot-briefing-idf-reportedly-says-no-urgent-need-to-strike-iran/",
+      "text": "The report is of the meeting between the caretaker prime minister and the man trying to replace him."
+     },
+     {
+      "headline": "Change bloc weighs an offer to the Haredim: a freeze of draft enforcement and arrests for up to a year (in Hebrew)",
+      "outlet": "ynet (Hebrew)",
+      "url": "https://www.ynet.co.il/news/article/byaws7xage",
+      "text": "ynet says the idea is a public pledge, by government decision, to pause arrests and draft enforcement while a full draft arrangement is worked out, and lists the legal and army objections."
+     },
+     {
+      "headline": "Strike in southern Iran; Israel believes the talks have not yet collapsed (in Hebrew)",
+      "outlet": "ynet (Hebrew)",
+      "url": "https://www.ynet.co.il/news/article/h16dmu7azg",
+      "text": "Iran reported a strike in Hormozgan province after Trump said no deal is needed."
+     },
+     {
+      "headline": "Likely next US House speaker reiterates call for ‘dramatic change’ needed on Israel",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/likely-next-us-house-speaker-reiterates-call-for-dramatic-change-needed-on-israel/",
+      "text": "Hakeem Jeffries calls the status quo unacceptable and backs a Palestinian state alongside a Jewish and democratic Israel."
+     },
+     {
+      "headline": "It’s Time for Israelis to Throw Out Their Trump",
+      "outlet": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/10/opinion/israel-elections-netanyahu-eisenkot-trump.html",
+      "text": "An opinion column on the Israeli election, on the NYT’s most-emailed list.",
+      "opinion": true
+     },
+     {
+      "headline": "As deadly storms flood Gaza’s tent cities, the displaced fear a worse winter",
+      "outlet": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/11/12/palestinians-fear-floods-other-storm-risks-tent-cities-gazas-displaced/",
+      "text": "The Post’s world report on displaced Palestinians in Gaza as winter storms arrive."
+     }
+    ]
+   },
+   "culture": [
+    {
+     "headline": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
+     "outlet": "The Guardian; also The Times and ynet",
+     "url": "https://www.theguardian.com/film/2026/nov/12/ebenezer-review-johnny-depp-scrooge-dickens",
+     "text": "The Guardian finds the new “A Christmas Carol” decent enough; The Times reviews it on its homepage and ynet’s entertainment page asks who pays the price for Depp’s comeback.",
+     "section": "Movies"
+    },
+    {
+     "headline": "Duran Duran's Roger Taylor quits Birmingham band over tinnitus",
+     "outlet": "BBC; also NYT and The Times",
+     "url": "https://www.bbc.co.uk/news/articles/crwy499k504do",
+     "text": "The drummer says his condition has been getting steadily worse and he must listen to his body and his doctors.",
+     "section": "Music"
+    },
+    {
+     "headline": "Welcome to ‘The Vow,’ the dating show for budding tradwives",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/style/2026/11/12/vow-is-bachelor-tradwives-its-really-something/",
+     "text": "Monica Hesse’s column on a new dating show is No. 4 on the Post’s most-read list.",
+     "section": "TV",
+     "opinion": true
+    },
+    {
+     "headline": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
+     "text": "A food story on the price of holiday pies, on the NYT’s most-emailed list.",
+     "section": "Food"
+    },
+    {
+     "headline": "Cunk on Cinema review – Diane Morgan baffles Hollywood with some of the stupidest jokes ever told",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/12/cunk-on-cinema-review-philomena-cunk-diane-morgan-bbc-two",
+     "text": "The first item on the Guardian UK front calls the BBC Two comedy guide to film history hilarious.",
+     "section": "TV"
+    },
+    {
+     "headline": "Shawn Mendes: “A genocide is happening in Gaza before our eyes. The senseless killing must stop” (in Hebrew)",
+     "outlet": "ynet (Hebrew); also The Times of Israel",
+     "url": "https://www.ynet.co.il/entertainment/article/sk96hdqagg",
+     "text": "The Canadian singer called on fellow artists on Instagram to donate and speak out; it is No. 2 on ynet’s entertainment page, and the Times of Israel notes he had earlier condemned antisemitism.",
+     "section": "Israeli entertainment",
+     "also": [
+      {
+       "outlet": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/canadian-singer-shawn-mendes-accuses-israel-of-genocide-in-gaza-calls-for-donations/"
+      }
+     ]
+    },
+    {
+     "headline": "Shuli Rand is a jester, a father and a small-time crook, in a film that will leave you smiling (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/ry0xdbzaml",
+     "text": "Director Gidi Dar and Shuli Rand reunite after “Ushpizin” for “HaBadchan,” about a failing Jerusalem wedding jester raising money for his daughter’s wedding.",
+     "section": "Israeli film"
+    },
+    {
+     "headline": "“Eretz Nehederet” invited Yehudit Ravitz to the studio for a polished show of affection (in Hebrew)",
+     "outlet": "Haaretz Galeria (Hebrew)",
+     "url": "https://www.haaretz.co.il/gallery/television/tv-review/2026-11-12/ty-article/.highlight/000001a1-ce5a-dd55-abb1-fe5f1f4e0000",
+     "text": "Haaretz’s TV critic says the satire show chose to applaud the singer instead of taking on the storm over her likes for Netanyahu’s posts.",
+     "section": "Israeli TV"
+    }
+   ],
+   "sports": [
+    {
+     "headline": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
+     "text": "Kane’s penalty on his 126th cap, an England men’s record, gave England a 2-1 win and a place in the Nations League quarterfinals; it leads Guardian Sport and is on The Times homepage.",
+     "also": [
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/sport/football/article/harry-kane-hits-england-winner-on-his-special-night-against-croatia-277zllqwc"
+      },
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo"
+      }
+     ]
+    },
+    {
+     "headline": "Michael Carrick sacked by Manchester United with Pochettino poised to take over",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/football/2026/nov/12/michael-carrick-sacked-manchester-united-mauricio-pochettino",
+     "text": "Carrick lost the job less than six months after getting it; BBC Sport leads with how United settled on Mauricio Pochettino.",
+     "also": [
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1jlr1707o"
+      }
+     ]
+    },
+    {
+     "headline": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo",
+     "text": "Australia’s captain Pat Cummins rejected former teammate Usman Khawaja’s claims about the ball-tampering scandal; the Guardian’s live page on it is No. 6 on its most-viewed list.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/sport/2026/nov/13/pat-cummins-press-conference-sandpapergate-usman-khawaja-ball-tampering-australia-cricket-captain-statement-ntwnfb"
+      },
+      {
+       "outlet": "The Athletic",
+       "url": "https://www.nytimes.com/athletic/7776744/2026/11/12/cricket-cummins-khawaja-sandpapergate-australia/"
+      }
+     ]
+    },
+    {
+     "headline": "Palace sack Sage after 16 games with Frank in advanced talks",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do",
+     "text": "Crystal Palace fired manager Pierre Sage with the club bottom of the Premier League table."
+    }
+   ],
+   "unread": [
+    {
+     "outlet": "The Telegraph",
+     "tried": "telegraph.co.uk with curl (HTTP 402)."
+    },
+    {
+     "outlet": "Times of Israel arts and culture section",
+     "tried": "curl (403); r.jina.ai reader (401, the reader blocks anonymous requests from the box’s IP). Used the main RSS feed for Times of Israel culture items. (The reader did work for the Times of Israel, Washington Post and The Times homepages this run.)"
+    },
+    {
+     "outlet": "Walla culture (e.walla.co.il)",
+     "tried": "Page loaded (HTTP 200) but no article links could be read from it; used ynet, Haaretz Galeria, Israel Hayom and Mako."
+    },
+    {
+     "outlet": "ynet culture page (ynet.co.il/culture)",
+     "tried": "HTTP 404; used ynet.co.il/entertainment."
+    },
+    {
+     "outlet": "Most-read lists for The Times, Times of Israel and ynet",
+     "tried": "None found in the pages read."
+    }
+   ],
+   "method": "Read 04:10–04:35 Israel time. NYT homepage order and trending list from the signed-in homepage in a browser (about 04:10); the rest with curl: WaPo homepage and Most Read box, The Times homepage and the Times of Israel homepage through the r.jina.ai reader; BBC UK and international homepages and Most read; Guardian UK and international fronts and the most-viewed feed; ynet homepage and entertainment page, Haaretz Galeria, Israel Hayom culture and Mako entertainment from their pages; sections from RSS feeds plus BBC Sport, Guardian Sport and The Athletic. Front pages refreshed with msm/fetch_frontpages.py at 04:14: Yedioth and Haaretz 13 Nov; the NYT 13 Nov page was not yet posted (404), so the 12 Nov image is kept; WSJ shows the 12 Nov edition (latest posted)."
+  },
+  {
    "date": "2026-11-12",
    "read_at": "2026-11-12T04:18:00+02:00 to 04:45 Israel time",
    "intro": "Nvidia’s board weighing the future of chief executive Jensen Huang leads the NYT and the BBC this morning. The Washington Post leads with the Democratic Senate win in Mississippi, and readers in the US are also clicking on Pete Hegseth being scolded at the Tomb of the Unknown Soldier.",
@@ -1282,5 +1911,5 @@
    "cover": "The big newsrooms split on what matters most today. The New York Times leads with the woman at the center of the Nvidia spy scandal, which is also No. 1 on the Times and Washington Post most-read lists. The Post leads with House Republicans blocking the Hegseth impeachment. In Britain, The Guardian and The Times lead with the allegations against David Walliams, which he denies, and the BBC's top stories include the arrest of a US Army soldier near Gloucester on suspicion of spying for Russia. The Times of Israel leads with Netanyahu's Knesset speech. Away from the news pages, M John Harrison became the first science fiction author to win the Booker Prize, Stacy Keach died at 85, and Paul McCartney became a billionaire."
   }
  ],
- "updated": "2026-11-12T04:50:00+02:00"
+ "updated": "2026-11-13T04:40:00+02:00"
 }
