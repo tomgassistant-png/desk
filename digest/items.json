@@ -155,6 +155,10 @@
               "url": "https://x.com/Net__Void"
             },
             {
+              "label": "网 (NeT Void) on TikTok (@net__void)",
+              "url": "https://www.tiktok.com/@net__void"
+            },
+            {
               "label": "Interview: Nick Land x Cyphers (17 Oct. 2026)",
               "url": "https://www.youtube.com/watch?v=6FTUsXTedSM"
             },
@@ -296,6 +300,10 @@
             {
               "label": "YouTube",
               "url": "https://www.youtube.com/netvoid"
+            },
+            {
+              "label": "TikTok (@net__void)",
+              "url": "https://www.tiktok.com/@net__void"
             },
             {
               "label": "Cyphers interview post",
@@ -11997,6 +12005,24 @@
         {
           "name": "X: Methexis Institute, Bergson session",
           "url": "https://x.com/MethexisATX/status/2121055240724058170"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13-cypherboria-2",
+      "edition": "2026-11-13",
+      "section": "cypherboria",
+      "headline": "Net Void's TikTok has one video, a short tip on restoring dark mode",
+      "lead": "Net Void's public TikTok account, @net__void, has one video, captioned \"How to get Dark-Mode back,\" a six-second clip whose caption is a phone-settings tip for restoring dark mode and then reopening X; the video page dates it 7 March 2026, 9:44 PM Israel time (UTC+2), and when checked on 13 November it had about 1,164 views.",
+      "text": "The caption, read from the video page, walks through Phone Settings, Display & Brightness, Select Dark Mode, and Reopen X, and uses the tags #x, #darkmode and #techhack. The page also lists 9 likes, 1 share and no comments. I could not watch the video itself, only the caption, length and figures on the page. On X today she wrote that an astrologer had told her to leave YouTube for TikTok and that she posted one TikTok \"that same day\" which drew about 1,000 views; this is the video she linked, and the view count matches, but the video page itself dates it 7 March 2026. The morning run will now add every new @net__void TikTok from the last day, with a direct link and no theme filter.",
+      "sources": [
+        {
+          "name": "TikTok: @net__void, \"How to get Dark-Mode back\"",
+          "url": "https://www.tiktok.com/@net__void/video/7614601846405008662"
+        },
+        {
+          "name": "X: Net Void on TikTok",
+          "url": "https://x.com/Net__Void/status/2120968418266616164"
         }
       ]
     }
