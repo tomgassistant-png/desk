@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:56:21+02:00",
+ "updated": "2026-11-14T04:33:12+02:00",
  "credit": "Front pages via Freedom Forum (frontpages.freedomforum.org) and Paperboy (thepaperboy.com)",
  "papers": [
   {
@@ -18,11 +18,11 @@
    "key": "wsj",
    "name": "The Wall Street Journal",
    "site": "https://www.wsj.com/",
-   "edition": "2026-11-12",
+   "edition": "2026-11-13",
    "source": "Freedom Forum",
-   "source_url": "https://d2dr22b2lm4tvw.cloudfront.net/wsj/2026-11-12/front-page-large.jpg",
-   "last_modified": "Thu, 12 Nov 2026 11:00:15 GMT",
-   "fetched": "2026-11-13T04:14:12+02:00",
+   "source_url": "https://d2dr22b2lm4tvw.cloudfront.net/wsj/2026-11-13/front-page-large.jpg",
+   "last_modified": "Fri, 13 Nov 2026 11:00:21 GMT",
+   "fetched": "2026-11-14T04:33:12+02:00",
    "file": "frontpages/wsj.jpg",
    "thumb": "frontpages/wsj-thumb.jpg"
   },

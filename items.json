@@ -4,6 +4,244 @@
  "latest_count": 18,
  "items": [
   {
+   "id": "2026-11-14-land-land-registration-tender-frozen",
+   "section": "land",
+   "lead": true,
+   "highlight": true,
+   "headline": "Court freezes the tender for the survey meant to restart land registration in Judea and Samaria, a quiet 2025 cabinet decision that settlement backers call the government's biggest land move",
+   "summary": "Besheva columnist Yoni Roten has made public a step that he says the outgoing government kept out of the news on purpose: in May 2025 the security cabinet decided to end the 1968 military order that froze the registration of land ownership in Judea and Samaria, and to set up a large survey to register who owns each plot. In his account, land with no serious ownership claim would be declared state land, and disputed claims would go to a dedicated committee instead of the High Court, which he blames for the evacuation of Migron, Amona, nine homes in Ofra and Netiv HaAvot over Palestinian private-land claims. He calls the decision \"the closest thing to an official declaration\" of sovereignty (<a href=\"https://be7.co.il/32265/\">Besheva</a>; <a href=\"https://x.com/Yoni_Roten/status/2121134697191231667\">Yoni Roten on X</a>). The Justice Ministry's land registration authority put out a tender to hire a private firm to run the survey, and the firm Geoda, of Ramat HaHayal, won it, Roten writes. The step stalled at the next stage: the Central Command order that gives the survey its legal footing never took effect, held up for a year and a half in the Justice Ministry. Yesh Din, Bimkom and the Association for Civil Rights in Israel then petitioned the Jerusalem District Court against the tender on 25 June 2026. On 28 October 2026 Judge Shirley Renner froze the tender in Judea and Samaria, ruling that the Justice Ministry and its tenders committee have no authority to act there without an order from the military commander. She did not rule on the groups' other claims (that the step breaks international law, illegally privatizes state powers and discriminates against Palestinians) (<a href=\"https://www.yesh-din.org/urgent-petition-to-cancel-the-tender-for-managing-solt-proceedings-in-the-west-bank-and-east-jerusalem_he/\">Yesh Din case page, in Hebrew</a>). Yesh Din's own page says an earlier High Court petition against the cabinet decision was rejected in January 2026 as premature, and that cabinet members described the aim as strengthening settlement. Roten notes that the ruling leaves room for a future general's order to make the tender valid again, but says that with no one yet named to the justice and defense ministries, the halt may last a long time. Shiloh Valley farmer Amishav Melet shared the column: \"There is no decision in Judea and Samaria without smashing the lie of 'the private lands of the local Palestinians'\" (<a href=\"https://x.com/amishav_/status/2121139466865721592\">Amishav Melet</a>). Note: Roten's post on X dates the cabinet decision to May 2026, but his column and Yesh Din both say May 2025.",
+   "source": "Besheva (Yoni Roten) / Yesh Din / Amishav Melet",
+   "date": "2026-11-12",
+   "url": "https://be7.co.il/32265/",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026"
+  },
+  {
+   "id": "2026-11-14-land-jericho-makor-rishon-feature",
+   "section": "land",
+   "highlight": true,
+   "headline": "Inside the eight Jericho homes: Nachala says there is room for 15 families, a nearby community for 12 families is next, and it wants an access road down from Mitzpe Yericho",
+   "summary": "Makor Rishon visited the homes on the edge of Jericho that Jewish families moved into last week. It reports eight houses in Area C, in one neighborhood, in three clusters a few minutes' walk apart, bought by the Nachala settlement movement with support from the Binyamin Regional Council. The houses have names drawn from the Bible's Jericho stories (\"Beit HaShani,\" \"Beit Salomon\"); yeshiva students from Kiryat Arba have turned one living room into a study hall, and most of the first families came from Marom Yehuda, the community north of Hebron that Nachala founded about two years ago. Nachala chairman Tzvi Elimelech Sharabaf, a grandson of Rabbi Moshe Levinger, has moved there with his family. He compares the move to the first Jewish settlers' arrival in Hebron in 1968, says a group called \"Harhivi\" bought five homes in Hebron about a year ago and showed it could be done, and says Nachala moved in quickly because it feared the PA would discover the purchases. The bought homes have room for 15 families living there permanently; for now \"reserve\" families are staying for the first weeks while Nachala looks for permanent ones. The nearby community of Diya, which Nachala expects to set up soon, would start with 12 families. The main obstacle is access: Nachala wants to open a road down from Mitzpe Yericho and says it has drawn up plans for the government ministries (<a href=\"https://www.makorrishon.co.il/news/settlement/article/392281\">Makor Rishon</a>). Sharabaf's broader claims, that many Arabs want to sell and emigrate and that half the Arab population of Judea and Samaria would leave within a few years if the state set up a fund and protected sellers from the PA, are his own and cannot be checked. The Palestinian side's account: Haaretz, from residents of the Ein ad-Duyuk at-Tahta neighborhood, reports demolitions, looting and the violent removal of Palestinian residents, and a teenage settler at the neighborhood entrance who said he had \"blocking authority\" (<a href=\"https://www.haaretz.co.il/news/politics/2026-11-13/ty-article-magazine/.premium/000001a1-d17a-d1ce-a9a3-f17b280a0000\">Haaretz</a>); these are residents' claims that no police or army statement in the sources confirms. See the desk items of 5 to 12 November, including the army's decision to keep the residents in place and reinforce the nearby post.",
+   "source": "Makor Rishon / Haaretz",
+   "date": "2026-11-13",
+   "url": "https://www.makorrishon.co.il/news/settlement/article/392281",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "Ein ad-Duyuk at-Tahta, Jericho",
+     "lat": 31.8674392,
+     "lon": 35.4380861,
+     "note": "Nominatim (neighborhood point; the exact homes are not mapped)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-idf-isis-arrests-weekly-summary",
+   "section": "idf",
+   "highlight": true,
+   "headline": "Two Islamic State-linked terrorists among four arrested near Jenin; army says it arrested more than 55 wanted men in Judea and Samaria this week and razed memorials to Hamas and Islamic Jihad founders",
+   "summary": "Paratroopers under the Menashe Brigade, guided by the Shin Bet, arrested four terrorists overnight from Thursday to Friday who the army says were advancing attacks on Israeli civilians and security forces; two of them are identified with the Islamic State (<a href=\"https://www.inn.co.il/flashes/1140836\">Arutz 7</a>; <a href=\"https://www.c14.co.il/article/1787409\">Channel 14</a>; <a href=\"https://x.com/manniefabian/status/2121233231668215920\">Times of Israel's Emanuel Fabian</a>). Israel Hayom's Yotam Deshe called the arrests unusual for the Menashe sector, where arrests are routine but most of those held belong to local groups such as Hamas and Islamic Jihad (<a href=\"https://x.com/Yotamdeshe97/status/2121239106697269693\">Yotam Deshe</a>). In its weekly summary the army said dozens of battalions and special units arrested more than 55 wanted men across Judea and Samaria, among them Hamas and Islamic Jihad members, men planning an attack, inciters and a suspect in firebomb throwing, and that in the Etzion area troops destroyed memorials glorifying terror that belonged to two founders of Hamas and Islamic Jihad and to other terrorists (<a href=\"https://www.ynet.co.il/news/article/bjvjwln0zg\">Ynet</a>; <a href=\"https://x.com/simkha0404/status/2121169660632764454\">Simcha Raz</a>). Separately, the Judea and Samaria Division commander, Brig. Gen. Kobi Heller, presented the security assessment and plans for 2027 to council heads at a conference in Ariel run by the division's civilian security office and the Yesha Council; it focused on strengthening the defense of the communities, the infrastructure effort, and coordination with the Defense Ministry's settlement division, Home Front Command, the Civil Administration, police, fire service and Magen David Adom (<a href=\"https://www.inn.co.il/news/710738\">Arutz 7</a>).",
+   "source": "Arutz 7 / Channel 14 / IDF / Israel Hayom (Yotam Deshe) / Ynet",
+   "date": "2026-11-13",
+   "url": "https://www.inn.co.il/flashes/1140836",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "Ariel (division conference)",
+     "lat": 32.1060817,
+     "lon": 35.1851368,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-attacks-jsr-daily-tmara-silwad",
+   "section": "attacks",
+   "headline": "JSR: ten terror incidents on Thursday and five Israelis hurt; stones hit a car near Tmara on Friday; JSR video shows Hamas flags beside Fatah flags at the Silwad funeral",
+   "summary": "The Yesha Council's Situation Room (JSR) counted ten incidents across Judea and Samaria on Thursday, 12 November: four attacks on Jewish shepherds and residents, four stone-throwing attacks and two roads blocked with rocks and burning tires, with five Israeli residents hurt (<a href=\"https://x.com/JSR_HEB/status/2121160805798269422\">JSR, Hebrew</a>; <a href=\"https://t.me/s/JSR_EN\">JSR on Telegram</a>). JNS Hebrew's Netanel Frankel, citing JSR, listed the main ones: two shepherds hurt at Ateret, a shepherd attacked at Yehonatan farm in Gush Etzion with no injuries, the access road to Shir LeDavid in Samaria blocked with stones, and burning tires south of Ir HaTmarim in Binyamin (<a href=\"https://x.com/Netanelfr/status/2120975029811003642\">Netanel Frankel</a>); the Ateret and Yehonatan attacks were in the 13 November edition. On Friday, 13 November, Arabs threw stones at an Israeli car south of Tmara, damaging its body with no injuries, JSR said; Olam Katan's Simcha Raz reported the same attack (<a href=\"https://x.com/JSR_EN/status/2121221477546484017\">JSR, English</a>; <a href=\"https://x.com/simkha0404/status/2121229088211767418\">Simcha Raz</a>). JSR places Tmara in Binyamin, while Raz writes the Jordan Valley, so the spot is not mapped here. JSR also posted video of Hamas flags flown alongside Fatah flags at Wednesday's funeral of a terrorist in Silwad, noting that Fatah is the movement that controls the Palestinian Authority, headed by Mahmoud Abbas (<a href=\"https://x.com/JSR_HEB/status/2121186634175598841\">JSR</a>; see the 13 November item on the funeral). No new reports appeared on JSR's website (news, analysis and English briefings pages) since the last run.",
+   "source": "JSR (Yesha Council Situation Room) / JNS Hebrew (Netanel Frankel) / Olam Katan (Simcha Raz)",
+   "date": "2026-11-13",
+   "url": "https://x.com/JSR_HEB/status/2121160805798269422",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "Silwad",
+     "lat": 31.9750753,
+     "lon": 35.2624526,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-attacks-jiftlik-classified-map",
+   "section": "attacks",
+   "headline": "Jordan Valley: man from al-Jiftlik held after police find a classified army map of the Gaza border area, military gear and knives in his home",
+   "summary": "Police from the Judea and Samaria District and Border Police officers on a routine patrol in the al-Jiftlik area noticed a Palestinian man in his 20s wearing army boots on Thursday, 12 November. He said they belonged to his son and admitted he had more military equipment at home. A search turned up an airsoft pistol, knives, other military gear and a military map of the Gaza border communities marked \"secret.\" He was taken to the Bik'a police station, held after questioning, and police are investigating what he meant to do with the gear and how he got the map (<a href=\"https://www.c14.co.il/article/1787236\">Channel 14</a>; <a href=\"https://x.com/olam_katan/status/2121125945218146306\">Olam Katan</a>; <a href=\"https://x.com/simkha0404/status/2121121596043579580\">Simcha Raz</a>). Arutz 7 and Israel Hayom carried the same police statement.",
+   "source": "Israel Police (via Channel 14 and Olam Katan)",
+   "date": "2026-11-12",
+   "url": "https://www.c14.co.il/article/1787236",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "al-Jiftlik",
+     "lat": 32.1438648,
+     "lon": 35.4970585,
+     "note": "Approximate: Nominatim point for the village; the home is not mapped"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-land-naqura-spring-maon-tidhar",
+   "section": "land",
+   "headline": "Naqura spring near Mount Ebal flows again under a project begun by the late Benayahu Melet; Ma'on Farm, demolished 27 years ago, now has dozens of families",
+   "summary": "The Naqura spring, a natural pool on the way to Mount Ebal in northern Samaria, is filling again after years in which, according to area residents, its flow was diverted by nearby Arab residents while there was little Jewish presence there, Olam Katan reports (<a href=\"https://x.com/olam_katan/status/2121194930374586631\">Olam Katan</a>). Its settlement reporter Simcha Raz says the project was begun by Benayahu Melet, killed on 24 July 2026, and posted photos credited to the Hilltop Fund (<a href=\"https://x.com/simkha0404/status/2121194664028168464\">Simcha Raz</a>). This is single-source; no council or water-authority statement was found. Elchanan Groner marked 27 years since the army and police destroyed Ma'on Farm in the South Hebron Hills, then one of a few lone hilltops; today it has dozens of families, and hundreds of hilltops and farms have gone up since (<a href=\"https://x.com/elchanangr/status/2121166989959803230\">Elchanan Groner</a>). Elisha Yered posted that Givat Tidhar in Wadi a-Zarqa, named for the late Tidhar Gozlan, hosted a group of young men who came to strengthen the hilltop this weekend; it has no power or running water, and the nearest grocery is 40 minutes away over dirt roads (<a href=\"https://x.com/ElishaYered/status/2121239791198937395\">Elisha Yered</a>).",
+   "source": "Olam Katan (Simcha Raz) / Elchanan Groner / Elisha Yered",
+   "date": "2026-11-13",
+   "url": "https://x.com/olam_katan/status/2121194930374586631",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "Naqura spring (near Mount Ebal)",
+     "lat": 32.2335683,
+     "lon": 35.2733529,
+     "note": "Approximate: point is Mount Ebal (Nominatim); the spring is not mapped"
+    },
+    {
+     "name": "Ma'on Farm",
+     "lat": 31.4092994,
+     "lon": 35.1603654,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Givat Tidhar (Wadi a-Zarqa)",
+     "lat": 31.9921914,
+     "lon": 35.0988882,
+     "note": "Approximate: Nominatim point for Wadi a-Zarqa; the hilltop is not mapped"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-idf-southern-syria-raqqad-road-jubata",
+   "section": "idf",
+   "headline": "Southern Syria: Syrian state media say Israeli forces cut a new road from the Sihan post toward Wadi al-Raqqad and held three men in a Jubata al-Khashab raid",
+   "summary": "Syria's state news agency SANA reported that on Friday, 13 November, Israeli engineering vehicles and bulldozers began cutting a new road and track from the Sihan observation post on the Golan toward Wadi al-Raqqad, near the village of Abidin in the Yarmouk basin of western Daraa province (<a href=\"https://sana.sy/governorates/daraa/2634221/\">SANA, Arabic</a>). It also said a force of more than nine military vehicles entered Jubata al-Khashab in northern Quneitra province that day, searched homes, broke the doors and fronts of several shops, and detained three men, later freeing one (<a href=\"https://sana.sy/locals/2634609/\">SANA, Arabic</a>). Families of Syrians held by Israel protested outside the UN observer force (UNDOF) base at Nabe' al-Fawwar (<a href=\"https://sana.sy/governorates/alqunaytrah/2634245/\">SANA, Arabic</a>). These are Syrian government claims; headlines from Enab Baladi and the Syrian Observatory for Human Rights report the same raids and road, but their pages blocked automated reading, and no Israeli army statement was found. Halutzei HaBashan, the movement pushing for Israeli settlement in the Bashan, has posted nothing on X since 10 November, when it called for standing \"like a fortified wall\" against pressure to withdraw from the Bashan (<a href=\"https://x.com/HaluzeyHabashan/status/2120253306920448124\">Halutzei HaBashan</a>); its Telegram channel has not posted since July.",
+   "source": "SANA (Syrian state media) / Halutzei HaBashan",
+   "date": "2026-11-13",
+   "url": "https://sana.sy/governorates/daraa/2634221/",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "Abidin (Wadi al-Raqqad area, Daraa)",
+     "lat": 32.7804728,
+     "lon": 35.8246625,
+     "note": "Nominatim; the road route itself is not mapped"
+    },
+    {
+     "name": "Jubata al-Khashab",
+     "lat": 33.2257594,
+     "lon": 35.8341343,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-negev-rahat-snipers-azazme-raid",
+   "section": "negev",
+   "headline": "Negev: police put snipers on Rahat rooftops with orders that \"fire will be met with fire\"; loaded pistol hidden on a woman and 315,000 shekels seized in the Azazme area",
+   "summary": "Police confirmed on Friday that snipers and marksmen are posted on rooftops in Rahat as part of an operation against armed men behind shootings in the city, after photos of armed men on the roofs spread on social media. Southern District commander Maj. Gen. Haim Bublil ordered special units into the city after a situation assessment, and officers were told to identify armed suspects who open fire and \"neutralize\" them; the message, police said, is that \"fire will be met with fire.\" Police say more than 600 weapons and tens of thousands of rounds of stolen military ammunition have been found in the south since the start of the year (<a href=\"https://www.inn.co.il/news/710730\">Arutz 7</a>; <a href=\"https://www.kan.org.il/content/kan-news/local/1118900/\">Kan</a>; Haaretz carried the same report). On Thursday, Border Police's National Guard and Segev Shalom detectives searching a compound in the Azazme area found a loaded pistol hidden on a 20-year-old woman, a box of 9 mm rounds, and 315,000 shekels in cash hidden in the bedroom, closets and ceiling; she and her 21-year-old husband were arrested (<a href=\"https://www.inn.co.il/news/710720\">Arutz 7</a>). See the 3 and 7 November items on Rahat shootings and seized M-16s.",
+   "source": "Israel Police (via Arutz 7, Kan)",
+   "date": "2026-11-13",
+   "url": "https://www.inn.co.il/news/710730",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "Rahat",
+     "lat": 31.3933637,
+     "lon": 34.7546784,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Azazme area",
+     "lat": 31.1627515,
+     "lon": 34.8183841,
+     "note": "Approximate: Nominatim point for the Azazme area; the compound is not mapped"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-negev-yafa-incitement-indictment",
+   "section": "negev",
+   "headline": "North: Yafa an-Naseriyye man indicted for online posts praising Sinwar and Yassin and calling for \"fighting and jihad\"",
+   "summary": "The Northern District prosecution was due to indict a resident of Yafa an-Naseriyye, near Nazareth, on Friday for serious incitement on social media, Channel 14 reports. The charge sheet says he posted tributes to terror leaders including Yahya Sinwar and Ahmed Yassin with explicit calls to continue \"fighting and jihad\" against Israel, praised terrorists who attacked civilians and security forces, and reshared a Hamas post celebrating the deaths of Maj. Yaniv Kula and 2nd Lt. Itay Yaavetz. Prosecutors are asking that he be held until the end of proceedings (<a href=\"https://www.c14.co.il/article/1787244\">Channel 14</a>). Single-source; the court file was not checked.",
+   "source": "Channel 14",
+   "date": "2026-11-13",
+   "url": "https://www.c14.co.il/article/1787244",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "Yafa an-Naseriyye",
+     "lat": 32.6865923,
+     "lon": 35.2772128,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-14-negev-lash-ettinger-moran-tal",
+   "section": "negev",
+   "headline": "From the right: Ayelet Lash posts an Arab wedding chant of \"we are the masters of the land\"; Meir Ettinger says Haaretz left out a doctor's Islamic Movement role; Moran Tal on Mansour Abbas",
+   "summary": "Activist Ayelet Lash posted video she says was filmed at an Arab wedding on Thursday in which guests chant \"we are the masters of the land,\" asking \"what definition is there for this other than enemies?\" (<a href=\"https://x.com/ayeletlash9/status/2121159072376361215\">Ayelet Lash</a>); the place of the wedding is not given and the video was not checked. Meir Ettinger wrote that a Haaretz feature about a doctor hid from readers that he is a very senior Islamic Movement activist, a former head of the movement's national youth department and the son of a former head of the movement in Rahat (<a href=\"https://x.com/meiretingr/status/2121206989820936469\">Meir Ettinger</a>); the Haaretz piece and his claims about the doctor were not checked. Moran Tal posted a clip she says shows Mansour Abbas speaking while already a Knesset member, and wrote that \"for Mansour Abbas, Erdogan represents a democratic model\" (<a href=\"https://x.com/MoranT555/status/2121198660142678517\">Moran Tal</a>; <a href=\"https://x.com/MoranT555/status/2121199825714618560\">Moran Tal</a>). These are their own posts and claims.",
+   "source": "Ayelet Lash / Meir Ettinger / Moran Tal",
+   "date": "2026-11-13",
+   "url": "https://x.com/ayeletlash9/status/2121159072376361215",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026"
+  },
+  {
+   "id": "2026-11-14-land-activist-pa-claims-1114",
+   "section": "land",
+   "headline": "Activist and PA claims: Ynet says youths from the Te'ena outpost wrecked a new Susya security system; PA governor protests Bustanei Hefetz; tent reported on the al-Mughayyir plain",
+   "summary": "Ynet reports that last week youths from the Te'ena outpost in Wadi Rahim, next to Susya, damaged power boxes and tore cables of a new security system worth hundreds of thousands of shekels that was about to start protecting Susya; police are investigating and have collected camera footage, including from Palestinian homes nearby. The outpost has been cleared several times recently, most recently on Thursday evening (<a href=\"https://www.ynet.co.il/news/article/r1ovriqcfg\">Ynet</a>); no suspect has been named. The PA's Tulkarm governor, Abdullah Kamil, said the Bustanei Hefetz industrial zone (see the 13 November item) continues \"settlement projects\" against Palestinians, and Ultra Palestine claims its 800 dunams were taken by a Central Command military order (<a href=\"https://x.com/palestineultra/status/2121312928142156021\">Ultra Palestine</a>). Ultra Palestine also reports that settlers pitched a tent on the eastern al-Mughayyir plain, northeast of Ramallah, in an area the army has declared a closed military zone, and that two brothers in Sur Baher, in Jerusalem, were made to tear down their own homes, built without permits (<a href=\"https://x.com/palestineultra/status/2121182973219193115\">Ultra Palestine</a>; <a href=\"https://x.com/palestineultra/status/2121217783228764511\">Ultra Palestine</a>). These are Palestinian claims not confirmed by an Israeli source. B'Tselem's website blocked automated reading again, and its X account and Basel Adra's had no new posts.",
+   "source": "Ynet / Ultra Palestine / PA Tulkarm governor",
+   "date": "2026-11-13",
+   "url": "https://www.ynet.co.il/news/article/r1ovriqcfg",
+   "edition": "2026-11-14",
+   "published": "2026-11-14T05:00:00+02:00",
+   "letter": "PA security: 14 Nov 2026",
+   "places": [
+    {
+     "name": "Susya (Te'ena outpost nearby)",
+     "lat": 31.3919471,
+     "lon": 35.1135364,
+     "note": "Nominatim point for Susya; the outpost is not mapped"
+    },
+    {
+     "name": "al-Mughayyir",
+     "lat": 32.0198067,
+     "lon": 35.346234,
+     "note": "Approximate: village point (Nominatim); the tent site on the plain is not mapped"
+    }
+   ]
+  },
+  {
    "id": "2026-11-13-land-kfar-tarfon-demolition",
    "section": "land",
    "lead": true,

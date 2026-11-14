@@ -1,6 +1,656 @@
 {
  "editions": [
   {
+   "date": "2026-11-14",
+   "read_at": "2026-11-14T04:15:00+02:00 to 04:45 Israel time",
+   "intro": "A four-hour nationwide ground stop on U.S. flights leads the New York Times, the Washington Post, the BBC, the Guardian, The Times, the Times of Israel and ynet this morning. Readers are also clicking on the “miracle on the Mississippi” riverboat rescue in New Orleans, which tops the BBC most-read list.",
+   "cover": "A nationwide ground stop that halted U.S. flights for more than four hours leads almost everywhere this morning: the New York Times and the Washington Post open with it, and so do both BBC homepages, both Guardian editions, The Times of London, the Times of Israel and ynet. It also tops the NYT trending list and the Guardian’s most-viewed list. The BBC most-read list is led by the rescue of everyone aboard a riverboat hit by a tanker in New Orleans; the Post’s is led by a Carolyn Hax advice chat. Russia’s renewed demand that NATO pull back, the Microsoft outage and the Nvidia fallout follow. Away from the news, the race for the next James Bond, Netflix’s Russell Brand documentary and Mauricio Pochettino’s tearful move to Manchester United are getting big play.",
+   "leading": [
+    {
+     "headline": "FAA lifts ground stop at U.S. airports",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/",
+     "text": "Thousands of aircraft were halted for more than four hours because of what officials called a temporary telecommunications outage; the NYT says the transportation secretary blamed old equipment that was overloaded during an upgrade, and the homeland security secretary saw no sign yet of a cyberattack.",
+     "ranks": "Leads: NYT, WaPo, BBC (UK and international), Guardian (UK and international), The Times, Times of Israel, ynet. Most read: NYT trending No. 1, Guardian No. 1 and No. 5, WaPo No. 2.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+      },
+      {
+       "outlet": "ynet (Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/bkkzkgrage"
+      }
+     ]
+    },
+    {
+     "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo",
+     "text": "A tanker crashed into a docked riverboat in New Orleans; the BBC says 32 people are in the hospital with injuries that are not critical and no one is unaccounted for.",
+     "ranks": "Top 5: BBC UK (No. 2), Guardian international (No. 4 in the news block). On the front: The Times, WaPo, ynet. Most read: BBC No. 1, Guardian No. 2 and No. 3, NYT trending No. 5.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/us/news-today/article/new-orleans-boat-crash-cruise-ship-sink-b9hdl7chx"
+      }
+     ]
+    },
+    {
+     "headline": "Russia Revives Demand That NATO Pull Back Troops to Secure Ukraine Deal",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html",
+     "text": "The NYT says Russian officials took a hard line in closed-door talks, putting European security at the heart of the negotiations, as Europe agreed on a team to represent it in the talks.",
+     "ranks": "Top 10: NYT (No. 8 and No. 9). Top 5: BBC international (No. 2). On the front: Guardian international, WaPo. Most read: NYT trending No. 6, BBC international No. 2.",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.com/news/articles/cq39glwprknjo"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/13/europeans-decide-thorny-question-who-will-speak-bloc-ukraine-talks/"
+      }
+     ]
+    },
+    {
+     "headline": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o",
+     "text": "Experts quoted by the BBC call it a reminder of how much the world relies on a few big tech companies; the Post says service was coming back online.",
+     "ranks": "Top 5: Guardian UK (No. 4) and international (No. 3), Times of Israel (No. 3). On the front: BBC, The Times, WaPo. Not in today’s most-read lists.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/technology/2026/11/13/microsoft-races-address-outage-affecting-users-around-world/"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html"
+      }
+     ]
+    },
+    {
+     "headline": "Police investigating David Walliams over reports alleging serious sexual offences",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o",
+     "text": "London’s Metropolitan Police say these allegations against the comedian and children’s author are separate from those reported by ITV and the Guardian earlier this week; The Times says the BBC has dropped “Room on the Broom” over the allegations.",
+     "ranks": "Top 5: Guardian UK (No. 2), The Times (No. 2), BBC UK (No. 5). Most read: BBC No. 4 and No. 5 (UK), No. 4 (international).",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/crime/article/david-walliams-allegations-met-police-l6t8kxfkm"
+      }
+     ]
+    },
+    {
+     "headline": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo",
+     "text": "The U.S. military reported no injuries or damage at the British air base; the Times of Israel says it was the third threat to American warplanes in Britain in recent weeks.",
+     "ranks": "Top 5: BBC UK (No. 3), Guardian UK (No. 3), Times of Israel (No. 2). On the front: The Times. Most read: BBC UK No. 2, BBC international No. 6.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/defence/article/raf-lakenheath-drone-threat-us-iran-9xnh2jkz9"
+      },
+      {
+       "outlet": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/us-air-force-says-it-dealt-with-unauthorized-drone-activity-over-uk-airbase/"
+      }
+     ]
+    },
+    {
+     "headline": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/",
+     "text": "The Post says Rubio’s intervention helped topple Nvidia’s chief, while the NYT runs an opinion column saying Commerce Secretary Howard Lutnick must go and the Guardian reports Trump bought Nvidia stock while helping the company.",
+     "ranks": "Top 3: WaPo (No. 2). On the front: NYT (Nos. 10 to 12), BBC, Guardian international. Most read: NYT trending No. 3 and No. 7 (both opinion), WaPo No. 3 (Musk backs Huang’s return), Guardian No. 6.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+      }
+     ]
+    },
+    {
+     "headline": "Rep. Lauren Boebert ousted in Colorado’s conservative 4th District",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/politics/2026/11/13/lauren-boebert-loses-colorado-4th-district-election-eileen-laubacher/",
+     "text": "Democrat Eileen Laubacher, a retired Navy rear admiral, unseated the Trump ally in a deeply Republican district.",
+     "ranks": "On the front: WaPo, NYT (feed). Most read: NYT trending No. 4, Guardian No. 4.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado"
+      }
+     ]
+    }
+   ],
+   "most_read": [
+    {
+     "outlet": "The New York Times",
+     "list": "nytimes.com trending list (signed-in browser read about 04:20)",
+     "items": [
+      {
+       "headline": "Live Updates: F.A.A. Says Nationwide Ground Stop Is Over",
+       "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa"
+      },
+      {
+       "headline": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
+       "url": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html"
+      },
+      {
+       "headline": "I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.",
+       "url": "https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html"
+      },
+      {
+       "headline": "Lauren Boebert, a MAGA Favorite, Loses Her Re-election Bid in Colorado",
+       "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html"
+      },
+      {
+       "headline": "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+       "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html"
+      }
+     ]
+    },
+    {
+     "outlet": "The Washington Post",
+     "list": "homepage “Most Read” box",
+     "items": [
+      {
+       "headline": "Carolyn Hax chat: I don’t want to go home for Christmas. Do I tell my family why?",
+       "url": "https://www.washingtonpost.com/advice/2026/11/13/carolyn-hax-live-chat-85078/"
+      },
+      {
+       "headline": "FAA lifts ground stop at U.S. airports",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/"
+      },
+      {
+       "headline": "Musk joins calls for Jensen Huang to be reinstated as CEO of Nvidia",
+       "url": "https://www.washingtonpost.com/business/2026/11/13/musk-joins-calls-jensen-huang-be-reinstated-ceo-nvidia/"
+      },
+      {
+       "headline": "4 reasons to eat dark chocolate every day, according to science",
+       "url": "https://www.washingtonpost.com/wellness/2026/11/13/4-reasons-eat-dark-chocolate-every-day-according-science/"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC",
+     "list": "bbc.co.uk/news “Most read”",
+     "items": [
+      {
+       "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+       "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
+      },
+      {
+       "headline": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+       "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo"
+      },
+      {
+       "headline": "Goalkeeper involved in fatal collision gets 12-game ban",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko"
+      },
+      {
+       "headline": "Police investigating David Walliams over reports alleging serious sexual offences",
+       "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o"
+      },
+      {
+       "headline": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
+       "url": "https://www.bbc.co.uk/news/articles/cx4gn4y1q906o"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "list": "most viewed",
+     "items": [
+      {
+       "headline": "US flight outage live updates: FAA lifts nationwide ground stop as Trump officials holds press briefing",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+      },
+      {
+       "headline": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+       "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+      },
+      {
+       "headline": "New Orleans boat crash: all passengers and crew found alive in ‘miracle on the Mississippi’ – as it happened",
+       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates"
+      },
+      {
+       "headline": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+       "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado"
+      },
+      {
+       "headline": "US aviation agency lifts nationwide ground stop affecting all air travel",
+       "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+      }
+     ]
+    }
+   ],
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "home": "https://www.nytimes.com/",
+     "para": "The Times opens with a live page on the lifted ground stop and three more travel pieces, then side-column features (a vintage bus fleet, a Jude Bellingham billboard, the best illustrated children’s books) before Russia’s demand on NATO, Europe’s negotiating team and the Nvidia fallout. Order from a signed-in browser read of the homepage at about 04:20.",
+     "items": [
+      {
+       "headline": "F.A.A. Lifts Nationwide Ground Stop",
+       "url": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa"
+      },
+      {
+       "headline": "Airports Fill Up With Stuck Families and Stranded Travelers",
+       "url": "https://www.nytimes.com/2026/11/13/us/airports-stranded-travelers.html"
+      },
+      {
+       "headline": "Here’s What Happens if Your Flight Is Canceled",
+       "url": "https://www.nytimes.com/2026/11/13/us/ground-stop-flight-delays-cancellations-tips.html"
+      },
+      {
+       "headline": "Russia Revives Demand That NATO Pull Back Troops to Secure Ukraine Deal",
+       "url": "https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html"
+      },
+      {
+       "headline": "Europe Agrees on a Team to Represent It in Talks With Russia",
+       "url": "https://www.nytimes.com/2026/11/13/world/europe/europe-ukraine-talks-russia.html"
+      }
+     ]
+    },
+    {
+     "name": "The Washington Post",
+     "home": "https://www.washingtonpost.com/",
+     "para": "The Post leads with a breaking banner on the lifted ground stop and its toll on the sports calendar, then the Nvidia spy scandal, Trump’s planned first three-way meeting with Putin and Xi, and the Washington, D.C., shooting.",
+     "items": [
+      {
+       "headline": "FAA lifts ground stop at U.S. airports",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/"
+      },
+      {
+       "headline": "Teams scramble as disruption threatens to upend sports calendar",
+       "url": "https://www.washingtonpost.com/sports/2026/11/13/teams-scramble-faa-ground-stop-threatens-upend-sports-calendar/"
+      },
+      {
+       "headline": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China",
+       "url": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/"
+      },
+      {
+       "headline": "Musk joins calls for Huang to be reinstated as Nvidia CEO",
+       "url": "https://www.washingtonpost.com/business/2026/11/13/musk-joins-calls-jensen-huang-be-reinstated-ceo-nvidia/"
+      },
+      {
+       "headline": "Trump to have first trilateral meeting with Putin, Xi",
+       "url": "https://www.washingtonpost.com/politics/2026/11/13/trump-meet-with-putin-xi-jinping/"
+      }
+     ]
+    },
+    {
+     "name": "BBC",
+     "home": "https://www.bbc.com/news",
+     "para": "Both BBC homepages lead with a live page on U.S. flights resuming. The UK page follows with the New Orleans rescue, the Lakenheath drones and the Trump-Putin-Xi meeting; the international page with Steve Rosenberg on Putin’s demands and a setback for SpaceX’s Starship.",
+     "items": [
+      {
+       "headline": "US flights allowed to take off again as nationwide ground stop lifted but delays expected",
+       "url": "https://www.bbc.co.uk/news/live/c6z9dwn12037t"
+      },
+      {
+       "headline": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+       "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
+      },
+      {
+       "headline": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+       "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo"
+      },
+      {
+       "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+       "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+      },
+      {
+       "headline": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+       "url": "https://www.bbc.com/news/articles/cq39glwprknjo"
+      }
+     ]
+    },
+    {
+     "name": "The Guardian",
+     "home": "https://www.theguardian.com/international",
+     "para": "Both editions open with a four-piece package on the U.S. ground stop. The UK edition goes on to the Walliams investigation, the Lakenheath drones and Microsoft; the international edition to Eisenkot’s charge against Netanyahu, Microsoft and the New Orleans rescue.",
+     "items": [
+      {
+       "headline": "Nationwide FAA ground stop: nearly 11,000 flights delayed or cancelled at airports across the US",
+       "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+      },
+      {
+       "headline": "Police launch investigation into David Walliams over alleged serious sexual offences",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation"
+      },
+      {
+       "headline": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+       "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority"
+      },
+      {
+       "headline": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+      },
+      {
+       "headline": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+       "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+      }
+     ]
+    },
+    {
+     "name": "The Times",
+     "home": "https://www.thetimes.com/",
+     "para": "The Times leads with U.S. flights grounded, then two Walliams stories, a review of Netflix’s Russell Brand documentary, the Microsoft breakdown, the New Orleans rescue and the Lakenheath drones.",
+     "items": [
+      {
+       "headline": "US flights grounded in ‘extraordinary circumstances’",
+       "url": "https://www.thetimes.com/us/news-today/article/us-flights-grounded-extraordinary-circumstances-2xvjtxc6g"
+      },
+      {
+       "headline": "Walliams to be investigated over serious sexual offences claims",
+       "url": "https://www.thetimes.com/uk/crime/article/david-walliams-allegations-met-police-l6t8kxfkm"
+      },
+      {
+       "headline": "BBC axes ‘Room on the Broom’ over Walliams allegations",
+       "url": "https://www.thetimes.com/uk/media/article/bbc-axes-room-broom-david-walliams-qw7976vzn"
+      },
+      {
+       "headline": "Netflix’s Russell Brand documentary shows the value of fact-finding journalism",
+       "url": "https://www.thetimes.com/culture/tv-radio/article/russell-brand-open-secret-review-netflix-676c9q3fl"
+      },
+      {
+       "headline": "Microsoft breakdown ‘shows Britain’s lack of digital resilience’",
+       "url": "https://www.thetimes.com/world/australasia/article/microsoft-servers-down-across-australia-kpqdm80bq"
+      }
+     ]
+    },
+    {
+     "name": "The Times of Israel",
+     "home": "https://www.timesofisrael.com/",
+     "para": "The Times of Israel leads with the U.S. ground stop, then the Lakenheath drones, Microsoft and Rubio saying there is no need for more strikes on Iran; its first Israeli story is a report that the Mossad chief is in Washington for Iran talks.",
+     "items": [
+      {
+       "headline": "All departing US flights grounded for several hours amid air traffic control comms failure",
+       "url": "https://www.timesofisrael.com/us-grounds-all-departing-flights-amid-comms-failure-at-air-traffic-control-centers/"
+      },
+      {
+       "headline": "US Air Force says it dealt with ‘unauthorized drone activity’ over UK airbase",
+       "url": "https://www.timesofisrael.com/us-air-force-says-it-dealt-with-unauthorized-drone-activity-over-uk-airbase/"
+      },
+      {
+       "headline": "Rubio: ‘No need’ for further strikes on Iran because the economic pain ‘is so great’",
+       "url": "https://www.timesofisrael.com/liveblog-november-14-2026/"
+      },
+      {
+       "headline": "Report: Mossad chief in US for talks on Iran; Netanyahu didn’t update Eisenkot on visit",
+       "url": "https://www.timesofisrael.com/mossad-chief-in-us-for-talks-on-iran-netanyahu-didnt-update-eisenkot-on-visit-report/"
+      },
+      {
+       "headline": "Trump admin aims to maintain Israel aid in coming years, despite US president’s claim otherwise",
+       "url": "https://www.timesofisrael.com/trump-admin-aims-to-maintain-israel-aid-in-coming-years-despite-us-presidents-claim-otherwise/"
+      }
+     ]
+    },
+    {
+     "name": "ynet (Hebrew)",
+     "home": "https://www.ynet.co.il/",
+     "para": "ynet’s top slot is the U.S. flight chaos, then Biden’s memoir attack on Netanyahu and the Spanish goalkeeper banned after a fatal collision; coalition talks come further down.",
+     "items": [
+      {
+       "headline": "Chaos in U.S. skies: a huge fault stopped takeoffs, about 15,000 flights disrupted (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/bkkzkgrage"
+      },
+      {
+       "headline": "Biden against Netanyahu: “He promised things he did not mean to keep, he cared about himself and not Israel” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/r12zaaecfl"
+      },
+      {
+       "headline": "The goalkeeper who caused a striker’s death in Spain got the maximum penalty (in Hebrew)",
+       "url": "https://www.ynet.co.il/sport/worldsoccer/article/bjf6ybhafx"
+      },
+      {
+       "headline": "The Israeli inventions that changed medicine (in Hebrew)",
+       "url": "https://www.ynet.co.il/health/article/bkgidatpfe"
+      },
+      {
+       "headline": "Gal Gadot: “I am afraid of the hatred spreading against Jews” (in Hebrew)",
+       "url": "https://www.ynet.co.il/entertainment/article/s100v6aeczg"
+      }
+     ]
+    }
+   ],
+   "israel": {
+    "para": "In Israel, both the Times of Israel and ynet lead with the U.S. ground stop. The Times of Israel’s first Israeli stories are the Mossad chief’s Washington trip and the Netanyahu-Eisenkot security briefing; ynet puts Biden’s memoir attack on Netanyahu second and coalition talks lower down. Abroad, the Guardian’s international edition puts Eisenkot’s charge of a “racist” campaign against Arab citizens second in its news block (fifth in the UK edition). The NYT and the Post cover Biden’s memoir, which the NYT review says defends his embrace of Israel’s war in Gaza. No Israel story is near the top at the BBC or The Times.",
+    "items": [
+     {
+      "headline": "Biden against Netanyahu: “He promised things he did not mean to keep, he cared about himself and not Israel” (in Hebrew)",
+      "outlet": "ynet (Hebrew)",
+      "url": "https://www.ynet.co.il/news/article/r12zaaecfl",
+      "text": "ynet says the former president’s new memoir accuses Netanyahu of repeatedly breaking promises and putting his political survival ahead of Israel’s future."
+     },
+     {
+      "headline": "Report: Mossad chief in US for talks on Iran; Netanyahu didn’t update Eisenkot on visit",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/mossad-chief-in-us-for-talks-on-iran-netanyahu-didnt-update-eisenkot-on-visit-report/",
+      "text": "Roman Gofman is said to be meeting the CIA chief and Steve Witkoff; ynet, citing Axios, says he is pushing to resume the war with Iran."
+     },
+     {
+      "headline": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+      "text": "The Guardian calls it a rare case of a leading Jewish politician taking a strong stand for Arab Israelis; the Times of Israel also carries it."
+     },
+     {
+      "headline": "Negotiators from US, Iran and Qatar fear Netanyahu could torpedo talks to end the war",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/negotiators-from-us-iran-and-qatar-fear-netanyahu-could-torpedo-talks-to-end-the-war/",
+      "text": "Officials tell the paper all sides worry the prime minister could act, with or without Trump’s approval, in a way that restarts the fighting."
+     },
+     {
+      "headline": "Trump admin aims to maintain Israel aid in coming years, despite US president’s claim otherwise",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/trump-admin-aims-to-maintain-israel-aid-in-coming-years-despite-us-presidents-claim-otherwise/",
+      "text": "Officials tell the paper aid will not be cut right away, as Trump had suggested."
+     },
+     {
+      "headline": "Book Review: ‘Promise Me, America,’ by Joe Biden",
+      "outlet": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html",
+      "text": "The NYT review says the memoir defends Biden’s decision to run again and his embrace of Israel’s war in Gaza."
+     }
+    ]
+   },
+   "culture": [
+    {
+     "headline": "Robert Pattinson reportedly leads James Bond contenders",
+     "outlet": "The Guardian; also The Times and Israel Hayom",
+     "url": "https://www.theguardian.com/film/2026/nov/13/robert-pattinson-reportedly-leads-james-bond-contenders",
+     "text": "As Amazon MGM prepares to name the next 007, the Guardian says reports that Pattinson was offered good contract terms make him the favorite of five finalists; the story is No. 10 on its most-viewed list.",
+     "section": "Movies"
+    },
+    {
+     "headline": "‘Russell Brand: Open Secret’ on Netflix: 7 Takeaways",
+     "outlet": "The New York Times; also The Times",
+     "url": "https://www.nytimes.com/2026/11/13/movies/russell-brand-netflix-open-secret-takeaways.html",
+     "text": "The documentary, released Friday, includes interviews with former partners; The Times reviews it on its homepage.",
+     "section": "TV"
+    },
+    {
+     "headline": "Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
+     "text": "Heirs say “Blossoming Chestnut Trees” was sold under duress in the Nazi era; the story is on the NYT homepage and its trending list.",
+     "section": "Art"
+    },
+    {
+     "headline": "Book Review: ‘Promise Me, America,’ by Joe Biden",
+     "outlet": "The New York Times; also WaPo and ynet",
+     "url": "https://www.nytimes.com/2026/11/13/books/review/promise-me-america-joe-biden.html",
+     "text": "The former president’s memoir defends his decision to seek a second term, the NYT says.",
+     "section": "Books"
+    },
+    {
+     "headline": "4 reasons to eat dark chocolate every day, according to science",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/wellness/2026/11/13/4-reasons-eat-dark-chocolate-every-day-according-science/",
+     "text": "Anahad O’Connor’s column on the research behind dark chocolate’s health benefits is No. 4 on the Post’s most-read list.",
+     "section": "Food and health"
+    },
+    {
+     "headline": "Gal Gadot, in tears: “I am afraid of the hatred spreading against Jews” (in Hebrew)",
+     "outlet": "ynet (Hebrew); also the Times of Israel",
+     "url": "https://www.ynet.co.il/entertainment/article/s100v6aeczg",
+     "text": "The actress spoke at a Simon Wiesenthal Center event; ynet carries it on its homepage.",
+     "section": "Israeli celebrities"
+    },
+    {
+     "headline": "“The Hoarder” named play of the year at the Golden Hedgehog awards; lifetime award to Sinai Peter (in Hebrew)",
+     "outlet": "Haaretz Galeria (Hebrew)",
+     "url": "https://www.haaretz.co.il/gallery/theater/2026-11-13/ty-article/000001a1-d1c8-dfd7-a7a3-d3fdf91e0000",
+     "text": "The play by Sarah Siegel and Lior Pinsky also won for directing and playwriting at the Israeli theater prizes, Haaretz says.",
+     "section": "Theater"
+    },
+    {
+     "headline": "66 years on, with Yehoram Gaon and Ilanit: the Song Festival returns (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/ryzwguqazl",
+     "text": "A tribute show to the old Israel Song Festival will be held on Dec. 1 at Tel Aviv’s Heichal HaTarbut, ynet says.",
+     "section": "Music"
+    }
+   ],
+   "sports": [
+    {
+     "headline": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o",
+     "text": "Mauricio Pochettino broke down as he explained leaving the U.S. men’s team for Manchester United; it leads BBC Sport and is high on Guardian Sport and in WaPo sports.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/sports/2026/11/13/mauricio-pochettino-leaves-us-mens-soccer-coach-manchester-united/"
+      }
+     ]
+    },
+    {
+     "headline": "Teams scramble as FAA ground stop threatens to upend sports calendar",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/sports/2026/11/13/teams-scramble-faa-ground-stop-threatens-upend-sports-calendar/",
+     "text": "College football teams were grounded while NFL, NBA and NHL teams planned flights for Friday night or Saturday; The Athletic leads with a live page on it.",
+     "also": [
+      {
+       "outlet": "The Athletic",
+       "url": "https://www.nytimes.com/athletic/live-blogs/faa-nationwide-ground-stop-flight-delays-cancellations-sports-college-teams-travel-updates/fSxpSclAr79u/"
+      }
+     ]
+    },
+    {
+     "headline": "A cricketing drama to divide a nation: why the sandpaper scandal is Australia’s Bazball",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/sport/2026/nov/13/sandpaper-affair-australia-pat-cummins-cricket-england-scandal",
+     "text": "Guardian Sport leads with the fallout from Pat Cummins’ news conference on the ball-tampering affair; BBC Sport rounds up how Australian papers reacted.",
+     "opinion": true,
+     "also": [
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo"
+      }
+     ]
+    },
+    {
+     "headline": "France hold nerve to edge past South Africa in thriller",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o",
+     "text": "France won 21-19 in Paris, ending a five-match losing run against South Africa at the Stade de France.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report"
+      }
+     ]
+    },
+    {
+     "headline": "Goalkeeper involved in fatal collision gets 12-game ban",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko",
+     "text": "Spain’s football federation suspended Jesús Owono after his challenge led to the death of Jesús de Miguel; it is No. 3 on the BBC most-read list and No. 3 on ynet’s homepage.",
+     "also": [
+      {
+       "outlet": "ynet (Hebrew)",
+       "url": "https://www.ynet.co.il/sport/worldsoccer/article/bjf6ybhafx"
+      }
+     ]
+    }
+   ],
+   "unread": [
+    {
+     "outlet": "The Telegraph",
+     "tried": "telegraph.co.uk with curl returned an “Access Issue” page (unusual-activity block)."
+    },
+    {
+     "outlet": "Times of Israel homepage and arts and culture section",
+     "tried": "curl to the homepage and to /arts-and-culture/ got a Cloudflare challenge page; WebFetch read the homepage in order (used here, links matched to the RSS feed), but /arts-and-culture/ returned 404 to WebFetch. Its culture items were taken from the homepage’s culture box and the RSS feed."
+    },
+    {
+     "outlet": "Walla culture (e.walla.co.il) and Mako entertainment",
+     "tried": "Both pages loaded (HTTP 200) but list no article links in the HTML (the lists load by script); used ynet, Haaretz Galeria and Israel Hayom instead."
+    },
+    {
+     "outlet": "ynet culture page (ynet.co.il/culture)",
+     "tried": "Returns ynet’s error page; used ynet.co.il/entertainment."
+    },
+    {
+     "outlet": "Most-read lists for The Times, Times of Israel and ynet",
+     "tried": "None found in the pages read."
+    }
+   ],
+   "method": "Read 04:15–04:45 Israel time. NYT homepage order and trending list from a signed-in browser read of nytimes.com at about 04:20 (the browser used the box’s own network because the user’s computer is offline); the NYT homepage RSS feed was used only to check descriptions. The rest with curl: WaPo homepage and Most Read box and The Times homepage through the r.jina.ai reader; BBC UK and international homepages and Most read; Guardian UK and international fronts and the most-viewed feed; Times of Israel homepage through WebFetch plus its RSS feed; ynet homepage and entertainment page, Haaretz Galeria and Israel Hayom culture from their pages; sections from RSS feeds plus BBC Sport, Guardian Sport and The Athletic. Front pages: not refreshed by this worker; build_msm.py runs msm/fetch_frontpages.py at build time. At about 04:40 the NYT 14 Nov page (Freedom Forum) and the Guardian and FT 14 Nov pages (Paperboy) were not yet posted (404), and the WSJ 13 Nov page was the latest posted."
+  },
+  {
    "date": "2026-11-13",
    "read_at": "2026-11-13T04:10:00+02:00 to 04:35 Israel time",
    "intro": "Jensen Huang’s resignation as Nvidia’s chief executive leads the BBC, the Guardian, ynet and the New York Times this morning. The Washington Post leads with Chris Van Hollen’s challenge to Chuck Schumer, and readers are clicking on a global Microsoft outage and Trump ending Vance’s Iran talks.",
@@ -1911,5 +2561,5 @@
    "cover": "The big newsrooms split on what matters most today. The New York Times leads with the woman at the center of the Nvidia spy scandal, which is also No. 1 on the Times and Washington Post most-read lists. The Post leads with House Republicans blocking the Hegseth impeachment. In Britain, The Guardian and The Times lead with the allegations against David Walliams, which he denies, and the BBC's top stories include the arrest of a US Army soldier near Gloucester on suspicion of spying for Russia. The Times of Israel leads with Netanyahu's Knesset speech. Away from the news pages, M John Harrison became the first science fiction author to win the Booker Prize, Stacy Keach died at 85, and Paul McCartney became a billionaire."
   }
  ],
- "updated": "2026-11-13T04:40:00+02:00"
+ "updated": "2026-11-14T04:45:00+02:00"
 }
