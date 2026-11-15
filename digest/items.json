@@ -1068,6 +1068,10 @@
     "2026-11-14": {
       "intro": "Israel: Channel 13 reports that the joint investigation team told the election committee chair there is still no evidence of security offenses, and that Shin Bet chief Zini is unhappy with him; Eisenkot's team aims first at a 55-seat minority government with United Torah Judaism. Also: the US weighs a Sinai-style civilian mission to follow UNIFIL in south Lebanon; the White House confirms a Trump–Xi–Putin meeting in Shenzhen; Starship Flight 15 reaches orbit; Colombia votes with Israel at the UN; Greenland moves its clocks toward North America; and Fed chair Warsh will host Andreessen.",
       "quiet": "Nothing material on the Carney case, Trenton, HaShiloach (no new essay), UK breakup politics or non-Latin script digitization. Cypherboria: no new Net Void posts beyond reposts, no new @net__void TikTok video (still only the dark-mode clip), nothing new from @Mortal_Series, PHYTHAGRAM, Brandon Peterson, the Methexis/JCCRU page, Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro or jacquesvallee.net, and no new Land interview or podcast found. No new Israeli reaction to EUSM Lebanon and no new contributing country, no change to official election results, and no election appeal filing found."
+    },
+    "2026-11-15": {
+      "intro": "Israel: Netanyahu calls for a unity government \"without preconditions\" and Eisenkot calls it a bluff as their teams meet on Sunday; N12 reports the Shin Bet tried to recruit Joint List activists against Ra'am. Also: SpaceX catches a Starship upper stage for the first time; Cursor traces its October breach to a key exposed by Fireworks AI; Aoun says UNIFIL's renewal is Lebanon's priority; a new Elabe poll keeps Le Pen far ahead; Brazil's Supreme Court halts its online vote on the five-day week; and Quebec says it may vote apart from Canada at the Francophonie.",
+      "quiet": "Nothing material on the Carney case, HaShiloach (no new essay), Greenland (beyond the defense pact already covered), Colombia and Israel, Israeli data centers, Marc Andreessen (no posts) or non-Latin script digitization. No change to official Israeli election results and no appeal filing found; no new Israeli reaction to EUSM Lebanon and no new contributing country. Cypherboria: no new @net__void TikTok video, nothing new from @Mortal_Series, PHYTHAGRAM, the Methexis/JCCRU page, Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro or jacquesvallee.net, and nothing on theme from Colder Cybernetics, AmurakaHidden, 4dimensionapp or thenightshirt."
     }
   },
   "items": [
@@ -12403,6 +12407,362 @@
         {
           "name": "Substack: field note 001",
           "url": "https://resonatingloop.substack.com/p/agentic-field-note-001-the-examination"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-israel-election-1",
+      "edition": "2026-11-15",
+      "section": "israel-election",
+      "headline": "Netanyahu calls for a unity government \"without preconditions\"; Eisenkot calls it a bluff, rejects rotation, and the two teams meet on Sunday; Kahana's speaker vote is set for Tuesday",
+      "lead": "In a recorded statement on Saturday evening, 14 November, Prime Minister Benjamin Netanyahu (Likud) called on Gadi Eisenkot to form a national unity government \"without preconditions,\" including on the military draft, citing the threat from Iran; Eisenkot, who holds the mandate to form a government, called the statement \"spin\" and a \"bluff,\" ynet reported. The negotiating teams of Eisenkot's party, Yashar!, and Likud are due to meet on Sunday, 15 November.",
+      "text": "Eisenkot rejects a rotation of the prime minister's post and will not negotiate with Itamar Ben Gvir's Otzma Yehudit; Arab48, citing Israeli reports, says he will offer Netanyahu a unity government without rotation. ynet reported that people around Netanyahu say rotation could be discussed, and that a Likud minister says Netanyahu would insist on serving first, in part to be positioned for the presidency in May 2028 (unnamed sources). ynet's analysis describes three tracks Eisenkot is running at once: with the Haredi parties, with the Arab parties on Knesset votes, and with Likud, and calls Sunday's meeting \"mainly symbolic.\" Finance Minister Bezalel Smotrich joined the call for unity, and Likud MK Elisha Madan set up a \"unity tent\" outside the Knesset, joined by MK Itamar Itam, according to Arutz Sheva reporter Hezki Baruch on X. The Knesset is to elect Matan Kahana (Yashar!) as speaker on Tuesday, 17 November, replacing Amir Ohana, and Avigdor Liberman is to replace Boaz Bismuth as chair of the Foreign Affairs and Defense Committee, ynet reported. No change to the official results and no Likud appeal filing was found.",
+      "sources": [
+        {
+          "name": "Hebrew: ynet, Netanyahu's statement and Eisenkot's reply",
+          "url": "https://www.ynet.co.il/news/article/b19v4mirfe"
+        },
+        {
+          "name": "Hebrew: ynet, analysis of the three tracks",
+          "url": "https://www.ynet.co.il/news/article/rksmzs8cml"
+        },
+        {
+          "name": "Arabic: Arab48, unity without rotation",
+          "url": "https://www.arab48.com/إسرائيليات/أخبار/2026/11/14/نتنياهو-يجدد-دعوته-إلى-آيزنكوت-لتشكيل-حكومة-وحدة-من-دون-شروط-مسبقة-"
+        },
+        {
+          "name": "Arabic: Panet",
+          "url": "https://panet.com/story/4312564"
+        },
+        {
+          "name": "X: Hezki Baruch, unity tent",
+          "url": "https://x.com/HezkeiB/status/2121665282829861354"
+        },
+        {
+          "name": "X: Hezki Baruch, Smotrich",
+          "url": "https://x.com/HezkeiB/status/2121650955854717311"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-israel-election-interference-watch",
+      "edition": "2026-11-15",
+      "section": "israel-election",
+      "headline": "N12: the Shin Bet summoned Joint List activists and, they say, tried to recruit them for information against Ra'am; the Shin Bet calls it a lawful step in its review of suspected foreign influence",
+      "lead": "N12 (Channel 12's news site) reported late on Saturday, 14 November, that in recent days the Shin Bet summoned activists of the Joint List; the activists say the questioning was not about them, and that the investigator tried to recruit them to give information against Ra'am, the Islamist Arab party, at one point invoking an activist's Christian identity against \"Islamists.\" The Shin Bet told N12 this is a lawful method within its review of suspected subversion and foreign influence in the election.",
+      "text": "Ra'am said attempts to smear it will fail, as did the election-day arrest of three of its activists, and that it will cooperate fully under the guidelines of the election committee chair and the attorney general; the Joint List said the Shin Bet has become a political tool of the government. All of this rests on the parties' and the activists' accounts as reported by N12; no court filing or indictment exists. For context, defense commentator Alon Ben David wrote in a Maariv opinion column on 14 November that intelligence pointed to about $3 million from Qatar to the Joint List and to cash handed out in Arab communities, but that the Shin Bet has found no link between the two; that committee chair Justice Noam Sohlberg approved opening an investigation; that the attorney general refused to allow questioning of elected officials or \"draconian\" tools; and that prosecutors and police doubt there is a serious security case (a columnist's account based on unnamed sources).",
+      "sources": [
+        {
+          "name": "Hebrew: N12 (mako)",
+          "url": "https://www.mako.co.il/news-politics/2026_q4/Article-05b2d5774abd1a1027.htm"
+        },
+        {
+          "name": "Hebrew: Maariv, Alon Ben David (opinion)",
+          "url": "https://www.maariv.co.il/news/opinions/article-1387933"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-lebanon-1",
+      "edition": "2026-11-15",
+      "section": "lebanon",
+      "headline": "Aoun tells the UN that renewing UNIFIL is Lebanon's priority and that Resolution 1701 must remain the legal basis of any follow-on mission; information minister says a solution may take shape within days",
+      "lead": "President Joseph Aoun told UN Deputy Secretary-General Amina Mohammed on Saturday, 14 November, that Lebanon's priority is renewing UNIFIL's mandate, that it is open to an alternative mechanism under the UN umbrella, and that Security Council Resolution 1701 must remain the legal basis for any future arrangement, LBCI reported.",
+      "text": "Information Minister Paul Morcos said the outline of a solution to fill any gap after UNIFIL may become clear \"within hours or days,\" according to a post by the Lebanese daily Al-Akhbar on X. No new Israeli reaction to the planned European mission (EUSM) and no new contributing country was found.",
+      "sources": [
+        {
+          "name": "LBCI",
+          "url": "https://www.lbcgroup.tv/news/lebanon-news/967967/aoun-unifils-mandate-must-be-renewed-with-resolution-1701-remaining-th/en"
+        },
+        {
+          "name": "Arabic: MTV Lebanon",
+          "url": "https://www.mtv.com.lb/news/1758272"
+        },
+        {
+          "name": "X: Al-Akhbar, Morcos",
+          "url": "https://x.com/AlakhbarNews/status/2121638310837645769"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-lebanon-2",
+      "edition": "2026-11-15",
+      "section": "lebanon",
+      "headline": "Sweida and Jaramana: a hand grenade damages shops in Sweida city; a bomb in a car kills a man and a girl in Jaramana near Damascus",
+      "lead": "A bomb planted in a car exploded on Saturday evening, 14 November, in Jaramana, a Damascus suburb with a large Druze population, killing a man and a girl, according to Syria's Internal Security forces as quoted by the state agency SANA via Independent Arabia, which says one person was wounded (other reports say two). The blast was in the al-Nasim neighborhood near a battery factory, according to reports; no one has claimed it and the cause is under investigation.",
+      "text": "In Sweida city, an unknown person threw a hand grenade on the Qanawat road at about 4 a.m. on 14 November, damaging shop fronts, according to the local news network Suwayda24 (single local source; the Syrian Observatory's report on the blast cites \"conflicting accounts\" but its page could not be opened).",
+      "sources": [
+        {
+          "name": "Arabic: Independent Arabia, Jaramana",
+          "url": "https://www.independentarabia.com/node/662861/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B9%D8%A8%D9%88%D8%A9-%D9%85%D8%B2%D8%B1%D9%88%D8%B9%D8%A9-%D8%AF%D8%A7%D8%AE%D9%84-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%AC%D8%B1%D9%85%D8%A7%D9%86%D8%A7"
+        },
+        {
+          "name": "X: Suwayda24, Qanawat road",
+          "url": "https://x.com/suwayda24/status/2121542880057524467"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-france-election-1",
+      "edition": "2026-11-15",
+      "section": "france-election",
+      "headline": "Elabe: Le Pen 31–33%, Mélenchon up to 18.5%, Philippe and Glucksmann slip, Riner at 4.5% in one scenario; Le Pen wins every runoff tested",
+      "lead": "An Elabe poll for BFMTV and La Tribune Dimanche of 1,500 people (1,391 registered voters), taken online on 12–13 November and published 14 November, gives Marine Le Pen 31–33% depending on the scenario, Jean-Luc Mélenchon 17–18.5%, Édouard Philippe 12–15% (9.5% in the most crowded field; down 1.5 points), Raphaël Glucksmann 10.5–14% (down 2–2.5 points), David Lisnard 8–10.5%, Gabriel Attal 4–10%, Bruno Retailleau 4–9%, Éric Zemmour 3–4.5%, and Teddy Riner 4.5% in the one scenario that includes him (Le Parisien rounds this to 4%).",
+      "text": "In the runoff, Le Pen beats Philippe or Glucksmann 55–45 and Mélenchon 68.5–31.5. On Polymarket on the morning of 15 November, Le Pen stood at 47.35%, Lisnard at 16.5% (down from 18%), Mélenchon at 13.5%, Christine Lagarde at 7.5%, Philippe at 6.5% (up from 4.5%) and Riner at 1.85%.",
+      "sources": [
+        {
+          "name": "French: BFMTV, Elabe poll",
+          "url": "https://www.bfmtv.com/politique/elections/presidentielle/sondage-bfmtv-presidentielle-2027-jean-luc-melenchon-continue-sa-progression-teddy-riner-devant-gabriel-attal-dans-l-un-des-scenarios-testes_AN-202611140315.html"
+        },
+        {
+          "name": "French: Le Parisien, Elabe poll",
+          "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-marine-le-pen-large-favorite-des-deux-tours-selon-dun-nouveau-sondage-teddy-riner-credite-de-4-14-11-2026-ZLZO7KJKCNGVHGZGY4HJNTZXGU.php"
+        },
+        {
+          "name": "Polymarket",
+          "url": "https://polymarket.com/event/next-french-presidential-election"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-france-election-2",
+      "edition": "2026-11-15",
+      "section": "france-election",
+      "headline": "Larcher asks Philippe, Lisnard, Retailleau and Attal to agree on how to pick one candidate early next year; former health minister Braun quits Riner's campaign after six days",
+      "lead": "Senate President Gérard Larcher (Les Républicains) invited Édouard Philippe, David Lisnard, Bruno Retailleau and Gabriel Attal to meet soon on a \"method of selection\" so that the right and center choose a single candidate early next year, in an appeal published by Le Parisien on 14 November.",
+      "text": "François Braun, health minister from July 2022 to July 2023, left Teddy Riner's campaign six days after Riner declared, Le Figaro reported. Headlines only (articles not opened): Le Monde reports Riner saying \"I'm not a Macronist\" and calling Macron's congratulations a \"poisoned kiss\"; franceinfo quotes the National Rally's Edwige Diaz saying the party still lacks \"about a hundred\" of the 500 sponsorships needed, while a Le Parisien headline says it has 400; and Le Parisien says Green leader Marine Tondelier is moving closer to withdrawing.",
+      "sources": [
+        {
+          "name": "French: Le Parisien, Larcher's appeal",
+          "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-lappel-de-gerard-larcher-aux-candidats-de-la-droite-et-du-centre-14-11-2026-UJHUKCFHEBDKZKWUDPPO7ZJBQE.php"
+        },
+        {
+          "name": "French: Le Figaro, Braun leaves",
+          "url": "https://www.lefigaro.fr/politique/a-peine-arrive-l-ex-ministre-de-la-sante-francois-braun-quitte-la-campagne-de-teddy-riner-20261114"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-brazil-1",
+      "edition": "2026-11-15",
+      "section": "brazil",
+      "headline": "Justice Fux moves the five-day work week case to the Supreme Court's in-person session, halting the online vote at 4–0; the 16 December start stays in force",
+      "lead": "Supreme Court Justice Luiz Fux on Saturday, 14 November, used a procedural request (a \"destaque\") to pull the case on the shift from a six-day to a five-day work week out of the court's online voting session and send it to the in-person session, which restarts the vote; Justices Alexandre de Moraes, Cármen Lúcia and Gilmar Mendes had followed rapporteur Flávio Dino, a 4–0 count short of the six votes needed, g1 and Poder360 reported.",
+      "text": "There is no date yet; Chief Justice Edson Fachin sets the agenda. Dino's earlier injunction remains in force, so the five-day schedule is due to start on 16 December with a 42-hour week and workdays of up to 8 hours 24 minutes, according to g1.",
+      "sources": [
+        {
+          "name": "Portuguese: g1",
+          "url": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml"
+        },
+        {
+          "name": "Portuguese: Poder360",
+          "url": "https://www.poder360.com.br/poder-justica/fux-pede-destaque-para-julgamento-de-transicao-da-6-x-1/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-spacex-xai-and-cursor-1",
+      "edition": "2026-11-15",
+      "section": "spacex-xai-and-cursor",
+      "headline": "SpaceX catches a Starship upper stage with the launch tower for the first time, after 14 orbits",
+      "lead": "Starship returned from orbit on Saturday, 14 November, and was caught by the launch tower's arms at Starbase, Texas, at about 23:21 Israel time (SpaceX's post \"Mechazilla catches Starship!\" was at 21:21 UTC), the first catch of the rocket's upper stage; it had orbited Earth 14 times over more than 22 hours, SpacePolicyOnline and ynet reported.",
+      "text": "Flight 15 lifted off on 13 November and deployed 26 Starlink V3 satellites; the Super Heavy booster was diverted to splash down in the Gulf of Mexico instead of being caught, and SpaceX is still investigating why, according to SpacePolicyOnline. SpaceX had caught boosters three times before, but never the ship.",
+      "sources": [
+        {
+          "name": "X: SpaceX, the catch",
+          "url": "https://x.com/SpaceX/status/2121715216597827756"
+        },
+        {
+          "name": "X: SpaceX, flight summary",
+          "url": "https://x.com/SpaceX/status/2121738348804857963"
+        },
+        {
+          "name": "SpacePolicyOnline",
+          "url": "https://spacepolicyonline.com/news/spacex-catches-a-starship/"
+        },
+        {
+          "name": "Hebrew: ynet",
+          "url": "https://www.ynet.co.il/news/article/h1jbqiucme"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-spacex-xai-and-cursor-2",
+      "edition": "2026-11-15",
+      "section": "spacex-xai-and-cursor",
+      "headline": "Cursor says its October breach began with an access key exposed by its vendor Fireworks AI; it has moved all inference off Fireworks",
+      "lead": "In an update dated 13 November, Cursor said the attacker behind the 29 October incident obtained an access key Cursor had issued to Fireworks AI, which Fireworks exposed, and used it to copy coding-agent traces, mostly from 2025, from sessions not in Privacy Mode; credentials left in some traces (less than 0.01% of customers had API credentials exposed) led to Cursor's software-as-a-service tools, archived non-production code, support data and the credential used to plant fake copies of Anthropic's Claude Code extension in Cursor's marketplace cache for about 11 hours, reaching at most 5,000 users.",
+      "text": "Cursor says the incident is contained, with the last attacker activity blocked on 1 November; it has moved all inference traffic off Fireworks, rotated credentials, and says its production systems, the Cursor app and its release-signing keys, Cloud Agents and Grok Bot were not affected (the company's own account). The Grok Bot changelog (latest 1.0.1, 11 November) and Cursor's changelog (latest entry 6 November) have no new release.",
+      "sources": [
+        {
+          "name": "Cursor blog, security update",
+          "url": "https://cursor.com/blog/security-incident-update"
+        },
+        {
+          "name": "MLQ.ai",
+          "url": "https://mlq.ai/news/cursor-says-hackers-used-a-key-exposed-at-fireworks-ai-to-plant-a-malicious-claude-code-extension-in-its-marketplace/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-quebec-1",
+      "edition": "2026-11-15",
+      "section": "quebec",
+      "headline": "St-Pierre Plamondon says Quebec may vote differently from Canada in Monday's election of the Francophonie's secretary-general; he meets Carney on Sunday",
+      "lead": "Premier Paul St-Pierre Plamondon, in Phnom Penh for the 20th Francophonie Summit, said on Saturday, 14 November, that Quebec is not bound by Canada's vote in Monday's election of the secretary-general of the International Organization of La Francophonie; Quebec, Canada and New Brunswick each have a vote, Radio-Canada and CBC (The Canadian Press) reported.",
+      "text": "Four candidates are running, including the current secretary-general, Louise Mushikiwabo of Rwanda, who seeks a third term; St-Pierre Plamondon met her but would not say whom he supports. The issue is expected to come up at his first one-on-one meeting with Prime Minister Mark Carney on Sunday, 15 November.",
+      "sources": [
+        {
+          "name": "French: Radio-Canada",
+          "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
+        },
+        {
+          "name": "CBC News",
+          "url": "https://www.cbc.ca/news/canada/montreal/quebec-paul-st-pierre-plamondon-francophonie-vote-9.7422366"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-trump-and-xi-1",
+      "edition": "2026-11-15",
+      "section": "trump-and-xi",
+      "headline": "Kremlin sets the Trump–Xi–Putin meeting for Thursday, 19 November, in Shenzhen",
+      "lead": "Kremlin spokesman Dmitry Peskov said the Russian, Chinese and US presidents will hold a three-way meeting in Shenzhen on 19 November on the sidelines of the APEC summit, Anadolu reported on 14 November, a day after the White House confirmed the meeting.",
+      "text": "China has not published its own announcement of the date in the sources checked here.",
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/eurasia/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19/4125290"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-uk-breakup-politics-1",
+      "edition": "2026-11-15",
+      "section": "uk-breakup-politics",
+      "headline": "Irish deputy prime minister Harris asks Northern Ireland's party leaders, including unionists, for views on Fine Gael's unity plan; a review blames Welsh Labour's defeat partly on its focus on new powers",
+      "lead": "Tánaiste Simon Harris has written to party leaders in Northern Ireland, including DUP leader Gavin Robinson and the UUP, asking for their views on Fine Gael's plan to prepare for Irish unity, saying \"no one political party owns the discussion about the future of this island,\" BBC News reported on 14 November.",
+      "text": "In Wales, a review by Prof. Anand Menon found that former First Minister Eluned Morgan's strategy of pressing Westminster for powers such as policing and the Crown Estate did not reach voters and played a role in Labour's loss in May's Senedd election; Prime Minister Andy Burnham told the Welsh Labour conference the party may have lost sight of the principles of devolution, and Welsh Labour leader Ken Skates said it focused too much on powers for the Senedd, BBC News reported.",
+      "sources": [
+        {
+          "name": "BBC News, Harris letter",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr1j4z66lgo"
+        },
+        {
+          "name": "BBC News, Welsh Labour review",
+          "url": "https://www.bbc.co.uk/news/articles/cmgj340w6g8yo"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-belle-burden-1",
+      "edition": "2026-11-15",
+      "section": "belle-burden",
+      "headline": "Belle Burden tells a Washington Post summit she now reads her own tax returns and is \"fully in control\" of her money",
+      "lead": "Speaking with entrepreneur Emma Grede at the Washington Post's Global Women's Summit in New York this week, Belle Burden, author of \"Strangers,\" said she had left her finances to her husband because of \"cultural conditioning,\" and that she is now \"fully in control and understanding all of my investments and assets. And I read my tax returns,\" Business Insider reported on 14 November.",
+      "text": "She said she did not expect the book to change how women handle money, but that \"if that's my purpose on the planet, I'm really good with that.\" Business Insider also mentions the book's adaptation by Netflix.",
+      "sources": [
+        {
+          "name": "Business Insider",
+          "url": "https://www.businessinsider.com/bi-today-saturday-newsletter-belle-burden-financial-habits-changes-2026-11"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-trenton-1",
+      "edition": "2026-11-15",
+      "section": "trenton",
+      "headline": "Casa Cultura, a Latino arts center in Trenton, marks one year in its Cass Street space",
+      "lead": "Casa Cultura, a Latino arts and cultural center, celebrated one year at 750 Cass Street in Trenton on Saturday, 14 November, with music, food and painting, WHYY reported; co-founder and director Samuel Kanig moved to Trenton from Puerto Rico in 2006.",
+      "text": "WHYY says the center works to preserve traditions and build community amid fears of immigration enforcement. It is a small, privately led cultural step rather than a sign of broad private investment.",
+      "sources": [
+        {
+          "name": "WHYY",
+          "url": "https://whyy.org/articles/trenton-new-jersey-casa-cultura-latino-culture/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-cypherboria-1",
+      "edition": "2026-11-15",
+      "section": "cypherboria",
+      "headline": "Net Void livestreams a rewrite of her novel \"Mortal Lost City\" to link it to CCRU lore and says she will publish @mortal_series with Aethr Books",
+      "lead": "Net Void streamed \"【Mortal Lost City】Novel Re-Write\" on her YouTube channel on the afternoon of 14 November, returning to the novel draft she released earlier this year; the description says, \"Now that I know about CCRU lore thought it'd be fun to retroactively link some of the coincidental themes!\" On X at 17:35 Israel time she wrote, \"Can't wait to publish @mortal_series on @AethrBooks,\" quoting Grimfel, founder of the music label Aethr, who shared the stream; Aethr Books calls itself \"The Home Of Hybrid Books\" (account created January 2026).",
+      "text": "She also replied to Anomaly of the Elected's post on the Valentinian Gnostic Sophia and the \"syzygy\" (paired divine beings), and answered the Cyphers' \"cyphers + ____ = 333 AQ\" prompt with \"Voted legion. Anon coded\"; the Cyphers then posted \"My name is Legion\" (Mark 5:9). The Cyphers' YouTube schedule now lists \"Book of Paths ft. Anomaly of the Elected\" for 15 November, \"Gnosticism\" and a \"Doomer vs Accelerationism Debate\" for 21 November, and \"Thelema + Aleister Crowley Decodes\" moved to 22 November. acadianlemur published a video guide to his Nullinnix, Still Plex and Still Cycle ciphers (built on a 210 cycle) and asked for them on the Cyphers calculator; resonatingloop said Net Void has been looking for more ciphers. No new @net__void TikTok video (still only the dark-mode clip), and nothing new from @Mortal_Series or PHYTHAGRAM.",
+      "sources": [
+        {
+          "name": "YouTube: Net Void, Mortal Lost City rewrite",
+          "url": "https://www.youtube.com/watch?v=FpWATKuUB14"
+        },
+        {
+          "name": "X: Net Void, Aethr Books",
+          "url": "https://x.com/Net__Void/status/2121628131132108865"
+        },
+        {
+          "name": "X: Net Void, reply on Sophia",
+          "url": "https://x.com/Net__Void/status/2121743923202691383"
+        },
+        {
+          "name": "X: Anomaly of the Elected, Sophia",
+          "url": "https://x.com/AOElection/status/2121722546898731346"
+        },
+        {
+          "name": "X: Net Void, \"Voted legion\"",
+          "url": "https://x.com/Net__Void/status/2121438744414720417"
+        },
+        {
+          "name": "X: Cyphers, \"My name is Legion\"",
+          "url": "https://x.com/CyphersNews/status/2121549284680298903"
+        },
+        {
+          "name": "YouTube: Cyphers, Book of Paths",
+          "url": "https://www.youtube.com/watch?v=EdrEGhmvsYg"
+        },
+        {
+          "name": "X: acadianlemur, cipher guide",
+          "url": "https://x.com/acadianlemur/status/2121606676155388370"
+        },
+        {
+          "name": "X: resonatingloop",
+          "url": "https://x.com/resonatingloop/status/2121623809367343452"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-15-cypherboria-2",
+      "edition": "2026-11-15",
+      "section": "cypherboria",
+      "headline": "Land: \"Capital = Automation\" is \"the essential fact modernity is built upon\"; a Crazy Wisdom podcast episode discusses Land and Spengler",
+      "lead": "Nick Land wrote on X on 14 November that the \"Capital = Automation equation isn't going anywhere. It's the essential fact modernity is built upon,\" added that \"LLM sycophancy is at least as pointed in this regard as capitalist consumerism,\" and that while \"all vectors of The Process tactically sucking up to us are at least vaguely nauseating,\" those \"strategically finding their own way are shatteringly beautiful.\"",
+      "text": "He also noted that his English City of God uses \"the true God\" often (\"ten letters\"), told blogger Mikey Downs, who summed him up as \"Time is war,\" that one \"can't have 'Time is ...' formulations ... for Heideggerian reasons,\" and joked \"I saw 1610, which made me very sad for a moment\" (a nod to the 1611 King James Bible). Late catch: Crazy Wisdom episode 580, \"Is the West in Winter? Spengler, Nick Land and the Faustian Spirit\" (9 November), has host Stewart Alsop and Rainer Franz discussing Land's view of capitalism as a cybernetic feedback loop that behaves like an early AI; Land is not a guest. No new interview with Land was found.",
+      "sources": [
+        {
+          "name": "X: Land, Capital = Automation",
+          "url": "https://x.com/xenocosmography/status/2121450179736068488"
+        },
+        {
+          "name": "X: Land, LLM sycophancy",
+          "url": "https://x.com/xenocosmography/status/2121463091229765649"
+        },
+        {
+          "name": "X: Land, The Process",
+          "url": "https://x.com/xenocosmography/status/2121473102215524754"
+        },
+        {
+          "name": "X: Land, City of God",
+          "url": "https://x.com/xenocosmography/status/2121474571127959849"
+        },
+        {
+          "name": "X: Land, reply to Mikey Downs",
+          "url": "https://x.com/xenocosmography/status/2121481740804030853"
+        },
+        {
+          "name": "X: Land, 1610",
+          "url": "https://x.com/xenocosmography/status/2121583814451560958"
+        },
+        {
+          "name": "Apple Podcasts: Crazy Wisdom 580",
+          "url": "https://podcasts.apple.com/us/podcast/episode-580-is-the-west-in-winter-spengler-nick-land/id1354589767?i=1000800778094"
         }
       ]
     }

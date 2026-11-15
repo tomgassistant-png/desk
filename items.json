@@ -4,6 +4,313 @@
  "latest_count": 18,
  "items": [
   {
+   "id": "2026-11-15-land-areas-a-b-push-or-binyamin",
+   "section": "land",
+   "lead": true,
+   "highlight": true,
+   "headline": "Push to settle Areas A and B: HaBayta Forum calls for ending the Oslo division and taking farms into open land, as young families hold the Or Binyamin hilltop in Area B's Wadi Zarqa",
+   "summary": "The HaBayta Forum, a group led by bereaved families, released a new video on Saturday calling for the Oslo accords to be canceled, for the division of Judea and Samaria into Areas A, B and C to be ended, and for the farm model now used in Area C to be extended to the open land in Areas A and B, Arutz 7 reports. Settlement activist Azri Tobi, who leads the video, says Judea and Samaria is 15 times the size of the Gaza Strip, with about two million Arabs, a hostile ideological base like Gaza's, large amounts of weapons and tens of thousands of Palestinian police trained by foreign armies. He says there are about 1.28 million dunams of open land there and that whoever settles it first will decide the future of the area. The video lists driving times from the ridge: about five minutes to Afula and Kfar Saba, ten to Netanya, Kiryat Gat and Ben Gurion Airport, and a quarter of an hour to Tel Aviv. Bereaved parents Yehoshua Sherman and Eliav Libi, who joined the forum's recent call not to form a government that relies on Arab parties, said settling the open land is \"the most moral, Zionist, security-minded and just demand\" (<a href=\"https://www.inn.co.il/news/710743\">Arutz 7</a>; <a href=\"https://x.com/Netanelfr/status/2121649452666466758\">JNS Hebrew's Netanel Frankel</a>; <a href=\"https://x.com/elchanangr/status/2121665947744276531\">Elchanan Groner, sharing Tobi's explanation</a>). One hilltop is already trying this on the ground. Or Binyamin, named for Staff Sgt. Binyamin Meir Arli, who fell in Gaza, was set up about half a year ago by a young couple, Yiftach and Efrat Kevin, and a group of young people in Wadi Zarqa, along the Talmonim bloc in western Binyamin; the whole wadi was defined as Area B under Oslo. Residents told Arutz 7 that Jews who tried to come near the area for years were attacked from nearby villages, that springs had been built over and pumped dry, and that after they cleaned and repaired the springs thousands of Jewish hikers came over the summer and the fall holidays. They say the daily flock and their presence have made the road between Neve Tzuf and Nahliel safer, that Arabs threw a dead wild boar into a spring they were repairing, and that the security forces have evacuated them, torn down structures, seized equipment and tried to seize the flock. The site has no water or power lines and is reached only by four-wheel-drive vehicles; Efrat Kevin calls it \"a first step to canceling the Oslo accords\" (<a href=\"https://www.inn.co.il/news/710374\">Arutz 7, 9 Nov</a>; <a href=\"https://www.inn.co.il/news/710589\">Arutz 7, 12 Nov</a>). Both Arutz 7 pieces carry a fundraising link for the hilltop. On Saturday the anti-settlement account Settlers From Within posted video of a resident celebrating the outpost and speaking of \"returning the wadi to Jewish hands\" (<a href=\"https://x.com/SettlersFW/status/2121636727341072849\">Settlers From Within</a>). The residents' account of attacks and of the springs has not been checked against a second source.",
+   "source": "Arutz 7 / JNS Hebrew (Netanel Frankel) / Elchanan Groner / Settlers From Within",
+   "date": "2026-11-14",
+   "url": "https://www.inn.co.il/news/710743",
+   "places": [
+    {
+     "name": "Or Binyamin (Wadi Zarqa)",
+     "lat": 31.9921914,
+     "lon": 35.0988882,
+     "note": "Approximate: Nominatim point for Wadi a-Zarqa; the hilltop is not mapped"
+    },
+    {
+     "name": "Neve Tzuf",
+     "lat": 32.0063136,
+     "lon": 35.1269219,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-land-895-homes-plans",
+   "section": "land",
+   "highlight": true,
+   "headline": "Plans for about 895 new homes move forward in Kedumim, Beit Hagai, Talmon, Ariel and Elon Moreh, plus a Kiryat Arba industrial zone, the PA's settlement tracker reports",
+   "summary": "The Palestinian Authority's Colonization and Wall Resistance Commission, which tracks Israeli land orders and building plans, said on Saturday that it had found 11 new plans for Jewish communities in Judea and Samaria that together add 895 homes and expand industrial and commercial land. By its count: a 288-home expansion of a neighborhood in Kedumim over more than 158 dunams; 225 homes on about 190 dunams in Beit Hagai, south of Hebron; 200 homes on 65 dunams in Talmon, with new roads and infrastructure; two plans in Ariel, one adding 98 homes in the north of the city; 83 homes in Elon Moreh; changes to building rights in the Karnei Shomron industrial area, a small housing addition in Oranit and new building lines in Peduel; a crafts and light-industry zone of more than 165 dunams in Kiryat Arba; and rules allowing commercial and service buildings on public-use plots in the Gush Etzion communities (<a href=\"https://alquds.com/ar/posts/273377-new-settlement-plans-west-bank-expansion\">Al-Quds, in Arabic</a>; <a href=\"https://x.com/palestineultra/status/2121543343687729509\">Ultra Palestine</a>). The commission did not say which planning stage each plan has reached. These are the PA body's figures: no Israeli announcement of these plans by the Civil Administration or the regional councils was found this morning, so the numbers are unconfirmed. Ultra Palestine separately wrote on Saturday that there are plans for 35 more industrial zones in Judea and Samaria, most along the Green Line or the security barrier, without naming a source (<a href=\"https://x.com/palestineultra/status/2121722297014739269\">Ultra Palestine</a>).",
+   "source": "PA Colonization and Wall Resistance Commission (via Al-Quds, Ultra Palestine)",
+   "date": "2026-11-14",
+   "url": "https://alquds.com/ar/posts/273377-new-settlement-plans-west-bank-expansion",
+   "places": [
+    {
+     "name": "Kedumim",
+     "lat": 32.2119285,
+     "lon": 35.1510768,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Beit Hagai",
+     "lat": 31.4933935,
+     "lon": 35.08041,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Talmon",
+     "lat": 31.9393963,
+     "lon": 35.1323035,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Ariel",
+     "lat": 32.1060817,
+     "lon": 35.1851368,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Elon Moreh",
+     "lat": 32.2357073,
+     "lon": 35.3316268,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Kiryat Arba",
+     "lat": 31.5277619,
+     "lon": 35.1191651,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-attacks-beit-ummar-emmanuel-weekend",
+   "section": "attacks",
+   "highlight": true,
+   "headline": "Weekend attacks: stones smash a windshield near the Beit Ummar gas station and hurt a Gush Etzion farm resident; \"harvesters\" attack hikers near the Emmanuel industrial zone; four minors held for stoning a Jerusalem bus",
+   "summary": "On Saturday evening stones were thrown at an Israeli car on Route 60 near the Ya'ar al-Qarn farm in Gush Etzion, breaking the windshield; the driver was lightly hurt by shards, an army force came to the spot and he did not need to be taken to the hospital, Ynet reports (<a href=\"https://www.ynet.co.il/news/article/by6ucrurme\">Ynet</a>). Olam Katan reporter Simcha Raz and Elisha Yered place the attack on old Route 60 next to the Beit Ummar gas station and say the victim, a resident of the farm, was hit in the eye; Yered says one stone almost broke through the windshield and that no arrests had been reported (<a href=\"https://x.com/simkha0404/status/2121665401914282473\">Simcha Raz</a>; <a href=\"https://x.com/ElishaYered/status/2121705151857869077\">Elisha Yered</a>). Activist Ayelet Lash complained that the public broadcaster did not report it (<a href=\"https://x.com/ayeletlash9/status/2121699354335408250\">Ayelet Lash</a>). Earlier this month Arutz 7 reported that rioters from Beit Ummar set fire to a Jewish family's car at nearby Gefen Ami. On Friday afternoon, Arab men who came as olive \"harvesters\" attacked Israeli residents who were walking near the Emmanuel industrial zone in Samaria, according to Elisha Yered and Olam Katan, which both posted video (<a href=\"https://x.com/ElishaYered/status/2121633904683577731\">Elisha Yered</a>; <a href=\"https://x.com/olam_katan/status/2121639578104676356\">Olam Katan</a>); no police or army statement and no injury figures were found, so the details are unconfirmed. Olam Katan also posted video of what it called an attempted car-ramming that was stopped at the last moment on Saturday, without giving the place (<a href=\"https://x.com/olam_katan/status/2121646838411628646\">Olam Katan</a>); no other report was found. In Jerusalem, police from the Oz station arrested four minors on Saturday evening on suspicion of throwing stones at a bus driving through Har Homa, which damaged its rear window (<a href=\"https://www.maariv.co.il/breaking-news/article-1388353\">Maariv</a>). The Yesha Council's Situation Room (JSR) did not post its usual daily incident count for Friday and Saturday.",
+   "source": "Ynet / Olam Katan (Simcha Raz) / Elisha Yered / Ayelet Lash / Maariv",
+   "date": "2026-11-14",
+   "url": "https://www.ynet.co.il/news/article/by6ucrurme",
+   "places": [
+    {
+     "name": "Beit Ummar gas station, old Route 60 (Ya'ar al-Qarn farm nearby)",
+     "lat": 31.6210078,
+     "lon": 35.1030927,
+     "note": "Approximate: Nominatim point for Beit Ummar; the gas station and farm are not mapped"
+    },
+    {
+     "name": "Emmanuel (industrial zone nearby)",
+     "lat": 32.1618975,
+     "lon": 35.1361352,
+     "note": "Approximate: Nominatim point for Emmanuel; the industrial zone is not mapped"
+    },
+    {
+     "name": "Har Homa (Homat Shmuel), Jerusalem",
+     "lat": 31.7257259,
+     "lon": 35.2212813,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-attacks-jsr-deir-qaddis-tents",
+   "section": "attacks",
+   "highlight": true,
+   "headline": "JSR: Bedouins who left a site near Natuf burned what they left behind and then blamed Jews; Palestinian outlets report \"settlers burned a tent\" at Deir Qaddis",
+   "summary": "Palestinian news sites reported on Saturday evening that settlers set fire to a tent of a Bedouin community near Deir Qaddis, west of Ramallah. Al-Quds (Hebrew edition) placed it in the al-Mughayyir area northeast of the village, reported no injuries, and blamed residents of an outpost there, which it says want to push the community out (<a href=\"https://alquds.com/he/posts/273647\">Al-Quds</a>). The Yesha Council's Situation Room (JSR) gives a different account: it says Bedouins who left the site during the weekend, next to the Jewish community of Natuf now being built in western Binyamin, set fire to the remains themselves and then accused the Israeli residents (<a href=\"https://x.com/JSR_HEB/status/2121695039088722236\">JSR in Hebrew</a>; <a href=\"https://x.com/JSR_EN/status/2121694737677615284\">JSR in English</a>). JSR did not publish its evidence with the post, and no police or army statement was found, so neither version has been confirmed. JSR has published an earlier analysis on what it calls a pattern of Arabs setting fires and then blaming settlers. JSR also reported on Saturday that Laila Ghannam, the PA governor of Ramallah and al-Bireh, who JSR says attended a terrorist's funeral where Hamas flags were flown, keeps regular ties with many European officials, and that in April she met Rear Adm. Edward Ahlgren, the British Defense Ministry's senior adviser for the Middle East and North Africa (<a href=\"https://x.com/JSR_HEB/status/2121636116897861849\">JSR</a>). The April meeting is JSR's account and was not checked independently. No new JSR report or weekly situation report appeared on its website since the last edition.",
+   "source": "JSR (Yesha Council Situation Room) / Al-Quds",
+   "date": "2026-11-14",
+   "url": "https://x.com/JSR_HEB/status/2121695039088722236",
+   "places": [
+    {
+     "name": "Deir Qaddis",
+     "lat": 31.9488185,
+     "lon": 35.0457408,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Natuf (under construction)",
+     "lat": 31.9535135,
+     "lon": 35.071381,
+     "note": "Approximate: Nominatim point for Nahal Natuf near Na'ale; the new community is not mapped"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-land-front-hills-drones",
+   "section": "land",
+   "headline": "Elisha Yered's Front Hills Administration hands out drones to hilltop communities and trains them to film attacks; a Hamas-aligned outlet takes note",
+   "summary": "The Front Hills Administration, a group run by Elisha Yered that supports the hilltop communities, says it held another handout of drones on Friday to a number of settlement points in Judea and Samaria, paid for by private donors. Each representative was trained to fly the drone and to film security incidents accurately. Yered says the drones help spot attacks and infiltrations as they happen and help document incidents \"and refute blood libels,\" and that dozens of front-line settlement points \"have no government backing\" (<a href=\"https://x.com/ElishaYered/status/2121638103253144006\">Elisha Yered</a>). The Hamas-aligned Quds News Network reported the handout in Arabic, noting the support of \"Jewish donors\"; Yered answered that \"the Hamas channels did not much like\" it (<a href=\"https://x.com/ElishaYered/status/2121668579137310739\">Elisha Yered</a>). Channel 18 Israel also aired a sit-down interview with Yered by Sam Schubert on daily Arab attacks and the \"settler violence\" claims; asked whether his biggest problem is the Palestinians or the Israeli security forces, he said both, because it would be far easier to deal with Arab terror if the state did not stop Jews from defending themselves (<a href=\"https://x.com/channel18israel/status/2121660133071520149\">Channel 18 Israel</a>; <a href=\"https://x.com/channel18israel/status/2121677067691413524\">Channel 18 Israel</a>).",
+   "source": "Elisha Yered / Quds News Network / Channel 18 Israel",
+   "date": "2026-11-14",
+   "url": "https://x.com/ElishaYered/status/2121638103253144006",
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-idf-southern-syria-quneitra-bashan",
+   "section": "idf",
+   "headline": "Southern Syria: Syrian and Arab media report Israeli shells east of al-Asbah and new incursions in central Quneitra; Halutzei HaBashan marks the second anniversary of the move into the area",
+   "summary": "Al-Quds, citing local sources, reported on Saturday that two Israeli artillery shells fell east of al-Asbah in southern Quneitra province, and that Israeli ground forces moved into al-Mushayrifa and al-Ajraf in central Quneitra and into al-Hafayer, north of Khan Arnabeh. It cites rights groups as counting about 70 Israeli ground incursions and moves in southern Syria in the first half of November, mainly in Quneitra but also in western Daraa and near Mount Hermon, and local sources as saying at least 11 people, including a child, were detained in two weeks, some later released (<a href=\"https://alquds.com/ar/posts/273620-israeli-occupation-artillery-shelling-quneitra-syria\">Al-Quds, in Arabic</a>). Anadolu, citing Syria's state Al-Ikhbariya channel, also reported an incursion into a Quneitra village and shelling of land in the south (<a href=\"https://www.aa.com.tr/ar/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AA%D9%88%D8%BA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D8%A8%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D9%86%D9%8A%D8%B7%D8%B1%D8%A9-/4125291\">Anadolu, in Arabic</a>). The army did not comment. These are Syrian and Arab media accounts. Halutzei HaBashan, the group pushing for Israeli settlement in southern Syria, posted that Tuesday, 17 November, marks by the Hebrew calendar two years since Israeli forces took \"part of the Bashan\" (<a href=\"https://x.com/HaluzeyHabashan/status/2121644803771208093\">Halutzei HaBashan</a>); the army moved into the buffer zone on the Syrian side of the Golan on 8 December 2024, the day the Assad government fell. Its Telegram channel has had no new posts since July.",
+   "source": "Al-Quds / Anadolu (citing Syrian state TV) / Halutzei HaBashan",
+   "date": "2026-11-14",
+   "url": "https://alquds.com/ar/posts/273620-israeli-occupation-artillery-shelling-quneitra-syria",
+   "places": [
+    {
+     "name": "al-Asbah (Quneitra)",
+     "lat": 32.9794519,
+     "lon": 35.8844001,
+     "note": "Nominatim; shells reported east of the village"
+    },
+    {
+     "name": "al-Mushayrifa (Quneitra)",
+     "lat": 33.114825,
+     "lon": 35.8916468,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Khan Arnabeh (al-Hafayer is north of it)",
+     "lat": 33.1837207,
+     "lon": 35.8895021,
+     "note": "Approximate: Nominatim point for Khan Arnabeh; al-Hafayer is not mapped"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-land-agreed-reserve-yifrach-barda",
+   "section": "land",
+   "headline": "Makor Rishon's Yehuda Yifrach: the High Court asks about enforcement in the Judean Desert \"agreed reserve\" while a near-city of PA building grows there; analyst warns a Democratic Congress may target settlement banks",
+   "summary": "Writing about this week's conditional order by Justices Yitzhak Amit, Daphna Barak-Erez and Ofer Grosskopf (reported on this page), Makor Rishon legal affairs writer Yehuda Yifrach says the court ignored \"almost a whole city\" built without permits in the reserve. Under the 1998 Wye memorandum, about 166,000 dunams in the Judean Desert were set aside as green land and nature reserves under PA civil control, with a PA pledge not to change their status or build there. Yifrach cites a Settlement Ministry study of aerial photos that counted 268 buildings in the reserve in 1998 and 3,048 by June 2023, 598 of them added in 2021 alone, and more than 630 km of roads. He points to the al-Malaha project east of Za'tara, near Tekoa and Nokdim, where plots were marketed online under a fictitious \"al-Malaha municipality\" for tens of dinars a square meter. He writes that the Civil Administration carried out only 11 enforcement actions there in 2018 to 2020; that the cabinet decided in June 2024 to begin enforcement, Central Command signed a building-restriction order in July 2024 and seven buildings were razed that December; and that the petitioners are the Za'tara municipality and the \"al-Malaha village council\" (<a href=\"https://www.makorrishon.co.il/news/law/article/392239\">Makor Rishon</a>). The building counts are from the ministry study as quoted in the column and were not checked independently. Separately, Dr. Kobi Barda of the JPTI institute told Arutz 7 that the settlers will be \"the first to take the hardest blow\" from the Democrats' gains in the U.S. midterm elections. He expects Congress, from 3 January, to push personal and area sanctions, and fears steps against Israeli banks that finance building and mortgages in Judea and Samaria; he says President Trump may not be able or willing to block all of them (<a href=\"https://www.inn.co.il/news/710740\">Arutz 7</a>). This is his forecast.",
+   "source": "Makor Rishon (Yehuda Yifrach) / Arutz 7 (Kobi Barda)",
+   "date": "2026-11-14",
+   "url": "https://www.makorrishon.co.il/news/law/article/392239",
+   "places": [
+    {
+     "name": "Za'tara (al-Malaha project is east of it)",
+     "lat": 31.6705766,
+     "lon": 35.2570092,
+     "note": "Approximate: Nominatim point for Za'tara; al-Malaha is not mapped"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-negev-lod-column-ofra-lax",
+   "section": "negev",
+   "headline": "Lod: \"The Arab threat has grown on our streets since the elections,\" a longtime resident writes, listing harassment of Jews after election night",
+   "summary": "Ofra Lax, a Lod resident for 23 years, writes in Makor Rishon that Arab residents celebrated the election results with shouts of \"Allahu akbar\" near Likud activists, convoys of cars with green flags in the north of the city, fireworks and gunfire. Since then, she says, Arab girls shouted \"barra\" (\"get out\") at a Jewish woman; a car cut off a Jewish driver and forced him onto a traffic island; on Friday night Arabs did dangerous car spins next to students of a pre-army academy gathered in the empty market square, threatened to run them over and shouted \"barra\"; and a boy was punched in the stomach by passing children. She ties this to the May 2021 riots, when Lod resident Yigal Yehoshua was killed and synagogues, schools, homes and cars were set on fire, and says police then worked to separate the sides rather than arrest rioters. She also writes that heavy gunfire was heard near a public meeting with Finance Minister Bezalel Smotrich in the city a few days before the elections (<a href=\"https://www.makorrishon.co.il/opinions/article/392155\">Makor Rishon</a>). The recent incidents are her account and were not checked against police reports; the 2021 events are well documented.",
+   "source": "Makor Rishon (Ofra Lax)",
+   "date": "2026-11-14",
+   "url": "https://www.makorrishon.co.il/opinions/article/392155",
+   "places": [
+    {
+     "name": "Lod",
+     "lat": 31.9489012,
+     "lon": 34.8884857,
+     "note": "Nominatim (city center)"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-negev-kafr-manda-grenade-taibe-acre",
+   "section": "negev",
+   "headline": "North and Triangle: woman killed by a grenade thrown into a Kafr Manda pastry shop, three suspects held; man shot dead in Taibe; off-duty Border Police officer shoots a driver in Acre",
+   "summary": "Lina Qassem Zidan, 51, of Daliyat al-Karmel, was killed on Saturday when a grenade was thrown into a pastry shop in Kafr Manda; four others were hurt, including her husband, whom the attackers ran over. Police arrested three suspects and found the car they used hidden; residents said a second grenade was thrown elsewhere in the village and that there had been shootings and grenade attacks in recent days. Police Commissioner Danny Levy came to the scene (<a href=\"https://www.ynet.co.il/news/article/rypwmahcfe\">Ynet</a>). On Saturday evening a man of about 50 was shot dead in Taibe (<a href=\"https://www.maariv.co.il/breaking-news/article-1388378\">Maariv</a>; <a href=\"https://www.haaretz.co.il/news/law/2026-11-14/ty-article/000001a1-dbab-d292-abf9-ffff9ecb0000\">Haaretz</a>). Counts of Arab murder victims this year differ by outlet: Ynet called Zidan the 200th, Haaretz counted 197 after the Taibe killing and Maariv 189. In Acre, an off-duty Border Police officer opened fire on Route 85 at a driver who, police say, was driving in a way that endangered pedestrians and the officer; the driver fled and was later taken to the hospital seriously hurt, and police opened an investigation (<a href=\"https://www.ynet.co.il/news/article/rklsopicgg\">Ynet</a>). Ayelet Lash asked why there is \"a murder in this sector every day\" (<a href=\"https://x.com/ayeletlash9/status/2121696642508230720\">Ayelet Lash</a>). No weekend security incidents were found in the Negev.",
+   "source": "Ynet / Maariv / Haaretz / Ayelet Lash",
+   "date": "2026-11-14",
+   "url": "https://www.ynet.co.il/news/article/rypwmahcfe",
+   "places": [
+    {
+     "name": "Kafr Manda",
+     "lat": 32.8114088,
+     "lon": 35.259756,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Taibe",
+     "lat": 32.2671249,
+     "lon": 35.0089029,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Acre (Route 85)",
+     "lat": 32.9281731,
+     "lon": 35.0756378,
+     "note": "Approximate: Nominatim city point; the exact spot on Route 85 is not given"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-negev-moran-tal-ettinger-groner",
+   "section": "negev",
+   "headline": "From the right: Moran Tal on an Al Jazeera commentator's view of the Arab vote as \"revenge\"; Meir Ettinger on Ra'am's founder and a Hadash MK; Elchanan Groner on Israeli Arabs shopping in Jenin",
+   "summary": "Moran Tal posted a clip of Ehab Jabareen, whom she describes as an Al Jazeera commentator from Umm al-Fahm, explaining the jump in Arab party seats as the first chance since 7 October for Arab citizens to speak politically \"without paying a price,\" in order to take revenge on Netanyahu, Smotrich and Ben-Gvir for the past three years. She reads this as proof that their motive was to punish the government, not to take part, and says the problem is that \"Israel's enemies\" can act through the ballot box (<a href=\"https://x.com/MoranT555/status/2121731150334857425\">Moran Tal</a>). She also reposted a 2014 clip of a woman from Sakhnin backing Hamas, which she calls a common view in Arab society (<a href=\"https://x.com/MoranT555/status/2121698647976955989\">Moran Tal</a>). Meir Ettinger pointed to the Hebrew Wikipedia entry on the Muslim Brotherhood that lists Ra'am founder Abdullah Nimr Darwish, against those who deny the link (<a href=\"https://x.com/meiretingr/status/2121741256715837533\">Meir Ettinger</a>), and wrote that Hadash MK Atauna is repeating the \"conspiracy\" that the government works with crime groups (<a href=\"https://x.com/meiretingr/status/2121736259915894932\">Meir Ettinger</a>). Elchanan Groner posted a photo he says shows traffic jams of Israeli Arab citizens going shopping in Jenin on Saturday, objecting that Defense Minister Israel Katz still allows thousands of them to go there and send money into the city (<a href=\"https://x.com/elchanangr/status/2121695306253218187\">Elchanan Groner</a>). These are their own claims and readings; the photo's date and place were not checked.",
+   "source": "Moran Tal / Meir Ettinger / Elchanan Groner",
+   "date": "2026-11-14",
+   "url": "https://x.com/MoranT555/status/2121731150334857425",
+   "places": [
+    {
+     "name": "Jenin",
+     "lat": 32.4607,
+     "lon": 35.2961,
+     "note": "Approximate city point"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
+   "id": "2026-11-15-land-activist-pa-claims-1115",
+   "section": "land",
+   "headline": "Activist and PA claims: army says masked Israelis fled to an outpost near Sa'ir after a clash with harvesters in Wadi Saif; Palestinians report a man shot near Deir Jarir; Kerem Navot flags a new seizure order",
+   "summary": "On Saturday a clash broke out when Israelis came to disrupt a Palestinian olive harvest in Wadi Saif, east of Beit Fajjar; Palestinians reported five people hurt. The army said a Palestinian car was smashed, that troops pushed the rioters away and closed the area, and that when masked Israelis in vehicles were reported later, they had fled before the troops arrived. On the way, troops fired in the air at two suspect vehicles that fled to an unauthorized outpost near Sa'ir; one, with Palestinian plates, appears to have been stolen and was returned to its owner. No one was arrested, and the army condemned \"Israeli rioters who take the law into their own hands\" (<a href=\"https://www.ynet.co.il/news/article/bkgfjslcgl\">Ynet</a>; <a href=\"https://x.com/ItayBlumental/status/2121700110065139904\">Kan's Itay Blumental</a>). Palestinian outlets reported that settlers shot and wounded a Palestinian man in his car at the entrance to Deir Jarir, east of Ramallah, on Saturday afternoon, and that the army closed the iron gates at Deir Jarir and Yabrud (<a href=\"https://alquds.com/ar/posts/273476-palestinian-injured-settler-attack-ramallah\">Al-Quds, in Arabic</a>); no Israeli statement or account of the circumstances was found. Dror Etkes of Kerem Navot posted a seizure order, 132/26, that he says Central Command chief Avi Bluth signed eight days after the elections to open a new road, which he expects will lead to a new farm, as with orders for the Bazak and Tamun outposts in the same area (<a href=\"https://x.com/dror_etkes/status/2121536331302011157\">Dror Etkes</a>). Ultra Palestine said soldiers turned a home in Balata al-Balad into a field interrogation center during a pre-dawn raid on Saturday that also reached the Balata, Askar and Ein camps in Nablus (<a href=\"https://x.com/palestineultra/status/2121503700674138249\">Ultra Palestine</a>). The PFLP-aligned site Al-Hadaf ran a video headlined that PA security services stopped a march in support of prisoner Bilal Kayed from heading toward Beit El (<a href=\"https://hadfnews.ps/video/885/%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D8%AA%D9%85%D9%86%D8%B9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D8%A3%D8%B3%D9%8A%D8%B1-%D8%A8%D9%84%D8%A7%D9%84-%D9%83%D8%A7%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7\">Al-Hadaf, in Arabic</a>); only the headline was readable. A Haaretz editorial objects to the renewed arrest of Palestinian journalist Samer Khuwaira, brought before the Samaria military court on Thursday a year after nine months in administrative detention (<a href=\"https://www.haaretz.com/opinion/editorial/2026-11-15/ty-article-opinion/.premium/why-was-palestinian-journalist-khuwaira-arrested-again/000001a1-dc0b-da30-a7fb-dcbf6a830000\">Haaretz</a>). These are single-side claims unless noted.",
+   "source": "Ynet / Kan (Itay Blumental) / Al-Quds / Kerem Navot (Dror Etkes) / Ultra Palestine / Al-Hadaf / Haaretz",
+   "date": "2026-11-14",
+   "url": "https://www.ynet.co.il/news/article/bkgfjslcgl",
+   "places": [
+    {
+     "name": "Wadi Saif, east of Beit Fajjar",
+     "lat": 31.6232013,
+     "lon": 35.1538688,
+     "note": "Approximate: Nominatim point for Beit Fajjar; the wadi is not mapped"
+    },
+    {
+     "name": "Sa'ir",
+     "lat": 31.5829285,
+     "lon": 35.1452192,
+     "note": "Nominatim; the outpost is not mapped"
+    },
+    {
+     "name": "Deir Jarir",
+     "lat": 31.9650652,
+     "lon": 35.2938773,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-15",
+   "published": "2026-11-15T05:00:00+02:00",
+   "letter": "PA security: 15 Nov 2026"
+  },
+  {
    "id": "2026-11-14-land-land-registration-tender-frozen",
    "section": "land",
    "lead": true,

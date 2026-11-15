@@ -1,6 +1,664 @@
 {
  "editions": [
   {
+   "date": "2026-11-15",
+   "read_at": "2026-11-15T04:22:00+02:00 to 04:28 Israel time",
+   "intro": "Zelensky’s claim that the U.S. floated Ukraine giving up the Donbas region in exchange for NATO membership leads the BBC and the Guardian and tops the BBC international most-read list, while the New York Times and the Washington Post still lead with the cause of Friday’s nationwide U.S. flight ground stop. The Times of London leads with the Russell Brand age-of-consent debate; the Times of Israel leads with Netanyahu’s call for unity talks, and ynet with a deadly grenade attack on a pastry shop.",
+   "cover": "The New York Times and the Washington Post lead with the cause of Friday’s nationwide flight ground stop, which officials blame on work on aging air traffic equipment. The BBC and the Guardian lead with Zelensky’s claim that the U.S. floated Ukraine giving up the Donbas for NATO membership, also No. 1 on the BBC international most-read list. The Times of London leads with calls to change the age of consent after the Russell Brand case, which fills the top two BBC UK most-read spots. The Times of Israel leads with Netanyahu’s call for unity talks. The NYT trending list is led by Jensen Huang’s fall at Nvidia. Getting big play: the Killing Eve prequel “Honey,” the first Eurovision Asia and Wales’ first rugby win over New Zealand in 73 years.",
+   "leading": [
+    {
+     "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
+     "text": "The BBC says the U.S. has not confirmed the Ukrainian president’s comments and a U.S. official said “many ideas continue to be discussed”; the Guardian adds that he accused SpaceX of not telling the truth about restrictions on its Starshield satellite system, and the Post says Russia returned to its prewar demands on NATO at this week’s talks.",
+     "ranks": "Leads: BBC (UK and international), Guardian international. Top 5: Guardian UK (No. 2), WaPo (No. 5). Most read: BBC international No. 1, BBC UK No. 4, Guardian No. 4, WaPo No. 4.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/"
+      }
+     ]
+    },
+    {
+     "headline": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+     "text": "The NYT says the aging air traffic control system has had several disruptive failures in recent months; the BBC quotes the transportation secretary blaming a copper wire upgrade, and the Post says officials pointed to the installation of a new router and that more than 12,000 flights were canceled.",
+     "ranks": "Leads: NYT (first six homepage stories), WaPo (first three). Top 5: BBC international (No. 2), BBC UK (No. 4). On the front: Guardian international, Times of Israel. Most read: NYT trending No. 4 and No. 6, BBC international No. 3.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos"
+      }
+     ]
+    },
+    {
+     "headline": "Alleged Russell Brand rape victim wants age of consent law changed",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo",
+     "text": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent; the Guardian says the deputy prime minister called the idea a “massive step” that deserves proper consideration.",
+     "ranks": "Leads: The Times (No. 1 and No. 2). Top 5: BBC UK (No. 3), Guardian UK (No. 3; Noel Fielding’s response No. 4). Most read: BBC UK No. 1 and No. 2, Guardian No. 9.",
+     "also": [
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/crime/article/russell-brand-age-consent-law-xwzgdx2nf"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand"
+      }
+     ]
+    },
+    {
+     "headline": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+     "text": "The NYT says Nvidia’s founder called his relationship with a female customer just business, but what he concealed led to his resignation; the Post’s package includes how Rubio’s intervention helped topple him and the crisis it poses for the new White House chief of staff, Stephen Miller.",
+     "ranks": "Most read: NYT trending No. 1, WaPo No. 1 (Stephen Miller’s first crisis), Guardian No. 10 (Trump’s Nvidia stock purchase). On the front: WaPo (No. 6 to No. 9), The Times, Times of Israel.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-crisis-tests-stephen-miller-chief-staff-he-reorganizes/"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-nvidia-stock-jensen-huang-us-china"
+      },
+      {
+       "outlet": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/us-treasury-chief-blames-commerce-department-for-not-restricting-nvidia-chip-exports/"
+      }
+     ]
+    },
+    {
+     "headline": "Judo champion shakes up French presidential race with surprise candidacy",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo",
+     "text": "The BBC says Teddy Riner is one of the most popular figures in France and one in five voters say they could support him.",
+     "ranks": "Top 5: BBC international (No. 5). On the front: BBC UK (No. 9). Most read: BBC international No. 2.",
+     "also": []
+    },
+    {
+     "headline": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo",
+     "text": "Heirs say “Blossoming Chestnut Trees” was sold under Nazi-era duress (the Times of Israel dates the sale to 1936); Sotheby’s says it will work with them to try to reach a solution.",
+     "ranks": "Top 5: BBC international (No. 3). On the front: Times of Israel. Most read: BBC international No. 4.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html"
+      },
+      {
+       "outlet": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/jewish-heirs-seek-to-halt-180-million-van-gogh-auction-over-alleged-nazi-era-forced-sale/"
+      }
+     ]
+    },
+    {
+     "headline": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+     "text": "The Guardian says Jonathan Kreiss-Tomkins’ win means Democrats will hold 30 governorships; the NYT homepage instead plays the still-running Alaska Senate count, where Mary Peltola’s lead is widening.",
+     "ranks": "Top 5: Guardian UK (No. 5). On the front: NYT (Senate count, No. 11), Times of Israel. Most read: Guardian No. 2; NYT trending No. 5 (Alaska Senate results).",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html"
+      },
+      {
+       "outlet": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/alaska-elects-first-democrat-governor-since-1998-in-another-blue-wave-win/"
+      }
+     ]
+    },
+    {
+     "headline": "Italy fines Meta €805m over accessing users' photos",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
+     "text": "The BBC says Meta is accused of not telling 20 million users it had access to their photos; the Guardian says Meta plans to appeal.",
+     "ranks": "Top 5: BBC international (No. 4), Guardian international (No. 5). On the front: Guardian UK (No. 8). Not in today’s most-read lists.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos"
+      }
+     ]
+    }
+   ],
+   "most_read": [
+    {
+     "outlet": "The New York Times",
+     "list": "nytimes.com trending list (signed-in browser read about 04:25)",
+     "items": [
+      {
+       "headline": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+       "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+      },
+      {
+       "headline": "After Relative Silence, Joe Rogan Said Trump's Policies Have Lost the 'Podcast Bros'",
+       "url": "https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html"
+      },
+      {
+       "headline": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
+       "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html"
+      },
+      {
+       "headline": "As Crisis Circled the Skies, Trump Kept Out of Sight and Off Topic",
+       "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
+      },
+      {
+       "headline": "Alaska U.S. Senate Election Results",
+       "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html"
+      }
+     ]
+    },
+    {
+     "outlet": "The Washington Post",
+     "list": "homepage “Most Read” box",
+     "items": [
+      {
+       "headline": "Stephen Miller faces first crisis as White House chief of staff",
+       "url": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-crisis-tests-stephen-miller-chief-staff-he-reorganizes/"
+      },
+      {
+       "headline": "A spy plane tied to covert attacks leads back to Florida’s largest senior community",
+       "url": "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/"
+      },
+      {
+       "headline": "Stephen Miller dresses like a reasonable man. But listen to what he says.",
+       "url": "https://www.washingtonpost.com/style/2026/11/14/stephen-millers-suits-make-radical-look-reassuringly-routine/"
+      },
+      {
+       "headline": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+       "url": "https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC (UK)",
+     "list": "bbc.co.uk/news “Most read”",
+     "items": [
+      {
+       "headline": "Alleged Russell Brand rape victim wants age of consent law changed",
+       "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo"
+      },
+      {
+       "headline": "'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
+       "url": "https://www.bbc.co.uk/news/articles/ckq6elm8lj2zo"
+      },
+      {
+       "headline": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+       "url": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo"
+      },
+      {
+       "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+      },
+      {
+       "headline": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+       "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC (international)",
+     "list": "bbc.com/news “Most read”",
+     "items": [
+      {
+       "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.com/news/articles/cwvg2l312ylqo"
+      },
+      {
+       "headline": "Judo champion shakes up French presidential race with surprise candidacy",
+       "url": "https://www.bbc.com/news/articles/c6dj1e8wyykmo"
+      },
+      {
+       "headline": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+       "url": "https://www.bbc.com/news/articles/c6wy9lynq4qno"
+      },
+      {
+       "headline": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+       "url": "https://www.bbc.com/news/articles/cmwy05gg75lvo"
+      },
+      {
+       "headline": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+       "url": "https://www.bbc.com/news/articles/cmz6qjpdy2wqo"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "list": "most viewed",
+     "items": [
+      {
+       "headline": "How I survived being forced into pornography: ‘I died in that hotel room. I was a walking corpse’",
+       "url": "https://www.theguardian.com/society/2026/nov/14/how-i-survived-being-forced-into-pornography-i-died-in-that-hotel-room-i-was-a-walking-corpse"
+      },
+      {
+       "headline": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+       "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+      },
+      {
+       "headline": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
+       "url": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses"
+      },
+      {
+       "headline": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
+       "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy"
+      },
+      {
+       "headline": "Honey review – a hugely entertaining Killing Eve prequel that’s packed with naughty jokes",
+       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/honey-review-killing-eve-prequel-bbc-one-iplayer"
+      }
+     ]
+    }
+   ],
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "home": "https://www.nytimes.com/",
+     "para": "The Times opens with six pieces on the ground stop (its causes, the president’s absence from view, the Democrats’ pushback on a $50 billion upgrade request, and how long recovery may take), then midterm pieces: how Americans voted, Joe Rogan on the “podcast bros,” and the Alaska count. Order from a signed-in browser read of the homepage at about 04:25 (the page’s date banner still read Saturday, Nov. 14).",
+     "items": [
+      {
+       "headline": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+       "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html"
+      },
+      {
+       "headline": "As Crisis Circled the Skies, Trump Kept Out of Sight and Off Topic",
+       "url": "https://www.nytimes.com/2026/11/14/us/politics/trump-flights-air-traffic-social-media.html"
+      },
+      {
+       "headline": "Upgrade Work Is Blamed for Nationwide Flight Shutdown",
+       "url": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights"
+      },
+      {
+       "headline": "Democrats Push Back on Duffy's Demand for $50 Billion for System Upgrades",
+       "url": "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/democrats-congress-faa"
+      },
+      {
+       "headline": "How Some Flights Were Exempt From the Ground Stop",
+       "url": "https://www.nytimes.com/2026/11/14/business/faa-ground-stop-exceptions-airlines.html"
+      }
+     ]
+    },
+    {
+     "name": "The Washington Post",
+     "home": "https://www.washingtonpost.com/",
+     "para": "The Post leads with its report that the FAA was warned for years about repair risks, plus two more ground-stop stories, then an investigation tracing a CIA-linked spy plane to The Villages in Florida, Russia’s NATO demands and a four-story Nvidia package.",
+     "items": [
+      {
+       "headline": "FAA was warned for years about repair risks leading to nationwide ground stop",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/14/faa-was-warned-years-about-repair-risks-leading-nationwide-ground-stop/"
+      },
+      {
+       "headline": "Work to replace old wiring led to ground stop, transportation secretary says",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/14/ground-stop-aftermath-sees-thousands-flights-canceled-delayed-saturday/"
+      },
+      {
+       "headline": "Duffy’s news briefing on nationwide ground stop derailed by tech difficulties",
+       "url": "https://www.washingtonpost.com/nation/2026/11/15/sean-duffys-news-briefing-ground-stop-disrupted-by-tech-difficulties/"
+      },
+      {
+       "headline": "A spy plane tied to covert attacks leads back to The Villages, Florida’s senior mega-community",
+       "url": "https://www.washingtonpost.com/investigations/2026/11/14/spy-plane-tied-covert-attacks-leads-back-floridas-largest-senior-community/"
+      },
+      {
+       "headline": "Russia seeks NATO pullback; Zelensky says U.S. asked about ceding territory",
+       "url": "https://www.washingtonpost.com/world/2026/11/14/russia-seeks-nato-pullback-zelensky-says-us-asked-about-ceding-territory/"
+      }
+     ]
+    },
+    {
+     "name": "BBC News",
+     "home": "https://www.bbc.co.uk/news",
+     "para": "Both BBC homepages lead with Zelensky’s Donbas claim. The UK page follows with Laura Kuenssberg on the coming review of young people not in work or education, the Brand age-of-consent call and the ground stop; the international page with the ground stop, the Van Gogh challenge, the Meta fine and Teddy Riner.",
+     "items": [
+      {
+       "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+      },
+      {
+       "headline": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+       "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o"
+      },
+      {
+       "headline": "Alleged Russell Brand rape victim wants age of consent law changed",
+       "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo"
+      },
+      {
+       "headline": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+       "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
+      },
+      {
+       "headline": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+       "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o"
+      }
+     ]
+    },
+    {
+     "name": "The Guardian",
+     "home": "https://www.theguardian.com/uk",
+     "para": "The UK edition leads with an exclusive that NHS England is on track to miss a cancer treatment target by 10,000 patients, then Zelenskyy’s SpaceX and Donbas claims and the age-of-consent review; the international edition leads with Zelenskyy and two more Ukraine stories, with the ground stop seventh.",
+     "items": [
+      {
+       "headline": "NHS England on track to miss key cancer treatment target by 10,000 patients",
+       "url": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients"
+      },
+      {
+       "headline": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
+       "url": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy"
+      },
+      {
+       "headline": "UK government to consider changing age of consent after allegations against Russell Brand",
+       "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand"
+      },
+      {
+       "headline": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
+       "url": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes"
+      },
+      {
+       "headline": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+       "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+      }
+     ]
+    },
+    {
+     "name": "The Times",
+     "home": "https://www.thetimes.com/",
+     "para": "The Times leads with a woman’s account of meeting Russell Brand at 16 and a report that the age of consent could be staggered, then Labour politics under Andy Burnham (a rebellion over the Rosebank oilfield and his EU reset) and the King’s 78th birthday.",
+     "items": [
+      {
+       "headline": "Brand was 30. I was 16. He called me ‘the child’",
+       "url": "https://www.thetimes.com/uk/crime/article/russell-brand-mia-latter-age-of-consent-3pwdcqjsc"
+      },
+      {
+       "headline": "Age of consent could be staggered after Brand outcry",
+       "url": "https://www.thetimes.com/uk/crime/article/russell-brand-age-consent-law-xwzgdx2nf"
+      },
+      {
+       "headline": "Labour MPs rebel against Rosebank oilfield",
+       "url": "https://www.thetimes.com/uk/politics/article/andy-burnham-rosebank-oil-gas-field-labour-nhxx0bpcn"
+      },
+      {
+       "headline": "EU leaders lap up Burnham’s reset. His own cabinet may not",
+       "url": "https://www.thetimes.com/uk/politics/article/labour-andy-burnham-eu-return-brexit-qv3b360qq"
+      },
+      {
+       "headline": "The King’s big childhood regret? He never went to Butlin’s",
+       "url": "https://www.thetimes.com/uk/royal-family/article/king-charles-birthday-78-butlins-t7ftfjzmh"
+      }
+     ]
+    },
+    {
+     "name": "The Times of Israel",
+     "home": "https://www.timesofisrael.com/",
+     "para": "The Times of Israel leads with Netanyahu’s call for unity-government talks “without preconditions” and Eisenkot’s reply, with Ahmad Tibi’s messages and Eisenkot’s charge of a racist campaign beside it; the Gaza strike on a Hamas commander tops its live blog, and the U.S. flight shutdown is the second package.",
+     "items": [
+      {
+       "headline": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’",
+       "url": "https://www.timesofisrael.com/netanyahu-again-urges-unity-talks-without-preconditions-eisenkot-rejects-pms-spin/"
+      },
+      {
+       "headline": "IDF says ‘senior terrorist in Hamas’s military wing’ targeted in Gaza strike",
+       "url": "https://www.timesofisrael.com/liveblog-november-15-2026/"
+      },
+      {
+       "headline": "US aviation shutdown blamed on L3 Harris installed router undergoing routine maintenance",
+       "url": "https://www.timesofisrael.com/us-aviation-shutdown-blamed-on-l3-harris-installed-router-undergoing-routine-maintenance/"
+      },
+      {
+       "headline": "Trump tells advisers he may not attack Iran as long as it doesn’t provoke US, sources say",
+       "url": "https://www.timesofisrael.com/trump-tells-advisers-he-may-not-attack-iran-as-long-as-it-doesnt-provoke-us-sources-say/"
+      },
+      {
+       "headline": "200th Arab victim this year: Woman killed, 3 hurt as grenade thrown at pastry shop in the north",
+       "url": "https://www.timesofisrael.com/200th-arab-victim-this-year-woman-killed-3-hurt-as-grenade-thrown-at-pastry-shop-in-the-north/"
+      }
+     ]
+    },
+    {
+     "name": "ynet",
+     "home": "https://www.ynet.co.il/",
+     "para": "ynet leads with the grenade attack on a pastry shop in Kafr Manda, told by the woman’s husband, then Hamas confirming the killing of its Rafah brigade commander; coalition talks and Iran come lower. Headlines translated from Hebrew.",
+     "items": [
+      {
+       "headline": "Disaster instead of a birthday: “We came to buy a cake and suddenly they threw a grenade. I was wounded, and my wife died” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/hj7h311lazx"
+      },
+      {
+       "headline": "Hamas: Rafah brigade commander killed in the Gaza Strip (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/sytq2liczx"
+      },
+      {
+       "headline": "“The urge for cakes simply disappeared”: the Israelis who said goodbye to carbohydrates for good (in Hebrew)",
+       "url": "https://www.ynet.co.il/health/article/h1nnuow3mg"
+      },
+      {
+       "headline": "Emergency hour: Israel in a deep and worsening strategic crisis (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/7c58otov3"
+      },
+      {
+       "headline": "Video: armored police jeep ran a red light and hit the car of a school principal, who was killed (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/s1qkmwirfe"
+      }
+     ]
+    }
+   ],
+   "israel": {
+    "para": "In Israel, the Times of Israel leads with Netanyahu’s call for unity talks and Eisenkot’s reply, while ynet leads with the grenade attack in Kafr Manda, which the Times of Israel counts as the 200th Arab homicide victim this year; both also play the Gaza strike that Hamas says killed its Rafah commander and the question of new strikes on Iran. Abroad, no Israel story is near the top at the NYT, the Post, the BBC, the Guardian or The Times this morning; the Guardian’s international front still links, lower down, Friday’s report on Eisenkot’s charge of a racist campaign against Arab citizens.",
+    "items": [
+     {
+      "headline": "Netanyahu urges talks ‘without preconditions’ on unity government; Eisenkot rejects PM’s ‘spin’",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/netanyahu-again-urges-unity-talks-without-preconditions-eisenkot-rejects-pms-spin/",
+      "text": "The Times of Israel says that for the first time Netanyahu did not specify he would need to head a unity coalition; Eisenkot says a meeting between their parties is already set, and ynet quotes him calling the call “spin.”",
+      "also": [
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/b19v4mirfe"
+       }
+      ]
+     },
+     {
+      "headline": "Disaster instead of a birthday: “We came to buy a cake and suddenly they threw a grenade” (in Hebrew)",
+      "outlet": "ynet (Hebrew)",
+      "url": "https://www.ynet.co.il/news/article/hj7h311lazx",
+      "text": "ynet says Lina Qassem was killed and her husband Ziad wounded when criminals threw a grenade into a pastry shop where they were buying a birthday cake; the Times of Israel says police arrested three suspects.",
+      "also": [
+       {
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/200th-arab-victim-this-year-woman-killed-3-hurt-as-grenade-thrown-at-pastry-shop-in-the-north/"
+       }
+      ]
+     },
+     {
+      "headline": "Hamas: Rafah brigade commander killed in the Gaza Strip (in Hebrew)",
+      "outlet": "ynet (Hebrew)",
+      "url": "https://www.ynet.co.il/news/article/sytq2liczx",
+      "text": "ynet says an Israeli drone struck a car in Khan Younis carrying Samir Abu Younis, and Hamas’s military wing announced his death; the Times of Israel says the IDF has not yet named its target.",
+      "also": [
+       {
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog-november-15-2026/"
+       }
+      ]
+     },
+     {
+      "headline": "Trump tells advisers he may not attack Iran as long as it doesn’t provoke US, sources say",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/trump-tells-advisers-he-may-not-attack-iran-as-long-as-it-doesnt-provoke-us-sources-say/",
+      "text": "The Times of Israel says regional allies are urging restraint; ynet reports that Israel is preparing for the possibility of acting without the United States.",
+      "also": [
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/hy11dym80ml"
+       }
+      ]
+     },
+     {
+      "headline": "Three governments in one? The governments Eisenkot is trying to form, and what to expect at the meeting with Likud (in Hebrew)",
+      "outlet": "ynet (Hebrew)",
+      "url": "https://www.ynet.co.il/news/article/rksmzs8cml",
+      "text": "ynet says Eisenkot is negotiating on three tracks at once: with the ultra-Orthodox parties, with the Arab parties and now with Netanyahu."
+     }
+    ]
+   },
+   "culture": [
+    {
+     "headline": "Honey review – a hugely entertaining Killing Eve prequel that’s packed with naughty jokes",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/honey-review-killing-eve-prequel-bbc-one-iplayer",
+     "text": "The review of the new BBC One series is No. 5 on the Guardian’s most-viewed list and on its UK front.",
+     "section": "TV"
+    },
+    {
+     "headline": "Philippines wins first Eurovision Song Contest Asia",
+     "outlet": "BBC; also ynet and the Guardian",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo",
+     "text": "The BBC says front-runner Carmelle won with her women’s empowerment anthem “Sobra-Sobra” at the contest held in Thailand.",
+     "section": "Music"
+    },
+    {
+     "headline": "Olivia Wilde Hit Bottom. Here’s How She Bounced Back.",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/14/magazine/olivia-wilde-interview.html",
+     "text": "The NYT Magazine interview, about shame, regret and failure before a hit movie, is No. 9 on the NYT trending list.",
+     "section": "Movies"
+    },
+    {
+     "headline": "‘It’s like the wild west’: how AI has rocked the literary world",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+     "text": "The Guardian says authors are losing deals and writers have been removed from prize shortlists over accusations of AI use.",
+     "section": "Books"
+    },
+    {
+     "headline": "As a doctor, here’s the easy breakfast I recommend to my patients",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/wellness/2026/11/14/doctor-heres-easy-breakfast-i-recommend-my-patients/",
+     "text": "On the Post homepage, Trisha Pasricha says overnight oats are one of the best breakfasts for the gut and the heart.",
+     "section": "Food"
+    },
+    {
+     "headline": "Asi Cohen and Liat Har Lev are a couple again, but this time a little less funny (in Hebrew)",
+     "outlet": "Israel Hayom; also Haaretz Galeria",
+     "url": "https://www.israelhayom.co.il/culture/tv/article/21829928",
+     "text": "Israel Hayom says the two reunite in the romantic comedy “Lo Kara Klum” (“Nothing Happened”), as a couple whose marriage is shaken by a suspicious message; Haaretz Galeria’s front page also carries a review of the series.",
+     "section": "TV (Israel)"
+    },
+    {
+     "headline": "After the Venice win: “Naza” nominated for three awards in Europe (in Hebrew)",
+     "outlet": "Israel Hayom",
+     "url": "https://www.israelhayom.co.il/culture/films/article/21849155",
+     "text": "Israel Hayom says the documentary by Israeli filmmakers Yuval Abraham and Rachel Szor was named on Saturday among the nominees for the 39th European Film Awards, despite sharp criticism in Israel.",
+     "section": "Movies (Israel)"
+    },
+    {
+     "headline": "66 years later, with Yehoram Gaon and Ilanit: the Song and Chorus Festival returns (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/ryzwguqazl",
+     "text": "ynet says a tribute show to the festival will be held on Dec. 1 at the Heichal HaTarbut hall in Tel Aviv, with honors for producer Hanoch Hasson and composer Effi Netzer.",
+     "section": "Music (Israel)"
+    }
+   ],
+   "sports": [
+    {
+     "headline": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o",
+     "text": "Wales beat New Zealand for the first time in 73 years; it leads Guardian Sport and is second on BBC Sport.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/sport/2026/nov/14/wales-dewi-lake-new-zealand-victory-amazing-feeling-historic-win"
+      }
+     ]
+    },
+    {
+     "headline": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo",
+     "text": "England play world champions Spain in Madrid on Sunday; the Guardian says Spain’s coach Luis de la Fuente told Thomas Tuchel there is no racism in Spain.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league"
+      }
+     ]
+    },
+    {
+     "headline": "Five-try Will Joseph equals record as England steamroller Japan",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/sport/2026/nov/14/england-japan-nations-championship-match-report",
+     "text": "England beat Japan 78-15 with 13 tries; BBC Sport has it third.",
+     "also": [
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq0l3pn5z20xo"
+      }
+     ]
+    },
+    {
+     "headline": "Svitolina races in WTA Finals showpiece against Andreeva",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o",
+     "text": "Elina Svitolina lost just three games against Linda Noskova to set up the final against Mirra Andreeva."
+    },
+    {
+     "headline": "Spirit rallies past Utah to secure third straight NWSL final appearance",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/sports/2026/11/14/spirit-rallies-past-utah-secure-third-straight-nwsl-final-appearance/",
+     "text": "The Washington Spirit won the semifinal 2-1 and will host the title game at Audi Field; The Athletic says it is the club’s fifth final.",
+     "also": [
+      {
+       "outlet": "The Athletic",
+       "url": "https://www.nytimes.com/athletic/7782334/2026/11/14/nwsl-semifinal-luvanga-rowdy-audi-spirit-home-championship/"
+      }
+     ]
+    }
+   ],
+   "unread": [
+    {
+     "outlet": "The Telegraph",
+     "tried": "telegraph.co.uk with curl returned an “Access Issue” page (unusual-activity block); the r.jina.ai reader got the same page (HTTP 402)."
+    },
+    {
+     "outlet": "Mako entertainment",
+     "tried": "mako.co.il/entertainment returned a Radware block page to curl; used ynet, Israel Hayom and Haaretz Galeria instead."
+    },
+    {
+     "outlet": "Walla culture (e.walla.co.il)",
+     "tried": "Page loaded but lists no article links in the HTML (the lists load by script)."
+    },
+    {
+     "outlet": "ynet culture page and Times of Israel arts section",
+     "tried": "ynet.co.il/culture returned 404 (used ynet.co.il/entertainment); the Times of Israel culture items came from its homepage through WebFetch, as curl gets a Cloudflare challenge."
+    },
+    {
+     "outlet": "Haaretz Galeria review of “Lo Kara Klum”",
+     "tried": "The headline came from the Galeria front page (read with curl), but the review page itself returned 403, so it is not linked."
+    },
+    {
+     "outlet": "Most-read lists for The Times, Times of Israel and ynet",
+     "tried": "None found in the pages read."
+    }
+   ],
+   "method": "Read 04:22–04:28 Israel time. NYT homepage order and trending list from a signed-in browser read of nytimes.com at about 04:25 (file msm/nyt_browser_2026-11-15.json from the browser helper; the page’s date banner still read Saturday, Nov. 14); the NYT homepage RSS feed was used only for descriptions. The rest with curl: WaPo homepage and Most Read box and The Times homepage through the r.jina.ai reader; BBC UK and international homepages and Most read; Guardian UK and international fronts and the most-viewed feed; Times of Israel homepage through WebFetch plus its RSS feed; ynet homepage and entertainment page, Haaretz Galeria and Israel Hayom culture from their pages; sections from RSS feeds plus BBC Sport, Guardian Sport and The Athletic. Front pages: not refreshed by this worker; build_msm.py runs msm/fetch_frontpages.py at build time. At about 04:26 the NYT 15 Nov page (Freedom Forum) was not yet posted (404); the WSJ 14 Nov page was the latest posted; the Guardian and FT have no Sunday print edition, so Paperboy has no 15 Nov files and their 14 Nov pages are the latest."
+  },
+  {
    "date": "2026-11-14",
    "read_at": "2026-11-14T04:15:00+02:00 to 04:45 Israel time",
    "intro": "A four-hour nationwide ground stop on U.S. flights leads the New York Times, the Washington Post, the BBC, the Guardian, The Times, the Times of Israel and ynet this morning. Readers are also clicking on the “miracle on the Mississippi” riverboat rescue in New Orleans, which tops the BBC most-read list.",
@@ -2561,5 +3219,5 @@
    "cover": "The big newsrooms split on what matters most today. The New York Times leads with the woman at the center of the Nvidia spy scandal, which is also No. 1 on the Times and Washington Post most-read lists. The Post leads with House Republicans blocking the Hegseth impeachment. In Britain, The Guardian and The Times lead with the allegations against David Walliams, which he denies, and the BBC's top stories include the arrest of a US Army soldier near Gloucester on suspicion of spying for Russia. The Times of Israel leads with Netanyahu's Knesset speech. Away from the news pages, M John Harrison became the first science fiction author to win the Booker Prize, Stacy Keach died at 85, and Paul McCartney became a billionaire."
   }
  ],
- "updated": "2026-11-14T04:45:00+02:00"
+ "updated": "2026-11-15T04:29:00+02:00"
 }
