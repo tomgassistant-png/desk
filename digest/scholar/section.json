@@ -13,9 +13,22 @@
   ],
   "link_groups": [],
   "backgrounders": [],
-  "updated": "2026-11-11"
+  "updated": "2026-11-15"
  },
  "items": [
+  {
+   "id": "scholar-mari-people",
+   "edition": "2026-11-15",
+   "section": "scholar",
+   "headline": "The Mari People: A Two-Lesson Course (Volga, language, faith)",
+   "text": "A two-lesson course on the Mari of the middle Volga: their origins and Uralic language family, the 2021 census, the state of the Mari language, their native faith and craft, the Soviet and post-Soviet years, and how Russians have pictured them from imperial times to today. It corrects several figures in the starting text and fact-checks the claim of an armed movement with Finnish training camps, which is unsupported. Every claim is tagged confirmed, disputed or unsupported, and unchecked facts are marked unconfirmed.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/mari-people-course.html"
+    }
+   ]
+  },
   {
    "id": "scholar-israel-ai-plan",
    "edition": "2026-11-11",
