@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-15T04:37:36+02:00",
+ "updated": "2026-11-15T09:57:55+02:00",
  "credit": "Front pages via Freedom Forum (frontpages.freedomforum.org) and Paperboy (thepaperboy.com)",
  "papers": [
   {
    "key": "nyt",
    "name": "The New York Times",
    "site": "https://www.nytimes.com/",
-   "edition": "2026-11-14",
+   "edition": "2026-11-15",
    "source": "Freedom Forum",
-   "source_url": "https://cdn.freedomforum.org/dfp/pdf14/NY_NYT.pdf",
-   "last_modified": "Sat, 14 Nov 2026 05:06:10 GMT",
-   "fetched": "2026-11-15T04:37:33+02:00",
+   "source_url": "https://cdn.freedomforum.org/dfp/pdf15/NY_NYT.pdf",
+   "last_modified": "Sun, 15 Nov 2026 05:06:06 GMT",
+   "fetched": "2026-11-15T09:57:53+02:00",
    "file": "frontpages/nyt.jpg",
    "thumb": "frontpages/nyt-thumb.jpg"
   },
