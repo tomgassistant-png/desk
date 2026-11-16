@@ -13,9 +13,22 @@
   ],
   "link_groups": [],
   "backgrounders": [],
-  "updated": "2026-11-15"
+  "updated": "2026-11-16"
  },
  "items": [
+  {
+   "id": "scholar-chronicles-seminar",
+   "edition": "2026-11-16",
+   "section": "scholar",
+   "headline": "Chronicles: History Rewritten, and the Work of Sara Japhet (Hebrew Bible, Persian age)",
+   "text": "A one-session seminar on the biblical books of Chronicles: how the author reworked Samuel and Kings, side-by-side Hebrew and English tables, the scholarship of Sara Japhet beside Wellhausen, Noth, Williamson, Cross, Knoppers and Kalimi, and three tests of how far the book is history. Every claim is tagged confirmed, disputed or unsupported, sources that disagree are shown side by side, and unchecked facts are marked unconfirmed.",
+   "sources": [
+    {
+     "name": "Open the page",
+     "url": "https://tomgassistant-png.github.io/scholar/chronicles-seminar.html"
+    }
+   ]
+  },
   {
    "id": "scholar-mari-people",
    "edition": "2026-11-15",
