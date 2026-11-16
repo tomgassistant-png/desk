@@ -1,6 +1,671 @@
 {
  "editions": [
   {
+   "date": "2026-11-16",
+   "read_at": "2026-11-16T04:19:00+02:00 to 04:25 Israel time",
+   "intro": "The fallout from Jensen Huang’s exit at Nvidia leads the New York Times and the Guardian’s international front, while the Washington Post leads with the transportation secretary’s defense after Friday’s nationwide flight ground stop. The BBC leads with Zelensky’s call to lift Starlink limits (international) and a plan to cut payroll taxes for under-25s (UK); The Times of London leads with warnings about a zero-hours contract ban, and ynet with stalled Likud–Yashar unity talks.",
+   "cover": "The New York Times leads with how the Nvidia fallout hangs over a Trump–Xi meeting, the first of five Nvidia stories; the Guardian’s international front also leads with Nvidia, as Elon Musk backs a letter calling for Jensen Huang’s return. The Washington Post leads with Transportation Secretary Sean Duffy blaming Congress and past administrations for the ground stop. The BBC leads with Zelensky’s call to lift Starlink limits and, in the UK, a youth jobs report; The Times of London leads with warnings about a zero-hours ban. The NYT trending list is led by an investigation of how Jeffrey Epstein grew his trafficking ring. Getting big play: England’s 3-2 win in Spain, the Guardian’s piece on Hollywood and trans actors, and the death of Dana International’s longtime manager, Shai Karem.",
+   "leading": [
+    {
+     "headline": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html",
+     "text": "The NYT says Trump has indicated he does not plan to press the Chinese leader about U.S. intelligence findings that a Chinese spy targeted Jensen Huang; the Guardian says Elon Musk joined 158,000 others in an open letter calling for Huang’s return, and Megaspeed says Alice Huang left the company in 2025.",
+     "ranks": "Leads: NYT (first five homepage stories), Guardian international (No. 1 and No. 2). Top 5: Guardian UK (No. 5 and No. 6), The Times (No. 5), ynet (No. 2), BBC international (No. 2). On the front: WaPo (Lutnick, Stephen Miller). Most read: NYT trending No. 2, BBC international No. 2, Guardian No. 8.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/politics/2026/11/15/gop-glare-lutnick-grows-amid-nvidia-scandal/"
+      }
+     ]
+    },
+    {
+     "headline": "Duffy blames Congress, prior administrations for air travel halt, chaos",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/",
+     "text": "The Post says the transportation secretary refused to apologize and pointed to a lack of investment in air traffic modernization; the NYT says he pointed to a router in Arkansas and could not guarantee a similar meltdown would not happen again.",
+     "ranks": "Leads: WaPo (first three stories). On the front: NYT (No. 6 to No. 8). Most read: NYT trending No. 6, BBC international No. 6 (flights still canceled or delayed).",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o"
+      }
+     ]
+    },
+    {
+     "headline": "Staggered age of consent to be discussed after Brand case, minister says",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do",
+     "text": "The BBC says a woman who alleges Russell Brand raped her when she was 16 wants relationships between 16- and 17-year-olds and adults made illegal; The Times leads its next stories with Brand protesting his innocence from a sex offenders’ prison.",
+     "ranks": "Top 5: The Times (No. 2 and No. 3), BBC UK (No. 2), BBC international (No. 5). On the front: Guardian UK (No. 8 and No. 9). Most read: BBC UK No. 1 (Brand moved to a new prison), BBC international No. 3 and No. 5.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o"
+      }
+     ]
+    },
+    {
+     "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+     "text": "The BBC says the Ukrainian president told the U.S. and Elon Musk that the slowed-down internet is making it hard to stop Russian attacks.",
+     "ranks": "Leads: BBC international. Top 5: BBC UK (No. 3). On the front: Guardian UK (Ukraine briefing). Most read: BBC international No. 4.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/15/ukraine-war-briefing-us-proposes-kyiv-cede-land-to-russia-for-nato-membership-zelenskyy-says"
+      }
+     ]
+    },
+    {
+     "headline": "Iran Attacks Bahrain for the Second Time in Days",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+     "text": "The NYT says the attacks resume after a two-month lull as U.S.–Iran peace talks appear stalled; the Guardian says Iran launched drones against a U.S. military base in Bahrain, and the Times of Israel’s live blog leads with a report that a third U.S. aircraft carrier is arriving in the region.",
+     "ranks": "Top 5: Guardian international (No. 3). On the front: NYT (No. 11, under its “War in Iran” package), WaPo, Times of Israel (live blog). Most read: Guardian No. 6.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/15/iran-targets-bahrain-twice-after-months-quiet-claiming-retaliation-against-us/"
+      },
+      {
+       "outlet": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/liveblog-november-16-2026/"
+      }
+     ]
+    },
+    {
+     "headline": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko",
+     "text": "The BBC says the report out this week will suggest cutting employment costs for young workers gradually over five years; the Guardian says the prime minister, Andy Burnham, promises a “root-and-branch rethink” of support for young people.",
+     "ranks": "Leads: BBC UK, Guardian UK (No. 1 and No. 2, one an opinion piece). On the front: The Times (wage subsidies for young people). Most read: BBC UK No. 4.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet"
+      }
+     ]
+    },
+    {
+     "headline": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+     "text": "The BBC says Prince Harry visited injured veterans in Ukraine and praised the country’s resilience.",
+     "ranks": "Top 5: BBC international (No. 4), BBC UK (No. 4). On the front: Guardian international (No. 6), The Times. Most read: Guardian No. 10.",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o"
+      }
+     ]
+    },
+    {
+     "headline": "Israel Kidnapped Iranian Generals in Flawed Hunt for a Missing Airman",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+     "text": "The NYT says Israeli officials were convinced Iran was to blame for Ron Arad’s disappearance and alternative theories got little attention until now; ynet and the Times of Israel both report the investigation.",
+     "ranks": "On the front: NYT (No. 10), ynet (No. 10), Times of Israel. Most read: NYT trending No. 5.",
+     "also": [
+      {
+       "outlet": "ynet (Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/rkpspipazl"
+      },
+      {
+       "outlet": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/israel-kidnapped-iranian-generals-killed-one-in-effort-to-locate-ron-arad-nyt/"
+      }
+     ]
+    }
+   ],
+   "most_read": [
+    {
+     "outlet": "The New York Times",
+     "list": "nytimes.com trending list (signed-in browser read this morning)",
+     "items": [
+      {
+       "headline": "How Jeffrey Epstein Grew His Sex-Trafficking Ring",
+       "url": "https://www.nytimes.com/2026/11/15/magazine/epstein-victims-recruiting-trafficking.html"
+      },
+      {
+       "headline": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+       "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+      },
+      {
+       "headline": "Opinion: A Republican Party That’s Learned Nothing",
+       "url": "https://www.nytimes.com/2026/11/15/opinion/gop-republican-party-midterms.html"
+      },
+      {
+       "headline": "Democrats Now Have a Path to Sidestep the Electoral College. Would It Work?",
+       "url": "https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html"
+      },
+      {
+       "headline": "Israel Kidnapped Iranian Generals in Flawed Hunt for a Missing Airman",
+       "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html"
+      }
+     ]
+    },
+    {
+     "outlet": "The Washington Post",
+     "list": "homepage “Most Read” box",
+     "items": [
+      {
+       "headline": "21 habits of people whose homes are always tidy",
+       "url": "https://www.washingtonpost.com/home/2026/11/15/21-easy-ways-keep-your-home-looking-tidy/"
+      },
+      {
+       "headline": "A new thumb implant promises improved function for people with arthritis",
+       "url": "https://www.washingtonpost.com/wellness/2026/11/15/new-thumb-implant-promises-improved-function-people-with-arthritis/"
+      },
+      {
+       "headline": "Eggs vs. oatmeal: Which breakfast is better for you?",
+       "url": "https://www.washingtonpost.com/wellness/2026/11/15/eggs-vs-oatmeal-which-breakfast-is-better-you/"
+      },
+      {
+       "headline": "Tulane granted him a diploma while investigating him for rape",
+       "url": "https://www.washingtonpost.com/investigations/2026/11/15/tulane-university-gave-tate-weston-diploma-while-investigating-him-rape/"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC (international)",
+     "list": "bbc.com/news “Most read”",
+     "items": [
+      {
+       "headline": "Russia's mega-rich are already imagining a future after Putin",
+       "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o"
+      },
+      {
+       "headline": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+      },
+      {
+       "headline": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+       "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o"
+      },
+      {
+       "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o"
+      },
+      {
+       "headline": "Staggered age of consent to be discussed after Brand case, minister says",
+       "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC (UK)",
+     "list": "bbc.co.uk/news “Most read”",
+     "items": [
+      {
+       "headline": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+       "url": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o"
+      },
+      {
+       "headline": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+       "url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o"
+      },
+      {
+       "headline": "Trident submarine returns home after record-breaking undersea patrol",
+       "url": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o"
+      },
+      {
+       "headline": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+       "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko"
+      },
+      {
+       "headline": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+       "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "list": "most viewed (Guardian most-read feed)",
+     "items": [
+      {
+       "headline": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
+       "url": "https://www.theguardian.com/culture/2026/nov/15/hollywood-trans-actors"
+      },
+      {
+       "headline": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
+       "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her"
+      },
+      {
+       "headline": "England fend off fiery Spain fightback after Anderson’s red to top Nations League group",
+       "url": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report"
+      },
+      {
+       "headline": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
+       "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it"
+      },
+      {
+       "headline": "Estonia to close all border crossings with Russia after attack on drone maker",
+       "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+      }
+     ]
+    }
+   ],
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "home": "https://www.nytimes.com/",
+     "para": "The Times opens with five Nvidia stories (the Trump–Xi meeting, Lutnick and chip rules, Megaspeed, and how Huang’s secret led to his fall), then the ground stop package and a “War in Iran” package that includes the Ron Arad investigation and Iran’s attacks on Bahrain. Order from a signed-in browser read of the homepage this morning.",
+     "items": [
+      {
+       "headline": "Nvidia Fallout Looms Over Trump-Xi Meeting",
+       "url": "https://www.nytimes.com/2026/11/15/us/politics/nvidia-trump-huang-china-xi.html"
+      },
+      {
+       "headline": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+       "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-nvidia-cantor-fitzgerald.html"
+      },
+      {
+       "headline": "Megaspeed Says Alice Huang Left the Company in August 2025",
+       "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html"
+      },
+      {
+       "headline": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+       "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+      },
+      {
+       "headline": "Duffy Points to Router in Arkansas as Start of Nationwide Ground Stop",
+       "url": "https://www.nytimes.com/2026/11/15/us/sean-duffy-ground-stop-trump-faa.html"
+      }
+     ]
+    },
+    {
+     "name": "The Washington Post",
+     "home": "https://www.washingtonpost.com/",
+     "para": "The Post leads with three ground stop stories (Duffy blaming Congress, Trump blaming Biden, and Democrats pointing to unspent funds), then an investigation of a student found responsible for sexual assault who was admitted to law school.",
+     "items": [
+      {
+       "headline": "Duffy blames Congress, prior administrations for air travel halt, chaos",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/15/sean-duffy-blames-congress-prior-administrations-ground-stop-chaos/"
+      },
+      {
+       "headline": "Trump breaks his silence, blames Biden for FAA problems",
+       "url": "https://www.washingtonpost.com/politics/2026/11/15/trump-blames-biden-faa-problems-first-comments-nationwide-ground-stop/"
+      },
+      {
+       "headline": "As Duffy seeks air traffic control upgrades, Democrats point to unspent funds",
+       "url": "https://www.washingtonpost.com/politics/2026/11/15/democrats-point-unspent-funds-sean-duffy-seeks-air-traffic-control-upgrades/"
+      },
+      {
+       "headline": "A university found him responsible for sex assault. A law school admitted him anyway.",
+       "url": "https://www.washingtonpost.com/investigations/2026/11/15/tulane-university-gave-tate-weston-diploma-while-investigating-him-rape/"
+      },
+      {
+       "headline": "Pentagon prepares its own prosecution of general accused of leaking",
+       "url": "https://www.washingtonpost.com/national-security/2026/11/15/pentagon-prepares-its-own-prosecution-lt-gen-brett-sylvia/"
+      }
+     ]
+    },
+    {
+     "name": "BBC News",
+     "home": "https://www.bbc.com/news",
+     "para": "The international homepage leads with Zelensky’s Starlink appeal, then Megaspeed and the Nvidia spy case; the UK homepage leads with the Milburn youth jobs report and the age-of-consent debate. Items below are the international order.",
+     "items": [
+      {
+       "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+       "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o"
+      },
+      {
+       "headline": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+      },
+      {
+       "headline": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+       "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o"
+      },
+      {
+       "headline": "Prince Harry praises war veterans on surprise visit to Ukraine",
+       "url": "https://www.bbc.co.uk/news/articles/c60evn992jq8o"
+      },
+      {
+       "headline": "UK to discuss staggered age of consent after Brand case",
+       "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do"
+      }
+     ]
+    },
+    {
+     "name": "The Guardian",
+     "home": "https://www.theguardian.com/international",
+     "para": "The international front leads with Musk backing the campaign to bring back Jensen Huang, then Megaspeed and Iran’s drone attacks on Bahrain; the UK front leads with the prime minister’s youth jobs pledge. Items below are the international order.",
+     "items": [
+      {
+       "headline": "Elon Musk joins 158,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+       "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo"
+      },
+      {
+       "headline": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+       "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang"
+      },
+      {
+       "headline": "Iran launches drone attacks against US military base in Bahrain",
+       "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+      },
+      {
+       "headline": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+       "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb"
+      },
+      {
+       "headline": "Estonia to close all border crossings with Russia after attack on drone maker",
+       "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+      }
+     ]
+    },
+    {
+     "name": "The Times",
+     "home": "https://www.thetimes.com/",
+     "para": "The Times leads with NHS and fire service warnings that the zero-hours ban puts the public at risk, then two Russell Brand stories, England’s win in Spain and Jensen Huang’s reported plan to return. Article links could not be captured this morning, so the items link to the homepage.",
+     "items": [
+      {
+       "headline": "Labour’s zero-hours ban puts public at risk, NHS and fire service say",
+       "url": "https://www.thetimes.com/"
+      },
+      {
+       "headline": "Russell Brand protests innocence from sex offenders’ prison",
+       "url": "https://www.thetimes.com/"
+      },
+      {
+       "headline": "Lawyers must stop using ‘rape myths’ in wake of Brand trial",
+       "url": "https://www.thetimes.com/"
+      },
+      {
+       "headline": "Superman Trafford helps ten-man England cling on to seal famous win",
+       "url": "https://www.thetimes.com/"
+      },
+      {
+       "headline": "Jensen Huang ‘plots return to role as Nvidia boss’",
+       "url": "https://www.thetimes.com/"
+      }
+     ]
+    },
+    {
+     "name": "The Times of Israel",
+     "home": "https://www.timesofisrael.com/",
+     "para": "The homepage could not be read this morning, so these are the newest stories from its feed, not its homepage order; its live blog leads with a report that a third U.S. aircraft carrier is arriving in the region.",
+     "items": [
+      {
+       "headline": "Third US aircraft carrier said to arrive in Mideast as Washington shores up troops",
+       "url": "https://www.timesofisrael.com/liveblog-november-16-2026/"
+      },
+      {
+       "headline": "Nvidia CEO Huang reportedly mulling comeback just days after quitting amid scandal",
+       "url": "https://www.timesofisrael.com/nvidia-ceo-huang-reportedly-mulling-comeback-just-days-after-quitting-amid-scandal/"
+      },
+      {
+       "headline": "No progress reported in Yashar-Likud unity talks; Netanyahu said open to excluding Ben Gvir",
+       "url": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/"
+      },
+      {
+       "headline": "Police, AG said probing whether PM’s office faked Arab vote-buying scandal to undermine election",
+       "url": "https://www.timesofisrael.com/police-said-to-probe-whether-pms-office-faked-arab-vote-buying-scandal-to-undermine-election/"
+      },
+      {
+       "headline": "Yemeni government forces retreat from Bab el-Mandeb Strait in setback against Houthis",
+       "url": "https://www.timesofisrael.com/yemeni-government-forces-retreat-from-bab-el-mandeb-strait-in-setback-against-houthis/"
+      }
+     ]
+    },
+    {
+     "name": "ynet",
+     "home": "https://www.ynet.co.il/",
+     "para": "ynet leads with the stalled unity talks and the change bloc’s priorities, then the report that Jensen Huang is weighing a comeback and the death of Shai Karem, Dana International’s longtime manager (headlines translated from Hebrew).",
+     "items": [
+      {
+       "headline": "The understanding in the change bloc: a state commission of inquiry will have to wait. Unity? “Only if there is no other solution” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/byjc00opcgx"
+      },
+      {
+       "headline": "“Nvidia CEO weighing a comeback”: the report, and the pressure reaching the White House (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/bkwlsfdrfl"
+      },
+      {
+       "headline": "Shai Karem, Dana International’s manager, has died (in Hebrew)",
+       "url": "https://www.ynet.co.il/entertainment/article/bkz1htwrzl"
+      },
+      {
+       "headline": "U2 tried to recreate its biggest reinvention. This time it almost succeeded (in Hebrew)",
+       "url": "https://www.ynet.co.il/entertainment/article/hkojggwrzx"
+      },
+      {
+       "headline": "Report: suspicion that the prime minister’s office planted information on “election theft”; Zini sought wiretaps on Knesset members (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/skr004dw0fe"
+      }
+     ]
+    }
+   ],
+   "israel": {
+    "para": "In Israel, ynet leads with the stalled Likud–Yashar unity talks, and both ynet and the Times of Israel play a report that police and the attorney general are checking whether the prime minister’s office planted the Arab vote-buying claims; the Times of Israel’s live blog leads with a third U.S. aircraft carrier. Abroad, the NYT runs its investigation of Israel kidnapping Iranian generals in the hunt for Ron Arad at No. 10 on its homepage (No. 5 on trending) and Iran’s attacks on Bahrain at No. 11; the Guardian’s international front carries a four-country call on Israel to allow aid into Gaza at No. 4. No Israel story is near the top at the BBC, the Post or The Times.",
+    "items": [
+     {
+      "headline": "The understanding in the change bloc: a state commission of inquiry will have to wait. Unity? “Only if there is no other solution” (in Hebrew)",
+      "outlet": "ynet (Hebrew)",
+      "url": "https://www.ynet.co.il/news/article/byjc00opcgx",
+      "text": "ynet says the Likud–Yashar talks made no breakthrough; Liberman and Golan oppose unity, while Bennett does not rule it out if the options are a government with the Haredim or the Arab parties.",
+      "also": [
+       {
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/"
+       }
+      ]
+     },
+     {
+      "headline": "Police, AG said probing whether PM’s office faked Arab vote-buying scandal to undermine election",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/police-said-to-probe-whether-pms-office-faked-arab-vote-buying-scandal-to-undermine-election/",
+      "text": "The Times of Israel says a report alleges Netanyahu’s chief of staff tipped off police with information from a former employee of his office, and that Zini sought to wiretap five Arab lawmakers, which the attorney general refused; ynet says the prime minister’s office says information arrived and the chief of staff connected the person with police.",
+      "also": [
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/skr004dw0fe"
+       }
+      ]
+     },
+     {
+      "headline": "Israel Kidnapped Iranian Generals in Flawed Hunt for a Missing Airman",
+      "outlet": "The New York Times",
+      "url": "https://www.nytimes.com/2026/11/15/world/europe/ron-arad-missing-israel-iran-asgari-hunt.html",
+      "text": "ynet’s follow-up names the two generals: Ali Reza Asgari, who the NYT says the Mossad killed at sea after questioning, and Abdullah Saberi, who was seized in Syria and freed in Johannesburg.",
+      "also": [
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/rkpspipazl"
+       },
+       {
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/israel-kidnapped-iranian-generals-killed-one-in-effort-to-locate-ron-arad-nyt/"
+       }
+      ]
+     },
+     {
+      "headline": "Third US aircraft carrier said to arrive in Mideast as Washington shores up troops",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-november-16-2026/",
+      "text": "The Times of Israel’s live blog leads with the carrier report, a day after Iran attacked Bahrain for the second time in days.",
+      "also": [
+       {
+        "outlet": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html"
+       }
+      ]
+     },
+     {
+      "headline": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "text": "The Guardian says the four countries called the situation “entirely reversible” in a joint statement as flooding worsens the humanitarian crisis.",
+      "also": []
+     }
+    ]
+   },
+   "culture": [
+    {
+     "headline": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/culture/2026/nov/15/hollywood-trans-actors",
+     "text": "No. 1 on the Guardian’s most-viewed list: actors Trace Lysette, Vico Ortiz and Rebecca Root speak out as a new report finds a sharp drop in trans and non-binary roles on screen.",
+     "section": "Movies"
+    },
+    {
+     "headline": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/books/2026/nov/15/she-was-a-monster-the-real-patricia-highsmith-by-the-people-who-knew-her",
+     "text": "No. 2 on the Guardian’s most-viewed list: editors and publishers recall the Ripley writer as a new film starring Helen Mirren looks at her later years.",
+     "section": "Books"
+    },
+    {
+     "headline": "How Adam Driver, Scarlett Johansson and Miles Teller Built a Family in ‘Paper Tiger’",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/15/movies/adam-driver-scarlett-johansson-miles-teller-interview-paper-tiger.html",
+     "text": "On the NYT homepage: James Gray’s latest autobiographical film is set in a crime-ridden 1980s New York.",
+     "section": "Movies"
+    },
+    {
+     "headline": "Eggs vs. oatmeal: Which breakfast is better for you?",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/wellness/2026/11/15/eggs-vs-oatmeal-which-breakfast-is-better-you/",
+     "text": "No. 3 on the Post’s Most Read list: dietitians approve of both, but they bring different health benefits.",
+     "section": "Food"
+    },
+    {
+     "headline": "They left the Kennedy Center to survive. It was an artistic rebirth.",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/style/2026/11/15/they-left-kennedy-center-survive-it-was-an-artistic-rebirth/",
+     "text": "On the Post homepage: the Washington National Opera created a new home after Trump’s takeover of the Kennedy Center made staying untenable.",
+     "section": "Music"
+    },
+    {
+     "headline": "Shai Karem, Dana International’s legendary manager, has died (in Hebrew)",
+     "outlet": "ynet (Hebrew); also Haaretz Galeria",
+     "url": "https://www.ynet.co.il/entertainment/article/bkz1htwrzl",
+     "text": "ynet, which puts it third on its homepage, says Karem, 61, was the singer’s personal manager and producer for decades; Haaretz Galeria, which leads with it, says his brother reported he died of cardiac arrest.",
+     "section": "Music (Israel)"
+    },
+    {
+     "headline": "Berkovitch back on air on Channel 13: “They went after me … Tibi? That’s not racism” (in Hebrew)",
+     "outlet": "ynet (Hebrew); also Haaretz Galeria",
+     "url": "https://www.ynet.co.il/entertainment/article/ryu9k00wcme",
+     "text": "ynet says Eyal Berkovitch returned after a week’s suspension for mocking Ahmad Tibi’s doctorate and did not apologize; Haaretz Galeria’s front page also carries the story.",
+     "section": "TV (Israel)"
+    },
+    {
+     "headline": "U2 tried to recreate its biggest reinvention. This time it almost succeeded (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/hkojggwrzx",
+     "text": "ynet’s review, fourth on its homepage, says the band’s 16th album, “Carnaval de Luz,” made with Brian Eno and including a duet that is Dolly Parton’s last recording, is its first in years that feels like a band’s work.",
+     "section": "Music"
+    }
+   ],
+   "sports": [
+    {
+     "headline": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/c933ge310n33o",
+     "text": "England beat Spain 3-2 in Spain after Anderson was sent off, ending the world champions’ 43-game unbeaten run (The Times); it leads BBC Sport and Guardian Sport and is No. 3 on the Guardian’s most-viewed list.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/15/spain-england-nations-league-match-report"
+      }
+     ]
+    },
+    {
+     "headline": "Tearful McIlroy dedicates record-equalling win to ill dad",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o",
+     "text": "Rory McIlroy won his record-equalling eighth Race to Dubai title and dedicated it to his father, Gerry.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/sport/2026/nov/15/rory-mcilroy-wins-golfs-race-to-dubai-title-for-record-equalling-eighth-time"
+      }
+     ]
+    },
+    {
+     "headline": "Teenager Andreeva caps stunning week with WTA Finals title",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo",
+     "text": "The Guardian says Mirra Andreeva beat Elina Svitolina 7-5, 6-3 to win the WTA Finals for the first time.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/sport/2026/nov/15/mirra-andreeva-elina-svitolina-wta-finals-tennis"
+      }
+     ]
+    },
+    {
+     "headline": "Scotland hold off late Australia rally to secure narrow victory",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/sport/2026/nov/15/scotland-australia-nations-championship-rugby-union-match-report",
+     "text": "Scotland beat Australia 15-12 at Murrayfield in the Nations Championship.",
+     "also": [
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6vg25x1zqrro"
+      }
+     ]
+    },
+    {
+     "headline": "NBA season live updates: Wemby, Spurs earn 12th consecutive win",
+     "outlet": "The Athletic",
+     "url": "https://www.nytimes.com/athletic/live-blogs/nba-news-scores-games-schedule-stats-live-updates/3O8C8RgzvHTs/",
+     "text": "The Athletic’s newest top item as NFL Week 10 games were still being played.",
+     "also": []
+    }
+   ],
+   "unread": [
+    {
+     "outlet": "The Times (article links)",
+     "tried": "thetimes.com with curl returns a device-check page; the r.jina.ai reader now returns 401 (anonymous use blocked for the box’s IP); WebFetch returned the homepage text in order but without links; Google News RSS gave only redirect links. Headlines are in homepage order but link to the homepage."
+    },
+    {
+     "outlet": "The Times of Israel homepage",
+     "tried": "curl returned 403 and WebFetch returned 403; used the RSS feed (newest first) and its live blog instead, so its homepage order is not known."
+    },
+    {
+     "outlet": "The Telegraph",
+     "tried": "telegraph.co.uk with curl returned HTTP 402."
+    },
+    {
+     "outlet": "Financial Times",
+     "tried": "ft.com with curl returned 403, the r.jina.ai reader returned 401, and WebFetch timed out."
+    },
+    {
+     "outlet": "Walla culture",
+     "tried": "e.walla.co.il redirects to walla.co.il/entertainment, which loaded but lists no article links in the HTML."
+    },
+    {
+     "outlet": "Most-read lists for The Times, Times of Israel and ynet",
+     "tried": "None found in the pages read."
+    }
+   ],
+   "method": "Read 04:19–04:40 Israel time. NYT homepage order and trending list from a signed-in browser read of nytimes.com this morning by a browser helper; the trending headline the helper could not see (No. 1, the Epstein investigation) was taken from the trending page read with curl, and the NYT homepage RSS feed was used for descriptions. The rest with curl: WaPo homepage and Most Read box through the r.jina.ai reader (read at 04:19, before the reader began refusing the box’s IP); BBC UK and international homepages and Most read; Guardian UK and international fronts and the most-viewed feed; The Times homepage text through WebFetch; Times of Israel RSS feed; ynet homepage and entertainment page, Haaretz Galeria, Mako and Israel Hayom culture pages; sections from RSS feeds plus BBC Sport, Guardian Sport and The Athletic. Front pages: not refreshed by this worker; build_msm.py runs msm/fetch_frontpages.py at build time."
+  },
+  {
    "date": "2026-11-15",
    "read_at": "2026-11-15T04:22:00+02:00 to 04:28 Israel time",
    "intro": "Zelensky’s claim that the U.S. floated Ukraine giving up the Donbas region in exchange for NATO membership leads the BBC and the Guardian and tops the BBC international most-read list, while the New York Times and the Washington Post still lead with the cause of Friday’s nationwide U.S. flight ground stop. The Times of London leads with the Russell Brand age-of-consent debate; the Times of Israel leads with Netanyahu’s call for unity talks, and ynet with a deadly grenade attack on a pastry shop.",
@@ -3219,5 +3884,5 @@
    "cover": "The big newsrooms split on what matters most today. The New York Times leads with the woman at the center of the Nvidia spy scandal, which is also No. 1 on the Times and Washington Post most-read lists. The Post leads with House Republicans blocking the Hegseth impeachment. In Britain, The Guardian and The Times lead with the allegations against David Walliams, which he denies, and the BBC's top stories include the arrest of a US Army soldier near Gloucester on suspicion of spying for Russia. The Times of Israel leads with Netanyahu's Knesset speech. Away from the news pages, M John Harrison became the first science fiction author to win the Booker Prize, Stacy Keach died at 85, and Paul McCartney became a billionaire."
   }
  ],
- "updated": "2026-11-15T04:29:00+02:00"
+ "updated": "2026-11-16T04:25:00+02:00"
 }

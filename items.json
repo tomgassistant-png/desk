@@ -4,6 +4,340 @@
  "latest_count": 18,
  "items": [
   {
+   "id": "2026-11-16-idf-cabinet-reversing-barrels",
+   "section": "idf",
+   "lead": true,
+   "highlight": true,
+   "headline": "Security cabinet meets for the first time in six weeks and discusses \"reversing the barrels\", the scenario in which PA security forces turn their weapons on IDF troops and Israeli communities",
+   "summary": "The security cabinet discussed the plan known as \"reversing the barrels\" (hipuch kanim), meaning a scenario in which Palestinian Authority security forces turn their guns on IDF troops and on Israeli communities in Judea and Samaria, together with the chief of staff's plans for a possible escalation there, Israel Hayom reports (<a href=\"https://www.israelhayom.co.il/news/geopolitics/article/21857285\">Israel Hayom</a>). Kan News reports that the cabinet met on Sunday for more than three hours, its first meeting since 5 October, and that Mossad chief Roman Gofman took part and was to update ministers on his talks in the United States (<a href=\"https://www.kan.org.il/content/kan-news/politic/1119203/\">Kan News</a>). Neither outlet reported any decisions. Background: in August, Chief of Staff Eyal Zamir told ministers that the Judea and Samaria Division had trained for this scenario, and reports at the time put the number of armed men in the PA forces at about 60,000 (<a href=\"https://www.bhol.co.il/news/1737467\">Behadrei Haredim, 27 Aug</a>; the 60,000 figure is an estimate, not an official count).",
+   "source": "Israel Hayom / Kan News / Behadrei Haredim",
+   "date": "2026-11-15",
+   "url": "https://www.israelhayom.co.il/news/geopolitics/article/21857285",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026"
+  },
+  {
+   "id": "2026-11-16-idf-pa-still-warned-raids-fail",
+   "section": "idf",
+   "highlight": true,
+   "headline": "Despite new orders, the army still told PA forces before two raids, and both came up empty: in a Jericho camp, cameras showed the wanted men leaving 10 minutes before troops arrived",
+   "summary": "Olam Katan reports that two weapons searches carried out over the weekend were coordinated in advance with the Palestinian Authority's security forces, a practice that critics say tips off the targets. In a camp in Jericho on Saturday, security cameras showed the adult men leaving the house about 10 minutes before the soldiers arrived, and the troops found only sleeping children. In Samu'a in the South Hebron Hills the force set out at 12:30 a.m. for two targets and found nothing. Olam Katan says it has no direct proof that the warning caused the failures. The IDF spokesperson's answer: \"the procedures were sharpened; it may be that this has not yet reached everyone\" (<a href=\"https://www.okn.co.il/news/80121/\">Olam Katan</a>). Settlement activist Elisha Yered, who has campaigned against the coordination, posted the report (<a href=\"https://x.com/ElishaYered/status/2121857055292076177\">Elisha Yered</a>; <a href=\"https://x.com/ElishaYered/status/2121867659063017835\">second post</a>), and Olam Katan's Simcha Raz added comment (<a href=\"https://x.com/simkha0404/status/2121965106586108122\">Simcha Raz</a>). See the desk items of 7 to 9 November on the order to stop warning PA forces.",
+   "source": "Olam Katan / Elisha Yered / Simcha Raz",
+   "date": "2026-11-15",
+   "url": "https://www.okn.co.il/news/80121/",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Jericho (camp not named)",
+     "lat": 31.85605,
+     "lon": 35.45982,
+     "note": "Nominatim, approximate: city point"
+    },
+    {
+     "name": "Samu'a",
+     "lat": 31.39911,
+     "lon": 35.06696,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-land-northern-samaria-standby-squads",
+   "section": "land",
+   "highlight": true,
+   "headline": "Standby squads are back in northern Samaria: first two-day training at Sa-Nur, with Samaria council head Yossi Dagan, a reserve captain, among the members",
+   "summary": "The IDF has re-established the standby squads (local armed first-response teams) in the communities of northern Samaria, and the first two-day training was held at Sa-Nur, Olam Katan reports. Members include Samaria Regional Council head Yossi Dagan, a captain in the reserves, along with Akiva Smotrich, Ze'ev Wasserteil, David Padida and the local committee head, Yehoshua Levanon. The weapons come from the IDF; extra equipment was paid for by donors, among them One Israel Fund. A squad also works at Har Eival under security coordinator Binyamin Klein, with committee head Avi Kashi (<a href=\"https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/80087/\">Olam Katan</a>; <a href=\"https://x.com/Netanelfr/status/2121931540150042730\">Netanel Frankel</a>; <a href=\"https://x.com/simkha0404/status/2121918358656545267\">Simcha Raz</a>; <a href=\"https://x.com/olam_katan/status/2121926330342391931\">Olam Katan on X</a>). This comes days after reports that Central Command had halted standby-squad training (desk item of 12 November); the sources do not say whether that order was changed.",
+   "source": "Olam Katan / JNS Hebrew (Netanel Frankel) / Simcha Raz",
+   "date": "2026-11-15",
+   "url": "https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/80087/",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Sa-Nur",
+     "lat": 32.33689,
+     "lon": 35.20194,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Har Eival",
+     "lat": 32.23357,
+     "lon": 35.27335,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-land-otzma-mks-jericho-homes",
+   "section": "land",
+   "headline": "Otzma Yehudit MKs Limor Son Har-Melech and Hanamel Dorfman visit the eight Jewish-owned homes in Jericho",
+   "summary": "The two Otzma Yehudit Knesset members toured the eight homes near the Hasmonean palaces site on the edge of Jericho, guided by Nachala chairman Tzvi Elimelech Sharabaf (<a href=\"https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/80064/\">Olam Katan</a>; <a href=\"https://x.com/Netanelfr/status/2121900169922847017\">Netanel Frankel</a>). See the desk items of 5 to 15 November.",
+   "source": "Olam Katan / JNS Hebrew (Netanel Frankel)",
+   "date": "2026-11-15",
+   "url": "https://www.okn.co.il/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/80064/",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Jericho",
+     "lat": 31.85605,
+     "lon": 35.45982,
+     "note": "Nominatim, approximate: city point, homes not mapped"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-attacks-jsr-sunday-incidents",
+   "section": "attacks",
+   "headline": "JSR, Sunday: windshield cracked near Neve Daniel Junction, about 10 masked men stone a Nekuda BaEmek shepherd, Ein Duma spring vandalized with a knife and PLO flag left behind; 14 incidents over the weekend",
+   "summary": "The Yesha Council's Situation Room (JSR) reported on Sunday, 15 November: Arabs threw an object at an Israeli car about 200 meters north of Neve Daniel Junction in Gush Etzion, cracking the windshield, with no injuries; about 10 masked Arabs threw stones at a shepherd from the Nekuda BaEmek farm in Binyamin, with no injuries; the Ein Duma spring in Binyamin was vandalized, and a knife and a PLO flag were left there; stones were thrown at a car near the Malachei Avraham farm in the Hebron Hills, with no damage; and Arabs blocked an access road in the grazing area of the Giborei David farm (<a href=\"https://t.me/JSR_HEB/525\">JSR on Telegram, Hebrew</a>; <a href=\"https://t.me/JSR_HEB/526\">Nekuda BaEmek</a>; <a href=\"https://t.me/JSR_HEB/524\">Ein Duma</a>; <a href=\"https://t.me/JSR_HEB/520\">Malachei Avraham</a>; <a href=\"https://t.me/JSR_HEB/522\">Giborei David</a>). Netanel Frankel listed the same events (<a href=\"https://x.com/Netanelfr/status/2122071253544554980\">Netanel Frankel</a>). JSR's weekend count for 13 and 14 November: 14 incidents, namely 7 attacks on shepherds and residents, 4 stone-throwing attacks, 2 roads blocked with rocks and spikes and 1 fake explosive device, with 2 Israelis hurt (<a href=\"https://t.me/JSR_HEB/521\">JSR summary</a>). JSR also posted a video of former British Army colonel Richard Kemp saying that European sanctions would mainly cost Arab workers their jobs (<a href=\"https://t.me/JSR_HEB/527\">JSR</a>).",
+   "source": "JSR (Yesha Council Situation Room) / JNS Hebrew (Netanel Frankel)",
+   "date": "2026-11-15",
+   "url": "https://t.me/JSR_HEB/525",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Neve Daniel (junction about 200 m south of the incident)",
+     "lat": 31.67619,
+     "lon": 35.14283,
+     "note": "Nominatim, approximate: community point"
+    },
+    {
+     "name": "Ein Duma spring",
+     "lat": 32.04456,
+     "lon": 35.36671,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-idf-jordan-border-guns-dead-sea-boats",
+   "section": "idf",
+   "headline": "Jordan border: eight handguns caught in one bag and hashish, GPS units and SIM cards in another; six people in rubber boats caught crossing the Dead Sea near Avnat",
+   "summary": "Over the weekend the Jordan border police unit, Battalion 47 and the Judea and Samaria Border Police special unit stopped two smuggling attempts: one bag held eight handguns (FN, Glock and Taurus models), and the other held hashish, GPS devices and SIM cards (<a href=\"https://www.okn.co.il/security/80093/\">Olam Katan</a>; <a href=\"https://www.jns.org/news/israel-news/israeli-forces-seize-eight-handguns-near-jordanian-border\">JNS</a>). Separately, six people who crossed the Dead Sea in rubber boats were caught near Avnat (<a href=\"https://x.com/BittonRosen/status/2121894880066642115\">Hallel Bitton Rosen</a>). HaKol HaYehudi says they were Turkish nationals, one a woman, taken for Shin Bet questioning, and says earlier crossings of this kind were not caught; it also says Bedouin smugglers use helium balloons (<a href=\"https://www.hakolhayehudi.co.il/item/security/%D7%AA%D7%95%D7%A4%D7%A2%D7%94_%D7%97%D7%93%D7%A9%D7%94_%D7%99%D7%A9%D7%A0%D7%94_%D7%9E%D7%93%D7%90%D7%99%D7%92%D7%94_%D7%90%D7%AA_%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F__%D7%97%D7%93%D7%99%D7%A8%D7%94_%D7%9C%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%93%D7%A8%D7%9A_%D7%99%D7%9D_%D7%94%D7%9E%D7%9C%D7%97_%D7%91%D7%90%D7%9E%D7%A6%D7%A2%D7%95%D7%AA_%D7%A1%D7%99%D7%A8%D7%95%D7%AA\">HaKol HaYehudi</a>; <a href=\"https://x.com/elchanangr/status/2121936585406972118\">Elchanan Groner</a>). JNS, citing Ynet, describes them instead as Turkish and Sri Lankan migrant workers (<a href=\"https://www.jns.org/news/israel-news/dead-sea-idf-arrests-infiltrators-in-rubber-boats\">JNS</a>; <a href=\"https://x.com/Yotamdeshe97/status/2121943344200745065\">Yotam Deshe</a>); the reports disagree, so who they were is unconfirmed.",
+   "source": "Olam Katan / JNS / HaKol HaYehudi / Hallel Bitton Rosen / Elchanan Groner",
+   "date": "2026-11-15",
+   "url": "https://www.okn.co.il/security/80093/",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Avnat",
+     "lat": 31.67926,
+     "lon": 35.43655,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-idf-fuel-tank-tunnels-checkpoint-nurse-drivers",
+   "section": "idf",
+   "headline": "Eight Palestinians without permits found hiding in a fuel tanker at the Tunnels Checkpoint; two drivers who carry Hadassah nurses suspended after filming Binyamin roads and communities",
+   "summary": "Crossing staff at the Tunnels Checkpoint south of Jerusalem found eight Palestinians without entry permits hiding inside a fuel tanker; the driver is a resident of east Jerusalem (<a href=\"https://www.c14.co.il/article/1788219\">Channel 14</a>; <a href=\"https://www.jns.org/news/israel-news/eight-palestinians-found-hiding-in-fuel-tank-at-jerusalem-checkpoint\">JNS</a>). Separately, Olam Katan reports that two drivers who take nurses to Hadassah Mount Scopus were suspended, and a Shin Bet security check was opened, after its report that shuttle drivers filmed roads and communities in Binyamin on their trips and posted the videos online (<a href=\"https://x.com/olam_katan/status/2121972966686687505\">Olam Katan</a>; single source so far, unconfirmed).",
+   "source": "Channel 14 / JNS / Olam Katan",
+   "date": "2026-11-15",
+   "url": "https://www.c14.co.il/article/1788219",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Tunnels Checkpoint",
+     "lat": 31.70554,
+     "lon": 35.16815,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-negev-mazraa-iran-spy",
+   "section": "negev",
+   "headline": "Galilee: Mazraa man indicted for spying for Iran on his own initiative; he photographed army bases and police stations out of support for Hezbollah",
+   "summary": "The Shin Bet and police said on Sunday that Wissam Ghaleb Saleh Awad, an Israeli citizen from the village of Mazraa near Nahariya, contacted Iranian agents on Telegram on his own, offered to work for free out of support for Hezbollah and a wish for revenge, and photographed IDF bases and police stations; a serious indictment was to be filed (<a href=\"https://be7.co.il/32397/\">Besheva</a>; <a href=\"https://x.com/elchanangr/status/2121875769672479080\">Elchanan Groner</a>). Makor Rishon, Kan, Haaretz and HaKol HaYehudi carried the same report.",
+   "source": "Besheva / Elchanan Groner / Shin Bet and police statement",
+   "date": "2026-11-15",
+   "url": "https://be7.co.il/32397/",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Mazraa",
+     "lat": 32.9833,
+     "lon": 35.09834,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-negev-hassanein-convicted",
+   "section": "negev",
+   "headline": "Bnei Sakhnin announcer Said Hassanein of Shefa-Amr convicted of contact with a foreign agent and identifying with a terror group over an interview with Hamas's TV channel",
+   "summary": "The Haifa District Court convicted Said Hassanein, the stadium announcer of the Bnei Sakhnin soccer club, of contact with a foreign agent, identifying with a terror organization and destroying evidence; the case arose from an interview he gave to Hamas's Al-Aqsa TV that Channel 14 exposed about two years ago, and Joint List MKs expressed solidarity with him (Channel 14 reporter <a href=\"https://x.com/HaimOmri/status/2122064159974277561\">Omri Haim</a>). The pro-Palestinian outlet Ultra Palestine reported the conviction as well (<a href=\"https://x.com/palestineultra/status/2121915160075870242\">Ultra Palestine</a>). No sentence has been reported yet.",
+   "source": "Omri Haim / Ultra Palestine",
+   "date": "2026-11-15",
+   "url": "https://x.com/HaimOmri/status/2122064159974277561",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Shefa-Amr (his hometown)",
+     "lat": 32.80458,
+     "lon": 35.17239,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-negev-route6-rock-baqa",
+   "section": "negev",
+   "headline": "Route 6 near Baqa al-Gharbiya: a 5-kilogram rock smashes a windshield and injures a father driving to work with his son, a combat veteran who believes it was thrown on purpose",
+   "summary": "A rock weighing about 5 kilograms smashed the windshield of a car on Route 6 near Baqa al-Gharbiya, hitting the father, from the Ramla area, in the head as he and his son drove to work at Big Nazareth. The son, Paz, who fought on 7 October and in Gaza, Lebanon and Syria, says he believes the rock was thrown on purpose (<a href=\"https://www.c14.co.il/article/1789431\">Channel 14</a>; <a href=\"https://x.com/ayeletlash9/status/2122055578466111500\">Ayelet Lash</a>). The reports do not give the date of the incident or say whether police have identified a suspect; that it was deliberate is the family's view, not a police finding.",
+   "source": "Channel 14 / Ayelet Lash",
+   "date": "2026-11-15",
+   "url": "https://www.c14.co.il/article/1789431",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Baqa al-Gharbiya (Route 6 nearby)",
+     "lat": 32.41971,
+     "lon": 35.04283,
+     "note": "Nominatim, approximate: town point"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-negev-north-crime-weapons",
+   "section": "negev",
+   "headline": "North and center: six Tamra men held for a murder, guns found on a horse farm near I'billin, a weapons store and coin-forging lab in Gan Yavne, and the al-Batuf council head held in a protection-money case",
+   "summary": "Six residents of Tamra were arrested after an undercover investigation into the murder of Mohammed Yassin (<a href=\"https://www.c14.co.il/article/1788083\">Channel 14</a>). Border Police raided a horse farm near I'billin, found two pistols and arrested four people; police say more than 780 weapons have been seized in the Northern District this year (<a href=\"https://www.c14.co.il/article/1788371\">Channel 14</a>). In Gan Yavne, police found a weapons store with an M16, a Glock and ammunition, plus a lab for forging coins, and arrested three (<a href=\"https://www.c14.co.il/article/1788336\">Channel 14</a>). Channel 14 says 192 people have been killed in Arab communities this year, 74 of them in the Northern District, and criticizes the district's top officers for flying to Poland this week (<a href=\"https://www.c14.co.il/article/1789858\">Channel 14</a>; Channel 14's figures, not checked against police data). The Haifa Magistrate's Court extended by three days the detention of al-Batuf Regional Council head Ahed Rahal of Arab al-Heib, suspected of collecting protection money (khawa) from contractors through a guard company that provided no real guarding, along with extortion and money laundering; he was one of about 50 suspects arrested last Monday (<a href=\"https://www.arab48.com/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%AD%D9%84%D9%8A%D8%A9/2026/11/15/%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A8%D8%B7%D9%88%D9%81-%D8%B9%D8%A7%D9%87%D8%AF-%D8%B1%D8%AD%D8%A7%D9%84-%D9%84%D8%AA%D8%B9%D8%B2%D8%B2-%D8%B4%D8%A8%D9%87%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%D9%88%D8%AC%D8%A8%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%88%D8%A9-\">Arab48, in Arabic</a>). See the 15 November item on the Kafr Manda grenade murder.",
+   "source": "Channel 14 / Arab48",
+   "date": "2026-11-15",
+   "url": "https://www.c14.co.il/article/1788083",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Tamra",
+     "lat": 32.85349,
+     "lon": 35.19787,
+     "note": "Nominatim"
+    },
+    {
+     "name": "I'billin (farm nearby)",
+     "lat": 32.82092,
+     "lon": 35.19133,
+     "note": "Nominatim, approximate: village point"
+    },
+    {
+     "name": "Gan Yavne",
+     "lat": 31.78711,
+     "lon": 34.70966,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Arab al-Heib junction",
+     "lat": 32.7676,
+     "lon": 35.31016,
+     "note": "Nominatim, approximate"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-negev-from-the-right-raam-kahana",
+   "section": "negev",
+   "headline": "From the right: Moran Tal warns Ra'am is the Islamic Movement's political arm and \"we will lose the Negev and Galilee\"; bereaved families urge Matan Kahana not to become speaker with Arab votes",
+   "summary": "Researcher Moran Tal wrote that Ra'am is the political arm of the southern branch of the Islamic Movement and warned that relying on it means \"we will lose the Negev and the Galilee forever\"; she also wrote that Ra'am and the Joint List are enemies of the state (<a href=\"https://x.com/MoranT555/status/2122023617848660458\">Moran Tal</a>). Elchanan Groner reported that bereaved families wrote to MK Matan Kahana asking him not to become Knesset speaker with the votes of Arab parties (<a href=\"https://x.com/elchanangr/status/2122024819621319145\">Elchanan Groner</a>); the speaker vote is set for 17 November. Minister Orit Strock said \"a red line has already been crossed\" over plans to rely on Arab parties (<a href=\"https://www.okn.co.il/politics/79993/\">Olam Katan</a>). These are opinions and political statements.",
+   "source": "Moran Tal / Elchanan Groner / Olam Katan",
+   "date": "2026-11-15",
+   "url": "https://x.com/MoranT555/status/2122023617848660458",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026"
+  },
+  {
+   "id": "2026-11-16-land-communities-tractors-hills",
+   "section": "land",
+   "headline": "Around the communities: American donors honored for buying tractors for Judea and Samaria farms; Sde Yonatan hill puts up solar panels; Ben Arli remembered at Karmei Binyamin",
+   "summary": "American Friends of Judea and Samaria (AFJS) held an evening in Brooklyn honoring the donors who paid for tractors for farms in Judea and Samaria (<a href=\"https://www.jns.org/news/u-s-news/afjs-honors-donors-who-helped-purchase-tractors-for-judea-and-samaria\">JNS</a>; <a href=\"https://www.makorrishon.co.il/news/settlement/article/392761\">Makor Rishon</a>). Elisha Yered posted that the Sde Yonatan hilltop is installing solar panels and that the Tel Talpiot hill (Jabal Ein Aina) is drawing water from a spring, and marked three years since the death of Ben Arli with a memorial at Karmei Binyamin (<a href=\"https://x.com/ElishaYered/status/2121940743623213169\">Elisha Yered</a>; <a href=\"https://x.com/ElishaYered/status/2121940670575247754\">second post</a>; single source).",
+   "source": "JNS / Makor Rishon / Elisha Yered",
+   "date": "2026-11-15",
+   "url": "https://www.jns.org/news/u-s-news/afjs-honors-donors-who-helped-purchase-tractors-for-judea-and-samaria",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026"
+  },
+  {
+   "id": "2026-11-16-idf-syria-haaretz-troops",
+   "section": "idf",
+   "headline": "Southern Syria: Haaretz quotes soldiers describing boredom and raids on homes with no clear enemy; Haaretz also reports Damascus waiting for a security deal while Netanyahu insists on holding the area",
+   "summary": "A Haaretz magazine report quotes soldiers in the Syria sector saying that, with no real enemy and no clear policy, the army \"dreams up\" home searches and other operations, and one officer warns \"they'll eventually turn their anger on us\" (<a href=\"https://www.haaretz.com/srv/haaretz-latest-headlines\">Haaretz</a>, feed summary; the article itself is paywalled and was not read in full). Haaretz also ran a report that Damascus is waiting for a security agreement while Prime Minister Netanyahu insists on keeping the territory, and an editorial urging the next government to seek a deal with Syria. Ultra Palestine cites Israeli security sources warning that local armed resistance groups could form in southern Syria (single source). Halutzei HaBashan, which wants Israelis to settle the area, is urging the public to mark Tuesday, 17 November, the second anniversary of the move into the Hermon and the Bashan area (<a href=\"https://x.com/HaluzeyHabashan/status/2121644803771208093\">Halutzei HaBashan</a>); it has posted nothing new since 14 November.",
+   "source": "Haaretz / Ultra Palestine / Halutzei HaBashan",
+   "date": "2026-11-15",
+   "url": "https://www.haaretz.com/srv/haaretz-latest-headlines",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026"
+  },
+  {
+   "id": "2026-11-16-land-otzma-dg-questioned",
+   "section": "land",
+   "headline": "Otzma Yehudit director general questioned over the Mitzpe Yericho clash with police; the party calls it political persecution",
+   "summary": "Police's Lahav 433 unit questioned Otzma Yehudit's director general, Itiel Neiman, over the assault on police at Mitzpe Yericho about a month ago, in which three officers were hurt; Haaretz says the suspicions include extortion by threats, assault, obstructing a police officer and obstruction of justice (<a href=\"https://www.israelhayom.co.il/news/law/article/21855853\">Israel Hayom</a>; <a href=\"https://www.haaretz.com/srv/haaretz-latest-headlines\">Haaretz</a>). Srugim quotes the party calling the questioning \"political persecution.\" No charges have been filed.",
+   "source": "Israel Hayom / Haaretz / Srugim",
+   "date": "2026-11-15",
+   "url": "https://www.israelhayom.co.il/news/law/article/21855853",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Mitzpe Yericho",
+     "lat": 31.81555,
+     "lon": 35.39432,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-16-land-activist-pa-claims",
+   "section": "land",
+   "headline": "Activist and PA claims: army notice to demolish two Hebron buildings housing 65 families in Area A; Palestinians report a home attacked and car burned in Masafer Yatta and attacks in Turmus Ayya",
+   "summary": "Hebron city council member Muammar al-Uweiwi said the army had issued demolition notices, on security grounds, for two apartment buildings with 65 flats and one house in Area A of Hebron, which he says hold Palestinian permits (<a href=\"https://www.arab48.com/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2026/11/16/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AE%D8%B7%D8%B1-%D8%A8%D9%87%D8%AF%D9%85-%D8%A8%D9%86%D8%A7%D9%8A%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84-%D8%AA%D8%A4%D9%88%D9%8A%D8%A7%D9%86-65-%D8%A3%D8%B3%D8%B1%D8%A9\">Arab48, in Arabic</a>); no army statement was found. Raya and WAFA report that settlers attacked a home in Masafer Yatta and burned a car, that a home was attacked in Turmus Ayya, and that property was damaged at Ras al-Ahmar near Tubas (<a href=\"https://www.raya.ps/news/1228862.html\">Raya</a>; WAFA headlines). Raya's Jenin correspondent says the army is putting up watchtowers at a new post overlooking the Jenin camp and pressing about 100 residents to leave Khirbet al-Sarouj (<a href=\"https://www.raya.ps/news/1228730.html\">Raya, 12 Nov</a>). These are Palestinian claims with no Israeli confirmation. The PA security forces' spokesman issued no statement in the window, and png.plo.ps again showed no news.",
+   "source": "Arab48 / Raya / WAFA (Palestinian sources)",
+   "date": "2026-11-15",
+   "url": "https://www.arab48.com/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2026/11/16/%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D8%AE%D8%B7%D8%B1-%D8%A8%D9%87%D8%AF%D9%85-%D8%A8%D9%86%D8%A7%D9%8A%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84-%D8%AA%D8%A4%D9%88%D9%8A%D8%A7%D9%86-65-%D8%A3%D8%B3%D8%B1%D8%A9",
+   "edition": "2026-11-16",
+   "published": "2026-11-16T05:00:00+02:00",
+   "letter": "PA security: 16 Nov 2026",
+   "places": [
+    {
+     "name": "Hebron",
+     "lat": 31.5289,
+     "lon": 35.09449,
+     "note": "Nominatim, approximate: city point"
+    },
+    {
+     "name": "Turmus Ayya",
+     "lat": 32.03571,
+     "lon": 35.2859,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
    "id": "2026-11-15-land-areas-a-b-push-or-binyamin",
    "section": "land",
    "lead": true,

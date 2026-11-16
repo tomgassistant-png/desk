@@ -1072,6 +1072,10 @@
     "2026-11-15": {
       "intro": "Israel: Netanyahu calls for a unity government \"without preconditions\" and Eisenkot calls it a bluff as their teams meet on Sunday; N12 reports the Shin Bet tried to recruit Joint List activists against Ra'am. Also: SpaceX catches a Starship upper stage for the first time; Cursor traces its October breach to a key exposed by Fireworks AI; Aoun says UNIFIL's renewal is Lebanon's priority; a new Elabe poll keeps Le Pen far ahead; Brazil's Supreme Court halts its online vote on the five-day week; and Quebec says it may vote apart from Canada at the Francophonie.",
       "quiet": "Nothing material on the Carney case, HaShiloach (no new essay), Greenland (beyond the defense pact already covered), Colombia and Israel, Israeli data centers, Marc Andreessen (no posts) or non-Latin script digitization. No change to official Israeli election results and no appeal filing found; no new Israeli reaction to EUSM Lebanon and no new contributing country. Cypherboria: no new @net__void TikTok video, nothing new from @Mortal_Series, PHYTHAGRAM, the Methexis/JCCRU page, Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro or jacquesvallee.net, and nothing on theme from Colder Cybernetics, AmurakaHidden, 4dimensionapp or thenightshirt."
+    },
+    "2026-11-16": {
+      "intro": "Israel: Channel 12's Uvda reports that the tip behind the election-day arrests of Ra'am activists came through Netanyahu's office, and the attorney general's office and police are checking whether it was planted; the first Likud–Yashar! unity talks end without progress. Also: China confirms Thursday's Xi–Putin–Trump summit in Shenzhen; US envoy Waltz is in Beirut with options for a force after UNIFIL; Carney and St-Pierre Plamondon have a friendly first meeting; Northern Ireland's unionists reject Harris's unity letter; Teddy Riner's popularity drops 11 points; and a coolant spill at xAI's Southaven site.",
+      "quiet": "Nothing material on Brazil, the Carney case, Trenton (no new private recovery story in the city), Greenland, Colombia and Israel, Israeli data centers, Belle Burden, HaShiloach (no new essay since 24 September), Marc Andreessen (one repost on 14 November only) or non-Latin script digitization. No change to official Israeli election results and no appeal filing found; no new Israeli reaction to EUSM Lebanon and no new contributing country. Cypherboria: no new @net__void TikTok video, nothing new from @Mortal_Series beyond a repost, PHYTHAGRAM, the Methexis/JCCRU channel, Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro or jacquesvallee.net, and nothing on theme from Colder Cybernetics, AmurakaHidden, 4dimensionapp, thenightshirt or D.W. Pasulka."
     }
   },
   "items": [
@@ -12763,6 +12767,308 @@
         {
           "name": "Apple Podcasts: Crazy Wisdom 580",
           "url": "https://podcasts.apple.com/us/podcast/episode-580-is-the-west-in-winter-spengler-nick-land/id1354589767?i=1000800778094"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-israel-election-1",
+      "edition": "2026-11-16",
+      "section": "israel-election",
+      "headline": "First Likud–Yashar! unity talks end with no progress and a promise to keep talking; United Torah Judaism denies a breakthrough with Eisenkot's bloc; Kahana's election as speaker is set for Tuesday",
+      "lead": "The negotiating teams of Likud and Gadi Eisenkot's Yashar! met on Sunday, 15 November, for about an hour and a quarter, their first meeting since the election, and a person familiar with the talks told ynet there was no progress.",
+      "text": "Yashar! sent MK Chili Tropper and Yoav Horowitz, Eisenkot's senior adviser and a former chief of staff to Netanyahu; Likud sent faction chair Ofir Katz and lawyer Michael Rabello. Naftali Bennett's party, Beyachad, sent Shalom Shlomo, cabinet secretary in the 2021–2022 government. A short joint statement said the meeting was \"businesslike\" and that \"the dialogue will continue.\" According to ynet, Likud's team said it rules out no one in the change bloc, including Yair Golan's Democrats, while Golan wrote on X that the road to change does not pass through unity talks with Netanyahu. Netanyahu visited the \"unity tent\" that Likud MK Elisha Madan set up outside the Knesset. United Torah Judaism chair Yaakov Asher said reports of \"dramatic\" progress and exchanges of drafts with his party are baseless (ynet; Arutz Sheva reporter Hezki Baruch on X). An Israel Hayom headline says people around Netanyahu told Eisenkot they are ready to drop Itamar Ben Gvir for unity and that Likud denies it (headline only; the article could not be opened). ynet's analysis says the change bloc has put its bill for a state commission of inquiry into 7 October on hold, plans to start on Wednesday on bills to repeal the judicial-overhaul laws, and will set up fewer temporary committees than planned after the Knesset's legal adviser limited them. The Foreign Affairs and Defense Committee under Avigdor Liberman and the Finance Committee under Liran Avishar Ben-Horin (Beyachad) are due to meet for the first time on Monday, 16 November, and the vote making Matan Kahana (Yashar!) speaker is set for Tuesday, 17 November; Likud will not field a candidate, ynet reported. No change to the official results and no Likud appeal filing was reported.",
+      "sources": [
+        {
+          "name": "ynet: unity talks meeting ends, \"the dialogue will continue\" (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/sjs5vfwrfg"
+        },
+        {
+          "name": "ynet: the change bloc's priorities; commission of inquiry must wait (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/byjc00opcgx"
+        },
+        {
+          "name": "Hezki Baruch (Arutz Sheva) on X: Likud–Yashar! joint statement (Hebrew)",
+          "url": "https://x.com/HezkeiB/status/2121999312775430354"
+        },
+        {
+          "name": "Hezki Baruch on X: UTJ chair Yaakov Asher denies progress (Hebrew)",
+          "url": "https://x.com/HezkeiB/status/2122027992188621007"
+        },
+        {
+          "name": "Hezki Baruch on X: Netanyahu visits Madan's unity tent (Hebrew)",
+          "url": "https://x.com/HezkeiB/status/2121964683385254167"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-israel-election-interference-watch",
+      "edition": "2026-11-16",
+      "section": "israel-election",
+      "headline": "Channel 12's Uvda: the tip behind the election-day arrests of three Ra'am activists came via Netanyahu's office from a former office employee; the attorney general's office and police are checking whether it was planted",
+      "lead": "Ilana Dayan's investigative program Uvda (Channel 12) reported on Sunday evening, 15 November, that the \"incriminating information\" behind the election-morning arrests of three Ra'am activists in the south came from a former employee of the Prime Minister's Office, close to its former director-general Yossi Shelley.",
+      "text": "According to the report as carried by ynet and Arab48, Netanyahu's chief of staff Ido Norden called the police commissioner's office on the eve of the election to complain about Ra'am activists and pointed officers to an alleged \"intelligence source\"; that information was entered into police intelligence systems and led to a raid in and around Rahat (map: https://www.google.com/maps/search/?api=1&query=31.3933637,34.7546784, town center from OpenStreetMap) without a search or arrest warrant (police admitted in court that they had no search warrant). The report says the attorney general's office and the police investigations division are examining a suspicion that the information was planted deliberately; that Shin Bet chief David Zini asked on election day to arrest Arab lawmakers and asked to wiretap five Arab MKs over suspected foreign influence; and that Attorney General Gali Baharav-Miara refused, because the requests rested only on intelligence and not evidence. These are the program's accounts, largely from unnamed officials; no indictment exists, and an opened criminal investigation has not been confirmed. All those arrested were released, the last one eight days after the election, and a Beersheba magistrate, Eran Tsabari, criticized the police for failing to present evidence (ynet). Responses: the Prime Minister's Office called it \"another false story\" and said Norden only connected a man with criminal information to the police, as any citizen must; the Shin Bet said it is investigating suspected subversion and foreign influence under the committee chair's instructions and that reports on its targets and tools do not come from it; the police said the intelligence was noted in a classified report shown to the court. Eisenkot called for an immediate investigation and said he will work for a commission of inquiry into the Prime Minister's Office's role on election day; Likud called this \"wild incitement.\" Israel Bar Association head Amit Becher asked the attorney general to open an immediate investigation, and Ali Abu Leben, a lawyer for one of the arrested activists, physician Siaf Abu Riash (ynet's spelling), told Maariv his client is weighing a lawsuit. Joint List chair Yousef Jabareen called it, if confirmed, a criminal mechanism to sway the results (ynet, Arab48).",
+      "sources": [
+        {
+          "name": "ynet: suspicion that the PM's Office planted information; Zini asked to wiretap MKs (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/skr004dw0fe"
+        },
+        {
+          "name": "Arab48: investigation on how Netanyahu's associates used the police and Shin Bet (Arabic)",
+          "url": "https://www.arab48.com/الأخبار/أخبار-عاجلة/2026/11/15/تحقيق-هكذا-سخر-مقربو-نتنياهو-الشرطة-والشاباك-مسبقا-لدعم-مزاعم-تزوير-العرب-للانتخابات"
+        },
+        {
+          "name": "Maariv: Bar Association head asks the attorney general to investigate (Hebrew)",
+          "url": "https://www.maariv.co.il/breaking-news/article-1388830"
+        },
+        {
+          "name": "Maariv: arrested Ra'am activist weighs a lawsuit (Hebrew)",
+          "url": "https://www.maariv.co.il/breaking-news/article-1388793"
+        },
+        {
+          "name": "Map: Rahat (town center, OpenStreetMap coordinates)",
+          "url": "https://www.google.com/maps/search/?api=1&query=31.3933637,34.7546784"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-lebanon-1",
+      "edition": "2026-11-16",
+      "section": "lebanon",
+      "headline": "US envoy Waltz begins a three-day visit to Beirut with options for a force to follow UNIFIL; Lebanon wants UNIFIL extended for at least six months",
+      "lead": "US Ambassador to the UN Mike Waltz arrived in Lebanon on Sunday, 15 November; the US embassy said he will visit Lebanon and Morocco from 15 to 17 November to discuss the end of UNIFIL's mandate and the handover of security to the Lebanese state.",
+      "text": "LBCI reported that Waltz is expected to present several options, including a model like the Multinational Force and Observers in Sinai, which works outside the UN, and a civilian monitoring arrangement; Lebanon will listen without committing in advance. LBCI says Lebanon backs a French proposal to keep UNIFIL and, if that fails, is interested in a French–Italian proposal for a European force with UN approval rather than a UN mandate, while Washington treats extending UNIFIL as off the table. Ministerial sources quoted by Asharq Al-Awsat (via Al-Sadara News) say President Aoun, Speaker Berri and Prime Minister Salam have agreed on a common approach built on Resolution 1701, would prefer a UNIFIL extension of at least six months, and are cool to a civilian or Sinai-style mission (unnamed sources). No new Israeli reaction to the EU mission (EUSM) and no new contributing country was found.",
+      "sources": [
+        {
+          "name": "LBCI: Waltz arrives in Lebanon",
+          "url": "https://www.lbcgroup.tv/news/lebanon-news/968069/title/en"
+        },
+        {
+          "name": "LBCI: UNIFIL's successor, Washington's vision meets Lebanon's red lines",
+          "url": "https://www.lbcgroup.tv/news/news-bulletin-reports/968083/title/en"
+        },
+        {
+          "name": "Al-Sadara News (from Asharq Al-Awsat): the envoy's meetings and a UN-backed alternative (Arabic)",
+          "url": "https://www.alsadaranews.com/lebanon/139635.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-lebanon-2",
+      "edition": "2026-11-16",
+      "section": "lebanon",
+      "headline": "Golan Druze: Population Authority data show 47% of residents of the four Druze villages now hold Israeli citizenship; in Sweida, a local network says the National Guard is charging fees at checkpoints",
+      "lead": "Haaretz reported on 15 November that, according to Israel's Population and Immigration Authority, 47% of the residents of Majdal Shams, Mas'ade, Buq'ata and Ein Qiniyye held Israeli citizenship as of 31 October.",
+      "text": "Haaretz says 6,040 people have applied for Israeli citizenship since January 2025, more than twice as many as in the whole previous decade, a rise it links partly to the fall of Assad and the killings in Sweida; the Authority opened its first office in Mas'ade (map: https://www.google.com/maps/search/?api=1&query=33.2312137,35.7574829, village from OpenStreetMap) on 9 November, about 45 years after residents burned the Israeli ID cards they were given in protest (single source for the figures). In Sweida, the local news network Suwayda24 reported on 15 November that the \"National Guard\" (the Druze force aligned with Sheikh Hikmat al-Hijri) keeps charging fees on trucks and cars at the Umm al-Zaytoun and al-Mutuna checkpoints, and that fighters of the Men of Dignity movement brought down helium balloons carrying drugs near the town of al-Huwayya that evening (single local source, not confirmed elsewhere).",
+      "sources": [
+        {
+          "name": "Haaretz: 47% of Golan Druze now citizens (Hebrew; subscriber article, opening paragraph read)",
+          "url": "https://www.haaretz.co.il/news/numofweek/2026-11-15/ty-article/.premium/000001a1-cfc0-d608-a1a7-efd53a660000"
+        },
+        {
+          "name": "Channel 14: Population Authority office opens in Mas'ade, 9 November (Hebrew)",
+          "url": "https://www.c14.co.il/article/1779941"
+        },
+        {
+          "name": "Suwayda24 on X: fees at Sweida checkpoints (Arabic)",
+          "url": "https://x.com/suwayda24/status/2122024492062879963"
+        },
+        {
+          "name": "Suwayda24 on X: drug-carrying balloons downed near al-Huwayya (Arabic)",
+          "url": "https://x.com/suwayda24/status/2122081787199345113"
+        },
+        {
+          "name": "Map: Mas'ade (OpenStreetMap coordinates)",
+          "url": "https://www.google.com/maps/search/?api=1&query=33.2312137,35.7574829"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-france-election-1",
+      "edition": "2026-11-16",
+      "section": "france-election",
+      "headline": "Odoxa: Teddy Riner's popularity falls 11 points to 78% after his candidacy, and 61% say it is bad for French politics; Philippe accepts Larcher's invitation but still refuses a primary",
+      "lead": "A sports barometer by Odoxa for Winamax and RTL (1,005 adults, 10–11 November) found that Riner's favorable rating fell from 89% in May 2023 to 78% after he declared, Le Parisien reported on 15 November.",
+      "text": "In the same poll, 82% said his candidacy surprised them, 59% said it is not good for Riner, 61% said it is not good for French political life, and 57% oppose top athletes running for office. Édouard Philippe accepted Senate President Gérard Larcher's invitation to a discussion among the candidates of the right and center but still refuses a primary (Le Monde headline and summary; Le Parisien quotes him: \"If it is to talk about a primary again, I don't see the point\"). Le Monde also published its annual \"Fractures françaises\" survey by Ipsos BVA with the Cevipof, the Fondation Jean Jaurès and the Institut Montaigne, which describes an angrier country, a sharp return of the left–right divide and a presidential election that is no longer seen as a solution (summary only; the article could not be opened). Green leader Marine Tondelier said on franceinfo that \"all those who want to bring us down support Marine Le Pen,\" citing support for her from Donald Trump and Elon Musk. On Polymarket at about 4:25 AM Israel time on 16 November, Le Pen was at 46.5% (47.35% the day before), Lisnard 16%, Mélenchon 13.5%, Christine Lagarde 7.7%, Philippe 6.5% and Riner about 2%; betting odds are not polls.",
+      "sources": [
+        {
+          "name": "Le Parisien: Riner's popularity falls 11 points (Odoxa)",
+          "url": "https://www.leparisien.fr/elections/presidentielle/presidentielle-2027-la-popularite-de-teddy-riner-reste-elevee-mais-baisse-de-11-points-aupres-des-sondes-apres-sa-candidature-15-11-2026-222YFR4PHVD2NEHFI4Z4ASWBOQ.php"
+        },
+        {
+          "name": "Le Monde politics feed (Philippe accepts Larcher's invitation; Fractures françaises summary)",
+          "url": "https://www.lemonde.fr/politique/rss_full.xml"
+        },
+        {
+          "name": "franceinfo: Tondelier on Trump and Musk backing Le Pen",
+          "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/le-grand-enjeu/presidentielle-toutes-celles-et-ceux-qui-veulent-nous-abattre-soutiennent-marine-le-pen-deno"
+        },
+        {
+          "name": "Polymarket: next French presidential election",
+          "url": "https://polymarket.com/event/next-french-presidential-election"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-quebec-1",
+      "edition": "2026-11-16",
+      "section": "quebec",
+      "headline": "First Carney–St-Pierre Plamondon meeting in Phnom Penh is friendly: federal support on homelessness, backing for a 2027 Francophonie economic summit in Quebec, and immigration and the constitution left for later",
+      "lead": "Prime Minister Mark Carney and Quebec Premier Paul St-Pierre Plamondon met on Sunday, 15 November, on the sidelines of the Francophonie Summit in Cambodia, their first meeting since the PQ won the Quebec election.",
+      "text": "The meeting, planned for 30 minutes, lasted about 45 (Radio-Canada). St-Pierre Plamondon called it \"very agreeable, very funny\" and said it produced \"immediate results\": federal support for Quebec's fight against homelessness, support for a Francophonie economic summit in Quebec in 2027, and a channel for more frequent talks on tariff disputes with the United States; the two exchanged personal phone numbers (Radio-Canada, CBC). Immigration, the Quebec–Toronto high-speed rail line and Quebec's constitutional future were put off to later meetings. Asked whether he regrets his confrontational tone toward Ottawa, the premier said he will \"never regret defending Quebec's interests.\" The vote for the Francophonie's secretary-general, in which Quebec said it may vote apart from Canada, is due on Monday, 16 November.",
+      "sources": [
+        {
+          "name": "Radio-Canada: Carney–PSPP meeting in Cambodia (French)",
+          "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+        },
+        {
+          "name": "Radio-Canada: what to take away from the meeting (French)",
+          "url": "https://ici.radio-canada.ca/en-bref/90-17876/pspp-carney-rencontre-cambodge-quebec-canada"
+        },
+        {
+          "name": "CBC News: Carney, Quebec premier discuss U.S. trade, homelessness",
+          "url": "https://www.cbc.ca/news/canada/montreal/paul-st-pierre-plamondon-mark-carney-sommet-de-la-francophonie-9.7422688"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-uk-breakup-politics-1",
+      "edition": "2026-11-16",
+      "section": "uk-breakup-politics",
+      "headline": "Northern Ireland reacts to Harris's Irish unity letter: unionists reject it as \"political suicide\" and \"fairy-tale politics,\" Alliance will engage \"without prejudice,\" the SDLP welcomes it",
+      "lead": "Ulster Unionist leader Jon Burrows wrote to Tánaiste Simon Harris that his party has \"no interest in a republican invitation to commit political suicide\" and accused him of \"fairy-tale politics,\" RTÉ reported on 15 November.",
+      "text": "DUP leader Gavin Robinson said Harris should instead answer the Independent Commission for Reconciliation and Information Recovery's questions about the Irish state's role in Troubles deaths, and the TUV's Jim Allister told Dublin to \"butt out.\" SDLP leader Claire Hanna welcomed the effort, and Alliance leader Naomi Long told the BBC her party will take part \"without prejudice to how we might decide the constitutional question.\" Fine Gael's plan proposes a junior minister for North–South relations and a sovereign wealth fund; a paper by an adviser to Harris puts the cost to the Irish exchequer at up to €25 billion (the BBC gives €3 billion to €25 billion for the first year). In Wales, Welsh Labour leader Ken Skates told the BBC the party still wants Westminster to hand over policing and the Crown Estate, a day after saying it had focused too much on new powers.",
+      "sources": [
+        {
+          "name": "RTÉ: Mixed reaction from NI politicians over Tánaiste's letter",
+          "url": "https://www.rte.ie/news/politics/2026/1115/1599315-politics-northern-ireland/"
+        },
+        {
+          "name": "BBC News: Alliance will engage 'without prejudice' on Irish unity",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2x8v4lrzo"
+        },
+        {
+          "name": "BBC News: Welsh Labour still committed to more Senedd powers, says Skates",
+          "url": "https://www.bbc.co.uk/news/articles/crz9dx0jje7zo"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-trump-and-xi-1",
+      "edition": "2026-11-16",
+      "section": "trump-and-xi",
+      "headline": "China confirms the Xi–Putin–Trump summit in Shenzhen on Thursday, 19 November",
+      "lead": "A Chinese Foreign Ministry spokesperson announced on 16 November that President Xi Jinping will hold a China–Russia–US leaders' meeting with Vladimir Putin and Donald Trump in Shenzhen on 19 November.",
+      "text": "This is Beijing's first official confirmation; the Kremlin and the White House had announced the meeting earlier. The ministry's one-line notice gives no agenda.",
+      "sources": [
+        {
+          "name": "Chinese Foreign Ministry announcement (Chinese)",
+          "url": "https://www.mfa.gov.cn/web/wjdt_674879/wsrc_674883/202611/t20261116_12059654.shtml"
+        },
+        {
+          "name": "China News Service (Chinese)",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-16/10732602.shtml"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-spacex-xai-and-cursor-1",
+      "edition": "2026-11-16",
+      "section": "spacex-xai-and-cursor",
+      "headline": "About 5,000 to 6,000 gallons of coolant spill from a tank at xAI's Southaven, Mississippi, site and reach a drainage ditch; the state says there is no immediate threat",
+      "lead": "The Mississippi Department of Environmental Quality (MDEQ) said about 5,000 to 6,000 gallons of propylene glycol spilled from a tank at an xAI facility in Southaven on Saturday, 14 November, and some reached a nearby drainage ditch.",
+      "text": "Crews built berms upstream and downstream and used vacuum trucks; MDEQ identified the fluid as DOWFROST HD heat-transfer fluid, which Dow classifies as nonhazardous, and said it is contained with \"no immediate threat to public health or safety.\" Contractors will dig out and dispose of affected soil, and xAI will carry out follow-up inspections (Action News 5, DeSoto County News). Reports did not say which Southaven site or what caused the leak, and xAI had not commented. The Grok Bot changelog (latest 1.0.1, 11 November) and Cursor's changelog have no new release.",
+      "sources": [
+        {
+          "name": "Action News 5: chemical spill at xAI facility reaches drainage ditch",
+          "url": "https://www.actionnews5.com/2026/11/15/chemical-spill-xai-facility-southaven-reaches-drainage-ditch/"
+        },
+        {
+          "name": "DeSoto County News: Southaven xAI chemical spill",
+          "url": "https://desotocountynews.com/mississippi-news/southaven-xai-chemical-spill-ditch/"
+        },
+        {
+          "name": "Grok Bot changelog",
+          "url": "https://x.ai/changelog/bot"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-cypherboria-1",
+      "edition": "2026-11-16",
+      "section": "cypherboria",
+      "headline": "Cyphers rebuilds its calculator and asks for new ciphers; Net Void asks for acadianlemur's Lemurian ciphers in a CCRU category and thanks Gematrinator; the Cyphers stream schedule moves to late November and December",
+      "lead": "On 15 November the Cyphers (@CyphersNews) posted \"New Cyphers loading — suggestions?\" with a video (Net Void had written earlier that day that Cyphers \"is in reconstruction\"), and she replied asking for acadianlemur's Nullinnix (\"Alphanumeric Lemurian\"), Numeric Dvorak, Still Cycle and Still Plex ciphers, suggesting their own category or a place in the CCRU drop-down.",
+      "text": "In a \"Gematrinator appreciation post\" she thanked Derek Tikkuri, maker of the Gematrinator calculator, in whose Discord server the Cyphers group met in 2020, said he had reopened a conversation with her about recalling past lives through gematria, and floated a generator that would look for \"numerical alignments\" to support the idea that \"you've been here before\"; resonatingloop replied with emoji and the Cyphers reposted it. She also posted \"Jesus and Satan are brothers\" (reposted by @Mortal_Series), told the musician Grimes that her video \"Player of Games\" captures the theme of courtly love, and quoted a gematria thread about the CIA's age and L. Ron Hubbard's blog. acadianlemur posted more work on his ciphers: two keyboard \"clocks\" (AQ to QWERTY and QWERTY to Dvorak) that both return to their start after 210 steps, and \"Unun = Synx + AQ, Vaxen = Synx − AQ\" for the Cyphers. The Cyphers' YouTube streams page now lists \"Book of Paths ft. Anomaly of the Elected\" for 21 November, \"Thelema + Aleister Crowley Decodes\" for 22 November, a new \"Memetic Magick ft @Jevf\" for 5 December, the \"Doomer vs Accelerationism Debate\" for 12 December and \"Gnosticism\" for 19 December (earlier listings had some of these on 15 and 21 November). X now lists Net Void's account as public, so links to her posts should open for other readers. No new @net__void TikTok video (still only the dark-mode clip of 7614601846405008662), no TikTok links in her posts, and nothing new from PHYTHAGRAM.",
+      "sources": [
+        {
+          "name": "@CyphersNews on X: new Cyphers loading",
+          "url": "https://x.com/CyphersNews/status/2121956131874762948"
+        },
+        {
+          "name": "Net Void on X: Nullinnix for the CCRU category",
+          "url": "https://x.com/Net__Void/status/2121957743221428645"
+        },
+        {
+          "name": "Net Void on X: Gematrinator appreciation post",
+          "url": "https://x.com/Net__Void/status/2121921661519712555"
+        },
+        {
+          "name": "Net Void on X: Cyphers \"is in reconstruction\"",
+          "url": "https://x.com/Net__Void/status/2121922580021985482"
+        },
+        {
+          "name": "Net Void on X: \"Jesus and Satan are brothers\"",
+          "url": "https://x.com/Net__Void/status/2122004141882880317"
+        },
+        {
+          "name": "acadianlemur on X: the 210-step keyboard clocks",
+          "url": "https://x.com/acadianlemur/status/2121920385285562533"
+        },
+        {
+          "name": "Cyphers YouTube streams schedule",
+          "url": "https://www.youtube.com/@CyphersNews/streams"
+        },
+        {
+          "name": "Net Void on TikTok (embed checked; no new video)",
+          "url": "https://www.tiktok.com/@net__void"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16-cypherboria-2",
+      "edition": "2026-11-16",
+      "section": "cypherboria",
+      "headline": "New podcast about Land: The Dangerous Maybe talks with philosopher David Roden on posthumanism, \"xenoerotics\" and Nick Land; an X article reads a viral AI film trailer through the CCRU's idea of hyperstition",
+      "lead": "The Dangerous Maybe podcast, with co-host Nance (Three Billion Nances), posted a 1 hour 45 minute conversation with David Roden on 15 November covering posthumanism, transhumanism, computational functionalism, \"xenoerotics\" and Land; Land is not a guest, and the host also promotes his November course on Land's Xenosystems.",
+      "text": "On X, Alan Berman (@MoKetchups) published an article, \"It's Just An A.I. Trailer For A Fake Movie... Right?\", that uses the CCRU's 1999 definition of hyperstition (\"fictional quantity functional as a time-travelling device\") to read the viral AI-made \"Nuremberg\" trailer by @tupacabra, and ties accelerationism to Land and to Marc Andreessen's 2023 Techno-Optimist Manifesto. A clip channel posted a 1 minute 21 second excerpt of Land on Protestantism versus Catholicism from his October 2025 Dangerous Maybe episode responding to Tucker Carlson (an old appearance, newly clipped). On X, Land wrote that the \"Demiurge\" had to make the left an antagonist \"completely insane, but still challenging enough to make the game interesting\" (reposted by Net Void), wrote in an exchange with @tszzl that superintelligence fixing a \"dysgenic trend\" within a decade is \"incredible L/Acc fantasy,\" and urged people to \"say 'SI' more to advance speciation.\" Doomcrypt called Land's line \"We're so fucked, but we don't remotely know what fucked means. Gnostic Calvinism has it's hand out to you my children\" his favorite statement of \"schizo-pessimism.\" Anomaly of the Elected and patallax traded posts on Valentinian Gnosticism, Sophia and the Demiurge, and Jakob Böhme's \"Ungrund.\" No new interview with Land was found on YouTube, Apple Podcasts or X; Retrochronic is unchanged (v1.0.176, 199 sources), and there is nothing new from the Methexis/JCCRU channel or Truth is Christ, nothing notable from Ryan Haecker, and nothing new from ReynoldsRetro, jacquesvallee.net or the Outsideness newsletter.",
+      "sources": [
+        {
+          "name": "The Dangerous Maybe: David Roden on Posthumanism, Xenoerotics, and Nick Land (YouTube)",
+          "url": "https://www.youtube.com/watch?v=oqhqVsdSFFE"
+        },
+        {
+          "name": "@MoKetchups X article on hyperstition and the \"Nuremberg\" trailer",
+          "url": "https://x.com/MoKetchups/status/2122082256131072382"
+        },
+        {
+          "name": "Chris Alton: Nick Land on Protestantism vs Catholicism (clip, YouTube)",
+          "url": "https://www.youtube.com/watch?v=Q5Vs6UhoDfs"
+        },
+        {
+          "name": "@xenocosmography on X: the Demiurge post",
+          "url": "https://x.com/xenocosmography/status/2122010454755295352"
+        },
+        {
+          "name": "@xenocosmography on X: \"L/Acc fantasy\"",
+          "url": "https://x.com/xenocosmography/status/2121796096238534954"
+        },
+        {
+          "name": "@doomcrypt on X: schizo-pessimism",
+          "url": "https://x.com/doomcrypt/status/2122002359517929518"
+        },
+        {
+          "name": "@patallax on X: Ungrund and Valentinian Gnosticism",
+          "url": "https://x.com/patallax/status/2121866862430740979"
         }
       ]
     }
