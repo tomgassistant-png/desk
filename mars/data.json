@@ -1,15 +1,149 @@
 {
  "title": "Mars Tracker",
- "updated": "2026-11-15 04:50",
- "checked": "16 Nov 2026",
+ "updated": "2026-11-17 04:30",
+ "checked": "17 Nov 2026",
  "course_url": "https://tomgassistant-png.github.io/scholar/mars-exploration-course.html",
  "narrative": [
-  "Where things stand on 16 November 2026 (no new Mars mission news since the 15 November edition). Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which NASA's team blog (posted 9 November) says may be among the oldest rocks in the rover's collection. Curiosity drilled a new hole at a block called \"Nazca\" on 20 October, its 49th by the team blog's count (NASA blog, posted 9 November; NASA's mission page still shows 42 holes); a newer blog (posted 11 November) says the team finished its work at Nazca and planned, on 6 November, to drive away and rejoin its route south. Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy, and on 10 November Japan's public broadcaster NHK reported that JAXA's MMX development lead told a Japanese space conference the probe is about 6 million km from Earth and flying smoothly; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters are now on their way to Mars: each flew close past Earth and fired its engine for about 9 minutes, the first on 7 November and the second on 9 November, and NASA says both maneuvers went flawlessly (NASA, 9 November; UC Berkeley, which runs the mission, agrees). They reach Mars on 7 and 9 September 2027. NASA now says on the record that it will study new ways to bring Perseverance's samples to Earth: at a NASA town hall for planetary scientists on 12 November, George Tahu, NASA's program executive for Mars exploration, said an internal team, the Perseverance Sample Retrieval Architecture (PSRA) team, starts in January 2027 and should give a high-level plan and recommendations by the end of 2027, and a NASA spokesperson described the team in a statement (both reported by SpacePolicyOnline, 12 November). This is a study, not a funded mission. Two space reporters, Irene Klotz of Aviation Week (9 November) and Leonard David (10 and 11 November), had first reported the plan from a 9 November NASA talk. New on 15 November: SpaceX caught the upper stage of its Starship rocket (the \"ship\") with the arms of its Texas launch tower at about 23:20 Israel time on 14 November (4:20 PM U.S. Eastern), after 14 trips around Earth on Flight 15, an Earth-orbit test. It is the first time a Starship upper stage has come back from orbit and been caught (SpaceX; Space.com; CNBC; SpacePolicyOnline). The booster was not caught: it ended an engine burn early because of a low-fuel alarm and came down in the Gulf of Mexico, cause still under study (SpaceX). Flight 15 had launched at 00:47 Israel time on 14 November. Starship is the rocket SpaceX says it will one day fly to Mars; refueling it in orbit, which a Mars trip needs, has not yet been shown (SpacePolicyOnline) [aspirational]. New on 13 November: SpaceNews reported (12 November) that a privately funded Mars orbiter from the rocket company Relativity Space, planned for launch in 2028 and carrying NASA's Aeolus instruments for Martian weather, will offer powerful onboard computing and communications for its instruments; Relativity's own page adds a radar to map shallow underground ice and a radio relay for rovers [aspirational]. On 7 November NASA said JPL will build a nuclear-powered Moon rover, PROMISE, from spare parts and test models of the Curiosity and Perseverance Mars rovers, for launch in late 2028 [aspirational]. ESA marked ten years of its Trace Gas Orbiter (TGO) at Mars on 19 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known. New on 4 November: ESA's Trace Gas Orbiter has found hydrogen chloride gas coming from fresh cracks on the Alba Mons volcano, a possible sign that Mars still has warm magma underground (not proof of eruptions). NASA's review board report on the lost MAVEN orbiter blames a computer reboot followed by a faulty gyroscope.",
+  "Where things stand on 17 November 2026. Two NASA rovers are working on the surface: Curiosity and Perseverance. Perseverance set a new distance record on 11 October (45.22 km, past the 45.16 km that NASA's Opportunity rover drove), and on 24 October it drilled its first new rock sample in more than a year, \"Singita\", which NASA's team blog (posted 9 November) says may be among the oldest rocks in the rover's collection. Curiosity drilled a new hole at a block called \"Nazca\" on 20 October, its 49th (NASA blog, posted 9 November; a NASA picture collage of all 49 holes, published 16 November U.S. time, now agrees, though the mission page's older feature picture still shows 42); a newer blog (posted 11 November) says the team finished its work at Nazca and planned, on 6 November, to drive away and rejoin its route south. New on 17 November: NASA's Perseverance team blog (posted 16 November) says a cluster of very bright rocks at \"Idubi\" is rich in hydrated silica (silica, the material of quartz and opal, with water bound into it), which forms in water and is good at preserving traces of tiny life; a close study is under way. A study published on 16 November in PNAS (Proceedings of the National Academy of Sciences, a U.S. science journal), led by Heather Franz of NASA Goddard, uses 13 years of Curiosity's measurements of carbon dioxide in the air of Gale crater to argue that extremely thin films of water form on the surface or in the soil in the warm seasons (indirect evidence; Crossref record of the paper; Gizmodo). Japan's Martian Moons eXploration probe (MMX) launched on 20 October and is on its way; JAXA says its critical first days in space are done and the spacecraft is healthy, and on 10 November Japan's public broadcaster NHK reported that JAXA's MMX development lead told a Japanese space conference the probe is about 6 million km from Earth and flying smoothly; on 30 October the French space agency CNES woke the small Idefix rover riding on MMX for a planned test, which went well. Arrival at Mars is August 2027 per ESA, NASA and NASASpaceFlight; JAXA's press kit gives only \"fiscal year 2027\" (April 2027 to March 2028). NASA published (26 October) the first measurements on Mars of the very fine dust that future crews would have to deal with. NASA's four-person, yearlong Mars simulation on Earth (CHAPEA) ended on 31 October, when the crew left the pretend Mars base in Houston after 378 days; NASA says a follow-on program could start as soon as August 2027 [aspirational]. NASA's twin ESCAPADE orbiters are now on their way to Mars: each flew close past Earth and fired its engine for about 9 minutes, the first on 7 November and the second on 9 November, and NASA says both maneuvers went flawlessly (NASA, 9 November; UC Berkeley, which runs the mission, agrees). They reach Mars on 7 and 9 September 2027. NASA now says on the record that it will study new ways to bring Perseverance's samples to Earth: at a NASA town hall for planetary scientists on 12 November, George Tahu, NASA's program executive for Mars exploration, said an internal team, the Perseverance Sample Retrieval Architecture (PSRA) team, starts in January 2027 and should give a high-level plan and recommendations by the end of 2027, and a NASA spokesperson described the team in a statement (both reported by SpacePolicyOnline, 12 November). This is a study, not a funded mission. Two space reporters, Irene Klotz of Aviation Week (9 November) and Leonard David (10 and 11 November), had first reported the plan from a 9 November NASA talk. New on 15 November: SpaceX caught the upper stage of its Starship rocket (the \"ship\") with the arms of its Texas launch tower at about 23:20 Israel time on 14 November (4:20 PM U.S. Eastern), after 14 trips around Earth on Flight 15, an Earth-orbit test. It is the first time a Starship upper stage has come back from orbit and been caught (SpaceX; Space.com; CNBC; SpacePolicyOnline). The booster was not caught: it ended an engine burn early because of a low-fuel alarm and came down in the Gulf of Mexico, cause still under study (SpaceX). Flight 15 had launched at 00:47 Israel time on 14 November. Starship is the rocket SpaceX says it will one day fly to Mars; refueling it in orbit, which a Mars trip needs, has not yet been shown (SpacePolicyOnline) [aspirational]. New on 13 November: SpaceNews reported (12 November) that a privately funded Mars orbiter from the rocket company Relativity Space, planned for launch in 2028 and carrying NASA's Aeolus instruments for Martian weather, will offer powerful onboard computing and communications for its instruments; Relativity's own page adds a radar to map shallow underground ice and a radio relay for rovers [aspirational]. On 7 November NASA said JPL will build a nuclear-powered Moon rover, PROMISE, from spare parts and test models of the Curiosity and Perseverance Mars rovers, for launch in late 2028 [aspirational]. ESA marked ten years of its Trace Gas Orbiter (TGO) at Mars on 19 October. New on 29 October: a NASA-funded study in the journal Science dates a meteorite from Mars found in the Sahara, \"Teghaza 001\", to more than 4.1 billion years ago, making it one of the oldest pieces of Mars known. New on 4 November: ESA's Trace Gas Orbiter has found hydrogen chloride gas coming from fresh cracks on the Alba Mons volcano, a possible sign that Mars still has warm magma underground (not proof of eruptions). NASA's review board report on the lost MAVEN orbiter blames a computer reboot followed by a faulty gyroscope.",
   "Budget and Congress: a stopgap funding law keeps NASA at its 2026 level of $24.4 billion through 11 December 2026. The White House asked for $18.8 billion for 2027, and the House committee bill kept NASA flat at $24.4 billion. New on 13 November: the Senate Appropriations Committee released its own 2027 bill for NASA (a draft from its Commerce-Justice-Science subcommittee, not yet voted on): $24.874 billion, a little above 2026, with $7.43 billion for science (SpacePolicyOnline; AIP). For Mars, the committee's report, as quoted by SpacePolicyOnline, rejects the proposed shutdown of the Mars Odyssey orbiter and of U.S. support for Mars Express, gives $98.6 million for NASA's part in ESA's Rosalind Franklin rover and the requested $110 million for Mars Future Missions including SkyFall, and supports Mars Sample Return only as part of the Moon-to-Mars human program, \"rather than as a standalone science mission\". Mars Sample Return (bringing Perseverance's rock tubes to Earth) was cancelled and has no replacement plan; NASA's Mars program executive George Tahu said on 12 November that a one-year NASA study of new ways to return the samples (PSRA) begins in January 2027, with recommendations by the end of 2027 (SpacePolicyOnline; a study, not a funded mission). Two bid protests (formal challenges to a contract award) are now open at the Government Accountability Office (GAO) against NASA's Mars Telecommunications Network award to Blue Origin; the second was filed on 23 October. Democrats won both the House and the Senate in the 3 November elections and take over on 3 January 2027; the current Republican-led Congress, back at work on 9 November, still has to pass the 2027 spending bills or extend the stopgap past 11 December; the House plans to stop for the year on 17 December and the Senate on 18 December, dates that could change (SpacePolicyOnline, 8 November). A White House proclamation on 3 November speaks of Americans on Mars but sets no date or money.",
   "Plans from companies and agencies are goals, not funded schedules, unless the entry says otherwise. They are marked [aspirational]. Facts I could not match to a second source are marked [unconfirmed]. A sol is one Martian day, about 24 hours 39 minutes."
  ],
- "whats_new": [],
+ "whats_new": [
+  {
+   "edition": "2026-11-17",
+   "text": "Perseverance: NASA's team blog says a cluster of very bright rocks at \"Idubi\", outside Jezero crater, is rich in hydrated silica (silica with water bound into it), a mineral that forms in water and can preserve traces of tiny life. A close study of the rocks is under way.",
+   "links": [
+    [
+     "NASA blog: The Ghostly Rocks of Idubi, 16 Nov",
+     "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
+    ]
+   ],
+   "detail_url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
+  },
+  {
+   "edition": "2026-11-17",
+   "text": "Curiosity: a study published on 16 November in the journal PNAS, led by Heather Franz of NASA Goddard, uses 13 years of the rover's air measurements to argue that extremely thin films of water form at the surface or in the soil of Gale crater in the warm seasons. It is indirect evidence, from a computer model of the measured oxygen.",
+   "links": [
+    [
+     "Crossref record of the PNAS paper (abstract)",
+     "https://api.crossref.org/works/10.1073/pnas.2615294123"
+    ],
+    [
+     "Gizmodo, Ellyn Lapointe, 16 Nov",
+     "https://gizmodo.com/mars-atmosphere-does-something-strange-every-year-and-it-may-point-to-hidden-water-2000840471"
+    ]
+   ],
+   "detail_url": "https://gizmodo.com/mars-atmosphere-does-something-strange-every-year-and-it-may-point-to-hidden-water-2000840471"
+  },
+  {
+   "edition": "2026-11-17",
+   "text": "Curiosity's drill count: NASA published a picture collage of all 49 holes the rover has drilled, so NASA's own pages now back the team blog's count of 49 (the \"Nazca\" hole of 20 October is the newest).",
+   "links": [
+    [
+     "NASA Photojournal: 49 drill holes (PIA26802)",
+     "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
+    ]
+   ],
+   "detail_url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
+  }
+ ],
  "feed": [
+  {
+   "when": "2026-11-17 04:30",
+   "who": "Grok Bot daily check (our own check)",
+   "kind": "our own check",
+   "where": "NASA, JPL, JAXA (English and Japanese), ESA, CNSA (Chinese site), UAE, ISRO, SpaceX, Blue Origin, UC Berkeley, GAO, SpacePolicyOnline, Planetary Society, SpaceNews, Space.com, AMSAT-DL, Estévez, plus X",
+   "text": "New today: the three items below (the Perseverance silica blog, the PNAS study of Curiosity's air measurements, and NASA's 49-hole collage). Nothing new on these, so only their checked dates change: JPL news (newest Mars item still 29 October), NASA's Mars Future Plan page (still last updated 23 June; no low-cost Mars mission solicitation seen [unconfirmed]), no new Curiosity team blog (newest still the 11 November post), Berkeley's ESCAPADE mission-design page (no change), JAXA's English and Japanese 2026 press lists (newest MMX release still 21 October) and the MMX blog (newest still 13 November), CNSA's Chinese news list (newest item 9 November, a satellite-internet launch; no Mars item) and home page (no Mars item; its newest notice asks for instrument proposals for Tianwen-4, a Jupiter mission, not Mars), ESA's top-news feed (newest still the 12 November asteroid story) and ESA's \"To Mars and back\" blog (newest still 4 November), ISRO's home page (no Mars item), Blue Origin's news page (newest still 10 November), SpaceX's Mars page (unchanged: cargo flights to Mars \"no earlier than 2028\" [aspirational]), the two GAO protest dockets (both still open; decisions due 21 December 2026 and 1 February 2027), SpacePolicyOnline (no new post since its 15 November week-ahead article), the Planetary Society (newest article 13 November, none on Mars), SpaceNews's feed (no Mars item since 10 November), Space.com (Starship Flight 15 photo and follow-up stories only), AMSAT-DL (newest 12 November, a members' meeting notice, not Mars) and Daniel Estévez's blog (amateur tracker; newest still 26 October). Budget and Congress: no vote or new figure for NASA; the stopgap law still runs out on 11 December. X since the last run: no Mars posts from NASA Mars, NASA JPL, Perseverance, Curiosity, ESA, JAXA in English, ISRO, the UAE Space Agency, the Mohammed bin Rashid Space Centre, Blue Origin or Andrew Jones. ESA's human spaceflight account posted a new episode of its ESA Explores podcast with Orson Sutherland, head of ESA's Mars and beyond projects department (16 November, 13:32 Israel time); the post gives no news. SpaceX and Elon Musk (SpaceX's chief; interested parties) posted only videos of the 14 November Starship catch, with no Mars content. ISAS/JAXA only reposted the 13 November MMX blog. Counters: Curiosity's raw images still end at sol 5073 (13 November), now 272 frames, with no drive number past 1252490; Perseverance's raw images still end at sol 2031 (6 November) and its traverse file at sol 2022, so its distance is unchanged.",
+   "evidence": "our own check; not finding something is not proof it does not exist",
+   "url": "https://science.nasa.gov/blogs/perseverance-mars-rover/",
+   "link_text": "open the Perseverance blog list",
+   "other": "",
+   "links": [
+    [
+     "GAO docket B-424825.1",
+     "https://www.gao.gov/docket/b-424825.1"
+    ],
+    [
+     "GAO docket B-424825.2",
+     "https://www.gao.gov/docket/b-424825.2"
+    ],
+    [
+     "ESA human spaceflight on X: ESA Explores podcast, 16 Nov",
+     "https://x.com/esaspaceflight/status/2122291664702308650"
+    ],
+    [
+     "Elon Musk on X: Starship catch video, 16 Nov",
+     "https://x.com/elonmusk/status/2122408454325416322"
+    ],
+    [
+     "CNSA news list (Chinese)",
+     "https://www.cnsa.gov.cn/n6758823/n6758838/index.html"
+    ],
+    [
+     "SpaceX Mars page",
+     "https://www.spacex.com/humanspaceflight/mars"
+    ],
+    [
+     "NASA latest raw-image summary (Curiosity sol 5073)",
+     "https://mars.nasa.gov/api/v1/raw_image_items/msl/latest/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-17 01:12",
+   "who": "NASA Perseverance team blog, written by Candice Bedford (research scientist, Purdue University)",
+   "kind": "primary source",
+   "where": "science.nasa.gov (posted 23:12 UTC on 16 November, 01:12 Israel time on 17 November)",
+   "text": "While studying \"Idubi\", an area of ancient Martian crust in the \"Lac de Charmes\" region outside Jezero crater, the team noticed a cluster of very bright, light-toned rock fragments, brighter than the volcanic and impact-formed rocks the rover had studied before. New data from the SuperCam instrument (a laser and camera on the rover's mast that read rock chemistry from a distance) confirm that these rocks are not volcanic but rich in hydrated silica: silica, the material of quartz and opal, with water bound into it. On Earth, hydrated silica forms in many watery settings, such as hot springs, soils and groundwater, some of which could have supported life, and it is very good at preserving microscopic fossils. When Perseverance met silica-rich rocks on Jezero's inner rim before, they were too small for the instruments on its arm; the Idubi rocks are larger, and a close-up study with the arm's instruments is already under way. The blog asks whether these rocks could hold signs of ancient life; it does not claim any. Its pictures were taken on sol 2023 (29 October; a sol is one Martian day).",
+   "evidence": "NASA's own team blog; dated 16 November 2026",
+   "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+   "link_text": "open the NASA blog post",
+   "other": "",
+   "links": [
+    [
+     "Perseverance blog list",
+     "https://science.nasa.gov/blogs/perseverance-mars-rover/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-17 00:05",
+   "who": "NASA Photojournal (NASA/JPL-Caltech/MSSS), image PIA26802",
+   "kind": "primary source",
+   "where": "science.nasa.gov/photojournal (added 16 November U.S. time; in NASA's feed at 22:05 UTC, 00:05 Israel time on 17 November)",
+   "text": "NASA published a collage of the 49 drill holes Curiosity has made on Mars \"as of November 2026\", each taken by MAHLI, the hand-lens camera on the rover's arm. Each hole is 16 mm (0.63 inch) across and marks a rock sample that the drill turned to powder and dropped into the rover's onboard labs. This settles the count this tracker had marked as unsettled: the team blog of 9 November called \"Nazca\" (drilled 20 October) the 49th hole, while NASA's mission page showed 42. The mission page now links the new collage, though its older feature picture still says 42.",
+   "evidence": "NASA's own image page; the mission page was opened again on 17 November",
+   "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+   "link_text": "open NASA's 49-hole collage page",
+   "other": "",
+   "links": [
+    [
+     "Curiosity mission page",
+     "https://science.nasa.gov/mission/msl-curiosity/"
+    ],
+    [
+     "blog: Nazca, 49th hole",
+     "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/"
+    ]
+   ]
+  },
+  {
+   "when": "2026-11-16 22:40",
+   "who": "Heather B. Franz (NASA Goddard Space Flight Center) and co-authors including Webster, Flesch, Mahaffy and Raaen, in PNAS; reported by Gizmodo (Ellyn Lapointe)",
+   "kind": "primary source (scientific paper, read through its abstract) and named reporter (secondary)",
+   "where": "Proceedings of the National Academy of Sciences, published 16 November 2026 (Crossref record); gizmodo.com, 20:40 UTC (22:40 Israel time) on 16 November",
+   "text": "A new paper gives the first long-term record of the isotopes in the carbon dioxide (CO2) of Mars's air, measured by Curiosity's SAM lab (Sample Analysis at Mars, the chemistry lab inside the rover) at Gale crater from 2012 to 2025 (isotopes are versions of an element that differ in weight; oxygen-18 is a heavier form of oxygen). Day and night samples did not differ, but the air held slightly more heavy oxygen in the spring and summer of both hemispheres. The authors tested several causes, such as carbon dioxide freezing and thawing at the poles, soaking into and out of the soil, and being broken up by sunlight, and found none enough alone. Their model matches the readings only if the carbon dioxide trades oxygen with water in extremely thin, liquid-like films on the surface or held in the soil, as Mars nears and passes its closest point to the Sun. Gizmodo quotes Franz: \"We're following the water again!\" This is indirect evidence for traces of water, not for pools or flowing water.",
+   "evidence": "the paper's abstract and date as given in its Crossref record (the PNAS page itself refused my reader); Gizmodo's interview with the lead author",
+   "url": "https://gizmodo.com/mars-atmosphere-does-something-strange-every-year-and-it-may-point-to-hidden-water-2000840471",
+   "link_text": "open the Gizmodo report",
+   "other": "",
+   "links": [
+    [
+     "Crossref record of the PNAS paper (abstract)",
+     "https://api.crossref.org/works/10.1073/pnas.2615294123"
+    ]
+   ]
+  },
   {
    "when": "2026-11-16 04:45",
    "who": "Grok Bot daily check (our own check)",
@@ -1933,9 +2067,17 @@
    [
     {
      "m": "Curiosity (NASA)",
-     "s": "Working. Drilled \"Nazca\", a block with possible crystal shapes, on sol 5050 (20 Oct); the team blog calls it the 49th drill hole, while NASA's mission page still shows 42 [the two NASA counts disagree; unconfirmed]. Powder went to the CheMin and SAM labs; the rover then rested to recharge (NASA blogs, posted 9 Nov). The drilling campaign is now done: more powder went to SAM, and the 6 Nov plan drove the rover away from Nazca toward its route south (NASA blog, posted 11 Nov). Before that it finished drilling at Basque Lakes. Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed now shows pictures through sol 5073 (13 Nov): a large Mastcam set on sol 5072 and Navcam frames on sol 5073 with two more new drive numbers, a hint that it is driving again [our own reading]. On 7 Nov NASA said spare parts and test models from Curiosity and Perseverance will be used to build PROMISE, a Moon rover.",
-     "d": "16 Nov 2026 (raw images still to sol 5073, now 201 frames; newest blog posted 11 Nov)",
+     "s": "Working. Drilled \"Nazca\", a block with possible crystal shapes, on sol 5050 (20 Oct), its 49th drill hole: the team blog says so, and NASA's picture collage of all 49 holes (published 16 Nov, U.S. time) agrees; the mission page's older feature picture still shows 42. Powder went to the CheMin and SAM labs; the rover then rested to recharge (NASA blogs, posted 9 Nov). The drilling campaign is now done: more powder went to SAM, and the 6 Nov plan drove the rover away from Nazca toward its route south (NASA blog, posted 11 Nov). Before that it finished drilling at Basque Lakes. Climbing Mount Sharp; 1 km of elevation gain reached 26 Aug 2026. FY2027 request keeps it funded at $38.0M. NASA's raw-image feed now shows pictures through sol 5073 (13 Nov): a large Mastcam set on sol 5072 and Navcam frames on sol 5073 with two more new drive numbers, a hint that it is driving again [our own reading]. New on 17 Nov: a PNAS study led by Heather Franz (NASA Goddard) uses the rover's 2012-2025 air measurements to argue that extremely thin films of water form at the surface or in the soil in warm seasons (indirect evidence). On 7 Nov NASA said spare parts and test models from Curiosity and Perseverance will be used to build PROMISE, a Moon rover.",
+     "d": "17 Nov 2026 (NASA collage of 49 holes, 16 Nov; PNAS study, 16 Nov; raw images still to sol 5073; newest blog posted 11 Nov)",
      "links": [
+      [
+       "NASA Photojournal: 49 drill holes",
+       "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
+      ],
+      [
+       "Gizmodo: PNAS water-film study, 16 Nov",
+       "https://gizmodo.com/mars-atmosphere-does-something-strange-every-year-and-it-may-point-to-hidden-water-2000840471"
+      ],
       [
        "blog, sols 5063-5069",
        "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/"
@@ -1960,9 +2102,13 @@
     },
     {
      "m": "Perseverance (NASA)",
-     "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct); NASA's traverse file shows 45.25 km by sol 2022 (28 Oct). Exploring Lac de Charmes, outside Jezero's western rim, near the Idubi outcrop. Drilled a new sample, \"Singita\", on sol 2018 (24 Oct), its first in more than a year, about 3.1 cm into a gabbro that may be among its oldest rocks; now confirmed by NASA's team blog (posted 9 Nov), first reported by the Planetary Society. 66 abrasions so far; SuperCam finds tiny corundum (ruby-mineral) grains, likely from impact heating. NASA counted 29 rock and regolith samples before that, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries.",
-     "d": "16 Nov 2026 (NASA blogs posted 9 Nov; raw images still to sol 2031; traverse file sol 2022)",
+     "s": "Working. World-record 45.22 km driven by sol 2006 (11 Oct); NASA's traverse file shows 45.25 km by sol 2022 (28 Oct). Exploring Lac de Charmes, outside Jezero's western rim, near the Idubi outcrop. Drilled a new sample, \"Singita\", on sol 2018 (24 Oct), its first in more than a year, about 3.1 cm into a gabbro that may be among its oldest rocks; now confirmed by NASA's team blog (posted 9 Nov), first reported by the Planetary Society. 66 abrasions so far; SuperCam finds tiny corundum (ruby-mineral) grains, likely from impact heating. NASA counted 29 rock and regolith samples before that, none returned; first mission extension began in October, to about end of 2028. FY2027 request would cut operations from $87.5M (2024) to $38.0M. New on 26 Oct: NASA published its dust study from swatches of spacesuit material the rover carries. New on 17 Nov: NASA's team blog (posted 16 Nov) says very bright rocks at Idubi are rich in hydrated silica (silica with water bound into it), a mineral that forms in water and preserves microscopic fossils well; a close study with the arm's instruments is under way.",
+     "d": "17 Nov 2026 (NASA blog posted 16 Nov; raw images still to sol 2031; traverse file sol 2022)",
      "links": [
+      [
+       "NASA blog: The Ghostly Rocks of Idubi, 16 Nov",
+       "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/"
+      ],
       [
        "NASA blog: Newest Sample, Oldest Rock?",
        "https://science.nasa.gov/blog/newest-sample-oldest-rock/"
@@ -2306,9 +2452,9 @@
   "mi": 28.11,
   "lat": 18.4356,
   "lon": 77.2332,
-  "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, in the \"South Idubi\" area near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October (NASA blog) and plans to try for two more (Planetary Society). On sol 2023 (29 October) it studied a pitted light-toned loose rock, \"Nhlanguleni\", at a spot called \"Kapama Karula\" (NASA blog, 4 November).",
-  "est_sol": "about 2041",
-  "est_note": "NASA's raw-image feed still lists sol 2031 (6 November 2026) as its newest when checked on 16 November, all SuperCam close-ups (no Mastcam-Z or Navcam landscape frame, so the on-page picture stays sol 2024); the traverse file still ends at sol 2022; 16 November is about ten sols after 2031, about sol 2041 (our own arithmetic, one sol is about 1.0275 Earth days)",
+  "area": "\"Lac de Charmes\", outside the western rim of Jezero crater, in the \"South Idubi\" area near \"Idubi\", an olivine-rich outcrop; the rover drilled the \"Singita\" sample here on 24 October (NASA blog) and plans to try for two more (Planetary Society). On sol 2023 (29 October) it studied a pitted light-toned loose rock, \"Nhlanguleni\", at a spot called \"Kapama Karula\" (NASA blog, 4 November). NASA's blog of 16 November says a cluster of very bright rocks at Idubi is rich in hydrated silica, and the rover has begun a close-up study of them.",
+  "est_sol": "about 2042",
+  "est_note": "NASA's raw-image feed still lists sol 2031 (6 November 2026) as its newest when checked on 17 November, all SuperCam close-ups (no Mastcam-Z or Navcam landscape frame, so the on-page picture stays sol 2024); the traverse file still ends at sol 2022; 17 November is about eleven sols after 2031, about sol 2042 (our own arithmetic, one sol is about 1.0275 Earth days)",
   "note": "The distance comes from NASA's public traverse file (a list of the rover's stopping points), because no NASA blog gives a newer figure. That file lags and does not update every day. Its newest point is sol 2022 (28 Oct): 45,245.7 meters in total (45.25 km, 28.11 miles), after a 22-meter drive. The record figure NASA announced was 45.22 km for sol 2006 (11 Oct). If NASA's blog is newer, the daily check uses the blog's numbers.",
   "links": [
    [
@@ -5873,7 +6019,7 @@
  },
  "curiosity": [
   {
-   "t": "New on 14 November: NASA's raw-image feed now has sols 5072 and 5073. Sol 5072 (12 November 2026) has a large set of Mastcam frames (52, the makings of a picture mosaic), ChemCam close-ups and 23 Navcam frames. Sol 5073 (13 November) has 12 Navcam frames whose file names carry two new drive numbers (1252454 and then 1252490, up from 1252274), a hint that the rover drove twice [our own reading of the file names, unconfirmed]. So 14 November is about sol 5074 (our own arithmetic). Checked again on 15 November: sol 5073 is still the newest, now with 90 frames (Navcam, ChemCam, MAHLI and hazard cameras) and no further drive number; 15 November is about sol 5075 (our own arithmetic). Checked again on 16 November: sol 5073 is still the newest, now with 201 frames (89 right and 21 left Mastcam frames, 64 Navcam, ChemCam, MAHLI and hazard cameras) and still no drive number past 1252490; 16 November is about sol 5076 (our own arithmetic). No NASA blog has given a drive distance. The picture above stays the sol 5062 view (this run could write only the data files); the sol 5073 Navcam view is linked.",
+   "t": "New on 14 November: NASA's raw-image feed now has sols 5072 and 5073. Sol 5072 (12 November 2026) has a large set of Mastcam frames (52, the makings of a picture mosaic), ChemCam close-ups and 23 Navcam frames. Sol 5073 (13 November) has 12 Navcam frames whose file names carry two new drive numbers (1252454 and then 1252490, up from 1252274), a hint that the rover drove twice [our own reading of the file names, unconfirmed]. So 14 November is about sol 5074 (our own arithmetic). Checked again on 15 November: sol 5073 is still the newest, now with 90 frames (Navcam, ChemCam, MAHLI and hazard cameras) and no further drive number; 15 November is about sol 5075 (our own arithmetic). Checked again on 16 November: sol 5073 is still the newest, now with 201 frames (89 right and 21 left Mastcam frames, 64 Navcam, ChemCam, MAHLI and hazard cameras) and still no drive number past 1252490; 16 November is about sol 5076 (our own arithmetic). Checked again on 17 November: sol 5073 is still the newest, now with 272 frames (92 left and 89 right Mastcam frames, 64 Navcam, ChemCam, MAHLI, MARDI and hazard cameras) and still no drive number past 1252490; 17 November is about sol 5077 (our own arithmetic). No NASA blog has given a drive distance. The picture above stays the sol 5062 view (this run could write only the data files); the sol 5073 Navcam view is linked.",
    "links": [
     [
      "raw image, sol 5073 (Navcam)",
@@ -5886,6 +6032,27 @@
     [
      "NASA latest raw-image summary (sol 5073)",
      "https://mars.nasa.gov/api/v1/raw_image_items/msl/latest/"
+    ],
+    [
+     "raw-image list, sol 5073 (JSON)",
+     "https://mars.nasa.gov/rss/api/?feed=raw_images&category=msl&feedtype=json&sol=5073&num=100"
+    ]
+   ]
+  },
+  {
+   "t": "New on 17 November: two NASA-related items. NASA published a collage of all 49 drill holes the rover has made (16 mm across each, pictured by the MAHLI hand-lens camera), so NASA's own pages now back the blog's count of 49. And a study in PNAS (published 16 November), led by Heather Franz of NASA Goddard, uses the SAM lab's 2012-2025 measurements of carbon dioxide in the air to argue that extremely thin films of water form at the surface or in the soil of Gale crater in the warm seasons; it is indirect evidence, from a model of the measured oxygen isotopes (versions of oxygen that differ in weight).",
+   "links": [
+    [
+     "NASA Photojournal: 49 drill holes (PIA26802)",
+     "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/"
+    ],
+    [
+     "Crossref record of the PNAS paper (abstract)",
+     "https://api.crossref.org/works/10.1073/pnas.2615294123"
+    ],
+    [
+     "Gizmodo, 16 Nov",
+     "https://gizmodo.com/mars-atmosphere-does-something-strange-every-year-and-it-may-point-to-hidden-water-2000840471"
     ]
    ]
   },
@@ -5899,7 +6066,7 @@
    ]
   },
   {
-   "t": "Earlier NASA blogs, both posted 9 November 2026: sols 5050 to 5055 (Susanne P. Schwenzer, The Open University, plan of 23 October) says the rover \"successfully drilled our 49th drill hole, called 'Nazca'\"; a Mastcam picture of the hole is dated sol 5050 (20 October). Powder went to the CheMin lab, and the rover also zapped dark pebbles with ChemCam's laser. Sols 5056 to 5062 (Remington Free, NASA JPL, plan of 30 October): samples dropped to SAM and CheMin, a few sols of rest to recharge, and a first test of running two power-hungry jobs at once to save energy. NASA's mission page still shows 42 drill holes, so the count is unsettled [unconfirmed].",
+   "t": "Earlier NASA blogs, both posted 9 November 2026: sols 5050 to 5055 (Susanne P. Schwenzer, The Open University, plan of 23 October) says the rover \"successfully drilled our 49th drill hole, called 'Nazca'\"; a Mastcam picture of the hole is dated sol 5050 (20 October). Powder went to the CheMin lab, and the rover also zapped dark pebbles with ChemCam's laser. Sols 5056 to 5062 (Remington Free, NASA JPL, plan of 30 October): samples dropped to SAM and CheMin, a few sols of rest to recharge, and a first test of running two power-hungry jobs at once to save energy. NASA's mission page showed 42 drill holes; NASA's 49-hole collage of 16 November now backs the blog's count.",
    "links": [
     [
      "blog, sols 5050-5055",
@@ -5973,7 +6140,7 @@
    ]
   },
   {
-   "t": "Climbing Mount Sharp, the mound in Gale crater: 1 kilometer of elevation gain reached on 26 August 2026, per NASA's mission page, which still counts 42 drill holes (checked 12 November; the 9 November blog says 49).",
+   "t": "Climbing Mount Sharp, the mound in Gale crater: 1 kilometer of elevation gain reached on 26 August 2026, per NASA's mission page, whose older feature picture still counts 42 drill holes (checked 17 November; NASA's 16 November collage and the 9 November blog say 49).",
    "links": [
     [
      "mission page",
@@ -6366,6 +6533,18 @@
   [
    "Mars window",
    "the roughly 26-month period when Earth and Mars line up well for a launch."
+  ],
+  [
+   "Hydrated silica",
+   "silica (the material of quartz and opal) with water bound into it; on Earth it forms in hot springs, soils and groundwater and can preserve microscopic fossils."
+  ],
+  [
+   "Isotope",
+   "a version of a chemical element that differs in weight; oxygen-18 is a heavier, rarer form of oxygen, and the mix of isotopes can show where a gas has been."
+  ],
+  [
+   "PNAS",
+   "Proceedings of the National Academy of Sciences, a U.S. science journal whose papers are checked by other scientists before publication."
   ]
  ],
  "links": [
@@ -6865,6 +7044,7 @@
   ]
  ],
  "not_read": [
+  "17 Nov: the PNAS page for the Franz paper refused my plain reader (403, a bot check), so the paper is reported from its abstract in the Crossref record and from Gizmodo's report; the full paper was not read. The JPL data-archive link for the paper's data gave a server error (500). GAO's site search refused my reader (403), so no new protest of solicitation 80GSFC26R0011 could be ruled out; the two known dockets were read with a second plain reader (both still open). The UAE Space Agency and Emirates Mars Mission sites refused my reader (403), the Mohammed bin Rashid Space Centre's news page gave \"not found\" (404) and WAM's search page loaded without results; UAE was checked through X instead (no Hope posts from either agency). Blue Origin's news page answered 429 (too many requests) and was read through the web reader. SpaceX's updates page needs a full browser and came back empty through the web reader; its Mars page was read through the web reader. ESA's Newsroom page gave 404, so ESA was checked through its top-news feed. NASA's raw-image page for one sol 5073 Mastcam frame gave 404 to my reader, so the raw-image list is linked instead. No new picture files were added this run (the run could write only the data files).",
   "16 Nov: CNSA's Chinese news list page did not answer (no response to my plain reader; the web reader timed out with error 504), so CNSA was checked through its home page, which loaded. GAO's dockets refused my plain reader (403) and were read through the web reader (both still open). Blue Origin's news page answered 429 (too many requests) and was read through the web reader. The UAE Space Agency site refused my plain reader (403) and the WAM page loaded only a blank shell, so UAE and Hope were checked on X (UAE Space Agency, Mohammed bin Rashid Space Centre) and by a web search: nothing new. A Chinese trade site, spacenews.com.cn (not the U.S. SpaceNews), has a story on 3.5 TB of Tianwen-1 data opened to scientists worldwide; it timed out in both readers, so it is not reported. An Italian story (Hardware Upgrade) on a possible Tianwen-3 delay showed a bot check page and was not read; the delay rumor stays [unconfirmed]. Pictures were not refreshed: this run was told to write only make_data.py and data.json, and there was nothing newer to use anyway (Perseverance raw images still end at sol 2031, SuperCam only; Curiosity's sol 5073 Mastcam and Navcam frames are linked in the Curiosity section).",
   "15 Nov: GAO's dockets refused my plain reader (403) and were read through the web reader (both still open). Blue Origin's news page answered 429 (too many requests) and was read through the web reader. SpaceX's Flight 15 page needs a full browser and was read through the web reader. Aviation Week's Starship story could be read only to its first lines (sign-up wall); SpaceX, Space.com, CNBC and SpacePolicyOnline were used instead. The Chinese SpaceNews site (spacenews.com.cn) Tianwen-3 page came back empty in the web reader, so it is not cited. NASA's team-blog index pages load their lists by script, so the blogs were checked through NASA's own site post list. The UAE Space Agency site was not opened; the UAE was checked on X and by an Arabic web search (nothing newer than the 7 November Al Khaleej piece already noted as unreadable). The X search tool paused my reads twice for a few minutes (429, a shared limit) and then worked. Pictures were not refreshed: this run wrote only the data files, so the Curiosity picture stays the sol 5062 view (sol 5073 Navcam linked) and the Perseverance picture stays sol 2024 (nothing newer with a landscape frame); the new Starship item has no picture (SpaceX and press photos are not freely licensed). The x-api-mcp-guide skill could not be loaded (no Skill tool in this run); X was read with the documented search tools.",
   "14 Nov: the Senate Appropriations Committee's bill summary and report refused my plain reader (403) and the web reader got only a \"download will begin\" page, so the Mars line items rest on SpacePolicyOnline's quotes of the report (totals also in AIP). SpaceNews's Starship story could be read only to its first sentence (sign-up wall); Space.com, CNBC and SpaceX's own posts were used. SpacePolicyOnline's Starship story showed a \"verifying your request\" page and was not read. GAO's dockets refused my plain reader (403) and were read through the web reader (both still open). Blue Origin's news page answered 429 (too many requests) and was read through the web reader. NASA's team-blog index pages load their lists by script, so the blogs were checked through NASA's own site listing of new posts. The UAE Space Agency site was not opened; the UAE was checked on X and by an Arabic web search (only the 7 November Al Khaleej piece on Hope's aurora turned up, already noted on 12 November as unreadable). Pictures were not refreshed: this run was told to write only the two data files, so the Curiosity picture stays the sol 5062 view (sol 5073 Navcam linked) and the Perseverance picture stays sol 2024 (nothing newer with a landscape frame); the new Starship item has no picture (SpaceX and press photos are not freely licensed). The x-api-mcp-guide skill could not be loaded (no Skill tool in this run); X was read with the documented search tools.",

@@ -1,6 +1,691 @@
 {
  "editions": [
   {
+   "date": "2026-11-17",
+   "read_at": "2026-11-17T04:19:00+02:00 to 04:40 Israel time",
+   "nyt_source": "signed-in browser read (about 04:25 Israel time)",
+   "intro": "The Nvidia scandal’s fallout inside the Trump administration leads both the New York Times and the Washington Post, while the BBC leads with five EU countries’ deportation center in Rwanda (international) and a review of youth unemployment (UK). Robert Pattinson’s casting as the next James Bond is on every front and near the top of most most-read lists.",
+   "cover": "The New York Times leads with the Trump administration’s split over China chip policy breaking into public view, and the Washington Post with Trump seeing “both sides” as the Nvidia scandal fuels a feud between his top aides. The Guardian’s international front leads with world leaders gathering for the Apec and Asean summits, its UK front with police “retreating from streets.” The BBC leads with an EU deportation center in Rwanda and, in the UK, a youth jobs review; The Times of London leads with a “Farage penalty” in the Brexit reset deal; the Times of Israel’s newest story is an attack near Jericho. Robert Pattinson as James Bond tops the Guardian’s most-read list. Also getting big play: the Grammy nominations, Thursday’s GTA VI release and two Israeli Grammy nominees.",
+   "leading": [
+    {
+     "headline": "Trump Administration Divide on China Policy Breaks Into Public View",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+     "text": "The NYT says the open fight over advanced A.I. chips shows how the Nvidia scandal has deepened splits inside the government as Trump heads to meet China’s leader; the Post says Trump sees “both sides” in the feud between Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick, and the Guardian says Trump backs calls to reinstate Jensen Huang as Nvidia’s CEO.",
+     "ranks": "Leads: NYT (No. 1 to No. 3), WaPo (No. 1 to No. 4). Top 5: Guardian international (No. 3). On the front: BBC international and UK (Nvidia dismisses “Bring Jensen Back” campaign), Sky News. Most read: NYT trending No. 2, No. 5 and No. 9 (opinion), WaPo No. 4, BBC international No. 6, Guardian No. 9 (live blog).",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/technology/2026/11/16/fight-between-bessent-lutnick-over-nvidia-chips-heats-up/"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
+      }
+     ]
+    },
+    {
+     "headline": "Robert Pattinson to replace Daniel Craig as James Bond",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo",
+     "text": "The BBC says the 40-year-old is best known for Twilight, The Batman and The Odyssey; the Times of Israel says he is the first actor to play 007 since Amazon MGM Studios acquired the franchise, and ynet says Denis Villeneuve will direct the next film.",
+     "ranks": "Top 5: BBC international (No. 2), BBC UK (No. 3), Guardian UK (No. 5), The Times (No. 4 and No. 5). On the front: NYT (No. 9 to No. 11), Guardian international (No. 6), ynet (No. 9), WaPo, Times of Israel. Most read: Guardian No. 1 and No. 2, BBC international No. 2, BBC UK No. 2, WaPo No. 2 (analysis), NYT trending No. 6.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/style/2026/11/16/robert-pattinson-is-new-james-bond/"
+      }
+     ]
+    },
+    {
+     "headline": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo",
+     "text": "The BBC says Professor Michael Freeman told Newsnight that Jeffrey Epstein’s injuries are consistent with a homicide; the NYT says Freeman got rare access to the autopsy file and that past investigations found most evidence points to suicide.",
+     "ranks": "Top 5: BBC UK (No. 5). On the front: BBC international, The Times (No. 8), ynet. Most read: BBC UK No. 1, BBC international No. 3, NYT trending No. 3 (NYT trending No. 1 is a separate investigation of how Epstein grew his trafficking ring).",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/crime/article/epstein-death-homicide-not-suicide-new-p7f5p7dnf"
+      }
+     ]
+    },
+    {
+     "headline": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o",
+     "text": "The BBC says Alan Milburn’s review will call for sweeping changes to education, work and welfare; The Times says it warns one in six young people could be out of education, employment or training by 2031, and the Guardian says Milburn urges Andy Burnham to spend billions on a “new deal” for young people.",
+     "ranks": "Leads: BBC UK (No. 1 and No. 2). Top 5: BBC international (No. 3 and No. 4), Guardian UK (No. 2), The Times (No. 2 and No. 3). Most read: BBC international No. 10.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/politics/article/alan-milburn-uk-neets-crisis-without-welfare-reset-lhcd0tkdm"
+      }
+     ]
+    },
+    {
+     "headline": "United Resumes Flights as Outage Adds to Public Jitters Over Flying",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html",
+     "text": "The NYT says the brief United disruption came days after last week’s nationwide ground stop and ahead of the busy Thanksgiving travel period; the Post says a Chase Bank software problem affected online banking for several hours on Monday, and the Guardian says Microsoft found a months-old bug was a root cause of a global outage.",
+     "ranks": "Top 5: Guardian international (No. 5, Microsoft). On the front: NYT (No. 6 to No. 8), WaPo, BBC international (bank outages), Guardian. Most read: NYT trending No. 7, Guardian No. 4 (Microsoft) and No. 10 (United), BBC international No. 8 (banks).",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/nation/2026/11/16/chase-bank-reports-technical-issue-affecting-users/"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o"
+      }
+     ]
+    },
+    {
+     "headline": "Five EU countries announce migrant deportation centre in Rwanda",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
+     "text": "The BBC says Germany, Denmark, Austria, Greece and the Netherlands announced a “return hub” for failed asylum seekers; the Post says the E.U. is adopting its most hard-line asylum rules yet.",
+     "ranks": "Leads: BBC international. On the front: WaPo (world), Guardian international and UK. Most read: BBC international No. 1.",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/16/five-european-countries-agree-deport-rejected-asylum-seekers-rwanda/"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+      }
+     ]
+    },
+    {
+     "headline": "World leaders gather for Apec and Asean summits ahead of Trump-Xi-Putin meeting – live updates",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news",
+     "text": "The Guardian says Trump flew into Manila amid protests over the Middle East war and the scrapping of the US-led Pax Silica initiative; The Times says the U.S., China and Russia are likely to avoid meaningful talks on Ukraine, Iran or Nvidia at this week’s meeting in Shenzhen.",
+     "ranks": "Leads: Guardian international. Top 5: Guardian UK (No. 4), BBC international (No. 5, China’s AI showcase). On the front: The Times. Most read: BBC international No. 4.",
+     "also": [
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/world/asia/article/trump-xi-putin-summit-peace-iran-nukes-3mhhhn85w"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o"
+      }
+     ]
+    },
+    {
+     "headline": "Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message",
+     "text": "The BBC says Brand’s wife read his comments on their podcast and that No. 10 called the message “appalling”; The Times says a minister condemned the statement, which confirmed he is in HMP Littlehey.",
+     "ranks": "Top 5: Guardian UK (No. 3). On the front: The Times (No. 6), BBC UK (No. 10). Most read: Guardian No. 5, BBC international No. 7.",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o"
+      },
+      {
+       "outlet": "The Times",
+       "url": "https://www.thetimes.com/uk/crime/article/inside-russell-brand-prison-social-media-yoga-hbz8s9sw5"
+      }
+     ]
+    }
+   ],
+   "most_read": [
+    {
+     "outlet": "The New York Times",
+     "list": "nytimes.com trending list (signed-in browser read this morning)",
+     "items": [
+      {
+       "headline": "How Jeffrey Epstein Grew His Sex-Trafficking Ring",
+       "url": "https://www.nytimes.com/2026/11/15/magazine/epstein-victims-recruiting-trafficking.html"
+      },
+      {
+       "headline": "Jensen Huang’s Daughter, a Close Ally, Remains in Senior Role at Nvidia",
+       "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html"
+      },
+      {
+       "headline": "Challenging Consensus, Scientist Says Photos Show Epstein Was Killed",
+       "url": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html"
+      },
+      {
+       "headline": "A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.",
+       "url": "https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html"
+      },
+      {
+       "headline": "Trump Administration Divide on China Policy Breaks Into Public View",
+       "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
+      }
+     ]
+    },
+    {
+     "outlet": "The Washington Post",
+     "list": "homepage “Most Read” box",
+     "items": [
+      {
+       "headline": "The serious complications of GLP-1s that few may know about",
+       "url": "https://www.washingtonpost.com/health/2026/11/16/glp-1-weight-loss-drugs-have-big-cons-even-if-serious-problems-are-rare/"
+      },
+      {
+       "headline": "We have a new James Bond. But are we happy about it?",
+       "url": "https://www.washingtonpost.com/style/interactive/2026/11/16/we-have-new-james-bond-are-we-happy-about-it/"
+      },
+      {
+       "headline": "I’m a gastroenterologist. Here are 5 sneaky causes of bloating.",
+       "url": "https://www.washingtonpost.com/wellness/2026/11/16/im-gastroenterologist-here-are-5-sneaky-causes-bloating/"
+      },
+      {
+       "headline": "Nearly a tenth of the S&P 500 is tied to three men with no clear successors",
+       "url": "https://www.washingtonpost.com/technology/2026/11/16/probably-biggest-fear-elon-has-why-huangs-exit-looms-over-musk/"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC (international)",
+     "list": "bbc.com/news “Most read”",
+     "items": [
+      {
+       "headline": "Five EU countries announce migrant deportation centre in Rwanda",
+       "url": "https://www.bbc.co.uk/news/articles/cw987343352go"
+      },
+      {
+       "headline": "Robert Pattinson to replace Daniel Craig as James Bond",
+       "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo"
+      },
+      {
+       "headline": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+       "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo"
+      },
+      {
+       "headline": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+       "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o"
+      },
+      {
+       "headline": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+       "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC (UK)",
+     "list": "bbc.co.uk/news “Most read”",
+     "items": [
+      {
+       "headline": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+       "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo"
+      },
+      {
+       "headline": "Robert Pattinson to replace Daniel Craig as James Bond",
+       "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo"
+      },
+      {
+       "headline": "'No savings for a decade' and 'The name's Pattinson'",
+       "url": "https://www.bbc.co.uk/news/articles/c6x29ypw59n5o"
+      },
+      {
+       "headline": "Cass report author says she does not support draft conversion practices bill",
+       "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo"
+      },
+      {
+       "headline": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+       "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "list": "most viewed",
+     "items": [
+      {
+       "headline": "New James Bond announced ... and the name’s Pattinson, Robert Pattinson",
+       "url": "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson"
+      },
+      {
+       "headline": "Robert Pattinson’s journey from Harry Potter and Twilight to James Bond: ‘The honour of a lifetime’",
+       "url": "https://www.theguardian.com/film/2026/nov/16/robert-pattinson-james-bond-career"
+      },
+      {
+       "headline": "‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story",
+       "url": "https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch"
+      },
+      {
+       "headline": "Microsoft identifies months-old bug as a root cause of global outage",
+       "url": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause"
+      },
+      {
+       "headline": "Ministry of Justice investigating Russell Brand message from prison claiming he is not guilty",
+       "url": "https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message"
+      }
+     ]
+    }
+   ],
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "home": "https://www.nytimes.com/",
+     "para": "Leads with the Trump administration’s public split over China chip policy, the first of three Nvidia-related stories, followed by a daily briefing on the end of a climate goal, Iran’s dams, the United and Chase outages and three Bond items (order from a signed-in browser read).",
+     "items": [
+      {
+       "headline": "Trump Administration Divide on China Policy Breaks Into Public View",
+       "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
+      },
+      {
+       "headline": "Bessent Takes Hawkish Turn in White House Debate on China",
+       "url": "https://www.nytimes.com/2026/11/16/us/politics/bessent-lutnick-china.html"
+      },
+      {
+       "headline": "Jensen Huang’s Daughter, a Close Ally, Remains in Senior Role at Nvidia",
+       "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html"
+      },
+      {
+       "headline": "Today’s Top Stories: The Death of a Climate Goal",
+       "url": "https://www.nytimes.com/2026/11/16/world/climate-cop31-ukraine-nvidia-james-bond.html"
+      },
+      {
+       "headline": "War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason",
+       "url": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html"
+      }
+     ]
+    },
+    {
+     "name": "The Washington Post",
+     "home": "https://www.washingtonpost.com/",
+     "para": "Leads with four Nvidia stories, starting with Trump seeing “both sides” in the feud between his top aides, then an FDA nominee facing pushback and a piece on GLP-1 drug complications.",
+     "items": [
+      {
+       "headline": "Trump sees ‘both sides’ as Nvidia scandal fuels feud between top aides",
+       "url": "https://www.washingtonpost.com/technology/2026/11/16/fight-between-bessent-lutnick-over-nvidia-chips-heats-up/"
+      },
+      {
+       "headline": "White House orders Commerce to close chip loophole at heart of Nvidia scandal",
+       "url": "https://www.washingtonpost.com/technology/2026/11/16/trump-officials-issue-rule-restrict-sales-ai-chips-china/"
+      },
+      {
+       "headline": "Trump’s Nvidia stake grew to as much as $62 million before scandal",
+       "url": "https://www.washingtonpost.com/business/2026/11/16/trumps-stake-nvidia-grew-much-62-million-before-scandal-broke-out/"
+      },
+      {
+       "headline": "Nearly a tenth of the S&P 500 is tied to 3 men with no clear successors",
+       "url": "https://www.washingtonpost.com/technology/2026/11/16/probably-biggest-fear-elon-has-why-huangs-exit-looms-over-musk/"
+      },
+      {
+       "headline": "White House weighs next steps for FDA nominee amid bipartisan pushback",
+       "url": "https://www.washingtonpost.com/health/2026/11/16/white-house-weighs-next-steps-fda-nominee-who-has-faced-maha-vaccine-doubts/"
+      }
+     ]
+    },
+    {
+     "name": "BBC News",
+     "home": "https://www.bbc.com/news",
+     "para": "The international homepage leads with the EU’s Rwanda deportation hub, then Pattinson as Bond and the Milburn youth jobs review; the UK homepage leads with the Milburn review and puts Pattinson third.",
+     "items": [
+      {
+       "headline": "Five EU countries announce migrant deportation centre in Rwanda",
+       "url": "https://www.bbc.co.uk/news/articles/cw987343352go"
+      },
+      {
+       "headline": "Robert Pattinson to replace Daniel Craig as James Bond",
+       "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo"
+      },
+      {
+       "headline": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+       "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o"
+      },
+      {
+       "headline": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+       "url": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o"
+      },
+      {
+       "headline": "Cass report author says she does not support draft conversion practices bill (UK homepage No. 4)",
+       "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo"
+      }
+     ]
+    },
+    {
+     "name": "The Guardian",
+     "home": "https://www.theguardian.com/international",
+     "para": "The international front leads with the Apec and Asean summits live blog, then its report on Israel and Amazon’s facial recognition platform; the UK front leads with police funding and the Milburn review.",
+     "items": [
+      {
+       "headline": "World leaders gather for Apec and Asean summits ahead of Trump-Xi-Putin meeting",
+       "url": "https://www.theguardian.com/world/live/2026/nov/17/asean-apec-summit-2026-live-updates-trump-xi-putin-meeting-schedule-latest-news"
+      },
+      {
+       "headline": "Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
+       "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians"
+      },
+      {
+       "headline": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+       "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo"
+      },
+      {
+       "headline": "Police ‘retreating from streets’ due to major funding crisis, chief constables say (UK front No. 1)",
+       "url": "https://www.theguardian.com/uk-news/2026/nov/16/police-retreating-from-streets-major-funding-crisis-england-wales"
+      },
+      {
+       "headline": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people (UK front No. 2)",
+       "url": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment"
+      }
+     ]
+    },
+    {
+     "name": "The Times",
+     "home": "https://www.thetimes.com/",
+     "para": "Leads with a clause in the Brexit reset food standards deal that would make Britain pay compensation if a future government pulled out, then three Milburn and welfare stories and two Bond pieces.",
+     "items": [
+      {
+       "headline": "UK faces ‘Farage penalty’ if it pulls out of Brexit reset deal",
+       "url": "https://www.thetimes.com/uk/politics/article/farage-penalty-brexit-reset-deal-26vk6gzmj"
+      },
+      {
+       "headline": "Milburn: UK heading for Neets crisis without welfare reset",
+       "url": "https://www.thetimes.com/uk/politics/article/alan-milburn-uk-neets-crisis-without-welfare-reset-lhcd0tkdm"
+      },
+      {
+       "headline": "Burnham to push for welfare changes before next election",
+       "url": "https://www.thetimes.com/uk/politics/article/andy-burnham-welfare-reform-milburn-review-3qkbfbkj3"
+      },
+      {
+       "headline": "Robert Pattinson could be the most eccentric James Bond yet — I can’t wait",
+       "url": "https://www.thetimes.com/culture/film/article/robert-pattinson-james-bond-new-007-f0bfgqrrf"
+      },
+      {
+       "headline": "Why replacing Daniel Craig was the Bond franchise’s toughest mission",
+       "url": "https://www.thetimes.com/culture/film/article/james-bond-007-robert-pattinson-replacing-daniel-craig-g55z69r7t"
+      }
+     ]
+    },
+    {
+     "name": "The Times of Israel",
+     "home": "https://www.timesofisrael.com/",
+     "para": "Homepage could not be read; its newest stories (RSS, by time) lead with two Israelis lightly hurt in an attack near Jericho, a canceled cultural night with Hillel at a New York college and Biden’s memoir.",
+     "items": [
+      {
+       "headline": "Two Israelis lightly hurt in suspected terror attack while heading to new outpost on Jericho’s outskirts",
+       "url": "https://www.timesofisrael.com/two-israelis-lightly-hurt-in-suspected-terror-attack-while-heading-to-new-outpost-on-jerichos-outskirts/"
+      },
+      {
+       "headline": "NYC college investigating cancellation of cultural night with Hillel",
+       "url": "https://www.timesofisrael.com/nyc-college-investigating-cancellation-of-cultural-night-with-hillel/"
+      },
+      {
+       "headline": "Biden defends his support of Israel in presidential memoir, while urging it to ‘wake up’",
+       "url": "https://www.timesofisrael.com/biden-defends-his-support-of-israel-in-presidential-memoir-while-urging-it-to-wake-up/"
+      },
+      {
+       "headline": "US air travel largely returns to normal as funding fight brews",
+       "url": "https://www.timesofisrael.com/us-air-travel-largely-returns-to-normal-as-funding-fight-brews/"
+      },
+      {
+       "headline": "AG, state attorney to look into PMO’s feeding of Arab vote fraud tip-off to police on election eve",
+       "url": "https://www.timesofisrael.com/ag-state-attorney-to-examine-transfer-of-election-fraud-claims-from-pmo-to-police/"
+      }
+     ]
+    },
+    {
+     "name": "ynet",
+     "home": "https://www.ynet.co.il/",
+     "para": "Leads with four stories on the election-night arrests of Ra’am activists and the tip from the prime minister’s office, then the attack near Jericho (headlines translated from Hebrew).",
+     "items": [
+      {
+       "headline": "The information from Netanyahu’s office, the arrests and the exposure of the “intelligence source”: how the election affair branched out (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/bynfbdurzl"
+      },
+      {
+       "headline": "The “intelligence source” to ynet: the meeting with Netanyahu? A coincidence (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/bykkntdcml"
+      },
+      {
+       "headline": "The attorney general halts the police review in the affair (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/sk00m9huaml"
+      },
+      {
+       "headline": "Police officer refused to arrest Ra’am activists on election day (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/rjusvqu0ml"
+      },
+      {
+       "headline": "Attack near Jericho: two lightly hurt in ramming and assault with axes (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/h158wbf0ge"
+      }
+     ]
+    }
+   ],
+   "israel": {
+    "para": "ynet leads with the election-night arrests of Ra’am activists and the tip passed from the prime minister’s office to police (its first four stories); the Times of Israel’s homepage could not be read, and its newest story is an attack near Jericho. Abroad, the Guardian’s international front puts its report on Israel uploading millions of photos of Palestinians to Amazon’s facial recognition platform at No. 2, and the Washington Post and The Times carry the election-tip story in their world sections. The NYT’s first 12 homepage stories and the BBC’s top stories have no Israel story.",
+    "items": [
+     {
+      "headline": "The information from Netanyahu’s office, the arrests and the exposure of the “intelligence source”: how the election affair branched out (in Hebrew)",
+      "outlet": "ynet (Hebrew)",
+      "url": "https://www.ynet.co.il/news/article/bynfbdurzl",
+      "text": "ynet says it is being examined whether information from the prime minister’s office led to the unusual police arrests of Ra’am activists on election night three weeks ago, and lays out the full timeline.",
+      "also": [
+       {
+        "outlet": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/11/16/after-claiming-election-stolen-netanyahu-allies-face-their-own-meddling-allegations/"
+       },
+       {
+        "outlet": "The Times",
+        "url": "https://www.thetimes.com/world/middle-east/article/binyamin-netanyahu-leak-voter-fake-election-fraud-gm56zw2ks"
+       }
+      ]
+     },
+     {
+      "headline": "AG, state attorney to look into PMO’s feeding of Arab vote fraud tip-off to police on election eve",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/ag-state-attorney-to-examine-transfer-of-election-fraud-claims-from-pmo-to-police/",
+      "text": "The Times of Israel says Attorney General Gali Baharav-Miara and the state attorney told police to halt an internal probe of the affair, and that Likud asked for more time to appeal the election results.",
+      "also": [
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/sk00m9huaml"
+       }
+      ]
+     },
+     {
+      "headline": "Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+      "text": "The Guardian says the upload came as the Israeli military relied more on Amazon’s cloud platform during its bombardment of Gaza; the Times of Israel says the report claims some 3.5 million photos of Palestinians from Gaza are stored at an Amazon data center in Tel Aviv.",
+      "also": [
+       {
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/report-idf-uploaded-millions-of-photos-of-palestinians-to-amazons-ai-face-scanner-tech/"
+       },
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/sjj8tjfcze"
+       }
+      ]
+     },
+     {
+      "headline": "Two Israelis lightly hurt in suspected terror attack while heading to new outpost on Jericho’s outskirts",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/two-israelis-lightly-hurt-in-suspected-terror-attack-while-heading-to-new-outpost-on-jerichos-outskirts/",
+      "text": "The Times of Israel says, citing the IDF, that attackers rammed an Israeli vehicle and then attacked the passengers, who later fired toward Palestinians throwing rocks; it says the Palestinian Authority reported a woman critically wounded, while ynet says Palestinians report one woman killed and 10 wounded.",
+      "also": [
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/h158wbf0ge"
+       }
+      ]
+     },
+     {
+      "headline": "Biden defends his support of Israel in presidential memoir, while urging it to ‘wake up’",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/biden-defends-his-support-of-israel-in-presidential-memoir-while-urging-it-to-wake-up/",
+      "text": "The Times of Israel, from an advance copy, says the former president writes that Netanyahu played into Hamas’s hands by not letting more aid into Gaza.",
+      "also": []
+     },
+     {
+      "headline": "Jerusalem court orders ex-ICC prosecutor Khan to pay NIS 25 million to former hostages",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/jerusalem-court-orders-ex-icc-prosecutor-khan-to-pay-nis-25-million-to-former-hostages/",
+      "text": "The Times of Israel says families of former captives sued Karim Khan over the arrest warrants for Netanyahu and Gallant.",
+      "also": []
+     }
+    ]
+   },
+   "culture": [
+    {
+     "headline": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o",
+     "text": "The BBC says British singer Raye leads with 11 nominations and Dolly Parton is recognized two months after her death; the Guardian says Beyoncé got her record 100th nomination.",
+     "section": "Music"
+    },
+    {
+     "headline": "Grammy 2027: Raye leads with 11 nominations – and which Israeli will compete against her? (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/b1wyouuagg",
+     "text": "ynet says two Israelis are among the nominees, drummer Dan Pugach and guitarist Gilad Hekselman; Israel Hayom says Hekselman received two nominations.",
+     "section": "Music (Israel)"
+    },
+    {
+     "headline": "Dana International in first response after Shai Karem’s death: “Missing you forever” (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/rk4bvvdrfg",
+     "text": "ynet’s entertainment lead says the singer said goodbye to her longtime manager and producer, who died at 61; Haaretz Galeria leads with a tribute to him.",
+     "section": "Music (Israel)"
+    },
+    {
+     "headline": "Great punchlines and zero soul: did we really need a Barkuni series? (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/yokra14959667",
+     "text": "ynet’s critic says the viral alien puppet’s new series on Kan has excellent jokes but no depth; Israel Hayom also reviews the series.",
+     "section": "TV (Israel)"
+    },
+    {
+     "headline": "New Zealand tricks and annual leave - the lengths fans are going to for GTA 6",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo",
+     "text": "The BBC says Sensor Tower estimates the game has already made $1.18bn from pre-orders; the Guardian says it comes out on Thursday, November 19, the first new Grand Theft Auto in 13 years.",
+     "section": "Games"
+    },
+    {
+     "headline": "The serious complications of GLP-1s that few may know about",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/health/2026/11/16/glp-1-weight-loss-drugs-have-big-cons-even-if-serious-problems-are-rare/",
+     "text": "No. 1 on the Post’s most-read list: doctors are finding rare but worrying problems affecting the body and mind among the millions taking GLP-1 drugs.",
+     "section": "Health"
+    },
+    {
+     "headline": "‘I’m a smalltown girl with a terrible disability. He’s a Hollywood superstar. But we’ve been laughing since we met’: Emma Fogarty and Colin Farrell on their extraordinary story",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/film/2026/nov/16/emma-fogarty-colin-farrell-marathons-friendship-the-slightest-touch",
+     "text": "No. 3 on the Guardian’s most-viewed list: the two friends talk about the new documentary The Slightest Touch, about her marathon despite a rare skin condition.",
+     "section": "Movies"
+    },
+    {
+     "headline": "The Best Thanksgiving Menu Is a Southern Buffet",
+     "outlet": "The New York Times",
+     "url": "https://cooking.nytimes.com/article/southern-buffet-thanksgiving-2026-menu",
+     "text": "On the NYT homepage feed: Eric Kim’s Korean American Thanksgiving dinner and “love letter to the South.”",
+     "section": "Food"
+    }
+   ],
+   "sports": [
+    {
+     "headline": "Pochettino has his reasons for exiting USMNT, but says Pep, other targets should 'take it'",
+     "outlet": "The Athletic",
+     "url": "https://www.nytimes.com/athletic/7788376/2026/11/16/mauricio-pochettino-usmnt-manchester-united-club-return/",
+     "text": "The outgoing U.S. men’s coach, headed to Manchester United, says Pep Guardiola should take the U.S. job if offered; the Guardian says his assistants have already left for Manchester.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united"
+      }
+     ]
+    },
+    {
+     "headline": "What's the story with Scotland boss Pocognoli - is it time to go?",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/crgqx1zz94d4o",
+     "text": "BBC Sport’s lead after Scotland lost to Switzerland in the Nations League, a defeat the Guardian says increases the pressure on the manager.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/16/switzerland-scotland-nations-league-match-report"
+      }
+     ]
+    },
+    {
+     "headline": "Florian Wirtz scores twice as Germany beat Netherlands 5-0 to reach Nations League quarter-finals",
+     "outlet": "The Athletic",
+     "url": "https://www.nytimes.com/athletic/7787829/2026/11/16/florian-wirtz-germany-netherlands/",
+     "text": "The Athletic says Germany scored four second-half goals, including a solo goal by Wirtz; it is No. 2 on the Guardian’s sport front.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/16/nations-league-roundup-germany-netherlands-greece-serbia"
+      }
+     ]
+    },
+    {
+     "headline": "All Blacks admit they ‘let country down’ against Wales and gear up for England",
+     "outlet": "The Guardian",
+     "url": "https://www.theguardian.com/sport/2026/nov/16/dave-rennie-new-zealand-all-blacks-england-twickenham-nations-championship",
+     "text": "New Zealand turn to their match with England after a shock loss to Wales; BBC Sport says Joseph, who scored five tries, is set to start for England.",
+     "also": [
+      {
+       "outlet": "BBC Sport",
+       "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx20pnd853po"
+      }
+     ]
+    },
+    {
+     "headline": "Arsenal's Max Dowman becomes England Under-21s' youngest scorer with late winner vs. France",
+     "outlet": "The Athletic",
+     "url": "https://www.nytimes.com/athletic/7787974/2026/11/16/max-dowman-england-goal-france/",
+     "text": "The Athletic says the 16-year-old scored late to complete a 3-2 win.",
+     "also": []
+    }
+   ],
+   "unread": [
+    {
+     "outlet": "The Times of Israel homepage",
+     "tried": "curl returned a Cloudflare 403 page, WebFetch returned 403, and the r.jina.ai reader returned a Cloudflare check page; used the RSS feed (newest first), so its homepage order is not known. The arts and culture feed (/arts-and-culture/feed/ and /topic/arts-and-culture/feed/) also returned 403."
+    },
+    {
+     "outlet": "The Telegraph",
+     "tried": "telegraph.co.uk and its RSS feed with curl returned HTTP 402 (an “Access Issue” page)."
+    },
+    {
+     "outlet": "Walla culture",
+     "tried": "e.walla.co.il and walla.co.il/entertainment load but list no article links in the HTML; the Walla RSS feed 22 is breaking news, not culture; the r.jina.ai reader returned 401."
+    },
+    {
+     "outlet": "Most-read lists for The Times, Times of Israel and ynet",
+     "tried": "None found in the pages read."
+    }
+   ],
+   "method": "Read 04:19–04:40 Israel time. NYT homepage order and trending list from a signed-in browser read of nytimes.com at about 04:25 by a browser helper (nyt_source); NYT feeds and the trending page read with curl were used for descriptions and checks. The rest with curl: WaPo homepage and Most Read box through the r.jina.ai reader (worked at 04:19; it later returned 401); BBC UK and international homepages and their Most read lists; Guardian UK and international fronts and the most-viewed feed; The Times homepage through r.jina.ai (worked this run, with links); Times of Israel RSS; ynet homepage, RSS and entertainment page; Haaretz Galeria, Mako and Israel Hayom culture pages; sections from NYT, Guardian, BBC and WaPo RSS feeds plus BBC Sport, Guardian Sport and The Athletic. Front pages: not refreshed by this worker; at 04:30 today’s Guardian (Paperboy) and NYT (Freedom Forum pdf17) images returned 404, so the build’s msm/fetch_frontpages.py run will likely show the previous day’s pages labeled with their dates."
+  },
+  {
    "date": "2026-11-16",
    "read_at": "2026-11-16T04:19:00+02:00 to 04:25 Israel time",
    "intro": "The fallout from Jensen Huang’s exit at Nvidia leads the New York Times and the Guardian’s international front, while the Washington Post leads with the transportation secretary’s defense after Friday’s nationwide flight ground stop. The BBC leads with Zelensky’s call to lift Starlink limits (international) and a plan to cut payroll taxes for under-25s (UK); The Times of London leads with warnings about a zero-hours contract ban, and ynet with stalled Likud–Yashar unity talks.",
@@ -3884,5 +4569,5 @@
    "cover": "The big newsrooms split on what matters most today. The New York Times leads with the woman at the center of the Nvidia spy scandal, which is also No. 1 on the Times and Washington Post most-read lists. The Post leads with House Republicans blocking the Hegseth impeachment. In Britain, The Guardian and The Times lead with the allegations against David Walliams, which he denies, and the BBC's top stories include the arrest of a US Army soldier near Gloucester on suspicion of spying for Russia. The Times of Israel leads with Netanyahu's Knesset speech. Away from the news pages, M John Harrison became the first science fiction author to win the Booker Prize, Stacy Keach died at 85, and Paul McCartney became a billionaire."
   }
  ],
- "updated": "2026-11-16T04:25:00+02:00"
+ "updated": "2026-11-17T04:45:00+02:00"
 }

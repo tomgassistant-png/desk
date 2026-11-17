@@ -4,6 +4,375 @@
  "latest_count": 18,
  "items": [
   {
+   "id": "2026-11-17-attacks-jericho-ram-axe-attack",
+   "section": "attacks",
+   "lead": true,
+   "highlight": true,
+   "headline": "Attackers ram a car taking Israelis to the new Jericho community, then go at them with axes and clubs; two 18-year-olds lightly hurt, and the Israelis opened fire",
+   "summary": "Shortly after midnight on Tuesday (Israel time), a car carrying Palestinians sped into an Israeli car on the outskirts of Jericho, the IDF says. The attackers got out with weapons and attacked the people in the Israeli car, and after that stones were thrown at the Israelis, who \"responded with fire to remove the threat.\" The army says there are Israeli and Palestinian wounded and that forces are chasing suspects and have set up roadblocks; it calls the details still under review (<a href=\"https://x.com/idfonline/status/2122496214708953099\">IDF Spokesperson</a>; <a href=\"https://www.inn.co.il/flashes/1141230\">Arutz 7</a>). Ynet reports that the two Israelis hurt are 18-year-olds, lightly wounded near the new \"HaTmarim\" neighborhood and taken to Shaare Zedek hospital, and that they were attacked with clubs and axes; the Binyamin council put the number of Israelis hurt at three (Arutz 7 headline), and Arutz 7 says they were on their way to the new community it calls \"Ir HaTmarim\" (<a href=\"https://www.ynet.co.il/news/article/h158wbf0ge\">Ynet</a>; <a href=\"https://www.inn.co.il/flashes/1141222\">Arutz 7</a>). Channel 14's military correspondent Hallel Bitton Rosen reported four attackers, a well-known farm owner and his son in the Israeli car, and that \"accurate fire\" killed one female attacker; the IDF statement does not say anyone was killed, so that detail is unconfirmed (<a href=\"https://x.com/BittonRosen/status/2122459162453884964\">Hallel Bitton Rosen</a>). Binyamin council head and Yesha Council chairman Yisrael Gantz: \"Terrorists tried to murder Israelis tonight, and thanks to the quick action of the security forces their attempt failed\" (quoted by Ynet). The Palestinian side's account: the PA news agency WAFA, citing PA security sources, says a woman, Fidda Muhammad Fheidat, 60, was killed and 10 people were wounded by settler gunfire in Duyuk al-Tahta west of Jericho, and ties the shooting to the eight homes Jews moved into on 4 November (<a href=\"https://www.wafa.ps/news/2026/11/17/استشهاد-مواطنة-وإصابة-10-آخرين-برصاص\">WAFA</a>). The two accounts have not been reconciled. Background: about 20 Jewish families moved into eight homes in Area C near the Hasmonean palaces site early this month (4 November, according to WAFA), in a move led by the Nachala movement with Binyamin council backing; the organizers say the homes were bought in full with ownership papers, and since then movement to and from the homes has been in escorted convoys (Ynet). See the desk items of 14 and 16 November on the Jericho homes.",
+   "source": "IDF Spokesperson / Ynet / Arutz 7 / Hallel Bitton Rosen (Channel 14) / WAFA",
+   "date": "2026-11-16",
+   "url": "https://www.ynet.co.il/news/article/h158wbf0ge",
+   "places": [
+    {
+     "name": "Ein ad-Duyuk at-Tahta, Jericho (the new Jewish homes are nearby)",
+     "lat": 31.8674392,
+     "lon": 35.4380861,
+     "note": "Nominatim neighborhood point; exact attack spot not published (approximate)"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-attacks-tapuah-car-yasuf",
+   "section": "attacks",
+   "highlight": true,
+   "headline": "Palestinian car hits two young Israelis on the access road to Anton farm near Kfar Tapuach and flees to Yasuf; army closes the village, then calls it \"friction\" rather than a terror attack",
+   "summary": "On Monday at about 5:30 p.m., a Palestinian Hyundai reached the access road to Anton farm next to Kfar Tapuach and hit two Israelis, who were lightly hurt; the driver fled to the village of Yasuf, and troops closed it, Olam Katan's Simcha Raz and Israel Hayom's Yotam Deshe reported (<a href=\"https://x.com/simkha0404/status/2122355357259300925\">Simcha Raz</a>; <a href=\"https://x.com/Yotamdeshe97/status/2122353360535761234\">Yotam Deshe</a>). Raz added that stones were thrown at the troops in Yasuf and a soldier was lightly hurt in the leg (unconfirmed by the army) (<a href=\"https://x.com/simkha0404/status/2122356663654944815\">Simcha Raz</a>). Later that evening the IDF said that \"this was friction between Israeli civilians and Palestinians in the area of the village of Yasuf\" (<a href=\"https://x.com/idfonline/status/2122364005503135757\">IDF Spokesperson</a>). Samaria council head Yossi Dagan asked the government to treat the event \"with the same seriousness\" as if it had ended worse, and added that \"only the IDF and the security system are authorized to use force\" (<a href=\"https://www.srugim.co.il/101016321-דיווח-ראשוני-שני-פצועים-מפיגוע-דריסה\">Srugim</a>). The Palestinian side's account, citing Army Radio, is that settlers from a nearby outpost had gone to the edge of the village before the clash (<a href=\"https://www.raya.ps/news/1228944.html\">Raya</a>); the full sequence has not been published.",
+   "source": "Simcha Raz (Olam Katan) / Yotam Deshe (Israel Hayom) / IDF Spokesperson / Srugim / Raya",
+   "date": "2026-11-16",
+   "url": "https://x.com/idfonline/status/2122364005503135757",
+   "places": [
+    {
+     "name": "Kfar Tapuach (Anton farm nearby)",
+     "lat": 32.11907,
+     "lon": 35.25009,
+     "note": "Nominatim; the farm is not mapped (approximate)"
+    },
+    {
+     "name": "Yasuf",
+     "lat": 32.10979,
+     "lon": 35.23992,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-idf-rocket-maker-home-demolished",
+   "section": "idf",
+   "highlight": true,
+   "headline": "First demolition of a rocket maker's home in Judea and Samaria: army razes the Kafr Ni'ma house of Abdullah Khatib, whose cell built rockets and carried out a launch test",
+   "summary": "IDF troops, Judea and Samaria Border Police and engineering units under the Binyamin Brigade demolished on Monday the home of Abdullah Khatib, who the army says pushed rocket production in Judea and Samaria and was responsible for a rocket launch test. His cell, which also worked on \"game-changing\" weapons, was arrested by the IDF, Shin Bet and the police counterterror unit in Ramallah in September 2025; rockets and explosives were destroyed and a lathe for making rockets was found. The army calls the demolition \"unprecedented,\" justified by the rocket threat (<a href=\"https://x.com/idfonline/status/2122325452568072219\">IDF Spokesperson</a>; <a href=\"https://x.com/manniefabian/status/2122326451252764973\">Emanuel Fabian, Times of Israel</a>). Raya, a Ramallah outlet close to the PA, says the army blew up two homes in Kafr Ni'ma west of Ramallah, those of prisoners Abdullah al-Khatib and Ibrahim Abu Adi (the second home is not in the IDF statement) (<a href=\"https://www.raya.ps/news/1228915.html\">Raya</a>). On Channel 14, its military correspondent Hallel Bitton Rosen argued that home demolitions do not deter and that \"you need to take land\" (retweeted by <a href=\"https://x.com/BittonRosen/status/2122369573986931042\">Bitton Rosen</a>).",
+   "source": "IDF Spokesperson / Emanuel Fabian / Raya / Channel 14",
+   "date": "2026-11-16",
+   "url": "https://x.com/idfonline/status/2122325452568072219",
+   "places": [
+    {
+     "name": "Kafr Ni'ma",
+     "lat": 31.92712,
+     "lon": 35.09405,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-pa-reversing-barrels-war-plan",
+   "section": "pa",
+   "headline": "\"Reversing the barrels\" plan: if PA forces turn their guns on Israel, the PA would be declared an enemy and \"war\" announced, the cabinet was told; army and Shin Bet see no sign of it now",
+   "summary": "Right-wing reporter Amiel Yarchi reports that the IDF showed ministers a plan, drawn up at their request, for the scenario in which PA security forces turn their weapons on IDF troops and Israeli communities: in response the PA would be defined as an enemy and \"war\" declared, as the Central Command chief and the defense minister told Sunday night's cabinet meeting. The IDF and Shin Bet told the cabinet there is currently no indication of such a scenario (<a href=\"https://x.com/amiel_y/status/2122396361098428514\">Amiel Yarchi</a>). Single-source detail, unconfirmed. Israel Hayom and Kan reported on 16 November that the cabinet discussed the scenario (see that day's lead).",
+   "source": "Amiel Yarchi (X)",
+   "date": "2026-11-16",
+   "url": "https://x.com/amiel_y/status/2122396361098428514",
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-pa-coordination-reprimand",
+   "section": "pa",
+   "headline": "Elisha Yered: a unit that rushed after stone throwers on a Samaria road was investigated for not waiting while PA police were told and pulled back; HaKol HaYehudi says the warnings go on",
+   "summary": "Settlement activist Elisha Yered reports that an IDF force that got a report overnight of stones thrown at Jewish cars on a Samaria road raced out to cut off and catch the attackers, and that commanders then opened a \"serious inquiry\" because the force did not wait for the Palestinian security services to be updated and to withdraw first. He says waiting half an hour would have made the response pointless (<a href=\"https://x.com/ElishaYered/status/2122316872590708909\">Elisha Yered</a>). His account is unconfirmed; the road and unit are not named. HaKol HaYehudi writes that about a week after Central Command chief Avi Bluth was reported to have ordered an end to the procedure of updating the PA before arrests, it continues in the field; the IDF told it that \"no information is passed to any party that endangers our forces or the success of operations\" (<a href=\"https://x.com/hakolhayehudi/status/2122251557970268461\">HaKol HaYehudi</a>). Activist Ayelet Lash, of Rachelim, posted without giving a source that an army sapper's survey in the Nur Shams camp found a site the army had not known about, with 11 pipe bombs, 4 fire-extinguisher bombs and at least 2 underbelly bombs (unconfirmed) (<a href=\"https://x.com/ayeletlash9/status/2122316177800118767\">Ayelet Lash</a>). See the desk items of 7 to 9 and 16 November on the order to stop warning PA forces.",
+   "source": "Elisha Yered / HaKol HaYehudi / Ayelet Lash",
+   "date": "2026-11-16",
+   "url": "https://x.com/ElishaYered/status/2122316872590708909",
+   "places": [
+    {
+     "name": "Nur Shams camp",
+     "lat": 32.3180444,
+     "lon": 35.059812,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-land-allon-road-farms-attacks-drop",
+   "section": "land",
+   "highlight": true,
+   "headline": "Binyamin council figures: terror incidents on the Allon Road fell from 459 in 2022 to 52 so far in 2026 as farms along it grew from 3 to 13",
+   "summary": "Data from the Binyamin council's operations center, reported by Channel 14: 459 terror incidents on the Allon Road in 2022, 314 in 2023, 126 in 2024, 131 in 2025 and 52 from January to early November 2026. Over the same years the number of farms along the road rose from three (2022) to six, 11 and 13 (2025). Council head Yisrael Gantz: \"the strategic farms protect the road and save lives.\" Farms Association director Amichai Shahuat (transliteration of the Hebrew) says shepherds going out with their flocks create a buffer between threat sources and the road (<a href=\"https://www.c14.co.il/article/1792393\">Channel 14</a>). The figures are the council's own. Elisha Yered posted on the same day that the Sde Yonatan field-crop farm has finished its first plowing before sowing, below Mitzpe Idit at the back entrance to Ma'ale Mikhmas, a hill from which, he says, hundreds of stone and firebomb attacks on the Allon Road were launched before it was settled (<a href=\"https://x.com/ElishaYered/status/2122378231433109740\">Elisha Yered</a>).",
+   "source": "Channel 14 / Binyamin council / Elisha Yered",
+   "date": "2026-11-16",
+   "url": "https://www.c14.co.il/article/1792393",
+   "places": [
+    {
+     "name": "Allon Road, Binyamin",
+     "lat": 31.815,
+     "lon": 35.349,
+     "note": "Approximate: a point on the Allon Road (Nominatim), as in earlier desk items"
+    },
+    {
+     "name": "Ma'ale Mikhmas (Mitzpe Idit and Sde Yonatan nearby)",
+     "lat": 31.87895,
+     "lon": 35.30621,
+     "note": "Nominatim; the hill and farm are not mapped (approximate)"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-land-grazing-allocations",
+   "section": "land",
+   "headline": "Civil Administration gives notice of at least 28,105 dunams of state land for grazing and 584 dunams for water reservoirs near Fasayil; objections open for 30 days",
+   "summary": "Since the election, the Custodian of Government Property in the Civil Administration has given notice of at least nine grazing allocations totaling 28,105 dunams across Judea and Samaria, plus 584 dunams for water reservoirs near Fasayil in the Jordan Valley, according to the anti-settlement group Peace Now. The notices announce an intention to allocate and give 30 days for objections; they do not name the recipients, and Peace Now says the land is divided among only nine settlers. Counting earlier notices (16,151 dunams in February 2025 and about 533 dunams in January 2026), grazing allocations by the custodian now total 44,182 dunams. Peace Now says the next government should cancel them (<a href=\"https://peacenow.org.il/grazing-allocations-by-the-civil-administration\">Peace Now</a>; <a href=\"https://x.com/peacenowisrael/status/2122353871280382385\">Peace Now on X</a>). The PA's Colonization and Wall Resistance Commission counts six notices from 12 October to 13 November covering 13,120 dunams, including 12,356 for grazing east of Ramallah and in the northern Jordan Valley, 584 for \"engineering works\" in the Far'a valley and 180 for farm-produce processing at Qalandiya; it notes these are use permits on land already declared state land, not new declarations (<a href=\"https://www.raya.ps/news/1228954.html\">Raya</a>). The two groups' figures differ and have not been checked against the notices.",
+   "source": "Peace Now / Raya (PA commission figures)",
+   "date": "2026-11-16",
+   "url": "https://peacenow.org.il/grazing-allocations-by-the-civil-administration",
+   "places": [
+    {
+     "name": "Fasayil",
+     "lat": 32.0343,
+     "lon": 35.4365,
+     "note": "as in earlier desk items"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-land-ambassadors-samaria-tour",
+   "section": "land",
+   "headline": "Ambassadors of Panama, Honduras and Guatemala tour Samaria with Yossi Dagan; Panama's envoy calls residents \"the buffer of the state\"",
+   "summary": "In what Channel 14 calls a first delegation of its kind, the ambassadors of Panama, Honduras and Guatemala toured Samaria on Monday with council head Yossi Dagan, with help from the Israel Allies group, and looked out over the Dan region from the \"state's balcony\" lookout at Peduel. Honduras's defense attaché also came. Panama's ambassador Ezra Cohen: \"We bless the residents of Judea and Samaria; may they continue to be the buffer of the state. You are heroes.\" Honduras's ambassador José Luis Núñez Bennett: \"It is an honor for us to be here\" (<a href=\"https://www.c14.co.il/article/1791044\">Channel 14</a>; <a href=\"https://x.com/simkha0404/status/2122298739750494378\">Simcha Raz</a>).",
+   "source": "Channel 14 / Simcha Raz (Olam Katan)",
+   "date": "2026-11-16",
+   "url": "https://www.c14.co.il/article/1791044",
+   "places": [
+    {
+     "name": "Peduel",
+     "lat": 32.06184,
+     "lon": 35.05317,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-land-regavim-begin-road",
+   "section": "land",
+   "headline": "Regavim petitions the Jerusalem District Court to remove a building-materials yard, an unlicensed horse farm and a truck lot built along Begin Road at the city's northern entrance",
+   "summary": "Between the Ben Zion Netanyahu interchange and the Atarot junction, next to Begin Road, a building-materials yard, an unlicensed horse farm and a car and truck parking lot were set up without permits and against a military order banning construction, the land-enforcement group Regavim says in a petition to the Jerusalem District Court demanding immediate enforcement. It cites aerial photos from 2021, 2025 and 2026 and says that in April 2023 the authorities told it the matter was \"known and being handled\" (<a href=\"https://x.com/elchanangr/status/2122372908303438032\">Elchanan Groner</a>; <a href=\"https://x.com/olam_katan/status/2122315892721607013\">Olam Katan</a>; <a href=\"https://x.com/hakolhayehudi/status/2122346153802924306\">HaKol HaYehudi</a>). Makor Rishon and Channel 14 also ran the story (headlines only seen). The petition text itself was not seen.",
+   "source": "Regavim, via Elchanan Groner / Olam Katan / HaKol HaYehudi",
+   "date": "2026-11-16",
+   "url": "https://x.com/olam_katan/status/2122315892721607013",
+   "places": [
+    {
+     "name": "Begin Road near Atarot, northern Jerusalem",
+     "lat": 31.85885,
+     "lon": 35.21872,
+     "note": "Approximate: Nominatim point for the Atarot area; the compounds are not mapped"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-attacks-jsr-monday-farms-jit",
+   "section": "attacks",
+   "headline": "JSR: about 10 \"harvesters\" stone residents in Or Yedidya farm's grazing land; Hanina farm shepherd stoned; a man reported hurt by stones at Jit junction near Kedumim",
+   "summary": "The Yesha Council's Judea and Samaria Situation Room (JSR) reported on Monday that about 10 Arab \"olive harvesters\" threw stones at Israeli residents in the grazing areas of Or Yedidya farm in Samaria, and later three more did so; no one was hurt (<a href=\"https://t.me/s/JSR_HEB\">JSR Telegram</a>; <a href=\"https://x.com/JSR_EN/status/2122236473629909347\">JSR on X</a>). Stones were also thrown at a shepherd from Hanina farm in Binyamin, with no injuries (<a href=\"https://x.com/JSR_EN/status/2122319989076062305\">JSR</a>). Olam Katan's Simcha Raz reported a man hurt by stones at the Jit junction near Kedumim (no official confirmation found) (<a href=\"https://x.com/simkha0404/status/2122333374786543650\">Simcha Raz</a>). JSR's tally for Sunday, 15 November: seven incidents, including an attack on a shepherd, three stone attacks on Israeli vehicles, a road blocked with stones, damage to a spring and a suspected arson (<a href=\"https://x.com/JSR_EN/status/2122254438446366788\">JSR</a>). JSR also reported that the official Telegram channel of Saraya al-Quds, Islamic Jihad's military wing in Judea and Samaria, posted praise for the 2002 Worshippers' Way attack in Hebron on its 24th anniversary, calling the three attackers \"heroes\"; 12 soldiers, Border Police officers and Kiryat Arba response-team members were killed, including Hebron Brigade commander Col. Dror Weinberg (<a href=\"https://x.com/JSR_EN/status/2122265478122942598\">JSR</a>; also <a href=\"https://x.com/Yotamdeshe97/status/2122293988241621106\">Yotam Deshe, Israel Hayom</a>). No new JSR report or weekly survey appeared on its website since 15 November.",
+   "source": "JSR (Yesha Council) / Simcha Raz / Yotam Deshe",
+   "date": "2026-11-16",
+   "url": "https://x.com/JSR_EN/status/2122236473629909347",
+   "places": [
+    {
+     "name": "Hanina farm (near Rammun)",
+     "lat": 31.93116,
+     "lon": 35.29946,
+     "note": "Approximate: point is Rammun village (Nominatim), as in earlier desk items"
+    },
+    {
+     "name": "Jit junction (near Kedumim)",
+     "lat": 32.2119285,
+     "lon": 35.1510768,
+     "note": "Approximate: marker at Kedumim (Nominatim)"
+    },
+    {
+     "name": "Kiryat Arba (Worshippers' Way, 2002)",
+     "lat": 31.52776,
+     "lon": 35.11917,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-land-malachei-hashalom-arrests",
+   "section": "land",
+   "headline": "Six arrested, including teenage girls, at a protest against a Palestinian olive harvest at the entrance to Malachei HaShalom; Eli residents object to a harvest beside a neighborhood",
+   "summary": "After a High Court petition filed by al-Mughayyir, large IDF and Border Police forces on Monday allowed Palestinian olive harvesters near Malachei HaShalom and the nearby Gal Yosef farm, Elisha Yered reports; dozens of residents protested and Border Police arrested six, including a girl he says was beaten and pulled by her hair (<a href=\"https://x.com/ElishaYered/status/2122320379569926628\">Elisha Yered</a>). The legal aid group Honenu says about six were held, some of them minors; the girls say they sat quietly by the road and that police called the area a closed military zone without showing an order or map and kept pushing and hitting them after they moved away (<a href=\"https://x.com/elchanangr/status/2122373368938713328\">Elchanan Groner</a>; <a href=\"https://x.com/simkha0404/status/2122321387977162790\">Simcha Raz, with Honenu video</a>). No police account was found. Separately, Eli residents were angered by a notice that a harvest would be held Tuesday around the Palgei Mayim neighborhood, with troops and Border Police inside the community; Simcha Raz later clarified that the harvest is next to the community and the forces will be inside it (<a href=\"https://x.com/simkha0404/status/2122419602013724898\">Simcha Raz</a>).",
+   "source": "Elisha Yered / Honenu via Elchanan Groner and Simcha Raz",
+   "date": "2026-11-16",
+   "url": "https://x.com/ElishaYered/status/2122320379569926628",
+   "places": [
+    {
+     "name": "Malachei HaShalom junction, Route 458",
+     "lat": 32.0298,
+     "lon": 35.3491,
+     "note": "as in earlier desk items"
+    },
+    {
+     "name": "Eli",
+     "lat": 32.0695,
+     "lon": 35.26248,
+     "note": "Nominatim; Palgei Mayim neighborhood not mapped"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-negev-weapons-rahat-musmus-nazareth",
+   "section": "negev",
+   "headline": "Weapons seizures: nine guns in Rahat and Negev Bedouin towns, a rifle hidden under stairs in Ar'ara, an M16 and Kalashnikov cache with grenades near Musmus, an M16 at a Nazareth investigator's home",
+   "summary": "Southern District police, the National Guard and Border Police seized two assault rifles, a long gun and six pistols in Rahat and Bedouin towns in the Negev, in Rahat a gun was found in a car fleeing a shooting, and some of those arrested are suspected of shootings tied to a feud between families; in Ar'ara a rifle was found hidden in the floor under a staircase in a house under construction (<a href=\"https://www.c14.co.il/article/1790586\">Channel 14</a>). Near Musmus in Wadi Ara, a police dog led Border Police and Umm al-Fahm detectives to a hidden cache of three M16 rifles, a Kalashnikov, magazines, ammunition and three fragmentation grenades (<a href=\"https://www.jdn.co.il/flashes/2766468/\">JDN</a>). In Nazareth, a 62-year-old private investigator was found with an M16 and magazines; HaKol HaYehudi says more than 780 weapons have been seized in the Northern District this year (its figure) (<a href=\"https://x.com/hakolhayehudi/status/2122359022842003675\">HaKol HaYehudi</a>). Separately, i24NEWS reports that a guard in his 20s at a moshav in the south is suspected of stealing hundreds of rounds and magazines from the standby squad's armory, caught on hidden cameras after a Border Police officer noticed gear missing; police are checking whether it was meant for criminals (<a href=\"https://www.i24news.tv/he/news/news/criminal/artc-1b7949cc\">i24NEWS</a>). Ayelet Lash names the moshav as Netta and says the guard is Arab; neither detail is in the i24 report (<a href=\"https://x.com/ayeletlash9/status/2122245310328062461\">Ayelet Lash</a>).",
+   "source": "Channel 14 / JDN / HaKol HaYehudi / i24NEWS / Ayelet Lash",
+   "date": "2026-11-16",
+   "url": "https://www.c14.co.il/article/1790586",
+   "places": [
+    {
+     "name": "Rahat",
+     "lat": 31.3933637,
+     "lon": 34.7546784,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Ar'ara",
+     "lat": 32.49655,
+     "lon": 35.09556,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Musmus",
+     "lat": 32.54293,
+     "lon": 35.1551,
+     "note": "Nominatim; cache site in open ground nearby (approximate)"
+    },
+    {
+     "name": "Nazareth",
+     "lat": 32.70662,
+     "lon": 35.30484,
+     "note": "Nominatim city point"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-negev-from-the-right-deputy-speakers",
+   "section": "negev",
+   "headline": "From the right: Ra'am's Walid Taha and Ahmad Tibi slated as Knesset deputy speakers; Meir Ettinger reposts Taha's visit to Hamas's Aziz Dweik; Moran Tal on Islamic Movement chants in Kafr Qasim",
+   "summary": "The Knesset arrangements committee was set on Monday to name nine deputy speakers, among them Ahmad Tibi (Joint List) and Walid Taha (Ra'am), reporter Amiel Yarchi wrote (<a href=\"https://x.com/amiel_y/status/2122223839182557244\">Amiel Yarchi</a>). Smotrich had offered to back Matan Kahana for speaker if he promised not to name deputies from parties that do not call Hamas a terror group; Kahana refused and called the demand \"anti-statesmanlike\" (<a href=\"https://x.com/Netanelfr/status/2122301299039285632\">Netanel Frankel, JNS Hebrew</a>). Writer Meir Ettinger reposted an older post showing Taha on a visit of support to Hamas leader Aziz Dweik after his release from prison, and other posts on Ra'am's roots in the Muslim Brotherhood (<a href=\"https://x.com/meiretingr/status/2122478214660468839\">Meir Ettinger</a>). Moran Tal wrote that at conferences and marches of the Islamic Movement's southern branch, youths in Kafr Qasim chant Muslim Brotherhood slogans such as \"In the path of Allah we walk... and our blood will be spilled\" (<a href=\"https://x.com/MoranT555/status/2122213898401042893\">Moran Tal</a>). Elchanan Groner reported that the Mossawa center, linked to Hadash, wrote to the heads of the Arab parties proposing joint demands for \"leadership roles, centers of influence, policy-making and decision-making\" in a government (<a href=\"https://x.com/elchanangr/status/2122220144503984349\">Elchanan Groner</a>). These are the writers' claims and views.",
+   "source": "Amiel Yarchi / Netanel Frankel / Meir Ettinger / Moran Tal / Elchanan Groner",
+   "date": "2026-11-16",
+   "url": "https://x.com/MoranT555/status/2122213898401042893",
+   "places": [
+    {
+     "name": "Kafr Qasim",
+     "lat": 32.1152014,
+     "lon": 34.9752609,
+     "note": "Nominatim town point"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-idf-syria-yarmouk-incursion",
+   "section": "idf",
+   "headline": "Southern Syria: Syrian media report a large incursion into Yarmouk Basin villages with house searches and families leaving Kuwaya; tanks at Jubata al-Khashab; Knesset event marks two years on the Hermon",
+   "summary": "Al Arabiya's correspondent reported an Israeli incursion of about 23 military vehicles into villages of the Yarmouk Basin in western Daraa on Monday night, with house raids and heavy fire (<a href=\"https://x.com/AlArabiya/status/2122468792617849009\">Al Arabiya</a>). Local outlet Daraa 24 says troops searched homes in eastern Ma'ariya with 11 vehicles and two troop carriers, and fired machine guns from the edge of Ma'ariya toward Kuwaya, setting a room on fire; Aksalser and others say families left Kuwaya (<a href=\"https://x.com/Daraa24_24/status/2122437857847714096\">Daraa 24</a>; <a href=\"https://x.com/Daraa24_24/status/2122486782348681272\">Daraa 24</a>; <a href=\"https://x.com/AksalserNews/status/2122489584613310789\">Aksalser</a>). Al Jazeera's Syria Now reported two Merkava tanks at the edge of Jubata al-Khashab in northern Quneitra early Tuesday (<a href=\"https://x.com/AJSyriaNowN/status/2122492666092872174\">Syria Now</a>). No IDF statement on these moves was found. Earlier Monday the IDF confirmed a predawn strike on a weapons shipment meant for Hezbollah on the Syria-Lebanon border, and a Kan report said Syria admits it cannot fully seal the border (retweeted by <a href=\"https://x.com/ItayBlumental/status/2122409857588363610\">Itay Blumental, Kan</a>). MK Limor Son Har-Melech (Otzma Yehudit) is holding a Knesset event on Tuesday to give thanks for \"the liberation of the Hermon crown and parts of the Bashan,\" marking two years since the IDF took the Syrian Hermon summit (<a href=\"https://x.com/Netanelfr/status/2122371610380255553\">Netanel Frankel</a>). Halutzei HaBashan posted nothing new on X or Telegram since the last edition.",
+   "source": "Al Arabiya / Daraa 24 / Aksalser / Syria Now / Kan / Netanel Frankel",
+   "date": "2026-11-16",
+   "url": "https://x.com/Daraa24_24/status/2122437857847714096",
+   "places": [
+    {
+     "name": "Ma'ariya, Yarmouk Basin (Daraa)",
+     "lat": 32.76462,
+     "lon": 35.7994,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Kuwaya, Yarmouk Basin (Daraa)",
+     "lat": 32.74778,
+     "lon": 35.8281,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Jubata al-Khashab (Quneitra)",
+     "lat": 33.2257594,
+     "lon": 35.8341343,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
+   "id": "2026-11-17-land-activist-pa-claims",
+   "section": "land",
+   "headline": "Activist and PA claims: High Court orders the army to keep Emek Tirtza farmer Moshe Sharvit off Wadi al-Far'a land; WAFA says a settler rammed eight people in Tuqu'; Israeli rights groups back Al-Haq's director",
+   "summary": "The High Court this week (ACRI dates the ruling 15 November) unanimously accepted a petition by the Association for Civil Rights in Israel and Bimkom for Palestinian residents of Wadi al-Far'a in the Jordan Valley, and ordered the state to take real steps to keep Moshe Sharvit of the Emek Tirtza farm off their land and ensure their access to it; ACRI says the court rejected the state's claim that its actions were enough (<a href=\"https://www.acri.org.il/post/1432\">ACRI</a>; <a href=\"https://www.bizportal.co.il/takdin/news/article/20048724\">Takdin</a>). No response from Sharvit was found. WAFA says a settler drove into eight Palestinians gathered near a road accident at Khirbet al-Deir in Tuqu' on Monday evening, then hit them again; no Israeli statement on the incident was found (<a href=\"https://www.wafa.ps/news/2026/11/16/إصابة-8-مواطنين-جراء-دعسهم-من-مستعمر-في-تقوع\">WAFA</a>). A PA official in Jenin says settlers took over two homes near Mevo Dotan, on Arraba land, and began clearing about 16 dunams (<a href=\"https://www.raya.ps/news/1228960.html\">Raya</a>). B'Tselem and other Israeli rights groups called for lifting the travel ban on Al-Haq director Shawan Jabarin (<a href=\"https://x.com/btselem/status/2122362209858896151\">B'Tselem</a>). Elisha Yered says left-wing activists spread an AI-made video of \"settlers destroying a Palestinian banana plantation\" as proof of Jewish terror (<a href=\"https://x.com/ElishaYered/status/2122386824756916501\">Elisha Yered</a>).",
+   "source": "ACRI / Takdin / WAFA / Raya / B'Tselem / Elisha Yered",
+   "date": "2026-11-16",
+   "url": "https://www.acri.org.il/post/1432",
+   "places": [
+    {
+     "name": "Wadi al-Far'a",
+     "lat": 32.28397,
+     "lon": 35.34566,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Tuqu'",
+     "lat": 31.63809,
+     "lon": 35.21876,
+     "note": "Nominatim; Khirbet al-Deir not mapped"
+    },
+    {
+     "name": "Arraba (Jenin)",
+     "lat": 32.4047004,
+     "lon": 35.2033539,
+     "note": "Nominatim"
+    }
+   ],
+   "edition": "2026-11-17",
+   "published": "2026-11-17T05:00:00+02:00",
+   "letter": "PA security: 17 Nov 2026"
+  },
+  {
    "id": "2026-11-16-idf-cabinet-reversing-barrels",
    "section": "idf",
    "lead": true,

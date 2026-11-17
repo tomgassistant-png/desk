@@ -1076,6 +1076,10 @@
     "2026-11-16": {
       "intro": "Israel: Channel 12's Uvda reports that the tip behind the election-day arrests of Ra'am activists came through Netanyahu's office, and the attorney general's office and police are checking whether it was planted; the first Likud–Yashar! unity talks end without progress. Also: China confirms Thursday's Xi–Putin–Trump summit in Shenzhen; US envoy Waltz is in Beirut with options for a force after UNIFIL; Carney and St-Pierre Plamondon have a friendly first meeting; Northern Ireland's unionists reject Harris's unity letter; Teddy Riner's popularity drops 11 points; and a coolant spill at xAI's Southaven site.",
       "quiet": "Nothing material on Brazil, the Carney case, Trenton (no new private recovery story in the city), Greenland, Colombia and Israel, Israeli data centers, Belle Burden, HaShiloach (no new essay since 24 September), Marc Andreessen (one repost on 14 November only) or non-Latin script digitization. No change to official Israeli election results and no appeal filing found; no new Israeli reaction to EUSM Lebanon and no new contributing country. Cypherboria: no new @net__void TikTok video, nothing new from @Mortal_Series beyond a repost, PHYTHAGRAM, the Methexis/JCCRU channel, Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro or jacquesvallee.net, and nothing on theme from Colder Cybernetics, AmurakaHidden, 4dimensionapp, thenightshirt or D.W. Pasulka."
+    },
+    "2026-11-17": {
+      "intro": "Israel: the Knesset is expected to elect Matan Kahana speaker today after Likud and Smotrich offered support on conditions about Arab deputy speakers; Likud asks the court for seven more days to file its election appeal, and the attorney general halts a police review of the Ra'am arrests. Also: Waltz leaves Lebanon without a post-UNIFIL proposal while France floats its own force; the first big French TV debate; the Francophonie postpones its leadership vote; Brazil's activity index falls 0.9%; former Colombian diplomats criticize the Israel moves; a 150 MW data center planned in Haifa Bay; Trump leaves for Asia; and a Grok Bot travel plug-in from Sabre.",
+      "quiet": "Nothing material on the Carney case, Trenton, Greenland (the Danish parliament's final vote is due 19 November), UK breakup politics, HaShiloach (no new essay since 24 September) or Marc Andreessen (not checked here; covered by another assistant). Official Israeli election results unchanged. Cypherboria: no new @net__void TikTok video, nothing new from @Mortal_Series, PHYTHAGRAM, Cyphers News, Truth is Christ, the Methexis/JCCRU channel, Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro, jacquesvallee.net or the Outsideness newsletter; no new interview with Land on YouTube, Apple Podcasts or X; no posts in the period from Eric Hadley, GematResearch, AmurakaHidden, Colder Cybernetics, 4dimensionapp, thenightshirt, D.W. Pasulka or Methexis, and nothing on theme from Ryan Haecker, Anomaly of the Elected, chi or resonatingloop."
     }
   },
   "items": [
@@ -13069,6 +13073,368 @@
         {
           "name": "@patallax on X: Ungrund and Valentinian Gnosticism",
           "url": "https://x.com/patallax/status/2121866862430740979"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-israel-election-1",
+      "edition": "2026-11-17",
+      "section": "israel-election",
+      "headline": "The Knesset is expected to elect Matan Kahana (Yashar!) speaker on Tuesday after 67 MKs demanded the vote; Likud and Smotrich offered support on conditions about Arab deputy speakers, and Eisenkot's bloc refused",
+      "lead": "The Knesset plenum is expected on Tuesday, 17 November, to elect MK Matan Kahana of Gadi Eisenkot's Yashar! as speaker, likely with votes from the Arab parties as well, ynet reported.",
+      "text": "The vote was set after 67 MKs, including members of Ra'am and the Joint List, signed a demand to hold it. ynet reports that in a negotiating session Likud first proposed postponing the replacement of speaker Amir Ohana as a goodwill gesture for the unity talks, and then offered to back Kahana itself on condition that no deputy speakers come from the Arab parties; Eisenkot's bloc refused. Religious Zionism chair Bezalel Smotrich sent Kahana a letter offering his party's support, and saying that after talks with Netanyahu Likud would join, on two conditions: that Kahana publicly commit to serve only until a government is formed and resign if a new government wants another speaker, and that he not appoint deputy speakers from lists that do not define Hamas as a terror organization (Walla). A Kan headline says Kahana answered that he was surprised by a demand to ignore a public that makes up 21% of the population (headline only, not opened). Journalist Tal Schneider wrote on X that Shas may abstain or even vote for Kahana. ynet also notes that Liran Avishar Ben-Horin (Beyachad) is the first woman to chair the Finance Committee; possible conflict-of-interest claims tied to her husband's strategic-communications firm were raised, and she denied them. On coalition talks, Yedioth Ahronoth reports (single source) that Yashar! MKs Inbar Gitai and Elazar Stern presented partners a draft military-service outline it would offer the Haredi parties: a reset of status, in effect a retroactive amnesty, for draft evaders aged 18 to 26 for a limited window of a few months to half a year, in three tracks: service-deferral quotas for some aged 18 to 20, about one to two months of \"stage B\" reserve training for those aged 21 to 26, and a full exemption for those 26 and older; it addresses what the IDF estimates is a \"pool\" of about 90,000 Haredim already facing desertion or evasion proceedings. United Torah Judaism chair Yaakov Asher confirmed talks with both sides and said his party will not sit with Ra'am (Channel 14). Eisenkot visited Likud MK Elisha Madan's \"unity tent\" outside the Knesset and said that by unity he means mutual responsibility and shared service, not a unity government (Arutz Sheva reporter Hezki Baruch on X). The official results on the Central Elections Committee site are unchanged (turnout 77.98%; Likud 27, Yashar! 21, Beyachad 12, Joint List 11, Democrats 8, Ra'am 8, Yisrael Beytenu 7, Otzma Yehudit 7, United Torah Judaism 7, Shas 6, Religious Zionism 6).",
+      "sources": [
+        {
+          "name": "ynet: Kahana expected to be elected speaker (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/yokra14960579"
+        },
+        {
+          "name": "Walla: Smotrich's letter and conditions to Kahana (Hebrew)",
+          "url": "https://www.walla.co.il/news/israel/383961621"
+        },
+        {
+          "name": "ynet: Yashar!'s draft military-service outline (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/yokra14960957"
+        },
+        {
+          "name": "Channel 14: Yaakov Asher on talks with both sides (Hebrew)",
+          "url": "https://www.c14.co.il/article/1792602/"
+        },
+        {
+          "name": "Tal Schneider on X: Shas and the Kahana vote (Hebrew)",
+          "url": "https://x.com/talschneider/status/2122395364624060482"
+        },
+        {
+          "name": "Hezki Baruch on X: Eisenkot at the unity tent (Hebrew)",
+          "url": "https://x.com/HezkeiB/status/2122385654013145417"
+        },
+        {
+          "name": "Hezki Baruch on X: Eisenkot's remarks to Madan (Hebrew)",
+          "url": "https://x.com/HezkeiB/status/2122398119665213747"
+        },
+        {
+          "name": "Central Elections Committee: national results (Hebrew)",
+          "url": "https://votes26.bechirot.gov.il/nationalresults"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-israel-election-interference-watch",
+      "edition": "2026-11-17",
+      "section": "israel-election",
+      "headline": "Election-interference watch: Likud asks the Jerusalem District Court for seven more days to file its election appeal; the attorney general halts a police internal review of the Ra'am arrests and will discuss how the tip reached police",
+      "lead": "Likud filed a request on Monday, 16 November, with the Jerusalem District Court to extend the deadline for its election appeal by seven days, under section 86(b) of the Elections Law, through lawyers Ilan Bombach and Shai Levi.",
+      "text": "The request cites about 1,150 reports of alleged irregularities and says Likud's inspection of the election materials, allowed by Central Elections Committee chair Noam Sohlberg's 11 November decision, ended only on Sunday night: about 300 pages of polling-station protocols and forms plus thousands of pages of voter strike-off lists. Likud says it will attach an expert opinion and that it has complained to the police, the attorney general and the Privacy Protection Authority (Arutz Sheva, Channel 14). Kikar HaShabbat says the legal deadline falls on Wednesday, 18 November; this was not confirmed in an official record. Haaretz reported (headline and summary only) that its analysis found most of the complaints did not concern matters that could affect the vote. No appeal has been filed yet. Separately, on the election-day arrests of Ra'am activists: the man named as the \"intelligence source,\" Dani Greenberg, a former aide to former Prime Minister's Office director-general Yossi Shelley, told ynet he planted nothing, said a Joint List MK gave him the information and names, and declined to name the MK or file a formal complaint. Police Commissioner Danny Levi had ordered an internal review within a week; the Justice Ministry said the attorney general, together with State Attorney Amit Aisman, asked the police to halt it, and that the attorney general will hold a discussion on how information passed from the Prime Minister's Office to police near election day (Maariv, ynet, Arab48). ynet reports that a Southern District police intelligence officer objected and asked to meet the source, and that the arrest order came at 5:00 and the arrests were made at 5:30; police said they acted lawfully. Ra'am MKs and the Joint List asked the attorney general to open a criminal investigation against Netanyahu and others (Kan and Israel Hayom headlines, not opened). No criminal investigation has been opened and no one has been charged; what was announced is a discussion.",
+      "sources": [
+        {
+          "name": "Arutz Sheva: Likud asks to extend appeal deadline (Hebrew)",
+          "url": "https://www.inn.co.il/news/710930"
+        },
+        {
+          "name": "Channel 14: Likud's extension request (Hebrew)",
+          "url": "https://www.c14.co.il/article/1792108"
+        },
+        {
+          "name": "Kikar HaShabbat: Likud requests extension (Hebrew)",
+          "url": "https://www.kikar.co.il/political-news/likud-requests-extension-election-appeal-hundreds-ballot-boxes"
+        },
+        {
+          "name": "Maariv: attorney general halts police review (Hebrew)",
+          "url": "https://www.maariv.co.il/breaking-news/article-1389184"
+        },
+        {
+          "name": "ynet: police review frozen (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/sk00m9huaml"
+        },
+        {
+          "name": "ynet: Dani Greenberg interview (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/bykkntdcml"
+        },
+        {
+          "name": "ynet: intelligence officer objected; arrests at 5:30 (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/rjusvqu0ml"
+        },
+        {
+          "name": "Arab48: police review frozen (Arabic)",
+          "url": "https://www.arab48.com/%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2026/11/16/%D9%81%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B2%D9%88%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA--%D8%AA%D8%AC%D9%85%D9%8A%D8%AF-%D9%81%D8%AD%D8%B5-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D9%88%D8%A8%D8%AD%D8%AB-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%85%D8%B9-%D9%85%D9%82%D8%B1%D8%A8%D9%8A%D9%86-%D9%85%D9%86-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-lebanon-1",
+      "edition": "2026-11-17",
+      "section": "lebanon",
+      "headline": "Waltz leaves Lebanon without an official proposal for a force after UNIFIL; Israeli outlets report a French plan for troops to patrol with the Lebanese army, which Israel opposes south of the Litani",
+      "lead": "US envoy Mike Waltz ended his visit to Lebanon on 16 November without presenting an official proposal for a force to follow UNIFIL, LBCI reported.",
+      "text": "LBCI says France is drafting a UN Security Council resolution aimed at the end of the year, that Waltz said \"no country can have two armies,\" and that he did not meet army commander Rodolphe Haykal. i24NEWS (Amichai Stein) and the Jerusalem Post, citing three sources, report that France is advancing a plan outside the UN to send hundreds and possibly thousands of troops to patrol alongside the Lebanese army, with training bases north of the Litani; no other country has joined so far. Unnamed Israeli officials said Israel does not want such a force south of the Litani, and the reports say Jerusalem also opposes a French idea of about 500 UN monitors. This French plan is separate from the EU mission (EUSM); no new Israeli reaction to EUSM was found.",
+      "sources": [
+        {
+          "name": "LBCI: no official post-UNIFIL plan yet",
+          "url": "https://www.lbcgroup.tv/news/news-bulletin-reports/968267/title/en"
+        },
+        {
+          "name": "i24NEWS: French plan for a force in Lebanon (Hebrew)",
+          "url": "https://www.i24news.tv/he/news/international/middle-east/artc-20ed52e8"
+        },
+        {
+          "name": "Jerusalem Post: French plan and Israeli opposition",
+          "url": "https://www.jpost.com/middle-east/article-915093"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-lebanon-2",
+      "edition": "2026-11-17",
+      "section": "lebanon",
+      "headline": "UN Security Council hears that Sweida remains in a \"tense security and political stalemate\"; local outlet reports fuel shortages",
+      "lead": "Briefing the UN Security Council on 16 November (meeting 10273), the UN deputy special envoy for Syria said Sweida \"remains in a tense security and political stalemate.\"",
+      "text": "According to the UN's automatic transcript (not an official record), the envoy said the government had deployed more forces amid reports of continued Israeli support to local armed actors, that the Sweida–Damascus road is intermittently restricted, that there were clashes in Sweida city and protests over school exams and detainees, and that the agreed roadmap requires, among other steps, the return of displaced Druze and Bedouin families. The envoy's name was not confirmed from an opened page. The local outlet Suwayda24 reported residents' complaints that fuel stations sell to the black market, and an activist asking why displaced families are not housed in hotels and apartments held by faction leaders (single local source).",
+      "sources": [
+        {
+          "name": "UN transcript: Security Council meeting 10273",
+          "url": "https://transcripts.un.org/en/sc/10273"
+        },
+        {
+          "name": "Suwayda24 on X: fuel complaints (Arabic)",
+          "url": "https://x.com/Suwayda24/status/2122374802820264407"
+        },
+        {
+          "name": "Suwayda24 on X: housing for displaced families (Arabic)",
+          "url": "https://x.com/Suwayda24/status/2122259615022764054"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-france-election-1",
+      "edition": "2026-11-17",
+      "section": "france-election",
+      "headline": "First big TV debate: Retailleau and Mélenchon clash, Le Pen's rivals attack her funding plans; Le Pen tells Ukraine's ambassador France could no longer help Kyiv financially",
+      "lead": "Marine Le Pen, Jean-Luc Mélenchon, Raphaël Glucksmann, Bruno Retailleau and Gabriel Attal debated for about three hours on TF1 and LCI on Monday, 16 November, on solidarity, purchasing power and poverty; Édouard Philippe was absent.",
+      "text": "20 Minutes reports a sharp exchange in which Retailleau called Mélenchon a \"magician\" and compared him to Chávez, while Retailleau and Attal attacked how Le Pen would fund her plans; Le Pen said she would stop subsidizing \"politicized\" associations, including the Human Rights League. The same day Le Pen met Ukraine's ambassador, Vadym Omelchenko, and repeated that France could \"no longer help financially\" if she is elected, while saying she would honor the €90 billion EU loan and keep material and humanitarian aid; people around Macron said those cutting aid \"play against us\" (franceinfo). A Le Figaro op-ed signed by 1,029 local officials calls for a primary of the right and center (franceinfo). A Le Parisien headline says a poll makes Philippe the favorite in such a primary, with David Lisnard second (headline only; the page was blocked). Polymarket early on 17 November: Le Pen 46%, Lisnard 16%, Mélenchon 13.5%, Christine Lagarde 7%, Philippe 6.5%; essentially unchanged.",
+      "sources": [
+        {
+          "name": "20 Minutes: what to remember from the TF1/LCI debate (French)",
+          "url": "https://www.20minutes.fr/politique/4263396-20261116-presidentielle-2027-clash-magicien-grand-perdant-faut-retenir-debat-tf1-lci"
+        },
+        {
+          "name": "franceinfo: Le Pen to Ukraine's ambassador (French)",
+          "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/marine-le-pen-reitere-aupres-de-l-ambassadeur-ukrainien-que-la-france-ne-pourrait-plus-aider-financierement-kiev-si-elle-est-elue_8285462.html"
+        },
+        {
+          "name": "franceinfo: 1,029 officials call for a primary (French)",
+          "url": "https://www.franceinfo.fr/elections/le-rassemblement-commence-par-la-primaire-de-la-droite-et-du-centre-plaident-un-millier-d-elus-locaux-dans-une-tribune_8284796.html"
+        },
+        {
+          "name": "Polymarket data: next French presidential election",
+          "url": "https://gamma-api.polymarket.com/events?slug=next-french-presidential-election"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-quebec-1",
+      "edition": "2026-11-17",
+      "section": "quebec",
+      "headline": "Francophonie postpones the election of its secretary-general by 12 months; St-Pierre Plamondon says Quebec came out \"well\" but warns against repeated delays",
+      "lead": "The Organisation internationale de la Francophonie postponed the election of its secretary-general by 12 months, Le Devoir and Radio-Canada reported.",
+      "text": "Louise Mushikiwabo stays in office in the meantime but cannot run again, Le Devoir reports citing sources, and Rwanda will not field a candidate (Radio-Canada, AFP). Quebec, Canada and New Brunswick worked together in the closed session; Premier Paul St-Pierre Plamondon said \"on s'en sort quand même bien\" (we came out of it fairly well) but \"on ne pourra pas jouer au report constamment\" (we cannot keep postponing). Quebec will host the Francophonie economy ministers in 2027, and Prime Minister Mark Carney confirmed Canada will host the 2028 summit. Quebecer Caroline St-Hilaire, the organization's number two, stays in post until March. The Qc125 poll aggregate is unchanged since 11 November.",
+      "sources": [
+        {
+          "name": "Le Devoir: OIF election postponed 12 months (French)",
+          "url": "https://www.ledevoir.com/monde/1025243/election-secretaire-general-oif-reportee-12-mois"
+        },
+        {
+          "name": "Radio-Canada: Francophonie impasse (French)",
+          "url": "https://ici.radio-canada.ca/article/info/2300975/francophonie-impasse-election-secretaire-general"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-brazil-1",
+      "edition": "2026-11-17",
+      "section": "brazil",
+      "headline": "Central Bank activity index shows the economy shrank 0.9% in the third quarter, the biggest drop since 2020",
+      "lead": "Brazil's Central Bank activity index (IBC-Br), seen as a preview of GDP, fell 0.9% in the third quarter from the second, seasonally adjusted, the largest quarterly drop since the second quarter of 2020, g1 reported on 16 November.",
+      "text": "By sector, farming fell 2%, industry 1.1% and services 0.5%; the index fell 0.2% in September and was up 0.7% from a year earlier. IBGE publishes official third-quarter GDP on 2 December. Separately, g1's Ana Flor reports that Supreme Court president Edson Fachin has told colleagues he will give priority to the case on the 5x2 work schedule.",
+      "sources": [
+        {
+          "name": "g1: IBC-Br falls 0.9% in the third quarter (Portuguese)",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml"
+        },
+        {
+          "name": "g1 (Ana Flor): Fachin and the 5x2 case (Portuguese)",
+          "url": "https://g1.globo.com/economia/blog/ana-flor/post/2026/11/16/fachin-indica-a-colegas-que-deve-dar-prioridade-para-julgamento-sobre-escala-5x2.ghtml"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-colombia-and-israel-1",
+      "edition": "2026-11-17",
+      "section": "colombia-and-israel",
+      "headline": "Former Colombian ministers and ambassadors criticize De la Espriella's Israel moves: the embassy in Jerusalem, recognition of the Golan and leaving the ICJ case",
+      "lead": "A group of former Colombian ministers, vice ministers and ambassadors issued a statement on 16 November, \"Colombia: Cien días de retrocesos en política exterior\" (One hundred days of setbacks in foreign policy), EFE reported.",
+      "text": "They say President Abelardo De la Espriella has subordinated Colombia to the Trump administration's interests, and among the changes they criticize are moving the embassy in Israel to Jerusalem, recognizing Israeli sovereignty over the Golan Heights and withdrawing Colombia's intervention in South Africa's case against Israel at the International Court of Justice. They also criticize joining the Shield of the Americas, US military exercises in Colombia, the return of aerial spraying of illicit crops and the closing of embassies in Africa and the Caribbean. Signers include former foreign minister Luis Gilberto Murillo and other officials of the Petro government (2022–2026); they announced a progressive foreign-policy observatory.",
+      "sources": [
+        {
+          "name": "Infobae (EFE): former diplomats warn of setbacks (Spanish)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/16/exdiplomaticos-alertan-de-un-deterioro-de-la-politica-exterior-de-colombia-en-cien-dias/"
+        },
+        {
+          "name": "swissinfo (EFE): same report (Spanish)",
+          "url": "https://www.swissinfo.ch/spa/exdiplom%C3%A1ticos-alertan-de-un-deterioro-de-la-pol%C3%ADtica-exterior-de-colombia-en-cien-d%C3%ADas/92391392"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-israeli-data-centers-1",
+      "edition": "2026-11-17",
+      "section": "israeli-data-centers",
+      "headline": "Enlight and Shemen plan a data center of up to 150 MW in Haifa Bay",
+      "lead": "Enlight Renewable Energy and Shemen Yielding Real Estate signed a deal to develop a data center of up to 150 MW on Shemen's land in the Haifa Bay area, through a 50/50 company led by Enlight, Globes reported.",
+      "text": "Development is put at about NIS 100 million, the project carries a NIS 334 million guarantee to the Electricity Authority, and land rent could reach NIS 500 million over 25 years on a site of up to 82 dunams; grid-connection approval is still pending. The Electricity Authority caps such projects at 200 MW each and 1,300 MW in total, with approvals by June 2028. Map: Hof Shemen industrial area, approximate: https://www.google.com/maps/search/?api=1&query=32.8064992,35.0175749",
+      "sources": [
+        {
+          "name": "Globes: Enlight and Shemen data center (Hebrew)",
+          "url": "https://www.globes.co.il/news/article.aspx?did=1001563539"
+        },
+        {
+          "name": "Map: Hof Shemen industrial area (approximate)",
+          "url": "https://www.google.com/maps/search/?api=1&query=32.8064992,35.0175749"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-trump-and-xi-1",
+      "edition": "2026-11-17",
+      "section": "trump-and-xi",
+      "headline": "Trump leaves for Asia and says Kim Jong Un \"may come\" to the Shenzhen summit, \"up to President Xi\"",
+      "lead": "President Trump left for Asia on Monday, 16 November, ahead of Thursday's meetings with Xi Jinping and Vladimir Putin in Shenzhen, and said North Korea's Kim Jong Un \"may come,\" adding \"That's up to President Xi.\"",
+      "text": "ABC News reports a Trump–Xi bilateral meeting and working lunch on Thursday before the three-way meeting, no separate Trump–Putin meeting, and that Elon Musk will join parts of the trip; officials said Ukraine is not on the three-way agenda and no concrete agreement is expected. Korea JoongAng Daily reports that denuclearization, which Trump called a \"tough subject,\" Iran and economic issues are expected topics.",
+      "sources": [
+        {
+          "name": "ABC News: Trump heads to Asia",
+          "url": "https://abcnews.com/Politics/trump-heads-asia-2nd-high-stakes-meeting-chinese/story?id=138059807"
+        },
+        {
+          "name": "Korea JoongAng Daily: Trump may meet Kim",
+          "url": "https://www.koreajoongangdaily.com/korea/trump-hints-he-may-meet-north-korean-leader-kim-during-china-trip-says-its-up-to-xi/12975848"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-spacex-xai-and-cursor-1",
+      "edition": "2026-11-17",
+      "section": "spacex-xai-and-cursor",
+      "headline": "Sabre to preview a Grok Bot travel plug-in at its 17 November investor day",
+      "lead": "Travel-technology company Sabre said it will preview at its 17 November Investor Day a travel plug-in for Grok Bot, the Sabre Mosaic Travel Connector, for booking and servicing trips end to end, with a beta \"imminently,\" plus new event-driven travel APIs.",
+      "text": "The release quotes Sabre executive Garry Wiseman on the collaboration with SpaceXSI. No change to the Grok Bot changelog (still 1.0.1, 11 November) or the Cursor changelog (latest 6 November).",
+      "sources": [
+        {
+          "name": "PR Newswire: Sabre release",
+          "url": "https://www.prnewswire.com/news-releases/sabre-accelerates-agentic-travel-leadership-with-first-mover-travel-experience-within-grok-bot-and-next-gen-proactive-travel-apis-302941202.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-spacex-xai-and-cursor-2",
+      "edition": "2026-11-17",
+      "section": "spacex-xai-and-cursor",
+      "headline": "Southaven spill: SpaceX blames a misconfigured hose on a contractor's tank; state says the coolant stayed in the ditch",
+      "lead": "SpaceX says the 14 November spill of about 5,000 gallons of propylene glycol at the xAI site in Southaven, Mississippi, was caused by a misconfigured hose that a contractor attached to a mobile tank, Action News 5 reported.",
+      "text": "The Mississippi Department of Environmental Quality says the material stayed in the drainage ditch and did not reach Horn Lake Creek; water samples are being tested. The spill happened at a laydown yard at 8235 Tulane Road.",
+      "sources": [
+        {
+          "name": "Action News 5: questions remain after spill",
+          "url": "https://www.actionnews5.com/2026/11/17/questions-remain-after-5000-gallon-chemical-spill-xais-southaven-site/"
+        },
+        {
+          "name": "Action News 5: spill reaches drainage ditch",
+          "url": "https://www.actionnews5.com/2026/11/15/chemical-spill-xai-facility-southaven-reaches-drainage-ditch/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-belle-burden-1",
+      "edition": "2026-11-17",
+      "section": "belle-burden",
+      "headline": "\"Strangers\" audiobook is No. 6 on Libro.fm's top 10 of 2026",
+      "lead": "The audiobook of Belle Burden's memoir \"Strangers,\" which she narrates, is No. 6 on Libro.fm's list of its ten bestselling audiobooks of 2026, based on sales through more than 5,000 independent bookstores, Book Riot reported on 10 November (not reported here before).",
+      "text": "Martha Stewart's site also lists it among the best audiobooks of 2026.",
+      "sources": [
+        {
+          "name": "Book Riot: Libro.fm's top 10 audiobooks of 2026",
+          "url": "https://bookriot.com/libro-fms-top-10-bestselling-audiobooks-of-2026/"
+        },
+        {
+          "name": "Martha Stewart: best audiobooks of 2026",
+          "url": "https://www.marthastewart.com/best-audiobooks-of-2026-12250506"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-non-latin-script-digitization-1",
+      "edition": "2026-11-17",
+      "section": "non-latin-script-digitization",
+      "headline": "HMML puts online 90 Syriac and Arabic manuscripts of the Chaldean Catholic archdiocese of Diyarbakır",
+      "lead": "The Hill Museum & Manuscript Library (HMML) has put online 90 manuscripts and 2 printed books of the Chaldean Catholic Archdiocese of Diyarbakır (Omid) in southeastern Turkey, Syriac Press reported on 16 November.",
+      "text": "They were digitized in 2024 with the Iraq-based CNMO and cataloged in 2025. HMML highlights include an Arabic text of the Hippocratic Oath, a Syriac liturgical book from Kerala and a Syriac grammar printed in Rome in 1628.",
+      "sources": [
+        {
+          "name": "Syriac Press: HMML digitizes Chaldean manuscripts",
+          "url": "https://syriacpress.com/blog/2026/11/16/hmml-digitizes-chaldean-catholic-manuscripts-documenting-christian-history-in-southeastern-turkey/"
+        },
+        {
+          "name": "HMML: Chaldean Catholic Archdiocese of Diyarbakır",
+          "url": "https://hmml.org/stories/where-were-working-chaldean-catholic-church-archdiocese-of-diyarbak%C4%B1r/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17-cypherboria-1",
+      "edition": "2026-11-17",
+      "section": "cypherboria",
+      "headline": "Land: most confused arguments are \"bad theology,\" and \"there's a stack\" of divinities \"since Cantor\"; Doomcrypt calls it \"Gnon-theology 101\"; acadianlemur explains his Nullinnix cipher",
+      "lead": "On X on 16 November, Land wrote that \"most (if not all) confused arguments are bad theology,\" giving as the most persistent example \"If everything is preordained, why should we bother to do anything?\", which he said he gets \"scores of variants on\" every day.",
+      "text": "In replies the same day he wrote \"Time is the idol of eternity. It does not come out of the past. (It's the transcendental 'pre-' that matters.)\", answered one question with \"Gnostic Calvinism.\", and wrote \"There's a stack. ... We've known that rigorously since Cantor.\" patallax quoted that as \"there's a stack [of divinities]\"; Doomcrypt reposted it as \"Gnon-theology 101\" and resonatingloop reposted it. patallax also tied Land's Crypto-Current: Bitcoin and Philosophy to the idea that \"Cantor, Gödel, and Church-Turing are, then, the true neo-Kantians.\" acadianlemur described his Nullinnix (NUL) cipher as a \"triangulation\" across the AQ, NQ and Numeric Dvorak orderings and explained what a NUL value of 0 means. Net Void's only new post was a quote post about actors' careers; there is no new @net__void TikTok video (still only 7614601846405008662), no TikTok link in her posts, and no new Cyphers upload.",
+      "sources": [
+        {
+          "name": "Land on X: bad theology",
+          "url": "https://x.com/xenocosmography/status/2122184899436367898"
+        },
+        {
+          "name": "Land on X: time and eternity",
+          "url": "https://x.com/xenocosmography/status/2122255092581847333"
+        },
+        {
+          "name": "Land on X: \"There's a stack\"",
+          "url": "https://x.com/xenocosmography/status/2122171229675364379"
+        },
+        {
+          "name": "Land on X: \"since Cantor\"",
+          "url": "https://x.com/xenocosmography/status/2122171416162500815"
+        },
+        {
+          "name": "patallax on X: quoting Land",
+          "url": "https://x.com/patallax/status/2122234587439108584"
+        },
+        {
+          "name": "Doomcrypt on X: \"Gnon-theology 101\"",
+          "url": "https://x.com/doomcrypt/status/2122398052422123780"
+        },
+        {
+          "name": "patallax on X: Crypto-Current and Cantor",
+          "url": "https://x.com/patallax/status/2122236890825056432"
+        },
+        {
+          "name": "acadianlemur on X: Nullinnix cipher",
+          "url": "https://x.com/acadianlemur/status/2122350454218576263"
+        },
+        {
+          "name": "acadianlemur on X: NUL value of 0",
+          "url": "https://x.com/acadianlemur/status/2122359770736906340"
+        },
+        {
+          "name": "Net Void on TikTok",
+          "url": "https://www.tiktok.com/@net__void"
         }
       ]
     }
