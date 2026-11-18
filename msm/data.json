@@ -1,6 +1,744 @@
 {
  "editions": [
   {
+   "date": "2026-11-18",
+   "read_at": "2026-11-18T04:22:00+02:00 to 04:30 Israel time",
+   "nyt_source": "signed-in browser read of nytimes.com (homepage and trending page) at about 04:30 Israel time on 2026-11-18",
+   "intro": "The week of digital outages leads the Washington Post and tops the NYT trending list and the Guardian’s most-viewed list, while the New York Times leads with Iran digging in after the Republicans’ election losses. Nvidia’s refusal to bring back Jensen Huang leads the Guardian’s international front and tops the BBC international most-read list, and Alan Milburn’s youth jobs review leads the British fronts.",
+   "cover": "The New York Times leads with officials saying Iran has dug in since the Republicans’ election losses, and the Washington Post with its report that the FAA signed off on repair work before the nationwide ground stop. The BBC leads with China’s AI hopes and the Nvidia spy scandal; the Guardian’s international front leads with Nvidia refusing to reinstate Jensen Huang, and its UK front, like The Times of London, with Alan Milburn’s youth jobs review. The Times of Israel and ynet lead with Matan Kahana’s election as Knesset speaker. The outages top the NYT trending and Guardian most-viewed lists. Also getting big play: the coming Grand Theft Auto VI release, split reviews of the new Hunger Games prequel and Northern Ireland’s Nations League promotion.",
+   "leading": [
+    {
+     "headline": "A National Meltdown With Nobody Manning the Help Desk",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html",
+     "text": "The NYT says the outages that began on Thursday may not be linked but have left Americans feeling the nation is off-kilter; the Post reports that the FAA oversaw and signed off on repair work before the ground stop, and the Guardian says Apple Pay, iCloud and Gmail were disrupted on Tuesday and a classified NSA network went down.",
+     "ranks": "Leads: WaPo (No. 1 and No. 2). On the front: NYT (No. 5 to No. 7, including the Java security bug and Apple), Guardian international (No. 7 and No. 8), BBC international (NSA). Most read: NYT trending No. 1 and No. 7, Guardian No. 1 (NSA) and No. 2 (Apple), WaPo No. 2 (NSA) and No. 3 (FAA).",
+     "also": [
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/17/faa-oversaw-signed-off-repair-work-before-nationwide-ground-stop/"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cqvg2mg8g0pyo"
+      }
+     ]
+    },
+    {
+     "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo",
+     "text": "The BBC says the chip maker reported strong quarterly earnings after Jensen Huang’s exit; the Guardian says revenue doubled and board chair Harvey Jones said Nvidia “does not intend to reinstate Jensen as CEO,” and the NYT says Huang and his allies had lobbied for his return.",
+     "ranks": "Leads: Guardian international (No. 1 to No. 3). Top 5: BBC international (No. 3). On the front: NYT (Nvidia package, No. 4), BBC UK, Guardian UK, The Times, The Telegraph. Most read: BBC international No. 1, BBC UK No. 2, Guardian No. 3.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/17/business/nvidia-earnings-jensen-huang.html"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/technology/2026/11/17/nvidia-leans-record-revenue-it-faces-questions-about-its-future/"
+      }
+     ]
+    },
+    {
+     "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+     "text": "The BBC says China worries the scandal could add pressure on the U.S. to restrict advanced chip sales further; the NYT says Xi wants the APEC summit to show China’s strengths but faces export worries and an unpredictable Trump, and the Post says Trump will project friendship with Xi as trade and tech rivalry deepens.",
+     "ranks": "Leads: BBC international and UK. Top 5: NYT (Trump’s Asia trip links under the lead and the Xi story, No. 2). On the front: WaPo, The Times (Taiwan). Most read: BBC international No. 7.",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/politics/2026/11/17/trade-rifts-ai-rivalry-shadow-trump-xi-summit/"
+      }
+     ]
+    },
+    {
+     "headline": "PM wants to extend welfare overhaul to over-25s",
+     "outlet": "The Times",
+     "url": "https://www.thetimes.com/uk/politics/article/alan-milburn-neets-labour-mp-rktllv53p",
+     "text": "The day after Alan Milburn’s review of young people out of work, the BBC says the government backs his plan to move spending from benefits to job support, and the Guardian says he wants tax cuts for businesses that hire young people despite union concerns.",
+     "ranks": "Leads: The Times (No. 1 to No. 3), Guardian UK (No. 1 to No. 5), The Telegraph. Top 5: BBC UK (No. 5). Most read: none of the lists read.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo"
+      },
+      {
+       "outlet": "The Telegraph",
+       "url": "https://www.telegraph.co.uk/business/2026/11/17/milburn-attacks-rayners-job-reforms/"
+      }
+     ]
+    },
+    {
+     "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
+     "text": "The BBC says Ukraine’s missile and drone attack on the bridge took weeks to plan; the Guardian says the Kerch bridge was critically damaged while the Kremlin says it will be restored.",
+     "ranks": "Top 5: Guardian international (No. 5), Guardian UK (first in its “In focus” block). On the front: BBC international (No. 9), NYT (Ukraine links, No. 10). Most read: BBC international No. 2 and No. 9.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea"
+      },
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html"
+      }
+     ]
+    },
+    {
+     "headline": "Emboldened by Republican Election Losses, Iran Digs In, Officials Say",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html",
+     "text": "The NYT says U.S. and other Western officials see Iran’s negotiating position hardening since the midterms; the Times of Israel says the U.S. struck Iran’s Qeshm Island after Iran attacked an American radar site in Bahrain, and the Post says Netanyahu’s rivals warn he is pushing for a new attack on Iran.",
+     "ranks": "Leads: NYT. On the front: WaPo (world), BBC international (Trump on an Iranian plot), Times of Israel. Most read: NYT trending No. 2 (opinion, “Shock and Dread in the Gulf”).",
+     "also": [
+      {
+       "outlet": "The Times of Israel",
+       "url": "https://www.timesofisrael.com/us-strikes-irans-qeshm-island-after-tehran-attacks-american-radar-site-in-bahrain/"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/world/2026/11/17/netanyahu-is-pushing-new-iran-attack-bid-stay-power-his-rivals-warn/"
+      },
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo"
+      }
+     ]
+    },
+    {
+     "headline": "White House pulls FDA nominee amid bipartisan pushback",
+     "outlet": "The Washington Post",
+     "url": "https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/",
+     "text": "The Post says Heidi Overton had been questioned by some Republicans, many Democrats and prominent Make America Healthy Again supporters; the NYT says the Senate health committee was due to vote on Wednesday morning but she did not have enough support.",
+     "ranks": "Top 5: WaPo (No. 3). Most read: NYT trending No. 4, WaPo No. 4, Guardian No. 7 (live blog).",
+     "also": [
+      {
+       "outlet": "The New York Times",
+       "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html"
+      }
+     ]
+    },
+    {
+     "headline": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html",
+     "text": "The NYT says large outbreaks that sicken thousands could become routine; the BBC says states have reported over 5,400 cases and 10 measles-related deaths.",
+     "ranks": "On the front: NYT (measles package, No. 9), WaPo. Most read: BBC international No. 8.",
+     "also": [
+      {
+       "outlet": "BBC",
+       "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo"
+      },
+      {
+       "outlet": "The Washington Post",
+       "url": "https://www.washingtonpost.com/health/2026/11/17/measles-outbreaks-caused-us-lose-major-public-health-achievement/"
+      }
+     ]
+    }
+   ],
+   "most_read": [
+    {
+     "outlet": "The New York Times",
+     "list": "nytimes.com trending list (signed-in browser read at about 04:30 Israel time)",
+     "nyt_source": "signed-in browser read",
+     "items": [
+      {
+       "headline": "A National Meltdown With Nobody Manning the Help Desk",
+       "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html"
+      },
+      {
+       "headline": "Shock and Dread in the Gulf",
+       "url": "https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html",
+       "opinion": true
+      },
+      {
+       "headline": "Ten Days That Changed the World",
+       "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html"
+      },
+      {
+       "headline": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+       "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html"
+      },
+      {
+       "headline": "How Jeffrey Epstein Grew His Sex-Trafficking Ring",
+       "url": "https://www.nytimes.com/2026/11/15/magazine/epstein-victims-recruiting-trafficking.html"
+      },
+      {
+       "headline": "Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop",
+       "url": "https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html"
+      },
+      {
+       "headline": "A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet",
+       "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html"
+      },
+      {
+       "headline": "Waymo Pulls Its Driverless Taxis From All U.S. Freeways Temporarily",
+       "url": "https://www.nytimes.com/2026/11/17/us/waymo-ban-california-freeway.html"
+      }
+     ]
+    },
+    {
+     "outlet": "The Washington Post",
+     "list": "homepage “Most Read” box",
+     "items": [
+      {
+       "headline": "How much life could a 10-minute walk buy you? Try our calculator.",
+       "url": "https://www.washingtonpost.com/health/interactive/2026/11/17/see-how-minutes-daily-exercise-could-extend-your-lifespan/"
+      },
+      {
+       "headline": "Communications system at top-secret National Security Agency goes down",
+       "url": "https://www.washingtonpost.com/national-security/2026/11/17/communications-system-top-secret-national-security-agency-goes-down/"
+      },
+      {
+       "headline": "FAA oversaw and signed off on repair work before nationwide ground stop",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/17/faa-oversaw-signed-off-repair-work-before-nationwide-ground-stop/"
+      },
+      {
+       "headline": "White House pulls FDA nominee amid bipartisan pushback",
+       "url": "https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC (international)",
+     "list": "bbc.com/news “Most read”",
+     "items": [
+      {
+       "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+      },
+      {
+       "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+      },
+      {
+       "headline": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+       "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o"
+      },
+      {
+       "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+       "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo"
+      },
+      {
+       "headline": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+       "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o"
+      }
+     ]
+    },
+    {
+     "outlet": "BBC (UK)",
+     "list": "bbc.co.uk/news “Most read”",
+     "items": [
+      {
+       "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+       "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo"
+      },
+      {
+       "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+      },
+      {
+       "headline": "Thomas Markle charged over child sex abuse material in Philippines",
+       "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo"
+      },
+      {
+       "headline": "The EU that Burnham is eyeing up is very different to the one Britain left",
+       "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo"
+      },
+      {
+       "headline": "Home secretary plans to tackle 'perception of two-tier policing'",
+       "url": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o"
+      }
+     ]
+    },
+    {
+     "outlet": "The Guardian",
+     "list": "most viewed (Guardian most-read feed)",
+     "items": [
+      {
+       "headline": "National Security Agency network for internal communications goes down",
+       "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down"
+      },
+      {
+       "headline": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
+       "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption"
+      },
+      {
+       "headline": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+       "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+      },
+      {
+       "headline": "‘Sorry, I’m still in love with Daniel Craig’: Ralph Fiennes, Brad Pitt and more react to Robert Pattinson as James Bond",
+       "url": "https://www.theguardian.com/film/2026/nov/17/brad-pitt-ralph-fiennes-react-to-robert-pattinson-as-james-bond"
+      },
+      {
+       "headline": "Janine van Wyk: ‘Our rooms were empty … no mattresses, no lightbulbs and not a drop of water’",
+       "url": "https://www.theguardian.com/football/2026/nov/17/janine-van-wyck-south-africa-wafcon-book-extract-moving-the-goalposts-newsletter"
+      }
+     ]
+    }
+   ],
+   "outlets": [
+    {
+     "name": "The New York Times",
+     "home": "https://www.nytimes.com/",
+     "nyt_source": "signed-in browser read (about 04:30 Israel time)",
+     "para": "Leads with officials saying Iran has dug in since the Republicans’ election losses, with Trump’s Asia trip and Xi’s APEC summit just below, then a daily briefing, the Nvidia package, three outage stories, a magazine project on the most important days of the past 175 years, measles and Ukraine (order from a signed-in browser read; linked sub-stories merged into their main story).",
+     "items": [
+      {
+       "headline": "Emboldened by Republican Election Losses, Iran Digs In, Officials Say",
+       "url": "https://www.nytimes.com/2026/11/17/us/politics/iran-trump-midterms.html"
+      },
+      {
+       "headline": "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+       "url": "https://www.nytimes.com/2026/11/17/world/asia/xi-apec.html"
+      },
+      {
+       "headline": "Today’s Top Stories: Big Money, Existential Risks",
+       "url": "https://www.nytimes.com/2026/11/17/world/18int-theworld-anthropic-ukraine-nvidia.html"
+      },
+      {
+       "headline": "The Fall of Jensen Huang",
+       "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+      },
+      {
+       "headline": "A National Meltdown With Nobody Manning the Help Desk",
+       "url": "https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html"
+      },
+      {
+       "headline": "A.I. Helps Find Major Security Bug in Software Platform Vital to the Internet",
+       "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html"
+      },
+      {
+       "headline": "Apple Services Were Disrupted After Internal Update, Company Says",
+       "url": "https://www.nytimes.com/2026/11/17/technology/apple-down-outage-issues.html"
+      },
+      {
+       "headline": "What Were the 10 Most Important Days of the Past 175 Years?",
+       "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html"
+      },
+      {
+       "headline": "U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health",
+       "url": "https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html"
+      },
+      {
+       "headline": "Crimea Bridge Damaged",
+       "url": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html"
+      }
+     ]
+    },
+    {
+     "name": "The Washington Post",
+     "home": "https://www.washingtonpost.com/",
+     "para": "Leads with its exclusive that the FAA oversaw and signed off on repair work before the nationwide ground stop, paired with an explainer on why so much seems to be breaking at once, then the withdrawn FDA nomination.",
+     "items": [
+      {
+       "headline": "FAA oversaw and signed off on repair work before nationwide ground stop",
+       "url": "https://www.washingtonpost.com/transportation/2026/11/17/faa-oversaw-signed-off-repair-work-before-nationwide-ground-stop/"
+      },
+      {
+       "headline": "What we know about why everything seems to be breaking at once",
+       "url": "https://www.washingtonpost.com/technology/2026/11/17/what-we-know-about-why-everything-seems-be-breaking-once/"
+      },
+      {
+       "headline": "White House pulls FDA nominee amid bipartisan pushback",
+       "url": "https://www.washingtonpost.com/health/2026/11/17/white-house-pulls-fda-nominee-amid-bipartisan-pushback/"
+      },
+      {
+       "headline": "Trump nominates new top Army general, setting stage for confirmation fight",
+       "url": "https://www.washingtonpost.com/national-security/2026/11/17/trump-nominates-gen-chris-laneve-army-chief-staff/"
+      },
+      {
+       "headline": "Communications system at top-secret National Security Agency goes down",
+       "url": "https://www.washingtonpost.com/national-security/2026/11/17/communications-system-top-secret-national-security-agency-goes-down/"
+      }
+     ]
+    },
+    {
+     "name": "BBC News",
+     "home": "https://www.bbc.com/news",
+     "para": "Both the international and UK homepages lead with China’s AI hopes and the Nvidia spy scandal. The international page follows with a Palestinian woman shot dead by settlers in the West Bank and Nvidia’s results; the UK page with the arrested American soldier and Prime Minister Andy Burnham’s plans on the EU.",
+     "items": [
+      {
+       "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+       "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o"
+      },
+      {
+       "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+       "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo"
+      },
+      {
+       "headline": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+      },
+      {
+       "headline": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+       "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo"
+      },
+      {
+       "headline": "Burnham to set out options next month for long-term EU relationship",
+       "url": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko"
+      }
+     ]
+    },
+    {
+     "name": "The Guardian",
+     "home": "https://www.theguardian.com/international",
+     "para": "The international front leads with Nvidia’s results and Huang’s bid to return, then a U.S.-Japan dispute over potatoes and the Kerch bridge attack; the UK front leads with Alan Milburn’s youth jobs review.",
+     "items": [
+      {
+       "headline": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+       "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+      },
+      {
+       "headline": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+       "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+      },
+      {
+       "headline": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
+       "url": "https://www.theguardian.com/world/2026/nov/18/potato-war-japan-76-year-ban-american-imported-potatoes"
+      },
+      {
+       "headline": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+       "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea"
+      },
+      {
+       "headline": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+       "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment"
+      }
+     ]
+    },
+    {
+     "name": "The Times",
+     "home": "https://www.thetimes.com/",
+     "para": "Leads with three stories on the Milburn review and youth welfare, then Prince William in Mumbai and new police guidance on “two-tier policing.”",
+     "items": [
+      {
+       "headline": "PM wants to extend welfare overhaul to over-25s",
+       "url": "https://www.thetimes.com/uk/politics/article/alan-milburn-neets-labour-mp-rktllv53p"
+      },
+      {
+       "headline": "Burnham calls for new social contract to support the ‘let-down generation’",
+       "url": "https://www.thetimes.com/uk/politics/article/andy-burnham-milburn-review-interview-let-down-generation-bpxhc6fp7"
+      },
+      {
+       "headline": "We must ‘act with urgency’ on climate change, says William",
+       "url": "https://www.thetimes.com/uk/royal-family/article/prince-william-kate-rickshaw-mumbai-india-royal-visit-j5m592zpp"
+      },
+      {
+       "headline": "Forces will be given bias guidance to tackle ‘two-tier policing’",
+       "url": "https://www.thetimes.com/uk/crime/article/police-forces-two-tier-policing-shabana-mahmood-9n8xq7q5k"
+      },
+      {
+       "headline": "Pattinson’s 14-year road to Bond ended with a late call",
+       "url": "https://www.thetimes.com/culture/film/article/robert-pattinson-road-james-bond-z5rjld5nt"
+      }
+     ]
+    },
+    {
+     "name": "The Telegraph",
+     "home": "https://www.telegraph.co.uk/",
+     "para": "Readable with curl today. Leads with Milburn criticizing Rayner’s job reforms, then the Prince and Princess of Wales in India and protesters blocking an Oxford talk.",
+     "items": [
+      {
+       "headline": "Milburn attacks Rayner’s job reforms",
+       "url": "https://www.telegraph.co.uk/business/2026/11/17/milburn-attacks-rayners-job-reforms/"
+      },
+      {
+       "headline": "Waleses ride in style as they get back to business",
+       "url": "https://www.telegraph.co.uk/royal-family/2026/11/17/prince-princess-wales-india-day-two-earthshot-prize/"
+      },
+      {
+       "headline": "Protesters block talk by academic who made first Arday plagiarism claims",
+       "url": "https://www.telegraph.co.uk/news/2026/11/17/protesters-block-talk-professor-arday-plagiarism-claims/"
+      },
+      {
+       "headline": "Tap water to be turned off on a rota under drought emergency plans",
+       "url": "https://www.telegraph.co.uk/news/2026/11/17/tap-water-turned-off-rota-under-drought-emergency-plans/"
+      }
+     ]
+    },
+    {
+     "name": "The Times of Israel",
+     "home": "https://www.timesofisrael.com/",
+     "para": "Leads with the Knesset’s 66-52 vote electing Matan Kahana as speaker, followed by an analysis of racist rhetoric after Arab parties’ election results and the attorney general freezing the E1 settlement tender (homepage order read through a reader service).",
+     "items": [
+      {
+       "headline": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc",
+       "url": "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/"
+      },
+      {
+       "headline": "After Arabs’ historic election returns, a pox of racist rhetoric infects Israel’s airwaves",
+       "url": "https://www.timesofisrael.com/after-arabs-historic-election-returns-a-pox-of-racist-rhetoric-infects-israels-airwaves/"
+      },
+      {
+       "headline": "Miriam Peretz admits causing ‘hurt’ by saying MK son won’t join government with Arabs",
+       "url": "https://www.timesofisrael.com/miriam-peretz-admits-causing-hurt-by-saying-mk-son-wont-join-government-with-arabs/"
+      },
+      {
+       "headline": "AG freezes controversial E1 settlement tender process until new government sworn in",
+       "url": "https://www.timesofisrael.com/ag-freezes-controversial-e1-settlement-tender-process-until-new-government-sworn-in/"
+      },
+      {
+       "headline": "Election czar: Shin Bet vote-buying probe has found ‘no evidence’ that could affect results",
+       "url": "https://www.timesofisrael.com/election-czar-shin-bet-vote-buying-probe-has-found-no-evidence-that-could-affect-results/"
+      }
+     ]
+    },
+    {
+     "name": "ynet (Hebrew)",
+     "home": "https://www.ynet.co.il/",
+     "para": "Leads with Matan Kahana’s election as Knesset speaker in its first four stories, then an opinion piece on the Shin Bet chief’s statement and the army’s initial findings on the Jericho attack.",
+     "items": [
+      {
+       "headline": "Matan Kahana elected Knesset speaker: “Gadi, leave no stone unturned to form a government that will unite us” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/ryyt36kcmx"
+      },
+      {
+       "headline": "Eisenkot: “A new chapter”; in the Netanyahu bloc they attacked: “Rais al-Knesset” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/r1etgh5azl"
+      },
+      {
+       "headline": "Zini’s statement will not wipe the stain off the Shin Bet (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/b1cbqxcrge",
+       "opinion": true
+      },
+      {
+       "headline": "The IDF defined the Jericho clash as a terror attack: “The Palestinian woman’s death likely from an Israeli civilian’s fire” (in Hebrew)",
+       "url": "https://www.ynet.co.il/news/article/rj11rig9rzg"
+      }
+     ]
+    }
+   ],
+   "israel": {
+    "para": "The Times of Israel and ynet both lead with Matan Kahana’s election as Knesset speaker with the votes of the Eisenkot bloc and the Arab parties. Abroad, the BBC international homepage puts a 72-year-old Palestinian woman shot dead in the West Bank at No. 2 and also carries Britain’s sanctions on firms building settlements; the Guardian’s international front carries the speaker vote and the Jericho shooting; the Post carries Netanyahu’s rivals warning that he is pushing for a new Iran attack. The NYT’s first ten homepage stories have no Israel story (its feed carries the speaker vote), and The Times of London’s top stories have none.",
+    "items": [
+     {
+      "headline": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/knesset-votes-66-52-to-elect-yashars-matan-kahana-as-speaker-in-boost-to-eisenkot-bloc/",
+      "text": "The Times of Israel says Kahana vowed to be “speaker for all” and that parliament will obey court rulings after a six-hour filibuster by the Netanyahu bloc; ynet says 66 lawmakers, including the Arab parties’ members, backed him over Likud’s Ofir Katz.",
+      "also": [
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/ryyt36kcmx"
+       },
+       {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+       },
+       {
+        "outlet": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/17/world/middleeast/israel-opposition-selects-parliamentary-speaker.html"
+       }
+      ]
+     },
+     {
+      "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo",
+      "text": "The BBC says Palestinians describe an attack by settlers in al-Duyuk al-Tahta while the Israeli military says the settlers fired after being attacked; the Times of Israel and ynet say an initial army probe found the gunfire was likely aimed at stone-throwers.",
+      "also": [
+       {
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/idf-probe-suggests-gunfire-that-killed-palestinian-in-jericho-was-likely-aimed-at-stone-throwers/"
+       },
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/rj11rig9rzg"
+       },
+       {
+        "outlet": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say"
+       }
+      ]
+     },
+     {
+      "headline": "AG freezes controversial E1 settlement tender process until new government sworn in",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/ag-freezes-controversial-e1-settlement-tender-process-until-new-government-sworn-in/",
+      "text": "The Times of Israel says the decision came hours after Britain warned against the project and sanctioned Israeli construction firms, which Foreign Minister Sa’ar vowed Israel would answer.",
+      "also": [
+       {
+        "outlet": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o"
+       },
+       {
+        "outlet": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/uk-sanctions-8-israeli-construction-companies-for-building-west-bank-settlements/"
+       }
+      ]
+     },
+     {
+      "headline": "Election czar: Shin Bet vote-buying probe has found ‘no evidence’ that could affect results",
+      "outlet": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/election-czar-shin-bet-vote-buying-probe-has-found-no-evidence-that-could-affect-results/",
+      "text": "The Times of Israel says Shin Bet head Zini approved the message; ynet says Netanyahu sidestepped a question on it in the Knesset, saying “these are not the results I wanted.”",
+      "also": [
+       {
+        "outlet": "ynet (Hebrew)",
+        "url": "https://www.ynet.co.il/news/article/bj00mimcazg"
+       }
+      ]
+     },
+     {
+      "headline": "Netanyahu is pushing for new Iran attack in bid to stay in power, his rivals warn",
+      "outlet": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/11/17/netanyahu-is-pushing-new-iran-attack-bid-stay-power-his-rivals-warn/",
+      "text": "The Post says four people with knowledge of the matter said Netanyahu pressed for fresh strikes on Iran before the election, and opposition leaders remain alarmed."
+     }
+    ]
+   },
+   "culture": [
+    {
+     "headline": "Grand Theft Auto VI Revs Up for a Worldwide Takeover",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/17/arts/grand-theft-auto-vi-hype-success.html",
+     "text": "The NYT says the game, more than a decade in the making, is set to bring in billions; the BBC says Sensor Tower estimates $1.18 billion in pre-orders on PlayStation and Xbox.",
+     "section": "Games"
+    },
+    {
+     "headline": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+     "outlet": "BBC",
+     "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o",
+     "text": "The BBC says critics both criticize and praise Sunrise on the Reaping, the franchise’s sixth film; the Guardian’s review, on its most-viewed list, calls it “surreally awful,” and the NYT calls it “both bloated and limited.”",
+     "section": "Movies"
+    },
+    {
+     "headline": "A Literary Guide to the Books Mentioned in ‘The Traitors’",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/17/books/traitors-nbc-literary-books-guide.html",
+     "text": "The NYT, which has the guide on its trending list, says NBC’s murder mystery game show is full of allusions to books, poetry and theater.",
+     "section": "Books and TV"
+    },
+    {
+     "headline": "Restaurant Review: At Faux, the Scene-y NYC Bistro Enters Its Next Generation",
+     "outlet": "The New York Times",
+     "url": "https://www.nytimes.com/2026/11/17/dining/faux-restaurant-review.html",
+     "text": "The NYT’s critic says Keith McNally’s son follows Balthazar and the Odeon with another restaurant where the food is not the point.",
+     "section": "Food"
+    },
+    {
+     "headline": "“Glorifying crime”: Noa Kirel and Nasrin’s violent music video, and the storm around it (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/b1v119sfcfx",
+     "text": "ynet says the video for the singers’ new duet shows them dumping a body in a trash bin, drawing sharp criticism online and from the women’s group WIZO; Israel Hayom says the song is called “Tarantino.”",
+     "section": "Music (Israel)"
+    },
+    {
+     "headline": "“Les Misérables” returns, Lior Ashkenazi and Guri Alfi team up: Haifa Theater’s new season (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/hyevehorfl",
+     "text": "ynet’s entertainment lead says the 2026–2027 season centers on a new production of the musical directed by Moshe Kepten, and Ashkenazi and Alfi will star with Dov Navon in the comedy “Art.”",
+     "section": "Theater (Israel)"
+    },
+    {
+     "headline": "The play “The Hoarder” wins the 2026 Golden Hedgehog award (in Hebrew)",
+     "outlet": "ynet (Hebrew)",
+     "url": "https://www.ynet.co.il/entertainment/article/s1tzgym0fx",
+     "text": "ynet says the play by Sara Siegel and Lior Pinsky, based on a true story, also won the directing and playwriting prizes at the fringe theater awards.",
+     "section": "Theater (Israel)"
+    }
+   ],
+   "sports": [
+    {
+     "headline": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po",
+     "text": "BBC Sport’s lead says Northern Ireland came from behind against Hungary to earn the draw they needed for promotion to Nations League A; the Guardian says Portugal beat Wales in their first win since Cristiano Ronaldo.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/17/nations-league-northern-ireland-hungary-norway-denmark"
+      },
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/17/wales-portugal-nations-league-match-report"
+      }
+     ]
+    },
+    {
+     "headline": "South Africa head coach Erasmus banned for six matches",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cj752w5q7z90o",
+     "text": "BBC Sport says World Rugby banned Rassie Erasmus over comments he made about match officials.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/sport/2026/nov/17/rugby-union-rassie-erasmus-south-africa-france-referee-blaming"
+      }
+     ]
+    },
+    {
+     "headline": "Rooney says he considered taking his own life at Man Utd",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cx1l0n3v003eo",
+     "text": "BBC Sport says Wayne Rooney was speaking to a therapist during his playing days at Manchester United.",
+     "also": [
+      {
+       "outlet": "The Guardian",
+       "url": "https://www.theguardian.com/football/2026/nov/17/wayne-rooney-contemplated-taking-own-life-during-playing-career-mental-health"
+      }
+     ]
+    },
+    {
+     "headline": "USMNT 2, Haiti 0: Pochettino wins his finale; Was bicycle kick Pulisic's best U.S. goal?",
+     "outlet": "The Athletic",
+     "url": "https://www.nytimes.com/athletic/7790788/2026/11/17/usmnt-haiti-nations-league-pulisic-bicycle-kick-pochettino/",
+     "text": "The Athletic says Mauricio Pochettino’s time as U.S. coach ended with the team coasting into the Nations League semifinals."
+    },
+    {
+     "headline": "Woods set to return next month after two years out",
+     "outlet": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/golf/articles/cm93080ep703o",
+     "text": "BBC Sport says Tiger Woods is set to play competitive golf in December for the first time in more than two years."
+    }
+   ],
+   "unread": [
+    {
+     "outlet": "The Times of Israel homepage (direct)",
+     "tried": "curl and WebFetch returned Cloudflare 403; the r.jina.ai reader returned the homepage in order, which was used, and the RSS feed was used for descriptions. The arts and culture section (feed with curl and the page through r.jina.ai) returned a Cloudflare check page."
+    },
+    {
+     "outlet": "Walla culture",
+     "tried": "e.walla.co.il loads with curl and through r.jina.ai (redirects to walla.co.il/entertainment) but neither lists article links."
+    },
+    {
+     "outlet": "Haaretz Galeria and Mako headlines",
+     "tried": "The Galeria front loads, but its top two stories are subscriber pages whose titles did not load with curl; Mako’s top entertainment stories mostly returned no title with curl (one did: a celebrity divorce court story, not used)."
+    },
+    {
+     "outlet": "NYT article pages with curl",
+     "tried": "Return no title or description to curl; NYT descriptions came from NYT RSS feeds."
+    },
+    {
+     "outlet": "Most-read lists for The Times, The Telegraph, Times of Israel and ynet",
+     "tried": "None found in the pages read."
+    }
+   ],
+   "method": "Read 04:22–04:30 Israel time on 18 Nov 2026. NYT homepage order and trending list from a signed-in browser read of nytimes.com at about 04:30 Israel time by a browser helper (nyt_source); NYT RSS feeds (HomePage, Arts, Movies, Television, DiningandWine) and the trending page read with curl were used for descriptions and checks. The rest with curl: WaPo homepage and Most Read box through the r.jina.ai reader, plus WaPo RSS; BBC international and UK homepages and their Most read lists, plus BBC RSS; Guardian international and UK fronts, the most-read feed and Guardian section RSS; The Times homepage through r.jina.ai; The Telegraph homepage (readable with curl today); Times of Israel homepage through r.jina.ai and its RSS; ynet homepage, RSS and entertainment page (ynet.co.il/culture returned 404); Haaretz Galeria, Mako and Israel Hayom culture pages; BBC Sport, Guardian Sport and The Athletic. Front pages were not refreshed by this worker; the build’s msm/fetch_frontpages.py run handles them."
+  },
+  {
    "date": "2026-11-17",
    "read_at": "2026-11-17T04:19:00+02:00 to 04:40 Israel time",
    "nyt_source": "signed-in browser read (about 04:25 Israel time)",
@@ -4569,5 +5307,5 @@
    "cover": "The big newsrooms split on what matters most today. The New York Times leads with the woman at the center of the Nvidia spy scandal, which is also No. 1 on the Times and Washington Post most-read lists. The Post leads with House Republicans blocking the Hegseth impeachment. In Britain, The Guardian and The Times lead with the allegations against David Walliams, which he denies, and the BBC's top stories include the arrest of a US Army soldier near Gloucester on suspicion of spying for Russia. The Times of Israel leads with Netanyahu's Knesset speech. Away from the news pages, M John Harrison became the first science fiction author to win the Booker Prize, Stacy Keach died at 85, and Paul McCartney became a billionaire."
   }
  ],
- "updated": "2026-11-17T04:45:00+02:00"
+ "updated": "2026-11-18T04:30:00+02:00"
 }
