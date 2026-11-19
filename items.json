@@ -4,6 +4,283 @@
   "latest_count": 18,
   "items": [
     {
+      "id": "2026-11-19-land-area-c-enforcement",
+      "section": "land",
+      "lead": true,
+      "highlight": true,
+      "headline": "Army and Civil Administration finish a three-sector enforcement drive in Area C: 21 dunams cleared in Ephraim, greenhouses and tents removed in the Jordan Valley, and two occupied two-story buildings taken down in the Hebron Hills",
+      "summary": "The Civil Administration and the IDF completed a coordinated enforcement operation against what they call illegal Palestinian building and land seizure in Area C, officials said on Wednesday, 18 November, describing work carried out over the previous day. In the Ephraim Brigade area, forces cleared about 21 dunams in the villages of Ras Atiya and Burqin, including about 200 olive saplings and 60 mature olive trees that the administration says were planted on land taken unlawfully (<a href=\"https://www.srugim.co.il/101016562-יצא-לדרך-מבצע-הריסה-נגד-עשרות-מבנים-בשטח\">Srugim</a>; <a href=\"https://www.walla.co.il/news/military/383962006\">Walla</a>; <a href=\"https://www.jpost.com/israel-news/defense-news/article-915339\">Jerusalem Post</a>, citing the army and COGAT). In the Jordan Valley, forces took down a greenhouse compound of about two dunams, a cluster of residential tents, storerooms and concrete shade structures in Bardala and Ein al-Beida. In the Judea Brigade area, they acted against two occupied two-story buildings at Khirbat Adirat in the south Hebron Hills, the same vicinity that Tuesday's edition already recorded from activist accounts as al-Dirat, east of Yatta. The army and the Civil Administration said they will keep enforcing the law against illegal building and land grabs in Judea and Samaria. The official account did not name any Jewish outposts in this operation.",
+      "source": "Civil Administration / IDF / Srugim / Walla / Jerusalem Post",
+      "date": "2026-11-18",
+      "url": "https://www.srugim.co.il/101016562-יצא-לדרך-מבצע-הריסה-נגד-עשרות-מבנים-בשטח",
+      "places": [
+        {
+          "name": "Ras Atiya",
+          "lat": 32.1598494,
+          "lon": 34.9884818,
+          "note": "Nominatim village point"
+        },
+        {
+          "name": "Bardala",
+          "lat": 32.3862146,
+          "lon": 35.4806987,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Ein al-Beida, Jordan Valley",
+          "lat": 32.3821314,
+          "lon": 35.5070218,
+          "note": "Nominatim, village council point"
+        },
+        {
+          "name": "Khirbat Adirat, east of Yatta",
+          "lat": 31.44525,
+          "lon": 35.09005,
+          "note": "Yatta town point (Nominatim); Adirat itself is not mapped (approximate)"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-attacks-gilad-bomb",
+      "section": "attacks",
+      "highlight": true,
+      "headline": "Explosive device with a PLO flag found near the Gilad farm is neutralized by an army bomb technician; the Yesha Council says Palestinians put it there",
+      "summary": "An explosive device with a PLO flag attached to it was found on Wednesday morning, 18 November, near the Gilad farm in Samaria, the Yesha Council said. The council said Palestinians had placed the charge. Army forces called a bomb technician, who neutralized it, and no one was hurt (<a href=\"https://www.walla.co.il/news/breaking-news/383961955\">Walla</a>, quoting the council; <a href=\"https://t.me/JSR_HEB/544\">JSR Hebrew</a>). JNS Hebrew reporter Netanel Frankel included the same incident in his end-of-day list, citing the Situation Room (<a href=\"https://x.com/Netanelfr/status/2123153104858227160\">Netanel Frankel</a>). The army did not issue a separate public statement that was opened for this edition.",
+      "source": "Yesha Council / Walla / JSR / Netanel Frankel (JNS Hebrew)",
+      "date": "2026-11-18",
+      "url": "https://www.walla.co.il/news/breaking-news/383961955",
+      "places": [
+        {
+          "name": "Havat Gilad",
+          "lat": 32.1994824,
+          "lon": 35.1815915,
+          "note": "Nominatim; exact find spot not published (approximate)"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-land-joseph-tomb",
+      "section": "land",
+      "highlight": true,
+      "headline": "Hundreds of Vizhnitz Hasidim, led by the rebbe's three sons, pray at Joseph's Tomb in Nablus for his recovery; Samaria council head Yossi Dagan joins them",
+      "summary": "Hundreds of Vizhnitz Hasidim entered Joseph's Tomb in Nablus on Wednesday night, 18 November, for a special prayer for the recovery of the Vizhnitz rebbe, Rabbi Yisrael Hager, 14 years after the rebbe himself visited the site and fixed a mezuzah there. The gathering was led by his three sons, Rabbi Chaim Meir Hager, Rabbi Yaakov Mordechai Hager and Rabbi Yitzchak Yeshayahu Hager. They were joined by the rabbi of Samaria, Rabbi Eliyakim Levanon, and by the head of the Samaria Regional Council, Yossi Dagan, who greeted the rabbis and spoke a blessing for the rebbe's recovery, tying the visit to building and holding the land (<a href=\"https://www.srugim.co.il/101016594-14-שנה-אחרי-ביקור-הרבי-בניו-שבו-לקבר\">Srugim</a>). The same son's earlier visit with Dagan a few months ago was also recalled in the report.",
+      "source": "Srugim",
+      "date": "2026-11-18",
+      "url": "https://www.srugim.co.il/101016594-14-שנה-אחרי-ביקור-הרבי-בניו-שבו-לקבר",
+      "places": [
+        {
+          "name": "Joseph's Tomb, Nablus",
+          "lat": 32.213208,
+          "lon": 35.2850278,
+          "note": "Nominatim (Qabr Yusuf, Balata)"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-idf-fatah-aqaba-zababida",
+      "section": "idf",
+      "highlight": true,
+      "headline": "Undercover Border Police and Shin Bet arrest two Fatah men suspected of planning an attack, after a chase in Aqaba; forces also operate in Zababida",
+      "summary": "Undercover Border Police from the Judea and Samaria unit, directed by Shin Bet, arrested two Fatah operatives overnight into Wednesday, 18 November, on suspicion of advancing terrorist activity and planning an attack, in a joint statement from the police and Shin Bet. The wanted men were sought in the village of Aqaba, in the Menashe Brigade area; they tried to flee as the force closed in, and both were caught after a pursuit. At the same time the force also operated in nearby Zababida. No members of the force were hurt (<a href=\"https://www.maariv.co.il/breaking-news/article-1389851\">Maariv</a>; <a href=\"https://www.ynet.co.il/news/article/h1sbqzsagl\">Ynet</a>; <a href=\"https://www.jpost.com/israel-news/article-915389\">Jerusalem Post</a>; <a href=\"https://www.jdn.co.il/news/2768272/\">JDN</a>). Israel Hayom's settlements reporter Yotam Deshe noted that Fatah is the movement of PA chairman Mahmoud Abbas, and set the arrests against Britain's sanctions on Israeli firms in Judea and Samaria the same week (<a href=\"https://x.com/Yotamdeshe97/status/2123029748108439597\">Yotam Deshe</a>).",
+      "source": "Israel Police / Shin Bet / Maariv / Ynet / Jerusalem Post / Yotam Deshe (Israel Hayom)",
+      "date": "2026-11-18",
+      "url": "https://www.maariv.co.il/breaking-news/article-1389851",
+      "places": [
+        {
+          "name": "Aqqaba",
+          "lat": 32.35068,
+          "lon": 35.3497657,
+          "note": "Nominatim village point"
+        },
+        {
+          "name": "Zababida",
+          "lat": 32.3844933,
+          "lon": 35.324383,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-attacks-halomot-yosef",
+      "section": "attacks",
+      "headline": "Owner of the Halomot Yosef farm in the Dotan Valley is hurt in a stick attack; the army holds two Palestinian suspects and says the details are under review",
+      "summary": "The Judea and Samaria Situation Room reported on Wednesday, 18 November, that Arabs attacked the owner of the Halomot Yosef farm (also called Emek Dotan) in northern Samaria with sticks, and that the farmer was hurt (<a href=\"https://t.me/JSR_HEB/540\">JSR Hebrew</a>). The army later told JNS that troops had detained two Palestinian suspects after a report of an attack on an Israeli civilian in Samaria, and that \"the details are under review\" (<a href=\"https://www.jns.org/news/israel-news/idf-detains-two-palestinians-after-attack-on-jewish-farmer-in-samaria\">JNS</a>). Netanel Frankel carried the Situation Room's account in his daily list (<a href=\"https://x.com/Netanelfr/status/2123153104858227160\">Netanel Frankel</a>). The army's statement to JNS did not itself name the farm or describe the injuries in more detail.",
+      "source": "JSR / JNS / IDF / Netanel Frankel (JNS Hebrew)",
+      "date": "2026-11-18",
+      "url": "https://www.jns.org/news/israel-news/idf-detains-two-palestinians-after-attack-on-jewish-farmer-in-samaria",
+      "places": [
+        {
+          "name": "Halomot Yosef / Emek Dotan farm, northern Samaria",
+          "lat": 32.4169318,
+          "lon": 35.2051088,
+          "note": "Nominatim 'Emek Dotan' village point in Area C; the farm itself is not separately mapped (approximate)"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-attacks-malachei-avraham",
+      "section": "attacks",
+      "headline": "Stones thrown at a shepherd, and later at a flock, at the Malachei Avraham farm in the Hebron Hills; no one is hurt, JSR and Simcha Raz say",
+      "summary": "The Situation Room reported two incidents on Wednesday, 18 November, at the Malachei Avraham farm in the Hebron Hills: Arabs threw stones at a Jewish shepherd, and later threw stones at a flock and prevented it from returning to the farm. It said no one was hurt (<a href=\"https://t.me/JSR_HEB/541\">JSR Hebrew, first incident</a>; <a href=\"https://x.com/JSR_HEB/status/2123053862504235085\">JSR Hebrew, second incident</a>). Olam Katan's settlements reporter Simcha Raz, quoting the Situation Room, wrote that this was again \"terror against the Malachei Avraham farm\" (<a href=\"https://x.com/simkha0404/status/2123054911843667993\">Simcha Raz</a>). The farm itself is not in the public map sources checked for this edition, so it is not plotted here.",
+      "source": "JSR / Simcha Raz (Olam Katan)",
+      "date": "2026-11-18",
+      "url": "https://x.com/JSR_HEB/status/2123053862504235085",
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-land-beit-el-sewage",
+      "section": "land",
+      "headline": "Paratroopers seize a sewage tanker between Beit El and Ofra after residents of the new Kfar Ana site track it with a drone; the driver says the truck broke down",
+      "summary": "Residents of the new Kfar Ana site in Binyamin spotted a sewage tanker in a stream bed near Beit El on Tuesday, 17 November, followed it with a drone and called the authorities. Fighters from Paratroop Battalion 202 seized the truck; the driver said it had a mechanical fault, and the soldiers had it towed to a confiscation lot, Arutz 7 reported on Wednesday (<a href=\"https://www.inn.co.il/news/711076\">Arutz 7</a>; <a href=\"https://www.jdn.co.il/news/2768128/\">JDN</a>). The area is between Beit El and Ofra. Residents said pirate dumps and sewage dumping had gone on for years in the wadis, and that since the site was founded a few months ago they have been trying to shut that activity down. The Situation Room said an Arab was filmed dumping sewage into a stream near Beit El and that the army caught the tanker while the dumping was still going on (<a href=\"https://t.me/JSR_HEB/543\">JSR Hebrew</a>); Arutz 7 and JDN describe the tanker as having been stopped and seized on suspicion of dumping, not as a confirmed completed dump. Netanel Frankel also listed the incident, citing JSR (<a href=\"https://x.com/Netanelfr/status/2123153104858227160\">Netanel Frankel</a>).",
+      "source": "Arutz 7 / JDN / JSR / Netanel Frankel (JNS Hebrew)",
+      "date": "2026-11-17",
+      "url": "https://www.inn.co.il/news/711076",
+      "places": [
+        {
+          "name": "Kfar Ana / Khirbet Kfar Ana, between Beit El and Ofra",
+          "lat": 31.9648773,
+          "lon": 35.2488374,
+          "note": "Nominatim archaeological site 'Khirbet Kfar Ana' near Ein Yabrud; the new community itself is not mapped (approximate)"
+        },
+        {
+          "name": "Beit El",
+          "lat": 31.9408068,
+          "lon": 35.2215122,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Ofra",
+          "lat": 31.9535235,
+          "lon": 35.2604673,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-pa-brazil-ambassador-silwad",
+      "section": "pa",
+      "headline": "JSR: Brazil's ambassador to the PA attended a funeral in Silwad last week where Hamas flags were flown beside Fatah flags",
+      "summary": "The Judea and Samaria Situation Room reported on Wednesday, 18 November, that Brazil's ambassador to the Palestinian Authority, Joao Marcelo Queiroz Soares, attended a funeral last week in Silwad, in the heart of Judea and Samaria, and that Hamas flags were flown there alongside Fatah flags (<a href=\"https://x.com/JSR_EN/status/2123085555537695127\">JSR English</a>; <a href=\"https://x.com/JSR_HEB/status/2123086070740893992\">JSR Hebrew</a>). This is the Situation Room's account; a second, independent confirmation of the ambassador's attendance was not found in the sources opened for this edition.",
+      "source": "JSR",
+      "date": "2026-11-18",
+      "url": "https://x.com/JSR_EN/status/2123085555537695127",
+      "places": [
+        {
+          "name": "Silwad",
+          "lat": 31.9750753,
+          "lon": 35.2624526,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-land-eizariya-dog",
+      "section": "land",
+      "headline": "Police and Border Police arrest a father and son from al-Eizariya after footage showed a dog thrown from a hilltop and killed",
+      "summary": "Samaria and Judea District police, acting on information received during the past week, said they identified two residents of al-Eizariya, a father and son in their 20s and 60s, in security-camera footage showing a dog thrown from a hilltop in the village with a rope around its neck; the dog was killed. Overnight into Wednesday, 18 November, the Gilad serious-crime unit and Border Police fighters in Judea and Samaria arrested the two men. They were questioned at the Ma'ale Adumim station and held, and the police said they would ask a court to extend the detention. The police said they treat violence and cruelty to animals severely and will use all investigative means to bring those involved to court (<a href=\"https://www.srugim.co.il/101016563-ערבים-קשרו-כלב-בצווארו-וזרקו-אותו-מצוק\">Srugim</a>, quoting the police; <a href=\"https://x.com/JSR_EN/status/2123093041560920324\">JSR English</a>, also using police footage).",
+      "source": "Israel Police / Srugim / JSR",
+      "date": "2026-11-18",
+      "url": "https://www.srugim.co.il/101016563-ערבים-קשרו-כלב-בצווארו-וזרקו-אותו-מצוק",
+      "places": [
+        {
+          "name": "al-Eizariya",
+          "lat": 31.7731513,
+          "lon": 35.259589,
+          "note": "Nominatim town point; exact hilltop not published (approximate)"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-negev-dahi-mosque-fire",
+      "section": "negev",
+      "headline": "Fire in a mosque in Kfar Daha, near Afula, before dawn; police and fire investigators are on the scene, and Shin Bet is checking a possible nationalist motive. Ynet says Hebrew graffiti was sprayed on the building",
+      "summary": "A fire broke out before dawn on Thursday, 19 November, in a mosque in the village of Daha (Dahi), near Afula. Firefighters and police put out the flames and kept them from spreading through the building. Police opened an investigation with fire-service investigators. Kikar Hashabbat, citing the circumstances, said Shin Bet has joined the inquiry and is checking a possible nationalist motive (<a href=\"https://www.inn.co.il/flashes/1141591\">Arutz 7</a>; <a href=\"https://www.kikar.co.il/israel-news/toqg7s\">Kikar Hashabbat</a>, quoting a police statement). Ynet, in a headline and summary opened for this edition, reported a suspicion of arson as a hate crime and said Hebrew graffiti was sprayed on the building (<a href=\"https://www.ynet.co.il/news/article/sjszhg30fg\">Ynet</a>). Israel Hayom's headline treated it as a suspected reprisal attack and noted that about two weeks earlier a 15-year-old Arab was charged with trying to burn Torah scrolls; the police statement itself did not name a motive (<a href=\"https://www.israelhayom.co.il/news/crime/article/21886912\">Israel Hayom</a>). No suspects had been named in the reports that were opened.",
+      "source": "Israel Police / Arutz 7 / Kikar Hashabbat / Ynet / Israel Hayom",
+      "date": "2026-11-19",
+      "url": "https://www.inn.co.il/flashes/1141591",
+      "places": [
+        {
+          "name": "Daha (Dahi), near Afula",
+          "lat": 32.6203995,
+          "lon": 35.3449947,
+          "note": "Nominatim"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-negev-kafr-qasim-ramming",
+      "section": "negev",
+      "headline": "Jewish driver held after eight people are hurt in a ramming at several spots in Kafr Qasim; police say the main suspicion is driving under the influence of drugs, and they are also checking a nationalist motive. Residents call it an attack",
+      "summary": "Eight people were hurt on Wednesday evening, 18 November, when a Jewish Israeli driver hit pedestrians at several points inside Kafr Qasim, in the Triangle. Three were in moderate condition and five were lightly hurt, and the driver was arrested (<a href=\"https://www.srugim.co.il/101016589-אירוע-דריסה-בכפר-קאסם-8-נפצעו-בשלוש\">Srugim</a>; <a href=\"https://www.ynet.co.il/news/article/rk3lyvjaml\">Ynet</a>). Police said the leading suspicion at this stage was driving under the influence of drugs, and that they were also examining a possible nationalist motive; the motive had not been determined. Residents of Kafr Qasim called the ramming an attack. Ultra Palestine described the driver as a settler and said three of those hurt were women leaving a wedding hall, which is its account (<a href=\"https://x.com/palestineultra/status/2123131740671651865\">Ultra Palestine</a>). The investigation is continuing.",
+      "source": "Srugim / Ynet / Ultra Palestine",
+      "date": "2026-11-18",
+      "url": "https://www.srugim.co.il/101016589-אירוע-דריסה-בכפר-קאסם-8-נפצעו-בשלוש",
+      "places": [
+        {
+          "name": "Kafr Qasim",
+          "lat": 32.1152014,
+          "lon": 34.9752609,
+          "note": "Nominatim town point"
+        }
+      ],
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-negev-herzog-raam-arrests",
+      "section": "negev",
+      "headline": "President Herzog criticizes the police for arresting Ra'am activists in the Negev on election day without search or arrest warrants",
+      "summary": "President Isaac Herzog on Wednesday, 18 November, criticized the police over the arrest of Ra'am activists in the Negev on election day, after they were suspected of a scheme to interfere with the vote. Herzog said it is not permitted to enter a citizen's home, including the home of a Bedouin doctor in the Negev, without a court warrant, and that citizens' rights must be protected \"no matter where they come from\" (<a href=\"https://www.srugim.co.il/101016570-הרצוג-נגד-המשטרה-תוקף-את-מעצר-פעילי-רעמ\">Srugim</a>). Srugim described the remarks as unusual for the president and noted that he had been relatively quiet on the election-interference investigation until now. This item reports his criticism; it does not settle the underlying police case.",
+      "source": "Srugim",
+      "date": "2026-11-18",
+      "url": "https://www.srugim.co.il/101016570-הרצוג-נגד-המשטרה-תוקף-את-מעצר-פעילי-רעמ",
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
+      "id": "2026-11-19-land-activist-pa-claims-1119",
+      "section": "land",
+      "headline": "Activist and PA-side claims: Ultra Palestine says forces arrested Jerusalem journalist Seif al-Qawasmi after an assault and the smashing of his vehicle at the Jaba checkpoint, north of Jerusalem",
+      "summary": "Ultra Palestine reported on Wednesday evening, 18 November, that Israeli forces arrested Jerusalem journalist Seif al-Qawasmi after he was assaulted and his vehicle was smashed at the Jaba checkpoint, north of Jerusalem (<a href=\"https://x.com/palestineultra/status/2123152600514384109\">Ultra Palestine</a>). This is Ultra Palestine's account; an Israeli official statement on the incident was not found in the sources opened for this edition.",
+      "source": "Ultra Palestine",
+      "date": "2026-11-18",
+      "url": "https://x.com/palestineultra/status/2123152600514384109",
+      "edition": "2026-11-19",
+      "published": "2026-11-19T08:00:00+02:00",
+      "letter": "PA security: 19 Nov 2026"
+    },
+    {
       "id": "2026-11-18-land-uk-australia-sanctions",
       "section": "land",
       "lead": true,

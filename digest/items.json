@@ -1084,6 +1084,10 @@
     "2026-11-18": {
       "intro": "Israel: Matan Kahana of Yashar! is elected Knesset speaker 66 to 52 with Arab party votes; the Elections Committee chair and the Shin Bet chief say there is no evidence so far of vote-buying on a scale that could change the results, and the court gives Likud until Sunday to appeal. Also: Israeli officials on the fight with France over a force to follow UNIFIL; the first verdict over killings of Druze civilians in Sweida; first rules for a French right-and-center primary; a Léger poll in Quebec; Brazil's Supreme Court may rule on the 8 January sentencing law; Colombia defends its Jerusalem embassy; Putin arrives in Shenzhen; a security firm's findings on Grok Bot and three Grok Bot releases; and a New Yorker report that opens with Nick Land.",
       "quiet": "Nothing material on the Carney case, Trenton, Greenland (the Danish parliament's final vote is due 19 November), UK breakup politics, Israeli data centers, non-Latin script digitization, Belle Burden, HaShiloach (no new essay since 24 September) or Marc Andreessen (not checked here; covered by another assistant). Official Israeli election results unchanged. Cypherboria: no new @net__void TikTok video, nothing new from @Mortal_Series, PHYTHAGRAM, Cyphers News, Truth is Christ, the Methexis/JCCRU channel, Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro or jacquesvallee.net; no new interview with Land on YouTube, Apple Podcasts or X; no posts in the period from Eric Hadley, GematResearch, 4dimensionapp, thenightshirt, D.W. Pasulka, chi or Methexis, and nothing on theme from AmurakaHidden, Colder Cybernetics, Ryan Haecker, Doomcrypt or Anomaly of the Elected."
+    },
+    "2026-11-19": {
+      "intro": "Israel: Bennett meets Netanyahu and backs a unity government with Eisenkot first, while the change-bloc leaders call for an Eisenkot-led emergency government; the Knesset passes preliminary readings to repeal the judicial and media laws; Otzma Yehudit files an appeal to void the election, and the Elections Committee tells the court Likud's main claim cannot disqualify votes. Also: Germany and Austria join the EU mission in Lebanon; Barrack welcomes a Sweida native as Syria's peace adviser; Colombia's president receives the Jerusalem Prize; a ministry warning on data-center pollution; a Celtic independence summit in Dublin; Denmark's final Greenland vote is due today; a manuscripts repository opens in Jammu; Xi greets Trump in Shenzhen ahead of the three-way meeting; and a new essay on Nick Land as a \"cold anarchist.\"",
+      "quiet": "Weekly checks with nothing new: Belle Burden (only best-of-year lists already covered), Trenton (no new private-recovery story; a broker profile and city items only), HaShiloach (no new essay since 24 September in Hebrew and 28 October in English) and the Carney case (no trial or extradition news). Not researched today under the new schedule: France, SpaceX/xAI/Cursor, Brazil and Quebec; Marc Andreessen is covered by another assistant. On the EUSM Lebanon watch: no official Israeli reaction to the mission itself was found. Official Israeli election results were not rechecked today."
     }
   },
   "items": [
@@ -13733,6 +13737,322 @@
         {
           "name": "TikTok: @net__void",
           "url": "https://www.tiktok.com/@net__void"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-israel-election-1",
+      "edition": "2026-11-19",
+      "section": "israel-election",
+      "headline": "Bennett meets Netanyahu for over two hours and backs a unity government with Eisenkot as prime minister first; Golan and Liberman refuse, and the change-bloc leaders call for an Eisenkot-led government \"as soon as possible\"",
+      "lead": "Beyachad chair Naftali Bennett met Prime Minister Benjamin Netanyahu in his Knesset office on Wednesday, 18 November, for more than two hours, at Netanyahu's invitation and without telling Gadi Eisenkot in advance (ynet, Srugim).",
+      "text": "Likud said the meeting was a security briefing; i24NEWS, cited by Srugim, reported it also covered politics. People close to Bennett said he will not serve under Netanyahu and that a unity government is relevant only if Eisenkot is first in a rotation. Channel 12, as reported by Srugim, described a Bennett outline: Eisenkot first in the rotation (for one or two years, in versions under discussion), then Netanyahu, with agreements on a state commission of inquiry, military service and the courts. At the change-bloc leaders' meeting that afternoon, Channel 13 reported (via Srugim) that Bennett said \"we need to set up a unity government,\" that Yair Golan and Yisrael Beytenu chair Avigdor Liberman answered that they would not sit with Netanyahu \"in any form,\" and that Eisenkot urged forming a government quickly, \"even if it is a narrow government for now.\" Channel 13 also reported that Bennett has warned in private against relying on the Arab parties: \"I was there, it won't work.\" A Maariv headline quotes Liberman as saying he would vote against \"such a government\" (headline only; the article text did not load). The leaders then issued a joint statement saying they all agree on the urgency of forming a national emergency government led by Eisenkot and replacing Netanyahu \"as soon as possible\" (text posted by Arutz Sheva reporter Hezki Baruch on X); Yesh Atid chair Yair Lapid wrote that he and Bennett are working \"tirelessly\" for a change government led by Eisenkot. ynet reports two readings of Bennett's moves inside his own bloc: that he wants to exhaust the unity option so he can later blame Netanyahu, or that he expects new elections. In the Knesset, under the agreement reached around the speaker vote, the plenum on Wednesday passed in preliminary readings change-bloc bills to repeal the media law (63 to 49), the law that weakened the attorney general (63 to 47) and the arrangements that changed the Judicial Selection Committee (62 to 46), and set up two special committees for them; in return, two bills by Likud faction chair Ofir Katz passed preliminary readings, one to strip rights from MKs who do not recognize Hamas as a terror group (48 to 0) and one barring interference with tefillin stands in public places (Davar; the vote counts on the media and AG bills also in Times of Israel headlines). On Wednesday evening Shas chair Aryeh Deri submitted a bill to halt arrests of Haredi draft evaders until a new government is formed, as a temporary provision; mako (Channel 12) and Kipa describe it as a test for Liberman, Bennett and Eisenkot, since Netanyahu's 53-seat bloc is expected to back it. Deri said \"the state cannot keep arresting yeshiva students.\" No coalition agreement has been signed, and no candidate has a majority yet.",
+      "sources": [
+        {
+          "name": "ynet: what does Bennett want? (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/h1fkshj0mx"
+        },
+        {
+          "name": "Srugim: new details on the Bennett–Netanyahu meeting (Hebrew)",
+          "url": "https://www.srugim.co.il/101016547-פרטים-חדשים-על-פגישת-בנט-נתניהו"
+        },
+        {
+          "name": "Srugim: Bennett's unity outline, per Channel 12 (Hebrew)",
+          "url": "https://www.srugim.co.il/101016580-התוכנית-המלאה-זו-הצעת-בנט-לממשלת-אחדות"
+        },
+        {
+          "name": "Srugim: the bloc leaders' meeting, per Channel 13 (Hebrew)",
+          "url": "https://www.srugim.co.il/101016590-בנט-מנחית-מכה-נוספת-על-איזנקוט-זה-לא"
+        },
+        {
+          "name": "Hezki Baruch on X: change-bloc joint statement (Hebrew)",
+          "url": "https://x.com/HezkeiB/status/2123066038744928469"
+        },
+        {
+          "name": "Hezki Baruch on X: Lapid statement (Hebrew)",
+          "url": "https://x.com/HezkeiB/status/2123070952963449017"
+        },
+        {
+          "name": "Maariv: Liberman headline (Hebrew)",
+          "url": "https://www.maariv.co.il/breaking-news/article-1389933"
+        },
+        {
+          "name": "Davar: repeal bills pass preliminary readings (Hebrew)",
+          "url": "https://www.davar1.co.il/708114/"
+        },
+        {
+          "name": "mako: Shas bill to halt draft-evader arrests (Hebrew)",
+          "url": "https://www.mako.co.il/news-politics/2026_q4/Article-185d2a7c3dfe1a1026.htm"
+        },
+        {
+          "name": "Kipa: Deri's bill as a test for the change bloc (Hebrew)",
+          "url": "https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/1236765-0/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-israel-election-interference-watch",
+      "edition": "2026-11-19",
+      "section": "israel-election",
+      "headline": "Election-interference watch: Otzma Yehudit files a court appeal asking to void the election; the Central Elections Committee tells the court Likud's main claim cannot justify disqualifying votes",
+      "lead": "Otzma Yehudit, together with the forum \"Bocharim BaChaim,\" filed an appeal on Tuesday, 17 November, with the Jerusalem District Court asking to cancel the 26th Knesset election and hold a new vote, or failing that to disqualify the ballot boxes where it says offenses took place (Channel 14, Channel 04, both right-leaning).",
+      "text": "The appeal, filed by lawyers Ze'ev Wolf and David Bavli, attaches what the party calls more than 700 testimonies of suspected ballot-box fraud, vote-buying with cash and fuel cards, voter impersonation and foreign interference, and quotes a letter from Central Elections Committee chair Justice Noam Sohlberg to Shin Bet chief David Zini about \"serious suspicions of improper influence through foreign funding\"; it asks that the findings of the joint Shin Bet, police and prosecution team be disclosed. These are the appellants' claims; the court has not ruled. In a separate filing, the Central Elections Committee answered Likud's request for more time to appeal: it said Likud's main claim, that Arab parties tracked turnout on election day, \"should be rejected outright,\" because even if proven it would be a matter for enforcement under the Privacy Protection Law, not grounds for disqualifying ballot boxes, and that the law-enforcement investigations Likud cited have so far found no evidence of election fraud, in particular none that could affect the true results (Zman Israel, 18 November, quoting the committee's response; Times of Israel headline). ynet reported on 17 November that a week after the election Zini spoke with Likud's election-integrity chief Sagi Keizler, whom he knows, and asked for supporting material; Keizler gave him a report listing 1,281 complaints about the Arab sector, many of them against polling-station staff. Likud's deadline to file its own appeal remains Sunday, 22 November; no report of a Likud filing was found by early Thursday. President Isaac Herzog criticized the election-day arrests of Ra'am activists in the Negev without warrants (Srugim); no new investigation or ruling on them was reported.",
+      "sources": [
+        {
+          "name": "Channel 14: Otzma Yehudit files an election appeal (Hebrew)",
+          "url": "https://www.c14.co.il/article/1794448"
+        },
+        {
+          "name": "Channel 04: Otzma Yehudit appeal details (Hebrew)",
+          "url": "https://0404.co.il/article/1189744"
+        },
+        {
+          "name": "Zman Israel: Elections Committee response to Likud (Hebrew)",
+          "url": "https://www.zman.co.il/live/743299/"
+        },
+        {
+          "name": "Times of Israel: elections panel on Likud's appeal (headline)",
+          "url": "https://www.timesofisrael.com/liveblog_entry/elections-panel-likud-appeal-against-election-results-would-not-justify-annulment-of-votes/"
+        },
+        {
+          "name": "ynet: Zini asked Likud for material (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/bkyotfyrml"
+        },
+        {
+          "name": "Srugim: Herzog on the Ra'am arrests (Hebrew)",
+          "url": "https://www.srugim.co.il/101016570-הרצוג-נגד-המשטרה-תוקף-את-מעצר-פעילי-רעמ"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-lebanon-1",
+      "edition": "2026-11-19",
+      "section": "lebanon",
+      "headline": "After UNIFIL: Germany and Austria commit personnel to the EU Support Mission in Lebanon; France takes its plan for a new force to the UN Security Council today, and Defense Minister Katz says Israel will not leave its security zones",
+      "lead": "The German cabinet on Wednesday, 18 November, approved sending up to 15 federal police and customs officers and a \"limited number\" of military personnel to train the Lebanese navy to the EU Support Mission in Lebanon (EUSM Lebanon), working only north of the Litani River, with deployment possible from December (L'Orient Today, citing Reuters and the German government statement).",
+      "text": "Austria's government approved its part on 11 November: for 2027, up to 20 Defense Ministry and 5 Interior Ministry personnel, plus support staff, for a total ceiling of 79 people who will not all be in Lebanon at once; the mission is to advise and train the Lebanese army in border security, reconnaissance, surveillance and maritime security (Austrian Foreign Ministry, Heute). Separately, Walla reports that France will present its plan for a new international force to replace UNIFIL at a closed UN Security Council session on Thursday, 19 November: thousands of European troops, mainly from France, Italy and Spain, working with the Lebanese army in the south, plus unarmed observers; the United States backs a smaller observer force instead, and Israel opposes the French plan. In Israel, Defense Minister Israel Katz said on 18 November that the IDF \"controls the security zones in Lebanon, Syria and Gaza\" and will not withdraw from their current lines before Hamas is dismantled, Hezbollah is disarmed \"in all of Lebanon\" and jihadist threats are removed from Syria, and that if fighting flares the IDF is ready to take more territory (Srugim; Jerusalem Post). No official Israeli statement on EUSM Lebanon itself was found. In Lebanon, the judiciary on 18 November charged five Hezbollah members, arrested earlier this month in northern Lebanon, with \"forming an armed group, recruiting members, equipping them and supplying them with weapons\" (Arab News, citing a judicial source speaking to AFP; Times of Israel headline).",
+      "sources": [
+        {
+          "name": "L'Orient Today: Germany joins the post-UNIFIL EU mission",
+          "url": "https://today.lorientlejour.com/article/1554916/germany-announces-participation-in-post-unifil-eu-mission-in-lebanon.html"
+        },
+        {
+          "name": "Austrian Foreign Ministry: cabinet approves EUSM Lebanon contribution (German)",
+          "url": "https://www.bmeia.gv.at/ministerium/presse/aktuelles/alle/musterjahr/11-1-1/oesterreichs-beitrag-zu-sicherheit-und-stabilitaet-in-nahost-regierung-beschliesst-rahmen-fuer-eu-unterstuetzungsmission-im-libanon"
+        },
+        {
+          "name": "Heute: Austria's personnel ceiling (German)",
+          "url": "https://www.heute.at/s/regierung-schickt-bundesheer-in-neue-libanon-mission-120280135"
+        },
+        {
+          "name": "Walla: France to present its plan at the Security Council (Hebrew)",
+          "url": "https://www.walla.co.il/news/world/383962062"
+        },
+        {
+          "name": "Srugim: Katz on the security zones (Hebrew)",
+          "url": "https://www.srugim.co.il/101016488-%D7%9B%D7%A5-%D7%9E%D7%91%D7%94%D7%99%D7%A8-%D7%A6%D7%94%D7%9C-%D7%A2%D7%A8%D7%95%D7%9A-%D7%9C%D7%AA%D7%9E%D7%A8%D7%95%D7%9F-%D7%95%D7%9C%D7%9B%D7%99%D7%91%D7%95%D7%A9-%D7%A9%D7%98%D7%97%D7%99%D7%9D"
+        },
+        {
+          "name": "Jerusalem Post: Katz on the security zones",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-915274"
+        },
+        {
+          "name": "Arab News (AFP): five Hezbollah members charged",
+          "url": "https://www.arabnews.com/middle-east/lebanon-charges-five-hezbollah-members-with-recruiting-arming-others-judicial-source-3012782"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-lebanon-2",
+      "edition": "2026-11-19",
+      "section": "lebanon",
+      "headline": "Sweida (Syria): US envoy Barrack welcomes the appointment of Sweida native Muzna al-Atrash as Syria's peace adviser; a Sweida network posts an image it says shows a National Guard commander with anti-tank mines",
+      "lead": "US envoy to Syria Tom Barrack wrote on X on Wednesday, 18 November, that he welcomes the appointment of Muzna al-Atrash, from Sweida province, as peace adviser at the Syrian Foreign Ministry, saying she \"carries the voice of her community\" into Damascus's efforts (Anadolu, Arabic).",
+      "text": "Foreign Minister Asaad al-Shaibani appointed al-Atrash on 2 November, according to the Syrian news agency SANA as cited by Anadolu; she heads a local development group and sits on the UN's Syrian women's advisory board. Separately, the local network Suwayda24 posted on 18 November an image obtained by the open-source platform Eekad that it says shows Yamen al-Zughair, commander of the \"Fursan Hamza\" unit of the Druze National Guard loyal to Sheikh Hikmat al-Hijri, in a vehicle loaded with land mines that appear to be Soviet TM-62M anti-tank mines; this is a single-source claim that was not independently confirmed. No new Israeli government statement on Sweida or the Druze was found.",
+      "sources": [
+        {
+          "name": "Anadolu: Barrack welcomes al-Atrash's appointment (Arabic)",
+          "url": "https://aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D8%A8%D8%A7%D8%B1%D8%A7%D9%83-%D9%8A%D8%B1%D8%AD%D8%A8-%D8%A8%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D8%A7%D8%A8%D9%86%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%85%D8%B2%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D8%B7%D8%B1%D8%B4-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/4129632"
+        },
+        {
+          "name": "Suwayda24 on X: image of mines (Arabic)",
+          "url": "https://x.com/suwayda24/status/2123106334845378661"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-cypherboria-1",
+      "edition": "2026-11-19",
+      "section": "cypherboria",
+      "headline": "New X essay \"Nick Land As A Cold Anarchist\" draws replies from patallax and critics; acadianlemur is now @xenqlemur; Land on Musk: \"he doesn't need to be our political spokesman too\"",
+      "lead": "The X account @kenocryptomancy published an X Article titled \"Nick Land As A Cold Anarchist | 차가운 아나키스트로서의 닉 랜드\" (in English and Korean) on 18 November (4,418 views, 116 likes and 122 bookmarks when checked early on 19 November). The essay argues that Land \"is not a techno-fascist, but a Deleuzian anarchist,\" and that for Land the agent of \"Crowned Anarchy\" is \"Techno-Capital itself.\"",
+      "text": "In replies the same day, patallax wrote that \"you need theology to rhyme free will with predestination\"; another reader, @Xenonoesis, wrote that the essay's \"fundamental weakness\" is that it tries \"to retroactively anarchize Nick Land\" by treating capitalism's destructive tendencies as proof of an anarchist commitment. The gematria poster formerly known as @acadianlemur now uses the handle @xenqlemur (X shows the same account number for both, and his old post links now open under the new name); on 18 November he answered a post calling technology builders \"godless materialists\" with \"Angelic Materialism.\" resonatingloop wrote on 18 November that she froze new feature work on the Cyphers calculator in mid-September to fix bugs, that this is \"finally close to done,\" and that \"net wants to add acadianlemur's ciphers shortly.\" Land posted little: on 19 November he quoted a report of Elon Musk saying \"I'm not MAGA\" at the New York Times DealBook event with \"Initiating Starmind is enough, he doesn't need to be our political spokesman too.\" Doomcrypt posted only short replies (\"Judith Butlerian Jihad\"). Net Void posted only reposts, among them a 53-second video post by @guilherme94jose on \"connections between Nick Land, the CCRU and Aleister Crowley's work\" (video not watched). There is no new @net__void TikTok video (the public embed still lists only 7614601846405008662), no TikTok link in her posts, and no new Cyphers upload or post since 15 November.",
+      "sources": [
+        {
+          "name": "@kenocryptomancy on X: \"Nick Land As A Cold Anarchist\"",
+          "url": "https://x.com/kenocryptomancy/status/2123018627817611492"
+        },
+        {
+          "name": "patallax on X: reply on theology",
+          "url": "https://x.com/patallax/status/2123111885104976140"
+        },
+        {
+          "name": "@Xenonoesis on X: critique of the essay",
+          "url": "https://x.com/Xenonoesis/status/2123075204360368480"
+        },
+        {
+          "name": "@xenqlemur (formerly @acadianlemur) on X: \"Angelic Materialism\"",
+          "url": "https://x.com/xenqlemur/status/2123022416502825295"
+        },
+        {
+          "name": "resonatingloop on X: Cyphers feature freeze",
+          "url": "https://x.com/resonatingloop/status/2122958364481343842"
+        },
+        {
+          "name": "Land on X: Musk post",
+          "url": "https://x.com/xenocosmography/status/2123257965742535114"
+        },
+        {
+          "name": "@guilherme94jose on X: Land, the CCRU and Crowley (video)",
+          "url": "https://x.com/guilherme94jose/status/2123159105519173659"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-cypherboria-2",
+      "edition": "2026-11-19",
+      "section": "cypherboria",
+      "headline": "Weekly check: Truth is Christ rebuilds its KJV Compare site with a 1-to-10 \"Weigh this change\" vote; Vallée's Breakdown interview gets a second part; Colder Cybernetics on accelerationism",
+      "lead": "Brandon Peterson's Truth is Christ ministry announced on 18 November that it has rebuilt KJV Compare, its site that sets the King James Bible beside modern translations, \"from the ground up.\"",
+      "text": "The new version adds a \"Weigh this change\" button on every verse, where readers rate each wording change from 1 (\"Trivial\") to 10 (\"Abomination\"); the votes will decide which verses and translations are shown first, and old links still work (Truth is Christ blog). Mayim Bialik's Breakdown released part two of its Jacques Vallée interview as a podcast episode on 18 November (Apple Podcasts; part one and the full YouTube video were covered on 18 November). Colder Cybernetics (@cold_cyber_) quoted the line \"Deterritorialization is the only thing accelerationism has ever really talked about\" on 18 November, and on 17 November replied to Anatoly Karlin (@akarlin): \"Have a little faith ... is what Land believes we can learn from the MAGA faithful.\" The Cyphers' YouTube streams page, as reported on 16 November, lists \"Book of Paths ft. Anomaly of the Elected\" for 21 November (not rechecked today). Ryan Haecker posted an image titled \"Bonaventure's Ontological Argument.\" Nothing new this week from @Mortal_Series, PHYTHAGRAM (site, YouTube feed empty), the Methexis/JCCRU channel, Retrochronic (still v1.0.176, 199 sources), ReynoldsRetro, jacquesvallee.net, D.W. Pasulka, Eric Hadley, GematResearch, Anomaly of the Elected (beyond gematria replies), chi, AmurakaHidden, @4dimensionapp or Eric Wargo (@thenightshirt); no new Land guest appearance on YouTube or Apple Podcasts.",
+      "sources": [
+        {
+          "name": "Truth is Christ: KJV Compare rebuilt",
+          "url": "https://truthischrist.com/blog/kjv-compare-refresh-2026/"
+        },
+        {
+          "name": "Apple Podcasts: Breakdown, part two with Jacques Vallée",
+          "url": "https://podcasts.apple.com/us/podcast/part-two-aliens-are-talking-to-the-military-why/id1546456269?i=1000802660024&uo=4"
+        },
+        {
+          "name": "Colder Cybernetics on X: deterritorialization",
+          "url": "https://x.com/cold_cyber_/status/2122903516960428104"
+        },
+        {
+          "name": "Colder Cybernetics on X: on Land and MAGA",
+          "url": "https://x.com/cold_cyber_/status/2122738910799486986"
+        },
+        {
+          "name": "Ryan Haecker on X: Bonaventure",
+          "url": "https://x.com/RyanHaecker/status/2123193569359880655"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-colombia-and-israel-1",
+      "edition": "2026-11-19",
+      "section": "colombia-and-israel",
+      "headline": "President De la Espriella receives the World Zionist Organization's Jerusalem Prize in Barranquilla: \"We need Israel to fight narco-terrorism\"; Foreign Minister Sa'ar: \"No one deserves it more\"",
+      "lead": "Colombian President Abelardo de la Espriella received the 2026 Jerusalem Prize from World Zionist Organization chairman Yaakov Hagoel in Barranquilla on 18 November, awarded with Colombia's Jewish community for his support for Israel and for restoring relations (Caracol Radio).",
+      "text": "He said cooperation should mean more trade, investment and joint research, but stressed security: \"We need Israel to fight narco-terrorism,\" he said, adding that he expects Israel's help \"to defeat narco-terrorism by reason or by force\" (Caracol Radio). He said restoring the alliance with Israel had been a campaign promise and that his support for Israel \"is not new, it has always been\" (Caracol Radio). Israeli Foreign Minister Gideon Sa'ar wrote in Hebrew on social media, \"No one deserves the Jerusalem Prize more than you. You are a true friend of Israel\" (Semana). In the same Congress debate covered on 18 November, Foreign Minister Omar Bula said \"groups like Hezbollah, Al Qaeda and the Iranian Revolutionary Guard already have a presence here,\" in Venezuela and Colombia, citing the US Treasury and European intelligence services (Infobae); no specific evidence was given in the report.",
+      "sources": [
+        {
+          "name": "Caracol Radio: De la Espriella receives the Jerusalem Prize (Spanish)",
+          "url": "https://caracol.com.co/2026/11/18/de-la-espriella-recibe-el-premio-jerusalen-necesitamos-a-israel-para-combatir-el-narcoterrorismo/"
+        },
+        {
+          "name": "Semana: Sa'ar's message (Spanish)",
+          "url": "https://www.semana.com/amp/confidenciales/articulo/nadie-merece-mas-el-premio-jerusalen-que-tu-canciller-de-israel-al-presidente-abelardo-de-la-espriella/202646/"
+        },
+        {
+          "name": "Infobae: Bula on Hezbollah and the IRGC (Spanish)",
+          "url": "https://www.infobae.com/colombia/2026/11/18/hezbollah-al-qaeda-y-la-guardia-revolucionaria-irani-tienen-presencia-en-colombia-aseguro-el-canciller-omar-bula/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-israeli-data-centers-1",
+      "edition": "2026-11-19",
+      "section": "israeli-data-centers",
+      "headline": "Environmental Protection Ministry official warns data centers will raise air pollution and deaths; ministry puts the cost at more than NIS 3 billion a year",
+      "lead": "Shuli Nazar, a deputy director general of the Environmental Protection Ministry, warned in a letter that \"air pollutant emissions will rise by more than 10%\" once 3,000 megawatts of data centers are built, causing economic damage through \"increased morbidity and mortality\" (Calcalist's English site CTech, 17 November).",
+      "text": "According to CTech, the ministry estimates about NIS 2 billion a year in damage from the extra power generation the centers need and more than NIS 1 billion from running backup generators, plus higher greenhouse-gas emissions and faster use of Israel's natural gas reserves; air pollution is already blamed for an estimated 5,500 premature deaths a year. The warning comes as the Electricity Authority plans to release another 1,000 MW of capacity; Nazar wrote that at the projected rate the gas reserves would run out in about 17 years, about three years earlier than expected. A Times of Israel headline the same day reads \"Official warns pollution from data centers could prove lethal in coming years\" (headline only; the site blocks automated readers). The figures are the ministry's estimates as reported; no response from the Electricity Authority was found. The Haifa Bay project of Enlight and Shemen was covered on 17 November.",
+      "sources": [
+        {
+          "name": "CTech: Israel risks becoming a pollution haven",
+          "url": "https://www.calcalistech.com/ctechnews/article/yfmljjsgm"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-uk-breakup-politics-1",
+      "edition": "2026-11-19",
+      "section": "uk-breakup-politics",
+      "headline": "Scottish, Welsh and Irish independence groups meet at the Irish parliament in Dublin for a second \"Celtic Partnership\" session; the next is set for Edinburgh on 3 April 2027",
+      "lead": "Campaigners for Scottish and Welsh independence and Irish reunification met at Leinster House in Dublin on Tuesday, 17 November, in the second of a series of \"Celtic Partnership\" events, organized by Ireland's Future with Senators Frances Black and Patricia Stephenson (Nation.Cymru, The National).",
+      "text": "Speakers included Gerry Carlile of Ireland's Future, Gordon MacIntyre-Kemp of Believe in Scotland, Patrick McCarthy of Independence Forum Scotland and YesCymru vice-chair Sam Murphy, who said the groups' \"common ambition is to secure successful referendums in our respective nations in the years ahead\" (Nation.Cymru). The first meeting was held in Cardiff in September. MacIntyre-Kemp said Believe in Scotland will host the next meeting in Edinburgh on 3 April 2027 and invite the whole Scottish independence movement (The National). These are civic campaign groups, not governments; no government step on a referendum was reported this week.",
+      "sources": [
+        {
+          "name": "Nation.Cymru: YesCymru at the Dublin summit",
+          "url": "https://nation.cymru/news/yescymru-joins-irish-and-scottish-independence-campaigners-for-celtic-partnership-summit-in-dublin/"
+        },
+        {
+          "name": "The National: next Celtic gathering in Edinburgh",
+          "url": "https://www.thenational.scot/news/26742780.major-celtic-alliance-summit-planned-edinburgh/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-greenland-1",
+      "edition": "2026-11-19",
+      "section": "greenland",
+      "headline": "Danish parliament's final vote on the US–Greenland–Denmark defense agreement is scheduled for about 10 a.m. Copenhagen time today, 19 November",
+      "lead": "Danish lawmakers are expected to ratify the security agreement with the United States over Greenland on Thursday, 19 November, in a vote around 10 a.m. Copenhagen time (11 a.m. Israel time), after this edition was prepared, Reuters reported.",
+      "text": "The agreement, signed in September by the United States, Denmark and Greenland, would expand the US military role in Greenland, including permission for a \"Golden Dome\" missile-defense system, while reaffirming Danish sovereignty and Greenlanders' right to self-determination. Greenland's parliament ratified it this month, and it passed its first reading in the Danish parliament last week with support from all parties. It does not need a US Senate vote; it enters into force once Denmark's Foreign Ministry notifies the United States by diplomatic note. University of Copenhagen professor Mikkel Vedby Rasmussen told Reuters that \"this is not an end, but rather a beginning,\" and that the US will be able to \"demand greater influence\" on security decisions and on resource extraction; Reuters adds that other experts say it does not add much US military access. The vote result will be reported in the next Greenland update; the vote time comes from one source.",
+      "sources": [
+        {
+          "name": "Reuters via Internazionale: Denmark expected to ratify Greenland deal",
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/19/denmark-expected-to-ratify-trump-deal-over-greenland-on-thursday"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-non-latin-script-digitization-1",
+      "edition": "2026-11-19",
+      "section": "non-latin-script-digitization",
+      "headline": "Jammu: a rare-manuscripts repository and e-library opens at the Raghunath Temple's Sanskrit research institute under India's Gyan Bharatam program",
+      "lead": "A rare-manuscripts repository and e-library named \"Raghukula Sampada\" opened on 18 November at the Shri Maharaja Ranbir Singh Sanskrit Research Institute of the Shri Raghunath Temple in Jammu, under the J&K Dharmarth Trust (Daily Excelsior, Bold News).",
+      "text": "It was opened by Vivek Aggarwal, secretary of India's Ministry of Culture, with Karan Singh, chairman trustee of the Dharmarth Trust. It is set up as an independent center under the ministry's Gyan Bharatam manuscript program, to preserve and digitize manuscripts and open them to scholars and the public. The institute also launched the Jammu Series of Texts and Studies for editions based on its manuscripts, and presented an 11-volume Bhagavad Gita edition with 21 commentaries and a 14-volume Tantra series. The reports do not say how many manuscripts are held or when digitized copies will be online.",
+      "sources": [
+        {
+          "name": "Daily Excelsior: repository and e-library inaugurated",
+          "url": "https://www.dailyexcelsior.com/rare-manuscripts-repository-e-library-inaugurated-at-shri-raghunath-ji-temple/"
+        },
+        {
+          "name": "Bold News: rare manuscripts repository opens in Jammu",
+          "url": "https://boldnewsonline.com/dr-karan-singh-highlights-dogra-rulers-cultural-legacy-as-rare-manuscripts-repository-opens-in-jammu/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-19-trump-and-xi-1",
+      "edition": "2026-11-19",
+      "section": "trump-and-xi",
+      "headline": "Shenzhen: Xi meets Trump at the airport, Trump meets Putin after the APEC plenary, and the first Xi–Trump–Putin meeting is due later Thursday",
+      "lead": "Xi Jinping went to the airport in Shenzhen on 18 November to greet Donald Trump, the first time since 1980 that China's top leader has met a foreign head of state at the airport (BBC Chinese).",
+      "text": "BBC Chinese reports that Putin, who arrived earlier that day, was met by Politburo Standing Committee member Cai Qi. China opened the APEC Economic Leaders' Meeting in Shenzhen on Thursday, 19 November, with Xi as chair (Anadolu). After the plenary, Trump met Putin on the sidelines at about 12:43 p.m. Shenzhen time and told him \"a lot of wonderful things can come out of this\" (Nikkei Asia live page). According to the White House schedule cited by BBC Chinese, Trump then holds a bilateral meeting with Xi, his third this year, followed by the three-way meeting at the Qilin Villa, about 30 minutes from the APEC venue. China's Foreign Ministry says the three will discuss \"issues concerning global peace,\" and Trump said \"we're going to talk about denuclearization\" (Anadolu). BBC Chinese, citing the Financial Times and other media, reports that the sides disagree on the agenda: Trump prefers nuclear arms control and Iran, Putin wants to discuss a Ukraine ceasefire, and China is cool to discussing Ukraine without Europe. Trump has said he may meet Kim Jong Un, which North Korea has not confirmed (Anadolu). The results of the meetings were not yet known when this edition was prepared.",
+      "sources": [
+        {
+          "name": "BBC Chinese: Xi greets Trump at the airport (Chinese)",
+          "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/simp"
+        },
+        {
+          "name": "Anadolu: APEC leaders' meeting opens in Shenzhen",
+          "url": "https://aa.com.tr/en/economy/apec-leaders-summit-opens-in-chinas-shenzhen-ahead-of-xi-trump-putin-trilateral-meeting/4129914"
+        },
+        {
+          "name": "Nikkei Asia: APEC live page",
+          "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-plenary-session-ends-stage-set-for-trump-xi-putin-trilateral"
         }
       ]
     }
