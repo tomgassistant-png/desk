@@ -40,8 +40,6 @@ JS = ("<script>(function(){try{var S=localStorage;document.querySelectorAll('nav
 
 def nav(here, root, extra=""):
     links = [f'<a href="{root}cover/"{" class=on" if here == "cover" else ""}>Cover</a>']
-    _mm = _load("msm/data.json").get("updated", "")[:10]
-    links.append(f'<a href="{root}msm/" data-sec="msm" data-upd="{_mm}"{" class=on" if here == "msm" else ""}>MSM</a>')
     for k, p, name, dt in sections():
         links.append(f'<a href="{root}{p}" data-sec="{k}" data-upd="{dt}"{" class=on" if k == here else ""}>{name}</a>')
     _hd = _load("horses/data.json").get("updated", "")
