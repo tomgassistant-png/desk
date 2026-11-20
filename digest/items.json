@@ -1106,7 +1106,7 @@
       "quiet": "Weekly checks with nothing new: Belle Burden (only best-of-year lists already covered), Trenton (no new private-recovery story; a broker profile and city items only), HaShiloach (no new essay since 24 September in Hebrew and 28 October in English) and the Carney case (no trial or extradition news). Not researched today under the new schedule: France, SpaceX/xAI/Cursor, Brazil and Quebec; Marc Andreessen is covered by another assistant. On the EUSM Lebanon watch: no official Israeli reaction to the mission itself was found. Official Israeli election results were not rechecked today."
     },
     "2026-11-20": {
-      "intro": "Israel: Eisenkot reportedly plans a Knesset vote on his government before his mandate ends on 6 December, and Likud sets new unity talks for Sunday. Also: Israel strikes a Hezbollah missile site in the Beqaa while the UN Security Council meets on Lebanon; a fact-check on Israeli aid to Sweida; Xi and Trump agree on an action plan, and the three-way Shenzhen declaration on nuclear war; and Net Void's \"Cyphers Legion\" idea. France: two new polls put Mélenchon clearly second as the Greens' Tondelier offers to work on a coalition behind him, and the National Rally's headquarters was searched in a leaks inquiry. SpaceX, xAI and Cursor: Grok Bot 1.2.3, xAI's appeal hearing on California's training-data law, a Texas county's refusal of a SpaceX tax break, Starship debris in Mexico, and Musk's Starshield dispute with Zelensky.",
+      "intro": "Israel: Eisenkot reportedly plans a Knesset vote on his government before his mandate ends on 6 December, and Likud sets new unity talks for Sunday. Also: Israel strikes a Hezbollah missile site in the Beqaa while the UN Security Council meets on Lebanon; a fact-check on Israeli aid to Sweida; Xi and Trump agree on an action plan, and the three-way Shenzhen declaration on nuclear war; and Net Void's \"Cyphers Legion\" idea. France: two new polls put Mélenchon clearly second as the Greens' Tondelier offers to work on a coalition behind him, and the National Rally's headquarters was searched in a leaks inquiry. SpaceX, xAI and Cursor: Grok Bot 1.2.3, xAI's appeal hearing on California's training-data law, a Texas county's refusal of a SpaceX tax break, Starship debris in Mexico, and Musk's Starshield dispute with Zelensky. Brazil: Lula signs the decree ending the six-day work week, the fiscal package heads to a Chamber vote Monday as the dollar hits R$5.93, and the Supreme Court sets the Dosimetry Law for 4–15 December. Quebec: a $65 billion gap in the infrastructure plan, and a Synopsis poll ties the PQ and Liberals at 31%.",
       "quiet": "Election-interference watch: no new ruling, filing or official finding, so no separate item; Likud's appeal deadline is Sunday, 22 November. EUSM Lebanon watch: no official Israeli reaction and no new contributor found."
     }
   },
@@ -14475,6 +14475,172 @@
         {
           "name": "BBC News Ukrainian",
           "url": "https://www.bbc.com/ukrainian/articles/cw074k7vv82po"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-brazil-1",
+      "edition": "2026-11-20",
+      "section": "brazil",
+      "headline": "Lula signs the decree with the rules for ending the six-day work week: the 42-hour week starts 16 December, and overtime will cost more",
+      "lead": "President Lula on Thursday, 19 November, signed the decree that regulates the constitutional amendment ending the \"6x1\" schedule (six days of work, one day off); it was published the same day in a special edition of the Diário Oficial, g1 reported.",
+      "text": "The maximum work week falls from 44 to 42 hours on 16 December and to 40 hours in December 2027, with two days off a week and no pay cuts (g1, Agência Brasil). Labor Minister Luiz Marinho said companies that cannot give two days off every week may instead give eight days off a month; collective agreements stay in force except for clauses that conflict with the new rules; 12-hour-on, 36-hour-off schedules, as in hospitals and security, also stay within the new limits; and sectors that run around the clock, such as transport, aviation, shipping and oil, will get separate rules (g1). Overtime will cost more because the hourly wage will be figured by dividing the monthly salary by 210 hours instead of 220, and by 200 from December 2027: on a R$3,000 monthly salary, the hourly rate rises from R$13.64 to R$14.29 and then to R$15 (g1, Agência Brasil). According to government figures cited by g1 (unconfirmed elsewhere), 14.8 million workers on the six-day schedule are affected, plus 21.7 million already on five-day schedules whose hours fall in 2027. Lula predicted \"some confusion\" and many complaints, and told unions, the Labor Ministry and the labor courts to prepare for disputes (Agência Brasil). The Supreme Court case on the transition rules, which Justice Luiz Fux moved to the in-person session on 14 November, still has no date.",
+      "sources": [
+        {
+          "name": "g1: Lula signs the 5x2 regulation (Portuguese)",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/19/lula-assina-regulamentacao-da-escala-5x2-medida-esta-prevista-para-comecar-a-valer-em-dezembro.ghtml"
+        },
+        {
+          "name": "g1: why overtime will cost more (Portuguese)",
+          "url": "https://g1.globo.com/economia/noticia/2026/11/19/com-regulamentacao-da-escala-5x2-hora-extra-ficara-mais-cara-entenda.ghtml"
+        },
+        {
+          "name": "Agência Brasil: overtime under the 5x2 schedule (Portuguese)",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/veja-como-sera-o-calculo-da-hora-extra-com-escala-de-trabalho-5x2"
+        },
+        {
+          "name": "Agência Brasil: Lula expects disputes over the new schedule (Portuguese)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/prevendo-judicializacao-lula-cobra-atencao-aplicacao-da-escala-5x2"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-brazil-2",
+      "edition": "2026-11-20",
+      "section": "brazil",
+      "headline": "Senate finishes the fiscal package without changes and the Chamber is set to vote Monday; the dollar hits R$5.93, its highest since April 2025; Brazil asks the WTO to rule on US tariffs",
+      "lead": "The Senate on Wednesday, 18 November, rejected all three opposition amendments and completed its vote on the government's fiscal package (PLP 299/2026), which the government estimates will improve the 2027 budget balance by R$45.1 billion to R$56.1 billion, Agência Brasil reported.",
+      "text": "The only change was a deal on payments to states under the Lei Kandir: R$2 billion a year from 2028 to 2030 instead of the R$1 billion the government had proposed (Agência Brasil). In the Chamber of Deputies, rapporteur Mauro Benevides (União Brasil) on 19 November kept the Senate text unchanged so it can pass quickly, and Speaker Hugo Motta scheduled the vote for the evening of Monday, 23 November (g1, Agência Brasil). Markets kept falling: the dollar rose for a sixth straight session to R$5.932 on 19 November, its highest close since 8 April 2025, even after the central bank sold US$1 billion; it gained 4.95% for the week and 9.01% for the month, and the Ibovespa stock index lost 3.53% for the week (Agência Brasil; O Globo also reports R$5.93, a high for the year). At the work-week ceremony, Lula said he will name his new ministers \"when I want\" and is in \"no hurry,\" blamed \"speculation\" for the market moves, and said that he, not the market, wants fiscal control (g1, Agência Brasil). Separately, Brazil formally asked the World Trade Organization to set up a panel to rule on the 25% and 12.5% US tariffs on Brazilian goods, saying consultations on 25 September failed; it wants a decision at the Dispute Settlement Body meeting on 24 November (g1, Poder360). The request entered the WTO system on 18 November; g1 says it is dated 13 November and Poder360 says 12 November.",
+      "sources": [
+        {
+          "name": "Agência Brasil: Senate approves the fiscal package (Portuguese)",
+          "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo"
+        },
+        {
+          "name": "g1: Chamber rapporteur keeps the Senate text; vote Monday (Portuguese)",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/19/relator-do-ajuste-fiscal-na-camara-mantem-texto-do-senado-projeto-deve-ser-votado-segunda-feira.ghtml"
+        },
+        {
+          "name": "Agência Brasil: dollar above R$5.93 (Portuguese)",
+          "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-supera-r-593-e-fecha-no-maior-valor-desde-abril-de-2025"
+        },
+        {
+          "name": "g1: Lula will name ministers \"when I want\" (Portuguese)",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/19/pressionado-a-apresentar-nomes-da-equipe-economica-lula-diz-que-vai-indicar-ministerios-quando-quiser.ghtml"
+        },
+        {
+          "name": "g1: Brazil asks the WTO to rule on US tariffs (Portuguese)",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/apos-falta-de-acordo-brasil-pede-a-omc-para-julgar-tarifaco-imposto-pelos-eua.ghtml"
+        },
+        {
+          "name": "Poder360: Brazil's WTO panel request (Portuguese)",
+          "url": "https://www.poder360.com.br/poder-economia/brasil-pede-a-omc-para-julgar-tarifaco-imposto-pelos-eua/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-brazil-3",
+      "edition": "2026-11-20",
+      "section": "brazil",
+      "headline": "Supreme Court will judge the Dosimetry Law online from 4 to 15 December; prosecutor general charges Flávio Bolsonaro with slandering Lula; Fachin sends police reports on four justices in the Banco Master case to the prosecutor",
+      "lead": "Justice Alexandre de Moraes on 19 November released the four cases against the Dosimetry Law (Law 15,402 of 2026), which cuts sentences for those convicted over the 8 January 2023 attacks and could benefit Jair Bolsonaro, for the Supreme Court's online voting session from 4 to 15 December, g1 and Agência Brasil reported.",
+      "text": "Moraes acted after Chamber Speaker Hugo Motta and Senate President Davi Alcolumbre asked him to; he suspended the law in May. g1 reports that justices say privately there would be a majority to uphold the law, possibly with changes (unconfirmed), and cites court data that 455 convicts could benefit. Separately, the prosecutor general's office (PGR) on 18 November charged Senator Flávio Bolsonaro with slander (calúnia) against Lula over a 3 January 2026 post on X saying Lula would be named by an informant and linking him to drug and arms trafficking and money laundering; the PGR says parliamentary immunity does not cover the post, and that he may be offered a plea deal in which he would admit the offense to avoid trial. Moraes is the rapporteur, and the court's First Panel will decide whether to put him on trial (g1, Poder360). Also on 19 November, Supreme Court President Edson Fachin sent the PGR four Federal Police reports on mentions of Justices Moraes, André Mendonça, Kassio Nunes Marques and Dias Toffoli in messages found on the phone of jailed Banco Master founder Daniel Vorcaro, giving it 15 days to respond, and closed six reports on mentions of six other justices, including himself; the contents are sealed (Agência Brasil, Poder360).",
+      "sources": [
+        {
+          "name": "g1: Moraes releases the Dosimetry Law cases (Portuguese)",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/19/moraes-libera-acoes-sobre-lei-da-dosimetria-para-julgamento-no-stf.ghtml"
+        },
+        {
+          "name": "Agência Brasil: Dosimetry Law trial set for 4 December (Portuguese)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro"
+        },
+        {
+          "name": "g1: PGR charges Flávio Bolsonaro (Portuguese)",
+          "url": "https://g1.globo.com/politica/noticia/2026/11/18/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula.ghtml"
+        },
+        {
+          "name": "Poder360: PGR charges Flávio Bolsonaro (Portuguese)",
+          "url": "https://www.poder360.com.br/poder-justica/pgr-denuncia-flavio-bolsonaro-por-calunia-contra-lula/"
+        },
+        {
+          "name": "Agência Brasil: Fachin sends Master reports to the PGR (Portuguese)",
+          "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/caso-master-fachin-encaminha-pgr-citacoes-quatro-ministros-do-stf"
+        },
+        {
+          "name": "Poder360: Fachin sends four reports to the PGR (Portuguese)",
+          "url": "https://www.poder360.com.br/poder-justica/fachin-envia-a-pgr-4-relatorios-da-pf-sobre-ministros-do-stf/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-quebec-1",
+      "edition": "2026-11-20",
+      "section": "quebec",
+      "headline": "Finance minister finds a $65 billion gap in Quebec's infrastructure plan and the PQ ends Legault's \"most beautiful schools\"; the government will cap a planned daycare fee rise and review the CAQ law limiting strikes",
+      "lead": "Finance Minister Nicolas Marceau said on Tuesday, 17 November, that Quebec's 10-year infrastructure plan (PQI) is short about $65 billion, and that some projects will be delayed or reconsidered, Radio-Canada and Le Devoir reported.",
+      "text": "Marceau said the state had built projects \"bordering on luxury\" while neglecting upkeep, citing seniors' homes that cost over $1 million a room; Le Devoir notes the $64.9 billion gap was already in the last CAQ budget, and the auditor general put it at $75 billion in November 2025. He says all PQ promises still stand, and the government plans an economic update before Christmas (Radio-Canada). On 18 November, Education Minister Joël Arseneau said schools will now be built \"within our means,\" ending François Legault's 2018 promise of \"the most beautiful schools in the world\"; projects already announced will go ahead (La Presse). The same day, Family Minister Méganne Perry Mélançon said the government will \"greatly limit\" a rise in the subsidized daycare fee from $9.65 to $10.60 a day (9.9%) due on 1 January, when a CAQ law capping public fee increases at 3% expires; she gave no figure (Radio-Canada, La Presse). The government also decided not to appeal a labor tribunal ruling that the strike limits added by the CAQ's Bill 14 (May 2025) are unconstitutional, and will ask the employer–union advisory committee (CCTM) to review the law (La Presse, Radio-Canada). Separately, Noovo Info reports that climate envoy Jean Lemire told the Beyond Oil and Gas Alliance at COP31 that Quebec will present a roadmap away from fossil fuels \"this year\" (single source, unconfirmed).",
+      "sources": [
+        {
+          "name": "Radio-Canada: $65 billion missing from the PQI (French)",
+          "url": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau"
+        },
+        {
+          "name": "Le Devoir: Marceau's $65 billion gap (French)",
+          "url": "https://www.ledevoir.com/politique/quebec/1025786/ministre-marceau-signale-trou-65-milliards-budget-infrastructures"
+        },
+        {
+          "name": "La Presse: end of Legault's \"belles écoles\" (French)",
+          "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
+        },
+        {
+          "name": "Radio-Canada: daycare fee rise to be limited (French)",
+          "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
+        },
+        {
+          "name": "La Presse: no \"fee shock\" for parents (French)",
+          "url": "https://www.lapresse.ca/actualites/education/2026-11-18/centres-de-la-petite-enfance/quebec-evitera-un-choc-tarifaire-aux-parents.php"
+        },
+        {
+          "name": "La Presse: PQ questions the CAQ law limiting strikes (French)",
+          "url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php"
+        },
+        {
+          "name": "Radio-Canada: Bill 14 to be reviewed (French)",
+          "url": "https://ici.radio-canada.ca/article/info/2301336/tat-greve-syndicat-quebec-droit"
+        },
+        {
+          "name": "Noovo Info: fossil-fuel roadmap pledge (French)",
+          "url": "https://www.noovo.info/nouvelles/environnement/article/le-quebec-promet-sa-feuille-de-route-pour-sortir-des-energies-fossiles/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-quebec-2",
+      "edition": "2026-11-20",
+      "section": "quebec",
+      "headline": "Synopsis–La Presse poll: PQ and Liberals tied at 31%, and 40% blame St-Pierre Plamondon most for tensions with Ottawa; Legault urges all parties to back the PQ's cut in temporary immigration",
+      "lead": "A Synopsis poll for La Presse (13–16 November, 1,000 respondents) puts the Parti Québécois and Charles Milliard's Liberals tied at 31% each, La Presse and Noovo Info reported on 18 November.",
+      "text": "The Conservatives have 19%, Québec solidaire 12% and the CAQ 5%; La Presse says the PQ is up 3 points and the Liberals 7 points since the 5 October election, and that the result would still give a weaker PQ minority government. About 40% say Premier Paul St-Pierre Plamondon is most responsible for the current Quebec–Ottawa tensions, 21% say Prime Minister Mark Carney and 24% say both; 61% view Carney favorably, against 39% favorable and 43% unfavorable for St-Pierre Plamondon; and 54% say Ottawa should speak for all of Canada, including Quebec, abroad, while 37% say Quebec should speak for itself in its own fields (La Presse, Noovo Info). On best premier, St-Pierre Plamondon and Milliard are statistically tied, 27% to 26% (La Presse). The Qc125 seat projection is still dated 11 November. Separately, former premier François Legault on 17 November posted on X asking all parties to support the PQ's pledge to halve temporary immigration to between 200,000 and 250,000 people, saying the decline of French must be reversed; Statistics Canada estimated 531,821 non-permanent residents in Quebec on 1 July 2026 (Radio-Canada, citing The Canadian Press; Le Devoir).",
+      "sources": [
+        {
+          "name": "La Presse: Synopsis poll, \"Bisbille avec Québec : avantage Carney\" (French)",
+          "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/sondage-synopsis-la-presse/bisbille-avec-quebec-avantage-carney.php"
+        },
+        {
+          "name": "Noovo Info: who is to blame for Quebec–Ottawa tensions (French)",
+          "url": "https://www.noovo.info/nouvelles/politique/article/qui-est-responsable-des-tensions-entre-quebec-et-ottawa-pspp-selon-un-nouveau-sondage/"
+        },
+        {
+          "name": "Radio-Canada: Legault asks parties to back the PQ on immigration (French)",
+          "url": "https://ici.radio-canada.ca/article/info/2301298/immigration-legault-appelle-partis-appuyer-parti-quebecois"
+        },
+        {
+          "name": "Le Devoir: Legault and immigration (French)",
+          "url": "https://www.ledevoir.com/politique/quebec/1025822/legault-appelle-partis-appuyer-parti-quebecois-immigration"
+        },
+        {
+          "name": "Qc125: Quebec projection",
+          "url": "https://qc125.com/"
         }
       ]
     }
