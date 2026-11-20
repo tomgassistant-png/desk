@@ -1,7 +1,7 @@
 {
  "title": "Judea & Samaria Desk",
  "subtitle": "The Palestinian Authority, security, settlement and land in Judea and Samaria",
- "latest_count": 18,
+ "latest_count": 17,
  "items": [
   {
    "id": "2026-11-20-land-shira-city",
@@ -23,6 +23,27 @@
    ],
    "edition": "2026-11-20",
    "published": "2026-11-20T06:00:00+02:00",
+   "letter": "PA security: 20 Nov 2026"
+  },
+  {
+   "id": "2026-11-20-land-channel18-yered-clips",
+   "section": "land",
+   "highlight": true,
+   "headline": "Further Channel 18 clips: Elisha Yered calls for canceling the Oslo Accords and closing the Palestinian Authority; he says most incidents labeled settler violence are self-defense",
+   "summary": "Channel 18 Israel, a pro-settlement video channel founded by former U.S. ambassador David Friedman, posted further English-subtitled clips on 16 to 18 November from its interview of Elisha Yered, a hilltop youth leader, by Sam Schubert. The interview itself was already reported here on 12 and 15 November. In the later clips, Yered said that if he met Prime Minister Netanyahu he would call for the Oslo Accords to be canceled and for the Palestinian Authority to be closed, arguing that the accords \"cost us blood\" and that there are already \"almost thirty\" Jewish settlement points in Areas A and B (<a href=\"https://x.com/channel18israel/status/2122410428588249592\">Channel 18, 16 Nov</a>). He said Israeli military control should let citizens travel \"even in the heart of Arab cities,\" because \"if we don't control that area, the enemy will\" (<a href=\"https://x.com/channel18israel/status/2122294719845654725\">Channel 18, 16 Nov</a>). Those demands are his. A Haaretz report already on this edition also counts more than 30 sites set up in PA-controlled areas, without government or army approval; it does not confirm his policy argument. On sovereignty, Yered said, \"Anyone who supports terror — and I say this with sadness — that ninety-nine percent of the Arabs here shouldn't be here.\" He pointed to a post he said the Qusra municipality published on 8 October 2023 praising \"the martyrs of Gaza and the Hamas terrorists\" (<a href=\"https://x.com/channel18israel/status/2122438532962865383\">Channel 18, 16 Nov</a>); that municipal post was not independently confirmed for this item. In other clips he said 95 to 98 percent of incidents labeled \"settler violence\" are self-defense, mid-event filming, or sometimes \"a blatant lie,\" and described trying to film a field fire and a stone ambush with one hand already \"neutralized,\" for 15 seconds (<a href=\"https://x.com/channel18israel/status/2123076552346800629\">Channel 18, 18 Nov</a>; <a href=\"https://x.com/channel18israel/status/2123142635866947846\">Channel 18, 18 Nov</a>). Those percentages are his and are unconfirmed. He also said, \"If the state will not worry about me, then we will take care of our own security,\" and that he is not willing to take the risk that his wife will be \"the next victim\" (<a href=\"https://x.com/channel18israel/status/2123130328344633696\">Channel 18, 18 Nov</a>). Friedman reposted the 18 November filming clip. Schubert's own account has not posted a new interview since 13 November, only comments on this series.",
+   "source": "Channel 18 Israel / Elisha Yered / David Friedman",
+   "date": "2026-11-18",
+   "url": "https://x.com/channel18israel/status/2123142635866947846",
+   "places": [
+    {
+     "name": "Qusra",
+     "lat": 32.0843,
+     "lon": 35.3304,
+     "note": "Village point (approximate), as in earlier desk items; cited in Yered's claim about a municipal post"
+    }
+   ],
+   "edition": "2026-11-20",
+   "published": "2026-11-20T07:45:00+02:00",
    "letter": "PA security: 20 Nov 2026"
   },
   {
