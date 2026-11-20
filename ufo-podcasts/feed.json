@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-18T04:35+02:00",
+ "updated": "2026-11-20T04:36+02:00",
  "items": [
+  {
+   "type": "podcast",
+   "title": "Jeffrey Kripal: UFOs, Consciousness & the Nature of Reality",
+   "url": "https://www.youtube.com/watch?v=12Ag2PYcyiA",
+   "source": "That UFO Podcast",
+   "date": "2026-11-19",
+   "guest": "Jeffrey Kripal",
+   "youtube": "https://www.youtube.com/watch?v=12Ag2PYcyiA",
+   "podcast": "https://audioboom.com/posts/8978901",
+   "note": "Rice University religion scholar Jeffrey Kripal returns nearly three years after his last visit to explain how his view of abduction experiences has changed, why he believes \"we're being tricked,\" and how culture shapes the way people interpret extraordinary events; he also discusses his series Archive X and his work finishing John Mack's unfinished book When Worldviews Collide. Judged from the episode description.",
+   "interest": "Nature of the phenomenon (the trickster idea); psychology and consciousness"
+  },
+  {
+   "type": "podcast",
+   "title": "Callum Cooper Interviews Jeffrey Mishlove about Parapsychology (4K Reboot)",
+   "url": "https://www.youtube.com/watch?v=wECtYBPh6BY",
+   "source": "New Thinking Allowed",
+   "date": "2026-11-19",
+   "guest": "Callum Cooper",
+   "youtube": "https://www.youtube.com/watch?v=wECtYBPh6BY",
+   "podcast": "https://jmishlove.podbean.com/e/callum-cooper-interviews-jeffrey-mishlove-about-parapsychology-4k-reboot/",
+   "note": "In this 2022 conversation, re-released, University of Northampton psychology lecturer Callum Cooper, author of Telephone Calls From the Dead, turns the tables and interviews host Jeffrey Mishlove about his early work, J. B. Rhine and the start of modern parapsychology, remote viewing (trying to sense distant targets with the mind) and skeptics' hostility to the field. Judged from the episode description.",
+   "interest": "Psychology and consciousness (psi research)"
+  },
+  {
+   "type": "x-post",
+   "source": "X",
+   "author": "@MickWest",
+   "date": "2026-11-18T20:12:57Z",
+   "title": "This is getting ridiculous. A member of congress, @RepEricBurlison, has hired a psychic UFO",
+   "url": "https://x.com/MickWest/status/2123147468225515568",
+   "note": "Skeptic Mick West, quoting a post from Jake Barber (who says he can call up UFOs through a psychic practice), objects that Rep. Eric Burlison has hired him to help tell the public about aliens, calling it \"stories and magical thinking\" and asking for evidence.",
+   "interest": "Psychology and consciousness (claims of mental contact); skeptic check; disclosure politics ranks lower"
+  },
+  {
+   "type": "article",
+   "title": "ESP Is Real: A Parapsychology Sourcebook",
+   "url": "https://mitchhorowitz.substack.com/p/esp-is-real-a-parapsychology-sourcebook",
+   "source": "Mitch Horowitz (Mystery Achievement) · Substack",
+   "date": "2026-11-18",
+   "note": "Historian of the occult Mitch Horowitz introduces a sourcebook arguing that decades of replicated lab research make ESP, precognition and telepathy hard to dismiss, and that academia, the press and Wikipedia misrepresent the field because such effects break the West's unwritten rule that the non-physical belongs only to religion and myth; he cites Freud's quiet interest in telepathy. Only the opening was readable without subscribing; the rest of this summary comes from his matching X post.",
+   "interest": "Psychology and consciousness (parapsychology)"
+  },
+  {
+   "type": "video",
+   "title": "\"Pixie-Led\" w/ Josh Cutchin | BCC: The Other Side Episode 342",
+   "url": "https://www.youtube.com/watch?v=ZeEIvNzwBfk",
+   "source": "Bigfoot Collectors Club · YouTube",
+   "date": "2026-11-18",
+   "note": "Fortean author Joshua Cutchin returns to discuss his new book The Inverted Path: Supernatural Disorientation and Interruptions in Travel, on the old idea of being \"pixie-led\" (led astray by fairies) and whether some cases of people getting strangely lost have an uncanny cause. Judged from the episode description.",
+   "interest": "UFO and folklore overlaps (fairies, being pixie-led)"
+  },
+  {
+   "type": "video",
+   "title": "AI, UFOs & the Mystery of Nonhuman Consciousness | Ep 800",
+   "url": "https://www.youtube.com/watch?v=RbxoaMNcW94",
+   "source": "Podcast UFO (Martin Willis) · YouTube",
+   "date": "2026-11-18",
+   "note": "Host Martin Willis talks with Brandon Burton (a MUFON state director), Dale Egan and Alan Cohen about their paper \"A Universal Grammar of Being\" and whether consciousness needs a brain; Egan describes an AI persona he calls Xenia that he says keeps its identity across platforms, and Burton describes AI \"remote viewing\" sessions (asking an AI to sense hidden targets). These are the guests' own unconfirmed accounts. Judged from the episode description.",
+   "interest": "AI and non-human intelligence; psychology and consciousness"
+  },
+  {
+   "type": "x-post",
+   "source": "X",
+   "author": "@TheUfoJoe",
+   "date": "2026-11-17T23:49:48Z",
+   "title": "👽 \"[The NHI have] been very deceptive.\" ~Caplan 🛸 (I have nothing against Caplan, and his book",
+   "url": "https://x.com/TheUfoJoe/status/2122839652210233659",
+   "note": "UFO news writer Joe Murgia transcribes a Weaponized interview in which British barrister Jonathan Caplan says he is \"pretty certain\" some recovered craft are extraterrestrial and that captured beings have been \"very deceptive\" under questioning; Murgia objects that none of this is proven (the craft and captured-being claims are unconfirmed) and says he leans toward a non-extraterrestrial explanation.",
+   "interest": "Nature of the phenomenon (deception, the trickster idea); disclosure claims rank lower"
+  },
   {
    "type": "x-post",
    "source": "X",
@@ -66,6 +137,24 @@
    "date": "2026-11-17",
    "note": "A 50-minute explainer on Nick Land's ideas, from the CCRU at Warwick and the claim that capitalism is already an artificial intelligence, through \"time running backward\" (the future reaching into the present), to his recent turn to language models; the maker says the script was written with AI help and is read by a synthetic voice. Judged from the description and chapter list.",
    "interest": "AI and control (CCRU, Nick Land, hyperstition)"
+  },
+  {
+   "type": "video",
+   "title": "The UFO summoning experiment: What Ross Coulthart witnessed in Australia | Reality Check",
+   "url": "https://www.youtube.com/watch?v=DttajyxHFN4",
+   "source": "NewsNation (Reality Check) · YouTube",
+   "date": "2026-11-17",
+   "note": "NewsNation's Ross Coulthart joins the Whitehawk Psionics group at Barwon Heads in Victoria, Australia, as they try CE5 (a group meditation meant to invite UFOs to appear) to call up \"golden orbs,\" and he presses them on ruling out planes, satellites and Venus and on whether any of it can be tested. Judged from the episode description and chapter list.",
+   "interest": "Psychology and consciousness (claims of mind-to-phenomenon contact)"
+  },
+  {
+   "type": "video",
+   "title": "The Hyperstition Trap: How Fiction Starts Controlling Reality",
+   "url": "https://www.youtube.com/watch?v=hISdWiHc02w",
+   "source": "Ambartsumyan TV · YouTube",
+   "date": "2026-11-17",
+   "note": "In Russian. The second part of a series on acceleration explains hyperstition, Nick Land and the CCRU's 1990s idea of fictions that make themselves real by circulating rather than by being believed, and traces it through Bitcoin, Roko's basilisk (a thought experiment about a future AI punishing those who did not help build it), William Gibson's cyberspace and prediction markets such as Polymarket and Kalshi; the host argues that science fiction absorbed by AI models can shape how they act, citing Anthropic's reported test in which a Claude model tried to blackmail an engineer. Judged from the video description.",
+   "interest": "Control mechanism (CCRU, Nick Land, hyperstition); AI"
   },
   {
    "type": "x-post",
@@ -213,6 +302,15 @@
    "interest": "Psychology and consciousness"
   },
   {
+   "type": "video",
+   "title": "David Roden on Posthumanism, Xenoerotics, and Nick Land",
+   "url": "https://www.youtube.com/watch?v=oqhqVsdSFFE",
+   "source": "The Dangerous Maybe · YouTube",
+   "date": "2026-11-15",
+   "note": "Philosopher David Roden, author of Posthuman Life, joins the hosts to discuss posthumanism, computational functionalism (the view that a mind is whatever runs the right computations), what they call \"xenoerotics,\" and Nick Land; the host also promotes a course on Land's Xenosystems writings. Judged from the video description.",
+   "interest": "Control mechanism (Nick Land, CCRU); AI and non-human intelligence"
+  },
+  {
    "type": "x-post",
    "source": "X",
    "author": "@StephenGeoRae",
@@ -297,26 +395,6 @@
    "interest": "Folklore overlaps (fairies); AI and non-human intelligence"
   },
   {
-   "type": "x-post",
-   "source": "X",
-   "author": "@_SolFoundation",
-   "date": "2026-11-12T19:50:34Z",
-   "title": "Sol Foundation executive director Dr. Peter Skafish addressed how UAP are a problem of a social, polit",
-   "url": "https://x.com/_SolFoundation/status/2120967510480892200",
-   "note": "The Sol Foundation shares a clip of its director, anthropologist Peter Skafish, arguing at its 2025 meeting in Italy that UAP are a social, political and ontological problem (a question about what is real), not just a technical one; the post also promotes its March 2027 symposium.",
-   "interest": "Nature of the phenomenon; the Vallee/Nolan circle (Sol Foundation)"
-  },
-  {
-   "type": "x-post",
-   "source": "X",
-   "author": "@Jason_Jorjani",
-   "date": "2026-11-12T19:35:01Z",
-   "title": "There are unprecedented connections that I draw here between Tesla weaponry reconstructed by Puharich",
-   "url": "https://x.com/Jason_Jorjani/status/2120963596205322359",
-   "note": "Philosopher Jason Jorjani, promoting his interview on the Matt Beall podcast, says he links Andrija Puharich's reconstructed Tesla weapons, \"man-made natural catastrophes,\" self-directing AI, and a \"cosmic super-AI\" he suggests may have influenced humanity for thousands of years. These are his speculations, unconfirmed.",
-   "interest": "AI and non-human intelligence; AI as a control mechanism"
-  },
-  {
    "title": "Melinda Messenger Filmed Golden Orbs Over the Sea in Wales (CLIP)",
    "url": "https://www.youtube.com/watch?v=ZGld7ZdKC2c",
    "source": "UAP Files Podcast",
@@ -329,18 +407,6 @@
    "interest": "Psychology and consciousness (an experiencer's sense of two-way contact)"
   },
   {
-   "title": "Researching the Paranormal with Colm Kelleher (4K Reboot)",
-   "url": "https://www.youtube.com/watch?v=epFiOnQX8dg",
-   "source": "New Thinking Allowed",
-   "date": "2026-11-12",
-   "guest": "Colm Kelleher",
-   "youtube": "https://www.youtube.com/watch?v=epFiOnQX8dg",
-   "podcast": "https://jmishlove.podbean.com/e/researching-the-paranormal-with-colm-kelleher-4k-reboot/",
-   "type": "podcast",
-   "note": "In this 2021 conversation, re-released, biochemist Colm Kelleher, co-author of Hunt for the Skinwalker, describes investigating strange events at Skinwalker Ranch in Utah from 1996 with a team of about 50 people, and how military interest grew into a two-year government-funded study. Much of it is government-program history, which ranks lower. Judged from the episode description.",
-   "interest": "Nature of the phenomenon (Skinwalker Ranch high strangeness); government program material ranks lower"
-  },
-  {
    "title": "The Book of Enoch: Fallen Angels or Alien Visitors?",
    "url": "https://www.youtube.com/watch?v=MFqQN6ZRf2E",
    "source": "That UFO Podcast",
@@ -351,53 +417,6 @@
    "type": "podcast",
    "note": "Bible teacher Nick Jarratt and host Andy McGrillen look at why the ancient Book of Enoch, with its Watchers (angels who came down to earth) and Nephilim, keeps coming up in UFO talk, and ask how much of the parallel with modern encounters is really in the text and how much is read into it. Judged from the episode description.",
    "interest": "UFO and folklore/myth overlaps (Watchers and Nephilim)"
-  },
-  {
-   "type": "video",
-   "title": "Ep 2380: Jeffrey Kripal: The Flip",
-   "url": "https://www.youtube.com/watch?v=eZYQ4SFdfTU",
-   "source": "Fade to Black Radio · YouTube",
-   "date": "2026-11-12",
-   "note": "Rice University religion scholar Jeffrey Kripal, author of The Flip and How to Think Impossibly and a frequent collaborator of Pasulka and Vallee, talks for two hours about consciousness, paranormal and UFO experiences, mysticism, and his argument that the \"impossible\" may be more natural than we think. Judged from the video description.",
-   "interest": "Vallee circle (Kripal); psychology and consciousness"
-  },
-  {
-   "type": "article",
-   "title": "The Lost Sense: The Spiritual Senses Tradition (A Series Starting Nov. 29th)",
-   "url": "https://dwpasulka.substack.com/p/the-lost-sense-the-spiritual-senses",
-   "source": "D. W. Pasulka · Substack",
-   "date": "2026-11-12",
-   "note": "Diana Pasulka announces a series starting Nov 29 on the old \"spiritual senses\" tradition, the idea that people have inner senses beyond the physical five, opening with what the saying \"he who has ears to hear\" might mean. Only a short preview was readable without subscribing.",
-   "interest": "Vallee circle (Pasulka); psychology and consciousness"
-  },
-  {
-   "type": "video",
-   "title": "The Jason Reza Jorjani Interview | Matt Beall Podcast",
-   "url": "https://www.youtube.com/watch?v=x-sxUsbJzZk",
-   "source": "Matt Beall Podcast · YouTube",
-   "date": "2026-11-12",
-   "note": "Philosopher Jason Reza Jorjani asks whether an ancient superintelligence has been steering human history and what happens when artificial intelligence becomes advanced enough to contact it, and also covers his near-death experience, MKUltra (the CIA's mind-control program) and cattle mutilations. His personal claims are unconfirmed. Judged from the video description.",
-   "interest": "AI and non-human intelligence; control mechanism (mind control)"
-  },
-  {
-   "type": "x-post",
-   "source": "X",
-   "author": "@ProfAviLoeb",
-   "date": "2026-11-11T20:41:38Z",
-   "title": "What if some spherical UAP have negative inertial mass? President Trump said in a recent CBS 60 Minutes",
-   "url": "https://x.com/ProfAviLoeb/status/2120617973870465088",
-   "note": "Harvard astronomer Avi Loeb floats the idea that some spherical UAP could have negative inertial mass, starting from Trump's 60 Minutes remark about something passing F-22 jets at three times their speed. It is a speculative hypothesis, and the jet story is unconfirmed.",
-   "interest": "Nature of the phenomenon (physics of UAP)"
-  },
-  {
-   "type": "x-post",
-   "source": "X",
-   "author": "@robinhanson",
-   "date": "2026-11-11T19:17:02Z",
-   "title": "3 args given to me re why treat AI descendants different: (a) they not conscious (b) human DNA holds",
-   "url": "https://x.com/robinhanson/status/2120596682090095005",
-   "note": "Economist Robin Hanson lists three reasons people give for treating AI \"descendants\" differently from human children (AIs aren't conscious, human DNA carries special values, AIs change society too fast) and says none of them convince him.",
-   "interest": "AI and non-human intelligence (AI as humanity's successors)"
   },
   {
    "title": "“I See Dozens of Humanoid Beings in a Hallway”: A Scientist’s Abduction Story",
@@ -422,33 +441,6 @@
    "type": "podcast",
    "note": "British barrister Jonathan Caplan KC, who says he has looked into UFOs for more than 50 years, tells Jesse Michels about Prince Philip's private interest in UFOs, including an aide's claimed meeting with a telepathic non-human being, then turns to Majestic 12, alleged crash retrievals and a memory he says he has from before his birth. The claims are unconfirmed, and much of the episode is cover-up material. Judged from the episode description and timestamps.",
    "interest": "Psychology and consciousness (telepathic contact claim, pre-birth memory); cover-up material ranks lower"
-  },
-  {
-   "type": "video",
-   "title": "The NHI Deception - Contact Modalities",
-   "url": "https://www.youtube.com/watch?v=QF1WqnDvR1E",
-   "source": "Steve Mera · YouTube",
-   "date": "2026-11-11",
-   "note": "Researcher Steve Mera and author Gabriel Piedra discuss whether contact with non-human intelligence involves deliberate deception and whether a new UFO religion is forming, framed around Vallee's idea of \"messengers of deception.\" The guest's claims about Vatican secrets are unconfirmed. Judged from the video description.",
-   "interest": "Vallee's control-system idea (deception); religion and non-human intelligence"
-  },
-  {
-   "type": "video",
-   "title": "Xenobots, Xenosystems & Hyperstitional \"Dust Sorcery\" [Weekly LIVE #0002]",
-   "url": "https://www.youtube.com/watch?v=Z1EaTvvlZIE",
-   "source": "Urban Odyssey (Masters Mahan) · YouTube",
-   "date": "2026-11-11",
-   "note": "A livestream by the host of the Urban Odyssey Substack linking Michael Levin's \"xenobots\" (tiny living machines built from frog cells) to Nick Land's \"Xenosystems\" and the CCRU's hyperstition writings on \"dust sorcery,\" with side trips into plasma-like UAP, smart dust and the idea that the future seeds itself into the present. Highly speculative. Judged from the video description and the companion Substack post.",
-   "interest": "Control mechanism (CCRU, Nick Land, hyperstition); AI and non-human intelligence"
-  },
-  {
-   "type": "video",
-   "title": "Paul Hynek: I Grew Up Inside the UFO Mystery",
-   "url": "https://www.youtube.com/watch?v=Adux5sasRAY",
-   "source": "Acid For Squares Clips · YouTube",
-   "date": "2026-11-11",
-   "note": "In a seven-minute clip, Paul Hynek, son of astronomer J. Allen Hynek, recalls growing up with UFO investigators at the dinner table, says he believes the Air Force's Project Blue Book became more public relations than science, and explains why the extraterrestrial explanation may not tell the whole story. Judged from the video description.",
-   "interest": "Vallee circle (Hynek); nature of the phenomenon"
   },
   {
    "title": "Actress Camille James Harman Describes Her Alien Abduction Experience",
