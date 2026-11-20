@@ -1088,6 +1088,10 @@
     "2026-11-19": {
       "intro": "Israel: Bennett meets Netanyahu and backs a unity government with Eisenkot first, while the change-bloc leaders call for an Eisenkot-led emergency government; the Knesset passes preliminary readings to repeal the judicial and media laws; Otzma Yehudit files an appeal to void the election, and the Elections Committee tells the court Likud's main claim cannot disqualify votes. Also: Germany and Austria join the EU mission in Lebanon; Barrack welcomes a Sweida native as Syria's peace adviser; Colombia's president receives the Jerusalem Prize; a ministry warning on data-center pollution; a Celtic independence summit in Dublin; Denmark's final Greenland vote is due today; a manuscripts repository opens in Jammu; Xi greets Trump in Shenzhen ahead of the three-way meeting; and a new essay on Nick Land as a \"cold anarchist.\"",
       "quiet": "Weekly checks with nothing new: Belle Burden (only best-of-year lists already covered), Trenton (no new private-recovery story; a broker profile and city items only), HaShiloach (no new essay since 24 September in Hebrew and 28 October in English) and the Carney case (no trial or extradition news). Not researched today under the new schedule: France, SpaceX/xAI/Cursor, Brazil and Quebec; Marc Andreessen is covered by another assistant. On the EUSM Lebanon watch: no official Israeli reaction to the mission itself was found. Official Israeli election results were not rechecked today."
+    },
+    "2026-11-20": {
+      "intro": "Israel: Eisenkot reportedly plans a Knesset vote on his government before his mandate ends on 6 December, and Likud sets new unity talks for Sunday. Also: Israel strikes a Hezbollah missile site in the Beqaa while the UN Security Council meets on Lebanon; a fact-check on Israeli aid to Sweida; Xi and Trump agree on an action plan, and the three-way Shenzhen declaration on nuclear war; and Net Void's \"Cyphers Legion\" idea.",
+      "quiet": "Election-interference watch: no new ruling, filing or official finding, so no separate item; Likud's appeal deadline is Sunday, 22 November. EUSM Lebanon watch: no official Israeli reaction and no new contributor found."
     }
   },
   "items": [
@@ -14053,6 +14057,182 @@
         {
           "name": "Nikkei Asia: APEC live page",
           "url": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-plenary-session-ends-stage-set-for-trump-xi-putin-trilateral"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-israel-election-1",
+      "edition": "2026-11-20",
+      "section": "israel-election",
+      "headline": "Eisenkot reportedly plans to put his government to a Knesset vote before his mandate runs out on 6 December, even as a minority government; Likud sets a second round of unity talks for Sunday",
+      "lead": "ynet reported on Thursday, 19 November, that Yashar! leader Gadi Eisenkot does not intend to return the mandate to President Isaac Herzog without first bringing a government to a vote in the Knesset plenum, even a minority government of the change bloc that relies on Ra'am's support from outside.",
+      "text": "According to the ynet report by Amir Ettinger, Eisenkot would take this step even if talks on a unity government with Likud and on a government with United Torah Judaism both fail. The Times of Israel, citing Haaretz, reported that he would hold the vote up to a week before his mandate expires on 6 December; Herzog can extend the mandate by two weeks, but his party is not counting on it. Eisenkot received the mandate on 8 November. Ra'am leader Mansour Abbas said on 17 November, in an interview with Radio Nas reported by i24NEWS in Arabic, that a minority government without the Haredi parties is a \"very dangerous scenario\" that could not last, though he added that every option his party discusses with the change bloc aims to replace Netanyahu's government and avoid another election. Likud answered the report by announcing that its negotiating team will meet Yashar!'s team again on Sunday, 22 November, after their first meeting on Tuesday; it said \"national unity is the need of the hour\" but accused Eisenkot of pursuing unity \"only for appearances\" (Srugim). ynet reported that people in both camps are discussing a rotation in which Netanyahu would serve two years as prime minister and then move to the President's Residence, with a change in the law so the next president could be elected before the government is sworn in; this is a report of an idea under discussion, not a proposal by either party. In the Knesset, Yisrael Beytenu faction chair Oded Forer, with the heads of the change bloc's Zionist factions, tabled a Basic Law bill that would limit a prime minister to eight years, bar a Knesset member indicted for serious crimes from being given the task of forming a government, and end a prime minister's term if his offenses are found to involve moral turpitude (Srugim). Eisenkot also announced that the change bloc will back retired Supreme Court Justice Yosef Elron for state comptroller in the repeat vote ordered after the High Court found a flaw in the June vote (Srugim). On the election-interference watch, there was no new ruling, filing or official finding. People close to Shin Bet chief David Zini said on Thursday that he did not determine that no vote-buying took place, that \"significant suspicions\" exist but have not become a sufficient evidentiary basis, partly because of limits placed on the investigation, and that a letter by Elections Committee chair Justice Noam Sohlberg should not be read as Zini's position; senior law-enforcement officials told N12 that the Shin Bet itself delayed passing material to the police fraud unit, and people close to Sohlberg said the letter had been coordinated with the Shin Bet (N12). Likud's deadline to file its election appeal remains Sunday, 22 November; no filing was reported by early Friday.",
+      "sources": [
+        {
+          "name": "ynet (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/b1rjvt2rgl"
+        },
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/eisenkot-said-planning-vote-on-new-government-before-mandate-ends-even-without-majority/"
+        },
+        {
+          "name": "i24NEWS (Arabic)",
+          "url": "https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/israeli-election-2026/artc-596865d2"
+        },
+        {
+          "name": "Srugim (Hebrew)",
+          "url": "https://www.srugim.co.il/101016674-בליכוד-אישרו-פגישת-מומ-נוספת-עם-איזנקוט"
+        },
+        {
+          "name": "ynet (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/sjtolt2azg"
+        },
+        {
+          "name": "Srugim (Hebrew)",
+          "url": "https://www.srugim.co.il/101016646-הוגש-החוק-שימנע-מנתניהו-להרכיב-ממשלה"
+        },
+        {
+          "name": "Srugim (Hebrew)",
+          "url": "https://www.srugim.co.il/101016669-איזנקוט-הודיע-זה-מועמד-גוש-השינוי-לתפקיד"
+        },
+        {
+          "name": "N12 (Hebrew)",
+          "url": "https://www.mako.co.il/news-politics/2026_q4/Article-6c23ed51293f1a1026.htm"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-lebanon-1",
+      "edition": "2026-11-20",
+      "section": "lebanon",
+      "headline": "Israel strikes a Hezbollah missile site in Lebanon's Beqaa Valley, its second strike in eastern Lebanon this week; the UN Security Council meets on Lebanon behind closed doors with no decision announced on what follows UNIFIL",
+      "lead": "The Israeli Air Force struck the entrances to an underground site near the town of Janta in the Beqaa Valley on Thursday evening, 19 November, which the IDF says Hezbollah used to make missiles and store weapons.",
+      "text": "The IDF said it had recently seen Hezbollah operatives returning to the site, which it struck several times during the war, and that it hit the entrances \"to prevent its rehabilitation\"; there were no immediate reports of casualties (Times of Israel; Srugim). The Times of Israel called it the second Israeli strike in the Beqaa within days, after a strike on Monday on a weapons shipment from Syria. Lebanon's official National News Agency reported four strikes on the al-Shaara area in the heights of the eastern mountain range. The Security Council held closed consultations on Lebanon on Thursday evening, with briefings from UN peacekeeping chief Jean-Pierre Lacroix and Jean Arnault, acting head of the UN special coordinator's office, on the Secretary-General's report for 21 June to 20 October; the Council renewed its support for UNIFIL and urged all sides to protect UN personnel (An-Nahar). No decision on France's plan for a force to follow UNIFIL was reported; Lebanese papers had reported competing French and US-backed proposals before the meeting (Daily Lebanon). The National News Agency also reported a change of command in UNIFIL's eastern sector and the Spanish battalion at Ibl al-Saqi, which it called the last rotation of Spanish units. No official Israeli reaction to the EU Support Mission in Lebanon and no new contributing country were found.",
+      "sources": [
+        {
+          "name": "Times of Israel",
+          "url": "https://www.timesofisrael.com/air-force-bombs-entrances-to-underground-hezbollah-missile-site-in-east-lebanon-idf/"
+        },
+        {
+          "name": "Srugim (Hebrew)",
+          "url": "https://www.srugim.co.il/101016689-לראשונה-מזה-חודשים-צהל-תקף-יעדי-חיזבאללה"
+        },
+        {
+          "name": "National News Agency (Arabic)",
+          "url": "https://nna-leb.gov.lb/ar/news/short/575136"
+        },
+        {
+          "name": "An-Nahar (Arabic)",
+          "url": "https://www.annahar.com/lebanon/368185/%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1-1701-%D9%88%D9%8A%D8%AC%D8%AF%D8%AF-%D8%AF%D8%B9%D9%85%D9%87-%D9%84%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%81%D9%8A%D9%84-%D9%88%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86"
+        },
+        {
+          "name": "Daily Lebanon",
+          "url": "https://www.dailylebanon.com/en/news/security-council-to-discuss-unifil-withdrawal-and-resolution-1701-lebanese-newsp"
+        },
+        {
+          "name": "National News Agency (Arabic)",
+          "url": "https://nna-leb.gov.lb/ar/news/short/575143"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-lebanon-2",
+      "edition": "2026-11-20",
+      "section": "lebanon",
+      "headline": "Sweida (Syria): a fact-checker finds no Yedioth Ahronoth report that Israel cut its aid to Sweida to $25 a month, a claim spread on social media since 17 November",
+      "lead": "The Syrian fact-checking platform Verify-Sy (Taakad) rated as false posts on Facebook and X claiming that Yedioth Ahronoth had revealed a cut in Israeli financial support to Sweida to $25 a month and an end to other aid.",
+      "text": "Verify-Sy said a search of Yedioth's site in Arabic, English and Hebrew, and of other Israeli and international media, found no such report. It noted that Yedioth has separately described reduced aid to the Syrian Druze as one of the issues in the security talks between Damascus and Israel, without any final decision or new amount, and that the Washington Post reported in December 2025 that Israel paid about 3,000 Druze fighters in Sweida $100 to $200 a month (both as summarized by Verify-Sy; not checked separately today). This is a single fact-check. No new Israeli government statement on Sweida or the Israeli Druze was found.",
+      "sources": [
+        {
+          "name": "Verify-Sy (Arabic)",
+          "url": "https://www.verify-sy.com/ar/factcheck/yedioth-ahronoth-israel-sweida-aid-25-dollars-claim"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-cypherboria-1",
+      "edition": "2026-11-20",
+      "section": "cypherboria",
+      "headline": "Net Void floats a \"Cyphers Legion\" initiation and \"Synx\" as a dating-app name; Land calls MAGA \"Reactionary Futurism\" and says \"Off-planet is the new New World\"",
+      "lead": "On 19 November Net Void (@Net__Void) asked followers for \"thoughts on cyphers legion initiation and synx as a dating app name?\" in a post with a short video and a Discord invite link, then added that it was \"a joke… or is it?\" and that she has \"always felt like being properly initiated into gematria like a proper guild.\"",
+      "text": "Synx is the cipher used on the Cyphers calculator. The idea grew out of a joking exchange: patallax wrote that \"Cyphers news is a novel dating app = 333 QWERTY,\" Anomaly of the Elected warned that \"the angel-number hypergamy is going to be brutal,\" and the @CyphersNews account reposted both. Nick Land, replying to a reader on 19 November, wrote that \"MAGA is (the American version of) Reactionary Futurism, or Neo-Fordism (tight labor-market technocapitalism).\" Quoting a post on SpaceX's costs for computing power in space, he wrote \"The logistics of Capital Escapology\" and \"Off-planet is the new New World. The future of freedom will be built there\"; Net Void quoted it with \"what happens if you're a KJV biblical flat earther though.\" On a report that the King said the Church of England should protect \"every belief,\" Land wrote: \"Institutionalized insanity of the Anglo approaches its perfection.\" He also said he \"enjoyed\" The Three-Body Problem. xenqlemur (formerly acadianlemur) posted gematria values and a short video captioned \"Cashing out metaphysics in the hypercasino\" (video not watched). Doomcrypt posted mostly reposts and a quote captioned \"The Demiurge, when creating the physical universe.\" resonatingloop posted only personal posts; her last Substack note (18 November) was already covered. There is no new @net__void TikTok video (the public embed still lists only 7614601846405008662), no TikTok link in her X posts, and no new upload on the Cyphers YouTube channel since 9 November. The Discord link was not opened.",
+      "sources": [
+        {
+          "name": "Net Void on X",
+          "url": "https://x.com/Net__Void/status/2123496591680307218"
+        },
+        {
+          "name": "Net Void on X (reply)",
+          "url": "https://x.com/Net__Void/status/2123496997235904773"
+        },
+        {
+          "name": "patallax on X",
+          "url": "https://x.com/patallax/status/2123359974659064043"
+        },
+        {
+          "name": "Nick Land on X (MAGA)",
+          "url": "https://x.com/xenocosmography/status/2123403517264294120"
+        },
+        {
+          "name": "Nick Land on X (off-planet)",
+          "url": "https://x.com/xenocosmography/status/2123353220152254637"
+        },
+        {
+          "name": "Net Void on X (KJV)",
+          "url": "https://x.com/Net__Void/status/2123384388230455794"
+        },
+        {
+          "name": "Nick Land on X (Church of England)",
+          "url": "https://x.com/xenocosmography/status/2123405463970812319"
+        },
+        {
+          "name": "xenqlemur on X",
+          "url": "https://x.com/xenqlemur/status/2123606354459787407"
+        },
+        {
+          "name": "Doomcrypt on X",
+          "url": "https://x.com/doomcrypt/status/2123505749720703219"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-cypherboria-2",
+      "edition": "2026-11-20",
+      "section": "cypherboria",
+      "headline": "Late find: a Finnish podcast, Negotiator episode 419, \"Nick Land and the USA,\" walks through Land and Curtis Yarvin the day after the US midterms",
+      "lead": "Sami Miettinen's Finnish podcast Neuvottelija (Negotiator) published episode 419 with Bitcoin specialist Thomas Brand on 5 November, with an English write-up that separates the speakers' views from checked facts.",
+      "text": "Brand presents Land's and Yarvin's ideas as an explainer, not an adherent: Bitcoin as \"inhuman\" money, the Dark Enlightenment, forms of accelerationism, Roko's basilisk and Albert Hirschman's exit and voice, and argues that the midterms do not change the underlying direction. Brand says two of Land's works have just come out in Finnish (his claim; not confirmed today). Land is the subject, not a guest. The episode was missed by earlier editions.",
+      "sources": [
+        {
+          "name": "Neuvottelija",
+          "url": "https://www.neuvottelija.com/ai/ep419-nick-land-ja-usa-thomas-brand/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20-trump-and-xi-1",
+      "edition": "2026-11-20",
+      "section": "trump-and-xi",
+      "headline": "Shenzhen: Xi and Trump agree to draft an \"action plan\" for their relationship, and the three leaders' joint declaration says a nuclear war \"cannot be won\" and pledges UN reform and more refined-fuel output",
+      "lead": "Xi Jinping met Donald Trump in Shenzhen on the afternoon of 19 November, and both sides called the meeting positive and constructive and agreed to draw up an action plan for a \"constructive strategic stability relationship,\" according to China's Foreign Ministry.",
+      "text": "The Chinese readout says Xi asked Washington to \"do the right thing\" on Taiwan and called for cooperation on AI safety, \"ensuring that AI always remains under human control\"; it quotes Trump as saying the United States does not support Taiwan independence. Lianhe Zaobao notes that this line did not appear in the US public account of the meeting. Zaobao reports the meeting lasted about an hour and was their third this year, after Beijing in May and Washington in September; Trump cited the \"30 for 30\" tariff framework, in which each side cuts tariffs on about $30 billion of goods, and China's Commerce Ministry said the agriculture working group of the US–China trade council will meet soon. In the separate three-way \"Heads of State Declaration toward Peace,\" published by the White House, Trump, Xi and Vladimir Putin committed to reform the UN, said they plan to increase production and supply of refined petroleum products, said the International Criminal Court and similar bodies \"must not abuse their jurisdiction,\" and reaffirmed that \"a nuclear war cannot be won and must never be fought,\" with a three-way dialogue on reducing nuclear risks. CNBC noted the statement does not mention Russia's war in Ukraine or the US war with Iran.",
+      "sources": [
+        {
+          "name": "China Foreign Ministry (Chinese)",
+          "url": "https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202611/t20261119_12062924.shtml"
+        },
+        {
+          "name": "Lianhe Zaobao (Chinese)",
+          "url": "https://www.zaobao.com.sg/news/china/story20261119-10026769"
+        },
+        {
+          "name": "The White House",
+          "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
         }
       ]
     }
