@@ -1108,6 +1108,10 @@
     "2026-11-20": {
       "intro": "Israel: Eisenkot reportedly plans a Knesset vote on his government before his mandate ends on 6 December, and Likud sets new unity talks for Sunday. Also: Israel strikes a Hezbollah missile site in the Beqaa while the UN Security Council meets on Lebanon; a fact-check on Israeli aid to Sweida; Xi and Trump agree on an action plan, and the three-way Shenzhen declaration on nuclear war; and Net Void's \"Cyphers Legion\" idea. France: two new polls put Mélenchon clearly second as the Greens' Tondelier offers to work on a coalition behind him, and the National Rally's headquarters was searched in a leaks inquiry. SpaceX, xAI and Cursor: Grok Bot 1.2.3, xAI's appeal hearing on California's training-data law, a Texas county's refusal of a SpaceX tax break, Starship debris in Mexico, and Musk's Starshield dispute with Zelensky. Brazil: Lula signs the decree ending the six-day work week, the fiscal package heads to a Chamber vote Monday as the dollar hits R$5.93, and the Supreme Court sets the Dosimetry Law for 4–15 December. Quebec: a $65 billion gap in the infrastructure plan, and a Synopsis poll ties the PQ and Liberals at 31%.",
       "quiet": "Election-interference watch: no new ruling, filing or official finding, so no separate item; Likud's appeal deadline is Sunday, 22 November. EUSM Lebanon watch: no official Israeli reaction and no new contributor found."
+    },
+    "2026-11-21": {
+      "intro": "Israel: Eisenkot says he will bring a government he leads to a Knesset vote and form an emergency government if broad talks fail, while Likud's reported unity terms keep Netanyahu as prime minister for the whole term. Also: Trump's Independence Day message to Lebanon's president and new Israeli strikes in the south; displaced Sweida residents protest; Bessent says Trump and Xi agreed humans must take part in military AI decisions; and a new AQ search tool in Cypherboria.",
+      "quiet": "Election-interference watch: no new ruling, filing or official finding, so no separate item; Likud's appeal deadline is Sunday, 22 November. EUSM Lebanon watch: no official Israeli reaction and no new contributor found."
     }
   },
   "items": [
@@ -14641,6 +14645,202 @@
         {
           "name": "Qc125: Quebec projection",
           "url": "https://qc125.com/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-israel-election-1",
+      "edition": "2026-11-21",
+      "section": "israel-election",
+      "headline": "Eisenkot says he will bring a government he leads to a Knesset vote and form a \"national emergency government\" if talks on a broad coalition fail; Netanyahu answers that \"responsibility is unity,\" and Likud's reported terms include Netanyahu as prime minister for the whole term",
+      "lead": "Yashar! leader Gadi Eisenkot wrote on Friday, 20 November, that he does not intend \"to drag out time\" and that \"at the right time\" he will bring a new government led by him to the Knesset for approval, confirming in his own words a ynet report from the day before.",
+      "text": "\"This is not a threat for negotiating purposes,\" Eisenkot wrote; if his efforts to form a broad government fail, he intends to form a \"national emergency government\" and to widen it before or after it is sworn in, and every Knesset member will have to decide between a new government and another election \"while Netanyahu is still caretaker prime minister\" (ynet; Srugim). He said talks with the Haredi parties seek a military-service outline based on Yashar!'s \"service for all\" plan, and that with Likud there is \"a great distance between the rhetoric and the deeds,\" though he will give those talks another chance; the party leaders also agreed to bring retired Justice Yosef Elron's appointment as state comptroller to a vote in the coming days (Srugim). ynet says the emergency option would be a minority government of the change bloc that counts on Ra'am's support from outside without a coalition deal; the Joint List has said it will not oppose replacing Netanyahu's government, and Yisrael Beytenu chair Avigdor Liberman has said he will vote against such a government and not even abstain. New Yisrael Beytenu MK Sharon Sharabi wrote on X that he will not be part of a coalition that relies on \"terror supporters,\" \"from inside or outside\" (Srugim). Prime Minister Benjamin Netanyahu said the same day that he had briefed Eisenkot, Naftali Bennett and Liberman on \"the challenging security situation,\" that \"we are standing at a historic crossroads; there is no spin here and no exaggeration,\" and that \"what is required now is responsibility, and responsibility is unity\"; he again called the Arab parties' Knesset members \"terror supporters\" and said the effort to form a narrow government relying on them must stop at once (ynet). ynet notes that Liberman's briefing was given by Netanyahu's military secretary, Maj. Gen. Guy Markizano, not by Netanyahu. In a Saturday analysis, ynet reports, citing people in Eisenkot's bloc, that Likud's offer for a unity government has five main conditions: Netanyahu stays prime minister for the government's whole term, no state commission of inquiry, a draft law along the lines of Boaz Bismuth's bill, Itamar Ben Gvir's party in the government, and the judicial-overhaul laws passed by the last Knesset stay in place. A Likud source involved in the talks denied part of that list but did not deny that Netanyahu wants to serve the whole term; a Times of Israel headline reports the same two main demands (article text not read). The Likud and Yashar! negotiating teams are due to meet again on Sunday, 22 November. ynet adds that even a deal with United Torah Judaism would not reach 61 seats without Shas. No coalition agreement has been signed and no government has been formed. On the election-interference watch, there was no new court ruling, filing or official finding: the Jerusalem District Court has not ruled on Otzma Yehudit's appeal, and no Likud appeal had been reported filed by early Saturday, with Likud's deadline on Sunday, 22 November.",
+      "sources": [
+        {
+          "name": "ynet: Eisenkot's post (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/hk1356prmx"
+        },
+        {
+          "name": "Srugim: Eisenkot's next step (Hebrew)",
+          "url": "https://www.srugim.co.il/101016724-איזנקוט-בהודעה-רגע-לפני-השבת-זה-הצעד-הבא"
+        },
+        {
+          "name": "ynet: Netanyahu to Eisenkot, Bennett and Liberman (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/b1sa3ia0ze"
+        },
+        {
+          "name": "ynet: three paths, all hard (Hebrew)",
+          "url": "https://www.ynet.co.il/news/article/hkzpjmrrfx"
+        },
+        {
+          "name": "Srugim: Sharon Sharabi (Hebrew)",
+          "url": "https://www.srugim.co.il/101016719-שרון-שרעבי-מבהיר-לא-אהיה-שותף-לקואליציה"
+        },
+        {
+          "name": "Hezki Baruch on X: Eisenkot's post (Hebrew)",
+          "url": "https://x.com/HezkeiB/status/2123774034814881825"
+        },
+        {
+          "name": "Times of Israel feed: Likud's reported demands (headline)",
+          "url": "https://www.timesofisrael.com/feed/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-lebanon-1",
+      "edition": "2026-11-21",
+      "section": "lebanon",
+      "headline": "On the eve of Lebanon's Independence Day, Trump urges President Aoun to \"seize this opportunity\" and Prime Minister Salam says only the state may hold weapons; Israeli strikes hit Kfar Tebnit and Haddatha in the south",
+      "lead": "In a message to President Joseph Aoun before Lebanon's 83rd Independence Day on 22 November, President Donald Trump wrote that Lebanon has \"an opportunity to launch a new renaissance under your leadership,\" praised \"the brave decisions your government has taken\" and urged him \"to seize this opportunity\" (An-Nahar, quoting the cable).",
+      "text": "Prime Minister Nawaf Salam said independence \"is not complete without recovering all of our land\" and requires that the state alone decide on war and peace, \"with no weapons outside it.\" Aoun is to address the Lebanese at 6 p.m. on Saturday, 21 November, at a flag-raising at Nahr al-Kalb (National News Agency on X; An-Nahar). An-Nahar reports no clear outcome yet from US–French talks on what follows UNIFIL when it leaves at the end of the year, but says Lebanese hopes have grown since France advanced a formula for a continued international presence; US Ambassador Michel Issa discussed the post-UNIFIL options with Defense Minister Michel Menassa, who said the framework agreement must be applied, starting with an end to daily Israeli attacks and then withdrawal. On the five Hezbollah members charged this week, An-Nahar's sources say the cell in the north was doing field reconnaissance and was not the only such group, and an official source said documents seized from the five gave enough evidence to charge them; Hezbollah MP Hussein Hajj Hassan called the arrests arbitrary and the charges baseless. On Friday, 20 November, Israeli aircraft struck Kfar Tebnit in the Nabatieh district twice, artillery hit Mansouri, Majdal Zoun and Bani Hayyan, and drones flew over Beirut (Arab48, citing the National News Agency); the agency later reported a third strike on Haddatha. No IDF statement on these strikes was found. Arab48 cites the Lebanese Health Ministry's count of at least 4,390 killed since 2 March (ministry figure, not checked separately). No official Israeli reaction to the EU Support Mission in Lebanon and no new contributing country were found.",
+      "sources": [
+        {
+          "name": "An-Nahar: Trump's message to Aoun (Arabic)",
+          "url": "https://www.annahar.com/lebanon/368457/ترامب-يذكر-عون-بالفرصةورسالة-رئاسية-اليوم-خلية-الشمال-استطلاعية-ولم-تكن-الأولى"
+        },
+        {
+          "name": "National News Agency on X: Aoun's address (Arabic)",
+          "url": "https://x.com/NNALeb/status/2123758981068030239"
+        },
+        {
+          "name": "Arab48: strikes in south Lebanon (Arabic)",
+          "url": "https://www.arab48.com/أخبار-عربية-ودولية/أخبار--الوطن-العربي/2026/11/20/غارات-إسرائيلية-على-جنوبي-لبنان-وتحليق-مسيرة-في-أجواء-بيروت"
+        },
+        {
+          "name": "National News Agency on X: third strike on Haddatha (Arabic)",
+          "url": "https://x.com/NNALeb/status/2123850388172423378"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-lebanon-2",
+      "edition": "2026-11-21",
+      "section": "lebanon",
+      "headline": "Sweida (Syria): Druze residents displaced from 36 villages protest in Sweida city, demanding to go home and the release of detainees",
+      "lead": "Dozens of residents displaced from villages in the western and northern Sweida countryside held a peaceful protest at the al-Omran roundabout in Sweida city on Friday, 20 November, asking the international community and the guarantor states to press for their safe return (Suwayda 24, a local network; Enab Baladi).",
+      "text": "Enab Baladi reports that the call went out to the people of 36 villages, now held by Syrian government forces, who have been displaced since the July 2025 fighting; protesters carried signs such as \"Homes are not spoils\" and \"The right of return does not lapse with delay.\" One protester addressed Sheikh Hikmat al-Hijri, saying the sheikh has done much for Sweida \"but we went hungry and thirsty and we want our villages,\" and asked for a clear date for their return; a notable from the western countryside called for a political leadership to represent the residents and for the release of detainees, saying people's lives should not be used as bargaining chips. Enab Baladi, citing the local platform al-Rased, says some protesters blocked the main road at the northern entrance to Sweida city in both directions (single report). No new Israeli government statement on Sweida or the Israeli Druze was found.",
+      "sources": [
+        {
+          "name": "Suwayda 24 on X (Arabic)",
+          "url": "https://x.com/suwayda24/status/2123744379340775601"
+        },
+        {
+          "name": "Enab Baladi (Arabic)",
+          "url": "https://www.enabbaladi.net/834229/%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d8%a7%d8%a1-%d9%88%d9%82%d9%81%d8%a9-%d8%aa%d8%b7%d8%a7%d9%84%d8%a8-%d8%a8%d8%b9%d9%88%d8%af%d8%a9-%d8%a3%d9%87%d8%a7%d9%84%d9%8a-36-%d9%82%d8%b1%d9%8a%d8%a9/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-cypherboria-1",
+      "edition": "2026-11-21",
+      "section": "cypherboria",
+      "headline": "A day after Net Void's \"Synx\" dating-app joke, Musk floats \"Singularity dot Com\"; a new tool finds AQ matches in whole books; Truth is Christ announces a \"KJV Study\" site, which Net Void calls the \"best news heard all year\"",
+      "lead": "On 20 November Elon Musk posted \"Hear me out: 'Singularity dot Com', a dating site for digital superintelligences,\" the day after Net Void (@Net__Void) asked followers about \"Synx as a dating app name\"; xenqlemur (formerly acadianlemur) tagged her under it, and she replied, \"lol thanks for tagging me I was legit like no way what a coincidence,\" then \"Have officially unmuted him today.\"",
+      "text": "Cyphers News (@CyphersNews) answered Musk with an image and, quoting another Musk post, wrote \"then we are the pythagoreans and plato's academy scholars out here,\" which Net Void reposted; patallax replied \"Hyperstitioning Warpplex as a concept.\" Cyphers News also reposted a new tool by Immanuel (@xenoautomaton), published on 19 November: findaq, a free in-browser app and Python program that finds every run of consecutive words in a text whose Alphanumeric Qabbala (AQ) values add up to a chosen number, with the King James Bible and other texts ready to load; he says it scans the whole Bible in about two seconds and that it showed AQ(\"And God said, Let there be light: and there was light\") = 777 (his claims; the app page and its GitHub code, created 19 November, were opened). Cyphers wrote, \"Fascinating have got to try this.\" Devaraj Sandberg posted \"KJV gematria fans - Brandon has a new website up,\" linking a new Truth is Christ page for \"KJV Study,\" which the page itself marks \"Coming soon\": a free Bible-study platform with cross references, memorization, maps, notes, study paths and 3D study rooms. Net Void quoted it with \"Best news heard all year,\" and Doomcrypt reposted it. Nick Land wrote, quoting a post by EndWokeness, \"We're now well into the emergency sensory deprivation stage of regime death,\" and in another post: \"God: 'Right and not-right.' Left: 'Don't misgender us fascist!' Off we go.\" resonatingloop posted an image captioned \"xenochrony\" and mostly reposts about AI agents; xenqlemur posted \"Good morning Lemurians\" and reposts about a project called Shrine. There is no new @net__void TikTok video (the public embed still lists only 7614601846405008662), no TikTok link in her X posts, no new upload on the Cyphers or Net Void YouTube channels, no new Mortal_Series post since 18 November, no new resonatingloop Substack note since 18 November, and Retrochronic is unchanged (v1.0.176, 199 sources). Net Void's X account now reads as public.",
+      "sources": [
+        {
+          "name": "Elon Musk on X",
+          "url": "https://x.com/elonmusk/status/2123852660688494744"
+        },
+        {
+          "name": "Net Void on X (coincidence)",
+          "url": "https://x.com/Net__Void/status/2123862221805461988"
+        },
+        {
+          "name": "Net Void on X (unmuted)",
+          "url": "https://x.com/Net__Void/status/2123862786266796329"
+        },
+        {
+          "name": "Cyphers News on X (Pythagoreans)",
+          "url": "https://x.com/CyphersNews/status/2123870722489827511"
+        },
+        {
+          "name": "patallax on X",
+          "url": "https://x.com/patallax/status/2123872012766793867"
+        },
+        {
+          "name": "xenoautomaton on X: findaq",
+          "url": "https://x.com/xenoautomaton/status/2123503999081181577"
+        },
+        {
+          "name": "findaq app",
+          "url": "https://megagimen.github.io/findaq/"
+        },
+        {
+          "name": "findaq code on GitHub",
+          "url": "https://github.com/MegaGimen/findaq"
+        },
+        {
+          "name": "Cyphers News on X (findaq)",
+          "url": "https://x.com/CyphersNews/status/2123909718699553187"
+        },
+        {
+          "name": "Devaraj Sandberg on X",
+          "url": "https://x.com/devaraj227/status/2123763764709204206"
+        },
+        {
+          "name": "Truth is Christ: KJV Study",
+          "url": "https://truthischrist.com/kjv-study/"
+        },
+        {
+          "name": "Net Void on X (KJV Study)",
+          "url": "https://x.com/Net__Void/status/2123851768694034772"
+        },
+        {
+          "name": "Nick Land on X (regime death)",
+          "url": "https://x.com/xenocosmography/status/2123754708724789687"
+        },
+        {
+          "name": "Nick Land on X (right and not-right)",
+          "url": "https://x.com/xenocosmography/status/2123822610597457929"
+        },
+        {
+          "name": "resonatingloop on X",
+          "url": "https://x.com/resonatingloop/status/2123929240903336246"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-cypherboria-2",
+      "edition": "2026-11-21",
+      "section": "cypherboria",
+      "headline": "Late find: physicist Steve Hsu's Manifold podcast, episode 124, opens with Nick Land in a Q&A after a University of Chicago screening of the film \"Machine God\"",
+      "lead": "Steve Hsu published Manifold episode 124 on 5 November: audio of a Q&A after a private screening of the film \"Machine God\" that the University of Chicago's student AI club held on 24 October.",
+      "text": "The first chapter is titled \"Nick Land.\" Asked how he came to know Land's work, Hsu says he has exchanged ideas with Land on X \"for many years,\" more than ten, first met him in person at an event in the Bay Area \"which is on film,\" and that Land has been \"adopted as a kind of patron saint or leader of the accelerationist movement\" and is \"highly revered\" by Silicon Valley's \"power elite.\" Later chapters cover Marc Andreessen and accelerationism, doomers and control, and AI as a new religion. Hsu refers to \"our film\"; his exact role in making it was not confirmed today. Land is the subject of the opening question, not a guest. Earlier editions missed this episode.",
+      "sources": [
+        {
+          "name": "Steve Hsu, Information Processing (Substack)",
+          "url": "https://stevehsu.substack.com/p/machine-god-at-the-university-of"
+        },
+        {
+          "name": "Manifold: episode 124 transcript",
+          "url": "https://www.manifold1.com/episodes/machine-god-at-the-university-of-chicago-124/transcript"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-trump-and-xi-1",
+      "edition": "2026-11-21",
+      "section": "trump-and-xi",
+      "headline": "After Shenzhen: Trump says he and Xi agreed on shared \"guardrails\" for superintelligence, and Bessent says they agreed humans must always take part in military AI decisions",
+      "lead": "At a White House news conference on 20 November after his Asia trip, President Trump said he and Xi Jinping agreed to set up common guardrails for superintelligence, the administration's term for AI, and he announced that US companies will not be allowed to build data centers abroad (Voice of America Chinese).",
+      "text": "Treasury Secretary Scott Bessent told CNBC the same day that the two leaders agreed that \"humans should always be involved in any military decisions\" made with superintelligence and that it \"should not be allowed to be autonomous for major military actions,\" calling this one of the main results of the trip (Lianhe Zaobao; Taiwan's Central News Agency via United Daily News, both citing Reuters and CNBC). No written text of this understanding has been published, and the US account comes from Bessent; China's Foreign Ministry readout of the 19 November meeting said the two countries should work together to ensure that AI \"always remains under human control.\" Bessent also said Nvidia's H200 is still the most advanced chip China can buy under license and that Chinese orders for it are small.",
+      "sources": [
+        {
+          "name": "Voice of America (Chinese)",
+          "url": "https://www.voachinese.com/a/8226157.html"
+        },
+        {
+          "name": "Lianhe Zaobao (Chinese)",
+          "url": "https://www.zaobao.com.sg/news/world/story20261121-10034373"
+        },
+        {
+          "name": "United Daily News / Central News Agency (Chinese)",
+          "url": "https://udn.com/news/story/125069/9892548"
+        },
+        {
+          "name": "China Foreign Ministry (Chinese)",
+          "url": "https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202611/t20261119_12062924.shtml"
         }
       ]
     }
