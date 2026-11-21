@@ -22,7 +22,7 @@ def load(p, default=None):
 
 def nav(d, here, root):
     links = [("cover", root + "cover/", "Cover"), ("jsd", root, "Judea &amp; Samaria"), ("yemen", root + "yemen/", "Yemen")]
-    links += [(s["id"], f'{root}digest/{s["id"]}/', e(s["name"])) for s in d["sections"]]
+    links += [(s["id"], f'{root}digest/{s["id"]}/', e(s["name"])) for s in d["sections"] if not s.get("archived")]
     return '<nav class="secnav">' + " | ".join(
         f'<a href="{h}"{" class=on" if k == here else ""}>{t}</a>' for k, h, t in links) + '</nav>'
 
@@ -93,7 +93,7 @@ def polymarket_box(slug, label):
         ev = _j.load(_u.urlopen(r, timeout=20))[0]
         rows = []
         for m in ev["markets"]:
-            if m.get("closed"): continue
+            if m.get("closed") or m.get("active") is False: continue  # skip Polymarket's unlaunched placeholder outcomes
             try: pr = float(_j.loads(m.get("outcomePrices") or "[0]")[0])
             except Exception: continue
             rows.append([m.get("groupItemTitle") or m.get("question"), pr])
@@ -236,6 +236,7 @@ def main():
         y = max(ye, key=lambda x: x["date"]); hl = y["items"][0]["headline"] if y.get("items") else y.get("lede", "")
         lines.append(f'<li><b>Yemen</b> <a href="../yemen/">{e(hl)}</a> <span class="srcs">({e(long_date(y["date"]))})</span></li>')
     for s in d["sections"]:
+        if s.get("archived"): continue
         todays = [i for i in items if i["section"] == s["id"] and i["edition"] == secnew[s["id"]]]
         if s["id"] in own and todays:
             lines.append(f'<li><b>{e(s["name"])}</b> <a href="../digest/{s["id"]}/#{e(todays[0]["id"])}">{e(todays[0]["headline"])}</a> <span class="srcs">({e(long_date(secnew[s["id"]]))})</span></li>')
@@ -250,7 +251,9 @@ def main():
 
     # cover: top story of each section in today's edition
     seen, top = set(), []
+    arch = {s["id"] for s in d["sections"] if s.get("archived")}
     for i in items:
+        if i["section"] in arch: continue
         if i["edition"] == newest and i["section"] not in seen:
             seen.add(i["section"]); top.append(i)
     body = "".join(f'<p class="sec">{e(names[i["section"]])}</p>' + story(i, newest, "h2", "../") for i in top)
@@ -300,6 +303,8 @@ q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()
             hi = s["header_image"]
             out.append(f'<figure style="margin:0 0 12px"><img src="../../{e(hi["image"])}" alt="{e(hi.get("caption",""))}" style="width:100%;max-height:320px;object-fit:cover;display:block">'
                        f'<figcaption class="srcs">{e(hi.get("caption",""))} · Photo: <a href="{e(hi["image_url"])}" target="_blank" rel="noopener">{e(hi["image_credit"])}</a></figcaption></figure>')
+        if s.get("archived"):
+            out.append(f'<p class="summary" style="background:#f1efe8;border-left:4px solid #8b0000;padding:8px 12px"><b>{e(s.get("archive_note") or "This watch was discontinued.")}</b> This page is kept as an archive and is no longer updated.</p>')
         if s["id"] == "cypherboria": out.append(prayer_box())
         sidebar = s.get("baseline_placement") == "sidebar"
         if s.get("baseline") and sidebar:
@@ -373,7 +378,7 @@ q.addEventListener('keydown',function(ev){if(ev.key==='Escape'){q.value='';run()
             side = ""; sidebar = True
             out.append('<div class="cov-grid"><main>')
         elif sidebar:
-            rail = (bgbox if s.get("baseline") else "") + (polymarket_box(s["polymarket"]["slug"], s["polymarket"]["label"]) if s.get("polymarket") else "") + side
+            rail = (bgbox if s.get("baseline") else "") + (polymarket_box(s["polymarket"]["slug"], s["polymarket"]["label"]) if s.get("polymarket") else "") + "".join(polymarket_box(x["slug"], x["label"]) for x in s.get("polymarket_more", [])) + side
             out.append('<div class="cov-grid"><main>')
         elif s["id"] == "spacex-xai-and-cursor" or side or s.get("polymarket"):
             out.append('<div style="display:flex;flex-wrap:wrap;gap:16px;align-items:flex-start">'

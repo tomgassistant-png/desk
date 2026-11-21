@@ -74,6 +74,8 @@ Daily steps (digest routine, about 5:00 AM Israel time):
    Never delete old items; they form the archive. Stories in the newest edition get the dark red headline and NEW tag.
 2. Add `editions["YYYY-MM-DD"] = {"intro": "...", "quiet": "Nothing material on ..."}` (optional but shown on the cover).
 3. A new topic needs a new entry in `sections` (`{"id": "slug", "name": "Display name"}`); it then appears in every nav bar.
+   To discontinue a topic without deleting its items, set `"archived": true` (and `"archive_note"`) on its section: `sitenav.py` and `build_cover.py` then leave it out of every nav bar, the cover's "Latest by section" list and the cover's top stories, and its page stays at `digest/<id>/` as an archive with the note at the top. Brazil was archived this way on 21 Nov 2026 (backup in `prompts/routine-backups/brazil-discontinued-20261121/`); the Spain election section (`spain`) replaced it.
+   A section with `polymarket` can list more markets in `polymarket_more` (`[{"slug": ..., "label": ...}]`); each gets its own box in the rail. The Polymarket box skips inactive placeholder outcomes.
 4. Run `python3 build_cover.py` (after the JSD and Yemen builds, so their "new today" lines are current), then publish:
    `cd /workspace/frontpage && for i in 1 2 3; do ./publish.sh && break; sleep 10; done`
 

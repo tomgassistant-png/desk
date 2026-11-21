@@ -27,6 +27,7 @@ def sections():
     out = [("jsd", "", "Judea &amp; Samaria", max((i["edition"] for i in jsd), default="")),
            ("yemen", "yemen/", "Yemen", max((x["date"] for x in ye), default=""))]
     for s in d.get("sections", []):
+        if s.get("archived"): continue  # discontinued watches stay reachable by URL only
         dt = max([i["edition"] for i in d.get("items", []) if i["section"] == s["id"]] + ([s["updated"]] if s.get("updated") else []), default="")
         out.append((s["id"], f'digest/{s["id"]}/', e(s["name"]), dt))
     return out

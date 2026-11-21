@@ -10,7 +10,10 @@
     },
     {
       "id": "brazil",
-      "name": "Brazil"
+      "name": "Brazil (archived)",
+      "archived": true,
+      "archive_note": "This watch was discontinued on 21 Nov 2026.",
+      "archived_on": "2026-11-21"
     },
     {
       "id": "colombia-and-israel",
@@ -954,6 +957,187 @@
       ],
       "baseline_placement": "sidebar",
       "baseline_teaser": "First round 18 April 2027, second round 2 May. Macron cannot run; Le Pen, cleared by the appeal court in July, leads every poll."
+    },
+    {
+      "id": "spain",
+      "name": "Spain election",
+      "own_edition": true,
+      "about": "Tracker for Spain's general election of 29 November 2026 and what follows it: dates, parties and leaders, polls, prediction-market odds, coalition talks, and news that affects the race or the survival of the next government (court cases, the budget, partners such as Junts, the PNV, Sumar's successors and Podemos). First edition: 21 November 2026, covering about 6 to 21 November 2026. This watch replaces the Brazil election watch.",
+      "polymarket": {
+        "slug": "next-prime-minister-of-spain-20260625005215443",
+        "label": "Next prime minister of Spain"
+      },
+      "polymarket_more": [
+        {
+          "slug": "spain-general-election-winner",
+          "label": "Spain general election, party with most seats"
+        }
+      ],
+      "baseline_placement": "sidebar",
+      "baseline_updated": "21 November 2026",
+      "baseline_teaser": "Spain votes on Sunday, 29 November 2026, in a snap general election called by Pedro Sánchez on 5 October. Most private polls put the PP first and the PP and Vox together above the 176-seat majority; the CIS puts the PSOE first.",
+      "baseline": [
+        "Dates. Prime Minister Pedro Sánchez (PSOE) called a snap general election on 5 October 2026, three days after the Congress of Deputies voted down two housing decrees with the votes of the PP, Vox and Junts. Royal Decree 806/2026 (Official State Gazette, BOE, 6 October 2026) dissolved the Congress and Senate elected on 23 July 2023 and set the vote for Sunday, 29 November 2026. The Congress has 350 seats, so a majority is 176. The campaign runs from 13 to 27 November, and Saturday, 28 November, is the day of reflection, when campaigning stops. Polls may be published until Monday, 23 November; the electoral law bans publishing them in the five days before the vote. The new Congress and Senate meet on 23 December. After that the king consults the parties and proposes a candidate for prime minister; RTVE reports that this will not happen before Christmas. Without the early call, the four-year term of the 2023 parliament would have run until the summer of 2027.",
+        "Parliament and government. In the 2023 election the PP won 137 seats (33.1 percent), the PSOE 121 (31.7), Vox 33 (12.4), Sumar 31 (12.3), ERC 7, Junts 7, EH Bildu 6, the PNV 5, and the BNG, Coalición Canaria and UPN one each (Interior Ministry figures, as published by RTVE). Sánchez went on to lead a PSOE–Sumar coalition government, with Junts as an early partner after the amnesty law; Junts broke with the government about a year later (RTVE). During the term Podemos's four deputies left the Sumar group, and one seat tracker (pactómetro.es) also lists a Vox deputy, Javier Ortega Smith, leaving the Vox group in July 2026 (unconfirmed). By the end, the PP, Vox, Junts and UPN together held 178 seats in the full chamber, which is how the housing decrees fell; in the smaller standing committee that sits after dissolution, the left and the PNV hold 35 of 69 votes (Europa Press). The government never presented a new national budget in this term. Spain still runs on the 2023 budget, rolled over each year, and 2027 will start with another rollover (El País, 17 October).",
+        "Main parties and leaders. PSOE: Pedro Sánchez, prime minister since 2018, heads the Madrid list with Margarita Robles and Félix Bolaños. PP: Alberto Núñez Feijóo, with Cayetana Álvarez de Toledo and Borja Sémper behind him in Madrid. Vox: Santiago Abascal, in his sixth general election as list leader. Frente Amplio (Broad Front), the alliance of Sumar, IU, Más Madrid and the Comuns formed for this election: its candidate for prime minister is Ada Colau, former mayor of Barcelona, who heads the Barcelona list; Emilio Delgado heads the Madrid list. Yolanda Díaz, first deputy prime minister and Sumar's founder, is not a candidate but is campaigning for Colau. Podemos runs separately, led by Irene Montero, and in Catalonia it backs ERC's list headed by Gabriel Rufián. Junts: Míriam Nogueras, with Carles Puigdemont taking part in rallies by video link. PNV: lists headed by Maribel Vaquero, Idoia Sagastizabal and Gorka Urtaran; the party president is Aitor Esteban. EH Bildu: Oskar Matute. BNG: Néstor Rego. Se Acabó La Fiesta (SALF): Luis \"Alvise\" Pérez. Aliança Catalana is not running. Only the PSOE, PP, Vox and Frente Obrero run in all 52 districts (Antena 3, 9 November).",
+        "Possible majorities. Feijóo says the PP already governs with Vox in four regions (Extremadura, Aragón, Castilla y León and Andalusia), that Vox has set him \"no uncrossable line\" so far, and that he will not govern \"at any price\" (RTVE, 18 November). Abascal says Vox will bargain hard and wants Feijóo to say before the vote whether he would make deals with \"the remains of the PSOE\" (El País, 20 November). The PNV says it will not support Feijóo if Vox is part of his majority, and would demand much clearer rules before backing Sánchez again (La Vanguardia, 19 November). Junts says it will not support Feijóo, and that to back a PSOE government it would ask the Socialists to put forward a candidate other than Sánchez, which it calls the \"Starmer route\" (EFE, 6 November).",
+        "Polls (latest from each pollster; percent of the valid vote). Most private polls put the PP first, with the PSOE second and gaining during the campaign, and the PP and Vox together above 176 seats. 40dB. for El País and Cadena SER (daily tracking, 16 to 20 November, 2,000 online interviews): PP 31.9, PSOE 31.2, Vox 17.1; seats PP 131, PSOE 124, with the right-hand bloc at 189. Sigma Dos for El Mundo (13 to 19 November, 4,561 phone and online interviews): PP 31.2 (125 to 131 seats), PSOE 27.6 (111 to 117), Vox 18.9 (57 to 62), Frente Amplio 7.1 (11 to 14), Podemos 0.8 (no seats); PP plus Vox 182 to 193. Sondaxe for La Voz de Galicia (13 to 17 November, 1,000 interviews): PP 28.5, PSOE 27.8, Vox 19.6 (as reported by Mapa Electoral). SW Demoscopia for La Séptima (18 November) is the only private pollster with the PSOE ahead: PSOE 31.9, PP 29.1, Vox 16.4. Key Data for Público (an estimate built from published and unpublished polls, 19 November): PP 31.2 (129 seats), PSOE 26.9 (109), Vox 19.1 (66). EM-Analytics for Electomanía (published 20 November, 6,559 interviews): PP 31.0, PSOE 27.6, Vox 18.2. GAD3 for ABC (3 to 5 November, 1,502 phone interviews): PP 31.9, PSOE 25.9, Vox 18.6. Also reported by the Capitol poll list and not checked against the pollsters' own reports: NC Report for La Razón (published 12 November) PP 32.1, PSOE 26.1, Vox 19.0; SocioMétrica for El Español (published 14 November) PP 31.6, PSOE 27.8, Vox 19.1; IMOP for El Confidencial (published 13 November) PP 31.5, PSOE 26.9, Vox 19.0; DYM for Henneo (published 6 November) PP 33.1, PSOE 27.3, Vox 18.6. GESOP for El Periódico (6 to 8 October, 1,000 interviews; its latest vote estimate found): PP 28.7, PSOE 26.1, Vox 18.9, with the right at 189 to 197 seats. The state pollster CIS, in its pre-election survey (7 to 30 October, 45,074 interviews, published 12 November), has the PSOE first at 33.3, the PP at 25.5, Vox at 18.4 and Frente Amplio at 4.7. Other analysts who re-ran the CIS raw data got the PSOE at about 29.6 to 30.1 and the PP at about 27.2 to 27.7 (Capitol list). ABC leaves the CIS out of its poll average, citing what it calls the CIS's \"evident bias\"; ABC's average on 21 November had the PP at about 31 percent, 3.5 points ahead of the PSOE. Mapa Electoral's median of the latest poll from each of 18 pollsters (19 November): PP 31.4, PSOE 27.0, Vox 18.9.",
+        "Prediction markets. Polymarket, read on 21 November 2026 at about 09:45 Israel time: \"Next prime minister of Spain\": Feijóo 87.5 percent, Sánchez 11.8 percent (about $4.2 million traded). \"Spain general election winner\" (party with the most seats): PP 75.5 percent, PSOE 24.5 percent (about $0.8 million traded). Both markets close after the vote on 29 November. Odds are bets, not polls. No other prediction market was checked for this edition.",
+        "Regional elections. Three regions broke from the usual May cycle and voted early: Extremadura on 21 December 2025, Aragón on 8 February 2026 and Castilla y León on 15 March 2026 (dates from one election guide; Castilla y León result per RTVE: PP 33 of 82 seats, PSOE 30, Vox 14). Andalusia voted on 17 May 2026: the PP won 53 of 109 seats, two short of a majority, with the PSOE at 28, Vox 15, Adelante Andalucía 8 and Por Andalucía 5 (RTVE results; EFE). The next regular date is Sunday, 23 May 2027 (the fourth Sunday of May, as the electoral law sets), with municipal elections across Spain and regional elections in ten regions (Asturias, the Balearic Islands, the Canary Islands, Cantabria, Castilla-La Mancha, the Valencia region, La Rioja, Madrid, Murcia and Navarre) plus Ceuta and Melilla, unless any of them calls an early vote (Tu Papeleta guide). Galicia, the Basque Country and Catalonia are not due to vote in the next year.",
+        "Background to the campaign. Housing is the main issue: the eviction of a Madrid woman, Maricarmen Abascal, on 23 September set off protests, and a general strike over housing and wages took place on 11 November (RTVE). Two high-speed rail crashes on the same line, at Adamuz (Córdoba) on 18 January 2026 with 46 dead and at Urda (Toledo) in late October with 69 dead counted by 29 October, have put Transport Minister Óscar Puente under pressure; Vox filed a criminal complaint against him at the Supreme Court (RTVE, 29 October). A mass irregular entry into Ceuta from Morocco on 30 and 31 July is under investigation by a National Court judge (Público). Court cases around the PSOE: the Supreme Court upheld the prison terms of former minister José Luis Ábalos (24 years and 3 months) and his aide Koldo García (19 years and 8 months) in October (Público); Sánchez's brother David was sentenced on 14 July to nine years' disqualification from public jobs for abuse of office, which he is appealing (EFE); the prime minister's wife, Begoña Gómez, awaits trial, as Feijóo pointed out during the campaign (RTVE, 18 November); and former PSOE prime minister José Luis Rodríguez Zapatero is under investigation for tax fraud and smuggling over jewels found in his office (El País, 6 November). The PSOE calls the cases against Sánchez's family a \"hunt\" pushed by the far right (Patxi López, quoted by EFE); the PP says they show that \"no one is above the law\" (Feijóo, quoted by EFE)."
+      ],
+      "baseline_sources": [
+        {
+          "label": "BOE: Royal Decree 806/2026 (PDF, via La Moncloa)",
+          "url": "https://www.lamoncloa.gob.es/presidente/actividades/Documents/2026/061026-sanchez-adelanto-electoral.pdf"
+        },
+        {
+          "label": "RTVE: Sánchez calls the election, 5 Oct",
+          "url": "https://www.rtve.es/noticias/20261005/sanchez-convoca-elecciones-anticipadas-29-noviembre-llegado-momento-decidir-futuro-quereis/17253132.shtml"
+        },
+        {
+          "label": "RTVE: calendar and key dates",
+          "url": "https://www.rtve.es/noticias/20261005/calendario-fechas-clave-adelanto-electoral-29-noviembre/17253254.shtml"
+        },
+        {
+          "label": "RTVE: 2023 general election results",
+          "url": "https://resultados-elecciones.rtve.es/generales/2023/congreso/"
+        },
+        {
+          "label": "pactómetro.es: Congress at dissolution",
+          "url": "https://pactometro.es/congreso/disolucion/"
+        },
+        {
+          "label": "El País: three years on the 2023 budget, 17 Oct",
+          "url": "https://elpais.com/economia/negocios/2026-10-17/mas-de-1000-dias-sin-nuevos-presupuestos-hasta-cuando-puede-vivir-espana-con-las-cuentas-de-2023.html"
+        },
+        {
+          "label": "Antena 3: list leaders, 9 Nov",
+          "url": "https://www.antena3.com/noticias/espana/estos-son-cabezas-lista-partidos-politicos-elecciones-generales-29n_202611096af1b804ea8d8979977f0243.html"
+        },
+        {
+          "label": "RTVE: Frente Amplio picks Colau, 12 Oct",
+          "url": "https://www.rtve.es/noticias/20261012/ada-colau-candidata-frente-amplio-elecciones/17263538.shtml"
+        },
+        {
+          "label": "RTVE: Feijóo on Vox, 18 Nov",
+          "url": "https://www.rtve.es/noticias/20261118/feijoo-dice-vox-no-planteado-ninguna-linea-incruzable-advierte-no-pactara-cualquier-precio/17319483.shtml"
+        },
+        {
+          "label": "El País: Abascal presses Feijóo, 20 Nov",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/abascal-exige-a-feijoo-que-aclare-si-pactara-con-los-restos-del-psoe-despues-del-29-n.html"
+        },
+        {
+          "label": "La Vanguardia: PNV conditions, 19 Nov",
+          "url": "https://www.lavanguardia.com/local/paisvasco/20261119/11688208/pnv-negociaria-reglas-mas-claras-investir-sanchez-rechaza-apoyar-feijoo-vox-participa.html"
+        },
+        {
+          "label": "EFE: Junts rules out Feijóo, 6 Nov",
+          "url": "https://efe.com/espana/2026-11-06/junts-feijoo-sanchez-via-starmer/"
+        },
+        {
+          "label": "El País: 40dB. tracking, 20 Nov",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html"
+        },
+        {
+          "label": "Electográfica: Sigma Dos for El Mundo, 20 Nov",
+          "url": "https://www.electografica.com/2026/11/encuesta-sigmados-261120.html"
+        },
+        {
+          "label": "Mapa Electoral: polls of 19 Nov",
+          "url": "https://mapaelectoral.es/actualidad/encuestas-elecciones-generales-2026-19-noviembre/"
+        },
+        {
+          "label": "Público: Key Data estimate, 19 Nov",
+          "url": "https://www.publico.es/politica/partidos/final-campana-llega-psoe-alza-pero-mayoria-formar-gobierno-frente-pp-vox.html"
+        },
+        {
+          "label": "GAD3: ABC barometer, Nov 2026",
+          "url": "https://www.gad3.com/barometro-abc-estimacion-de-voto-por-provincias-noviembre-2026/"
+        },
+        {
+          "label": "GESOP for El Periódico, Oct 2026",
+          "url": "https://gesop.net/es/2026/10/12/encuesta-elecciones-generales-29n-para-el-periodico/"
+        },
+        {
+          "label": "Capitol: list of all published polls",
+          "url": "https://capitolab.es/encuestas/"
+        },
+        {
+          "label": "CIS: pre-election survey, 12 Nov",
+          "url": "https://www.cis.es/es/w/el-psoe-lograr%C3%ADa-el-33-3-de-los-votos-en-las-elecciones-generales-del-29n"
+        },
+        {
+          "label": "ABC: poll average, 21 Nov",
+          "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261121050000-nt.html"
+        },
+        {
+          "label": "Polymarket: next prime minister",
+          "url": "https://polymarket.com/event/next-prime-minister-of-spain-20260625005215443"
+        },
+        {
+          "label": "Polymarket: election winner",
+          "url": "https://polymarket.com/event/spain-general-election-winner"
+        },
+        {
+          "label": "RTVE: Andalusia 2026 results",
+          "url": "https://resultados-elecciones.rtve.es/autonomicas/2026/andalucia/"
+        },
+        {
+          "label": "RTVE: Castilla y León 2026 results",
+          "url": "https://resultados-elecciones.rtve.es/autonomicas/2026/castilla-y-leon/"
+        },
+        {
+          "label": "EFE: Andalusia results, 17 May",
+          "url": "https://efe.com/andalucia/2026-05-17/resultados-elecciones-andalucia/"
+        },
+        {
+          "label": "Tu Papeleta: next elections, May 2027",
+          "url": "https://tupapeleta.es/guias/proximas-elecciones/"
+        },
+        {
+          "label": "RTVE: the Urda rail crash, 29 Oct",
+          "url": "https://www.rtve.es/noticias/20261029/sanchez-gobierno-puente-cecopi-toledo-accidente-urda/17288002.shtml"
+        },
+        {
+          "label": "Público: court cases during the campaign, 1 Nov",
+          "url": "https://www.publico.es/politica/tribunales/cercania-29n-frena-marcaje-judicial-gobierno-psoe-exigir-desclasificacion-informes-ultimatums-caso-leire.html"
+        },
+        {
+          "label": "EFE: David Sánchez sentenced, 14 Jul",
+          "url": "https://efe.com/espana/2026-07-14/david-sanchez-condenado-9-anos-inhabilitacion-empleo-publico/"
+        },
+        {
+          "label": "El País: Zapatero jewels ruling, 6 Nov",
+          "url": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html"
+        }
+      ],
+      "useful_links": [
+        {
+          "label": "CIS (state pollster)",
+          "url": "https://www.cis.es/"
+        },
+        {
+          "label": "ABC poll average",
+          "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261121050000-nt.html"
+        },
+        {
+          "label": "Capitol: every published poll",
+          "url": "https://capitolab.es/encuestas/"
+        },
+        {
+          "label": "Electográfica: poll charts",
+          "url": "https://www.electografica.com/"
+        },
+        {
+          "label": "RTVE results site",
+          "url": "https://resultados-elecciones.rtve.es/"
+        },
+        {
+          "label": "Polymarket: Spain elections",
+          "url": "https://polymarket.com/all/spain-elections"
+        }
+      ]
     }
   ],
   "editions": {
@@ -1110,7 +1294,7 @@
       "quiet": "Election-interference watch: no new ruling, filing or official finding, so no separate item; Likud's appeal deadline is Sunday, 22 November. EUSM Lebanon watch: no official Israeli reaction and no new contributor found."
     },
     "2026-11-21": {
-      "intro": "Israel: Eisenkot says he will bring a government he leads to a Knesset vote and form an emergency government if broad talks fail, while Likud's reported unity terms keep Netanyahu as prime minister for the whole term. Also: Trump's Independence Day message to Lebanon's president and new Israeli strikes in the south; displaced Sweida residents protest; Bessent says Trump and Xi agreed humans must take part in military AI decisions; and a new AQ search tool in Cypherboria.",
+      "intro": "Israel: Eisenkot says he will bring a government he leads to a Knesset vote and form an emergency government if broad talks fail, while Likud's reported unity terms keep Netanyahu as prime minister for the whole term. Also: Trump's Independence Day message to Lebanon's president and new Israeli strikes in the south; displaced Sweida residents protest; Bessent says Trump and Xi agreed humans must take part in military AI decisions; and a new AQ search tool in Cypherboria. Spain: a new election watch starts eight days before the 29 November snap election; the PSOE narrows the gap after the Sánchez–Feijóo debate, but most polls still give the PP and Vox together a majority.",
       "quiet": "Election-interference watch: no new ruling, filing or official finding, so no separate item; Likud's appeal deadline is Sunday, 22 November. EUSM Lebanon watch: no official Israeli reaction and no new contributor found."
     }
   },
@@ -14843,6 +15027,230 @@
           "url": "https://www.mfa.gov.cn/wjdt_674879/gjldrhd_674881/202611/t20261119_12062924.shtml"
         }
       ]
+    },
+    {
+      "headline": "Feijóo is seen as the winner of the only head-to-head debate, but the vote barely moves; two more debates are set for 23 and 26 November",
+      "lead": "Three snap polls taken after the 19 November debate between Pedro Sánchez and Alberto Núñez Feijóo found that more viewers thought Feijóo won.",
+      "text": "40dB. for El País and the SER (500 online interviews right after the debate) had 43 percent naming Feijóo the winner and 33.3 percent Sánchez; Sigma Dos for El Mundo had 50.5 to 29; and Ateneo del Dato for elDiario.es had 45.2 to 31.9, with 88 percent of its sample saying they would keep their vote. The roughly two-hour debate, organized by the Television Academy and watched by an average of about 10 million people, covered housing, the economy, social policy, corruption, migration and foreign affairs; El Confidencial reports that Sánchez apologized several times over the rail crashes and the corruption cases. Vox's Santiago Abascal criticized his absence from the debate (El País). RTVE holds a debate of eight party spokespeople on Monday, 23 November, at 22:00 Spain time, and the four candidates for prime minister (Sánchez, Feijóo, Abascal and Ada Colau of Frente Amplio) meet on Thursday, 26 November, at 22:00 (El Confidencial).",
+      "sources": [
+        {
+          "name": "El País: 40dB. debate poll",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/feijoo-gano-el-cara-a-cara-contra-sanchez-por-10-puntos-segun-el-sondeo-de-40db-para-el-pais-y-la-ser.html"
+        },
+        {
+          "name": "El Mundo: Sigma Dos debate poll",
+          "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/20/6b000dbefdddfffd0b8b4577.html"
+        },
+        {
+          "name": "elDiario.es: Ateneo del Dato poll",
+          "url": "https://www.eldiario.es/politica/45-ve-feijoo-vencedor-cara-cara-pedro-sanchez-voto-apenas-mueve_1_13678798.html"
+        },
+        {
+          "name": "El Confidencial: debate calendar",
+          "url": "https://www.elconfidencial.com/espana/2026-11-20/1qrt-debates-electorales-elecciones-29n-calendario-horarios-donde-ver_4468930/"
+        }
+      ],
+      "id": "2026-11-21-spain-1",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "The PSOE closes the gap in the final week of polls, but most still give the PP and Vox a majority; publication stops after 23 November",
+      "lead": "40dB.'s tracking for El País and the SER (16 to 20 November) puts the PP just 0.7 points ahead of the PSOE, 31.9 to 31.2 percent, the PSOE's best figure in that series since 2023.",
+      "text": "Even so, 40dB. gives the PP and Vox together 189 seats, 13 more than a majority; Vox falls to 17.1 percent and Podemos would lose its seats. Sigma Dos for El Mundo (13 to 19 November) has a wider gap, PP 31.2 and PSOE 27.6, with the PP and Vox at 182 to 193 seats. Sondaxe for La Voz de Galicia (13 to 17 November) has the PP only 0.7 points ahead, and SW Demoscopia for La Séptima is the only private pollster with the PSOE first (31.9 to 29.1), per Mapa Electoral. Key Data for Público (19 November) gives the PP and Vox 195 seats. Mapa Electoral notes that a 0.7-point lead in a 1,000-person poll is a statistical tie, and that daily tracking polls share most of their interviews from one day to the next. ABC's average (21 November) has the PP at about 31 percent and 3.5 points ahead. The electoral law bans publishing polls from Tuesday, 24 November, until the polls close on 29 November, so Monday is the last day for new figures.",
+      "sources": [
+        {
+          "name": "El País: 40dB. tracking",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html"
+        },
+        {
+          "name": "Electográfica: Sigma Dos",
+          "url": "https://www.electografica.com/2026/11/encuesta-sigmados-261120.html"
+        },
+        {
+          "name": "Mapa Electoral: polls of 19 Nov",
+          "url": "https://mapaelectoral.es/actualidad/encuestas-elecciones-generales-2026-19-noviembre/"
+        },
+        {
+          "name": "Público: Key Data",
+          "url": "https://www.publico.es/politica/partidos/final-campana-llega-psoe-alza-pero-mayoria-formar-gobierno-frente-pp-vox.html"
+        },
+        {
+          "name": "ABC: poll average",
+          "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261121050000-nt.html"
+        }
+      ],
+      "id": "2026-11-21-spain-2",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "The state pollster CIS puts the PSOE nearly eight points ahead, unlike every private pollster except one",
+      "lead": "The CIS pre-election survey, published 12 November (45,074 interviews, 7 to 30 October), estimates the PSOE at 33.3 percent, the PP at 25.5, Vox at 18.4 and Frente Amplio at 4.7.",
+      "text": "Asked whom they prefer as prime minister, 38.3 percent of those who answered named Sánchez, 24.3 percent Feijóo, 15.4 percent Abascal and 8.3 percent Gabriel Rufián of ERC; 49.1 percent said they decide their vote according to what convinces them at the time (CIS). Other analysts who re-ran the CIS raw data with their own models (Descifrando la Guerra, Ateneo del Dato and Opina360) got a narrower PSOE lead, about 29.6 to 30.1 percent against 27.2 to 27.7 for the PP, according to the Capitol poll list. ABC excludes the CIS from its poll average, citing what it calls the CIS's \"evident bias.\" Polymarket on 21 November gave Feijóo an 87.5 percent chance of becoming the next prime minister and the PP a 75.5 percent chance of winning the most seats.",
+      "sources": [
+        {
+          "name": "CIS: pre-election survey",
+          "url": "https://www.cis.es/es/w/el-psoe-lograr%C3%ADa-el-33-3-de-los-votos-en-las-elecciones-generales-del-29n"
+        },
+        {
+          "name": "Capitol: published polls",
+          "url": "https://capitolab.es/encuestas/"
+        },
+        {
+          "name": "ABC: poll average and method",
+          "url": "https://www.abc.es/espana/encuestas-elecciones-generales-consulta-evolucion-diaria-sondeos-20261121050000-nt.html"
+        },
+        {
+          "name": "Polymarket: next prime minister",
+          "url": "https://polymarket.com/event/next-prime-minister-of-spain-20260625005215443"
+        }
+      ],
+      "id": "2026-11-21-spain-3",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "Feijóo says Vox has set him \"no uncrossable line\"; Abascal demands he say before the vote whether he would deal with \"the remains of the PSOE\"",
+      "lead": "On 18 November Feijóo said that in the four regions where the PP and Vox govern together, Vox has raised nothing he considers impossible, and that when it proposed something illegal the PP said no.",
+      "text": "He did not rule out a new deal with Vox after the election, said he would not become prime minister \"at any price,\" promised \"no step back\" on abortion and LGBT rights, and said he could repeal all or part of the euthanasia law (RTVE). He also said he holds \"fluid\" talks with Abascal. On 20 November in Salamanca, Abascal welcomed that Feijóo offered Sánchez no deals in the debate, but asked him to say before 29 November whether he would make agreements with \"the remains of the PSOE\" or has another plan; about 200 people protested against his visit, according to police sources (El País). Abascal also rejected any approach to Carles Puigdemont, who had said Vox would get \"a door slammed in its face.\"",
+      "sources": [
+        {
+          "name": "RTVE: Feijóo on Vox",
+          "url": "https://www.rtve.es/noticias/20261118/feijoo-dice-vox-no-planteado-ninguna-linea-incruzable-advierte-no-pactara-cualquier-precio/17319483.shtml"
+        },
+        {
+          "name": "El País: Abascal presses Feijóo",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/abascal-exige-a-feijoo-que-aclare-si-pactara-con-los-restos-del-psoe-despues-del-29-n.html"
+        }
+      ],
+      "id": "2026-11-21-spain-4",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "The PNV and Junts set their terms: no support for Feijóo with Vox, and Junts wants a PSOE candidate other than Sánchez",
+      "lead": "PNV president Aitor Esteban said on 19 November that his party will not back Feijóo if Vox is part of the majority, and that any new support for Sánchez would need \"much clearer\" rules than in the last term, which he called \"unpleasant.\"",
+      "text": "Esteban said the most likely outcome is a PP–Vox majority and that he is confident the PNV will keep the five seats it needs for its own group (La Vanguardia). Junts's candidate, Míriam Nogueras, said on 6 November that the PP will not get Junts's votes and that, to consider backing a PSOE-led government, Junts would ask the Socialists to replace Sánchez with another candidate, which Junts calls the \"Starmer route\" (EFE). Junts's campaign slogan is \"Catalunya al centre,\" and Puigdemont is taking part in its main rallies by video link, including the central one in Castelldefels on 22 November (Europa Press).",
+      "sources": [
+        {
+          "name": "La Vanguardia: PNV terms",
+          "url": "https://www.lavanguardia.com/local/paisvasco/20261119/11688208/pnv-negociaria-reglas-mas-claras-investir-sanchez-rechaza-apoyar-feijoo-vox-participa.html"
+        },
+        {
+          "name": "EFE: Junts rules out Feijóo",
+          "url": "https://efe.com/espana/2026-11-06/junts-feijoo-sanchez-via-starmer/"
+        },
+        {
+          "name": "Europa Press: Junts campaign",
+          "url": "https://www.europapress.es/catalunya/noticia-nogueras-junts-abrira-cerrara-campana-barcelona-participacion-telematica-puigdemont-20261109183413.html"
+        }
+      ],
+      "id": "2026-11-21-spain-5",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "Supreme Court orders that about 163,000 people naturalized under the \"grandchildren's law\" instruction be kept off the voter roll on 29 November",
+      "lead": "In an order released on 20 November, the Supreme Court told the Central Electoral Board and the Electoral Census Office that none of the 163,355 people naturalized under a 2022 instruction may appear on the voter roll, whether they live abroad or in Spain.",
+      "text": "The only exceptions are 901 people who have filed a consular certificate showing descent from exiles, and anyone else who files one before election day. The court is acting on challenges by Vox and the group Iustitia Europa. It has separated people naturalized under the Democratic Memory Law itself from those naturalized under a 2022 instruction by the then director general Sofía Puente, which ABC describes as going beyond the law; it suspended their voting rights in September and October but did not extend the suspension to their children (Europa Press, ABC). The court called the government's compliance reports \"hard to understand,\" agreeing with the prosecutor. The government's lawyers had said that checks cut the number on the roll to 113,326. The court also gave the parties two days to comment on the security checks of the roughly 61,000 phones that will read digital ID QR codes at polling stations (ABC).",
+      "sources": [
+        {
+          "name": "Europa Press: Supreme Court order",
+          "url": "https://www.europapress.es/nacional/noticia-supremo-exige-jec-garantizar-163355-nacionalizados-ley-nietos-no-voten-elecciones-20261120145732.html"
+        },
+        {
+          "name": "ABC: exclusion confirmed",
+          "url": "https://www.abc.es/espana/supremo-confirma-exclusion-censo-160000-nacionalizados-ley-20261120160806-nt.html"
+        }
+      ],
+      "id": "2026-11-21-spain-6",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "The caretaker parliament saves one housing decree and kills the other, a day after a general strike over housing",
+      "lead": "On 12 November the standing committee of the dissolved Congress approved, 35 to 34, the government's main housing decree, which extends the ban on evicting vulnerable people with no other home until 2030 and extends rental contracts through 2028.",
+      "text": "The PSOE, Sumar, ERC, EH Bildu, Podemos and the PNV voted for it, and the PP, Vox and Junts against (Europa Press). The decree also creates \"Tu Casa,\" a 10 billion euro loan line through the state bank ICO for first-home buyers, with loans of up to 50,000 euros. A second decree, backed by Sumar, which would have renewed rental contracts automatically and made landlords who end one pay the tenant a year's rent, fell 34 to 35 when the PNV joined the PP, Vox and Junts; the PNV called the payment \"disproportionate.\" These were new versions of the two decrees whose defeat in the full chamber in early October led Sánchez to call the election. The vote came one day after a general strike and large marches over housing and wages, which RTVE described as having \"mixed\" results.",
+      "sources": [
+        {
+          "name": "Europa Press: decree vote",
+          "url": "https://www.europapress.es/economia/construccion-y-vivienda-00342/noticia-congreso-convalida-decreto-medidas-vivienda-deroga-alquileres-indefinidos-20261112124351.html"
+        },
+        {
+          "name": "RTVE: decree vote and strike",
+          "url": "https://www.rtve.es/noticias/20261112/decretos-vivienda-congreso-votacion-directo-cronica/17310081.shtml"
+        }
+      ],
+      "id": "2026-11-21-spain-7",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "Court dates in the final week: a deputy prime minister testifies on 23 November in the Air Europa bailout case",
+      "lead": "Sara Aagesen, third deputy prime minister and minister for the ecological transition, will testify as a witness on Monday, 23 November, in the Madrid court investigating the government's 475 million euro rescue loan to Air Europa in 2020; the judge has allowed her to do so by video from her office or home.",
+      "text": "Aagesen sat on the board of the state fund that assessed the loan when she was secretary of state for energy. Other witnesses on 23 and 24 November include Sánchez's chief economic adviser Manuel de la Rocha, the head of the postal service Pedro Saura, and former Sumar spokesman Íñigo Errejón (El Confidencial). The case began with complaints by the PP and Vox. Público reports that the judge set the dates one day after the election was called, and notes that the same judge opened a case against Irene Montero a week before a 2021 Madrid regional election that was later closed. Separately, on 6 November the National Court judge in the Plus Ultra case refused the anti-corruption prosecutor's request to also charge former prime minister José Luis Rodríguez Zapatero with embezzlement over jewels found in his office, while keeping him under investigation for tax fraud and smuggling (El País).",
+      "sources": [
+        {
+          "name": "El Confidencial: Aagesen by video",
+          "url": "https://www.elconfidencial.com/espana/2026-11-18/el-juez-que-investiga-el-rescate-de-air-europa-autoriza-que-la-vicepresidenta-aagesen-declare-por-videollamada_4467589/"
+        },
+        {
+          "name": "Público: court cases during the campaign",
+          "url": "https://www.publico.es/politica/tribunales/cercania-29n-frena-marcaje-judicial-gobierno-psoe-exigir-desclasificacion-informes-ultimatums-caso-leire.html"
+        },
+        {
+          "name": "El País: Zapatero ruling",
+          "url": "https://elpais.com/espana/2026-11-06/el-juez-calama-rechaza-imputar-a-zapatero-un-nuevo-delito-de-malversacion-por-las-joyas.html"
+        }
+      ],
+      "id": "2026-11-21-spain-8",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "On the left: Yolanda Díaz drops her bid to lead the ILO to campaign for Ada Colau, and Frente Amplio proposes a 10 million euro cap on inheritances",
+      "lead": "Yolanda Díaz, first deputy prime minister, withdrew her candidacy to lead the International Labour Organization on 16 November, hours before a vote she was unlikely to win, and will campaign for Frente Amplio, El Español reports.",
+      "text": "The same day Frente Amplio presented its program: a 100 percent tax on any inheritance above 10 million euros per heir (75 percent between 5 and 10 million) and lower rates below 120,000 euros; a 10 percent annual tax on the value of homes held by companies and by individuals with more than three homes worth over 800,000 euros together, unless they are rented at affordable prices; a law to expropriate homes from owners of large portfolios; and a universal child benefit of 200 euros a month per child (El Español). Polls give Frente Amplio about 5 to 7 percent, far below Sumar's 31 seats in 2023, and Podemos, which runs separately under Irene Montero, may lose all its seats (El País, 40dB.; Sigma Dos). The program details come from one report and are unconfirmed in a second source.",
+      "sources": [
+        {
+          "name": "El Español: Díaz and the Frente Amplio program",
+          "url": "https://www.elespanol.com/espana/20261116/frente-amplio-cuenta-yolanda-diaz-campana-retirar-candidatura-oit-baza-clave/1003744459976_0.html"
+        },
+        {
+          "name": "El País: 40dB. on the left",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html"
+        },
+        {
+          "name": "Electográfica: Sigma Dos",
+          "url": "https://www.electografica.com/2026/11/encuesta-sigmados-261120.html"
+        }
+      ],
+      "id": "2026-11-21-spain-9",
+      "edition": "2026-11-21",
+      "section": "spain"
+    },
+    {
+      "headline": "Vox stalls in the polls during the campaign and courts Catalan voters while Aliança Catalana sits out",
+      "lead": "40dB.'s tracking for El País (12 to 16 November) found that Vox fell about a point in a week, to 17.5 percent, after Abascal canceled a promised interview with the YouTuber Jordi Wild, while the PP cut its loss of voters to Vox from about 20 to 15 percent.",
+      "text": "El País says Vox had started the campaign strong after Abascal's interview with the TV host David Broncano. Other pollsters have Vox steadier, at about 18 to 20 percent (Sigma Dos 18.9, Sondaxe 19.6), and every poll still has it well above its 12.4 percent of 2023. In Catalonia, where Sílvia Orriols's Aliança Catalana is not running, Abascal ended a rally in Girona with \"Visca Catalunya!\" followed by \"Viva España!\" and said Vox would defend Catalan identity, which it sees as also Spanish; he said Vox keeps its rejection of Spain's system of regional governments but that changing it would need a constitutional majority out of reach in the next term (El País, 20 November).",
+      "sources": [
+        {
+          "name": "El País: Vox stalls",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-17/vox-se-frena-y-cede-terreno-al-pp.html"
+        },
+        {
+          "name": "El País: Abascal in Salamanca and Catalonia",
+          "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/abascal-exige-a-feijoo-que-aclare-si-pactara-con-los-restos-del-psoe-despues-del-29-n.html"
+        },
+        {
+          "name": "Mapa Electoral: polls of 19 Nov",
+          "url": "https://mapaelectoral.es/actualidad/encuestas-elecciones-generales-2026-19-noviembre/"
+        }
+      ],
+      "id": "2026-11-21-spain-10",
+      "edition": "2026-11-21",
+      "section": "spain"
     }
   ]
 }
