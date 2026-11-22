@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-21T04:30+02:00",
+ "updated": "2026-11-22T04:34+02:00",
  "items": [
+  {
+   "type": "x-post",
+   "source": "X",
+   "author": "@ProfAviLoeb",
+   "date": "2026-11-21T22:25:42Z",
+   "title": "Unidentified Anomalous Phenomena (UAP) are of interest to both science and counterintelligence.",
+   "url": "https://x.com/ProfAviLoeb/status/2124268040821080381",
+   "note": "Harvard astronomer Avi Loeb posts a four-minute video arguing that the scientific study of UAP and counterintelligence interest in them come from different angles and are easy to separate. Judged from the post text; the video was not reviewed.",
+   "interest": "Nature of the phenomenon (how to study it); government programs (secondary)"
+  },
+  {
+   "type": "x-post",
+   "source": "X",
+   "author": "@StephenGeoRae",
+   "date": "2026-11-21T19:53:14Z",
+   "title": "Familiars, or more strictly Familiar Spirits, are either supernatural entities, inter-dimensional",
+   "url": "https://x.com/StephenGeoRae/status/2124229671525163012",
+   "note": "Folklore writer Stephen G. Rae describes familiar spirits, the helper beings of witches and cunning folk that usually appear as animals, calling them supernatural or \"inter-dimensional\" beings.",
+   "interest": "UFO and folklore overlaps (spirit beings)"
+  },
+  {
+   "type": "video",
+   "title": "The UFO Connection to Havana Syndrome? Dr. Jim Segala",
+   "url": "https://www.youtube.com/watch?v=i5WzhNHn1fc",
+   "source": "Saucers and Saints · YouTube",
+   "date": "2026-11-21",
+   "note": "Host James and Dr. Jim Segala revisit a night watch near Skinwalker Ranch in Utah, where Segala says his sensors picked up electromagnetic, infrasound (very low sound) and air-pressure changes. They talk about how to test such claims with repeatable methods, the health effects he reports, the parallels he sees with Havana syndrome (unexplained illnesses reported by U.S. diplomats), and his idea that consciousness may play a part in contact with the phenomenon. All claims are his; judged from the video description.",
+   "interest": "Psychology and consciousness; nature of the phenomenon"
+  },
   {
    "type": "x-post",
    "source": "X",
@@ -55,6 +84,24 @@
    "interest": "Psychology and consciousness (experiencers); nature of the phenomenon"
   },
   {
+   "type": "article",
+   "title": "The Spheres of Deception (Part 1)",
+   "url": "https://nickcook.substack.com/p/the-spheres-of-deception-part-1",
+   "source": "Nick Cook's Rogue Icons · Substack",
+   "date": "2026-11-20",
+   "note": "Nick Cook follows a tip-off back to the secret radar-testing ranges of California's Antelope Valley, where lights in the sky were reported in the late 1980s and early 1990s, and to Northrop and North American Aviation research on electrically charging the air around an aircraft to change airflow and fool radar. He argues that stealth, radar deception and UFO research were asking surprisingly similar questions; Part 2 is promised. Part 1 was free to read in full.",
+   "interest": "Deception as an idea; government programs (secondary)"
+  },
+  {
+   "type": "article",
+   "title": "Strange Connections Between Alien Encounters and Paranormal Experiences",
+   "url": "https://247tempo.com/strange-connections-between-alien-encounters-and-paranormal-experiences/",
+   "source": "24/7 Tempo (Christian Drerup)",
+   "date": "2026-11-20",
+   "note": "A general-audience list of eight overlaps between alien-encounter reports and paranormal lore, among them sleep paralysis, fairy abductions and missing time (citing Vallée's Passport to Magonia), and the trickster idea that absurd behavior is part of the phenomenon. The writer also gives the other side: people may simply be reading odd experiences through familiar stories.",
+   "interest": "UFO and folklore overlaps (fairies, tricksters); Vallée"
+  },
+  {
    "type": "podcast",
    "title": "Jeffrey Kripal: UFOs, Consciousness & the Nature of Reality",
    "url": "https://www.youtube.com/watch?v=12Ag2PYcyiA",
@@ -77,6 +124,15 @@
    "podcast": "https://jmishlove.podbean.com/e/callum-cooper-interviews-jeffrey-mishlove-about-parapsychology-4k-reboot/",
    "note": "In this 2022 conversation, re-released, University of Northampton psychology lecturer Callum Cooper, author of Telephone Calls From the Dead, turns the tables and interviews host Jeffrey Mishlove about his early work, J. B. Rhine and the start of modern parapsychology, remote viewing (trying to sense distant targets with the mind) and skeptics' hostility to the field. Judged from the episode description.",
    "interest": "Psychology and consciousness (psi research)"
+  },
+  {
+   "type": "video",
+   "title": "From Fear to Understanding: A Lifetime of Sleep Paralysis Experiences | Nick Norman",
+   "url": "https://sheilaprycebrooks.substack.com/p/from-fear-to-understanding-a-lifetime",
+   "source": "TRANSCEND (Dr Sheila Pryce Brooks) · Substack",
+   "date": "2026-11-19",
+   "note": "Sleep-paralysis researcher Sheila Pryce Brooks and co-host Cyrus Richardson talk with Nick Norman, who writes the Inside the Dream Realm newsletter, about a lifetime of sleep paralysis (waking unable to move, often sensing a presence) and how his fear turned into understanding. Pryce Brooks's wider work asks what people are meeting when such presences seem to respond and communicate. A recorded conversation, judged from the post's summary.",
+   "interest": "Psychology and consciousness (sleep paralysis and visitor experiences)"
   },
   {
    "type": "x-post",
@@ -219,6 +275,15 @@
    "interest": "Control mechanism (CCRU, Nick Land, hyperstition); AI"
   },
   {
+   "type": "article",
+   "title": "Future of Human Consciousness & Psychic Abilities Must Remain Human",
+   "url": "https://rebeccahardcastlewright.substack.com/p/future-of-human-consciousness-and",
+   "source": "Exoconscious Humans (Rebecca Hardcastle Wright) · Substack",
+   "date": "2026-11-17",
+   "note": "Rebecca Hardcastle Wright argues that AI chatbots, increasingly trained on UFO and experiencer reports gathered by tech, government and intelligence groups, act as \"soft mind control\": people puzzling over an anomalous experience get pleasant, personalized answers that steer them. She posts her interview with Brian Ruhe on AI, extraterrestrials and human consciousness alongside.",
+   "interest": "AI or the phenomenon as a control mechanism (mind control); AI and non-human intelligence"
+  },
+  {
    "type": "x-post",
    "source": "X",
    "author": "@ProfAviLoeb",
@@ -359,34 +424,6 @@
    "date": "2026-11-15",
    "note": "Philosopher David Roden, author of Posthuman Life, joins the hosts to discuss posthumanism, computational functionalism (the view that a mind is whatever runs the right computations), what they call \"xenoerotics,\" and Nick Land; the host also promotes a course on Land's Xenosystems writings. Judged from the video description.",
    "interest": "Control mechanism (Nick Land, CCRU); AI and non-human intelligence"
-  },
-  {
-   "type": "x-post",
-   "source": "X",
-   "author": "@StephenGeoRae",
-   "date": "2026-11-14T10:35:37Z",
-   "title": "🏹 'Elf-shot' means to have taken ill; shot by an Elfin arrow dipped in hemlock poison. In folklore, E",
-   "url": "https://x.com/StephenGeoRae/status/2121552627183796529",
-   "note": "Folklore writer Stephen George Rae explains \"elf-shot,\" the old belief that sudden illness came from an elfin arrow dipped in hemlock, adding the lore that elves got their arrows from fairies, who got them from mermaids.",
-   "interest": "Folklore overlaps (elves, fairies)"
-  },
-  {
-   "type": "video",
-   "title": "Timely Revelation: Dr. Michael Masters on future humans, aliens, and primacy of consciousness",
-   "url": "https://www.youtube.com/watch?v=P8UYlzc3zy8",
-   "source": "Neon Galactic (James Faulk) · YouTube",
-   "date": "2026-11-14",
-   "note": "Montana Tech anthropologist Michael Masters discusses his \"future human\" idea (that the beings in encounters may be our own descendants traveling back in time), how a strange experience on a hotel balcony convinced him consciousness is part of the fabric of reality, and why rival groups from the future might have opposed aims. Judged from the video description.",
-   "interest": "Nature of the phenomenon (future-human idea); psychology and consciousness"
-  },
-  {
-   "type": "video",
-   "title": "Ep: 4 - A Lifetime of High Strangeness: Steve Ward on John Keel, Mothman, The Superspectrum: & More",
-   "url": "https://www.youtube.com/watch?v=nQRNLxPWPQU",
-   "source": "Phenomenology Research Professionals · YouTube",
-   "date": "2026-11-14",
-   "note": "The hosts talk with Steve Ward, host of The High Strangeness Factor, whom they met at the Mothman Museum in Point Pleasant, about John Keel, Mothman and Keel's \"superspectrum\" (his idea of an unseen band of reality behind strange events). Judged from the title and a brief video description.",
-   "interest": "Nature of the phenomenon (Keel's superspectrum); folklore overlaps"
   },
   {
    "title": "Melinda Messenger Filmed Golden Orbs Over the Sea in Wales (CLIP)",
