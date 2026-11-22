@@ -60,6 +60,7 @@ Daily Yemen routine, after the "Yemen campaign: <date>" email is sent:
 1. Prepend one edition to `editions` in `yemen/items.json`:
    `{"date":"YYYY-MM-DD","lede":"opening line","items":[{"headline":"...","text":"the bullet, plain American English","source":"outlet named","link":"https://... or empty"}],"trend":"...","watch":"..."}`.
    Use the direct URL, without the google.com/url wrapper. One entry per date; replace it if the date already exists.
+   Each item may also carry `"date":"YYYY-MM-DD"` (the event date); `build_yemen.py` shows it as "Event date" next to the source (added 22 Nov 2026).
 2. `cd /workspace/frontpage && python3 build_yemen.py`
 3. `./publish.sh` (retry up to 3 times on TLS errors). It copies `yemen/` and keeps `beit-hanina/`.
 4. Check that `curl -s -o /dev/null -w '%{http_code}' https://tomgassistant-png.github.io/desk/yemen/` returns 200.
