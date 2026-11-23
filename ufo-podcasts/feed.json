@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-22T04:34+02:00",
+ "updated": "2026-11-23T04:39+02:00",
  "items": [
+  {
+   "type": "x-post",
+   "source": "X",
+   "author": "@StephenGeoRae",
+   "date": "2026-11-22T12:25:45Z",
+   "title": "My late grandmother would tell of her ancestor in Ireland who met a Banshee one evening whilst riding home.",
+   "url": "https://x.com/StephenGeoRae/status/2124479446182731893",
+   "note": "Folklore writer Stephen G. Rae shares a family story: an Irish ancestor met a banshee, the spirit said to announce a coming death, on his ride home and was found dead the next morning. A family legend, not a confirmed event.",
+   "interest": "UFO and folklore overlaps (spirit beings, omens)"
+  },
+  {
+   "type": "podcast",
+   "title": "Remembering Russell Targ: A Life Exploring Remote Viewing",
+   "url": "https://www.youtube.com/watch?v=fXtMxewpgRI",
+   "source": "That UFO Podcast",
+   "date": "2026-11-22",
+   "guest": "Russell Targ",
+   "youtube": "https://www.youtube.com/watch?v=fXtMxewpgRI",
+   "podcast": "https://audioboom.com/posts/8979983",
+   "note": "After Russell Targ's death (the show gives his dates as 1934–2026), host Andy McGrillen re-releases, remastered, his August 2024 talk with the physicist who helped start the remote viewing research (trying to describe distant places by mind alone) at Stanford Research Institute with Hal Puthoff. Targ recalls his CIA-funded work, the experiments with Ingo Swann and Pat Price, his own first remote viewing, and his views on consciousness, time and UFO claims. Judged from the episode description.",
+   "interest": "Psychology and consciousness (remote viewing, ESP)"
+  },
+  {
+   "type": "podcast",
+   "title": "Inside the Norwegian Valley That Films Strange Lights Every Week: Project Hessdalen",
+   "url": "https://www.youtube.com/watch?v=H93AclS-zUo",
+   "source": "UAP Files Podcast",
+   "date": "2026-11-22",
+   "guest": "Fred Pallesen",
+   "youtube": "https://www.youtube.com/watch?v=H93AclS-zUo",
+   "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/Inside-the-Norwegian-Valley-That-Films-Strange-Lights-Every-Week-Project-Hessdalen-e3spthe",
+   "note": "Fred Pallesen, head of Project Hessdalen, walks through footage from the automated cameras that have watched Norway's Hessdalen valley since 1998, where strange lights have been reported since the early 1980s, including a new clip from days before the interview. He explains how stacking software separates meteors from unexplained lights and what the scientific papers say about balls of light up to 10 meters across. A clip from season 4, episode 1; judged from the description.",
+   "interest": "Nature of the phenomenon (long-term instrument study of unexplained lights)"
+  },
+  {
+   "type": "article",
+   "title": "'The Esoteric of the Esoteric'",
+   "url": "https://mitchhorowitz.substack.com/p/the-esoteric-of-the-esoteric",
+   "source": "Mystery Achievement (Mitch Horowitz) · Substack",
+   "date": "2026-11-22",
+   "note": "Occult historian Mitch Horowitz, calling himself a \"believing historian,\" asks whether a \"hidden hand\" deliberately set off the 19th-century occult revival, starting with Madame Blavatsky and Theosophy's hidden Masters, and weighs testimony such as Sri Aurobindo's account of a visit from the Master known as K.H. He says he still rejects guesswork passed off as evidence. A paid post; the opening and parts of the text were readable.",
+   "interest": "Control mechanism (the hidden-hand idea); psychology and consciousness"
+  },
+  {
+   "type": "video",
+   "title": "Inside Archive X: Curating the Impossible with Dr. Jeffrey Kripal",
+   "url": "https://app.podcastguru.io/podcast/afraid-of-nothing-podcast-89385595441ebc5723d19e4b189c6621/episode/inside-archive-x-curating-the-impossible-with-dr-jeffrey-kripal-495da25fbd07e24cea80a3c25b94c39d",
+   "source": "Afraid of Nothing Podcast (Bob Heske)",
+   "date": "2026-11-22",
+   "note": "Host Bob Heske talks with Rice University religion scholar Jeffrey Kripal about hosting the AMC+ series Archive X and curating Rice's archive of paranormal accounts, and about the links Kripal sees among near-death experiences, prophetic dreams, alien abductions, telepathy and mysticism. A recorded conversation, judged from its summary and the opening of the transcript.",
+   "interest": "Psychology and consciousness; nature of the phenomenon"
+  },
   {
    "type": "x-post",
    "source": "X",
@@ -20,6 +72,15 @@
    "url": "https://x.com/StephenGeoRae/status/2124229671525163012",
    "note": "Folklore writer Stephen G. Rae describes familiar spirits, the helper beings of witches and cunning folk that usually appear as animals, calling them supernatural or \"inter-dimensional\" beings.",
    "interest": "UFO and folklore overlaps (spirit beings)"
+  },
+  {
+   "type": "article",
+   "title": "You will be like angels",
+   "url": "https://samkriss.substack.com/p/you-will-be-like-angels",
+   "source": "Numb at the Lodge (Sam Kriss) · Substack",
+   "date": "2026-11-21",
+   "note": "Writer Sam Kriss, in notes alongside his New Yorker feature on AI and demons, looks at why some people sense a metaphysical evil in AI and why some in Silicon Valley talk of building a \"machine god.\" He floats the idea that machine learning may be less an invention than a portal through which an already-existing entity enters, and recounts one source tying AI to Choronzon, the being Aleister Crowley said he summoned in 1909. Free to read.",
+   "interest": "AI and non-human intelligence (AI as entity, demons and angels)"
   },
   {
    "type": "video",
@@ -314,16 +375,6 @@
    "interest": "AI and the phenomenon (AI as an analysis tool); skeptic check"
   },
   {
-   "type": "x-post",
-   "source": "X",
-   "author": "@robinhanson",
-   "date": "2026-11-16T01:59:30Z",
-   "title": "“'Hanson’s Paradox.' —… 1. Only very important people in historical events are fully simulated, and",
-   "url": "https://x.com/robinhanson/status/2122147516237955432",
-   "note": "Economist Robin Hanson shares a tongue-in-cheek paradox named after him: if only the important people in a simulated history are fully conscious, then a conscious but unimportant person is evidence against that idea; a nod to simulation arguments about consciousness.",
-   "interest": "Psychology and consciousness (simulation idea)"
-  },
-  {
    "type": "podcast",
    "title": "He’s Been Abducted By ALIENS Over 100 Times (And Has Proof!)",
    "url": "https://www.youtube.com/watch?v=4zd4LhS1WpM",
@@ -358,72 +409,6 @@
    "podcast": "https://jmishlove.podbean.com/e/mental-illness-spirituality-and-the-paranormal-with-gregory-e-magee/",
    "note": "Gregory E. Magee, author of the memoir Dumb and Profound, recounts a teenage schizophrenia diagnosis with hallucinations of interactive entities no one else could see, a return of anomalous and psychic experiences after a heart attack at 35, and how Buddhist practice taught him the discernment to hold mental illness and the paranormal side by side. Judged from the episode description.",
    "interest": "Psychology and consciousness (mental illness and anomalous experience)"
-  },
-  {
-   "type": "x-post",
-   "source": "X",
-   "author": "@Jason_Jorjani",
-   "date": "2026-11-15T20:01:20Z",
-   "title": "There is no convincing evidence that the UFO phenomenon involves ET races from outside of our solar sy",
-   "url": "https://x.com/Jason_Jorjani/status/2122057381412786391",
-   "note": "Philosopher Jason Reza Jorjani, quoting a clip of himself, says he sees no convincing evidence for visitors from other star systems and argues instead that the phenomenon is the remnant of a very ancient human-run \"control grid\" run with psychotronics (mind-affecting technology), cybernetics and biotech. Speculative and unconfirmed.",
-   "interest": "Phenomenon as a control mechanism (control grid, cybernetics)"
-  },
-  {
-   "type": "x-post",
-   "source": "X",
-   "author": "@AlchemyAmerican",
-   "date": "2026-11-15T18:51:01Z",
-   "title": "One of my favorite episodes ever. Steve is a treasure trove of knowledge about the abduction phenomeno",
-   "url": "https://x.com/AlchemyAmerican/status/2122039687309295841",
-   "note": "Jesse Michels of American Alchemy previews an upcoming episode with Steve Aspin, who, per the quoted teaser, recounts missing memories, alleged abductions and an encounter with what he believes was a projection of his late father. His accounts are unconfirmed.",
-   "interest": "Psychology and consciousness (abduction experience, memory)"
-  },
-  {
-   "type": "x-post",
-   "source": "X",
-   "author": "@StephenGeoRae",
-   "date": "2026-11-15T09:37:45Z",
-   "title": "Fairy Rock was the home of a Fairie Queen who fell in love with a human. Her kin would dance in the m",
-   "url": "https://x.com/StephenGeoRae/status/2121900452342030623",
-   "note": "Folklore writer Stephen George Rae retells the Lake District legend of Fairy Rock, home of a fairy queen who fell in love with a human, whose kin danced in the moonlight and lured young men into their grotto, an old version of the \"taken by the other people\" story.",
-   "interest": "Folklore overlaps (fairies)"
-  },
-  {
-   "type": "video",
-   "title": "Nathaniel Gillis | The Seam in the Dream, Contact Contagion, and Neuroparasitology",
-   "url": "https://www.youtube.com/watch?v=Za1LX0Sc1Ck",
-   "source": "The Melt Podcast · YouTube",
-   "date": "2026-11-15",
-   "note": "Host Chris Snipes talks with demonology researcher Nathaniel Gillis, who argues that entities hijack human perception and take on familiar forms (relatives, classic ghosts, even cartoon characters) to win trust, and that the UFO \"hitchhiker effect\" (strange experiences that follow researchers home) repeats much older lore about spirits attaching to people. Judged from the video description.",
-   "interest": "Nature of the phenomenon (perception, the hitchhiker effect); folklore overlaps"
-  },
-  {
-   "type": "video",
-   "title": "This is why non-Muslim researchers are starting to believe in jinn",
-   "url": "https://www.youtube.com/watch?v=8i0PlfFgklI",
-   "source": "Islam21c · YouTube",
-   "date": "2026-11-15",
-   "note": "On Islam21c's OnGuard show, Hamza Andreas Tzortzis and Imran Hussein lay out the \"jinn hypothesis,\" the idea that some UFO, abduction and paranormal encounters involve jinn (unseen beings in Islamic tradition) rather than space aliens, and touch on AI and \"spiritual deception.\" Argued from a religious viewpoint. Judged from the video description.",
-   "interest": "Folklore overlaps (jinn); nature of the phenomenon"
-  },
-  {
-   "type": "video",
-   "title": "Artificial Intelligence and the End of the Human: Nick Land’s Prophecy (in Russian)",
-   "url": "https://www.youtube.com/watch?v=5TkOvyucBjU",
-   "source": "Ambartsumyan TV · YouTube",
-   "date": "2026-11-15",
-   "note": "A 20-minute Russian-language explainer on British philosopher Nick Land of the CCRU (Cybernetic Culture Research Unit, a 1990s group at Warwick University), quoting his line that \"nothing human makes it out of the near future\" and covering accelerationism (the idea that technology and capitalism speed up beyond human control) and capitalism as the first stage of machine intelligence. Judged from the Russian description.",
-   "interest": "Control mechanism (CCRU and Nick Land; AI beyond human control)"
-  },
-  {
-   "type": "video",
-   "title": "David Roden on Posthumanism, Xenoerotics, and Nick Land",
-   "url": "https://www.youtube.com/watch?v=oqhqVsdSFFE",
-   "source": "The Dangerous Maybe · YouTube",
-   "date": "2026-11-15",
-   "note": "Philosopher David Roden, author of Posthuman Life, joins the hosts to discuss posthumanism, computational functionalism (the view that a mind is whatever runs the right computations), what they call \"xenoerotics,\" and Nick Land; the host also promotes a course on Land's Xenosystems writings. Judged from the video description.",
-   "interest": "Control mechanism (Nick Land, CCRU); AI and non-human intelligence"
   },
   {
    "title": "Melinda Messenger Filmed Golden Orbs Over the Sea in Wales (CLIP)",
@@ -474,18 +459,6 @@
    "interest": "Psychology and consciousness (telepathic contact claim, pre-birth memory); cover-up material ranks lower"
   },
   {
-   "title": "Actress Camille James Harman Describes Her Alien Abduction Experience",
-   "url": "https://www.youtube.com/watch?v=txpxtulJMLY",
-   "source": "UAP Files Podcast",
-   "date": "2026-11-10",
-   "guest": "Camille James Harman",
-   "youtube": "https://www.youtube.com/watch?v=txpxtulJMLY",
-   "podcast": "https://podcasters.spotify.com/pod/show/uapfiles/episodes/Actress-Camille-James-Harman-Describes-Her-Alien-Abduction-Experience-e3s3pl9",
-   "type": "podcast",
-   "note": "In a clip from an earlier episode, actress Camille James Harman describes events after she moved to Los Angeles in 1995: months of unexplained symptoms, a sighting in Silver Lake, sleep paralysis and what she later recalled. Her account is unconfirmed. Judged from the episode description.",
-   "interest": "Psychology and consciousness (abduction experiences, sleep paralysis)"
-  },
-  {
    "type": "podcast",
    "title": "#447 - NASA Study Confirms \"Predatory\" Plasma Beings & Von Braun's Alien Warning | Jay Anderson",
    "url": "https://www.youtube.com/watch?v=V4eY43roIFI",
@@ -496,18 +469,6 @@
    "podcast": "",
    "note": "Jay Anderson, host of Project Unity, talks for over three hours about his orb sightings after meditation, the idea that the brain receives consciousness rather than making it, and the claim that some UFOs are living plasma beings, drawing on Space Shuttle STS-75 footage; the \"NASA study confirms\" framing in the title is unconfirmed. Much of the second half turns to ancient-pyramid debates. Judged from the episode description and chapter list.",
    "interest": "Nature of the phenomenon (plasma life idea); consciousness"
-  },
-  {
-   "type": "podcast",
-   "title": "Australia's Hidden UFO History: Woomera, Westall & the Psychic Truth",
-   "url": "https://www.youtube.com/watch?v=HizQA9PfQS4",
-   "source": "That UFO Podcast",
-   "date": "2026-11-06",
-   "guest": "Rhys Dalton-Morgan",
-   "youtube": "https://www.youtube.com/watch?v=HizQA9PfQS4",
-   "podcast": "https://audioboom.com/posts/8974165",
-   "note": "Australian researcher Rhys Dalton-Morgan talks through his country's UFO history, including a claim that his grandfather, an RAF fighter ace, saw a craft at the classified Woomera rocket range, plus Westall and a 1971 intelligence document, and the stranger psychic side of the cases. Judged from the episode description.",
-   "interest": "Nature of the phenomenon; psychology and consciousness (psychic angle)"
   }
  ]
 }
