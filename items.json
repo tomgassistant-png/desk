@@ -1,8 +1,301 @@
 {
   "title": "Judea & Samaria Desk",
   "subtitle": "The Palestinian Authority, security, settlement and land in Judea and Samaria",
-  "latest_count": 17,
+  "latest_count": 16,
   "items": [
+    {
+      "id": "2026-11-26-land-czech-mp-janulik-dagan-samaria",
+      "section": "land",
+      "headline": "Czech lawmaker tours Samaria with Yossi Dagan and calls Judea and Samaria \"the historic land of the State of Israel\"",
+      "summary": "Miroslav Janulik, described by Israeli outlets as a senior lawmaker from the Czech ruling party, toured Samaria on Tuesday as a guest of Samaria Regional Council head Yossi Dagan. The two recorded a joint video from the lookout known as \"the country's balcony,\" which looks west toward the coastal plain. Janulik said it was his first visit to Samaria, that from the lookout one can see Tel Aviv, Haifa and Ben Gurion Airport, and that Judea and Samaria are \"the historic land of the State of Israel.\" He said it matters for Europe as well as for Israelis \"to stay here,\" and that \"we will remain with you\" (<a href=\"https://www.c14.co.il/article/1805584\">Channel 14</a>; <a href=\"https://www.kipa.co.il/%D7%97%D7%93%D7%A9%D7%95%D7%AA/%D7%94%D7%AA%D7%99%D7%99%D7%A9%D7%91%D7%95%D7%AA/1237202-0/\">Kipa</a>; <a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/83558/\">Olam Katan</a>). Dagan thanked him and said Judea and Samaria are a security belt not only for Tel Aviv and Israel but for Europe and Western culture, calling the ridge \"our forward defense line.\" The visit followed Dagan's meetings in Prague about two weeks earlier, part of his effort to enlist European support against sanctions on Judea and Samaria; after those meetings, Andrej Knutek, the head of the Czech ruling party's group in the European Parliament, separately backed applying Israeli sovereignty there (same outlets). Spelling of the Czech lawmaker's surname varies in the Hebrew reports (Yanulik / Yanulink).",
+      "source": "Channel 14 / Kipa / Olam Katan / Yossi Dagan",
+      "date": "2026-11-24",
+      "url": "https://www.c14.co.il/article/1805584",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026",
+      "lead": true,
+      "highlight": true
+    },
+    {
+      "id": "2026-11-26-land-geva-shomron-yeshiva-branch",
+      "section": "land",
+      "headline": "Ramat Gan hesder yeshiva opens a branch at Geva Shomron; Rabbi Yehoshua Shapira recites the blessing \"who sets a border for the widow\"",
+      "summary": "A branch of the Ramat Gan hesder yeshiva has been set up in the new community of Geva Shomron, next to Sa-Nur in northern Samaria, Olam Katan reported on Monday. Rabbi Yehoshua Shapira, one of the yeshiva's heads, recited on the site, with the divine name, the blessing \"who sets a border for the widow,\" said on seeing Jewish homes settled in their place; Rabbi Ben Zion Algazi, also a head of the yeshiva, took part (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/83137/\">Olam Katan</a>). The community itself went up in late October, when ten families of yeshiva graduates moved onto the former Paratroopers training base (see the 29 Oct edition). The council and the yeshiva had planned a Torah branch beside the families as part of building the community. The Samaria council says Geva Shomron is the tenth community it has established in the area in less than a year, under a plan for 19 new communities in northern Samaria. Shapira had said at the founding ceremony, \"The people of Israel chooses to cut an eternal covenant with this land.\"",
+      "source": "Olam Katan",
+      "date": "2026-11-23",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/83137/",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026",
+      "highlight": true,
+      "places": [
+        {
+          "name": "Geva Shomron (next to Sa-Nur)",
+          "lat": 32.3369,
+          "lon": 35.2019,
+          "note": "Approximate: OpenStreetMap / Nominatim point for Sa-Nur; the new community is on the former Paratroopers base beside it, as in earlier desk items"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-land-eshet-chayil-farm-women-training",
+      "section": "land",
+      "headline": "Yesha Council and the Farms Association launch \"Eshet Chayil\": shooting days for licensed farm women, including a gunman-in-the-home drill",
+      "summary": "The Yesha Council and the Farms Association, working with the regional councils' security departments, have begun a project they call \"Eshet Chayil\" (\"woman of valor\"): professional shooting days, each about five hours, for farm women in Judea and Samaria who already hold a gun license (<a href=\"https://www.inn.co.il/news/711634\">Arutz 7</a>; <a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/84129/\">Olam Katan</a>). The drills are meant for the first minutes of an attack on an isolated farm, and include a short-range gunman entering the house and safe use of a handgun where children are present. Hagai Tam, the Yesha Council's acting director-general, said farm women are often the first to face a security incident, and that holding a license is not the same as being ready to use the weapon with skill. In the same Arutz 7 report, the council cited the Judea and Samaria Situation Room (JSR): 634 terror attacks in the area in the past two months, including 90 attacks on shepherds (see also the JSR tally below).",
+      "source": "Yesha Council (via Arutz 7, Olam Katan)",
+      "date": "2026-11-25",
+      "url": "https://www.inn.co.il/news/711634",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026",
+      "highlight": true
+    },
+    {
+      "id": "2026-11-26-land-qalandiya-road-to-route-443",
+      "section": "land",
+      "headline": "Reporter: the Qalandiya road is due to open in about a month, cutting the drive from Judea and Samaria to Route 443 to about five minutes",
+      "summary": "Journalist Eliya Aviv reported, and Olam Katan carried on Monday, that the Qalandiya road is due to open in about a month and will link Judea and Samaria to Route 443 and the center of the country in a drive of about five minutes, without going through Jerusalem (<a href=\"https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/83883/\">Olam Katan</a>). The report says drivers now often lose time in heavy traffic around the Hizma checkpoint at the entrance to Jerusalem, and that the new road is meant to bypass that bottleneck. The timing is Aviv's account as reported by Olam Katan; it was not confirmed in an official statement opened for this edition. This is a different road from the Funduq bypass (\"Mevo Shomron\"), whose first section the Samaria council said would open this week (see the 23 Nov edition).",
+      "source": "Eliya Aviv (via Olam Katan)",
+      "date": "2026-11-24",
+      "url": "https://www.okn.co.il/%d7%94%d7%aa%d7%99%d7%99%d7%a9%d7%91%d7%95%d7%aa/83883/",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026",
+      "places": [
+        {
+          "name": "Qalandiya",
+          "lat": 31.8633678,
+          "lon": 35.2071488,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Hizma checkpoint",
+          "lat": 31.8282,
+          "lon": 35.2519,
+          "note": "as in earlier desk items"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-attacks-jsr-olive-harvest-634-poisonings",
+      "section": "attacks",
+      "headline": "JSR: 634 terror and harassment events against Jews from 20 Sep to 22 Nov, the olive-harvest period; five cows die in a poisoning at Har Bazak farm",
+      "summary": "The Yesha Council's Judea and Samaria Situation Room said on Monday that from 20 September to 22 November, the olive-harvest season, it recorded no fewer than 634 terror and harassment events against Jews in Judea and Samaria (<a href=\"https://t.me/JSR_HEB/569\">JSR, 23 Nov</a>). Arutz 7, quoting the same room in a 25 November report, gave the figure as 634 attacks in the past two months, including 90 attacks on shepherds (<a href=\"https://www.inn.co.il/news/711634\">Arutz 7</a>). On Monday JSR also said five cows had died, and others were dying, in what it called an Arab poisoning at Har Bazak farm in Samaria, and it later posted video of that incident; on Tuesday it said Arabs had poisoned a dog from Man Farm in the Hebron Hills, and that the dog was taken to a clinic in serious condition (<a href=\"https://t.me/JSR_HEB/581\">JSR, 24 Nov</a>; <a href=\"https://t.me/JSR_HEB/587\">JSR, 25 Nov</a>; <a href=\"https://t.me/JSR_EN\">JSR English</a>). No second outlet opened for this edition had independently confirmed the farm poisonings; they are reported here as JSR's account. In its 24-hour wrap on Tuesday afternoon, JSR listed one attack on shepherds, three stone-throwing attacks on vehicles, and two poisonings of animals owned by Israelis (<a href=\"https://t.me/JSR_HEB/588\">JSR</a>).",
+      "source": "JSR / Arutz 7",
+      "date": "2026-11-25",
+      "url": "https://t.me/JSR_HEB/569",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026",
+      "highlight": true,
+      "places": [
+        {
+          "name": "Har Bazak",
+          "lat": 32.3759,
+          "lon": 35.3848,
+          "note": "approximate: the Har Bazak peak, as in earlier desk items; the farm itself is not mapped"
+        },
+        {
+          "name": "Hebron Hills (Man Farm area)",
+          "lat": 31.45,
+          "lon": 35.1,
+          "note": "approximate: police and JSR did not give a mapped point for Man Farm; same area marker as earlier desk items"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-attacks-awarta-eleazar-tomb-korkosh",
+      "section": "attacks",
+      "headline": "JSR: the tomb of Eleazar son of Aaron in Awarta is vandalized for the second time in a month; Jewish burial estates at Hurvat Korkosh, near Barkan, are defaced the next day",
+      "summary": "JSR reported on Monday that Arabs from Awarta in Samaria had vandalized the tomb of Eleazar son of Aaron, which tradition places in the village. It said this was the second time in about a month the compound had been damaged, after residents of the village set fire to the tomb on the night of 20-21 October; the photographs it circulated were credited to Elisha Yered (<a href=\"https://t.me/JSR_HEB/582\">JSR</a>). The next day, JSR said, Arabs vandalized Jewish burial estates from the Second Temple period at Hurvat Korkosh, near Barkan: Arabic graffiti was sprayed and trash was thrown there. The photographs were credited to Ayelet Lash, a must-check settler-side source who lives in Rachelim (<a href=\"https://t.me/JSR_HEB/586\">JSR</a>). Both incidents are JSR's account, with the photographs it published; they were not confirmed in a second outlet opened for this edition.",
+      "source": "JSR / Elisha Yered / Ayelet Lash",
+      "date": "2026-11-25",
+      "url": "https://t.me/JSR_HEB/586",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026",
+      "places": [
+        {
+          "name": "Awarta (tomb of Eleazar)",
+          "lat": 32.1616248,
+          "lon": 35.2857681,
+          "note": "Nominatim, village point; the tomb is in the village (approximate)"
+        },
+        {
+          "name": "Barkan (near Hurvat Korkosh)",
+          "lat": 32.1066179,
+          "lon": 35.1065559,
+          "note": "Nominatim, Barkan town point; Hurvat Korkosh itself was not found in Nominatim (approximate)"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-attacks-bus-firebomb-burqa-bends",
+      "section": "attacks",
+      "headline": "JSR: firebomb and stones at an Israeli bus north of the Burqa bends start a fire; no one is hurt",
+      "summary": "JSR reported on Tuesday morning that Arabs had thrown a firebomb and stones at an Israeli bus north of the Burqa bends, and that the attack started a fire at the site. It said there were no casualties (<a href=\"https://t.me/JSR_HEB/583\">JSR</a>). The report does not name which Burqa, and it was not confirmed in a second outlet opened for this edition.",
+      "source": "JSR",
+      "date": "2026-11-25",
+      "url": "https://t.me/JSR_HEB/583",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026",
+      "places": [
+        {
+          "name": "Burqa (Nablus area)",
+          "lat": 32.2989272,
+          "lon": 35.1949394,
+          "note": "Nominatim, village point, used in earlier desk items; JSR said only \"north of the Burqa bends,\" without naming the village (approximate)"
+        },
+        {
+          "name": "Burqa, east of Ramallah",
+          "lat": 31.8952589,
+          "lon": 35.2532469,
+          "note": "Nominatim, the other Burqa in the area; included because the report did not specify which bends"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-attacks-week-salem-qalil-tidhar-qaryut-gitit",
+      "section": "attacks",
+      "headline": "JSR: two Hamas operatives held in Salim; an M16 found in Kafr Qallil; stones at Ma'ale Tidhar and near Qaryut; an incident with a 13-year-old shepherd near Gitit",
+      "summary": "JSR reported a series of incidents on Monday and Tuesday. Security forces, it said, arrested two wanted Hamas operatives overnight in the village of Salim in Samaria, suspected of advancing the group's terror activity (<a href=\"https://t.me/JSR_HEB/574\">JSR, 24 Nov</a>). In a separate counterterror operation in Kafr Qallil, reservists of Battalion 8208 found an M16 rifle and full magazines and confiscated them (<a href=\"https://t.me/JSR_HEB/578\">JSR</a>). JSR also reported stone-throwing at Israelis in the Ma'ale Tidhar area of Gush Etzion, with no damage and no casualties (<a href=\"https://t.me/JSR_HEB/576\">JSR</a>), and stones at a Jewish shepherd near the village of Qaryut in Binyamin, with no known casualties (<a href=\"https://t.me/JSR_HEB/585\">JSR</a>). A 24 November post said an incident had taken place the day before near Gitit in the Jordan Valley while a 13-year-old Jewish shepherd was grazing his flock, and pointed to video on the Telegram channel \"Kacha Ze Ovdim\"; the post as published did not describe the attack itself (<a href=\"https://t.me/JSR_HEB/575\">JSR</a>). These items are JSR's account and were not confirmed in a second outlet opened for this edition.",
+      "source": "JSR",
+      "date": "2026-11-25",
+      "url": "https://t.me/JSR_HEB/574",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026",
+      "places": [
+        {
+          "name": "Salim",
+          "lat": 32.20914,
+          "lon": 35.3330962,
+          "note": "Nominatim, village east of Nablus"
+        },
+        {
+          "name": "Kafr Qallil",
+          "lat": 32.1913027,
+          "lon": 35.2757938,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Ma'ale Tidhar",
+          "lat": 31.61042,
+          "lon": 35.18508,
+          "note": "Nominatim, as in earlier desk items"
+        },
+        {
+          "name": "Qaryut",
+          "lat": 32.0678549,
+          "lon": 35.3022552,
+          "note": "Nominatim"
+        },
+        {
+          "name": "Gitit",
+          "lat": 32.101492,
+          "lon": 35.396158,
+          "note": "Nominatim"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-26-land-channel18-ramallah-arson-breakdown",
+      "section": "land",
+      "headline": "Channel 18, the pro-settlement video channel, posts a local breakdown of the arson near Ramallah that was widely reported as \"settler violence\"",
+      "summary": "Channel 18 Israel, the pro-settlement video channel founded by David Friedman (X @channel18israel), posted on Tuesday a \"local breakdown of the bigger picture\" of recent arson near Ramallah that, it said, was being widely reported as \"settler violence\" (<a href=\"https://x.com/channel18israel/status/2125137214593958365\">Channel 18</a>). The channel wrote that the attackers were \"probably local Jewish guys,\" that exact perpetrators are often hard to confirm, and that some past cases were later shown to have been misattributed. Those are the channel's claims. The underlying incidents in four Palestinian villages were already on the 23 Nov edition, including the Diaspora Ministry's finding that a separate viral video of a raid on a banana plantation was made with AI.",
+      "source": "Channel 18 Israel (pro-settlement video channel)",
+      "date": "2026-11-24",
+      "url": "https://x.com/channel18israel/status/2125137214593958365",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026"
+    },
+    {
+      "id": "2026-11-26-attacks-jsr-rima-hassan-sheep-video",
+      "section": "attacks",
+      "headline": "JSR: a French member of the European Parliament recirculates an old video as settlers poisoning Palestinian sheep; the room says the Israeli on camera was trying to save the flock",
+      "summary": "JSR said on Monday that Rima Hassan, a French member of the European Parliament, had posted on X an old blood-libel clip, with the Al Jazeera logo, in which, she said, Israeli settlers were seen poisoning sheep belonging to Palestinian herders north of Ramallah. The post had about 28,000 views when JSR wrote. The room said the clip is old and that the truth about it had already been shown: the Israeli in the footage was not poisoning the flock but giving it charcoal water to try to save it after, JSR says, Arabs had poisoned the animals (<a href=\"https://t.me/JSR_HEB/573\">JSR</a>). The account of what the video shows is JSR's; Hassan's post was not opened independently for this edition.",
+      "source": "JSR",
+      "date": "2026-11-23",
+      "url": "https://t.me/JSR_HEB/573",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026"
+    },
+    {
+      "id": "2026-11-26-land-ai-olive-tree-videos-continue",
+      "section": "land",
+      "headline": "JSR: pro-Palestinian accounts keep circulating AI videos of Jews supposedly destroying Arab olive trees",
+      "summary": "JSR said on Monday that pro-Palestinian accounts were still publishing AI-generated videos of Jews supposedly destroying Arabs' olive trees. It named, among those spreading the clips, an anti-Zionist group called Voice of Rabbis, with more than 300,000 followers, and a Turkish activist, Abdurrazak Yildiz (<a href=\"https://t.me/JSR_HEB/579\">JSR</a>). This follows the Diaspora Ministry's finding, already on the 23 Nov edition, that a viral video of \"hilltop youth\" raiding a banana plantation near Nablus was made with AI. JSR's identifications of the accounts were not checked on a second outlet.",
+      "source": "JSR",
+      "date": "2026-11-24",
+      "url": "https://t.me/JSR_HEB/579",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026"
+    },
+    {
+      "id": "2026-11-26-attacks-terror-instruction-videos",
+      "section": "attacks",
+      "headline": "JSR: a video circulating on Arab social media tells viewers how to carry out attacks, including training in homes and orchards",
+      "summary": "JSR English reported on Tuesday evening that a video instructing viewers on how to carry out attacks against Jews was circulating on Arab social media. According to the room, the video tells viewers that even without dedicated training sites they can use civilian spaces such as homes and orchards (<a href=\"https://t.me/JSR_EN\">JSR English, 25 Nov</a>). This is JSR's account of the clip; the video itself was not opened from an original page for this edition.",
+      "source": "JSR English",
+      "date": "2026-11-25",
+      "url": "https://t.me/JSR_EN",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026"
+    },
+    {
+      "id": "2026-11-26-pa-fm-zubeidi-latam-lawmakers",
+      "section": "pa",
+      "headline": "JSR: PA foreign minister meets lawmakers from Brazil, Argentina and Colombia, with the released Fatah operative Zakaria Zubeidi in the room",
+      "summary": "JSR reported that on 23 November the Palestinian Authority foreign minister, Varsen Aghabekian Shahin, met a delegation of lawmakers from Brazil, Argentina and Colombia. Also at the meeting, it said, was Zakaria Zubeidi, a released prisoner who sits on Fatah's Central Committee, formerly the commander of the Al-Aqsa Martyrs' Brigades in Jenin and the man responsible for the 2002 attack on the Likud branch in Beit She'an, in which six Israelis were murdered, as well as many other attacks in the second intifada (<a href=\"https://t.me/JSR_HEB/577\">JSR</a>). The meeting and Zubeidi's presence are reported here as JSR's account; they were not confirmed in a second outlet opened for this edition.",
+      "source": "JSR",
+      "date": "2026-11-23",
+      "url": "https://t.me/JSR_HEB/577",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026"
+    },
+    {
+      "id": "2026-11-26-land-channel18-friedman-hershkop-debate",
+      "section": "land",
+      "headline": "Channel 18 announces a debate between David Friedman and hilltop activist Saadia Hershkop on Arabs under full Israeli sovereignty",
+      "summary": "On 25 November, Channel 18 Israel, the pro-settlement video channel founded by former U.S. ambassador David Friedman, and its interviewer Sam Schubert (X @samschub) announced a debate that night between Friedman and Saadia Hershkop, a Brooklyn-born hilltop youth activist, on \"what happens to the Arabs under full Israeli sovereignty\" (<a href=\"https://x.com/channel18israel/status/2125584256399200339\">Channel 18</a>; <a href=\"https://x.com/samschub/status/2125571788042096663\">Sam Schubert</a>). The channel called it \"not a mainstream debate\" and said the two men \"want the same end.\" The announcement posts were read; a finished recording was not opened for this edition, so the substance of the exchange is not summarized here.",
+      "source": "Channel 18 Israel / Sam Schubert",
+      "date": "2026-11-25",
+      "url": "https://x.com/channel18israel/status/2125584256399200339",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026"
+    },
+    {
+      "id": "2026-11-26-land-samaria-honors-wounded",
+      "section": "land",
+      "headline": "Samaria Regional Council holds a week of events for wounded soldiers, security forces and terror victims: Dagan calls them \"the defensive wall of the people of Israel\"",
+      "summary": "For the national day of honor, the Samaria Regional Council is holding a week of events, talks and performances for families of Israelis wounded in the army, in the security forces and in attacks. The program includes a morning of honor for wives of the wounded, cultural shows and a large gathering. Council head Yossi Dagan said, \"All of Samaria embraces you, you are the source of our strength — we salute your courage,\" and the council's materials used the phrase \"the defensive wall of the people of Israel\" (<a href=\"https://www.srugim.co.il/101017152-%D7%91%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%9F-%D7%9E%D7%A6%D7%93%D7%99%D7%A2%D7%99%D7%9D-%D7%9C%D7%A4%D7%A6%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%9E%D7%AA-%D7%94%D7%9E%D7%92%D7%9F-%D7%A9%D7%9C-%D7%A2%D7%9D\">Srugim</a>).",
+      "source": "Samaria Regional Council (via Srugim)",
+      "date": "2026-11-25",
+      "url": "https://www.srugim.co.il/101017152-%D7%91%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%9F-%D7%9E%D7%A6%D7%93%D7%99%D7%A2%D7%99%D7%9D-%D7%9C%D7%A4%D7%A6%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%9E%D7%AA-%D7%94%D7%9E%D7%92%D7%9F-%D7%A9%D7%9C-%D7%A2%D7%9D",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026"
+    },
+    {
+      "id": "2026-11-26-land-ayelet-lash-meir-laaretz-lambs",
+      "section": "land",
+      "headline": "Ayelet Lash: three lambs are born overnight at Meir La'aretz farm",
+      "summary": "Ayelet Lash, a right-wing activist and special-needs teacher from Rachelim in Samaria, and a must-check source for the desk, posted on Wednesday that three lambs had been born overnight at Meir La'aretz farm, and she sent good wishes to the ewe (<a href=\"https://x.com/ayeletlash9/status/2125685899866366242\">Ayelet Lash</a>). The post is her own farm-side report and was not confirmed in a second outlet.",
+      "source": "Ayelet Lash",
+      "date": "2026-11-25",
+      "url": "https://x.com/ayeletlash9/status/2125685899866366242",
+      "edition": "2026-11-26",
+      "published": "2026-11-26T07:45:00+02:00",
+      "letter": "PA security: 26 Nov 2026"
+    },
     {
       "id": "2026-11-23-land-1515-homes-karnei-shomron-harsha-etz-efraim",
       "section": "land",
