@@ -13351,6 +13351,312 @@
      "note": "Nominatim village point; the house is not mapped (approximate)"
     }
    ]
+  },
+  {
+   "id": "2026-11-28-pa-idf-plan-pa-forces-turn-guns",
+   "section": "pa",
+   "headline": "Makor Rishon: the army has shown the cabinet a plan for the day PA forces turn their guns on Israel; training in Qatar, China and Bangladesh now barred",
+   "summary": "Makor Rishon's military reporter Ze'ev Kam reports that the IDF presented the security cabinet with a plan for a scenario in which Palestinian Authority security forces turn their weapons against Israel (in Hebrew, \"reversal of barrels\"). Under the plan the PA would be defined as an enemy, and, in the words of the report, \"there will no longer be a Palestinian Authority.\" The deputy head of the Shin Bet told the ministers there is no concrete intelligence of such an attack. Central Command chief Avi Bluth said the PA had recently handed over a large number of weapons. The report also says Israel now bars PA forces from training in Qatar, China and Bangladesh, that anyone who trains there will not be let back in, and that training inside the area is allowed only in Jericho. Defense Minister Katz is quoted on tighter supervision of the PA (<a href=\"https://www.makorrishon.co.il/news/defence/article/397448\">Makor Rishon</a>). These details come from this one report; no other outlet read for this edition confirmed them, and there was no PA response.",
+   "source": "Makor Rishon",
+   "date": "2026-11-27",
+   "url": "https://www.makorrishon.co.il/news/defence/article/397448",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "lead": true,
+   "highlight": true,
+   "places": [
+    {
+     "name": "Jericho",
+     "lat": 31.8568,
+     "lon": 35.4597,
+     "note": "Nominatim (city point); the only place PA forces may now train, per the report"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-pa-beit-hanina-jihad-classes-indictment",
+   "section": "pa",
+   "headline": "Beit Hanina man, 22, indicted for urging students at his mosque \"jihad classes\" to carry out suicide attacks",
+   "summary": "Prosecutors indicted Malek Nashashibi, 22, of Beit Hanina in Jerusalem, for using classes he called jihad classes at the al-Da'wa mosque to try to persuade young men to carry out suicide attacks. According to the indictment, plans discussed in the group included a suicide attack on the Temple Mount by Abdallah Jamjoum, a combined attack at the Lions' Gate by Muhammad al-Azza, and attacks by Muhammad Shalabi (<a href=\"https://www.c14.co.il/article/1812317\">Channel 14</a>; <a href=\"https://www.bhol.co.il/news/1745777\">Behadrei Haredim</a>). These are the prosecution's charges; the defense response was not reported.",
+   "source": "Channel 14 / Behadrei Haredim",
+   "date": "2026-11-27",
+   "url": "https://www.c14.co.il/article/1812317",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Beit Hanina",
+     "lat": 31.8249,
+     "lon": 35.2277,
+     "note": "Nominatim (neighborhood point); the mosque is not mapped (approximate)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-land-hachalutzim-jordan-valley-standby",
+   "section": "land",
+   "headline": "220 pre-army academy students finish rifle training and become standby squads in nine Jordan Valley communities",
+   "summary": "Under the new \"Hachalutzim\" (\"the Pioneers\") program, 220 students from pre-army academies finished three weeks of training as riflemen and will now serve as standby security squads in nine communities in the Jordan Valley, among them Beit HaArava. The program was launched on 26 Nov (<a href=\"https://www.maariv.co.il/news/military/article-1392629\">Maariv</a>; <a href=\"https://www.ynet.co.il/yedioth/article/yokra14968969\">Yedioth Ahronoth via Ynet</a>).",
+   "source": "Maariv / Ynet",
+   "date": "2026-11-27",
+   "url": "https://www.maariv.co.il/news/military/article-1392629",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Beit HaArava",
+     "lat": 31.8087,
+     "lon": 35.4774,
+     "note": "Nominatim; one of the nine communities named"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-land-beit-anan-landfill-waste-burning",
+   "section": "land",
+   "headline": "Civil Administration and Jerusalem agree on a plan against illegal waste burning; Beit Anan landfill reopens Sunday for 22 villages",
+   "summary": "Jerusalem Mayor Moshe Leon and the acting head of the Civil Administration, Brig. Gen. (res.) Ilan Malka, agreed on a plan against the illegal burning of waste in Arab villages, whose smoke reaches Jerusalem neighborhoods and nearby Jewish communities. The landfill at Beit Anan will reopen on Sunday and serve 22 villages, and a joint environmental monitoring center with the Jerusalem municipality will be set up (<a href=\"https://www.kolhair.co.il/jerusalem-news/273299/\">Kol Ha'ir</a>; <a href=\"https://x.com/olam_katan/status/2126194400225013998\">Olam Katan</a>; <a href=\"https://x.com/simkha0404/status/2126191421262545044\">Simcha Raz</a>).",
+   "source": "Kol Ha'ir / Olam Katan / Simcha Raz",
+   "date": "2026-11-27",
+   "url": "https://www.kolhair.co.il/jerusalem-news/273299/",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Beit Anan",
+     "lat": 31.8511,
+     "lon": 35.1121,
+     "note": "Nominatim (village point); the landfill site is not mapped (approximate)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-land-pa-seeds-jordan-valley",
+   "section": "land",
+   "headline": "PA Agriculture Ministry hands out about 40 tons of seeds to 250 farmers in the Jordan Valley, focusing on land near Jewish communities",
+   "summary": "Olam Katan, Simcha Raz and Elisha Yered report that the PA Agriculture Ministry distributed about 40 tons of seeds to some 250 Palestinian farmers in the Jordan Valley, with a focus on land close to Jewish communities. They present it as part of the PA's effort to hold ground in Area C (<a href=\"https://x.com/olam_katan/status/2126230809564827851\">Olam Katan</a>; <a href=\"https://x.com/simkha0404/status/2126205948846903671\">Simcha Raz</a>; <a href=\"https://x.com/ElishaYered/status/2126201514821582965\">Elisha Yered</a>). A PA or Arabic-language source for the figures was not found; unconfirmed.",
+   "source": "Olam Katan / Simcha Raz / Elisha Yered",
+   "date": "2026-11-27",
+   "url": "https://x.com/olam_katan/status/2126230809564827851",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Jordan Valley (general)",
+     "lat": 31.95,
+     "lon": 35.45,
+     "note": "Approximate: general area; no specific place given"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-land-finance-committee-area-c-registration",
+   "section": "land",
+   "headline": "Knesset Finance Committee holds up Justice Ministry transfer after Arab and \"change bloc\" MKs object to money for land registration in Area C",
+   "summary": "A 183 million shekel budget transfer for the Justice Ministry was held up in the Knesset Finance Committee after Arab MKs and members of the \"change bloc\" objected to two lines: 3 million shekels for land registration in Area C and 1 million for Hebrew law. No vote was held. MKs Dorfman and Meridor and committee chair Avisar-Ben Horin are quoted (<a href=\"https://www.makorrishon.co.il/news/politcal/article/398006\">Makor Rishon</a>). Land registration in Area C is the process by which the state records ownership of land, which settlement supporters see as a basis for future building.",
+   "source": "Makor Rishon",
+   "date": "2026-11-27",
+   "url": "https://www.makorrishon.co.il/news/politcal/article/398006",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026"
+  },
+  {
+   "id": "2026-11-28-land-channel18-deterrence-qusra",
+   "section": "land",
+   "headline": "Channel 18: David Friedman says deterrence keeps Qusra from attacking; Saadia Hershkop says deterrence works better than fences",
+   "summary": "In Channel 18 clips, former US Ambassador David Friedman says deterrence is what keeps the village of Qusra from attacking nearby Jewish communities (<a href=\"https://x.com/channel18israel/status/2126284785773322706\">Channel 18</a>), and Saadia Hershkop says that October 7 showed that the best fences and technology can collapse, and that \"deterrence\" is what works in the Middle East (<a href=\"https://x.com/channel18israel/status/2126269184858296324\">Channel 18</a>).",
+   "source": "Channel 18",
+   "date": "2026-11-27",
+   "url": "https://x.com/channel18israel/status/2126284785773322706",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026"
+  },
+  {
+   "id": "2026-11-28-idf-katz-rejects-zamir-admin-detention",
+   "section": "idf",
+   "headline": "Kan: Katz again turns down the chief of staff's request for administrative detention of Jewish suspects; senior officers want police to handle it",
+   "summary": "According to Kan, reported by the Times of Israel, Defense Minister Katz rejected a renewed request by Chief of Staff Eyal Zamir for administrative detention and restraining orders against Jewish suspects in attacks on Palestinians. Senior officers want the police, not the army, to deal with Jewish violence. Channel 12 reported that about 70 suspects were arrested in recent weeks and all were released without indictment, and Shin Bet chief David Zini is reported to oppose administrative detention for them. Army Radio counted 181 attacks during the olive harvest (<a href=\"https://www.timesofisrael.com/katz-senior-idf-officers-said-resisting-proposed-steps-for-curbing-settler-violence/\">Times of Israel</a>). The release of all 70 without charges is the other side of these figures: no court has yet found evidence to charge them.",
+   "source": "Times of Israel (Kan, Channel 12, Army Radio)",
+   "date": "2026-11-27",
+   "url": "https://www.timesofisrael.com/katz-senior-idf-officers-said-resisting-proposed-steps-for-curbing-settler-violence/",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026"
+  },
+  {
+   "id": "2026-11-28-attacks-jordan-valley-six-pistols",
+   "section": "attacks",
+   "headline": "Jordan Valley Brigade finds six pistols in overnight searches on the eastern border",
+   "summary": "Troops of the Jordan Valley and Valleys Brigade found six pistols during searches along the eastern border with Jordan overnight Thursday to Friday (<a href=\"https://x.com/idfonline/status/2126293065866399985\">IDF</a>; <a href=\"https://www.inn.co.il/flashes/1142880\">Arutz 7</a>; <a href=\"https://www.c14.co.il/article/1812497\">Channel 14</a>; <a href=\"https://www.okn.co.il/security/85051/\">Olam Katan</a>).",
+   "source": "IDF / Arutz 7 / Channel 14 / Olam Katan",
+   "date": "2026-11-27",
+   "url": "https://x.com/idfonline/status/2126293065866399985",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Jordan Valley border area",
+     "lat": 31.95,
+     "lon": 35.53,
+     "note": "Approximate: the exact location was not given"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-attacks-jsr-olive-harvest-theater",
+   "section": "attacks",
+   "headline": "JSR: the same two \"local farmers\" filmed at olive harvest events in two different villages with left-wing activists",
+   "summary": "The JSR Situation Room published photos showing two Arab men at a Standing Together olive harvest event on Thursday on land said to belong to the village of Zeita in Samaria, and says the same two were filmed about two weeks earlier 30 km away at another harvest event with left-wing activists (<a href=\"https://x.com/JSR_HEB/status/2126268538973307146\">JSR, Hebrew</a>; <a href=\"https://x.com/JSR_EN/status/2126268141860782172\">JSR, English</a>). Elchanan Groner, who posted the photos first, says the two live in Deir Istiya and are \"borrowed\" farmers, possibly paid, brought to make a good picture for the media and the High Court (<a href=\"https://x.com/elchanangr/status/2126212744210739241\">Elchanan Groner</a>; the payment is his suggestion, not shown). On the same day Ultra Palestine claimed that settlers attacked olive pickers at Deir Istiya (see the brief item below).",
+   "source": "JSR Situation Room / Elchanan Groner",
+   "date": "2026-11-27",
+   "url": "https://x.com/JSR_HEB/status/2126268538973307146",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Zeita (Tulkarm area)",
+     "lat": 32.3853,
+     "lon": 35.0499,
+     "note": "Nominatim; approximate: JSR does not say which Zeita, but this one is about 30 km from Deir Istiya, matching its account"
+    },
+    {
+     "name": "Deir Istiya",
+     "lat": 32.1294,
+     "lon": 35.1437,
+     "note": "Nominatim (village point)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-attacks-jsr-hikers-tracked",
+   "section": "attacks",
+   "headline": "JSR: Arabs film Jewish hikers, share their location and follow them",
+   "summary": "The JSR Situation Room published a report that Arab residents film Jewish hikers in Judea and Samaria, share their location in group chats and follow them on the trail (<a href=\"https://x.com/JSR_HEB/status/2126291226198446526\">JSR</a>).",
+   "source": "JSR Situation Room",
+   "date": "2026-11-27",
+   "url": "https://x.com/JSR_HEB/status/2126291226198446526",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026"
+  },
+  {
+   "id": "2026-11-28-attacks-mel-duncan-detained",
+   "section": "attacks",
+   "headline": "American activist Mel Duncan held after a tour in the Jordan Valley; passport taken, deportation expected",
+   "summary": "Police stopped a bus returning from a West Bank tour and detained Mel Duncan, a co-founder of the group UCPiP, and took his passport; he faces deportation. Earlier that day the security coordinator of Mevo'ot Yericho had confronted the tour group in al-Auja. Duncan was taken to the Ma'ale Adumim police station. The Times of Israel says the grounds for the arrest were not clear (<a href=\"https://www.timesofisrael.com/liveblog_entry/us-activist-detained-after-police-stop-bus-returning-from-west-bank-tour-grounds-for-arrest-unclear/\">Times of Israel</a>).",
+   "source": "Times of Israel",
+   "date": "2026-11-27",
+   "url": "https://www.timesofisrael.com/liveblog_entry/us-activist-detained-after-police-stop-bus-returning-from-west-bank-tour-grounds-for-arrest-unclear/",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "al-Auja",
+     "lat": 31.949,
+     "lon": 35.4655,
+     "note": "Nominatim (village point)"
+    },
+    {
+     "name": "Mevo'ot Yericho",
+     "lat": 31.908,
+     "lon": 35.4171,
+     "note": "Nominatim"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-attacks-pa-side-claims-28-nov",
+   "section": "attacks",
+   "headline": "In brief, Palestinian-side claims: Idhna prayer broken up, stones at Lubban, Deir Istiya pickers, B'Tselem testimony",
+   "summary": "Raya says Israeli forces broke up a Friday prayer held against settlement near Idhna and detained farmers and foreign activists near Karmei Tzur in the Halhul area (<a href=\"https://www.raya.ps/news/1229666.html\">Raya</a>), and that settlers threw stones at cars between Lubban al-Sharqiya and Salfit (<a href=\"https://www.raya.ps/news/1229660.html\">Raya</a>). Ultra Palestine claims settlers attacked olive pickers at Deir Istiya (<a href=\"https://x.com/palestineultra/status/2126321585623830827\">Ultra Palestine</a>); compare the JSR report above on the same village's \"farmers.\" B'Tselem posted testimony about the deaths at al-Mughayyir on 21 April (<a href=\"https://x.com/btselem/status/2126267275481149922\">B'Tselem</a>). These are the sources' own claims, not confirmed by Israeli sources.",
+   "source": "Raya / Ultra Palestine / B'Tselem",
+   "date": "2026-11-27",
+   "url": "https://www.raya.ps/news/1229666.html",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Idhna",
+     "lat": 31.558,
+     "lon": 34.9763,
+     "note": "Nominatim (village point)"
+    },
+    {
+     "name": "Karmei Tzur",
+     "lat": 31.6092,
+     "lon": 35.1009,
+     "note": "Nominatim"
+    },
+    {
+     "name": "Lubban al-Sharqiya",
+     "lat": 32.0713,
+     "lon": 35.2412,
+     "note": "Nominatim (village council point)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-negev-kafr-qasim-ramming-motive",
+   "section": "negev",
+   "headline": "Kafr Qasim ramming: police suspect a racist motive; suspect's custody extended by five days",
+   "summary": "Police suspect a racist motive in the car-ramming at Kafr Qasim in which eight people were hurt; the suspect, from the north of the country, had his custody extended by five days (<a href=\"https://www.ynet.co.il/news/article/s1uiva817g\">Ynet</a>). Haaretz reports in a headline that he said he wanted to hurt Arabs \"because of October 7,\" and that the Shin Bet declined to take the investigation (Haaretz article behind a paywall; only the headline was read).",
+   "source": "Ynet / Haaretz",
+   "date": "2026-11-27",
+   "url": "https://www.ynet.co.il/news/article/s1uiva817g",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Kafr Qasim",
+     "lat": 32.1152,
+     "lon": 34.9753,
+     "note": "Nominatim (town point)"
+    }
+   ]
+  },
+  {
+   "id": "2026-11-28-negev-from-the-right-mansour-abbas-hamas",
+   "section": "negev",
+   "headline": "From the right: Mansour Abbas expected to call Hamas a terror group as Ra'am seeks ministries; the right calls it a show",
+   "summary": "Ra'am leader Mansour Abbas is expected to declare Hamas a terror organization on Saturday night or early next week (<a href=\"https://www.ynet.co.il/news/article/sjdphj8k7g\">Ynet</a>). Mako reports that Ra'am will ask for minister posts for Abbas and Segalovich and pledges full cooperation, including on extending the Judea and Samaria emergency regulations; a security detail has been assigned to Abbas, who was to give an interview on Saturday at 20:00 (<a href=\"https://www.mako.co.il/news-politics/2026_q4/Article-096d80e511e12a1026.htm\">Mako</a>). From the right: Defense Minister Katz likened Abbas to Sinwar, saying \"the strategy is exactly the same\" (<a href=\"https://www.srugim.co.il/101017272-כץ-משווה-את-עבאס-לסינוואר-האסטרטגיה-זהה-לחלוטין\">Srugim</a>). Likud said the public was about to see \"a false show\" written by the left bloc, and that Abbas heads the Islamic Movement, an offshoot of the Muslim Brotherhood (<a href=\"https://x.com/elchanangr/status/2126271975257448893\">Likud statement, via Elchanan Groner</a>). Meir Ettinger says that in the past two months Abbas has used the idea of \"risk management\" at least five times, an idea he links to the \"doctrine of balances\" of the Muslim Brotherhood cleric Yusuf al-Qaradawi, who used it to justify political partnerships and outward loyalty to a constitution (<a href=\"https://x.com/meiretingr/status/2126276200431595739\">Meir Ettinger</a>). Ettinger also says that making Segalovich public security minister would mean Muslim Brotherhood control of the police (<a href=\"https://x.com/meiretingr/status/2126274289557189113\">Meir Ettinger</a>). Haim Omri recalls Abbas's words that every step Ra'am takes serves the interest of the Islamic Movement (<a href=\"https://x.com/HaimOmri/status/2126277216795316277\">Haim Omri</a>). Moran Tal shared an analysis by Gershon Hacohen arguing that the West fails to study Islam and the idea of jihad that drives the enemy (<a href=\"https://x.com/MoranT555/status/2126247356072866047\">Moran Tal</a>).",
+   "source": "Ynet / Mako / Srugim / Meir Ettinger / Haim Omri / Moran Tal",
+   "date": "2026-11-27",
+   "url": "https://www.ynet.co.il/news/article/sjdphj8k7g",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026"
+  },
+  {
+   "id": "2026-11-28-negev-lod-weapons-illegal-residents",
+   "section": "negev",
+   "headline": "Lod: police find an Uzi, a pistol and two cars with forged plates; 11 illegal residents held",
+   "summary": "A Central District and Border Police operation in Lod found two cars with forged license plates, an Uzi submachine gun, a pistol and ammunition, and detained 11 Palestinians staying in Israel illegally (<a href=\"https://www.maariv.co.il/news/law/article-1392760\">Maariv</a>). Ayelet Lash calls such cases \"national terror\" (her framing; <a href=\"https://x.com/ayeletlash9/status/2126237695382815087\">Ayelet Lash</a>).",
+   "source": "Maariv / Ayelet Lash",
+   "date": "2026-11-27",
+   "url": "https://www.maariv.co.il/news/law/article-1392760",
+   "edition": "2026-11-28",
+   "published": "2026-11-28T05:00:00+02:00",
+   "letter": "PA security: 28 Nov 2026",
+   "places": [
+    {
+     "name": "Lod",
+     "lat": 31.9489,
+     "lon": 34.8885,
+     "note": "Nominatim (city point); exact location not given (approximate)"
+    }
+   ]
   }
  ],
  "highlight_count": 4,
